@@ -3,7 +3,7 @@ title: Coverage
 second_title: Aspose.CAD for .NET API Reference
 description: 
 type: docs
-weight: 4430
+weight: 4420
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/coverage/
 ---
 ## Coverage class
