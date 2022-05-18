@@ -24,7 +24,7 @@ public class Coverage : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [GeographicLocation](geographiclocation) { get; set; } | Gets or sets the geographic location. Specifies the location of the asset using the WGS84 coordinate system. |
+| [GeographicLocation](../../aspose.cad.fileformats.collada.fileparser.elements/coverage/geographiclocation) { get; set; } | Gets or sets the geographic location. Specifies the location of the asset using the WGS84 coordinate system. |
 
 ### See Also
 
