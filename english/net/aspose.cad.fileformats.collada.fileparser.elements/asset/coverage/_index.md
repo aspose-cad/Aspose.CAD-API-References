@@ -18,7 +18,7 @@ public Coverage Coverage { get; set; }
 
 * class [Coverage](../../coverage/)
 * class [Asset](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../asset/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

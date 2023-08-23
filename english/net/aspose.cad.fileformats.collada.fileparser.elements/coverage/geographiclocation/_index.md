@@ -18,7 +18,7 @@ public GeographicLocation GeographicLocation { get; set; }
 
 * class [GeographicLocation](../../geographiclocation/)
 * class [Coverage](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../coverage/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
 * assembly [Aspose.CAD](../../../)
 
 

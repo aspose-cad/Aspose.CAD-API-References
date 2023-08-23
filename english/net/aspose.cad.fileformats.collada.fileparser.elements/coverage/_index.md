@@ -3,7 +3,7 @@ title: Class Coverage
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Coverage class. The coverage. Specifies the location of the asset using the WGS84 coordinate system
 type: docs
-weight: 7280
+weight: 7370
 url: /net/aspose.cad.fileformats.collada.fileparser.elements/coverage/
 ---
 ## Coverage class
