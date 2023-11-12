@@ -3,7 +3,7 @@ title: Class Resources
 second_title: Aspose.CAD for .NET API Reference
 description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.Resources class. The resources. The Canvas and FixedPage elements can carry a resource dictionary. A resource dictionary is expressed in markup by the FixedPage.Resources or Canvas.Resources property element. Individual resource values MUST be specified within a resource dictionary
 type: docs
-weight: 9340
+weight: 9360
 url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resources/
 ---
 ## Resources class
