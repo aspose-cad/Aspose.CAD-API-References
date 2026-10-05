@@ -1,10 +1,13 @@
 ---
-title: CadSectionManager.RequiresFullUpdateFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionManager property. Gets or sets the requires full update flag
+title: "CadSectionManager.RequiresFullUpdateFlag"
+linktitle: "RequiresFullUpdateFlag"
+articleTitle: "RequiresFullUpdateFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionManager property. Gets or sets the requires full update flag."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/requiresfullupdateflag/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/requiresfullupdateflag/"
+product_version: "26.9"
 ---
 ## CadSectionManager.RequiresFullUpdateFlag property
 
@@ -20,8 +23,7 @@ The requires full update flag.
 
 ### See Also
 
-* class [CadSectionManager](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionManager](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

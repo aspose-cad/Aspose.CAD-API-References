@@ -1,10 +1,14 @@
 ---
-title: Class Cad2DPoint
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.Cad2DPoint class. The Cad 2D point
+title: "Cad2DPoint Class"
+linktitle: "Cad2DPoint"
+articleTitle: "Cad2DPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.Cad2DPoint class. The Cad 2D point."
 type: docs
-weight: 2120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/"
+keywords: "Cad2DPoint, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Cad2DPoint class
 
@@ -19,14 +23,14 @@ public class Cad2DPoint
 | Name | Description |
 | --- | --- |
 | [Cad2DPoint](cad2dpoint/#constructor)() | Initializes a new instance of the `Cad2DPoint` class. |
-| [Cad2DPoint](cad2dpoint/#constructor_1)(double, double) | Initializes a new instance of the `Cad2DPoint` class. |
+| [Cad2DPoint](cad2dpoint/#constructor_1)(double, double) | Initializes a new instance of the `Cad2DPoint` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [X](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/x/) { get; set; } | Gets or sets the x. |
-| [Y](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/y/) { get; set; } | Gets or sets the y. |
+| [X](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/x/) { get; set; } | Gets or sets the x. |
+| [Y](../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/y/) { get; set; } | Gets or sets the y. |
 
 ## Methods
 
@@ -37,7 +41,6 @@ public class Cad2DPoint
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
 

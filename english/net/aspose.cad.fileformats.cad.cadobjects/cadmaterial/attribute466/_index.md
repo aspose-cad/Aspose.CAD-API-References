@@ -1,10 +1,13 @@
 ---
-title: CadMaterial.Attribute466
-second_title: Aspose.CAD for .NET API Reference
-description: CadMaterial property. Gets or sets the attribute466
+title: "CadMaterial.Attribute466"
+linktitle: "Attribute466"
+articleTitle: "Attribute466"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMaterial property. Gets or sets the attribute466."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute466/
+weight: 560
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute466/"
+product_version: "26.9"
 ---
 ## CadMaterial.Attribute466 property
 
@@ -20,8 +23,7 @@ The attribute466.
 
 ### See Also
 
-* class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMaterial](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

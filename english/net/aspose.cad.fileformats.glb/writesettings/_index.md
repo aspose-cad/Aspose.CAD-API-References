@@ -1,14 +1,18 @@
 ---
-title: Class WriteSettings
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.WriteSettings class. Write settings and base class of WriteContext
+title: "WriteSettings Class"
+linktitle: "WriteSettings"
+articleTitle: "WriteSettings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.WriteSettings class. Write settings and base class of WriteContext"
 type: docs
-weight: 11870
-url: /net/aspose.cad.fileformats.glb/writesettings/
+weight: 640
+url: "/net/aspose.cad.fileformats.glb/writesettings/"
+keywords: "WriteSettings, Aspose.CAD.FileFormats.GLB, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## WriteSettings class
 
-Write settings and base class of WriteContext
+Write settings and base class of `WriteContext`
 
 ```csharp
 public class WriteSettings
@@ -19,18 +23,18 @@ public class WriteSettings
 | Name | Description |
 | --- | --- |
 | [WriteSettings](writesettings/#constructor)() | The default constructor. |
-| [WriteSettings](writesettings/#constructor_1)(WriteSettings) |  |
+| [WriteSettings](writesettings/#constructor_1)(WriteSettings) | Initializes a new instance of the WriteSettings class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BuffersMaxSize](../../aspose.cad.fileformats.glb/writesettings/buffersmaxsize/) { get; set; } | Gets or sets the size used to split all the resources into individual buffers. |
-| [ImageWriting](../../aspose.cad.fileformats.glb/writesettings/imagewriting/) { get; set; } | Gets or sets a value indicating how to write the images of the model. |
-| [JsonIndented](../../aspose.cad.fileformats.glb/writesettings/jsonindented/) { get; set; } | Gets or sets a value indicating whether the JSON formatting will include indentation. |
-| [JsonPostprocessor](../../aspose.cad.fileformats.glb/writesettings/jsonpostprocessor/) { get; set; } | Gets or sets the callback used to postprocess the json text before parsing it. |
-| [MergeBuffers](../../aspose.cad.fileformats.glb/writesettings/mergebuffers/) { get; set; } | Gets or sets a value indicating whether to merge all the buffers in !:GlbImage.LogicalBuffers into a single buffer. |
-| [Validation](../../aspose.cad.fileformats.glb/writesettings/validation/) { get; set; } | Gets or sets a value indicating the level of validation applied when loading a file. |
+| [BuffersMaxSize](../../aspose.cad.fileformats.glb/writesettings/buffersmaxsize/) { get; set; } | Gets or sets the size used to split all the resources into individual buffers. |
+| [ImageWriting](../../aspose.cad.fileformats.glb/writesettings/imagewriting/) { get; set; } | Gets or sets a value indicating how to write the images of the model. |
+| [JsonIndented](../../aspose.cad.fileformats.glb/writesettings/jsonindented/) { get; set; } | Gets or sets a value indicating whether the JSON formatting will include indentation. |
+| [JsonPostprocessor](../../aspose.cad.fileformats.glb/writesettings/jsonpostprocessor/) { get; set; } | Gets or sets the callback used to postprocess the json text before parsing it. |
+| [MergeBuffers](../../aspose.cad.fileformats.glb/writesettings/mergebuffers/) { get; set; } | Gets or sets a value indicating whether to merge all the buffers in LogicalBuffers into a single buffer. |
+| [Validation](../../aspose.cad.fileformats.glb/writesettings/validation/) { get; set; } | Gets or sets a value indicating the level of validation applied when loading a file. |
 
 ## Methods
 
@@ -41,7 +45,6 @@ public class WriteSettings
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

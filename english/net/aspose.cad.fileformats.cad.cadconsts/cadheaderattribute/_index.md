@@ -1,10 +1,13 @@
 ---
-title: Enum CadHeaderAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadHeaderAttribute enum. Contains Header Variable names
+title: "CadHeaderAttribute Enum"
+linktitle: "CadHeaderAttribute"
+articleTitle: "CadHeaderAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadHeaderAttribute enum. Contains Header Variable names"
 type: docs
-weight: 1340
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadheaderattribute/
+weight: 190
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadheaderattribute/"
+product_version: "26.9"
 ---
 ## CadHeaderAttribute enumeration
 
@@ -347,7 +350,6 @@ public enum CadHeaderAttribute
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

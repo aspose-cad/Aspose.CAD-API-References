@@ -1,12 +1,17 @@
 ---
-title: Toolkit.WithTranslationAnimation
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. 
+title: "Toolkit.WithTranslationAnimation"
+linktitle: "WithTranslationAnimation"
+articleTitle: "WithTranslationAnimation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method."
 type: docs
-weight: 500
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withtranslationanimation/
+weight: 600
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withtranslationanimation/"
+product_version: "26.9"
 ---
-## WithTranslationAnimation(this Node, string, ICurveSampler&lt;Vector3&gt;) {#withtranslationanimation}
+## WithTranslationAnimation(this Node, string, ICurveSampler&lt;Vector3&gt;) {#withtranslationanimation}
+
+
 
 ```csharp
 public static Node WithTranslationAnimation(this Node node, string animationName, 
@@ -15,15 +20,17 @@ public static Node WithTranslationAnimation(this Node node, string animationName
 
 ### See Also
 
-* class [Node](../../../aspose.cad.fileformats.glb/node/)
-* interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
+* class [Node](../../../aspose.cad.fileformats.glb/node/)
+* interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## WithTranslationAnimation(this Node, string, IReadOnlyDictionary&lt;float, Vector3&gt;) {#withtranslationanimation_1}
+## WithTranslationAnimation(this Node, string, IReadOnlyDictionary&lt;float, Vector3&gt;) {#withtranslationanimation_1}
+
+
 
 ```csharp
 public static Node WithTranslationAnimation(this Node node, string animationName, 
@@ -32,9 +39,8 @@ public static Node WithTranslationAnimation(this Node node, string animationName
 
 ### See Also
 
-* class [Node](../../../aspose.cad.fileformats.glb/node/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../../../aspose.cad.fileformats.glb/node/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

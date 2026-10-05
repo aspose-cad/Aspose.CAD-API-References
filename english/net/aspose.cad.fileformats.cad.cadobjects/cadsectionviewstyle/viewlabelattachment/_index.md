@@ -1,10 +1,13 @@
 ---
-title: CadSectionViewStyle.ViewLabelAttachment
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionViewStyle property. The ViewLabel Attachment
+title: "CadSectionViewStyle.ViewLabelAttachment"
+linktitle: "ViewLabelAttachment"
+articleTitle: "ViewLabelAttachment"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionViewStyle property. The ViewLabel Attachment"
 type: docs
-weight: 370
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/viewlabelattachment/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/viewlabelattachment/"
+product_version: "26.9"
 ---
 ## CadSectionViewStyle.ViewLabelAttachment property
 
@@ -16,8 +19,7 @@ public int ViewLabelAttachment { get; set; }
 
 ### See Also
 
-* class [CadSectionViewStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionViewStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

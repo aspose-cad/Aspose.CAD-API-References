@@ -1,10 +1,13 @@
 ---
-title: CadHatch.PatternDefinitions
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the pattern definitions
+title: "CadHatch.PatternDefinitions"
+linktitle: "PatternDefinitions"
+articleTitle: "PatternDefinitions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the pattern definitions."
 type: docs
-weight: 260
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/patterndefinitions/
+weight: 350
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/patterndefinitions/"
+product_version: "26.9"
 ---
 ## CadHatch.PatternDefinitions property
 
@@ -16,9 +19,8 @@ public List<CadHatchPatternData> PatternDefinitions { get; set; }
 
 ### See Also
 
-* class [CadHatchPatternData](../../cadhatchpatterndata/)
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatchPatternData](../../cadhatchpatterndata/)
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

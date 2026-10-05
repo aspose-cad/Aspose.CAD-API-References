@@ -1,10 +1,13 @@
 ---
-title: CadAcDbAssocPersSubentManager.Attribute290
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcDbAssocPersSubentManager property. Gets or sets the attribute290
+title: "CadAcDbAssocPersSubentManager.Attribute290"
+linktitle: "Attribute290"
+articleTitle: "Attribute290"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcDbAssocPersSubentManager property. Gets or sets the attribute290."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbassocperssubentmanager/attribute290/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbassocperssubentmanager/attribute290/"
+product_version: "26.9"
 ---
 ## CadAcDbAssocPersSubentManager.Attribute290 property
 
@@ -20,8 +23,7 @@ The attribute290.
 
 ### See Also
 
-* class [CadAcDbAssocPersSubentManager](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcDbAssocPersSubentManager](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/)
+* assembly [Aspose.CAD](../../../)
 

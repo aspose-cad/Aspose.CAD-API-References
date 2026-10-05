@@ -1,10 +1,13 @@
 ---
-title: CadVertexBase.EndingWidth
-second_title: Aspose.CAD for .NET API Reference
-description: CadVertexBase property. Gets or sets the ending width
+title: "CadVertexBase.EndingWidth"
+linktitle: "EndingWidth"
+articleTitle: "EndingWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVertexBase property. Gets or sets the ending width."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexbase/endingwidth/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexbase/endingwidth/"
+product_version: "26.9"
 ---
 ## CadVertexBase.EndingWidth property
 
@@ -16,8 +19,7 @@ public virtual double EndingWidth { get; set; }
 
 ### See Also
 
-* class [CadVertexBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVertexBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

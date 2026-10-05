@@ -1,10 +1,13 @@
 ---
-title: DgnTagValue.DgnTagValue
-second_title: Aspose.CAD for .NET API Reference
-description: DgnTagValue constructor. Initializes a new instance of the DgnTagValue class
+title: "DgnTagValue.DgnTagValue"
+linktitle: "DgnTagValue"
+articleTitle: "DgnTagValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnTagValue constructor. Initializes a new instance of the DgnTagValue class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn/dgntagvalue/dgntagvalue/
+url: "/net/aspose.cad.fileformats.dgn/dgntagvalue/dgntagvalue/"
+product_version: "26.9"
 ---
 ## DgnTagValue constructor
 
@@ -22,8 +25,7 @@ public DgnTagValue(ushort type, byte[] rawData, int nDataOffset)
 
 ### See Also
 
-* class [DgnTagValue](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnTagValue](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadViewport.OriginUcs
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the origin UCS
+title: "CadViewport.OriginUcs"
+linktitle: "OriginUcs"
+articleTitle: "OriginUcs"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the origin UCS."
 type: docs
 weight: 210
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/originucs/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/originucs/"
+product_version: "26.9"
 ---
 ## CadViewport.OriginUcs property
 
@@ -16,9 +19,8 @@ public Cad3DPoint OriginUcs { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

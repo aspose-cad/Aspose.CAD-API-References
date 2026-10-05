@@ -1,10 +1,13 @@
 ---
-title: CadVportTableObject.LensLength
-second_title: Aspose.CAD for .NET API Reference
-description: CadVportTableObject property. Gets or sets the length of the lens
+title: "CadVportTableObject.LensLength"
+linktitle: "LensLength"
+articleTitle: "LensLength"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVportTableObject property. Gets or sets the length of the lens."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/lenslength/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/lenslength/"
+product_version: "26.9"
 ---
 ## CadVportTableObject.LensLength property
 
@@ -20,8 +23,7 @@ The length of the lens.
 
 ### See Also
 
-* class [CadVportTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVportTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

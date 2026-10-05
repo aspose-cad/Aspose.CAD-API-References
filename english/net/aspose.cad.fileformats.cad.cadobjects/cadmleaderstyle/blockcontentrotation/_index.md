@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.BlockContentRotation
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the block content rotation
+title: "CadMLeaderStyle.BlockContentRotation"
+linktitle: "BlockContentRotation"
+articleTitle: "BlockContentRotation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the block content rotation."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/blockcontentrotation/
+weight: 370
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/blockcontentrotation/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.BlockContentRotation property
 
@@ -20,8 +23,7 @@ The block content rotation.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

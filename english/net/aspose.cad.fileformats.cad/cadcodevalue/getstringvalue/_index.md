@@ -1,10 +1,13 @@
 ---
-title: CadCodeValue.GetStringValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadCodeValue method. Gets the string value
+title: "CadCodeValue.GetStringValue"
+linktitle: "GetStringValue"
+articleTitle: "GetStringValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCodeValue method. Gets the string value."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad/cadcodevalue/getstringvalue/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad/cadcodevalue/getstringvalue/"
+product_version: "26.9"
 ---
 ## CadCodeValue.GetStringValue method
 
@@ -20,8 +23,7 @@ Value as string
 
 ### See Also
 
-* class [CadCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Stl.StlObjects
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains classes for STL models
+title: "Aspose.CAD.FileFormats.Stl.StlObjects"
+linktitle: "Aspose.CAD.FileFormats.Stl.StlObjects"
+articleTitle: "Aspose.CAD.FileFormats.Stl.StlObjects"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains classes for STL models."
 type: docs
-weight: 1100
-url: /net/aspose.cad.fileformats.stl.stlobjects/
+weight: 10
+url: "/net/aspose.cad.fileformats.stl.stlobjects/"
+keywords: "Aspose.CAD.FileFormats.Stl.StlObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains classes for STL models.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -19,5 +27,4 @@ The namespace contains classes for STL models.
 | [StlShape](./stlshape/) | Represents a shape object for Stl format. Contains information about set of faces with corresponding material, vertex, texture, and normal indices. |
 | [TriangularFacet](./triangularfacet/) | Triangular facet of the surface. |
 | [VertexDataUnit](./vertexdataunit/) | The coordinates of the vertices triangle facets. |
-
 

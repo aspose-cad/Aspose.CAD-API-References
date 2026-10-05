@@ -1,14 +1,18 @@
 ---
-title: Curves.Curve
-second_title: Aspose.CAD for .NET API Reference
-description: Curves property. Gets or sets the curve. Describes a single curve
+title: "Curves.Curve"
+linktitle: "Curve"
+articleTitle: "Curve"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Curves property. Gets or sets the curve. Describes a single curve."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/curves/curve/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/curves/curve/"
+product_version: "26.9"
 ---
 ## Curves.Curve property
 
-Gets or sets the curve. Describes a single curve.
+Gets or sets the curve.
+ Describes a single curve.
 
 ```csharp
 public Curve[] Curve { get; set; }
@@ -16,9 +20,8 @@ public Curve[] Curve { get; set; }
 
 ### See Also
 
-* class [Curve](../../curve/)
-* class [Curves](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Curve](../../curve/)
+* class [Curves](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

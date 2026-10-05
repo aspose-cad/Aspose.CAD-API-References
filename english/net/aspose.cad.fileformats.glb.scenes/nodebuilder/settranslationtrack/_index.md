@@ -1,12 +1,17 @@
 ---
-title: NodeBuilder.SetTranslationTrack
-second_title: Aspose.CAD for .NET API Reference
-description: NodeBuilder method. 
+title: "NodeBuilder.SetTranslationTrack"
+linktitle: "SetTranslationTrack"
+articleTitle: "SetTranslationTrack"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NodeBuilder method."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.glb.scenes/nodebuilder/settranslationtrack/
+weight: 160
+url: "/net/aspose.cad.fileformats.glb.scenes/nodebuilder/settranslationtrack/"
+product_version: "26.9"
 ---
 ## NodeBuilder.SetTranslationTrack method
+
+
 
 ```csharp
 public void SetTranslationTrack(string track, ICurveSampler<Vector3> curve)
@@ -14,9 +19,8 @@ public void SetTranslationTrack(string track, ICurveSampler<Vector3> curve)
 
 ### See Also
 
-* interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
-* class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
+* class [NodeBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

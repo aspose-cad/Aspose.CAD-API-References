@@ -1,14 +1,19 @@
 ---
-title: Class Rotate
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Rotate class. The rotate. The rotate element contains an angle and a mathematical vector that represents the axis of rotation
+title: "Rotate Class"
+linktitle: "Rotate"
+articleTitle: "Rotate"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.Rotate class. The rotate. The rotate element contains an angle and a mathematical vector that represents t..."
 type: docs
-weight: 8340
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/rotate/
+weight: 1030
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/rotate/"
+keywords: "Rotate, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Rotate class
 
-The rotate. The rotate element contains an angle and a mathematical vector that represents the axis of rotation.
+The rotate.
+ The rotate element contains an angle and a mathematical vector that represents the axis of rotation.
 
 ```csharp
 public class Rotate : TargetableFloat4
@@ -24,13 +29,12 @@ public class Rotate : TargetableFloat4
 
 | Name | Description |
 | --- | --- |
-| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat4/sid/) { get; set; } | Gets or sets the sid. |
-| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat4/text/) { get; set; } | Gets or sets the value float4 as text. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat4/sid/) { get; set; } | Gets or sets the sid. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat4/text/) { get; set; } | Gets or sets the value float4 as text. |
 
 ### See Also
 
-* class [TargetableFloat4](../targetablefloat4/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [TargetableFloat4](../targetablefloat4/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

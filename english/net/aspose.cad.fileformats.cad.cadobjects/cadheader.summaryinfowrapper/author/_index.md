@@ -1,10 +1,13 @@
 ---
-title: CadHeader.SummaryInfoWrapper.Author
-second_title: Aspose.CAD for .NET API Reference
-description: SummaryInfoWrapper property. Gets or sets the author
+title: "CadHeader.SummaryInfoWrapper.Author"
+linktitle: "Author"
+articleTitle: "Author"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SummaryInfoWrapper property. Gets or sets the author."
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadheader.summaryinfowrapper/author/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadheader.summaryinfowrapper/author/"
+product_version: "26.9"
 ---
 ## CadHeader.SummaryInfoWrapper.Author property
 
@@ -20,8 +23,7 @@ The author.
 
 ### See Also
 
-* class [SummaryInfoWrapper](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoWrapper](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

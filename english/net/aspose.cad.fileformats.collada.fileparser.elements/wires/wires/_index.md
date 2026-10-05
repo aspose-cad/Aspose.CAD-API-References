@@ -1,10 +1,13 @@
 ---
-title: Wires.Wires
-second_title: Aspose.CAD for .NET API Reference
-description: Wires constructor. The default constructor
+title: "Wires.Wires"
+linktitle: "Wires"
+articleTitle: "Wires"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Wires constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/wires/wires/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/wires/wires/"
+product_version: "26.9"
 ---
 ## Wires constructor
 
@@ -16,8 +19,7 @@ public Wires()
 
 ### See Also
 
-* class [Wires](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Wires](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

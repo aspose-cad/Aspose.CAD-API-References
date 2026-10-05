@@ -1,10 +1,13 @@
 ---
-title: DgnCompoundElement.MaxPoint
-second_title: Aspose.CAD for .NET API Reference
-description: DgnCompoundElement property. Gets the max point of object
+title: "DgnCompoundElement.MaxPoint"
+linktitle: "MaxPoint"
+articleTitle: "MaxPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnCompoundElement property. Gets the max point of object."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/maxpoint/
+weight: 50
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/maxpoint/"
+product_version: "26.9"
 ---
 ## DgnCompoundElement.MaxPoint property
 
@@ -20,9 +23,8 @@ Max point of object.
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [DgnCompoundElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [DgnCompoundElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

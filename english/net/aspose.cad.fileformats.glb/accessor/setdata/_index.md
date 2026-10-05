@@ -1,10 +1,13 @@
 ---
-title: Accessor.SetData
-second_title: Aspose.CAD for .NET API Reference
-description: Accessor method. Associates this Accessor with a BufferView
+title: "Accessor.SetData"
+linktitle: "SetData"
+articleTitle: "SetData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Accessor method. Associates this Accessor with a BufferView"
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.glb/accessor/setdata/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb/accessor/setdata/"
+product_version: "26.9"
 ---
 ## Accessor.SetData method
 
@@ -26,11 +29,10 @@ public void SetData(BufferView buffer, int bufferByteOffset, int itemCount,
 
 ### See Also
 
-* class [BufferView](../../bufferview/)
-* enum [DimensionType](../../dimensiontype/)
-* enum [EncodingType](../../encodingtype/)
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BufferView](../../bufferview/)
+* enum [DimensionType](../../dimensiontype/)
+* enum [EncodingType](../../encodingtype/)
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

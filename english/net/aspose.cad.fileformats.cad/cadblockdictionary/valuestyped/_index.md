@@ -1,10 +1,13 @@
 ---
-title: CadBlockDictionary.ValuesTyped
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockDictionary property. Gets the strongly typed values collection
+title: "CadBlockDictionary.ValuesTyped"
+linktitle: "ValuesTyped"
+articleTitle: "ValuesTyped"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockDictionary property. Gets the strongly typed values collection."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad/cadblockdictionary/valuestyped/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad/cadblockdictionary/valuestyped/"
+product_version: "26.9"
 ---
 ## CadBlockDictionary.ValuesTyped property
 
@@ -20,9 +23,8 @@ The strongly typed values collection.
 
 ### See Also
 
-* class [CadBlockEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/)
-* class [CadBlockDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/)
+* class [CadBlockDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

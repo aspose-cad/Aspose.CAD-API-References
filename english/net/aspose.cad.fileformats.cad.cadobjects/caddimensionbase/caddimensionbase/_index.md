@@ -1,10 +1,13 @@
 ---
-title: CadDimensionBase.CadDimensionBase
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionBase constructor. Initializes a new instance of the CadDimensionBase class
+title: "CadDimensionBase.CadDimensionBase"
+linktitle: "CadDimensionBase"
+articleTitle: "CadDimensionBase"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionBase constructor. Initializes a new instance of the CadDimensionBase class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/caddimensionbase/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/caddimensionbase/"
+product_version: "26.9"
 ---
 ## CadDimensionBase constructor
 
@@ -16,8 +19,7 @@ public CadDimensionBase()
 
 ### See Also
 
-* class [CadDimensionBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

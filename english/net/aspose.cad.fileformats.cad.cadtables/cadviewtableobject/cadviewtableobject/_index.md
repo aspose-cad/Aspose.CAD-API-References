@@ -1,10 +1,13 @@
 ---
-title: CadViewTableObject.CadViewTableObject
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewTableObject constructor. Initializes a new instance of the CadViewTableObject class
+title: "CadViewTableObject.CadViewTableObject"
+linktitle: "CadViewTableObject"
+articleTitle: "CadViewTableObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewTableObject constructor. Initializes a new instance of the CadViewTableObject class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/cadviewtableobject/
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/cadviewtableobject/"
+product_version: "26.9"
 ---
 ## CadViewTableObject constructor
 
@@ -16,8 +19,7 @@ public CadViewTableObject()
 
 ### See Also
 
-* class [CadViewTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

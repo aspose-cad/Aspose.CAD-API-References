@@ -1,10 +1,13 @@
 ---
-title: CadPlotSettings.PlotOrigin
-second_title: Aspose.CAD for .NET API Reference
-description: CadPlotSettings property. Gets or sets the plot origin
+title: "CadPlotSettings.PlotOrigin"
+linktitle: "PlotOrigin"
+articleTitle: "PlotOrigin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPlotSettings property. Gets or sets the plot origin."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotorigin/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotorigin/"
+product_version: "26.9"
 ---
 ## CadPlotSettings.PlotOrigin property
 
@@ -20,9 +23,8 @@ The plot origin.
 
 ### See Also
 
-* class [Cad2DPoint](../../cad2dpoint/)
-* class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../cad2dpoint/)
+* class [CadPlotSettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

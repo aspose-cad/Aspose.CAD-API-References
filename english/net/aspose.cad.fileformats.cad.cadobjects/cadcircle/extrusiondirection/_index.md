@@ -1,10 +1,13 @@
 ---
-title: CadCircle.ExtrusionDirection
-second_title: Aspose.CAD for .NET API Reference
-description: CadCircle property. Gets or sets the extrusion direction
+title: "CadCircle.ExtrusionDirection"
+linktitle: "ExtrusionDirection"
+articleTitle: "ExtrusionDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCircle property. Gets or sets the extrusion direction."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadcircle/extrusiondirection/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadcircle/extrusiondirection/"
+product_version: "26.9"
 ---
 ## CadCircle.ExtrusionDirection property
 
@@ -16,9 +19,8 @@ public override Cad3DPoint ExtrusionDirection { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadCircle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadCircle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

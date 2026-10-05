@@ -1,10 +1,13 @@
 ---
-title: CF2Order.CF2Order
-second_title: Aspose.CAD for .NET API Reference
-description: CF2Order constructor. The default constructor
+title: "CF2Order.CF2Order"
+linktitle: "CF2Order"
+articleTitle: "CF2Order"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2Order constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cf2/cf2order/cf2order/
+url: "/net/aspose.cad.fileformats.cf2/cf2order/cf2order/"
+product_version: "26.9"
 ---
 ## CF2Order constructor
 
@@ -16,8 +19,7 @@ public CF2Order()
 
 ### See Also
 
-* class [CF2Order](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2Order](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

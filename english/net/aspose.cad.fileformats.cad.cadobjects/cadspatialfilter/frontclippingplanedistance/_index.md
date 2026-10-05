@@ -1,10 +1,13 @@
 ---
-title: CadSpatialFilter.FrontClippingPlaneDistance
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpatialFilter property. Gets or sets the front clipping plane distance
+title: "CadSpatialFilter.FrontClippingPlaneDistance"
+linktitle: "FrontClippingPlaneDistance"
+articleTitle: "FrontClippingPlaneDistance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpatialFilter property. Gets or sets the front clipping plane distance."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/frontclippingplanedistance/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/frontclippingplanedistance/"
+product_version: "26.9"
 ---
 ## CadSpatialFilter.FrontClippingPlaneDistance property
 
@@ -20,8 +23,7 @@ The front clipping plane distance.
 
 ### See Also
 
-* class [CadSpatialFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSpatialFilter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

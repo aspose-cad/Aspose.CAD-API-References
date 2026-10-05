@@ -1,14 +1,19 @@
 ---
-title: Glyphs.DeviceFontName
-second_title: Aspose.CAD for .NET API Reference
-description: Glyphs property. Gets or sets the device font name. Uniquely identifies a specific device font. The identifier is typically defined by a hardware vendor or font vendor
+title: "Glyphs.DeviceFontName"
+linktitle: "DeviceFontName"
+articleTitle: "DeviceFontName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Glyphs property. Gets or sets the device font name. Uniquely identifies a specific device font. The identifier is typically defined by a hardware vendor or f..."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/glyphs/devicefontname/
+weight: 80
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/glyphs/devicefontname/"
+product_version: "26.9"
 ---
 ## Glyphs.DeviceFontName property
 
-Gets or sets the device font name. Uniquely identifies a specific device font. The identifier is typically defined by a hardware vendor or font vendor.
+Gets or sets the device font name.
+ Uniquely identifies a specific device font.
+ The identifier is typically defined by a hardware vendor or font vendor.
 
 ```csharp
 public string DeviceFontName { get; set; }
@@ -16,8 +21,7 @@ public string DeviceFontName { get; set; }
 
 ### See Also
 
-* class [Glyphs](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Glyphs](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

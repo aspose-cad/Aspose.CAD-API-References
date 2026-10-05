@@ -1,10 +1,13 @@
 ---
-title: ColorTranslator.FromWin32
-second_title: Aspose.CAD for .NET API Reference
-description: ColorTranslator method. Takes color from the HTML color
+title: "ColorTranslator.FromWin32"
+linktitle: "FromWin32"
+articleTitle: "FromWin32"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColorTranslator method. Takes color from the HTML color."
 type: docs
 weight: 30
-url: /net/aspose.cad/colortranslator/fromwin32/
+url: "/net/aspose.cad/colortranslator/fromwin32/"
+product_version: "26.9"
 ---
 ## ColorTranslator.FromWin32 method
 
@@ -24,9 +27,8 @@ The color.
 
 ### See Also
 
-* struct [Color](../../color/)
-* class [ColorTranslator](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../color/)
+* class [ColorTranslator](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

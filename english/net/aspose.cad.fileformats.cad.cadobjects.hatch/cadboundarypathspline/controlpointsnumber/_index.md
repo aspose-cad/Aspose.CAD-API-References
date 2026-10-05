@@ -1,10 +1,13 @@
 ---
-title: CadBoundaryPathSpline.ControlPointsNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadBoundaryPathSpline property. Gets or sets the control points number
+title: "CadBoundaryPathSpline.ControlPointsNumber"
+linktitle: "ControlPointsNumber"
+articleTitle: "ControlPointsNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBoundaryPathSpline property. Gets or sets the control points number."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/controlpointsnumber/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/controlpointsnumber/"
+product_version: "26.9"
 ---
 ## CadBoundaryPathSpline.ControlPointsNumber property
 
@@ -20,8 +23,7 @@ The control points number.
 
 ### See Also
 
-* class [CadBoundaryPathSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBoundaryPathSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

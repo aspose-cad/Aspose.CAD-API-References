@@ -1,10 +1,13 @@
 ---
-title: CadLeader.VerticesCount
-second_title: Aspose.CAD for .NET API Reference
-description: CadLeader property. Gets or sets the count of vertices
+title: "CadLeader.VerticesCount"
+linktitle: "VerticesCount"
+articleTitle: "VerticesCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLeader property. Gets or sets the count of vertices."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadleader/verticescount/
+weight: 170
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadleader/verticescount/"
+product_version: "26.9"
 ---
 ## CadLeader.VerticesCount property
 
@@ -16,8 +19,7 @@ public short VerticesCount { get; set; }
 
 ### See Also
 
-* class [CadLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

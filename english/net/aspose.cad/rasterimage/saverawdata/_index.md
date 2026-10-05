@@ -1,10 +1,13 @@
 ---
-title: RasterImage.SaveRawData
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Saves the raw data
+title: "RasterImage.SaveRawData"
+linktitle: "SaveRawData"
+articleTitle: "SaveRawData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Saves the raw data."
 type: docs
-weight: 420
-url: /net/aspose.cad/rasterimage/saverawdata/
+weight: 330
+url: "/net/aspose.cad/rasterimage/saverawdata/"
+product_version: "26.9"
 ---
 ## RasterImage.SaveRawData method
 
@@ -24,10 +27,9 @@ public void SaveRawData(byte[] data, int dataOffset, Rectangle rectangle,
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* class [RawDataSettings](../../rawdatasettings/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* class [RawDataSettings](../../rawdatasettings/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

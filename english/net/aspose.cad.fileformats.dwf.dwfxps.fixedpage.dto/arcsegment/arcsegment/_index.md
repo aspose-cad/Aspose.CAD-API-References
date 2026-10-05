@@ -1,10 +1,13 @@
 ---
-title: ArcSegment.ArcSegment
-second_title: Aspose.CAD for .NET API Reference
-description: ArcSegment constructor. Initializes a new instance of the ArcSegment class
+title: "ArcSegment.ArcSegment"
+linktitle: "ArcSegment"
+articleTitle: "ArcSegment"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ArcSegment constructor. Initializes a new instance of the ArcSegment class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/arcsegment/arcsegment/
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/arcsegment/arcsegment/"
+product_version: "26.9"
 ---
 ## ArcSegment constructor
 
@@ -16,8 +19,7 @@ public ArcSegment()
 
 ### See Also
 
-* class [ArcSegment](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ArcSegment](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

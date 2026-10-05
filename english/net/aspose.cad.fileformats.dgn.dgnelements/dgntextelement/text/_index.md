@@ -1,10 +1,13 @@
 ---
-title: DgnTextElement.Text
-second_title: Aspose.CAD for .NET API Reference
-description: DgnTextElement property. Gets actual text
+title: "DgnTextElement.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnTextElement property. Gets actual text"
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntextelement/text/
+weight: 70
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgntextelement/text/"
+product_version: "26.9"
 ---
 ## DgnTextElement.Text property
 
@@ -16,8 +19,7 @@ public string Text { get; }
 
 ### See Also
 
-* class [DgnTextElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnTextElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

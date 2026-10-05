@@ -1,10 +1,13 @@
 ---
-title: CadUnderlayDefinition.UnderlayName
-second_title: Aspose.CAD for .NET API Reference
-description: CadUnderlayDefinition property. Gets or sets the name of the underlay
+title: "CadUnderlayDefinition.UnderlayName"
+linktitle: "UnderlayName"
+articleTitle: "UnderlayName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadUnderlayDefinition property. Gets or sets the name of the underlay."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.underlaydefinition/cadunderlaydefinition/underlayname/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects.underlaydefinition/cadunderlaydefinition/underlayname/"
+product_version: "26.9"
 ---
 ## CadUnderlayDefinition.UnderlayName property
 
@@ -20,8 +23,7 @@ The name of the underlay.
 
 ### See Also
 
-* class [CadUnderlayDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.UnderlayDefinition](../../../aspose.cad.fileformats.cad.cadobjects.underlaydefinition/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadUnderlayDefinition](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.UnderlayDefinition](../../../aspose.cad.fileformats.cad.cadobjects.underlaydefinition/)
+* assembly [Aspose.CAD](../../../)
 

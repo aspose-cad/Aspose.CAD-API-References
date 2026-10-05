@@ -1,10 +1,13 @@
 ---
-title: Cone.Cone
-second_title: Aspose.CAD for .NET API Reference
-description: Cone constructor. The default constructor
+title: "Cone.Cone"
+linktitle: "Cone"
+articleTitle: "Cone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cone constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/cone/cone/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/cone/cone/"
+product_version: "26.9"
 ---
 ## Cone constructor
 
@@ -16,8 +19,7 @@ public Cone()
 
 ### See Also
 
-* class [Cone](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cone](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

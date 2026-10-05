@@ -1,10 +1,13 @@
 ---
-title: ExifData.FlashpixVersion
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the flash pix version
+title: "ExifData.FlashpixVersion"
+linktitle: "FlashpixVersion"
+articleTitle: "FlashpixVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the flash pix version."
 type: docs
-weight: 270
-url: /net/aspose.cad.exif/exifdata/flashpixversion/
+weight: 320
+url: "/net/aspose.cad.exif/exifdata/flashpixversion/"
+product_version: "26.9"
 ---
 ## ExifData.FlashpixVersion property
 
@@ -20,8 +23,7 @@ The flash pix version.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

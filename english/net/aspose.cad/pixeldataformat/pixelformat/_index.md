@@ -1,10 +1,13 @@
 ---
-title: PixelDataFormat.PixelFormat
-second_title: Aspose.CAD for .NET API Reference
-description: PixelDataFormat property. Gets the pixel format
+title: "PixelDataFormat.PixelFormat"
+linktitle: "PixelFormat"
+articleTitle: "PixelFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PixelDataFormat property. Gets the pixel format."
 type: docs
-weight: 180
-url: /net/aspose.cad/pixeldataformat/pixelformat/
+weight: 200
+url: "/net/aspose.cad/pixeldataformat/pixelformat/"
+product_version: "26.9"
 ---
 ## PixelDataFormat.PixelFormat property
 
@@ -20,9 +23,8 @@ The pixel format.
 
 ### See Also
 
-* enum [PixelFormat](../../pixelformat/)
-* class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [PixelFormat](../../pixelformat/)
+* class [PixelDataFormat](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

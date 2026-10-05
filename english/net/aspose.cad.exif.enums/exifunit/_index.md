@@ -1,10 +1,13 @@
 ---
-title: Enum ExifUnit
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifUnit enum. exif unit enum
+title: "ExifUnit Enum"
+linktitle: "ExifUnit"
+articleTitle: "ExifUnit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifUnit enum. exif unit enum."
 type: docs
-weight: 690
-url: /net/aspose.cad.exif.enums/exifunit/
+weight: 180
+url: "/net/aspose.cad.exif.enums/exifunit/"
+product_version: "26.9"
 ---
 ## ExifUnit enumeration
 
@@ -24,7 +27,6 @@ public enum ExifUnit
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,12 +1,17 @@
 ---
-title: Enum KnownChannel
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Materials.KnownChannel enum. 
+title: "KnownChannel Enum"
+linktitle: "KnownChannel"
+articleTitle: "KnownChannel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Materials.KnownChannel enum."
 type: docs
-weight: 10860
-url: /net/aspose.cad.fileformats.glb.materials/knownchannel/
+weight: 50
+url: "/net/aspose.cad.fileformats.glb.materials/knownchannel/"
+product_version: "26.9"
 ---
 ## KnownChannel enumeration
+
+
 
 ```csharp
 public enum KnownChannel
@@ -38,7 +43,6 @@ public enum KnownChannel
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../)
 

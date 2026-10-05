@@ -1,10 +1,13 @@
 ---
-title: CadSweptSurface.AlignStartFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadSweptSurface property. Gets or sets a value indicating whether align start flag
+title: "CadSweptSurface.AlignStartFlag"
+linktitle: "AlignStartFlag"
+articleTitle: "AlignStartFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSweptSurface property. Gets or sets a value indicating whether align start flag."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/alignstartflag/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/alignstartflag/"
+product_version: "26.9"
 ---
 ## CadSweptSurface.AlignStartFlag property
 
@@ -16,8 +19,7 @@ public bool AlignStartFlag { get; set; }
 
 ### See Also
 
-* class [CadSweptSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSweptSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

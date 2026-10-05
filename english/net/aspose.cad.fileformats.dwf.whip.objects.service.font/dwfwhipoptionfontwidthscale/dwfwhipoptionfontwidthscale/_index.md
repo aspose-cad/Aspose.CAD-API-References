@@ -1,10 +1,13 @@
 ---
-title: DwfWhipOptionFontWidthScale.DwfWhipOptionFontWidthScale
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipOptionFontWidthScale constructor. The default constructor
+title: "DwfWhipOptionFontWidthScale.DwfWhipOptionFontWidthScale"
+linktitle: "DwfWhipOptionFontWidthScale"
+articleTitle: "DwfWhipOptionFontWidthScale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipOptionFontWidthScale constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontwidthscale/dwfwhipoptionfontwidthscale/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontwidthscale/dwfwhipoptionfontwidthscale/"
+product_version: "26.9"
 ---
 ## DwfWhipOptionFontWidthScale constructor
 
@@ -16,8 +19,7 @@ public DwfWhipOptionFontWidthScale()
 
 ### See Also
 
-* class [DwfWhipOptionFontWidthScale](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipOptionFontWidthScale](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
+* assembly [Aspose.CAD](../../../)
 

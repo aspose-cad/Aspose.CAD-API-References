@@ -1,10 +1,13 @@
 ---
-title: DgnCellHeaderElement.RangeBlockLow
-second_title: Aspose.CAD for .NET API Reference
-description: DgnCellHeaderElement property. Gets cells range block low
+title: "DgnCellHeaderElement.RangeBlockLow"
+linktitle: "RangeBlockLow"
+articleTitle: "RangeBlockLow"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnCellHeaderElement property. Gets cell's range block low"
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/rangeblocklow/
+weight: 50
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/rangeblocklow/"
+product_version: "26.9"
 ---
 ## DgnCellHeaderElement.RangeBlockLow property
 
@@ -16,9 +19,8 @@ public DgnPoint RangeBlockLow { get; }
 
 ### See Also
 
-* class [DgnPoint](../../../aspose.cad.fileformats.dgn/dgnpoint/)
-* class [DgnCellHeaderElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnPoint](../../../aspose.cad.fileformats.dgn/dgnpoint/)
+* class [DgnCellHeaderElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

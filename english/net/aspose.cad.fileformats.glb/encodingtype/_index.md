@@ -1,10 +1,13 @@
 ---
-title: Enum EncodingType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.EncodingType enum. The datatype of the accessors components
+title: "EncodingType Enum"
+linktitle: "EncodingType"
+articleTitle: "EncodingType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.EncodingType enum. The datatype of the accessor's components."
 type: docs
-weight: 10360
-url: /net/aspose.cad.fileformats.glb/encodingtype/
+weight: 160
+url: "/net/aspose.cad.fileformats.glb/encodingtype/"
+product_version: "26.9"
 ---
 ## EncodingType enumeration
 
@@ -27,7 +30,6 @@ public enum EncodingType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

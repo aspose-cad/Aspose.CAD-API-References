@@ -1,10 +1,13 @@
 ---
-title: TextCommand.Position
-second_title: Aspose.CAD for .NET API Reference
-description: TextCommand property. The position at which the string should be displayed
+title: "TextCommand.Position"
+linktitle: "Position"
+articleTitle: "Position"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TextCommand property. The position at which the string should be displayed"
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.cgm.commands/textcommand/position/
+weight: 30
+url: "/net/aspose.cad.fileformats.cgm.commands/textcommand/position/"
+product_version: "26.9"
 ---
 ## TextCommand.Position property
 
@@ -16,9 +19,8 @@ public CgmPoint Position { get; }
 
 ### See Also
 
-* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
-* class [TextCommand](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
+* class [TextCommand](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

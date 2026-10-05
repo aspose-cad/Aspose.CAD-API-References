@@ -1,10 +1,13 @@
 ---
-title: GraphicsOptions.SmoothingMode
-second_title: Aspose.CAD for .NET API Reference
-description: GraphicsOptions property. Gets or sets smoothing mode
+title: "GraphicsOptions.SmoothingMode"
+linktitle: "SmoothingMode"
+articleTitle: "SmoothingMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GraphicsOptions property. Gets or sets smoothing mode."
 type: docs
 weight: 30
-url: /net/aspose.cad.imageoptions/graphicsoptions/smoothingmode/
+url: "/net/aspose.cad.imageoptions/graphicsoptions/smoothingmode/"
+product_version: "26.9"
 ---
 ## GraphicsOptions.SmoothingMode property
 
@@ -16,9 +19,8 @@ public SmoothingMode SmoothingMode { get; set; }
 
 ### See Also
 
-* enum [SmoothingMode](../../../aspose.cad/smoothingmode/)
-* class [GraphicsOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [SmoothingMode](../../../aspose.cad/smoothingmode/)
+* class [GraphicsOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

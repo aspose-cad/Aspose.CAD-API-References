@@ -1,10 +1,13 @@
 ---
-title: CadAttrib.CadAttrib
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttrib constructor. Initializes a new instance of the CadAttrib class
+title: "CadAttrib.CadAttrib"
+linktitle: "CadAttrib"
+articleTitle: "CadAttrib"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttrib constructor. Initializes a new instance of the CadAttrib class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/cadattrib/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/cadattrib/"
+product_version: "26.9"
 ---
 ## CadAttrib constructor
 
@@ -16,8 +19,7 @@ public CadAttrib()
 
 ### See Also
 
-* class [CadAttrib](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAttrib](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

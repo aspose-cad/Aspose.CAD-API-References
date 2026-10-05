@@ -1,10 +1,13 @@
 ---
-title: CadDimensionDictionary.TryGetValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionDictionary method. Gets the value associated with the specified key
+title: "CadDimensionDictionary.TryGetValue"
+linktitle: "TryGetValue"
+articleTitle: "TryGetValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionDictionary method. Gets the value associated with the specified key."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad/caddimensiondictionary/trygetvalue/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad/caddimensiondictionary/trygetvalue/"
+product_version: "26.9"
 ---
 ## CadDimensionDictionary.TryGetValue method
 
@@ -25,9 +28,8 @@ True if the dictionary contains an element with the specified key; otherwise, fa
 
 ### See Also
 
-* class [CadDimensionStyleTable](../../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/)
-* class [CadDimensionDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionStyleTable](../../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/)
+* class [CadDimensionDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

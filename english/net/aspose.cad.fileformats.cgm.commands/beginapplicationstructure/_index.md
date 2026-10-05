@@ -1,12 +1,18 @@
 ---
-title: Class BeginApplicationStructure
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.BeginApplicationStructure class. 
+title: "BeginApplicationStructure Class"
+linktitle: "BeginApplicationStructure"
+articleTitle: "BeginApplicationStructure"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.BeginApplicationStructure class. Class=0, ElementId=21"
 type: docs
-weight: 4890
-url: /net/aspose.cad.fileformats.cgm.commands/beginapplicationstructure/
+weight: 160
+url: "/net/aspose.cad.fileformats.cgm.commands/beginapplicationstructure/"
+keywords: "BeginApplicationStructure, Aspose.CAD.FileFormats.Cgm.Commands, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## BeginApplicationStructure class
+
+Class=0, ElementId=21
 
 ```csharp
 public class BeginApplicationStructure : Command
@@ -16,33 +22,33 @@ public class BeginApplicationStructure : Command
 
 | Name | Description |
 | --- | --- |
-| [BeginApplicationStructure](beginapplicationstructure/#constructor)(CgmFile) |  |
-| [BeginApplicationStructure](beginapplicationstructure/#constructor_1)(CgmFile, string, string, InheritanceFlag) |  |
+| [BeginApplicationStructure](beginapplicationstructure/#constructor)(CgmFile) | Initializes a new instance of the BeginApplicationStructure class. |
+| [BeginApplicationStructure](beginapplicationstructure/#constructor_1)(CgmFile, string, string, InheritanceFlag) | Initializes a new instance of the BeginApplicationStructure class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
-| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
-| [Flag](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/flag/) { get; } |  |
-| [Id](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/id/) { get; } |  |
-| [Type](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/type/) { get; } |  |
+| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
+| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
+| [Flag](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/flag/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/id/) { get; } |  |
+| [Type](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/type/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/readfrombinary/)(IBinaryReader) |  |
-| override [ToString](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/tostring/)() |  |
-| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/writeasbinary/)(IBinaryWriter) |  |
-| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/writeascleartext/)(IClearTextWriter) |  |
+| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/readfrombinary/)(IBinaryReader) |  |
+| override [ToString](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/tostring/)() |  |
+| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/writeasbinary/)(IBinaryWriter) |  |
+| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure/writeascleartext/)(IClearTextWriter) |  |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-| enum [InheritanceFlag](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure.inheritanceflag) |  |
+| enum [InheritanceFlag](../../aspose.cad.fileformats.cgm.commands/beginapplicationstructure.inheritanceflag) |  |
 
 ## Remarks
 
@@ -50,8 +56,7 @@ Class=0, ElementId=21
 
 ### See Also
 
-* class [Command](../command/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [Command](../command/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

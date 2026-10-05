@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.PointerIdToOwnerBlock
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. Gets or sets the pointer id to owner block
+title: "CadTableEntity.PointerIdToOwnerBlock"
+linktitle: "PointerIdToOwnerBlock"
+articleTitle: "PointerIdToOwnerBlock"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. Gets or sets the pointer id to owner block."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointeridtoownerblock/
+weight: 190
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointeridtoownerblock/"
+product_version: "26.9"
 ---
 ## CadTableEntity.PointerIdToOwnerBlock property
 
@@ -16,8 +19,7 @@ public string PointerIdToOwnerBlock { get; set; }
 
 ### See Also
 
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: MemoryAccessor.AsMatrix3x3Array
-second_title: Aspose.CAD for .NET API Reference
-description: MemoryAccessor method. 
+title: "MemoryAccessor.AsMatrix3x3Array"
+linktitle: "AsMatrix3x3Array"
+articleTitle: "AsMatrix3x3Array"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MemoryAccessor method."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.glb.memory/memoryaccessor/asmatrix3x3array/
+weight: 80
+url: "/net/aspose.cad.fileformats.glb.memory/memoryaccessor/asmatrix3x3array/"
+product_version: "26.9"
 ---
 ## MemoryAccessor.AsMatrix3x3Array method
+
+
 
 ```csharp
 public Matrix3x3Array AsMatrix3x3Array()
@@ -14,9 +19,8 @@ public Matrix3x3Array AsMatrix3x3Array()
 
 ### See Also
 
-* struct [Matrix3x3Array](../../matrix3x3array/)
-* class [MemoryAccessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Matrix3x3Array](../../matrix3x3array/)
+* class [MemoryAccessor](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../../aspose.cad.fileformats.glb.memory/)
+* assembly [Aspose.CAD](../../../)
 

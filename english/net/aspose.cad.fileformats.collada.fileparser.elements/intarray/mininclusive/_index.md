@@ -1,14 +1,20 @@
 ---
-title: IntArray.MinInclusive
-second_title: Aspose.CAD for .NET API Reference
-description: IntArray property. Gets or sets the min inclusive. The minInclusive attribute indicates the smallest integer value that can be contained in the array. The default value is 2147483648. Optional attribute
+title: "IntArray.MinInclusive"
+linktitle: "MinInclusive"
+articleTitle: "MinInclusive"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IntArray property. Gets or sets the min inclusive. The minInclusive attribute indicates the smallest integer value that can be contained in the array. The de..."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/intarray/mininclusive/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/intarray/mininclusive/"
+product_version: "26.9"
 ---
 ## IntArray.MinInclusive property
 
-Gets or sets the min inclusive. The minInclusive attribute indicates the smallest integer value that can be contained in the array. The default value is -2147483648. Optional attribute.
+Gets or sets the min inclusive.
+ The minInclusive attribute indicates the smallest integer value that can be contained in the array.
+ The default value is -2147483648.
+ Optional attribute.
 
 ```csharp
 public string MinInclusive { get; set; }
@@ -16,8 +22,7 @@ public string MinInclusive { get; set; }
 
 ### See Also
 
-* class [IntArray](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IntArray](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

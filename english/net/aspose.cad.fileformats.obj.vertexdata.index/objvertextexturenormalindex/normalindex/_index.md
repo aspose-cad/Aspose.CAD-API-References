@@ -1,10 +1,13 @@
 ---
-title: ObjVertexTextureNormalIndex.NormalIndex
-second_title: Aspose.CAD for .NET API Reference
-description: ObjVertexTextureNormalIndex property. Gets or sets the normal index
+title: "ObjVertexTextureNormalIndex.NormalIndex"
+linktitle: "NormalIndex"
+articleTitle: "NormalIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjVertexTextureNormalIndex property. Gets or sets the normal index."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.obj.vertexdata.index/objvertextexturenormalindex/normalindex/
+url: "/net/aspose.cad.fileformats.obj.vertexdata.index/objvertextexturenormalindex/normalindex/"
+product_version: "26.9"
 ---
 ## ObjVertexTextureNormalIndex.NormalIndex property
 
@@ -16,8 +19,7 @@ public int NormalIndex { get; set; }
 
 ### See Also
 
-* class [ObjVertexTextureNormalIndex](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../../aspose.cad.fileformats.obj.vertexdata.index/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjVertexTextureNormalIndex](../)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../../aspose.cad.fileformats.obj.vertexdata.index/)
+* assembly [Aspose.CAD](../../../)
 

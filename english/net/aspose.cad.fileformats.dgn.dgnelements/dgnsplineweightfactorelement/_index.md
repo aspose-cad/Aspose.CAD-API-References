@@ -1,10 +1,14 @@
 ---
-title: Class DgnSplineWeightFactorElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSplineWeightFactorElement class. Represents spline weight factor element
+title: "DgnSplineWeightFactorElement Class"
+linktitle: "DgnSplineWeightFactorElement"
+articleTitle: "DgnSplineWeightFactorElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSplineWeightFactorElement class. Represents spline weight factor element"
 type: docs
-weight: 8990
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsplineweightfactorelement/
+weight: 270
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsplineweightfactorelement/"
+keywords: "DgnSplineWeightFactorElement, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnSplineWeightFactorElement class
 
@@ -18,15 +22,14 @@ public class DgnSplineWeightFactorElement : DgnKnotWeightElement
 
 | Name | Description |
 | --- | --- |
-| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
-| [Weights](../../aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/weights/) { get; } | Gets or sets weights of knot |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
+| [Weights](../../aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/weights/) { get; } | Gets or sets weights of knot |
 
 ### See Also
 
-* class [DgnKnotWeightElement](../dgnknotweightelement/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* class [DgnKnotWeightElement](../dgnknotweightelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

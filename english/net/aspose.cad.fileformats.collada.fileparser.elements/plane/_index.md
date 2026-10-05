@@ -1,14 +1,19 @@
 ---
-title: Class Plane
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Plane class. The plane. Defines an infinite plane
+title: "Plane Class"
+linktitle: "Plane"
+articleTitle: "Plane"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.Plane class. The plane. Defines an infinite plane."
 type: docs
-weight: 8250
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/plane/
+weight: 940
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/plane/"
+keywords: "Plane, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Plane class
 
-The plane. Defines an infinite plane.
+The plane.
+ Defines an infinite plane.
 
 ```csharp
 public class Plane : ColladaElement
@@ -24,13 +29,12 @@ public class Plane : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Equation](../../aspose.cad.fileformats.collada.fileparser.elements/plane/equation/) { get; set; } | Gets or sets the equation. Contains four floating-point values that represent the coefficients for the plane’s equation: AX + BY + CZ + D = 0. |
-| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/plane/extra/) { get; set; } | Gets or sets the extra. |
+| [Equation](../../aspose.cad.fileformats.collada.fileparser.elements/plane/equation/) { get; set; } | Gets or sets the equation. Contains four floating-point values that represent the coefficients for the plane’s equation: AX + BY + CZ + D = 0. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/plane/extra/) { get; set; } | Gets or sets the extra. |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

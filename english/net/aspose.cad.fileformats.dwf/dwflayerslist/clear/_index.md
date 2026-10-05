@@ -1,10 +1,13 @@
 ---
-title: DwfLayersList.Clear
-second_title: Aspose.CAD for .NET API Reference
-description: DwfLayersList method. Removes all items from the DwfLayersList
+title: "DwfLayersList.Clear"
+linktitle: "Clear"
+articleTitle: "Clear"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfLayersList method. Removes all items from the DwfLayersList"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.dwf/dwflayerslist/clear/
+weight: 70
+url: "/net/aspose.cad.fileformats.dwf/dwflayerslist/clear/"
+product_version: "26.9"
 ---
 ## DwfLayersList.Clear method
 
@@ -16,8 +19,7 @@ public void Clear()
 
 ### See Also
 
-* class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfLayersList](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

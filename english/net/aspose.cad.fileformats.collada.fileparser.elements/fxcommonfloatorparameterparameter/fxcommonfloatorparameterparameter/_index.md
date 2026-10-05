@@ -1,10 +1,13 @@
 ---
-title: FxCommonFloatOrParameterParameter.FxCommonFloatOrParameterParameter
-second_title: Aspose.CAD for .NET API Reference
-description: FxCommonFloatOrParameterParameter constructor. The default constructor
+title: "FxCommonFloatOrParameterParameter.FxCommonFloatOrParameterParameter"
+linktitle: "FxCommonFloatOrParameterParameter"
+articleTitle: "FxCommonFloatOrParameterParameter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FxCommonFloatOrParameterParameter constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterparameter/fxcommonfloatorparameterparameter/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterparameter/fxcommonfloatorparameterparameter/"
+product_version: "26.9"
 ---
 ## FxCommonFloatOrParameterParameter constructor
 
@@ -16,8 +19,7 @@ public FxCommonFloatOrParameterParameter()
 
 ### See Also
 
-* class [FxCommonFloatOrParameterParameter](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonFloatOrParameterParameter](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

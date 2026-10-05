@@ -1,10 +1,13 @@
 ---
-title: DgnPoint.DgnPoint
-second_title: Aspose.CAD for .NET API Reference
-description: DgnPoint constructor. Initiailizes a new instance of the DgnPoint class
+title: "DgnPoint.DgnPoint"
+linktitle: "DgnPoint"
+articleTitle: "DgnPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnPoint constructor. Initiailizes a new instance of the DgnPoint class"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn/dgnpoint/dgnpoint/
+url: "/net/aspose.cad.fileformats.dgn/dgnpoint/dgnpoint/"
+product_version: "26.9"
 ---
 ## DgnPoint() {#constructor}
 
@@ -16,13 +19,13 @@ public DgnPoint()
 
 ### See Also
 
-* class [DgnPoint](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
+* class [DgnPoint](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## DgnPoint(double, double) {#constructor_1}
+## DgnPoint(double, double) {#constructor_1}
 
 Initiailizes a new instance of the [`DgnPoint`](../) class
 
@@ -37,13 +40,13 @@ public DgnPoint(double x, double y)
 
 ### See Also
 
-* class [DgnPoint](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
+* class [DgnPoint](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## DgnPoint(double, double, double) {#constructor_2}
+## DgnPoint(double, double, double) {#constructor_2}
 
 Initiailizes a new instance of the [`DgnPoint`](../) class
 
@@ -59,8 +62,7 @@ public DgnPoint(double x, double y, double z)
 
 ### See Also
 
-* class [DgnPoint](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnPoint](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

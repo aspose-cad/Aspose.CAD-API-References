@@ -1,10 +1,13 @@
 ---
-title: CadHatch.BoundaryPaths
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the boundary paths
+title: "CadHatch.BoundaryPaths"
+linktitle: "BoundaryPaths"
+articleTitle: "BoundaryPaths"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the boundary paths."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/boundarypaths/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/boundarypaths/"
+product_version: "26.9"
 ---
 ## CadHatch.BoundaryPaths property
 
@@ -20,9 +23,8 @@ The boundary paths.
 
 ### See Also
 
-* class [CadHatchBoundaryPathContainer](../../cadhatchboundarypathcontainer/)
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatchBoundaryPathContainer](../../cadhatchboundarypathcontainer/)
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

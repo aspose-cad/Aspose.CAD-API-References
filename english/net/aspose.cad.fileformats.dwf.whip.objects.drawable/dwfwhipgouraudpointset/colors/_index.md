@@ -1,10 +1,13 @@
 ---
-title: DwfWhipGouraudPointSet.Colors
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipGouraudPointSet property. Gets points
+title: "DwfWhipGouraudPointSet.Colors"
+linktitle: "Colors"
+articleTitle: "Colors"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipGouraudPointSet property. Gets points"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipgouraudpointset/colors/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipgouraudpointset/colors/"
+product_version: "26.9"
 ---
 ## DwfWhipGouraudPointSet.Colors property
 
@@ -16,8 +19,7 @@ public int[] Colors { get; }
 
 ### See Also
 
-* class [DwfWhipGouraudPointSet](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipGouraudPointSet](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
+* assembly [Aspose.CAD](../../../)
 

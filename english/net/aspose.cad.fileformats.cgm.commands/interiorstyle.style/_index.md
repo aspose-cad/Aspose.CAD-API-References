@@ -1,12 +1,17 @@
 ---
-title: Enum InteriorStyle.Style
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.InteriorStyleStyle enum. 
+title: "InteriorStyle.Style Enum"
+linktitle: "InteriorStyle.Style"
+articleTitle: "InteriorStyle.Style"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.InteriorStyle.Style enum."
 type: docs
-weight: 5940
-url: /net/aspose.cad.fileformats.cgm.commands/interiorstyle.style/
+weight: 1220
+url: "/net/aspose.cad.fileformats.cgm.commands/interiorstyle.style/"
+product_version: "26.9"
 ---
 ## InteriorStyle.Style enumeration
+
+
 
 ```csharp
 public enum Style
@@ -26,8 +31,7 @@ public enum Style
 
 ### See Also
 
-* class [InteriorStyle](../interiorstyle/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [InteriorStyle](../interiorstyle/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

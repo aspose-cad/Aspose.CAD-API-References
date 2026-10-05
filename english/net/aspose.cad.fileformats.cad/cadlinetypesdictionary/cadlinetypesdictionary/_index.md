@@ -1,10 +1,13 @@
 ---
-title: CadLineTypesDictionary.CadLineTypesDictionary
-second_title: Aspose.CAD for .NET API Reference
-description: CadLineTypesDictionary constructor. Initializes a new instance of the CadLineTypesDictionary class
+title: "CadLineTypesDictionary.CadLineTypesDictionary"
+linktitle: "CadLineTypesDictionary"
+articleTitle: "CadLineTypesDictionary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLineTypesDictionary constructor. Initializes a new instance of the CadLineTypesDictionary class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadlinetypesdictionary/cadlinetypesdictionary/
+url: "/net/aspose.cad.fileformats.cad/cadlinetypesdictionary/cadlinetypesdictionary/"
+product_version: "26.9"
 ---
 ## CadLineTypesDictionary constructor
 
@@ -16,8 +19,7 @@ public CadLineTypesDictionary()
 
 ### See Also
 
-* class [CadLineTypesDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLineTypesDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

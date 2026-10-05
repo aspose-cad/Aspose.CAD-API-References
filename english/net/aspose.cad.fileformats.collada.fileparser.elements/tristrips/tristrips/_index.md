@@ -1,10 +1,13 @@
 ---
-title: Tristrips.Tristrips
-second_title: Aspose.CAD for .NET API Reference
-description: Tristrips constructor. The default constructor
+title: "Tristrips.Tristrips"
+linktitle: "Tristrips"
+articleTitle: "Tristrips"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Tristrips constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/tristrips/tristrips/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/tristrips/tristrips/"
+product_version: "26.9"
 ---
 ## Tristrips constructor
 
@@ -16,8 +19,7 @@ public Tristrips()
 
 ### See Also
 
-* class [Tristrips](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Tristrips](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

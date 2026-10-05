@@ -1,10 +1,14 @@
 ---
-title: Class Ellipse
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Ellipse class. The ellipse
+title: "Ellipse Class"
+linktitle: "Ellipse"
+articleTitle: "Ellipse"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.Ellipse class. The ellipse."
 type: docs
-weight: 7610
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/ellipse/
+weight: 290
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/ellipse/"
+keywords: "Ellipse, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Ellipse class
 
@@ -24,13 +28,12 @@ public class Ellipse : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/ellipse/extra/) { get; set; } | Gets or sets the extra. |
-| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/ellipse/radius/) { get; set; } | Gets or sets the radius. Contains two floating-point numbers that specify the radii of the ellipse. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/ellipse/extra/) { get; set; } | Gets or sets the extra. |
+| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/ellipse/radius/) { get; set; } | Gets or sets the radius. Contains two floating-point numbers that specify the radii of the ellipse. |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

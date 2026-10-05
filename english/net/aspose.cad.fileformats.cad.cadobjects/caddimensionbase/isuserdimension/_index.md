@@ -1,10 +1,13 @@
 ---
-title: CadDimensionBase.IsUserDimension
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionBase property. Gets a value indicating whether this instance is user dimension
+title: "CadDimensionBase.IsUserDimension"
+linktitle: "IsUserDimension"
+articleTitle: "IsUserDimension"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionBase property. Gets a value indicating whether this instance is user dimension."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/isuserdimension/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/isuserdimension/"
+product_version: "26.9"
 ---
 ## CadDimensionBase.IsUserDimension property
 
@@ -20,8 +23,7 @@ public bool IsUserDimension { get; }
 
 ### See Also
 
-* class [CadDimensionBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum JfifDensityUnits
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Jpeg.JfifDensityUnits enum. The jfif density units
+title: "JfifDensityUnits Enum"
+linktitle: "JfifDensityUnits"
+articleTitle: "JfifDensityUnits"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Jpeg.JfifDensityUnits enum. The jfif density units."
 type: docs
-weight: 33730
-url: /net/aspose.cad.fileformats.jpeg/jfifdensityunits/
+weight: 30
+url: "/net/aspose.cad.fileformats.jpeg/jfifdensityunits/"
+product_version: "26.9"
 ---
 ## JfifDensityUnits enumeration
 
@@ -24,7 +27,6 @@ public enum JfifDensityUnits : byte
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Jpeg](../../aspose.cad.fileformats.jpeg/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Jpeg](../../aspose.cad.fileformats.jpeg/)
+* assembly [Aspose.CAD](../../)
 

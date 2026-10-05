@@ -1,10 +1,13 @@
 ---
-title: DgnTagValue.FloatValue
-second_title: Aspose.CAD for .NET API Reference
-description: DgnTagValue property. Gets or sets the float value
+title: "DgnTagValue.FloatValue"
+linktitle: "FloatValue"
+articleTitle: "FloatValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnTagValue property. Gets or sets the float value."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dgn/dgntagvalue/floatvalue/
+weight: 50
+url: "/net/aspose.cad.fileformats.dgn/dgntagvalue/floatvalue/"
+product_version: "26.9"
 ---
 ## DgnTagValue.FloatValue property
 
@@ -20,8 +23,7 @@ The float value.
 
 ### See Also
 
-* class [DgnTagValue](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnTagValue](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

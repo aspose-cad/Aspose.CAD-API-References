@@ -1,12 +1,17 @@
 ---
-title: Enum TextPath.Type
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.TextPathType enum. 
+title: "TextPath.Type Enum"
+linktitle: "TextPath.Type"
+articleTitle: "TextPath.Type"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.TextPath.Type enum."
 type: docs
-weight: 6800
-url: /net/aspose.cad.fileformats.cgm.commands/textpath.type/
+weight: 2060
+url: "/net/aspose.cad.fileformats.cgm.commands/textpath.type/"
+product_version: "26.9"
 ---
 ## TextPath.Type enumeration
+
+
 
 ```csharp
 public enum Type
@@ -23,8 +28,7 @@ public enum Type
 
 ### See Also
 
-* class [TextPath](../textpath/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [TextPath](../textpath/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Matrix.TypeMaskRotation
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix field. This constant is a bit mask for any of the rotation flag bits
+title: "Matrix.TypeMaskRotation"
+linktitle: "TypeMaskRotation"
+articleTitle: "TypeMaskRotation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix field. This constant is a bit mask for any of the rotation flag bits."
 type: docs
-weight: 250
-url: /net/aspose.cad/matrix/typemaskrotation/
+weight: 390
+url: "/net/aspose.cad/matrix/typemaskrotation/"
+product_version: "26.9"
 ---
 ## Matrix.TypeMaskRotation field
 
@@ -16,8 +19,7 @@ public const int TypeMaskRotation;
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

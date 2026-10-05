@@ -1,10 +1,13 @@
 ---
-title: RdOptimizerSettings.MinQ
-second_title: Aspose.CAD for .NET API Reference
-description: RdOptimizerSettings property. Gets the minimum allowed quantization value
+title: "RdOptimizerSettings.MinQ"
+linktitle: "MinQ"
+articleTitle: "MinQ"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RdOptimizerSettings property. Gets the minimum allowed quantization value."
 type: docs
-weight: 80
-url: /net/aspose.cad.imageoptions/rdoptimizersettings/minq/
+weight: 60
+url: "/net/aspose.cad.imageoptions/rdoptimizersettings/minq/"
+product_version: "26.9"
 ---
 ## RdOptimizerSettings.MinQ property
 
@@ -20,8 +23,7 @@ The minimum minimum allowed quantization value.
 
 ### See Also
 
-* class [RdOptimizerSettings](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RdOptimizerSettings](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

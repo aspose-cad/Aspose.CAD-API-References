@@ -1,14 +1,19 @@
 ---
-title: Enum DashCap
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.DashCap enum. The dash cap. The effective render transform of the path being stroked is used to transform the control points of the contour of the dash
+title: "DashCap Enum"
+linktitle: "DashCap"
+articleTitle: "DashCap"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.DashCap enum. The dash cap. The effective render transform of the path being stroked is used to transform the..."
 type: docs
-weight: 9300
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/dashcap/
+weight: 60
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/dashcap/"
+product_version: "26.9"
 ---
 ## DashCap enumeration
 
-The dash cap. The effective render transform of the path being stroked is used to transform the control points of the contour of the dash.
+The dash cap.
+ The effective render transform of the path being stroked is used
+ to transform the control points of the contour of the dash.
 
 ```csharp
 public enum DashCap
@@ -25,7 +30,6 @@ public enum DashCap
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

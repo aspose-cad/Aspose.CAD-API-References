@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.ValidTagCount
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets the valid tag count. This is not the total tags count but the number of tags which may be preserved
+title: "TiffOptions.ValidTagCount"
+linktitle: "ValidTagCount"
+articleTitle: "ValidTagCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets the valid tag count. This is not the total tags count but the number of tags which may be preserved."
 type: docs
-weight: 490
-url: /net/aspose.cad.imageoptions/tiffoptions/validtagcount/
+weight: 640
+url: "/net/aspose.cad.imageoptions/tiffoptions/validtagcount/"
+product_version: "26.9"
 ---
 ## TiffOptions.ValidTagCount property
 
@@ -20,8 +23,7 @@ The valid tag count.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

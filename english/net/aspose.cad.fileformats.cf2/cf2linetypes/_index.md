@@ -1,10 +1,13 @@
 ---
-title: Enum CF2LineTypes
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.CF2.CF2LineTypes enum. CF2 line types
+title: "CF2LineTypes Enum"
+linktitle: "CF2LineTypes"
+articleTitle: "CF2LineTypes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.CF2.CF2LineTypes enum. CF2 line types"
 type: docs
-weight: 900
-url: /net/aspose.cad.fileformats.cf2/cf2linetypes/
+weight: 100
+url: "/net/aspose.cad.fileformats.cf2/cf2linetypes/"
+product_version: "26.9"
 ---
 ## CF2LineTypes enumeration
 
@@ -34,7 +37,6 @@ public enum CF2LineTypes
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../)
 

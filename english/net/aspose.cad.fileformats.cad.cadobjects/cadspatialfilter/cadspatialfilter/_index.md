@@ -1,10 +1,13 @@
 ---
-title: CadSpatialFilter.CadSpatialFilter
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpatialFilter constructor. Initializes a new instance of the CadSpatialFilter class
+title: "CadSpatialFilter.CadSpatialFilter"
+linktitle: "CadSpatialFilter"
+articleTitle: "CadSpatialFilter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpatialFilter constructor. Initializes a new instance of the CadSpatialFilter class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/cadspatialfilter/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/cadspatialfilter/"
+product_version: "26.9"
 ---
 ## CadSpatialFilter constructor
 
@@ -16,8 +19,7 @@ public CadSpatialFilter()
 
 ### See Also
 
-* class [CadSpatialFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSpatialFilter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

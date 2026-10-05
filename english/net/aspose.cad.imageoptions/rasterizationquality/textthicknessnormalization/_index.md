@@ -1,10 +1,13 @@
 ---
-title: RasterizationQuality.TextThicknessNormalization
-second_title: Aspose.CAD for .NET API Reference
-description: RasterizationQuality property. Gets or sets a value indicating whether text thickness normalization
+title: "RasterizationQuality.TextThicknessNormalization"
+linktitle: "TextThicknessNormalization"
+articleTitle: "TextThicknessNormalization"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterizationQuality property. Gets or sets a value indicating whether [text thickness normalization]."
 type: docs
-weight: 70
-url: /net/aspose.cad.imageoptions/rasterizationquality/textthicknessnormalization/
+weight: 60
+url: "/net/aspose.cad.imageoptions/rasterizationquality/textthicknessnormalization/"
+product_version: "26.9"
 ---
 ## RasterizationQuality.TextThicknessNormalization property
 
@@ -20,8 +23,7 @@ public bool TextThicknessNormalization { get; set; }
 
 ### See Also
 
-* class [RasterizationQuality](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterizationQuality](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

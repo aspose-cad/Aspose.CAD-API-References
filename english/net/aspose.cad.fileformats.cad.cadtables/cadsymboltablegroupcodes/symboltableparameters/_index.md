@@ -1,10 +1,13 @@
 ---
-title: CadSymbolTableGroupCodes.SymbolTableParameters
-second_title: Aspose.CAD for .NET API Reference
-description: CadSymbolTableGroupCodes property. Gets or sets the symbol table parameters
+title: "CadSymbolTableGroupCodes.SymbolTableParameters"
+linktitle: "SymbolTableParameters"
+articleTitle: "SymbolTableParameters"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSymbolTableGroupCodes property. Gets or sets the symbol table parameters."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/symboltableparameters/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/symboltableparameters/"
+product_version: "26.9"
 ---
 ## CadSymbolTableGroupCodes.SymbolTableParameters property
 
@@ -20,9 +23,8 @@ The symbol table parameters.
 
 ### See Also
 
-* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
-* class [CadSymbolTableGroupCodes](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
+* class [CadSymbolTableGroupCodes](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

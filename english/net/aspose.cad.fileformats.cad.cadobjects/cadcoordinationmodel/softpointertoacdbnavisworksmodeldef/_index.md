@@ -1,10 +1,13 @@
 ---
-title: CadCoordinationModel.SoftPointerToAcDbNavisworksModelDef
-second_title: Aspose.CAD for .NET API Reference
-description: CadCoordinationModel property. Gets or sets the soft pointer to ac database navisworks model definition
+title: "CadCoordinationModel.SoftPointerToAcDbNavisworksModelDef"
+linktitle: "SoftPointerToAcDbNavisworksModelDef"
+articleTitle: "SoftPointerToAcDbNavisworksModelDef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCoordinationModel property. Gets or sets the soft pointer to ac database navisworks model definition."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadcoordinationmodel/softpointertoacdbnavisworksmodeldef/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadcoordinationmodel/softpointertoacdbnavisworksmodeldef/"
+product_version: "26.9"
 ---
 ## CadCoordinationModel.SoftPointerToAcDbNavisworksModelDef property
 
@@ -20,8 +23,7 @@ The soft pointer to ac database navisworks model definition.
 
 ### See Also
 
-* class [CadCoordinationModel](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCoordinationModel](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

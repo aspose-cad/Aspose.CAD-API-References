@@ -1,10 +1,13 @@
 ---
-title: Enum PngColorType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Png.PngColorType enum. Represents the PNG image color type
+title: "PngColorType Enum"
+linktitle: "PngColorType"
+articleTitle: "PngColorType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Png.PngColorType enum. Represents the PNG image color type."
 type: docs
-weight: 34070
-url: /net/aspose.cad.fileformats.png/pngcolortype/
+weight: 20
+url: "/net/aspose.cad.fileformats.png/pngcolortype/"
+product_version: "26.9"
 ---
 ## PngColorType enumeration
 
@@ -26,7 +29,6 @@ public enum PngColorType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Png](../../aspose.cad.fileformats.png/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Png](../../aspose.cad.fileformats.png/)
+* assembly [Aspose.CAD](../../)
 

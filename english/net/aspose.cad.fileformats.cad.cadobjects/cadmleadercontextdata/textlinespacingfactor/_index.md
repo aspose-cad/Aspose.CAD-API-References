@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.TextLineSpacingFactor
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets line spacing factor
+title: "CadMLeaderContextData.TextLineSpacingFactor"
+linktitle: "TextLineSpacingFactor"
+articleTitle: "TextLineSpacingFactor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets line spacing factor."
 type: docs
-weight: 390
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textlinespacingfactor/
+weight: 320
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textlinespacingfactor/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.TextLineSpacingFactor property
 
@@ -20,8 +23,7 @@ Line spacing factor.
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

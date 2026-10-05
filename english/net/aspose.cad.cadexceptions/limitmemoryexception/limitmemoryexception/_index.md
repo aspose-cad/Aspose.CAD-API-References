@@ -1,10 +1,13 @@
 ---
-title: LimitMemoryException.LimitMemoryException
-second_title: Aspose.CAD for .NET API Reference
-description: LimitMemoryException constructor. Initializes a new instance of the LimitMemoryException class
+title: "LimitMemoryException.LimitMemoryException"
+linktitle: "LimitMemoryException"
+articleTitle: "LimitMemoryException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LimitMemoryException constructor. Initializes a new instance of the LimitMemoryException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions/limitmemoryexception/limitmemoryexception/
+url: "/net/aspose.cad.cadexceptions/limitmemoryexception/limitmemoryexception/"
+product_version: "26.9"
 ---
 ## LimitMemoryException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public LimitMemoryException(string message)
 
 ### See Also
 
-* class [LimitMemoryException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
+* class [LimitMemoryException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## LimitMemoryException(string, Exception) {#constructor_2}
+## LimitMemoryException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`LimitMemoryException`](../) class.
 
@@ -41,13 +44,13 @@ public LimitMemoryException(string message, Exception innerException)
 
 ### See Also
 
-* class [LimitMemoryException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
+* class [LimitMemoryException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## LimitMemoryException(string, long) {#constructor_1}
+## LimitMemoryException(string, long) {#constructor_2}
 
 Initializes a new instance of the [`LimitMemoryException`](../) class.
 
@@ -62,13 +65,13 @@ public LimitMemoryException(string message, long reduceMemoryFactor)
 
 ### See Also
 
-* class [LimitMemoryException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
+* class [LimitMemoryException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## LimitMemoryException(string, Exception, int) {#constructor_3}
+## LimitMemoryException(string, Exception, int) {#constructor_3}
 
 Initializes a new instance of the [`LimitMemoryException`](../) class.
 
@@ -84,8 +87,7 @@ public LimitMemoryException(string message, Exception innerException, int reduce
 
 ### See Also
 
-* class [LimitMemoryException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [LimitMemoryException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 

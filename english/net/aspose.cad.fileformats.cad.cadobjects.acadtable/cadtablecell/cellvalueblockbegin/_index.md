@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.CellValueBlockBegin
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the cell value block begin
+title: "CadTableCell.CellValueBlockBegin"
+linktitle: "CellValueBlockBegin"
+articleTitle: "CellValueBlockBegin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the cell value block begin."
 type: docs
-weight: 300
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cellvalueblockbegin/
+weight: 360
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cellvalueblockbegin/"
+product_version: "26.9"
 ---
 ## CadTableCell.CellValueBlockBegin property
 
@@ -20,8 +23,7 @@ The cell value block begin.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

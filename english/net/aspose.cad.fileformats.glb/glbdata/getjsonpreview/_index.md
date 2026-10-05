@@ -1,10 +1,13 @@
 ---
-title: GlbData.GetJsonPreview
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Gets the JSON document of this GlbData
+title: "GlbData.GetJsonPreview"
+linktitle: "GetJsonPreview"
+articleTitle: "GetJsonPreview"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Gets the JSON document of this GlbData."
 type: docs
-weight: 400
-url: /net/aspose.cad.fileformats.glb/glbdata/getjsonpreview/
+weight: 430
+url: "/net/aspose.cad.fileformats.glb/glbdata/getjsonpreview/"
+product_version: "26.9"
 ---
 ## GlbData.GetJsonPreview method
 
@@ -20,12 +23,12 @@ A JSON content.
 
 ## Remarks
 
-⚠ Beware: this method serializes the current model into a json, without taking care of the binary buffers, so the produced json might not be usable!
+⚠ Beware: this method serializes the current model into a json, without taking care of the binary buffers,
+ so the produced json might not be usable!
 
 ### See Also
 
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

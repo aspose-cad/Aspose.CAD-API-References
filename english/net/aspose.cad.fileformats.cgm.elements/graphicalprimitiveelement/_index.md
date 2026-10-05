@@ -1,12 +1,17 @@
 ---
-title: Enum GraphicalPrimitiveElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Elements.GraphicalPrimitiveElement enum. 
+title: "GraphicalPrimitiveElement Enum"
+linktitle: "GraphicalPrimitiveElement"
+articleTitle: "GraphicalPrimitiveElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Elements.GraphicalPrimitiveElement enum."
 type: docs
-weight: 7060
-url: /net/aspose.cad.fileformats.cgm.elements/graphicalprimitiveelement/
+weight: 120
+url: "/net/aspose.cad.fileformats.cgm.elements/graphicalprimitiveelement/"
+product_version: "26.9"
 ---
 ## GraphicalPrimitiveElement enumeration
+
+
 
 ```csharp
 public enum GraphicalPrimitiveElement
@@ -49,7 +54,6 @@ public enum GraphicalPrimitiveElement
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../)
 

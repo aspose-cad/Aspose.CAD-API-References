@@ -1,10 +1,14 @@
 ---
-title: Class DwfWhipOptionFontFamily
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font.DwfWhipOptionFontFamily class. Represents Font option font family
+title: "DwfWhipOptionFontFamily Class"
+linktitle: "DwfWhipOptionFontFamily"
+articleTitle: "DwfWhipOptionFontFamily"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font.DwfWhipOptionFontFamily class. Represents Font option font family"
 type: docs
-weight: 10030
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontfamily/
+weight: 30
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontfamily/"
+keywords: "DwfWhipOptionFontFamily, Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DwfWhipOptionFontFamily class
 
@@ -24,13 +28,12 @@ public class DwfWhipOptionFontFamily : DwfWhipObject
 
 | Name | Description |
 | --- | --- |
-| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
-| [Value](../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontfamily/value/) { get; } | Gets value of option |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
+| [Value](../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontfamily/value/) { get; } | Gets value of option |
 
 ### See Also
 
-* class [DwfWhipObject](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
-* assembly [Aspose.CAD](../../)
-
+* class [DwfWhipObject](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
+* assembly [Aspose.CAD](../../)
 

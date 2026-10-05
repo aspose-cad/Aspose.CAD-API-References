@@ -1,10 +1,13 @@
 ---
-title: ImageResizeSettings.Mode
-second_title: Aspose.CAD for .NET API Reference
-description: ImageResizeSettings property. Gets or sets the interpolation mode
+title: "ImageResizeSettings.Mode"
+linktitle: "Mode"
+articleTitle: "Mode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageResizeSettings property. Gets or sets the interpolation mode."
 type: docs
-weight: 60
-url: /net/aspose.cad/imageresizesettings/mode/
+weight: 30
+url: "/net/aspose.cad/imageresizesettings/mode/"
+product_version: "26.9"
 ---
 ## ImageResizeSettings.Mode property
 
@@ -20,9 +23,8 @@ The mode.
 
 ### See Also
 
-* enum [ResizeType](../../resizetype/)
-* class [ImageResizeSettings](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ResizeType](../../resizetype/)
+* class [ImageResizeSettings](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadSectionGeometrySettings.CadSectionGeometrySettings
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionGeometrySettings constructor. The default constructor
+title: "CadSectionGeometrySettings.CadSectionGeometrySettings"
+linktitle: "CadSectionGeometrySettings"
+articleTitle: "CadSectionGeometrySettings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionGeometrySettings constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/cadsectiongeometrysettings/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/cadsectiongeometrysettings/"
+product_version: "26.9"
 ---
 ## CadSectionGeometrySettings constructor
 
@@ -16,8 +19,7 @@ public CadSectionGeometrySettings()
 
 ### See Also
 
-* class [CadSectionGeometrySettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionGeometrySettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

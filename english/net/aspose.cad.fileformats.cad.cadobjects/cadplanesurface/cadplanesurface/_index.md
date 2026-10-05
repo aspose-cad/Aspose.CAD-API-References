@@ -1,10 +1,13 @@
 ---
-title: CadPlaneSurface.CadPlaneSurface
-second_title: Aspose.CAD for .NET API Reference
-description: CadPlaneSurface constructor. The default constructor
+title: "CadPlaneSurface.CadPlaneSurface"
+linktitle: "CadPlaneSurface"
+articleTitle: "CadPlaneSurface"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPlaneSurface constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadplanesurface/cadplanesurface/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadplanesurface/cadplanesurface/"
+product_version: "26.9"
 ---
 ## CadPlaneSurface constructor
 
@@ -16,8 +19,7 @@ public CadPlaneSurface()
 
 ### See Also
 
-* class [CadPlaneSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPlaneSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

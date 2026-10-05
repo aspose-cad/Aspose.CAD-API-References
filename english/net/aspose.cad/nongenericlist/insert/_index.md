@@ -1,14 +1,17 @@
 ---
-title: NonGenericList.Insert
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericList method. Inserts an item to the IList at the specified index
+title: "NonGenericList.Insert"
+linktitle: "Insert"
+articleTitle: "Insert"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericList method. Inserts an item to the IList at the specified index."
 type: docs
-weight: 140
-url: /net/aspose.cad/nongenericlist/insert/
+weight: 60
+url: "/net/aspose.cad/nongenericlist/insert/"
+product_version: "26.9"
 ---
 ## NonGenericList.Insert method
 
-Inserts an item to the IList at the specified index.
+Inserts an item to the `IList` at the specified index.
 
 ```csharp
 public void Insert(int index, object value)
@@ -21,8 +24,7 @@ public void Insert(int index, object value)
 
 ### See Also
 
-* class [NonGenericList](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericList](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

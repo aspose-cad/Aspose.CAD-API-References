@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.Material
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets the material
+title: "CadEntityBase.Material"
+linktitle: "Material"
+articleTitle: "Material"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets the material."
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/material/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/material/"
+product_version: "26.9"
 ---
 ## CadEntityBase.Material property
 
@@ -20,8 +23,7 @@ The material.
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

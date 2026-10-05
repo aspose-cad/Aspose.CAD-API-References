@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.AttributeDefinitionTextString
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the attribute definition text string
+title: "CadTableCell.AttributeDefinitionTextString"
+linktitle: "AttributeDefinitionTextString"
+articleTitle: "AttributeDefinitionTextString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the attribute definition text string."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/attributedefinitiontextstring/
+weight: 420
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/attributedefinitiontextstring/"
+product_version: "26.9"
 ---
 ## CadTableCell.AttributeDefinitionTextString property
 
@@ -20,8 +23,7 @@ The attribute definition text string.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

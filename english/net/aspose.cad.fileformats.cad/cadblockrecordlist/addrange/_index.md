@@ -1,10 +1,13 @@
 ---
-title: CadBlockRecordList.AddRange
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockRecordList method. Adds the range of the objects to container
+title: "CadBlockRecordList.AddRange"
+linktitle: "AddRange"
+articleTitle: "AddRange"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockRecordList method. Adds the range of the objects to container."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad/cadblockrecordlist/addrange/
+url: "/net/aspose.cad.fileformats.cad/cadblockrecordlist/addrange/"
+product_version: "26.9"
 ---
 ## CadBlockRecordList.AddRange method
 
@@ -20,9 +23,8 @@ public void AddRange(CadBlockTableObject[] objects)
 
 ### See Also
 
-* class [CadBlockTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/)
-* class [CadBlockRecordList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/)
+* class [CadBlockRecordList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

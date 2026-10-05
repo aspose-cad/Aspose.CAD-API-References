@@ -1,10 +1,13 @@
 ---
-title: CadAlignedDimension.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadAlignedDimension property. Gets the name of the type
+title: "CadAlignedDimension.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAlignedDimension property. Gets the name of the type."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/typename/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/typename/"
+product_version: "26.9"
 ---
 ## CadAlignedDimension.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadAlignedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadAlignedDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

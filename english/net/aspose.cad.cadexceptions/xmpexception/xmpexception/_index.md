@@ -1,10 +1,13 @@
 ---
-title: XmpException.XmpException
-second_title: Aspose.CAD for .NET API Reference
-description: XmpException constructor. Initializes a new instance of the XmpException class
+title: "XmpException.XmpException"
+linktitle: "XmpException"
+articleTitle: "XmpException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "XmpException constructor. Initializes a new instance of the XmpException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions/xmpexception/xmpexception/
+url: "/net/aspose.cad.cadexceptions/xmpexception/xmpexception/"
+product_version: "26.9"
 ---
 ## XmpException() {#constructor}
 
@@ -16,9 +19,9 @@ public XmpException()
 
 ### See Also
 
-* class [XmpException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
+* class [XmpException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,13 +39,13 @@ public XmpException(string message)
 
 ### See Also
 
-* class [XmpException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
+* class [XmpException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## XmpException(string, Exception) {#constructor_2}
+## XmpException(string, Exception) {#constructor_2}
 
 Initializes a new instance of the [`XmpException`](../) class.
 
@@ -57,8 +60,7 @@ public XmpException(string message, Exception innerException)
 
 ### See Also
 
-* class [XmpException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [XmpException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 

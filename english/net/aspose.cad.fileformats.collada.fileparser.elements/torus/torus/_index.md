@@ -1,10 +1,13 @@
 ---
-title: Torus.Torus
-second_title: Aspose.CAD for .NET API Reference
-description: Torus constructor. The default constructor
+title: "Torus.Torus"
+linktitle: "Torus"
+articleTitle: "Torus"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Torus constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/torus/torus/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/torus/torus/"
+product_version: "26.9"
 ---
 ## Torus constructor
 
@@ -16,8 +19,7 @@ public Torus()
 
 ### See Also
 
-* class [Torus](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Torus](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

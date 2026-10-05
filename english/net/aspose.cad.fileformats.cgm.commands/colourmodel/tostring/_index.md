@@ -1,12 +1,17 @@
 ---
-title: ColourModel.ToString
-second_title: Aspose.CAD for .NET API Reference
-description: ColourModel method. 
+title: "ColourModel.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColourModel method."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cgm.commands/colourmodel/tostring/
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm.commands/colourmodel/tostring/"
+product_version: "26.9"
 ---
 ## ColourModel.ToString method
+
+
 
 ```csharp
 public override string ToString()
@@ -14,8 +19,7 @@ public override string ToString()
 
 ### See Also
 
-* class [ColourModel](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ColourModel](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

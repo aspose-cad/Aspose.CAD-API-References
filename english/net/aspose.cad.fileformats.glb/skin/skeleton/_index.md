@@ -1,10 +1,13 @@
 ---
-title: Skin.Skeleton
-second_title: Aspose.CAD for .NET API Reference
-description: Skin property. Gets or sets the Skeleton Node which represents the root of a joints hierarchy
+title: "Skin.Skeleton"
+linktitle: "Skeleton"
+articleTitle: "Skeleton"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Skin property. Gets or sets the Skeleton Node, which represents the root of a joints hierarchy."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.glb/skin/skeleton/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb/skin/skeleton/"
+product_version: "26.9"
 ---
 ## Skin.Skeleton property
 
@@ -16,9 +19,8 @@ public Node Skeleton { get; set; }
 
 ### See Also
 
-* class [Node](../../node/)
-* class [Skin](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../../node/)
+* class [Skin](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

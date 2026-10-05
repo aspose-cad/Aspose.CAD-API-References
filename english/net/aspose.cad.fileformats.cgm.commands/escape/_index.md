@@ -1,12 +1,18 @@
 ---
-title: Class Escape
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.Escape class. 
+title: "Escape Class"
+linktitle: "Escape"
+articleTitle: "Escape"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.Escape class."
 type: docs
-weight: 5700
-url: /net/aspose.cad.fileformats.cgm.commands/escape/
+weight: 970
+url: "/net/aspose.cad.fileformats.cgm.commands/escape/"
+keywords: "Escape, Aspose.CAD.FileFormats.Cgm.Commands, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Escape class
+
+
 
 ```csharp
 public class Escape : Command
@@ -16,31 +22,30 @@ public class Escape : Command
 
 | Name | Description |
 | --- | --- |
-| [Escape](escape/#constructor)(CgmFile) |  |
-| [Escape](escape/#constructor_1)(CgmFile, int, string) |  |
+| [Escape](escape/#constructor)(CgmFile) | Initializes a new instance of the Escape class. |
+| [Escape](escape/#constructor_1)(CgmFile, int, string) | Initializes a new instance of the Escape class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DataRecord](../../aspose.cad.fileformats.cgm.commands/escape/datarecord/) { get; set; } |  |
-| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
-| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
-| [Identifier](../../aspose.cad.fileformats.cgm.commands/escape/identifier/) { get; set; } |  |
+| [DataRecord](../../aspose.cad.fileformats.cgm.commands/escape/datarecord/) { get; set; } |  |
+| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
+| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
+| [Identifier](../../aspose.cad.fileformats.cgm.commands/escape/identifier/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/escape/readfrombinary/)(IBinaryReader) |  |
-| override [ToString](../../aspose.cad.fileformats.cgm.commands/escape/tostring/)() |  |
-| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/escape/writeasbinary/)(IBinaryWriter) |  |
-| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/escape/writeascleartext/)(IClearTextWriter) |  |
+| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/escape/readfrombinary/)(IBinaryReader) |  |
+| override [ToString](../../aspose.cad.fileformats.cgm.commands/escape/tostring/)() |  |
+| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/escape/writeasbinary/)(IBinaryWriter) |  |
+| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/escape/writeascleartext/)(IClearTextWriter) |  |
 
 ### See Also
 
-* class [Command](../command/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [Command](../command/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

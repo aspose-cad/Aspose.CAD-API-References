@@ -1,10 +1,13 @@
 ---
-title: CadDoubleAttribute.CadDoubleAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: CadDoubleAttribute constructor. Initializes a new instance of the CadDoubleAttribute class
+title: "CadDoubleAttribute.CadDoubleAttribute"
+linktitle: "CadDoubleAttribute"
+articleTitle: "CadDoubleAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDoubleAttribute constructor. Initializes a new instance of the CadDoubleAttribute class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/caddoubleattribute/caddoubleattribute/
+url: "/net/aspose.cad.fileformats.cad/caddoubleattribute/caddoubleattribute/"
+product_version: "26.9"
 ---
 ## CadDoubleAttribute constructor
 
@@ -23,10 +26,9 @@ public CadDoubleAttribute(CadEntityAttribute attribute, CadParameterType paramet
 
 ### See Also
 
-* enum [CadEntityAttribute](../../cadentityattribute/)
-* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
-* class [CadDoubleAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
+* class [CadDoubleAttribute](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

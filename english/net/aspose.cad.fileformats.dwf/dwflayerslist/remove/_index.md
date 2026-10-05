@@ -1,10 +1,13 @@
 ---
-title: DwfLayersList.Remove
-second_title: Aspose.CAD for .NET API Reference
-description: DwfLayersList method. Removes the first occurrence of a specific object from the DwfLayersList
+title: "DwfLayersList.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfLayersList method. Removes the first occurrence of a specific object from the DwfLayersList."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.dwf/dwflayerslist/remove/
+weight: 100
+url: "/net/aspose.cad.fileformats.dwf/dwflayerslist/remove/"
+product_version: "26.9"
 ---
 ## DwfLayersList.Remove method
 
@@ -24,9 +27,8 @@ Result of removing
 
 ### See Also
 
-* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
-* class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
+* class [DwfLayersList](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

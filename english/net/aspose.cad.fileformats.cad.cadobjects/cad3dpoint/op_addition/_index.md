@@ -1,10 +1,13 @@
 ---
-title: Cad3DPoint.op_Addition
-second_title: Aspose.CAD for .NET API Reference
-description: Cad3DPoint method. Sum of two points
+title: "Cad3DPoint.op_Addition"
+linktitle: "op_Addition"
+articleTitle: "op_Addition"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad3DPoint method. Sum of two points"
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dpoint/op_addition/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad3dpoint/op_addition/"
+product_version: "26.9"
 ---
 ## Cad3DPoint Addition operator
 
@@ -25,8 +28,7 @@ Returns the sum
 
 ### See Also
 
-* class [Cad3DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Material.Channels
-second_title: Aspose.CAD for .NET API Reference
-description: Material property. Gets a collection of MaterialChannel elements available in this Material instance
+title: "Material.Channels"
+linktitle: "Channels"
+articleTitle: "Channels"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Material property. Gets a collection of MaterialChannel elements available in this Material instance."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.glb/material/channels/
+weight: 90
+url: "/net/aspose.cad.fileformats.glb/material/channels/"
+product_version: "26.9"
 ---
 ## Material.Channels property
 
@@ -16,9 +19,8 @@ public IEnumerable<MaterialChannel> Channels { get; }
 
 ### See Also
 
-* struct [MaterialChannel](../../materialchannel/)
-* class [Material](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [MaterialChannel](../../materialchannel/)
+* class [Material](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

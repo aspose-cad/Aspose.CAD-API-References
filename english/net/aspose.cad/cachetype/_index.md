@@ -1,10 +1,13 @@
 ---
-title: Enum CacheType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.CacheType enum. Specifies the cache type to use
+title: "CacheType Enum"
+linktitle: "CacheType"
+articleTitle: "CacheType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.CacheType enum. Specifies the cache type to use."
 type: docs
-weight: 80
-url: /net/aspose.cad/cachetype/
+weight: 50
+url: "/net/aspose.cad/cachetype/"
+product_version: "26.9"
 ---
 ## CacheType enumeration
 
@@ -24,7 +27,6 @@ public enum CacheType
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

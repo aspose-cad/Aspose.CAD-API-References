@@ -1,10 +1,14 @@
 ---
-title: Class CadBoundaryPathLine
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadBoundaryPathLine class. The Cad boundary path line
+title: "CadBoundaryPathLine Class"
+linktitle: "CadBoundaryPathLine"
+articleTitle: "CadBoundaryPathLine"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadBoundaryPathLine class. The Cad boundary path line."
 type: docs
-weight: 3650
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/"
+keywords: "CadBoundaryPathLine, Aspose.CAD.FileFormats.Cad.CadObjects.Hatch, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadBoundaryPathLine class
 
@@ -24,8 +28,8 @@ public class CadBoundaryPathLine : ICadBoundaryPathEntity
 
 | Name | Description |
 | --- | --- |
-| [FirstPoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/firstpoint/) { get; set; } | Gets or sets the first Point. |
-| [SecondPoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/secondpoint/) { get; set; } | Gets or sets the second Point. |
+| [FirstPoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/firstpoint/) { get; set; } | Gets or sets the first Point. |
+| [SecondPoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/secondpoint/) { get; set; } | Gets or sets the second Point. |
 
 ## Methods
 
@@ -35,8 +39,7 @@ public class CadBoundaryPathLine : ICadBoundaryPathEntity
 
 ### See Also
 
-* interface [ICadBoundaryPathEntity](../icadboundarypathentity/)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../)
-
+* interface [ICadBoundaryPathEntity](../icadboundarypathentity/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../)
 

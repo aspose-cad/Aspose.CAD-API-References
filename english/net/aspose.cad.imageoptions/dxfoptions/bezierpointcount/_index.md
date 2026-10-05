@@ -1,10 +1,13 @@
 ---
-title: DxfOptions.BezierPointCount
-second_title: Aspose.CAD for .NET API Reference
-description: DxfOptions property. How many points to generate when converting Bezier curves to polylines if OutputMode is Render
+title: "DxfOptions.BezierPointCount"
+linktitle: "BezierPointCount"
+articleTitle: "BezierPointCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DxfOptions property. How many points to generate when converting Bezier curves to polylines if OutputMode is Render"
 type: docs
-weight: 20
-url: /net/aspose.cad.imageoptions/dxfoptions/bezierpointcount/
+weight: 60
+url: "/net/aspose.cad.imageoptions/dxfoptions/bezierpointcount/"
+product_version: "26.9"
 ---
 ## DxfOptions.BezierPointCount property
 
@@ -16,8 +19,7 @@ public byte BezierPointCount { get; set; }
 
 ### See Also
 
-* class [DxfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DxfOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

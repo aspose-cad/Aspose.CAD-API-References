@@ -1,14 +1,18 @@
 ---
-title: IfcImage.GetStrings
-second_title: Aspose.CAD for .NET API Reference
-description: IfcImage method. Gets all string values from image. Can be useful to get some text from the image
+title: "IfcImage.GetStrings"
+linktitle: "GetStrings"
+articleTitle: "GetStrings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcImage method. Gets all string values from image. Can be useful to get some text from the image"
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.ifc/ifcimage/getstrings/
+weight: 40
+url: "/net/aspose.cad.fileformats.ifc/ifcimage/getstrings/"
+product_version: "26.9"
 ---
 ## IfcImage.GetStrings method
 
-Gets all string values from image. Can be useful to get some text from the image
+Gets all string values from image.
+ Can be useful to get some text from the image
 
 ```csharp
 public override string[] GetStrings()
@@ -31,8 +35,7 @@ using (IfcImage ifcImage = (IfcImage)Image.Load(fileName))
 
 ### See Also
 
-* class [IfcImage](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcImage](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

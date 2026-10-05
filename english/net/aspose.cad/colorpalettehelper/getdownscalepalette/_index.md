@@ -1,10 +1,13 @@
 ---
-title: ColorPaletteHelper.GetDownscalePalette
-second_title: Aspose.CAD for .NET API Reference
-description: ColorPaletteHelper method. Get 256 color palette composed from upper bits of initial image color values
+title: "ColorPaletteHelper.GetDownscalePalette"
+linktitle: "GetDownscalePalette"
+articleTitle: "GetDownscalePalette"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColorPaletteHelper method. Get 256 color palette, composed from upper bits of initial image color values."
 type: docs
-weight: 70
-url: /net/aspose.cad/colorpalettehelper/getdownscalepalette/
+weight: 80
+url: "/net/aspose.cad/colorpalettehelper/getdownscalepalette/"
+product_version: "26.9"
 ---
 ## ColorPaletteHelper.GetDownscalePalette method
 
@@ -24,10 +27,9 @@ The [`ColorPalette`](../../colorpalette/).
 
 ### See Also
 
-* class [ColorPalette](../../colorpalette/)
-* class [RasterImage](../../rasterimage/)
-* class [ColorPaletteHelper](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ColorPalette](../../colorpalette/)
+* class [RasterImage](../../rasterimage/)
+* class [ColorPaletteHelper](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,18 @@
 ---
-title: Enum TileMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.TileMode enum. The tile mode. Specifies how tiling is performed in the filled geometry
+title: "TileMode Enum"
+linktitle: "TileMode"
+articleTitle: "TileMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.TileMode enum. The tile mode. Specifies how tiling is performed in the filled geometry."
 type: docs
-weight: 9570
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/tilemode/
+weight: 330
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/tilemode/"
+product_version: "26.9"
 ---
 ## TileMode enumeration
 
-The tile mode. Specifies how tiling is performed in the filled geometry.
+The tile mode.
+ Specifies how tiling is performed in the filled geometry.
 
 ```csharp
 public enum TileMode
@@ -26,7 +30,6 @@ public enum TileMode
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Matrix.M31
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix property. Gets the matrix element at third row first column. Represents translation along X axis
+title: "Matrix.M31"
+linktitle: "M31"
+articleTitle: "M31"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix property. Gets the matrix element at third row first column. Represents translation along X axis."
 type: docs
-weight: 70
-url: /net/aspose.cad/matrix/m31/
+weight: 290
+url: "/net/aspose.cad/matrix/m31/"
+product_version: "26.9"
 ---
 ## Matrix.M31 property
 
@@ -16,8 +19,7 @@ public float M31 { get; }
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

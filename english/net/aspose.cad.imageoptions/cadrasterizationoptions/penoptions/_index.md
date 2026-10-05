@@ -1,10 +1,13 @@
 ---
-title: CadRasterizationOptions.PenOptions
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterizationOptions property. Gets or sets the pen options
+title: "CadRasterizationOptions.PenOptions"
+linktitle: "PenOptions"
+articleTitle: "PenOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterizationOptions property. Gets or sets the pen options."
 type: docs
-weight: 120
-url: /net/aspose.cad.imageoptions/cadrasterizationoptions/penoptions/
+weight: 30
+url: "/net/aspose.cad.imageoptions/cadrasterizationoptions/penoptions/"
+product_version: "26.9"
 ---
 ## CadRasterizationOptions.PenOptions property
 
@@ -35,9 +38,8 @@ using (CadImage cadImage = (CadImage)Image.Load(GetPath(fileName)))
 
 ### See Also
 
-* class [PenOptions](../../penoptions/)
-* class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PenOptions](../../penoptions/)
+* class [CadRasterizationOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: GifOptions.HasTrailer
-second_title: Aspose.CAD for .NET API Reference
-description: GifOptions property. Gets or sets a value indicating whether GIF has trailer
+title: "GifOptions.HasTrailer"
+linktitle: "HasTrailer"
+articleTitle: "HasTrailer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GifOptions property. Gets or sets a value indicating whether GIF has trailer."
 type: docs
-weight: 50
-url: /net/aspose.cad.imageoptions/gifoptions/hastrailer/
+weight: 100
+url: "/net/aspose.cad.imageoptions/gifoptions/hastrailer/"
+product_version: "26.9"
 ---
 ## GifOptions.HasTrailer property
 
@@ -20,8 +23,7 @@ public bool HasTrailer { get; set; }
 
 ### See Also
 
-* class [GifOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GifOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

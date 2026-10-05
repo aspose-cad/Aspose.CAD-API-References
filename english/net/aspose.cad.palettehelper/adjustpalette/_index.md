@@ -1,10 +1,14 @@
 ---
-title: Class AdjustPalette
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.PaletteHelper.AdjustPalette class. Color palette adjustment class
+title: "AdjustPalette Class"
+linktitle: "AdjustPalette"
+articleTitle: "AdjustPalette"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.PaletteHelper.AdjustPalette class. Color palette adjustment class"
 type: docs
-weight: 37040
-url: /net/aspose.cad.palettehelper/adjustpalette/
+weight: 20
+url: "/net/aspose.cad.palettehelper/adjustpalette/"
+keywords: "AdjustPalette, Aspose.CAD.PaletteHelper, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## AdjustPalette class
 
@@ -22,7 +26,6 @@ public class AdjustPalette
 
 ### See Also
 
-* namespace [Aspose.CAD.PaletteHelper](../../aspose.cad.palettehelper/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.PaletteHelper](../../aspose.cad.palettehelper/)
+* assembly [Aspose.CAD](../../)
 

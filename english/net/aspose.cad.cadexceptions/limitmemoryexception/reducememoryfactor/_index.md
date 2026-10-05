@@ -1,10 +1,13 @@
 ---
-title: LimitMemoryException.ReduceMemoryFactor
-second_title: Aspose.CAD for .NET API Reference
-description: LimitMemoryException property. Gets or sets the reduce memory factor
+title: "LimitMemoryException.ReduceMemoryFactor"
+linktitle: "ReduceMemoryFactor"
+articleTitle: "ReduceMemoryFactor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LimitMemoryException property. Gets or sets the reduce memory factor."
 type: docs
-weight: 20
-url: /net/aspose.cad.cadexceptions/limitmemoryexception/reducememoryfactor/
+weight: 50
+url: "/net/aspose.cad.cadexceptions/limitmemoryexception/reducememoryfactor/"
+product_version: "26.9"
 ---
 ## LimitMemoryException.ReduceMemoryFactor property
 
@@ -20,8 +23,7 @@ The reduce memory factor.
 
 ### See Also
 
-* class [LimitMemoryException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [LimitMemoryException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 

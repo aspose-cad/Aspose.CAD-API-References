@@ -1,10 +1,13 @@
 ---
-title: Enum DxfOutputVersion
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.DxfOutputVersion enum. Specifies version of DXF file
+title: "DxfOutputVersion Enum"
+linktitle: "DxfOutputVersion"
+articleTitle: "DxfOutputVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.DxfOutputVersion enum. Specifies version of DXF file"
 type: docs
-weight: 36400
-url: /net/aspose.cad.imageoptions/dxfoutputversion/
+weight: 150
+url: "/net/aspose.cad.imageoptions/dxfoutputversion/"
+product_version: "26.9"
 ---
 ## DxfOutputVersion enumeration
 
@@ -22,7 +25,6 @@ public enum DxfOutputVersion
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../)
 

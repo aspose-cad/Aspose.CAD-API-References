@@ -1,14 +1,17 @@
 ---
-title: CadSize.ToString
-second_title: Aspose.CAD for .NET API Reference
-description: CadSize method. Returns a String that represents this instance
+title: "CadSize.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSize method. Returns a String that represents this instance."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsize/tostring/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsize/tostring/"
+product_version: "26.9"
 ---
 ## CadSize.ToString method
 
-Returns a String that represents this instance.
+Returns a `String` that represents this instance.
 
 ```csharp
 public override string ToString()
@@ -16,12 +19,11 @@ public override string ToString()
 
 ### Return Value
 
-A String that represents this instance.
+A `String` that represents this instance.
 
 ### See Also
 
-* class [CadSize](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSize](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

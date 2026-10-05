@@ -1,10 +1,13 @@
 ---
-title: JpegExifData.ResolutionUnit
-second_title: Aspose.CAD for .NET API Reference
-description: JpegExifData property. Gets or sets the resolution unit
+title: "JpegExifData.ResolutionUnit"
+linktitle: "ResolutionUnit"
+articleTitle: "ResolutionUnit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegExifData property. Gets or sets the resolution unit."
 type: docs
-weight: 160
-url: /net/aspose.cad.exif/jpegexifdata/resolutionunit/
+weight: 190
+url: "/net/aspose.cad.exif/jpegexifdata/resolutionunit/"
+product_version: "26.9"
 ---
 ## JpegExifData.ResolutionUnit property
 
@@ -20,9 +23,8 @@ The resolution unit.
 
 ### See Also
 
-* enum [ExifUnit](../../../aspose.cad.exif.enums/exifunit/)
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ExifUnit](../../../aspose.cad.exif.enums/exifunit/)
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

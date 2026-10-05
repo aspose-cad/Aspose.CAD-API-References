@@ -1,10 +1,13 @@
 ---
-title: CadMaterial.NormalMapperTransform
-second_title: Aspose.CAD for .NET API Reference
-description: CadMaterial property. Gets or sets the normal mapper transform
+title: "CadMaterial.NormalMapperTransform"
+linktitle: "NormalMapperTransform"
+articleTitle: "NormalMapperTransform"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMaterial property. Gets or sets the normal mapper transform."
 type: docs
-weight: 550
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmappertransform/
+weight: 310
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmappertransform/"
+product_version: "26.9"
 ---
 ## CadMaterial.NormalMapperTransform property
 
@@ -20,8 +23,7 @@ The normal mapper transform.
 
 ### See Also
 
-* class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMaterial](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

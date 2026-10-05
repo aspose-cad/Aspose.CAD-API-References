@@ -1,14 +1,17 @@
 ---
-title: Enum LineCap
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.LineCap enum. Specifies the available cap styles with which a Pen object can end a line
+title: "LineCap Enum"
+linktitle: "LineCap"
+articleTitle: "LineCap"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.LineCap enum. Specifies the available cap styles with which a !:Pen object can end a line."
 type: docs
-weight: 36930
-url: /net/aspose.cad/linecap/
+weight: 580
+url: "/net/aspose.cad/linecap/"
+product_version: "26.9"
 ---
 ## LineCap enumeration
 
-Specifies the available cap styles with which a !:Pen object can end a line.
+Specifies the available cap styles with which a `!:Pen` object can end a line.
 
 ```csharp
 public enum LineCap
@@ -32,7 +35,6 @@ public enum LineCap
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

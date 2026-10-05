@@ -1,10 +1,13 @@
 ---
-title: IPsdColorPalette.HasTransparentColor
-second_title: Aspose.CAD for .NET API Reference
-description: IPsdColorPalette property. Gets a value indicating whether transparent color exists
+title: "IPsdColorPalette.HasTransparentColor"
+linktitle: "HasTransparentColor"
+articleTitle: "HasTransparentColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IPsdColorPalette property. Gets a value indicating whether transparent color exists."
 type: docs
-weight: 10
-url: /net/aspose.cad/ipsdcolorpalette/hastransparentcolor/
+weight: 20
+url: "/net/aspose.cad/ipsdcolorpalette/hastransparentcolor/"
+product_version: "26.9"
 ---
 ## IPsdColorPalette.HasTransparentColor property
 
@@ -20,8 +23,7 @@ public bool HasTransparentColor { get; }
 
 ### See Also
 
-* interface [IPsdColorPalette](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IPsdColorPalette](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

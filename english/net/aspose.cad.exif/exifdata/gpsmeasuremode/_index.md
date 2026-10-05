@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSMeasureMode
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the GPS measurement mode
+title: "ExifData.GPSMeasureMode"
+linktitle: "GPSMeasureMode"
+articleTitle: "GPSMeasureMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the GPS measurement mode."
 type: docs
-weight: 570
-url: /net/aspose.cad.exif/exifdata/gpsmeasuremode/
+weight: 590
+url: "/net/aspose.cad.exif/exifdata/gpsmeasuremode/"
+product_version: "26.9"
 ---
 ## ExifData.GPSMeasureMode property
 
@@ -20,8 +23,7 @@ The GPS measurement mode.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

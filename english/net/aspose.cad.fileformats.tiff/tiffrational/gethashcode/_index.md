@@ -1,10 +1,13 @@
 ---
-title: TiffRational.GetHashCode
-second_title: Aspose.CAD for .NET API Reference
-description: TiffRational method. Returns a hash code for this instance
+title: "TiffRational.GetHashCode"
+linktitle: "GetHashCode"
+articleTitle: "GetHashCode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffRational method. Returns a hash code for this instance."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.tiff/tiffrational/gethashcode/
+weight: 100
+url: "/net/aspose.cad.fileformats.tiff/tiffrational/gethashcode/"
+product_version: "26.9"
 ---
 ## TiffRational.GetHashCode method
 
@@ -20,8 +23,7 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 
 ### See Also
 
-* class [TiffRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

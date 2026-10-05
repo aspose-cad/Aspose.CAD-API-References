@@ -1,10 +1,14 @@
 ---
-title: Class TextInformation
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Classes.TextInformation class. Information bundle of text elements
+title: "TextInformation Class"
+linktitle: "TextInformation"
+articleTitle: "TextInformation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Classes.TextInformation class. Information bundle of text elements"
 type: docs
-weight: 4720
-url: /net/aspose.cad.fileformats.cgm.classes/textinformation/
+weight: 100
+url: "/net/aspose.cad.fileformats.cgm.classes/textinformation/"
+keywords: "TextInformation, Aspose.CAD.FileFormats.Cgm.Classes, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## TextInformation class
 
@@ -24,13 +28,12 @@ public class TextInformation
 
 | Name | Description |
 | --- | --- |
-| [ColorCommand](../../aspose.cad.fileformats.cgm.classes/textinformation/colorcommand/) { get; set; } | Gets or sets the color command. |
-| [HeightCommand](../../aspose.cad.fileformats.cgm.classes/textinformation/heightcommand/) { get; set; } | Gets or sets the height command. |
-| [TextCommand](../../aspose.cad.fileformats.cgm.classes/textinformation/textcommand/) { get; set; } | Gets or sets the text command. |
+| [ColorCommand](../../aspose.cad.fileformats.cgm.classes/textinformation/colorcommand/) { get; set; } | Gets or sets the color command. |
+| [HeightCommand](../../aspose.cad.fileformats.cgm.classes/textinformation/heightcommand/) { get; set; } | Gets or sets the height command. |
+| [TextCommand](../../aspose.cad.fileformats.cgm.classes/textinformation/textcommand/) { get; set; } | Gets or sets the text command. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../)
 

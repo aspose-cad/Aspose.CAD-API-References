@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.CellBottomBorderLineweight
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the cell bottom border lineweight
+title: "CadTableCell.CellBottomBorderLineweight"
+linktitle: "CellBottomBorderLineweight"
+articleTitle: "CellBottomBorderLineweight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the cell bottom border lineweight."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cellbottomborderlineweight/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cellbottomborderlineweight/"
+product_version: "26.9"
 ---
 ## CadTableCell.CellBottomBorderLineweight property
 
@@ -20,8 +23,7 @@ The cell bottom border lineweight.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

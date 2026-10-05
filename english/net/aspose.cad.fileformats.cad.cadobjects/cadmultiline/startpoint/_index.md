@@ -1,10 +1,13 @@
 ---
-title: CadMultiLine.StartPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadMultiLine property. Gets the start point
+title: "CadMultiLine.StartPoint"
+linktitle: "StartPoint"
+articleTitle: "StartPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMultiLine property. Gets the start point."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmultiline/startpoint/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmultiline/startpoint/"
+product_version: "26.9"
 ---
 ## CadMultiLine.StartPoint property
 
@@ -16,9 +19,8 @@ public Cad3DPoint StartPoint { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMultiLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMultiLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

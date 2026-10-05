@@ -1,12 +1,17 @@
 ---
-title: Struct CgmRectangle
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Classes.CgmRectangle struct. 
+title: "CgmRectangle Struct"
+linktitle: "CgmRectangle"
+articleTitle: "CgmRectangle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Classes.CgmRectangle struct."
 type: docs
-weight: 4680
-url: /net/aspose.cad.fileformats.cgm.classes/cgmrectangle/
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm.classes/cgmrectangle/"
+product_version: "26.9"
 ---
-## CgmRectangle structure
+## CgmRectangle struct
+
+
 
 ```csharp
 public struct CgmRectangle
@@ -16,37 +21,36 @@ public struct CgmRectangle
 
 | Name | Description |
 | --- | --- |
-| [CgmRectangle](cgmrectangle/)(double, double, double, double) |  |
+| [CgmRectangle](cgmrectangle/)(double, double, double, double) | Initializes a new instance of the CgmRectangle class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Height](../../aspose.cad.fileformats.cgm.classes/cgmrectangle/height/) { get; } |  |
-| [IsEmpty](../../aspose.cad.fileformats.cgm.classes/cgmrectangle/isempty/) { get; } | Tests whether the [`Width`](./width/) or [`Height`](./height/) property of this `CgmRectangle` has a value of zero. |
-| [Width](../../aspose.cad.fileformats.cgm.classes/cgmrectangle/width/) { get; } |  |
-| [X](../../aspose.cad.fileformats.cgm.classes/cgmrectangle/x/) { get; } |  |
-| [Y](../../aspose.cad.fileformats.cgm.classes/cgmrectangle/y/) { get; } |  |
+| Height { get; } |  |
+| IsEmpty { get; } | Tests whether the [`Width`](./width/) or [`Height`](./height/) property of this `CgmRectangle` has a value of zero. |
+| Width { get; } |  |
+| X { get; } |  |
+| Y { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [FromPoints](../../aspose.cad.fileformats.cgm.classes/cgmrectangle/frompoints/)(CgmPoint, CgmPoint, CgmPoint, CgmPoint) | Create a rectangle from the rectangle points. |
-| [Contains](../../aspose.cad.fileformats.cgm.classes/cgmrectangle/contains/#contains)(CgmPoint) | Determines if the specified point is contained within this rectangle. |
-| [Contains](../../aspose.cad.fileformats.cgm.classes/cgmrectangle/contains/#contains_1)(CgmPoint, double) | Determines if the specified point is contained within this rectangle. |
-| [Contains](../../aspose.cad.fileformats.cgm.classes/cgmrectangle/contains/#contains_2)(double, double) | Determines if the specified point is contained within this rectangle. |
-| [Contains](../../aspose.cad.fileformats.cgm.classes/cgmrectangle/contains/#contains_3)(double, double, double) | Determines if the specified point is contained within this rectangle. |
+| Contains(CgmPoint) | Determines if the specified point is contained within this rectangle. |
+| Contains(CgmPoint, double) | Determines if the specified point is contained within this rectangle. |
+| Contains(double, double) | Determines if the specified point is contained within this rectangle. |
+| Contains(double, double, double) | Determines if the specified point is contained within this rectangle. |
+| FromPoints(CgmPoint, CgmPoint, CgmPoint, CgmPoint) | Create a rectangle from the rectangle points. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Empty](../../aspose.cad.fileformats.cgm.classes/cgmrectangle/empty/) | Represents an instance of the CGMRectangle class with its members uninitialized. |
+| Empty | Represents an instance of the CGMRectangle class with its members uninitialized. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../)
 

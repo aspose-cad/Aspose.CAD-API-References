@@ -1,10 +1,13 @@
 ---
-title: TiffExifIfd.TiffExifIfd
-second_title: Aspose.CAD for .NET API Reference
-description: TiffExifIfd constructor. Initializes a new instance of the TiffExifIfd class
+title: "TiffExifIfd.TiffExifIfd"
+linktitle: "TiffExifIfd"
+articleTitle: "TiffExifIfd"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffExifIfd constructor. Initializes a new instance of the TiffExifIfd class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff/tiffexififd/tiffexififd/
+url: "/net/aspose.cad.fileformats.tiff/tiffexififd/tiffexififd/"
+product_version: "26.9"
 ---
 ## TiffExifIfd() {#constructor}
 
@@ -16,15 +19,18 @@ public TiffExifIfd()
 
 ### See Also
 
-* class [TiffExifIfd](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
+* class [TiffExifIfd](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
 ## TiffExifIfd(uint) {#constructor_1}
 
 Initializes a new instance of the [`TiffExifIfd`](../) class.
+
+Interoperability, Exif IFD has the same structure as that of the IFD specified in TIFF. ordinarily, 
+ however, it does not contain image data as in the case of TIFF.
 
 ```csharp
 public TiffExifIfd(uint ifdOffset)
@@ -34,14 +40,9 @@ public TiffExifIfd(uint ifdOffset)
 | --- | --- | --- |
 | ifdOffset | UInt32 | A pointer to the Exif IFD. |
 
-## Remarks
-
-Interoperability, Exif IFD has the same structure as that of the IFD specified in TIFF. ordinarily, however, it does not contain image data as in the case of TIFF.
-
 ### See Also
 
-* class [TiffExifIfd](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffExifIfd](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

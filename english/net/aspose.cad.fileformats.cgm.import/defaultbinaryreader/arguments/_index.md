@@ -1,12 +1,17 @@
 ---
-title: DefaultBinaryReader.Arguments
-second_title: Aspose.CAD for .NET API Reference
-description: DefaultBinaryReader property. 
+title: "DefaultBinaryReader.Arguments"
+linktitle: "Arguments"
+articleTitle: "Arguments"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DefaultBinaryReader property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cgm.import/defaultbinaryreader/arguments/
+weight: 360
+url: "/net/aspose.cad.fileformats.cgm.import/defaultbinaryreader/arguments/"
+product_version: "26.9"
 ---
 ## DefaultBinaryReader.Arguments property
+
+
 
 ```csharp
 public byte[] Arguments { get; }
@@ -14,8 +19,7 @@ public byte[] Arguments { get; }
 
 ### See Also
 
-* class [DefaultBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../../aspose.cad.fileformats.cgm.import/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DefaultBinaryReader](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../../aspose.cad.fileformats.cgm.import/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.TextColor
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets text color
+title: "CadMLeaderContextData.TextColor"
+linktitle: "TextColor"
+articleTitle: "TextColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets text color."
 type: docs
-weight: 290
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textcolor/
+weight: 420
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textcolor/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.TextColor property
 
@@ -20,8 +23,7 @@ Color of text.
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

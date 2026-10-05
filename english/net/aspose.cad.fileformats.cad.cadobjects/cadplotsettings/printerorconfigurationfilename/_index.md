@@ -1,10 +1,13 @@
 ---
-title: CadPlotSettings.PrinterOrConfigurationFileName
-second_title: Aspose.CAD for .NET API Reference
-description: CadPlotSettings property. Gets or sets the name of the printer or configuration file
+title: "CadPlotSettings.PrinterOrConfigurationFileName"
+linktitle: "PrinterOrConfigurationFileName"
+articleTitle: "PrinterOrConfigurationFileName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPlotSettings property. Gets or sets the name of the printer or configuration file."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/printerorconfigurationfilename/
+weight: 260
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/printerorconfigurationfilename/"
+product_version: "26.9"
 ---
 ## CadPlotSettings.PrinterOrConfigurationFileName property
 
@@ -20,8 +23,7 @@ The name of the printer or configuration file.
 
 ### See Also
 
-* class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPlotSettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

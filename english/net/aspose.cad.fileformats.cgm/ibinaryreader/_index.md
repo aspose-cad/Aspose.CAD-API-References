@@ -1,10 +1,13 @@
 ---
-title: Interface IBinaryReader
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.IBinaryReader interface. Interface to read binary CGM files
+title: "IBinaryReader Interface"
+linktitle: "IBinaryReader"
+articleTitle: "IBinaryReader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.IBinaryReader interface. Interface to read binary CGM files"
 type: docs
-weight: 7270
-url: /net/aspose.cad.fileformats.cgm/ibinaryreader/
+weight: 50
+url: "/net/aspose.cad.fileformats.cgm/ibinaryreader/"
+product_version: "26.9"
 ---
 ## IBinaryReader interface
 
@@ -18,9 +21,9 @@ public interface IBinaryReader
 
 | Name | Description |
 | --- | --- |
-| [Arguments](../../aspose.cad.fileformats.cgm/ibinaryreader/arguments/) { get; } |  |
-| [ArgumentsCount](../../aspose.cad.fileformats.cgm/ibinaryreader/argumentscount/) { get; } |  |
-| [CurrentArg](../../aspose.cad.fileformats.cgm/ibinaryreader/currentarg/) { get; } |  |
+| [Arguments](../../aspose.cad.fileformats.cgm/ibinaryreader/arguments/) { get; } |  |
+| [ArgumentsCount](../../aspose.cad.fileformats.cgm/ibinaryreader/argumentscount/) { get; } |  |
+| [CurrentArg](../../aspose.cad.fileformats.cgm/ibinaryreader/currentarg/) { get; } |  |
 
 ## Methods
 
@@ -30,10 +33,10 @@ public interface IBinaryReader
 | [ReadArgumentEnd](../../aspose.cad.fileformats.cgm/ibinaryreader/readargumentend/)() |  |
 | [ReadBool](../../aspose.cad.fileformats.cgm/ibinaryreader/readbool/)() |  |
 | [ReadByte](../../aspose.cad.fileformats.cgm/ibinaryreader/readbyte/)() |  |
-| [ReadColor](../../aspose.cad.fileformats.cgm/ibinaryreader/readcolor/#readcolor)() |  |
-| [ReadColor](../../aspose.cad.fileformats.cgm/ibinaryreader/readcolor/#readcolor_1)(int) |  |
-| [ReadColorIndex](../../aspose.cad.fileformats.cgm/ibinaryreader/readcolorindex/#readcolorindex)() |  |
-| [ReadColorIndex](../../aspose.cad.fileformats.cgm/ibinaryreader/readcolorindex/#readcolorindex_1)(int) |  |
+| [ReadColor](../../aspose.cad.fileformats.cgm/ibinaryreader/readcolor/)() |  |
+| [ReadColor](../../aspose.cad.fileformats.cgm/ibinaryreader/readcolor/)(int) |  |
+| [ReadColorIndex](../../aspose.cad.fileformats.cgm/ibinaryreader/readcolorindex/)() |  |
+| [ReadColorIndex](../../aspose.cad.fileformats.cgm/ibinaryreader/readcolorindex/)(int) |  |
 | [ReadDirectColor](../../aspose.cad.fileformats.cgm/ibinaryreader/readdirectcolor/)() |  |
 | [ReadEmbeddedCommand](../../aspose.cad.fileformats.cgm/ibinaryreader/readembeddedcommand/)() |  |
 | [ReadEnum](../../aspose.cad.fileformats.cgm/ibinaryreader/readenum/)() |  |
@@ -60,7 +63,6 @@ public interface IBinaryReader
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm](../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm](../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../)
 

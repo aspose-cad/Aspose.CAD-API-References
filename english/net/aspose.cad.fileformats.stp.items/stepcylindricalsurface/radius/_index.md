@@ -1,12 +1,17 @@
 ---
-title: StepCylindricalSurface.Radius
-second_title: Aspose.CAD for .NET API Reference
-description: StepCylindricalSurface property. 
+title: "StepCylindricalSurface.Radius"
+linktitle: "Radius"
+articleTitle: "Radius"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepCylindricalSurface property."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.stp.items/stepcylindricalsurface/radius/
+url: "/net/aspose.cad.fileformats.stp.items/stepcylindricalsurface/radius/"
+product_version: "26.9"
 ---
 ## StepCylindricalSurface.Radius property
+
+
 
 ```csharp
 public double Radius { get; set; }
@@ -14,8 +19,7 @@ public double Radius { get; set; }
 
 ### See Also
 
-* class [StepCylindricalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepCylindricalSurface](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IObjectWithBounds.Width
-second_title: Aspose.CAD for .NET API Reference
-description: IObjectWithBounds property. Gets the object width
+title: "IObjectWithBounds.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IObjectWithBounds property. Gets the object width."
 type: docs
-weight: 40
-url: /net/aspose.cad/iobjectwithbounds/width/
+weight: 30
+url: "/net/aspose.cad/iobjectwithbounds/width/"
+product_version: "26.9"
 ---
 ## IObjectWithBounds.Width property
 
@@ -20,8 +23,7 @@ The object width.
 
 ### See Also
 
-* interface [IObjectWithBounds](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IObjectWithBounds](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

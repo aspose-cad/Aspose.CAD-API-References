@@ -1,10 +1,14 @@
 ---
-title: Class Margins
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.Margins class. Margins class
+title: "Margins Class"
+linktitle: "Margins"
+articleTitle: "Margins"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.Margins class. Margins class."
 type: docs
-weight: 36530
-url: /net/aspose.cad.imageoptions/margins/
+weight: 300
+url: "/net/aspose.cad.imageoptions/margins/"
+keywords: "Margins, Aspose.CAD.ImageOptions, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Margins class
 
@@ -24,14 +28,13 @@ public class Margins
 
 | Name | Description |
 | --- | --- |
-| [Bottom](../../aspose.cad.imageoptions/margins/bottom/) { get; set; } | Gets or sets bottom margin. |
-| [Left](../../aspose.cad.imageoptions/margins/left/) { get; set; } | Gets or sets left margin. |
-| [Right](../../aspose.cad.imageoptions/margins/right/) { get; set; } | Gets or sets right margin. |
-| [Top](../../aspose.cad.imageoptions/margins/top/) { get; set; } | Gets or sets top margin. |
+| [Bottom](../../aspose.cad.imageoptions/margins/bottom/) { get; set; } | Gets or sets bottom margin. |
+| [Left](../../aspose.cad.imageoptions/margins/left/) { get; set; } | Gets or sets left margin. |
+| [Right](../../aspose.cad.imageoptions/margins/right/) { get; set; } | Gets or sets right margin. |
+| [Top](../../aspose.cad.imageoptions/margins/top/) { get; set; } | Gets or sets top margin. |
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../)
 

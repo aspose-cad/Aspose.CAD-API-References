@@ -1,12 +1,17 @@
 ---
-title: Enum FileFormatCategory
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormatCategory enum. 
+title: "FileFormatCategory Enum"
+linktitle: "FileFormatCategory"
+articleTitle: "FileFormatCategory"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormatCategory enum."
 type: docs
-weight: 780
-url: /net/aspose.cad/fileformatcategory/
+weight: 260
+url: "/net/aspose.cad/fileformatcategory/"
+product_version: "26.9"
 ---
 ## FileFormatCategory enumeration
+
+
 
 ```csharp
 public enum FileFormatCategory
@@ -23,7 +28,6 @@ public enum FileFormatCategory
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

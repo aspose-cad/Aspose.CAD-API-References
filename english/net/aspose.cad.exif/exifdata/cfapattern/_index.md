@@ -1,10 +1,13 @@
 ---
-title: ExifData.CFAPattern
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the CFA pattern
+title: "ExifData.CFAPattern"
+linktitle: "CFAPattern"
+articleTitle: "CFAPattern"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the CFA pattern."
 type: docs
-weight: 60
-url: /net/aspose.cad.exif/exifdata/cfapattern/
+weight: 110
+url: "/net/aspose.cad.exif/exifdata/cfapattern/"
+product_version: "26.9"
 ---
 ## ExifData.CFAPattern property
 
@@ -20,8 +23,7 @@ The CFA pattern.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

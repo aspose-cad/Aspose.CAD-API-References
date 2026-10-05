@@ -1,10 +1,13 @@
 ---
-title: CadHeader.SummaryInfoWrapper.EditingTime
-second_title: Aspose.CAD for .NET API Reference
-description: SummaryInfoWrapper property. Gets or sets the cumulative editing time for this drawing
+title: "CadHeader.SummaryInfoWrapper.EditingTime"
+linktitle: "EditingTime"
+articleTitle: "EditingTime"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SummaryInfoWrapper property. Gets or sets the cumulative editing time for this drawing."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadheader.summaryinfowrapper/editingtime/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadheader.summaryinfowrapper/editingtime/"
+product_version: "26.9"
 ---
 ## CadHeader.SummaryInfoWrapper.EditingTime property
 
@@ -20,8 +23,7 @@ The cumulative editing time for this drawing.
 
 ### See Also
 
-* class [SummaryInfoWrapper](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoWrapper](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

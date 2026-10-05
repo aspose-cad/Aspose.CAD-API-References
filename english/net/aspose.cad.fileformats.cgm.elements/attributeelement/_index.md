@@ -1,12 +1,17 @@
 ---
-title: Enum AttributeElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Elements.AttributeElement enum. 
+title: "AttributeElement Enum"
+linktitle: "AttributeElement"
+articleTitle: "AttributeElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Elements.AttributeElement enum."
 type: docs
-weight: 6980
-url: /net/aspose.cad.fileformats.cgm.elements/attributeelement/
+weight: 40
+url: "/net/aspose.cad.fileformats.cgm.elements/attributeelement/"
+product_version: "26.9"
 ---
 ## AttributeElement enumeration
+
+
 
 ```csharp
 public enum AttributeElement
@@ -71,7 +76,6 @@ public enum AttributeElement
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../)
 

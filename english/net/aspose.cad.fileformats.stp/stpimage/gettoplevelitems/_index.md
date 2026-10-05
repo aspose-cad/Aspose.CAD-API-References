@@ -1,10 +1,13 @@
 ---
-title: StpImage.GetTopLevelItems
-second_title: Aspose.CAD for .NET API Reference
-description: StpImage method. Gets all toplevel items i.e. not referenced by any other item in the file
+title: "StpImage.GetTopLevelItems"
+linktitle: "GetTopLevelItems"
+articleTitle: "GetTopLevelItems"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StpImage method. Gets all top-level items (i.e., not referenced by any other item) in the file."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.stp/stpimage/gettoplevelitems/
+weight: 50
+url: "/net/aspose.cad.fileformats.stp/stpimage/gettoplevelitems/"
+product_version: "26.9"
 ---
 ## StpImage.GetTopLevelItems method
 
@@ -16,9 +19,8 @@ public ICollection<StepRepresentationItem> GetTopLevelItems()
 
 ### See Also
 
-* class [StepRepresentationItem](../../../aspose.cad.fileformats.stp.items/steprepresentationitem/)
-* class [StpImage](../)
-* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepRepresentationItem](../../../aspose.cad.fileformats.stp.items/steprepresentationitem/)
+* class [StpImage](../)
+* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
+* assembly [Aspose.CAD](../../../)
 

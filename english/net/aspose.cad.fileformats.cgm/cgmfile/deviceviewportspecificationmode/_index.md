@@ -1,10 +1,13 @@
 ---
-title: CgmFile.DeviceViewportSpecificationMode
-second_title: Aspose.CAD for .NET API Reference
-description: CgmFile property. Gets or sets the current reading DeviceViewportSpecificationMode
+title: "CgmFile.DeviceViewportSpecificationMode"
+linktitle: "DeviceViewportSpecificationMode"
+articleTitle: "DeviceViewportSpecificationMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmFile property. Gets or sets the current reading DeviceViewportSpecificationMode"
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cgm/cgmfile/deviceviewportspecificationmode/
+weight: 200
+url: "/net/aspose.cad.fileformats.cgm/cgmfile/deviceviewportspecificationmode/"
+product_version: "26.9"
 ---
 ## CgmFile.DeviceViewportSpecificationMode property
 
@@ -16,9 +19,8 @@ public Mode DeviceViewportSpecificationMode { get; set; }
 
 ### See Also
 
-* enum [Mode](../../../aspose.cad.fileformats.cgm.commands/deviceviewportspecificationmode.mode/)
-* class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [Mode](../../../aspose.cad.fileformats.cgm.commands/deviceviewportspecificationmode.mode/)
+* class [CgmFile](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

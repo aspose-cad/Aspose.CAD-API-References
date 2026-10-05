@@ -1,10 +1,13 @@
 ---
-title: CadObjectWithAcisData.CadObjectWithAcisData
-second_title: Aspose.CAD for .NET API Reference
-description: CadObjectWithAcisData constructor. Initializes a new instance of CadObjectWithAcisData class
+title: "CadObjectWithAcisData.CadObjectWithAcisData"
+linktitle: "CadObjectWithAcisData"
+articleTitle: "CadObjectWithAcisData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadObjectWithAcisData constructor. Initializes a new instance of CadObjectWithAcisData class"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectwithacisdata/cadobjectwithacisdata/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadobjectwithacisdata/cadobjectwithacisdata/"
+product_version: "26.9"
 ---
 ## CadObjectWithAcisData constructor
 
@@ -16,8 +19,7 @@ public CadObjectWithAcisData()
 
 ### See Also
 
-* class [CadObjectWithAcisData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadObjectWithAcisData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

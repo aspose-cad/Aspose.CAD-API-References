@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.CellTopBorderColor
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the color of the cell top border
+title: "CadTableCell.CellTopBorderColor"
+linktitle: "CellTopBorderColor"
+articleTitle: "CellTopBorderColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the color of the cell top border."
 type: docs
-weight: 270
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/celltopbordercolor/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/celltopbordercolor/"
+product_version: "26.9"
 ---
 ## CadTableCell.CellTopBorderColor property
 
@@ -20,8 +23,7 @@ The color of the cell top border.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

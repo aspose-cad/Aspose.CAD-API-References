@@ -1,12 +1,17 @@
 ---
-title: AnnotationEntityBuilder.WithEntity
-second_title: Aspose.CAD for .NET API Reference
-description: AnnotationEntityBuilder method. 
+title: "AnnotationEntityBuilder.WithEntity"
+linktitle: "WithEntity"
+articleTitle: "WithEntity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AnnotationEntityBuilder method."
 type: docs
-weight: 60
-url: /net/aspose.cad.annotations/annotationentitybuilder/withentity/
+weight: 20
+url: "/net/aspose.cad.annotations/annotationentitybuilder/withentity/"
+product_version: "26.9"
 ---
 ## AnnotationEntityBuilder.WithEntity method
+
+
 
 ```csharp
 public AnnotationEntityBuilder WithEntity(IAnnotateable entity)
@@ -14,9 +19,8 @@ public AnnotationEntityBuilder WithEntity(IAnnotateable entity)
 
 ### See Also
 
-* interface [IAnnotateable](../../iannotateable/)
-* class [AnnotationEntityBuilder](../)
-* namespace [Aspose.CAD.Annotations](../../../aspose.cad.annotations/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AnnotationEntityBuilder](../)
+* interface [IAnnotateable](../../iannotateable/)
+* namespace [Aspose.CAD.Annotations](../../../aspose.cad.annotations/)
+* assembly [Aspose.CAD](../../../)
 

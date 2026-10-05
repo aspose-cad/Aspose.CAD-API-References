@@ -1,10 +1,13 @@
 ---
-title: Point3D.op_Subtraction
-second_title: Aspose.CAD for .NET API Reference
-description: Point3D method. Implements the operator 
+title: "Point3D.op_Subtraction"
+linktitle: "op_Subtraction"
+articleTitle: "op_Subtraction"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point3D method. Implements the operator -."
 type: docs
-weight: 210
-url: /net/aspose.cad.primitives/point3d/op_subtraction/
+weight: 130
+url: "/net/aspose.cad.primitives/point3d/op_subtraction/"
+product_version: "26.9"
 ---
 ## Point3D Subtraction operator
 
@@ -25,8 +28,7 @@ The result of the operator.
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

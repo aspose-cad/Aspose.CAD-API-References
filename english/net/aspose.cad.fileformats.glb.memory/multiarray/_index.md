@@ -1,14 +1,17 @@
 ---
-title: Struct MultiArray
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.MultiArray struct. Wraps an encoded ArraySegment and exposes it as an IListSingle/
+title: "MultiArray Struct"
+linktitle: "MultiArray"
+articleTitle: "MultiArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Memory.MultiArray struct. Wraps an encoded ArraySegment and exposes it as an IList{Single[]}/&gt;."
 type: docs
-weight: 11020
-url: /net/aspose.cad.fileformats.glb.memory/multiarray/
+weight: 110
+url: "/net/aspose.cad.fileformats.glb.memory/multiarray/"
+product_version: "26.9"
 ---
-## MultiArray structure
+## MultiArray struct
 
-Wraps an encoded ArraySegment and exposes it as an IList{Single[]}/&gt;.
+Wraps an encoded `ArraySegment` and exposes it as an IList{Single[]}/&gt;.
 
 ```csharp
 public struct MultiArray : IList<float[]>, IReadOnlyList<float[]>
@@ -18,30 +21,29 @@ public struct MultiArray : IList<float[]>, IReadOnlyList<float[]>
 
 | Name | Description |
 | --- | --- |
-| [MultiArray](multiarray/)(ArraySegment&lt;byte&gt;, int, int, int, int, EncodingType, bool) |  |
+| [MultiArray](multiarray/)(ArraySegment&lt;byte&gt;, int, int, int, int, EncodingType, bool) | Initializes a new instance of the MultiArray class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.cad.fileformats.glb.memory/multiarray/count/) { get; } |  |
-| [Dimensions](../../aspose.cad.fileformats.glb.memory/multiarray/dimensions/) { get; } |  |
-| [Item](../../aspose.cad.fileformats.glb.memory/multiarray/item/) { get; set; } |  |
+| Count { get; } |  |
+| Dimensions { get; } |  |
+| Item { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Contains](../../aspose.cad.fileformats.glb.memory/multiarray/contains/)(float[]) |  |
-| [CopyItemTo](../../aspose.cad.fileformats.glb.memory/multiarray/copyitemto/)(int, float[]) |  |
-| [CopyTo](../../aspose.cad.fileformats.glb.memory/multiarray/copyto/)(float[][], int) |  |
-| [Fill](../../aspose.cad.fileformats.glb.memory/multiarray/fill/)(IEnumerable&lt;float[]&gt;, int) |  |
-| [GetEnumerator](../../aspose.cad.fileformats.glb.memory/multiarray/getenumerator/)() |  |
-| [IndexOf](../../aspose.cad.fileformats.glb.memory/multiarray/indexof/)(float[]) |  |
+| Contains(float[]) |  |
+| CopyItemTo(int, float[]) |  |
+| CopyTo(float[][], int) |  |
+| Fill(IEnumerable&lt;float[]&gt;, int) |  |
+| GetEnumerator() |  |
+| IndexOf(float[]) |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
+* assembly [Aspose.CAD](../../)
 

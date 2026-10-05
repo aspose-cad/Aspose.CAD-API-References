@@ -1,10 +1,13 @@
 ---
-title: IDrawableProperties.LineThickness
-second_title: Aspose.CAD for .NET API Reference
-description: IDrawableProperties property. Line thickness in documents measurement units i.e. same as geometrys units
+title: "IDrawableProperties.LineThickness"
+linktitle: "LineThickness"
+articleTitle: "LineThickness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IDrawableProperties property. Line thickness in document's measurement units (i.e. same as geometry's units)."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.iges.drawables/idrawableproperties/linethickness/
+weight: 20
+url: "/net/aspose.cad.fileformats.iges.drawables/idrawableproperties/linethickness/"
+product_version: "26.9"
 ---
 ## IDrawableProperties.LineThickness property
 
@@ -20,8 +23,7 @@ public double LineThickness { get; }
 
 ### See Also
 
-* interface [IDrawableProperties](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IDrawableProperties](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

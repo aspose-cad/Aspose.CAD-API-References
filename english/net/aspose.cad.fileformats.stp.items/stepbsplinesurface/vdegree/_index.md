@@ -1,21 +1,25 @@
 ---
-title: StepBsplineSurface.Vdegree
-second_title: Aspose.CAD for .NET API Reference
-description: StepBsplineSurface property. 
+title: "StepBSplineSurface.VDegree"
+linktitle: "VDegree"
+articleTitle: "VDegree"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepBSplineSurface property."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.stp.items/stepbsplinesurface/vdegree/
+weight: 50
+url: "/net/aspose.cad.fileformats.stp.items/stepbsplinesurface/vdegree/"
+product_version: "26.9"
 ---
-## StepBsplineSurface.Vdegree property
+## StepBSplineSurface.VDegree property
+
+
 
 ```csharp
-public int Vdegree { get; set; }
+public int VDegree { get; set; }
 ```
 
 ### See Also
 
-* class [StepBsplineSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepBSplineSurface](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

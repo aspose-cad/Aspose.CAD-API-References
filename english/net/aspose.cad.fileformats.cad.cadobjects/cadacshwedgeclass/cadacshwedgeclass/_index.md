@@ -1,10 +1,13 @@
 ---
-title: CadAcshWedgeClass.CadAcshWedgeClass
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcshWedgeClass constructor. Initializes a new instance of the CadAcshWedgeClass class
+title: "CadAcshWedgeClass.CadAcshWedgeClass"
+linktitle: "CadAcshWedgeClass"
+articleTitle: "CadAcshWedgeClass"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcshWedgeClass constructor. Initializes a new instance of the CadAcshWedgeClass class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshwedgeclass/cadacshwedgeclass/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshwedgeclass/cadacshwedgeclass/"
+product_version: "26.9"
 ---
 ## CadAcshWedgeClass constructor
 
@@ -16,8 +19,7 @@ public CadAcshWedgeClass()
 
 ### See Also
 
-* class [CadAcshWedgeClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcshWedgeClass](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

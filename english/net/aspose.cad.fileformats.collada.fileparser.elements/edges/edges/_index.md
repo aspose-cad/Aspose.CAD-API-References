@@ -1,10 +1,13 @@
 ---
-title: Edges.Edges
-second_title: Aspose.CAD for .NET API Reference
-description: Edges constructor. The default constructor
+title: "Edges.Edges"
+linktitle: "Edges"
+articleTitle: "Edges"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Edges constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/edges/edges/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/edges/edges/"
+product_version: "26.9"
 ---
 ## Edges constructor
 
@@ -16,8 +19,7 @@ public Edges()
 
 ### See Also
 
-* class [Edges](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Edges](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

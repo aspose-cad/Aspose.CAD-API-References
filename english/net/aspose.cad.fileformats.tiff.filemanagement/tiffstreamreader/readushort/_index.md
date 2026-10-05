@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ReadUShort
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Read unsigned short value from the stream
+title: "TiffStreamReader.ReadUShort"
+linktitle: "ReadUShort"
+articleTitle: "ReadUShort"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Read unsigned short value from the stream."
 type: docs
-weight: 210
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readushort/
+weight: 250
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readushort/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ReadUShort method
 
@@ -24,8 +27,7 @@ An unsigned short value.
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

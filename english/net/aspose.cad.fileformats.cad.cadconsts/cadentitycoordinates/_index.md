@@ -1,10 +1,13 @@
 ---
-title: Enum CadEntityCoordinates
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadEntityCoordinates enum. The Cad entity coordinates
+title: "CadEntityCoordinates Enum"
+linktitle: "CadEntityCoordinates"
+articleTitle: "CadEntityCoordinates"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadEntityCoordinates enum. The Cad entity coordinates."
 type: docs
-weight: 1260
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadentitycoordinates/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadentitycoordinates/"
+product_version: "26.9"
 ---
 ## CadEntityCoordinates enumeration
 
@@ -31,7 +34,6 @@ public enum CadEntityCoordinates
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

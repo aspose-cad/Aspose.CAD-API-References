@@ -1,10 +1,13 @@
 ---
-title: CadAcdsSchema.CadAcdsSchema
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcdsSchema constructor. The default constructor
+title: "CadAcdsSchema.CadAcdsSchema"
+linktitle: "CadAcdsSchema"
+articleTitle: "CadAcdsSchema"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcdsSchema constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacdsschema/cadacdsschema/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacdsschema/cadacdsschema/"
+product_version: "26.9"
 ---
 ## CadAcdsSchema constructor
 
@@ -16,8 +19,7 @@ public CadAcdsSchema()
 
 ### See Also
 
-* class [CadAcdsSchema](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcdsSchema](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

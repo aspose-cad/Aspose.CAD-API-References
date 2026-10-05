@@ -1,12 +1,18 @@
 ---
-title: Class AnnotationEntityBuilder
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Annotations.AnnotationEntityBuilder class. 
+title: "AnnotationEntityBuilder Class"
+linktitle: "AnnotationEntityBuilder"
+articleTitle: "AnnotationEntityBuilder"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Annotations.AnnotationEntityBuilder class."
 type: docs
-weight: 30
-url: /net/aspose.cad.annotations/annotationentitybuilder/
+weight: 40
+url: "/net/aspose.cad.annotations/annotationentitybuilder/"
+keywords: "AnnotationEntityBuilder, Aspose.CAD.Annotations, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## AnnotationEntityBuilder class
+
+
 
 ```csharp
 public class AnnotationEntityBuilder
@@ -16,7 +22,7 @@ public class AnnotationEntityBuilder
 
 | Name | Description |
 | --- | --- |
-| [AnnotationEntityBuilder](annotationentitybuilder/)(Guid) |  |
+| [AnnotationEntityBuilder](annotationentitybuilder/)(Guid) | Initializes a new instance of the AnnotationEntityBuilder class. |
 
 ## Methods
 
@@ -34,7 +40,6 @@ public class AnnotationEntityBuilder
 
 ### See Also
 
-* namespace [Aspose.CAD.Annotations](../../aspose.cad.annotations/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Annotations](../../aspose.cad.annotations/)
+* assembly [Aspose.CAD](../../)
 

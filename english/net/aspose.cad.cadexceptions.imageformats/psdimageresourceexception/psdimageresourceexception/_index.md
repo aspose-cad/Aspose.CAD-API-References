@@ -1,12 +1,15 @@
 ---
-title: PsdImageResourceException.PsdImageResourceException
-second_title: Aspose.CAD for .NET API Reference
-description: PsdImageResourceException constructor. Initializes a new instance of the PsdImageResourceException class
+title: "PsdImageResourceException.PsdImageResourceException"
+linktitle: "PsdImageResourceException"
+articleTitle: "PsdImageResourceException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PsdImageResourceException constructor. Initializes a new instance of the PsdImageResourceException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.imageformats/psdimageresourceexception/psdimageresourceexception/
+url: "/net/aspose.cad.cadexceptions.imageformats/psdimageresourceexception/psdimageresourceexception/"
+product_version: "26.9"
 ---
-## PsdImageResourceException(string, ResourceBlock) {#constructor}
+## PsdImageResourceException(string, ResourceBlock) {#constructor}
 
 Initializes a new instance of the [`PsdImageResourceException`](../) class.
 
@@ -21,14 +24,14 @@ public PsdImageResourceException(string message, ResourceBlock resource)
 
 ### See Also
 
-* class [ResourceBlock](../../../aspose.cad.fileformats.psd/resourceblock/)
-* class [PsdImageResourceException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
+* class [ResourceBlock](../../../aspose.cad.fileformats.psd/resourceblock/)
+* class [PsdImageResourceException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## PsdImageResourceException(string, ResourceBlock, Exception) {#constructor_1}
+## PsdImageResourceException(string, ResourceBlock, Exception) {#constructor_1}
 
 Initializes a new instance of the [`PsdImageResourceException`](../) class.
 
@@ -44,9 +47,8 @@ public PsdImageResourceException(string message, ResourceBlock resource, Excepti
 
 ### See Also
 
-* class [ResourceBlock](../../../aspose.cad.fileformats.psd/resourceblock/)
-* class [PsdImageResourceException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ResourceBlock](../../../aspose.cad.fileformats.psd/resourceblock/)
+* class [PsdImageResourceException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 

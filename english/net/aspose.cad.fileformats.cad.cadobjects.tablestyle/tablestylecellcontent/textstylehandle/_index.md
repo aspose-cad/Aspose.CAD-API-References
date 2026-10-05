@@ -1,10 +1,13 @@
 ---
-title: TableStyleCellContent.TextStyleHandle
-second_title: Aspose.CAD for .NET API Reference
-description: TableStyleCellContent property. The TextStyle Handle
+title: "TableStyleCellContent.TextStyleHandle"
+linktitle: "TextStyleHandle"
+articleTitle: "TextStyleHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableStyleCellContent property. The TextStyle Handle"
 type: docs
-weight: 240
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/textstylehandle/
+weight: 290
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/textstylehandle/"
+product_version: "26.9"
 ---
 ## TableStyleCellContent.TextStyleHandle property
 
@@ -16,8 +19,7 @@ public string TextStyleHandle { get; set; }
 
 ### See Also
 
-* class [TableStyleCellContent](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableStyleCellContent](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

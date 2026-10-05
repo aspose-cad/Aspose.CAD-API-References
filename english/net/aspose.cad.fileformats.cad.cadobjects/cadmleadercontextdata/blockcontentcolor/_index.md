@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.BlockContentColor
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets the color of the block content
+title: "CadMLeaderContextData.BlockContentColor"
+linktitle: "BlockContentColor"
+articleTitle: "BlockContentColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets the color of the block content."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/blockcontentcolor/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/blockcontentcolor/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.BlockContentColor property
 
@@ -20,8 +23,7 @@ The color of the block content.
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

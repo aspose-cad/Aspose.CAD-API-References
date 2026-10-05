@@ -1,14 +1,19 @@
 ---
-title: NurbsSurface.DegreeV
-second_title: Aspose.CAD for .NET API Reference
-description: NurbsSurface property. Gets or sets the degree v. Specifies the degree of the NURBS curve for the v direction. Required
+title: "NurbsSurface.DegreeV"
+linktitle: "DegreeV"
+articleTitle: "DegreeV"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NurbsSurface property. Gets or sets the degree v. Specifies the degree of the NURBS curve for the v direction. Required."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/nurbssurface/degreev/
+weight: 70
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/nurbssurface/degreev/"
+product_version: "26.9"
 ---
 ## NurbsSurface.DegreeV property
 
-Gets or sets the degree v. Specifies the degree of the NURBS curve for the v direction. Required.
+Gets or sets the degree v.
+ Specifies the degree of the NURBS curve for the v direction.
+ Required.
 
 ```csharp
 public ulong DegreeV { get; set; }
@@ -16,8 +21,7 @@ public ulong DegreeV { get; set; }
 
 ### See Also
 
-* class [NurbsSurface](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NurbsSurface](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

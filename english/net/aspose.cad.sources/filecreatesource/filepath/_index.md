@@ -1,10 +1,13 @@
 ---
-title: FileCreateSource.FilePath
-second_title: Aspose.CAD for .NET API Reference
-description: FileCreateSource property. Gets the file path to create
+title: "FileCreateSource.FilePath"
+linktitle: "FilePath"
+articleTitle: "FilePath"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FileCreateSource property. Gets the file path to create."
 type: docs
-weight: 20
-url: /net/aspose.cad.sources/filecreatesource/filepath/
+weight: 40
+url: "/net/aspose.cad.sources/filecreatesource/filepath/"
+product_version: "26.9"
 ---
 ## FileCreateSource.FilePath property
 
@@ -20,8 +23,7 @@ The file path to create.
 
 ### See Also
 
-* class [FileCreateSource](../)
-* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FileCreateSource](../)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
+* assembly [Aspose.CAD](../../../)
 

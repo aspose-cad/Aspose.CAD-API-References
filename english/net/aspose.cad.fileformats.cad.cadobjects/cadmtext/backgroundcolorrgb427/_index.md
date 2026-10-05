@@ -1,10 +1,13 @@
 ---
-title: CadMText.BackgroundColorRgb427
-second_title: Aspose.CAD for .NET API Reference
-description: CadMText property. Gets or sets the background color RGB 427
+title: "CadMText.BackgroundColorRgb427"
+linktitle: "BackgroundColorRgb427"
+articleTitle: "BackgroundColorRgb427"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMText property. Gets or sets the background color RGB 427."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/backgroundcolorrgb427/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmtext/backgroundcolorrgb427/"
+product_version: "26.9"
 ---
 ## CadMText.BackgroundColorRgb427 property
 
@@ -20,8 +23,7 @@ The background color RGB 427.
 
 ### See Also
 
-* class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Image.Bounds
-second_title: Aspose.CAD for .NET API Reference
-description: Image property. Gets the image bounds
+title: "Image.Bounds"
+linktitle: "Bounds"
+articleTitle: "Bounds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image property. Gets the image bounds."
 type: docs
-weight: 30
-url: /net/aspose.cad/image/bounds/
+weight: 190
+url: "/net/aspose.cad/image/bounds/"
+product_version: "26.9"
 ---
 ## Image.Bounds property
 
@@ -35,9 +38,8 @@ using (Aspose.CAD.Image drawing = Aspose.CAD.Image.Load(fileName))
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

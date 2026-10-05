@@ -1,14 +1,19 @@
 ---
-title: Class Camera
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Camera class. The camera. Declares a view of the visual scene hierarchy or scene graph
+title: "Camera Class"
+linktitle: "Camera"
+articleTitle: "Camera"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.Camera class. The camera. Declares a view of the visual scene hierarchy or scene graph."
 type: docs
-weight: 7430
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/camera/
+weight: 110
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/camera/"
+keywords: "Camera, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Camera class
 
-The camera. Declares a view of the visual scene hierarchy or scene graph.
+The camera.
+ Declares a view of the visual scene hierarchy or scene graph.
 
 ```csharp
 public class Camera
@@ -24,15 +29,14 @@ public class Camera
 
 | Name | Description |
 | --- | --- |
-| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/camera/asset/) { get; set; } | Gets or sets the asset. |
-| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/camera/extra/) { get; set; } | Gets or sets the extra. |
-| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/camera/id/) { get; set; } | Gets or sets the id. A text string containing the unique identifier of the camera element. This value must be unique within the instance document. Optional. |
-| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/camera/name/) { get; set; } | Gets or sets the name. Optional. |
-| [Optics](../../aspose.cad.fileformats.collada.fileparser.elements/camera/optics/) { get; set; } | Gets or sets the optics. Describes the field of view and viewing frustum using canonical parameters. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/camera/asset/) { get; set; } | Gets or sets the asset. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/camera/extra/) { get; set; } | Gets or sets the extra. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/camera/id/) { get; set; } | Gets or sets the id. A text string containing the unique identifier of the camera element. This value must be unique within the instance document. Optional. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/camera/name/) { get; set; } | Gets or sets the name. Optional. |
+| [Optics](../../aspose.cad.fileformats.collada.fileparser.elements/camera/optics/) { get; set; } | Gets or sets the optics. Describes the field of view and viewing frustum using canonical parameters. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

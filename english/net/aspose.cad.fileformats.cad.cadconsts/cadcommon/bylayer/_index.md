@@ -1,10 +1,13 @@
 ---
-title: CadCommon.ByLayer
-second_title: Aspose.CAD for .NET API Reference
-description: CadCommon field. Gets the by layer
+title: "CadCommon.ByLayer"
+linktitle: "ByLayer"
+articleTitle: "ByLayer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCommon field. Gets the by layer."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadcommon/bylayer/
+weight: 290
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadcommon/bylayer/"
+product_version: "26.9"
 ---
 ## CadCommon.ByLayer field
 
@@ -14,14 +17,9 @@ Gets the by layer.
 public const string ByLayer;
 ```
 
-### Property Value
-
-The by layer.
-
 ### See Also
 
-* class [CadCommon](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCommon](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

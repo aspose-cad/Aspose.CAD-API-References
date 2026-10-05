@@ -1,10 +1,13 @@
 ---
-title: DeflateCompressorException.DeflateCompressorException
-second_title: Aspose.CAD for .NET API Reference
-description: DeflateCompressorException constructor. Initializes a new instance of the DeflateCompressorException class
+title: "DeflateCompressorException.DeflateCompressorException"
+linktitle: "DeflateCompressorException"
+articleTitle: "DeflateCompressorException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DeflateCompressorException constructor. Initializes a new instance of the DeflateCompressorException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.compressors/deflatecompressorexception/deflatecompressorexception/
+url: "/net/aspose.cad.cadexceptions.compressors/deflatecompressorexception/deflatecompressorexception/"
+product_version: "26.9"
 ---
 ## DeflateCompressorException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public DeflateCompressorException(string message)
 
 ### See Also
 
-* class [DeflateCompressorException](../)
-* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
-* assembly [Aspose.CAD](../../../)
+* class [DeflateCompressorException](../)
+* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## DeflateCompressorException(string, Exception) {#constructor_1}
+## DeflateCompressorException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`DeflateCompressorException`](../) class.
 
@@ -41,8 +44,7 @@ public DeflateCompressorException(string message, Exception innerException)
 
 ### See Also
 
-* class [DeflateCompressorException](../)
-* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DeflateCompressorException](../)
+* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
+* assembly [Aspose.CAD](../../../)
 

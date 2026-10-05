@@ -1,12 +1,17 @@
 ---
-title: NodeBuilder.CreateNode
-second_title: Aspose.CAD for .NET API Reference
-description: NodeBuilder method. 
+title: "NodeBuilder.CreateNode"
+linktitle: "CreateNode"
+articleTitle: "CreateNode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NodeBuilder method."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.glb.scenes/nodebuilder/createnode/
+weight: 50
+url: "/net/aspose.cad.fileformats.glb.scenes/nodebuilder/createnode/"
+product_version: "26.9"
 ---
 ## NodeBuilder.CreateNode method
+
+
 
 ```csharp
 public NodeBuilder CreateNode(string name = null)
@@ -14,8 +19,7 @@ public NodeBuilder CreateNode(string name = null)
 
 ### See Also
 
-* class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NodeBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: TiffUnknownType.ToString
-second_title: Aspose.CAD for .NET API Reference
-description: TiffUnknownType method. Returns a String that represents this instance
+title: "TiffUnknownType.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffUnknownType method. Returns a String that represents this instance."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffunknowntype/tostring/
+weight: 30
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffunknowntype/tostring/"
+product_version: "26.9"
 ---
 ## TiffUnknownType.ToString method
 
-Returns a String that represents this instance.
+Returns a `String` that represents this instance.
 
 ```csharp
 public override string ToString()
@@ -16,12 +19,11 @@ public override string ToString()
 
 ### Return Value
 
-A String that represents this instance.
+A `String` that represents this instance.
 
 ### See Also
 
-* class [TiffUnknownType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffUnknownType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadLayerFilter.LayerNames
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayerFilter property. Gets or sets the layer names
+title: "CadLayerFilter.LayerNames"
+linktitle: "LayerNames"
+articleTitle: "LayerNames"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayerFilter property. Gets or sets the layer names."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayerfilter/layernames/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlayerfilter/layernames/"
+product_version: "26.9"
 ---
 ## CadLayerFilter.LayerNames property
 
@@ -20,8 +23,7 @@ The layer names.
 
 ### See Also
 
-* class [CadLayerFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLayerFilter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

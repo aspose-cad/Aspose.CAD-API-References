@@ -1,10 +1,13 @@
 ---
-title: Matrix.op_Equality
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix method. Implements the operator 
+title: "Matrix.op_Equality"
+linktitle: "op_Equality"
+articleTitle: "op_Equality"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix method. Implements the operator ==."
 type: docs
-weight: 300
-url: /net/aspose.cad/matrix/op_equality/
+weight: 60
+url: "/net/aspose.cad/matrix/op_equality/"
+product_version: "26.9"
 ---
 ## Matrix Equality operator
 
@@ -25,8 +28,7 @@ The result of the operator.
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

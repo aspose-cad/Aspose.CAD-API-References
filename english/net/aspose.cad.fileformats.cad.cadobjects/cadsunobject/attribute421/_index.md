@@ -1,10 +1,13 @@
 ---
-title: CadSunObject.Attribute421
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunObject property. Gets or sets the attribute421
+title: "CadSunObject.Attribute421"
+linktitle: "Attribute421"
+articleTitle: "Attribute421"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunObject property. Gets or sets the attribute421."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsunobject/attribute421/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsunobject/attribute421/"
+product_version: "26.9"
 ---
 ## CadSunObject.Attribute421 property
 
@@ -20,8 +23,7 @@ The attribute421.
 
 ### See Also
 
-* class [CadSunObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

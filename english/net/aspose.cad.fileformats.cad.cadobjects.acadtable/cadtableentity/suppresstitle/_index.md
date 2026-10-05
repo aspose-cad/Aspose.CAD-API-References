@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.SuppressTitle
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. Gets or sets the suppress title
+title: "CadTableEntity.SuppressTitle"
+linktitle: "SuppressTitle"
+articleTitle: "SuppressTitle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. Gets or sets the suppress title."
 type: docs
-weight: 200
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/suppresstitle/
+weight: 220
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/suppresstitle/"
+product_version: "26.9"
 ---
 ## CadTableEntity.SuppressTitle property
 
@@ -20,8 +23,7 @@ The suppress title.
 
 ### See Also
 
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

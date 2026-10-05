@@ -1,14 +1,22 @@
 ---
-title: Enum StyleSimulations
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.StyleSimulations enum. The style simulations. Synthetic style simulations can be applied to the shape of the glyphs by using the StyleSimulations attribute. Style simulations can be applied in addition to the designed style of a font. The default value for the StyleSimulations attribute is None in which case the shapes of glyphs are not modified from their original design
+title: "StyleSimulations Enum"
+linktitle: "StyleSimulations"
+articleTitle: "StyleSimulations"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.StyleSimulations enum. The style simulations. Synthetic style simulations can be applied to the shape of the ..."
 type: docs
-weight: 9550
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/stylesimulations/
+weight: 310
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/stylesimulations/"
+product_version: "26.9"
 ---
 ## StyleSimulations enumeration
 
-The style simulations. Synthetic style simulations can be applied to the shape of the glyphs by using the StyleSimulations attribute. Style simulations can be applied in addition to the designed style of a font. The default value for the StyleSimulations attribute is None, in which case the shapes of glyphs are not modified from their original design.
+The style simulations.
+ Synthetic style simulations can be applied to the shape of the glyphs
+ by using the StyleSimulations attribute.
+ Style simulations can be applied in addition to the designed style of a font.
+ The default value for the StyleSimulations attribute is None,
+ in which case the shapes of glyphs are not modified from their original design.
 
 ```csharp
 public enum StyleSimulations
@@ -25,7 +33,6 @@ public enum StyleSimulations
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

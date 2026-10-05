@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.BlockContentId
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader property. Gets or sets the block content identifier
+title: "CadMLeader.BlockContentId"
+linktitle: "BlockContentId"
+articleTitle: "BlockContentId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader property. Gets or sets the block content identifier."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/blockcontentid/
+weight: 240
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/blockcontentid/"
+product_version: "26.9"
 ---
 ## CadMLeader.BlockContentId property
 
@@ -20,8 +23,7 @@ The block content identifier.
 
 ### See Also
 
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

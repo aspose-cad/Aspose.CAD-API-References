@@ -1,12 +1,17 @@
 ---
-title: ValueListSet1.Count
-second_title: Aspose.CAD for .NET API Reference
-description: ValueListSet property. 
+title: "ValueListSet<T>.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ValueListSet property."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.glb.toolkit.collections/valuelistset-1/count/
+weight: 140
+url: "/net/aspose.cad.fileformats.glb.toolkit.collections/valuelistset-1/count/"
+product_version: "26.9"
 ---
-## ValueListSet&lt;T&gt;.Count property
+## ValueListSet<T>.Count property
+
+
 
 ```csharp
 public int Count { get; }
@@ -14,8 +19,7 @@ public int Count { get; }
 
 ### See Also
 
-* class [ValueListSet&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../../aspose.cad.fileformats.glb.toolkit.collections/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ValueListSet&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../../aspose.cad.fileformats.glb.toolkit.collections/)
+* assembly [Aspose.CAD](../../../)
 

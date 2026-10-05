@@ -1,10 +1,13 @@
 ---
-title: CadAcadProxyEntity.GraphicsDataSizeAttribute92
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcadProxyEntity property. Gets or sets the size of the graphics data
+title: "CadAcadProxyEntity.GraphicsDataSizeAttribute92"
+linktitle: "GraphicsDataSizeAttribute92"
+articleTitle: "GraphicsDataSizeAttribute92"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcadProxyEntity property. Gets or sets the size of the graphics data."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/graphicsdatasizeattribute92/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/graphicsdatasizeattribute92/"
+product_version: "26.9"
 ---
 ## CadAcadProxyEntity.GraphicsDataSizeAttribute92 property
 
@@ -20,8 +23,7 @@ The size of the graphics data.
 
 ### See Also
 
-* class [CadAcadProxyEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcadProxyEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

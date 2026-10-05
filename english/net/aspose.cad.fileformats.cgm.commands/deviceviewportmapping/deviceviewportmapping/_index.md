@@ -1,12 +1,17 @@
 ---
-title: DeviceViewportMapping.DeviceViewportMapping
-second_title: Aspose.CAD for .NET API Reference
-description: DeviceViewportMapping constructor. 
+title: "DeviceViewportMapping.DeviceViewportMapping"
+linktitle: "DeviceViewportMapping"
+articleTitle: "DeviceViewportMapping"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DeviceViewportMapping constructor. Initializes a new instance of the DeviceViewportMapping class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.commands/deviceviewportmapping/deviceviewportmapping/
+url: "/net/aspose.cad.fileformats.cgm.commands/deviceviewportmapping/deviceviewportmapping/"
+product_version: "26.9"
 ---
 ## DeviceViewportMapping(CgmFile) {#constructor}
+
+Initializes a new instance of the DeviceViewportMapping class.
 
 ```csharp
 public DeviceViewportMapping(CgmFile container)
@@ -14,14 +19,16 @@ public DeviceViewportMapping(CgmFile container)
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [DeviceViewportMapping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [DeviceViewportMapping](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## DeviceViewportMapping(CgmFile, Isotropy, Horizontalalignment, Verticalalignment) {#constructor_1}
+## DeviceViewportMapping(CgmFile, Isotropy, Horizontalalignment, Verticalalignment) {#constructor_1}
+
+Initializes a new instance of the DeviceViewportMapping class.
 
 ```csharp
 public DeviceViewportMapping(CgmFile container, Isotropy isotropy, 
@@ -30,12 +37,11 @@ public DeviceViewportMapping(CgmFile container, Isotropy isotropy,
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* enum [Isotropy](../../deviceviewportmapping.isotropy/)
-* enum [Horizontalalignment](../../deviceviewportmapping.horizontalalignment/)
-* enum [Verticalalignment](../../deviceviewportmapping.verticalalignment/)
-* class [DeviceViewportMapping](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* enum [Isotropy](../../deviceviewportmapping.isotropy/)
+* enum [Horizontalalignment](../../deviceviewportmapping.horizontalalignment/)
+* enum [Verticalalignment](../../deviceviewportmapping.verticalalignment/)
+* class [DeviceViewportMapping](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

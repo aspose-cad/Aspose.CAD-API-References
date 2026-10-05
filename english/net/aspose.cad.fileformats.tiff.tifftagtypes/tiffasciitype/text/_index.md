@@ -1,10 +1,13 @@
 ---
-title: TiffASCIIType.Text
-second_title: Aspose.CAD for .NET API Reference
-description: TiffASCIIType property. Gets or sets the text
+title: "TiffASCIIType.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffASCIIType property. Gets or sets the text."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/text/
+weight: 40
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/text/"
+product_version: "26.9"
 ---
 ## TiffASCIIType.Text property
 
@@ -20,8 +23,7 @@ The text.
 
 ### See Also
 
-* class [TiffASCIIType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffASCIIType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

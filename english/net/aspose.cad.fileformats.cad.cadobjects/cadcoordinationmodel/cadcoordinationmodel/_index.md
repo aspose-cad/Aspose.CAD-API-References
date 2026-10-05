@@ -1,10 +1,13 @@
 ---
-title: CadCoordinationModel.CadCoordinationModel
-second_title: Aspose.CAD for .NET API Reference
-description: CadCoordinationModel constructor. Initializes a new instance of the CadCoordinationModel class
+title: "CadCoordinationModel.CadCoordinationModel"
+linktitle: "CadCoordinationModel"
+articleTitle: "CadCoordinationModel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCoordinationModel constructor. Initializes a new instance of the CadCoordinationModel class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadcoordinationmodel/cadcoordinationmodel/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadcoordinationmodel/cadcoordinationmodel/"
+product_version: "26.9"
 ---
 ## CadCoordinationModel constructor
 
@@ -16,8 +19,7 @@ public CadCoordinationModel()
 
 ### See Also
 
-* class [CadCoordinationModel](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCoordinationModel](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

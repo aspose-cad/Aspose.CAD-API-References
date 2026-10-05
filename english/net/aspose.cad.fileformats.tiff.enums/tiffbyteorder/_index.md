@@ -1,10 +1,13 @@
 ---
-title: Enum TiffByteOrder
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffByteOrder enum. The byte order for the tiff image
+title: "TiffByteOrder Enum"
+linktitle: "TiffByteOrder"
+articleTitle: "TiffByteOrder"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffByteOrder enum. The byte order for the tiff image"
 type: docs
-weight: 35400
-url: /net/aspose.cad.fileformats.tiff.enums/tiffbyteorder/
+weight: 40
+url: "/net/aspose.cad.fileformats.tiff.enums/tiffbyteorder/"
+product_version: "26.9"
 ---
 ## TiffByteOrder enumeration
 
@@ -23,7 +26,6 @@ public enum TiffByteOrder
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,22 +1,26 @@
 ---
-title: StepBsplineSurface.ControlPointsList
-second_title: Aspose.CAD for .NET API Reference
-description: StepBsplineSurface property. 
+title: "StepBSplineSurface.ControlPointsList"
+linktitle: "ControlPointsList"
+articleTitle: "ControlPointsList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepBSplineSurface property."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.stp.items/stepbsplinesurface/controlpointslist/
+weight: 60
+url: "/net/aspose.cad.fileformats.stp.items/stepbsplinesurface/controlpointslist/"
+product_version: "26.9"
 ---
-## StepBsplineSurface.ControlPointsList property
+## StepBSplineSurface.ControlPointsList property
+
+
 
 ```csharp
-public List<StepCartesianPoint> ControlPointsList { get; set; }
+public List<StepCartesianPoint[]> ControlPointsList { get; set; }
 ```
 
 ### See Also
 
-* class [StepCartesianPoint](../../stepcartesianpoint/)
-* class [StepBsplineSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepCartesianPoint](../../stepcartesianpoint/)
+* class [StepBSplineSurface](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

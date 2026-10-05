@@ -1,10 +1,13 @@
 ---
-title: PdfDigitalSignatureDetailsCore.HashAlgorithm
-second_title: Aspose.CAD for .NET API Reference
-description: PdfDigitalSignatureDetailsCore property. Hash algorithm
+title: "PdfDigitalSignatureDetailsCore.HashAlgorithm"
+linktitle: "HashAlgorithm"
+articleTitle: "HashAlgorithm"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PdfDigitalSignatureDetailsCore property. Hash algorithm."
 type: docs
-weight: 20
-url: /net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/hashalgorithm/
+weight: 50
+url: "/net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/hashalgorithm/"
+product_version: "26.9"
 ---
 ## PdfDigitalSignatureDetailsCore.HashAlgorithm property
 
@@ -20,9 +23,8 @@ The hash algorithm.
 
 ### See Also
 
-* enum [PdfDigitalSignatureHashAlgorithmCore](../../pdfdigitalsignaturehashalgorithmcore/)
-* class [PdfDigitalSignatureDetailsCore](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [PdfDigitalSignatureHashAlgorithmCore](../../pdfdigitalsignaturehashalgorithmcore/)
+* class [PdfDigitalSignatureDetailsCore](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: JFIFData.Thumbnail
-second_title: Aspose.CAD for .NET API Reference
-description: JFIFData property. Gets or sets the thumbnail
+title: "JFIFData.Thumbnail"
+linktitle: "Thumbnail"
+articleTitle: "Thumbnail"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JFIFData property. Gets or sets the thumbnail."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.jpeg/jfifdata/thumbnail/
+url: "/net/aspose.cad.fileformats.jpeg/jfifdata/thumbnail/"
+product_version: "26.9"
 ---
 ## JFIFData.Thumbnail property
 
@@ -16,9 +19,8 @@ public RasterImage Thumbnail { get; set; }
 
 ### See Also
 
-* class [RasterImage](../../../aspose.cad/rasterimage/)
-* class [JFIFData](../)
-* namespace [Aspose.CAD.FileFormats.Jpeg](../../../aspose.cad.fileformats.jpeg/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../../../aspose.cad/rasterimage/)
+* class [JFIFData](../)
+* namespace [Aspose.CAD.FileFormats.Jpeg](../../../aspose.cad.fileformats.jpeg/)
+* assembly [Aspose.CAD](../../../)
 

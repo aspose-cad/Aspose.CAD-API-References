@@ -1,10 +1,13 @@
 ---
-title: CF2LinearElement.WBridges
-second_title: Aspose.CAD for .NET API Reference
-description: CF2LinearElement property. Size of bridges on the line
+title: "CF2LinearElement.WBridges"
+linktitle: "WBridges"
+articleTitle: "WBridges"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2LinearElement property. Size of bridges on the line"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cf2/cf2linearelement/wbridges/
+url: "/net/aspose.cad.fileformats.cf2/cf2linearelement/wbridges/"
+product_version: "26.9"
 ---
 ## CF2LinearElement.WBridges property
 
@@ -16,8 +19,7 @@ public float WBridges { get; set; }
 
 ### See Also
 
-* class [CF2LinearElement](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2LinearElement](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

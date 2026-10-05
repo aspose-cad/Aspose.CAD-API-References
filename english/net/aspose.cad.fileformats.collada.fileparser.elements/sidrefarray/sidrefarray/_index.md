@@ -1,10 +1,13 @@
 ---
-title: SidRefArray.SidRefArray
-second_title: Aspose.CAD for .NET API Reference
-description: SidRefArray constructor. The default constructor
+title: "SidRefArray.SidRefArray"
+linktitle: "SidRefArray"
+articleTitle: "SidRefArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SidRefArray constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/sidrefarray/sidrefarray/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/sidrefarray/sidrefarray/"
+product_version: "26.9"
 ---
 ## SidRefArray constructor
 
@@ -16,8 +19,7 @@ public SidRefArray()
 
 ### See Also
 
-* class [SidRefArray](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SidRefArray](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

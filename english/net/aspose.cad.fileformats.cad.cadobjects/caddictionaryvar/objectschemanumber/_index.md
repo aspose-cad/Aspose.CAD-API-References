@@ -1,10 +1,13 @@
 ---
-title: CadDictionaryVar.ObjectSchemaNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadDictionaryVar property. Gets or sets the object schema number
+title: "CadDictionaryVar.ObjectSchemaNumber"
+linktitle: "ObjectSchemaNumber"
+articleTitle: "ObjectSchemaNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDictionaryVar property. Gets or sets the object schema number."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddictionaryvar/objectschemanumber/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddictionaryvar/objectschemanumber/"
+product_version: "26.9"
 ---
 ## CadDictionaryVar.ObjectSchemaNumber property
 
@@ -20,8 +23,7 @@ The object schema number.
 
 ### See Also
 
-* class [CadDictionaryVar](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDictionaryVar](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

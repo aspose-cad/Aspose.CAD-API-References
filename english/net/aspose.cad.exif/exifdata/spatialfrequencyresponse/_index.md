@@ -1,10 +1,13 @@
 ---
-title: ExifData.SpatialFrequencyResponse
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the spatial frequency response
+title: "ExifData.SpatialFrequencyResponse"
+linktitle: "SpatialFrequencyResponse"
+articleTitle: "SpatialFrequencyResponse"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the spatial frequency response."
 type: docs
-weight: 980
-url: /net/aspose.cad.exif/exifdata/spatialfrequencyresponse/
+weight: 990
+url: "/net/aspose.cad.exif/exifdata/spatialfrequencyresponse/"
+product_version: "26.9"
 ---
 ## ExifData.SpatialFrequencyResponse property
 
@@ -20,8 +23,7 @@ The spatial frequency response.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

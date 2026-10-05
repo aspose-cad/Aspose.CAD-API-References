@@ -1,14 +1,18 @@
 ---
-title: Enum CadPlotLayoutFlag
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotLayoutFlag enum. Plot layout flag. PlotLayoutFlag
+title: "CadPlotLayoutFlag Enum"
+linktitle: "CadPlotLayoutFlag"
+articleTitle: "CadPlotLayoutFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotLayoutFlag enum. Plot layout flag. PlotLayoutFlag"
 type: docs
-weight: 1480
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadplotlayoutflag/
+weight: 420
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadplotlayoutflag/"
+product_version: "26.9"
 ---
 ## CadPlotLayoutFlag enumeration
 
-Plot layout flag. [`PlotLayoutFlag`](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotlayoutflag/)
+Plot layout flag.
+ `PlotLayoutFlag`
 
 ```csharp
 [Flags]
@@ -36,7 +40,6 @@ public enum CadPlotLayoutFlag : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

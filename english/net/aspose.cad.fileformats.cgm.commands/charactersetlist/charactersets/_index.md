@@ -1,12 +1,17 @@
 ---
-title: CharacterSetList.CharacterSets
-second_title: Aspose.CAD for .NET API Reference
-description: CharacterSetList property. 
+title: "CharacterSetList.CharacterSets"
+linktitle: "CharacterSets"
+articleTitle: "CharacterSets"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CharacterSetList property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cgm.commands/charactersetlist/charactersets/
+weight: 70
+url: "/net/aspose.cad.fileformats.cgm.commands/charactersetlist/charactersets/"
+product_version: "26.9"
 ---
 ## CharacterSetList.CharacterSets property
+
+
 
 ```csharp
 public List<KeyValuePair<Type, string>> CharacterSets { get; }
@@ -14,9 +19,8 @@ public List<KeyValuePair<Type, string>> CharacterSets { get; }
 
 ### See Also
 
-* enum [Type](../../charactersetlist.type/)
-* class [CharacterSetList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [Type](../../charactersetlist.type/)
+* class [CharacterSetList](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadCodeValue.GetShortValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadCodeValue method. The get short value
+title: "CadCodeValue.GetShortValue"
+linktitle: "GetShortValue"
+articleTitle: "GetShortValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCodeValue method. The get short value."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad/cadcodevalue/getshortvalue/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad/cadcodevalue/getshortvalue/"
+product_version: "26.9"
 ---
 ## CadCodeValue.GetShortValue method
 
@@ -16,12 +19,11 @@ public virtual short GetShortValue()
 
 ### Return Value
 
-The Int16.
+The `Int16`.
 
 ### See Also
 
-* class [CadCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

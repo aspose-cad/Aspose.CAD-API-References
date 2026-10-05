@@ -1,12 +1,17 @@
 ---
-title: Enum ControlElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Elements.ControlElement enum. 
+title: "ControlElement Enum"
+linktitle: "ControlElement"
+articleTitle: "ControlElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Elements.ControlElement enum."
 type: docs
-weight: 7000
-url: /net/aspose.cad.fileformats.cgm.elements/controlelement/
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm.elements/controlelement/"
+product_version: "26.9"
 ---
 ## ControlElement enumeration
+
+
 
 ```csharp
 public enum ControlElement
@@ -40,7 +45,6 @@ public enum ControlElement
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../)
 

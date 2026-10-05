@@ -1,10 +1,13 @@
 ---
-title: CadVertexBase.Bugle
-second_title: Aspose.CAD for .NET API Reference
-description: CadVertexBase property. Gets or sets the bugle
+title: "CadVertexBase.Bugle"
+linktitle: "Bugle"
+articleTitle: "Bugle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVertexBase property. Gets or sets the bugle."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexbase/bugle/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexbase/bugle/"
+product_version: "26.9"
 ---
 ## CadVertexBase.Bugle property
 
@@ -16,8 +19,7 @@ public virtual double Bugle { get; set; }
 
 ### See Also
 
-* class [CadVertexBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVertexBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

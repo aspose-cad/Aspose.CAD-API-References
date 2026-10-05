@@ -1,12 +1,15 @@
 ---
-title: Struct AttributeFormat
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.AttributeFormat struct. Defines the formatting in which a byte sequence can be encoded/decoded to attribute elements
+title: "AttributeFormat Struct"
+linktitle: "AttributeFormat"
+articleTitle: "AttributeFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Memory.AttributeFormat struct. Defines the formatting in which a byte sequence can be encoded/decoded to attribute elements."
 type: docs
-weight: 10930
-url: /net/aspose.cad.fileformats.glb.memory/attributeformat/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb.memory/attributeformat/"
+product_version: "26.9"
 ---
-## AttributeFormat structure
+## AttributeFormat struct
 
 Defines the formatting in which a byte sequence can be encoded/decoded to attribute elements.
 
@@ -18,41 +21,44 @@ public struct AttributeFormat : IEquatable<AttributeFormat>
 
 | Name | Description |
 | --- | --- |
-| [AttributeFormat](attributeformat/#constructor)(DimensionType) |  |
-| [AttributeFormat](attributeformat/#constructor_3)(EncodingType) |  |
-| [AttributeFormat](attributeformat/#constructor_1)(DimensionType, EncodingType) |  |
-| [AttributeFormat](attributeformat/#constructor_2)(DimensionType, EncodingType, bool) |  |
+| [AttributeFormat](attributeformat/)(EncodingType) | Initializes a new instance of the AttributeFormat class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ByteSizePadded](../../aspose.cad.fileformats.glb.memory/attributeformat/bytesizepadded/) { get; } |  |
+| ByteSizePadded { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Equals](../../aspose.cad.fileformats.glb.memory/attributeformat/equals/#equals)(AttributeFormat) |  |
-| override [Equals](../../aspose.cad.fileformats.glb.memory/attributeformat/equals/#equals_1)(object) |  |
-| override [GetHashCode](../../aspose.cad.fileformats.glb.memory/attributeformat/gethashcode/)() |  |
-| static [AreEqual](../../aspose.cad.fileformats.glb.memory/attributeformat/areequal/)(AttributeFormat, AttributeFormat) |  |
-| [operator ==](../../aspose.cad.fileformats.glb.memory/attributeformat/op_equality/) |  |
-| [implicit operator](../../aspose.cad.fileformats.glb.memory/attributeformat/op_implicit/#op_implicit_2) |  (3 operators) |
-| [operator !=](../../aspose.cad.fileformats.glb.memory/attributeformat/op_inequality/) |  |
+| AreEqual(AttributeFormat, AttributeFormat) |  |
+| Equals(AttributeFormat) |  |
+| Equals(object) |  |
+| GetHashCode() |  |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| readonly [ByteSize](../../aspose.cad.fileformats.glb.memory/attributeformat/bytesize/) |  |
-| readonly [Dimensions](../../aspose.cad.fileformats.glb.memory/attributeformat/dimensions/) |  |
-| readonly [Encoding](../../aspose.cad.fileformats.glb.memory/attributeformat/encoding/) |  |
-| readonly [Normalized](../../aspose.cad.fileformats.glb.memory/attributeformat/normalized/) |  |
+| ByteSize |  |
+| Dimensions |  |
+| Encoding |  |
+| Normalized |  |
+
+## Operators
+
+| Name | Description |
+| --- | --- |
+| operator AttributeFormat |  |
+| operator AttributeFormat |  |
+| operator AttributeFormat |  |
+| operator == |  |
+| operator != |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadMText.DrawingDirection
-second_title: Aspose.CAD for .NET API Reference
-description: CadMText property. Gets or sets the drawing direction
+title: "CadMText.DrawingDirection"
+linktitle: "DrawingDirection"
+articleTitle: "DrawingDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMText property. Gets or sets the drawing direction."
 type: docs
-weight: 360
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/drawingdirection/
+weight: 380
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmtext/drawingdirection/"
+product_version: "26.9"
 ---
 ## CadMText.DrawingDirection property
 
@@ -16,9 +19,8 @@ public CadDrawingDirection DrawingDirection { get; set; }
 
 ### See Also
 
-* enum [CadDrawingDirection](../../../aspose.cad.fileformats.cad.cadconsts/caddrawingdirection/)
-* class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadDrawingDirection](../../../aspose.cad.fileformats.cad.cadconsts/caddrawingdirection/)
+* class [CadMText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

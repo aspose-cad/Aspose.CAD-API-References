@@ -1,10 +1,13 @@
 ---
-title: ColorPaletteHelper.GetCloseImagePalette
-second_title: Aspose.CAD for .NET API Reference
-description: ColorPaletteHelper method. Gets color palette from raster image palletizes image in case the image does not have one. In case palette exists it will be used instead performing calculations
+title: "ColorPaletteHelper.GetCloseImagePalette"
+linktitle: "GetCloseImagePalette"
+articleTitle: "GetCloseImagePalette"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColorPaletteHelper method. Gets color palette from raster image (palletizes image) in case the image does not have one. In case palette exists it will be use..."
 type: docs
 weight: 60
-url: /net/aspose.cad/colorpalettehelper/getcloseimagepalette/
+url: "/net/aspose.cad/colorpalettehelper/getcloseimagepalette/"
+product_version: "26.9"
 ---
 ## ColorPaletteHelper.GetCloseImagePalette method
 
@@ -25,10 +28,9 @@ The color palette which starts with the most frequent colors from the *image* an
 
 ### See Also
 
-* interface [IColorPalette](../../icolorpalette/)
-* class [RasterImage](../../rasterimage/)
-* class [ColorPaletteHelper](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IColorPalette](../../icolorpalette/)
+* class [RasterImage](../../rasterimage/)
+* class [ColorPaletteHelper](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

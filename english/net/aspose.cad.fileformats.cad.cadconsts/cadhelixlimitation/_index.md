@@ -1,10 +1,13 @@
 ---
-title: Enum CadHelixLimitation
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadHelixLimitation enum. The Cad helix limitation
+title: "CadHelixLimitation Enum"
+linktitle: "CadHelixLimitation"
+articleTitle: "CadHelixLimitation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadHelixLimitation enum. The Cad helix limitation."
 type: docs
-weight: 1350
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadhelixlimitation/
+weight: 200
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadhelixlimitation/"
+product_version: "26.9"
 ---
 ## CadHelixLimitation enumeration
 
@@ -24,7 +27,6 @@ public enum CadHelixLimitation
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

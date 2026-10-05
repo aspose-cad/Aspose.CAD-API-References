@@ -1,10 +1,14 @@
 ---
-title: Class DwfWhipTextOptionBounds
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text.DwfWhipTextOptionBounds class. Represents Text option Bounds object
+title: "DwfWhipTextOptionBounds Class"
+linktitle: "DwfWhipTextOptionBounds"
+articleTitle: "DwfWhipTextOptionBounds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text.DwfWhipTextOptionBounds class. Represents Text option Bounds object"
 type: docs
-weight: 9840
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptextoptionbounds/
+weight: 30
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptextoptionbounds/"
+keywords: "DwfWhipTextOptionBounds, Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DwfWhipTextOptionBounds class
 
@@ -24,13 +28,12 @@ public class DwfWhipTextOptionBounds : DwfWhipObject
 
 | Name | Description |
 | --- | --- |
-| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
-| [Points](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptextoptionbounds/points/) { get; } | Gets bounds |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
+| [Points](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptextoptionbounds/points/) { get; set; } | Gets or sets bounds |
 
 ### See Also
 
-* class [DwfWhipObject](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/)
-* assembly [Aspose.CAD](../../)
-
+* class [DwfWhipObject](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/)
+* assembly [Aspose.CAD](../../)
 

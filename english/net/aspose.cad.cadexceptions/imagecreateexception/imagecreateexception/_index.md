@@ -1,10 +1,13 @@
 ---
-title: ImageCreateException.ImageCreateException
-second_title: Aspose.CAD for .NET API Reference
-description: ImageCreateException constructor. Initializes a new instance of the ImageCreateException class
+title: "ImageCreateException.ImageCreateException"
+linktitle: "ImageCreateException"
+articleTitle: "ImageCreateException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageCreateException constructor. Initializes a new instance of the ImageCreateException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions/imagecreateexception/imagecreateexception/
+url: "/net/aspose.cad.cadexceptions/imagecreateexception/imagecreateexception/"
+product_version: "26.9"
 ---
 ## ImageCreateException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public ImageCreateException(string message)
 
 ### See Also
 
-* class [ImageCreateException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
+* class [ImageCreateException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## ImageCreateException(string, Exception) {#constructor_1}
+## ImageCreateException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`ImageCreateException`](../) class.
 
@@ -41,8 +44,7 @@ public ImageCreateException(string message, Exception innerException)
 
 ### See Also
 
-* class [ImageCreateException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ImageCreateException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 

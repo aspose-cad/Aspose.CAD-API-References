@@ -1,14 +1,19 @@
 ---
-title: EvaluateScene.Enable
-second_title: Aspose.CAD for .NET API Reference
-description: EvaluateScene property. Gets or sets a value indicating whether evaluate is enable. Allow this to be disabled and hence skipped during evaluation. This is useful for debug
+title: "EvaluateScene.Enable"
+linktitle: "Enable"
+articleTitle: "Enable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "EvaluateScene property. Gets or sets a value indicating whether evaluate is enable. Allow this to be disabled and hence skipped during evaluation. This is us..."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/evaluatescene/enable/
+weight: 80
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/evaluatescene/enable/"
+product_version: "26.9"
 ---
 ## EvaluateScene.Enable property
 
-Gets or sets a value indicating whether evaluate is enable. Allow this to be disabled and hence skipped during evaluation. This is useful for debug
+Gets or sets a value indicating whether evaluate is enable.
+ Allow this to be disabled and hence skipped during evaluation.
+ This is useful for debug
 
 ```csharp
 public bool Enable { get; set; }
@@ -16,8 +21,7 @@ public bool Enable { get; set; }
 
 ### See Also
 
-* class [EvaluateScene](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [EvaluateScene](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

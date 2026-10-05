@@ -1,10 +1,13 @@
 ---
-title: CadBlockEntity.CadBlockEntity
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockEntity constructor. Initializes a new instance of the CadBlockEntity class
+title: "CadBlockEntity.CadBlockEntity"
+linktitle: "CadBlockEntity"
+articleTitle: "CadBlockEntity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockEntity constructor. Initializes a new instance of the CadBlockEntity class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/cadblockentity/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/cadblockentity/"
+product_version: "26.9"
 ---
 ## CadBlockEntity constructor
 
@@ -16,8 +19,7 @@ public CadBlockEntity()
 
 ### See Also
 
-* class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

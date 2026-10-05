@@ -1,10 +1,13 @@
 ---
-title: Enum RotateFlipType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.RotateFlipType enum. Specifies how much an image is rotated and the axis used to flip the image
+title: "RotateFlipType Enum"
+linktitle: "RotateFlipType"
+articleTitle: "RotateFlipType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.RotateFlipType enum. Specifies how much an image is rotated and the axis used to flip the image."
 type: docs
-weight: 37190
-url: /net/aspose.cad/rotatefliptype/
+weight: 800
+url: "/net/aspose.cad/rotatefliptype/"
+product_version: "26.9"
 ---
 ## RotateFlipType enumeration
 
@@ -37,7 +40,6 @@ public enum RotateFlipType
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

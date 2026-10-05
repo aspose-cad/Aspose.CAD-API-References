@@ -1,14 +1,18 @@
 ---
-title: GlbData.UseScene
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates or reuses a Scene instance at LogicalScenes
+title: "GlbData.UseScene"
+linktitle: "UseScene"
+articleTitle: "UseScene"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Creates or reuses a Scene instance at LogicalScenes."
 type: docs
-weight: 520
-url: /net/aspose.cad.fileformats.glb/glbdata/usescene/
+weight: 310
+url: "/net/aspose.cad.fileformats.glb/glbdata/usescene/"
+product_version: "26.9"
 ---
 ## UseScene(int) {#usescene}
 
-Creates or reuses a [`Scene`](../../scene/) instance at [`LogicalScenes`](../logicalscenes/).
+Creates or reuses a [`Scene`](../../scene/) instance
+ at [`LogicalScenes`](../logicalscenes/).
 
 ```csharp
 public Scene UseScene(int index)
@@ -24,16 +28,17 @@ A [`Scene`](../../scene/) instance.
 
 ### See Also
 
-* class [Scene](../../scene/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
+* class [Scene](../../scene/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
 ## UseScene(string) {#usescene_1}
 
-Creates or reuses a [`Scene`](../../scene/) instance that has the same *name* at [`LogicalScenes`](../logicalscenes/).
+Creates or reuses a [`Scene`](../../scene/) instance that has the
+ same *name* at [`LogicalScenes`](../logicalscenes/).
 
 ```csharp
 public Scene UseScene(string name)
@@ -49,9 +54,8 @@ A [`Scene`](../../scene/) instance.
 
 ### See Also
 
-* class [Scene](../../scene/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Scene](../../scene/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

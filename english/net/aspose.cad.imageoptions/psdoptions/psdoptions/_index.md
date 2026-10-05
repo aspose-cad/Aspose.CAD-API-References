@@ -1,10 +1,13 @@
 ---
-title: PsdOptions.PsdOptions
-second_title: Aspose.CAD for .NET API Reference
-description: PsdOptions constructor. Initializes a new instance of the PsdOptions class
+title: "PsdOptions.PsdOptions"
+linktitle: "PsdOptions"
+articleTitle: "PsdOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PsdOptions constructor. Initializes a new instance of the PsdOptions class."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/psdoptions/psdoptions/
+url: "/net/aspose.cad.imageoptions/psdoptions/psdoptions/"
+product_version: "26.9"
 ---
 ## PsdOptions() {#constructor}
 
@@ -16,9 +19,9 @@ public PsdOptions()
 
 ### See Also
 
-* class [PsdOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
+* class [PsdOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public PsdOptions(PsdOptions options)
 
 ### See Also
 
-* class [PsdOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PsdOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

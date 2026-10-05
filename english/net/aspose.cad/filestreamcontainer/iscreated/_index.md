@@ -1,10 +1,13 @@
 ---
-title: FileStreamContainer.IsCreated
-second_title: Aspose.CAD for .NET API Reference
-description: FileStreamContainer property. Gets a value indicating whether stream was created explicitly
+title: "FileStreamContainer.IsCreated"
+linktitle: "IsCreated"
+articleTitle: "IsCreated"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FileStreamContainer property. Gets a value indicating whether stream was created explicitly."
 type: docs
-weight: 40
-url: /net/aspose.cad/filestreamcontainer/iscreated/
+weight: 60
+url: "/net/aspose.cad/filestreamcontainer/iscreated/"
+product_version: "26.9"
 ---
 ## FileStreamContainer.IsCreated property
 
@@ -20,8 +23,7 @@ public bool IsCreated { get; }
 
 ### See Also
 
-* class [FileStreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FileStreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

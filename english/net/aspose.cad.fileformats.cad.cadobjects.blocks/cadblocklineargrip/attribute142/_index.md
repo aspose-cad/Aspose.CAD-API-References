@@ -1,10 +1,13 @@
 ---
-title: CadBlockLinearGrip.Attribute142
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockLinearGrip property. Gets or sets the attribute 142
+title: "CadBlockLinearGrip.Attribute142"
+linktitle: "Attribute142"
+articleTitle: "Attribute142"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockLinearGrip property. Gets or sets the attribute 142."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblocklineargrip/attribute142/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblocklineargrip/attribute142/"
+product_version: "26.9"
 ---
 ## CadBlockLinearGrip.Attribute142 property
 
@@ -20,8 +23,7 @@ The attribute 142.
 
 ### See Also
 
-* class [CadBlockLinearGrip](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockLinearGrip](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

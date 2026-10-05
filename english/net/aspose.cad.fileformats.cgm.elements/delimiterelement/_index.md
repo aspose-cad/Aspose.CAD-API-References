@@ -1,10 +1,13 @@
 ---
-title: Enum DelimiterElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Elements.DelimiterElement enum. Delimiter Elements
+title: "DelimiterElement Enum"
+linktitle: "DelimiterElement"
+articleTitle: "DelimiterElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Elements.DelimiterElement enum. Delimiter Elements"
 type: docs
-weight: 7020
-url: /net/aspose.cad.fileformats.cgm.elements/delimiterelement/
+weight: 80
+url: "/net/aspose.cad.fileformats.cgm.elements/delimiterelement/"
+product_version: "26.9"
 ---
 ## DelimiterElement enumeration
 
@@ -45,7 +48,6 @@ public enum DelimiterElement
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../)
 

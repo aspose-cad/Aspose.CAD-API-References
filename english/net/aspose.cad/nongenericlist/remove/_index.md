@@ -1,14 +1,17 @@
 ---
-title: NonGenericList.Remove
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericList method. Removes the first occurrence of a specific object from the IList
+title: "NonGenericList.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericList method. Removes the first occurrence of a specific object from the IList."
 type: docs
-weight: 150
-url: /net/aspose.cad/nongenericlist/remove/
+weight: 70
+url: "/net/aspose.cad/nongenericlist/remove/"
+product_version: "26.9"
 ---
 ## NonGenericList.Remove method
 
-Removes the first occurrence of a specific object from the IList.
+Removes the first occurrence of a specific object from the `IList`.
 
 ```csharp
 public void Remove(object value)
@@ -20,8 +23,7 @@ public void Remove(object value)
 
 ### See Also
 
-* class [NonGenericList](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericList](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

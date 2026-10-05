@@ -1,10 +1,13 @@
 ---
-title: CadAcDbPersSubentManager.CadAcDbPersSubentManager
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcDbPersSubentManager constructor. Initializes a new instance of the CadAcDbPersSubentManager class
+title: "CadAcDbPersSubentManager.CadAcDbPersSubentManager"
+linktitle: "CadAcDbPersSubentManager"
+articleTitle: "CadAcDbPersSubentManager"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcDbPersSubentManager constructor. Initializes a new instance of the CadAcDbPersSubentManager class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbperssubentmanager/cadacdbperssubentmanager/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbperssubentmanager/cadacdbperssubentmanager/"
+product_version: "26.9"
 ---
 ## CadAcDbPersSubentManager constructor
 
@@ -16,8 +19,7 @@ public CadAcDbPersSubentManager()
 
 ### See Also
 
-* class [CadAcDbPersSubentManager](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcDbPersSubentManager](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/)
+* assembly [Aspose.CAD](../../../)
 

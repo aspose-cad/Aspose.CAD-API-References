@@ -1,10 +1,13 @@
 ---
-title: TiffStreamWriter.WriteULong
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamWriter method. Writes a single unsigned integer value to the stream
+title: "TiffStreamWriter.WriteULong"
+linktitle: "WriteULong"
+articleTitle: "WriteULong"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamWriter method. Writes a single unsigned integer value to the stream."
 type: docs
-weight: 200
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writeulong/
+weight: 190
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writeulong/"
+product_version: "26.9"
 ---
 ## TiffStreamWriter.WriteULong method
 
@@ -20,8 +23,7 @@ public void WriteULong(uint data)
 
 ### See Also
 
-* class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamWriter](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

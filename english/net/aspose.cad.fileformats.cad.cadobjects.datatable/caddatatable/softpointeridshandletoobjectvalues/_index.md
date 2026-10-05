@@ -1,10 +1,13 @@
 ---
-title: CadDataTable.SoftPointerIdsHandleToObjectValues
-second_title: Aspose.CAD for .NET API Reference
-description: CadDataTable property. Gets or sets the soft pointer ids handle to object values
+title: "CadDataTable.SoftPointerIdsHandleToObjectValues"
+linktitle: "SoftPointerIdsHandleToObjectValues"
+articleTitle: "SoftPointerIdsHandleToObjectValues"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDataTable property. Gets or sets the soft pointer ids handle to object values."
 type: docs
 weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointeridshandletoobjectvalues/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointeridshandletoobjectvalues/"
+product_version: "26.9"
 ---
 ## CadDataTable.SoftPointerIdsHandleToObjectValues property
 
@@ -20,8 +23,7 @@ The soft pointer ids handle to object values.
 
 ### See Also
 
-* class [CadDataTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDataTable](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
+* assembly [Aspose.CAD](../../../)
 

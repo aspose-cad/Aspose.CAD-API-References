@@ -1,10 +1,13 @@
 ---
-title: ImageSaveException.ImageSaveException
-second_title: Aspose.CAD for .NET API Reference
-description: ImageSaveException constructor. Initializes a new instance of the ImageSaveException class
+title: "ImageSaveException.ImageSaveException"
+linktitle: "ImageSaveException"
+articleTitle: "ImageSaveException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageSaveException constructor. Initializes a new instance of the ImageSaveException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions/imagesaveexception/imagesaveexception/
+url: "/net/aspose.cad.cadexceptions/imagesaveexception/imagesaveexception/"
+product_version: "26.9"
 ---
 ## ImageSaveException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public ImageSaveException(string message)
 
 ### See Also
 
-* class [ImageSaveException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
+* class [ImageSaveException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## ImageSaveException(string, Exception) {#constructor_1}
+## ImageSaveException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`ImageSaveException`](../) class.
 
@@ -41,8 +44,7 @@ public ImageSaveException(string message, Exception innerException)
 
 ### See Also
 
-* class [ImageSaveException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ImageSaveException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 

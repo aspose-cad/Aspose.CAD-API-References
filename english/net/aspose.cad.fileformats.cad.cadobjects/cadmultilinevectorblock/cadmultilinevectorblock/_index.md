@@ -1,10 +1,13 @@
 ---
-title: CadMultiLineVectorBlock.CadMultiLineVectorBlock
-second_title: Aspose.CAD for .NET API Reference
-description: CadMultiLineVectorBlock constructor. Initializes a new instance of the CadMultiLineVectorBlock class
+title: "CadMultiLineVectorBlock.CadMultiLineVectorBlock"
+linktitle: "CadMultiLineVectorBlock"
+articleTitle: "CadMultiLineVectorBlock"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMultiLineVectorBlock constructor. Initializes a new instance of the CadMultiLineVectorBlock class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/cadmultilinevectorblock/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/cadmultilinevectorblock/"
+product_version: "26.9"
 ---
 ## CadMultiLineVectorBlock constructor
 
@@ -16,8 +19,7 @@ public CadMultiLineVectorBlock()
 
 ### See Also
 
-* class [CadMultiLineVectorBlock](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMultiLineVectorBlock](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

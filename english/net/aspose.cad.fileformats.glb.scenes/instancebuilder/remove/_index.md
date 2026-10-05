@@ -1,10 +1,13 @@
 ---
-title: InstanceBuilder.Remove
-second_title: Aspose.CAD for .NET API Reference
-description: InstanceBuilder method. Removes this instance from its parent SceneBuilder
+title: "InstanceBuilder.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "InstanceBuilder method. Removes this instance from its parent SceneBuilder."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.glb.scenes/instancebuilder/remove/
+weight: 30
+url: "/net/aspose.cad.fileformats.glb.scenes/instancebuilder/remove/"
+product_version: "26.9"
 ---
 ## InstanceBuilder.Remove method
 
@@ -16,8 +19,7 @@ public void Remove()
 
 ### See Also
 
-* class [InstanceBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InstanceBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

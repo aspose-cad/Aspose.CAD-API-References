@@ -1,14 +1,18 @@
 ---
-title: VisualScene.Asset
-second_title: Aspose.CAD for .NET API Reference
-description: VisualScene property. Gets or sets the asset. The visual_scene element may contain an asset element
+title: "VisualScene.Asset"
+linktitle: "Asset"
+articleTitle: "Asset"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "VisualScene property. Gets or sets the asset. The visual_scene element may contain an asset element."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/visualscene/asset/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/visualscene/asset/"
+product_version: "26.9"
 ---
 ## VisualScene.Asset property
 
-Gets or sets the asset. The visual_scene element may contain an asset element.
+Gets or sets the asset.
+ The visual_scene element may contain an asset element.
 
 ```csharp
 public Asset Asset { get; set; }
@@ -16,9 +20,8 @@ public Asset Asset { get; set; }
 
 ### See Also
 
-* class [Asset](../../asset/)
-* class [VisualScene](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Asset](../../asset/)
+* class [VisualScene](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

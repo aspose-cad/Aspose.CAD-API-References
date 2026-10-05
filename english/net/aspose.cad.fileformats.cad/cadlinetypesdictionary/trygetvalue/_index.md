@@ -1,10 +1,13 @@
 ---
-title: CadLineTypesDictionary.TryGetValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadLineTypesDictionary method. Gets the value associated with the specified key
+title: "CadLineTypesDictionary.TryGetValue"
+linktitle: "TryGetValue"
+articleTitle: "TryGetValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLineTypesDictionary method. Gets the value associated with the specified key."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad/cadlinetypesdictionary/trygetvalue/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad/cadlinetypesdictionary/trygetvalue/"
+product_version: "26.9"
 ---
 ## CadLineTypesDictionary.TryGetValue method
 
@@ -25,9 +28,8 @@ True if the dictionary contains an element with the specified key; otherwise, fa
 
 ### See Also
 
-* class [CadLineTypeTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/)
-* class [CadLineTypesDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLineTypeTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/)
+* class [CadLineTypesDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

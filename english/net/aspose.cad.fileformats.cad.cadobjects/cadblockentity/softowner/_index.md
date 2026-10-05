@@ -1,10 +1,13 @@
 ---
-title: CadBlockEntity.SoftOwner
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockEntity property. Gets or sets the soft owner
+title: "CadBlockEntity.SoftOwner"
+linktitle: "SoftOwner"
+articleTitle: "SoftOwner"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockEntity property. Gets or sets the soft owner."
 type: docs
-weight: 290
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/softowner/
+weight: 220
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/softowner/"
+product_version: "26.9"
 ---
 ## CadBlockEntity.SoftOwner property
 
@@ -20,8 +23,7 @@ The soft owner (the same for Block and EndBlock)
 
 ### See Also
 
-* class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

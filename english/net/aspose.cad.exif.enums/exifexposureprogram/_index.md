@@ -1,10 +1,13 @@
 ---
-title: Enum ExifExposureProgram
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifExposureProgram enum. exif exposure program enum
+title: "ExifExposureProgram Enum"
+linktitle: "ExifExposureProgram"
+articleTitle: "ExifExposureProgram"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifExposureProgram enum. exif exposure program enum."
 type: docs
-weight: 570
-url: /net/aspose.cad.exif.enums/exifexposureprogram/
+weight: 60
+url: "/net/aspose.cad.exif.enums/exifexposureprogram/"
+product_version: "26.9"
 ---
 ## ExifExposureProgram enumeration
 
@@ -30,7 +33,6 @@ public enum ExifExposureProgram
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

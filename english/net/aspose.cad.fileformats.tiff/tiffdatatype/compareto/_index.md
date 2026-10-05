@@ -1,10 +1,13 @@
 ---
-title: TiffDataType.CompareTo
-second_title: Aspose.CAD for .NET API Reference
-description: TiffDataType method. Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance precedes follows or occurs in the same position in the sort order as the other object
+title: "TiffDataType.CompareTo"
+linktitle: "CompareTo"
+articleTitle: "CompareTo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffDataType method. Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance pr..."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.tiff/tiffdatatype/compareto/
+weight: 20
+url: "/net/aspose.cad.fileformats.tiff/tiffdatatype/compareto/"
+product_version: "26.9"
 ---
 ## TiffDataType.CompareTo method
 
@@ -20,7 +23,15 @@ public int CompareTo(object obj)
 
 ### Return Value
 
-A 32-bit signed integer that indicates the relative order of the objects being compared. The return value has these meanings: Value Meaning Less than zero This instance is less than *obj*. Zero This instance is equal to *obj*. Greater than zero This instance is greater than *obj*.
+A 32-bit signed integer that indicates the relative order of the objects being compared. The return value has these meanings:
+ Value
+ Meaning
+ Less than zero
+ This instance is less than *obj*.
+ Zero
+ This instance is equal to *obj*.
+ Greater than zero
+ This instance is greater than *obj*.
 
 ### Exceptions
 
@@ -30,8 +41,7 @@ A 32-bit signed integer that indicates the relative order of the objects being c
 
 ### See Also
 
-* class [TiffDataType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDataType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

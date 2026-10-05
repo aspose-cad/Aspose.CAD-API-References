@@ -1,10 +1,13 @@
 ---
-title: PolyLineSegment.PolyLineSegment
-second_title: Aspose.CAD for .NET API Reference
-description: PolyLineSegment constructor. Initializes a new instance of the PolyLineSegment class
+title: "PolyLineSegment.PolyLineSegment"
+linktitle: "PolyLineSegment"
+articleTitle: "PolyLineSegment"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PolyLineSegment constructor. Initializes a new instance of the PolyLineSegment class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polylinesegment/polylinesegment/
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polylinesegment/polylinesegment/"
+product_version: "26.9"
 ---
 ## PolyLineSegment constructor
 
@@ -16,8 +19,7 @@ public PolyLineSegment()
 
 ### See Also
 
-* class [PolyLineSegment](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PolyLineSegment](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

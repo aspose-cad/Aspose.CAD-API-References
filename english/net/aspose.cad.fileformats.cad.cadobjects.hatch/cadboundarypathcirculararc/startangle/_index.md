@@ -1,10 +1,13 @@
 ---
-title: CadBoundaryPathCircularArc.StartAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadBoundaryPathCircularArc property. Gets or sets Start angle
+title: "CadBoundaryPathCircularArc.StartAngle"
+linktitle: "StartAngle"
+articleTitle: "StartAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBoundaryPathCircularArc property. Gets or sets Start angle."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/startangle/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/startangle/"
+product_version: "26.9"
 ---
 ## CadBoundaryPathCircularArc.StartAngle property
 
@@ -20,8 +23,7 @@ The Start angle
 
 ### See Also
 
-* class [CadBoundaryPathCircularArc](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBoundaryPathCircularArc](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

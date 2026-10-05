@@ -1,10 +1,13 @@
 ---
-title: CadImage.ApplicationVersion
-second_title: Aspose.CAD for .NET API Reference
-description: CadImage property. Gets or sets the application version
+title: "CadImage.ApplicationVersion"
+linktitle: "ApplicationVersion"
+articleTitle: "ApplicationVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadImage property. Gets or sets the application version."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad/cadimage/applicationversion/
+weight: 170
+url: "/net/aspose.cad.fileformats.cad/cadimage/applicationversion/"
+product_version: "26.9"
 ---
 ## CadImage.ApplicationVersion property
 
@@ -20,8 +23,7 @@ The application version.
 
 ### See Also
 
-* class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

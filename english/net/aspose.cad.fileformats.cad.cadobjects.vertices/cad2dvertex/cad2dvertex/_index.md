@@ -1,10 +1,13 @@
 ---
-title: Cad2DVertex.Cad2DVertex
-second_title: Aspose.CAD for .NET API Reference
-description: Cad2DVertex constructor. The default constructor
+title: "Cad2DVertex.Cad2DVertex"
+linktitle: "Cad2DVertex"
+articleTitle: "Cad2DVertex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad2DVertex constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cad2dvertex/cad2dvertex/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cad2dvertex/cad2dvertex/"
+product_version: "26.9"
 ---
 ## Cad2DVertex constructor
 
@@ -16,8 +19,7 @@ public Cad2DVertex()
 
 ### See Also
 
-* class [Cad2DVertex](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DVertex](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TableDataCell.HasLinkedFlags
-second_title: Aspose.CAD for .NET API Reference
-description: TableDataCell property. The cell has linked flags
+title: "TableDataCell.HasLinkedFlags"
+linktitle: "HasLinkedFlags"
+articleTitle: "HasLinkedFlags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableDataCell property. The cell has linked flags"
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatacell/haslinkedflags/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatacell/haslinkedflags/"
+product_version: "26.9"
 ---
 ## TableDataCell.HasLinkedFlags property
 
@@ -16,8 +19,7 @@ public int HasLinkedFlags { get; set; }
 
 ### See Also
 
-* class [TableDataCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableDataCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

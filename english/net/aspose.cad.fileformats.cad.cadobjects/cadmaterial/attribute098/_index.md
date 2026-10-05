@@ -1,10 +1,13 @@
 ---
-title: CadMaterial.Attribute098
-second_title: Aspose.CAD for .NET API Reference
-description: CadMaterial property. Gets or sets the attribute098
+title: "CadMaterial.Attribute098"
+linktitle: "Attribute098"
+articleTitle: "Attribute098"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMaterial property. Gets or sets the attribute098."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute098/
+weight: 540
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute098/"
+product_version: "26.9"
 ---
 ## CadMaterial.Attribute098 property
 
@@ -20,8 +23,7 @@ The attribute098.
 
 ### See Also
 
-* class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMaterial](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

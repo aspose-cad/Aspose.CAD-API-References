@@ -1,12 +1,17 @@
 ---
-title: Enum CharacterCodingAnnouncer.Type
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterCodingAnnouncerType enum. 
+title: "CharacterCodingAnnouncer.Type Enum"
+linktitle: "CharacterCodingAnnouncer.Type"
+articleTitle: "CharacterCodingAnnouncer.Type"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.CharacterCodingAnnouncer.Type enum."
 type: docs
-weight: 5050
-url: /net/aspose.cad.fileformats.cgm.commands/charactercodingannouncer.type/
+weight: 320
+url: "/net/aspose.cad.fileformats.cgm.commands/charactercodingannouncer.type/"
+product_version: "26.9"
 ---
 ## CharacterCodingAnnouncer.Type enumeration
+
+
 
 ```csharp
 public enum Type
@@ -23,8 +28,7 @@ public enum Type
 
 ### See Also
 
-* class [CharacterCodingAnnouncer](../charactercodingannouncer/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [CharacterCodingAnnouncer](../charactercodingannouncer/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

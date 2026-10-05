@@ -1,10 +1,13 @@
 ---
-title: IIfcSelect.Value
-second_title: Aspose.CAD for .NET API Reference
-description: IIfcSelect property. Gets or sets the value
+title: "IIfcSelect.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IIfcSelect property. Gets or sets the value."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.ifc/iifcselect/value/
+url: "/net/aspose.cad.fileformats.ifc/iifcselect/value/"
+product_version: "26.9"
 ---
 ## IIfcSelect.Value property
 
@@ -20,8 +23,7 @@ The value.
 
 ### See Also
 
-* interface [IIfcSelect](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IIfcSelect](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

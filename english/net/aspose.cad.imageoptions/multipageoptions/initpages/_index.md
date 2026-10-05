@@ -1,10 +1,13 @@
 ---
-title: MultiPageOptions.InitPages
-second_title: Aspose.CAD for .NET API Reference
-description: MultiPageOptions method. Initializes the pages from ranges array
+title: "MultiPageOptions.InitPages"
+linktitle: "InitPages"
+articleTitle: "InitPages"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MultiPageOptions method. Initializes the pages from ranges array"
 type: docs
-weight: 80
-url: /net/aspose.cad.imageoptions/multipageoptions/initpages/
+weight: 120
+url: "/net/aspose.cad.imageoptions/multipageoptions/initpages/"
+product_version: "26.9"
 ---
 ## MultiPageOptions.InitPages method
 
@@ -20,9 +23,8 @@ public void InitPages(IntRange[] ranges)
 
 ### See Also
 
-* class [IntRange](../../../aspose.cad/intrange/)
-* class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IntRange](../../../aspose.cad/intrange/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

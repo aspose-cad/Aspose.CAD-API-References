@@ -1,10 +1,13 @@
 ---
-title: CadLineTypesDictionary.Clone
-second_title: Aspose.CAD for .NET API Reference
-description: CadLineTypesDictionary method. Clones the dictionary
+title: "CadLineTypesDictionary.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLineTypesDictionary method. Clones the dictionary."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad/cadlinetypesdictionary/clone/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad/cadlinetypesdictionary/clone/"
+product_version: "26.9"
 ---
 ## CadLineTypesDictionary.Clone method
 
@@ -20,8 +23,7 @@ A new object that is a shallow copy of this instance.
 
 ### See Also
 
-* class [CadLineTypesDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLineTypesDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

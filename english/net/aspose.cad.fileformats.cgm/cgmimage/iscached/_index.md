@@ -1,12 +1,17 @@
 ---
-title: CgmImage.IsCached
-second_title: Aspose.CAD for .NET API Reference
-description: CgmImage property. 
+title: "CgmImage.IsCached"
+linktitle: "IsCached"
+articleTitle: "IsCached"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmImage property."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.cgm/cgmimage/iscached/
+url: "/net/aspose.cad.fileformats.cgm/cgmimage/iscached/"
+product_version: "26.9"
 ---
 ## CgmImage.IsCached property
+
+
 
 ```csharp
 public override bool IsCached { get; }
@@ -14,8 +19,7 @@ public override bool IsCached { get; }
 
 ### See Also
 
-* class [CgmImage](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmImage](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace handles Dwf whip objects processing
+title: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable"
+linktitle: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable"
+articleTitle: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace handles Dwf whip objects processing."
 type: docs
-weight: 630
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/
+weight: 10
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/"
+keywords: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace handles Dwf whip objects processing.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -28,5 +36,4 @@ The namespace handles Dwf whip objects processing.
 | [DwfWhipPolyline](./dwfwhippolyline/) | Represents polyline |
 | [DwfWhipPolymarker](./dwfwhippolymarker/) | A drawing object describing a POLYMARKER (a set of points). |
 | [DwfWhipPolytriangle](./dwfwhippolytriangle/) | Represents Polytriangle |
-
 

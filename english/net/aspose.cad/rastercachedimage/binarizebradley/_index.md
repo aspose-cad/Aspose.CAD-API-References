@@ -1,10 +1,13 @@
 ---
-title: RasterCachedImage.BinarizeBradley
-second_title: Aspose.CAD for .NET API Reference
-description: RasterCachedImage method. Binarization of an image using Bradleys adaptive thresholding algorithm using the integral image thresholding
+title: "RasterCachedImage.BinarizeBradley"
+linktitle: "BinarizeBradley"
+articleTitle: "BinarizeBradley"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterCachedImage method. Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding"
 type: docs
-weight: 50
-url: /net/aspose.cad/rastercachedimage/binarizebradley/
+weight: 100
+url: "/net/aspose.cad/rastercachedimage/binarizebradley/"
+product_version: "26.9"
 ---
 ## RasterCachedImage.BinarizeBradley method
 
@@ -20,8 +23,7 @@ public override void BinarizeBradley(double brightnessDifference)
 
 ### See Also
 
-* class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterCachedImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

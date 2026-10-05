@@ -1,10 +1,13 @@
 ---
-title: CadVportTableObject.ShadeHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadVportTableObject property. Gets or sets the shade handle
+title: "CadVportTableObject.ShadeHandle"
+linktitle: "ShadeHandle"
+articleTitle: "ShadeHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVportTableObject property. Gets or sets the shade handle."
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/shadehandle/
+weight: 420
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/shadehandle/"
+product_version: "26.9"
 ---
 ## CadVportTableObject.ShadeHandle property
 
@@ -20,8 +23,7 @@ The shade handle.
 
 ### See Also
 
-* class [CadVportTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVportTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

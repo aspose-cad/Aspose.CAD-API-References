@@ -1,14 +1,20 @@
 ---
-title: NonGenericDictionary.CopyTo
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericDictionary method. Copies the elements of the ICollection to an Array starting at a particular Array index
+title: "NonGenericDictionary.CopyTo"
+linktitle: "CopyTo"
+articleTitle: "CopyTo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericDictionary method. Copies the elements of the ICollection to an Array, starting at a particular Array index."
 type: docs
-weight: 130
-url: /net/aspose.cad/nongenericdictionary/copyto/
+weight: 30
+url: "/net/aspose.cad/nongenericdictionary/copyto/"
+product_version: "26.9"
 ---
 ## NonGenericDictionary.CopyTo method
 
-Copies the elements of the ICollection to an Array, starting at a particular Array index.
+Copies the elements of the 
+ `ICollection` to an 
+ `Array`, starting at a particular 
+ `Array` index.
 
 ```csharp
 public void CopyTo(Array array, int index)
@@ -21,8 +27,7 @@ public void CopyTo(Array array, int index)
 
 ### See Also
 
-* class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericDictionary](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

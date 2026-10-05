@@ -1,12 +1,15 @@
 ---
-title: VertexDataUnit.Equals
-second_title: Aspose.CAD for .NET API Reference
-description: VertexDataUnit method. Indicates whether the current object is equal to another object
+title: "VertexDataUnit.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "VertexDataUnit method. Indicates whether the current object is equal to another object."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.stl.stlobjects/vertexdataunit/equals/
+weight: 40
+url: "/net/aspose.cad.fileformats.stl.stlobjects/vertexdataunit/equals/"
+product_version: "26.9"
 ---
-## Equals(object) {#equals_1}
+## Equals(object) {#equals}
 
 Indicates whether the current object is equal to another object.
 
@@ -24,13 +27,13 @@ true if the current object is equal to the *obj* parameter; otherwise, false.
 
 ### See Also
 
-* class [VertexDataUnit](../)
-* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
-* assembly [Aspose.CAD](../../../)
+* class [VertexDataUnit](../)
+* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Equals(VertexDataUnit) {#equals}
+## Equals(VertexDataUnit) {#equals_1}
 
 Indicates whether the current object is equal to another object of the same type.
 
@@ -48,8 +51,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 
 ### See Also
 
-* class [VertexDataUnit](../)
-* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [VertexDataUnit](../)
+* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
+* assembly [Aspose.CAD](../../../)
 

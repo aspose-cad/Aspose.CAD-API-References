@@ -1,10 +1,13 @@
 ---
-title: CadVisualStyle.VisualStyleParameters
-second_title: Aspose.CAD for .NET API Reference
-description: CadVisualStyle property. Gets or sets the visual style parameters
+title: "CadVisualStyle.VisualStyleParameters"
+linktitle: "VisualStyleParameters"
+articleTitle: "VisualStyleParameters"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVisualStyle property. Gets or sets the visual style parameters."
 type: docs
-weight: 360
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/visualstyleparameters/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/visualstyleparameters/"
+product_version: "26.9"
 ---
 ## CadVisualStyle.VisualStyleParameters property
 
@@ -20,10 +23,9 @@ The visual style parameters.
 
 ### See Also
 
-* enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadVisualStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadVisualStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

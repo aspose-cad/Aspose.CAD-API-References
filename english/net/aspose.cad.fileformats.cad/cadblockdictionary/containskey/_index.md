@@ -1,10 +1,13 @@
 ---
-title: CadBlockDictionary.ContainsKey
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockDictionary method. Determines whether CadBlockEntity contained within this dictionary
+title: "CadBlockDictionary.ContainsKey"
+linktitle: "ContainsKey"
+articleTitle: "ContainsKey"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockDictionary method. Determines whether CadBlockEntity contained within this dictionary."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad/cadblockdictionary/containskey/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad/cadblockdictionary/containskey/"
+product_version: "26.9"
 ---
 ## CadBlockDictionary.ContainsKey method
 
@@ -24,8 +27,7 @@ True if the current dictionary contains an element with the key; otherwise, fals
 
 ### See Also
 
-* class [CadBlockDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

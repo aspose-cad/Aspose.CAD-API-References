@@ -1,10 +1,13 @@
 ---
-title: DicomOptions.DicomOptions
-second_title: Aspose.CAD for .NET API Reference
-description: DicomOptions constructor. Initializes a new instance of the DicomOptions class
+title: "DicomOptions.DicomOptions"
+linktitle: "DicomOptions"
+articleTitle: "DicomOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DicomOptions constructor. Initializes a new instance of the DicomOptions class."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/dicomoptions/dicomoptions/
+url: "/net/aspose.cad.imageoptions/dicomoptions/dicomoptions/"
+product_version: "26.9"
 ---
 ## DicomOptions constructor
 
@@ -16,8 +19,7 @@ public DicomOptions()
 
 ### See Also
 
-* class [DicomOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DicomOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

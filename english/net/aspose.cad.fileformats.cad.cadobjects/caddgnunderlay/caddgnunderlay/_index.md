@@ -1,10 +1,13 @@
 ---
-title: CadDgnUnderlay.CadDgnUnderlay
-second_title: Aspose.CAD for .NET API Reference
-description: CadDgnUnderlay constructor. The default constructor
+title: "CadDgnUnderlay.CadDgnUnderlay"
+linktitle: "CadDgnUnderlay"
+articleTitle: "CadDgnUnderlay"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDgnUnderlay constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddgnunderlay/caddgnunderlay/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddgnunderlay/caddgnunderlay/"
+product_version: "26.9"
 ---
 ## CadDgnUnderlay constructor
 
@@ -16,8 +19,7 @@ public CadDgnUnderlay()
 
 ### See Also
 
-* class [CadDgnUnderlay](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDgnUnderlay](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

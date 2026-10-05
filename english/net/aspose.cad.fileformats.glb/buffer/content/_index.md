@@ -1,12 +1,17 @@
 ---
-title: Buffer.Content
-second_title: Aspose.CAD for .NET API Reference
-description: Buffer property. 
+title: "Buffer.Content"
+linktitle: "Content"
+articleTitle: "Content"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Buffer property."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.glb/buffer/content/
+url: "/net/aspose.cad.fileformats.glb/buffer/content/"
+product_version: "26.9"
 ---
 ## Buffer.Content property
+
+
 
 ```csharp
 public byte[] Content { get; }
@@ -14,8 +19,7 @@ public byte[] Content { get; }
 
 ### See Also
 
-* class [Buffer](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Buffer](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

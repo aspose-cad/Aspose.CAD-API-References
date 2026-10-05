@@ -1,10 +1,13 @@
 ---
-title: CadVertexPolyFaceMesh.CadVertexPolyFaceMesh
-second_title: Aspose.CAD for .NET API Reference
-description: CadVertexPolyFaceMesh constructor. The default constructor
+title: "CadVertexPolyFaceMesh.CadVertexPolyFaceMesh"
+linktitle: "CadVertexPolyFaceMesh"
+articleTitle: "CadVertexPolyFaceMesh"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVertexPolyFaceMesh constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexpolyfacemesh/cadvertexpolyfacemesh/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexpolyfacemesh/cadvertexpolyfacemesh/"
+product_version: "26.9"
 ---
 ## CadVertexPolyFaceMesh constructor
 
@@ -16,8 +19,7 @@ public CadVertexPolyFaceMesh()
 
 ### See Also
 
-* class [CadVertexPolyFaceMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVertexPolyFaceMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ThreeDSImage.HasMeshes
-second_title: Aspose.CAD for .NET API Reference
-description: ThreeDSImage property. Gets a value indicating whether object has meshes
+title: "ThreeDSImage.HasMeshes"
+linktitle: "HasMeshes"
+articleTitle: "HasMeshes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThreeDSImage property. Gets a value indicating whether object has meshes."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.threeds/threedsimage/hasmeshes/
+weight: 130
+url: "/net/aspose.cad.fileformats.threeds/threedsimage/hasmeshes/"
+product_version: "26.9"
 ---
 ## ThreeDSImage.HasMeshes property
 
@@ -16,8 +19,7 @@ public bool HasMeshes { get; }
 
 ### See Also
 
-* class [ThreeDSImage](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThreeDSImage](../)
+* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
+* assembly [Aspose.CAD](../../../)
 

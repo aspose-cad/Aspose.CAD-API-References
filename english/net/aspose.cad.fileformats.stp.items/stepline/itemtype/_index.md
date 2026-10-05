@@ -1,12 +1,17 @@
 ---
-title: StepLine.ItemType
-second_title: Aspose.CAD for .NET API Reference
-description: StepLine property. 
+title: "StepLine.ItemType"
+linktitle: "ItemType"
+articleTitle: "ItemType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepLine property."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.stp.items/stepline/itemtype/
+url: "/net/aspose.cad.fileformats.stp.items/stepline/itemtype/"
+product_version: "26.9"
 ---
 ## StepLine.ItemType property
+
+
 
 ```csharp
 public override StepItemType ItemType { get; }
@@ -14,9 +19,8 @@ public override StepItemType ItemType { get; }
 
 ### See Also
 
-* enum [StepItemType](../../stepitemtype/)
-* class [StepLine](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [StepItemType](../../stepitemtype/)
+* class [StepLine](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

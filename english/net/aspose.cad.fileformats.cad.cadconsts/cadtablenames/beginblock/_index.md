@@ -1,10 +1,13 @@
 ---
-title: CadTableNames.BeginBlock
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableNames field. Cad name string
+title: "CadTableNames.BeginBlock"
+linktitle: "BeginBlock"
+articleTitle: "BeginBlock"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableNames field. Cad name string."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/beginblock/
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/beginblock/"
+product_version: "26.9"
 ---
 ## CadTableNames.BeginBlock field
 
@@ -16,8 +19,7 @@ public const string BeginBlock;
 
 ### See Also
 
-* class [CadTableNames](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableNames](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

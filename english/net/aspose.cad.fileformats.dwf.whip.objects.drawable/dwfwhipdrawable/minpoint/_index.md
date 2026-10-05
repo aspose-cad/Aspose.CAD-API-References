@@ -1,10 +1,13 @@
 ---
-title: DwfWhipDrawable.MinPoint
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipDrawable property. Gets the min point of object
+title: "DwfWhipDrawable.MinPoint"
+linktitle: "MinPoint"
+articleTitle: "MinPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipDrawable property. Gets the min point of object."
 type: docs
 weight: 70
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/minpoint/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/minpoint/"
+product_version: "26.9"
 ---
 ## DwfWhipDrawable.MinPoint property
 
@@ -20,9 +23,8 @@ Min point of object.
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [DwfWhipDrawable](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [DwfWhipDrawable](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
+* assembly [Aspose.CAD](../../../)
 

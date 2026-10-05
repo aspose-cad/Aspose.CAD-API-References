@@ -1,10 +1,13 @@
 ---
-title: RasterImage.BinarizeOtsu
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Binarization of an image with Otsu thresholding
+title: "RasterImage.BinarizeOtsu"
+linktitle: "BinarizeOtsu"
+articleTitle: "BinarizeOtsu"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Binarization of an image with Otsu thresholding"
 type: docs
-weight: 190
-url: /net/aspose.cad/rasterimage/binarizeotsu/
+weight: 60
+url: "/net/aspose.cad/rasterimage/binarizeotsu/"
+product_version: "26.9"
 ---
 ## RasterImage.BinarizeOtsu method
 
@@ -16,8 +19,7 @@ public abstract void BinarizeOtsu()
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

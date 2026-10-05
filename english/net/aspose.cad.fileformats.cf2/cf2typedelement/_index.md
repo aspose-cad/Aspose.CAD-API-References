@@ -1,10 +1,13 @@
 ---
-title: Enum CF2TypeDElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.CF2.CF2TypeDElement enum. CF2 type of drawn elements
+title: "CF2TypeDElement Enum"
+linktitle: "CF2TypeDElement"
+articleTitle: "CF2TypeDElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.CF2.CF2TypeDElement enum. CF2 type of drawn elements"
 type: docs
-weight: 1050
-url: /net/aspose.cad.fileformats.cf2/cf2typedelement/
+weight: 250
+url: "/net/aspose.cad.fileformats.cf2/cf2typedelement/"
+product_version: "26.9"
 ---
 ## CF2TypeDElement enumeration
 
@@ -27,7 +30,6 @@ public enum CF2TypeDElement
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../)
 

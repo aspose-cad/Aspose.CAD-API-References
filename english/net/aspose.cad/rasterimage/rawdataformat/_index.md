@@ -1,10 +1,13 @@
 ---
-title: RasterImage.RawDataFormat
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage property. Gets the raw data format
+title: "RasterImage.RawDataFormat"
+linktitle: "RawDataFormat"
+articleTitle: "RawDataFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage property. Gets the raw data format."
 type: docs
-weight: 70
-url: /net/aspose.cad/rasterimage/rawdataformat/
+weight: 440
+url: "/net/aspose.cad/rasterimage/rawdataformat/"
+product_version: "26.9"
 ---
 ## RasterImage.RawDataFormat property
 
@@ -20,9 +23,8 @@ The raw data format.
 
 ### See Also
 
-* class [PixelDataFormat](../../pixeldataformat/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PixelDataFormat](../../pixeldataformat/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

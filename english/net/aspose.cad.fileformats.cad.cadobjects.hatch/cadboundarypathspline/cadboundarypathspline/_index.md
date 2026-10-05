@@ -1,10 +1,13 @@
 ---
-title: CadBoundaryPathSpline.CadBoundaryPathSpline
-second_title: Aspose.CAD for .NET API Reference
-description: CadBoundaryPathSpline constructor. The default constructor
+title: "CadBoundaryPathSpline.CadBoundaryPathSpline"
+linktitle: "CadBoundaryPathSpline"
+articleTitle: "CadBoundaryPathSpline"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBoundaryPathSpline constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/cadboundarypathspline/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/cadboundarypathspline/"
+product_version: "26.9"
 ---
 ## CadBoundaryPathSpline constructor
 
@@ -16,8 +19,7 @@ public CadBoundaryPathSpline()
 
 ### See Also
 
-* class [CadBoundaryPathSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBoundaryPathSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

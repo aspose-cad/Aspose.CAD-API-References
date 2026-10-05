@@ -1,10 +1,13 @@
 ---
-title: CadCellMargin.CellMarginValues
-second_title: Aspose.CAD for .NET API Reference
-description: CadCellMargin property. Gets or sets the cell margin values
+title: "CadCellMargin.CellMarginValues"
+linktitle: "CellMarginValues"
+articleTitle: "CellMarginValues"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCellMargin property. Gets or sets the cell margin values."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadcellmargin/cellmarginvalues/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadcellmargin/cellmarginvalues/"
+product_version: "26.9"
 ---
 ## CadCellMargin.CellMarginValues property
 
@@ -20,9 +23,8 @@ The cell margin values.
 
 ### See Also
 
-* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
-* class [CadCellMargin](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
+* class [CadCellMargin](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

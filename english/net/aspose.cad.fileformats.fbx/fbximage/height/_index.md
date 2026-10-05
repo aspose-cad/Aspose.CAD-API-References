@@ -1,10 +1,13 @@
 ---
-title: FbxImage.Height
-second_title: Aspose.CAD for .NET API Reference
-description: FbxImage property. Gets the image height
+title: "FbxImage.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FbxImage property. Gets the image height."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.fbx/fbximage/height/
+weight: 70
+url: "/net/aspose.cad.fileformats.fbx/fbximage/height/"
+product_version: "26.9"
 ---
 ## FbxImage.Height property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's height: " + drawing.Height);
 
 ### See Also
 
-* class [FbxImage](../)
-* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FbxImage](../)
+* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
+* assembly [Aspose.CAD](../../../)
 

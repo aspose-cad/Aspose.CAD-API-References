@@ -1,14 +1,17 @@
 ---
-title: FileStreamContainer.op_Explicit
-second_title: Aspose.CAD for .NET API Reference
-description: FileStreamContainer method. Performs an explicit conversion from FileStreamContainer to Stream
+title: "FileStreamContainer.op_Explicit"
+linktitle: "op_Explicit"
+articleTitle: "op_Explicit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FileStreamContainer method. Performs an explicit conversion from FileStreamContainer to Stream."
 type: docs
-weight: 60
-url: /net/aspose.cad/filestreamcontainer/op_explicit/
+weight: 10
+url: "/net/aspose.cad/filestreamcontainer/op_explicit/"
+product_version: "26.9"
 ---
-## explicit operator {#op_explicit_1}
+## explicit operator {#op_explicit}
 
-Performs an explicit conversion from [`FileStreamContainer`](../) to Stream.
+Performs an explicit conversion from [`FileStreamContainer`](../) to `Stream`.
 
 ```csharp
 public static explicit operator Stream(FileStreamContainer fileStreamContainer)
@@ -24,15 +27,15 @@ The result of the conversion.
 
 ### See Also
 
-* class [FileStreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [FileStreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## explicit operator {#op_explicit}
+## explicit operator {#op_explicit_1}
 
-Performs an explicit conversion from [`FileStreamContainer`](../) to FileStream.
+Performs an explicit conversion from [`FileStreamContainer`](../) to `FileStream`.
 
 ```csharp
 public static explicit operator FileStream(FileStreamContainer fileStreamContainer)
@@ -48,8 +51,7 @@ The result of the conversion.
 
 ### See Also
 
-* class [FileStreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FileStreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

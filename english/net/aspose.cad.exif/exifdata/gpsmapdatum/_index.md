@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSMapDatum
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the GPS geodetic survey data used by the GPS receiver
+title: "ExifData.GPSMapDatum"
+linktitle: "GPSMapDatum"
+articleTitle: "GPSMapDatum"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the GPS geodetic survey data used by the GPS receiver."
 type: docs
-weight: 560
-url: /net/aspose.cad.exif/exifdata/gpsmapdatum/
+weight: 580
+url: "/net/aspose.cad.exif/exifdata/gpsmapdatum/"
+product_version: "26.9"
 ---
 ## ExifData.GPSMapDatum property
 
@@ -20,8 +23,7 @@ The GPS geodetic survey data used by the GPS receiver.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

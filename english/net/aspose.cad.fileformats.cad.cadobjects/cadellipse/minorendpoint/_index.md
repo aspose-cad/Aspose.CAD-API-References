@@ -1,10 +1,13 @@
 ---
-title: CadEllipse.MinorEndPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadEllipse property. Gets the minor end point
+title: "CadEllipse.MinorEndPoint"
+linktitle: "MinorEndPoint"
+articleTitle: "MinorEndPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEllipse property. Gets the minor end point."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadellipse/minorendpoint/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadellipse/minorendpoint/"
+product_version: "26.9"
 ---
 ## CadEllipse.MinorEndPoint property
 
@@ -20,9 +23,8 @@ The minor end point.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadEllipse](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum MultiPageMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.MultiPageMode enum. Represents multipage mode
+title: "MultiPageMode Enum"
+linktitle: "MultiPageMode"
+articleTitle: "MultiPageMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.MultiPageMode enum. Represents multipage mode"
 type: docs
-weight: 36540
-url: /net/aspose.cad.imageoptions/multipagemode/
+weight: 310
+url: "/net/aspose.cad.imageoptions/multipagemode/"
+product_version: "26.9"
 ---
 ## MultiPageMode enumeration
 
@@ -26,7 +29,6 @@ public enum MultiPageMode
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../)
 

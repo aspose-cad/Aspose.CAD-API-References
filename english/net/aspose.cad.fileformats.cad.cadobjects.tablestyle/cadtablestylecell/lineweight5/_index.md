@@ -1,10 +1,13 @@
 ---
-title: CadTableStyleCell.LineWeight5
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableStyleCell property. Gets or sets the line weight5
+title: "CadTableStyleCell.LineWeight5"
+linktitle: "LineWeight5"
+articleTitle: "LineWeight5"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableStyleCell property. Gets or sets the line weight5."
 type: docs
-weight: 200
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/lineweight5/
+weight: 230
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/lineweight5/"
+product_version: "26.9"
 ---
 ## CadTableStyleCell.LineWeight5 property
 
@@ -20,8 +23,7 @@ The line weight5.
 
 ### See Also
 
-* class [CadTableStyleCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableStyleCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

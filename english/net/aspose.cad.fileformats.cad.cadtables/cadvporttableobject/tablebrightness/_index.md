@@ -1,10 +1,13 @@
 ---
-title: CadVportTableObject.TableBrightness
-second_title: Aspose.CAD for .NET API Reference
-description: CadVportTableObject property. Gets or sets the brightness
+title: "CadVportTableObject.TableBrightness"
+linktitle: "TableBrightness"
+articleTitle: "TableBrightness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVportTableObject property. Gets or sets the brightness."
 type: docs
-weight: 330
-url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/tablebrightness/
+weight: 470
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/tablebrightness/"
+product_version: "26.9"
 ---
 ## CadVportTableObject.TableBrightness property
 
@@ -20,8 +23,7 @@ The brightness.
 
 ### See Also
 
-* class [CadVportTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVportTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

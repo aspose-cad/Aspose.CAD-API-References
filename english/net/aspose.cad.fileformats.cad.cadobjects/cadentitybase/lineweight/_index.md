@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.LineWeight
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets the line weight for the entity
+title: "CadEntityBase.LineWeight"
+linktitle: "LineWeight"
+articleTitle: "LineWeight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets the line weight for the entity."
 type: docs
-weight: 210
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/"
+product_version: "26.9"
 ---
 ## CadEntityBase.LineWeight property
 
@@ -20,12 +23,11 @@ The line weight.
 
 ## Remarks
 
-This property is always 0 for versions earlier than AC1015.
+This property is always 0 for versions earlier than `AC1015`.
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

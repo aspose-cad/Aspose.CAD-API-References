@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ThrowExceptions
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader property. Gets or sets a value indicating whether exceptions are thrown on incorrect data processing reading or writing to stream
+title: "TiffStreamReader.ThrowExceptions"
+linktitle: "ThrowExceptions"
+articleTitle: "ThrowExceptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader property. Gets or sets a value indicating whether exceptions are thrown on incorrect data processing (reading or writing to stream)."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/throwexceptions/
+weight: 290
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/throwexceptions/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ThrowExceptions property
 
@@ -20,8 +23,7 @@ public bool ThrowExceptions { get; set; }
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

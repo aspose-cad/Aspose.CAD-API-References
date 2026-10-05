@@ -1,10 +1,13 @@
 ---
-title: DgnElementProperties.IsAttributeDataPresent
-second_title: Aspose.CAD for .NET API Reference
-description: DgnElementProperties property. Gets a value indicating whether element has attribute data present
+title: "DgnElementProperties.IsAttributeDataPresent"
+linktitle: "IsAttributeDataPresent"
+articleTitle: "IsAttributeDataPresent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnElementProperties property. Gets a value indicating whether element has attribute data present"
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.dgn/dgnelementproperties/isattributedatapresent/
+weight: 50
+url: "/net/aspose.cad.fileformats.dgn/dgnelementproperties/isattributedatapresent/"
+product_version: "26.9"
 ---
 ## DgnElementProperties.IsAttributeDataPresent property
 
@@ -16,8 +19,7 @@ public bool IsAttributeDataPresent { get; }
 
 ### See Also
 
-* class [DgnElementProperties](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementProperties](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

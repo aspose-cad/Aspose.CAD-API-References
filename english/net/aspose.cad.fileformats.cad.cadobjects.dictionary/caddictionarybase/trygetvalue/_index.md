@@ -1,12 +1,15 @@
 ---
-title: CadDictionaryBase.TryGetValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadDictionaryBase method. Gets the entry soft owner by key
+title: "CadDictionaryBase.TryGetValue"
+linktitle: "TryGetValue"
+articleTitle: "TryGetValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDictionaryBase method. Gets the entry soft owner by key."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/trygetvalue/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/trygetvalue/"
+product_version: "26.9"
 ---
-## TryGetValue(string, out string) {#trygetvalue_1}
+## TryGetValue(string, out string) {#trygetvalue}
 
 Gets the entry soft owner by key.
 
@@ -25,13 +28,13 @@ true if dictionary contains the key otherwise false
 
 ### See Also
 
-* class [CadDictionaryBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
-* assembly [Aspose.CAD](../../../)
+* class [CadDictionaryBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## TryGetValue(string, out CadEntityAttribute, out string) {#trygetvalue}
+## TryGetValue(string, out CadEntityAttribute, out string) {#trygetvalue_1}
 
 Gets the entry soft owner by key.
 
@@ -51,9 +54,8 @@ true if dictionary contains the key otherwise false
 
 ### See Also
 
-* enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
-* class [CadDictionaryBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
+* class [CadDictionaryBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
+* assembly [Aspose.CAD](../../../)
 

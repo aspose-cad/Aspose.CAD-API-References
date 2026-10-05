@@ -1,10 +1,13 @@
 ---
-title: Enum TiffPredictor
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffPredictor enum. Prediction scheme for LZW
+title: "TiffPredictor Enum"
+linktitle: "TiffPredictor"
+articleTitle: "TiffPredictor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffPredictor enum. Prediction scheme for LZW"
 type: docs
-weight: 35500
-url: /net/aspose.cad.fileformats.tiff.enums/tiffpredictor/
+weight: 140
+url: "/net/aspose.cad.fileformats.tiff.enums/tiffpredictor/"
+product_version: "26.9"
 ---
 ## TiffPredictor enumeration
 
@@ -23,7 +26,6 @@ public enum TiffPredictor : ushort
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

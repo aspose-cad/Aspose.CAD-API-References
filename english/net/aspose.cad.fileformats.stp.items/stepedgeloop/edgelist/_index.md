@@ -1,12 +1,17 @@
 ---
-title: StepEdgeLoop.EdgeList
-second_title: Aspose.CAD for .NET API Reference
-description: StepEdgeLoop property. 
+title: "StepEdgeLoop.EdgeList"
+linktitle: "EdgeList"
+articleTitle: "EdgeList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepEdgeLoop property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.stp.items/stepedgeloop/edgelist/
+weight: 30
+url: "/net/aspose.cad.fileformats.stp.items/stepedgeloop/edgelist/"
+product_version: "26.9"
 ---
 ## StepEdgeLoop.EdgeList property
+
+
 
 ```csharp
 public List<StepOrientedEdge> EdgeList { get; }
@@ -14,9 +19,8 @@ public List<StepOrientedEdge> EdgeList { get; }
 
 ### See Also
 
-* class [StepOrientedEdge](../../steporientededge/)
-* class [StepEdgeLoop](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepOrientedEdge](../../steporientededge/)
+* class [StepEdgeLoop](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

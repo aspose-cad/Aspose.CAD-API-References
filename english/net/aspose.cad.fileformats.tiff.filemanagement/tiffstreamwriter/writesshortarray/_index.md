@@ -1,10 +1,13 @@
 ---
-title: TiffStreamWriter.WriteSShortArray
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamWriter method. Writes an array of short values to the stream
+title: "TiffStreamWriter.WriteSShortArray"
+linktitle: "WriteSShortArray"
+articleTitle: "WriteSShortArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamWriter method. Writes an array of short values to the stream."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesshortarray/
+weight: 160
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesshortarray/"
+product_version: "26.9"
 ---
 ## TiffStreamWriter.WriteSShortArray method
 
@@ -20,8 +23,7 @@ public void WriteSShortArray(short[] data)
 
 ### See Also
 
-* class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamWriter](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

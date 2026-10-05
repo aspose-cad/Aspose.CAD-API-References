@@ -1,10 +1,13 @@
 ---
-title: DgnViewInfo.Delta
-second_title: Aspose.CAD for .NET API Reference
-description: DgnViewInfo property. Gets or sets the delta
+title: "DgnViewInfo.Delta"
+linktitle: "Delta"
+articleTitle: "Delta"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnViewInfo property. Gets or sets the delta."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.dgn/dgnviewinfo/delta/
+url: "/net/aspose.cad.fileformats.dgn/dgnviewinfo/delta/"
+product_version: "26.9"
 ---
 ## DgnViewInfo.Delta property
 
@@ -20,9 +23,8 @@ The delta.
 
 ### See Also
 
-* class [DgnPoint](../../dgnpoint/)
-* class [DgnViewInfo](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnPoint](../../dgnpoint/)
+* class [DgnViewInfo](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

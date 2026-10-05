@@ -1,10 +1,13 @@
 ---
-title: ThreeDSImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: ThreeDSImage property. Gets the image width
+title: "ThreeDSImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThreeDSImage property. Gets the image width."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.threeds/threedsimage/width/
+weight: 40
+url: "/net/aspose.cad.fileformats.threeds/threedsimage/width/"
+product_version: "26.9"
 ---
 ## ThreeDSImage.Width property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's width: " + drawing.Width);
 
 ### See Also
 
-* class [ThreeDSImage](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThreeDSImage](../)
+* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
+* assembly [Aspose.CAD](../../../)
 

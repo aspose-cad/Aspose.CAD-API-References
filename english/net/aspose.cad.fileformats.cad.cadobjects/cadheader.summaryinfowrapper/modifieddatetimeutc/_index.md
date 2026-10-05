@@ -1,10 +1,13 @@
 ---
-title: CadHeader.SummaryInfoWrapper.ModifiedDateTimeUtc
-second_title: Aspose.CAD for .NET API Reference
-description: SummaryInfoWrapper property. Gets or sets the universal date/time of the last update/save
+title: "CadHeader.SummaryInfoWrapper.ModifiedDateTimeUtc"
+linktitle: "ModifiedDateTimeUtc"
+articleTitle: "ModifiedDateTimeUtc"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SummaryInfoWrapper property. Gets or sets the universal date/time of the last update/save."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadheader.summaryinfowrapper/modifieddatetimeutc/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadheader.summaryinfowrapper/modifieddatetimeutc/"
+product_version: "26.9"
 ---
 ## CadHeader.SummaryInfoWrapper.ModifiedDateTimeUtc property
 
@@ -20,8 +23,7 @@ The universal date/time of the last update/save.
 
 ### See Also
 
-* class [SummaryInfoWrapper](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoWrapper](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

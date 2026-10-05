@@ -1,10 +1,13 @@
 ---
-title: GeographicLocation.Latitude
-second_title: Aspose.CAD for .NET API Reference
-description: GeographicLocation property. Gets or sets the latitude
+title: "GeographicLocation.Latitude"
+linktitle: "Latitude"
+articleTitle: "Latitude"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GeographicLocation property. Gets or sets the latitude."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/geographiclocation/latitude/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/geographiclocation/latitude/"
+product_version: "26.9"
 ---
 ## GeographicLocation.Latitude property
 
@@ -16,8 +19,7 @@ public float Latitude { get; set; }
 
 ### See Also
 
-* class [GeographicLocation](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GeographicLocation](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

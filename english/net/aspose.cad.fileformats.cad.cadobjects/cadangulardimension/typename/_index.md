@@ -1,10 +1,13 @@
 ---
-title: CadAngularDimension.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadAngularDimension property. Gets the name of the type
+title: "CadAngularDimension.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAngularDimension property. Gets the name of the type."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadangulardimension/typename/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadangulardimension/typename/"
+product_version: "26.9"
 ---
 ## CadAngularDimension.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadAngularDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadAngularDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

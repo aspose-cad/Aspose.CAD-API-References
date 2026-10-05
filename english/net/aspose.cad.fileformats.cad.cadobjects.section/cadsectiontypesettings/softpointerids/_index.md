@@ -1,10 +1,13 @@
 ---
-title: CadSectionTypeSettings.SoftPointerIds
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionTypeSettings property. Gets or sets the soft pointer ids
+title: "CadSectionTypeSettings.SoftPointerIds"
+linktitle: "SoftPointerIds"
+articleTitle: "SoftPointerIds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionTypeSettings property. Gets or sets the soft pointer ids."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/softpointerids/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/softpointerids/"
+product_version: "26.9"
 ---
 ## CadSectionTypeSettings.SoftPointerIds property
 
@@ -20,8 +23,7 @@ The soft pointer ids.
 
 ### See Also
 
-* class [CadSectionTypeSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionTypeSettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

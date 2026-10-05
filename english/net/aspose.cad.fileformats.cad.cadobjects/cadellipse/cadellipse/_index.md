@@ -1,10 +1,13 @@
 ---
-title: CadEllipse.CadEllipse
-second_title: Aspose.CAD for .NET API Reference
-description: CadEllipse constructor. Initializes a new instance of the CadEllipse class
+title: "CadEllipse.CadEllipse"
+linktitle: "CadEllipse"
+articleTitle: "CadEllipse"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEllipse constructor. Initializes a new instance of the CadEllipse class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadellipse/cadellipse/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadellipse/cadellipse/"
+product_version: "26.9"
 ---
 ## CadEllipse constructor
 
@@ -28,9 +31,8 @@ public CadEllipse(Cad3DPoint centerPoint, Cad3DPoint majorEndPoint, double axisR
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadEllipse](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

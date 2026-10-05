@@ -1,10 +1,13 @@
 ---
-title: NormalDataUnit.NormalDataUnit
-second_title: Aspose.CAD for .NET API Reference
-description: NormalDataUnit constructor. The default constructor
+title: "NormalDataUnit.NormalDataUnit"
+linktitle: "NormalDataUnit"
+articleTitle: "NormalDataUnit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NormalDataUnit constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stp.stplibrary.core.models/normaldataunit/normaldataunit/
+url: "/net/aspose.cad.fileformats.stp.stplibrary.core.models/normaldataunit/normaldataunit/"
+product_version: "26.9"
 ---
 ## NormalDataUnit constructor
 
@@ -16,8 +19,7 @@ public NormalDataUnit()
 
 ### See Also
 
-* class [NormalDataUnit](../)
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NormalDataUnit](../)
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum ColorModes
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Psd.ColorModes enum. Represents the PSD file format color modes
+title: "ColorModes Enum"
+linktitle: "ColorModes"
+articleTitle: "ColorModes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Psd.ColorModes enum. Represents the PSD file format color modes."
 type: docs
-weight: 34090
-url: /net/aspose.cad.fileformats.psd/colormodes/
+weight: 20
+url: "/net/aspose.cad.fileformats.psd/colormodes/"
+product_version: "26.9"
 ---
 ## ColorModes enumeration
 
@@ -29,7 +32,6 @@ public enum ColorModes : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Psd](../../aspose.cad.fileformats.psd/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Psd](../../aspose.cad.fileformats.psd/)
+* assembly [Aspose.CAD](../../)
 

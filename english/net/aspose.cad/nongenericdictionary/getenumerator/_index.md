@@ -1,10 +1,13 @@
 ---
-title: NonGenericDictionary.GetEnumerator
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericDictionary method. Gets the enumerator
+title: "NonGenericDictionary.GetEnumerator"
+linktitle: "GetEnumerator"
+articleTitle: "GetEnumerator"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericDictionary method. Gets the enumerator."
 type: docs
-weight: 140
-url: /net/aspose.cad/nongenericdictionary/getenumerator/
+weight: 70
+url: "/net/aspose.cad/nongenericdictionary/getenumerator/"
+product_version: "26.9"
 ---
 ## NonGenericDictionary.GetEnumerator method
 
@@ -20,8 +23,7 @@ The dictionary enumerator
 
 ### See Also
 
-* class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericDictionary](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

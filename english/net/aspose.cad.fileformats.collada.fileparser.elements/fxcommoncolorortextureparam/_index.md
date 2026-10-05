@@ -1,14 +1,19 @@
 ---
-title: Class FxCommonColorOrTextureParam
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.FxCommonColorOrTextureParam class. The FX common color or texture parameter. References a predefined parameter
+title: "FxCommonColorOrTextureParam Class"
+linktitle: "FxCommonColorOrTextureParam"
+articleTitle: "FxCommonColorOrTextureParam"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.FxCommonColorOrTextureParam class. The FX common color or texture parameter. References a predefined param..."
 type: docs
-weight: 7790
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortextureparam/
+weight: 470
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortextureparam/"
+keywords: "FxCommonColorOrTextureParam, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## FxCommonColorOrTextureParam class
 
-The FX common color or texture parameter. References a predefined parameter.
+The FX common color or texture parameter.
+ References a predefined parameter.
 
 ```csharp
 public class FxCommonColorOrTextureParam : ColladaElement
@@ -24,12 +29,11 @@ public class FxCommonColorOrTextureParam : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Reference](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortextureparam/reference/) { get; set; } | Gets or sets the reference. |
+| [Reference](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortextureparam/reference/) { get; set; } | Gets or sets the reference. |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

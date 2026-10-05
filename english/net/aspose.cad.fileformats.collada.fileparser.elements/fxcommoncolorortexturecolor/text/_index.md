@@ -1,10 +1,13 @@
 ---
-title: FxCommonColorOrTextureColor.Text
-second_title: Aspose.CAD for .NET API Reference
-description: FxCommonColorOrTextureColor property. Gets or sets the value as text
+title: "FxCommonColorOrTextureColor.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FxCommonColorOrTextureColor property. Gets or sets the value as text."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturecolor/text/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturecolor/text/"
+product_version: "26.9"
 ---
 ## FxCommonColorOrTextureColor.Text property
 
@@ -16,8 +19,7 @@ public string Text { get; set; }
 
 ### See Also
 
-* class [FxCommonColorOrTextureColor](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonColorOrTextureColor](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

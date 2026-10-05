@@ -1,10 +1,13 @@
 ---
-title: CadFieldData.Attribute93
-second_title: Aspose.CAD for .NET API Reference
-description: CadFieldData property. Gets or sets the attribute 93
+title: "CadFieldData.Attribute93"
+linktitle: "Attribute93"
+articleTitle: "Attribute93"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadFieldData property. Gets or sets the attribute 93."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute93/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute93/"
+product_version: "26.9"
 ---
 ## CadFieldData.Attribute93 property
 
@@ -20,8 +23,7 @@ The attribute 93.
 
 ### See Also
 
-* class [CadFieldData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadFieldData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
+* assembly [Aspose.CAD](../../../)
 

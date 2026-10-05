@@ -1,10 +1,13 @@
 ---
-title: CadWipeoutRasterImage.WipeoutBrightness
-second_title: Aspose.CAD for .NET API Reference
-description: CadWipeoutRasterImage property. Gets or sets the wipeout brightness
+title: "CadWipeoutRasterImage.WipeoutBrightness"
+linktitle: "WipeoutBrightness"
+articleTitle: "WipeoutBrightness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadWipeoutRasterImage property. Gets or sets the wipeout brightness."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/wipeoutbrightness/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/wipeoutbrightness/"
+product_version: "26.9"
 ---
 ## CadWipeoutRasterImage.WipeoutBrightness property
 
@@ -20,8 +23,7 @@ The wipeout brightness.
 
 ### See Also
 
-* class [CadWipeoutRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadWipeoutRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
+* assembly [Aspose.CAD](../../../)
 

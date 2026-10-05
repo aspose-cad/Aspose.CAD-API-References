@@ -1,10 +1,13 @@
 ---
-title: FontStoringArgs.FontStoreType
-second_title: Aspose.CAD for .NET API Reference
-description: FontStoringArgs property. Gets or sets a value indicating how to store font
+title: "FontStoringArgs.FontStoreType"
+linktitle: "FontStoreType"
+articleTitle: "FontStoreType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FontStoringArgs property. Gets or sets a value indicating how to store font."
 type: docs
-weight: 50
-url: /net/aspose.cad.imageoptions.svgoptionsparameters/fontstoringargs/fontstoretype/
+weight: 70
+url: "/net/aspose.cad.imageoptions.svgoptionsparameters/fontstoringargs/fontstoretype/"
+product_version: "26.9"
 ---
 ## FontStoringArgs.FontStoreType property
 
@@ -20,9 +23,8 @@ Do not store font, store embedded in SVG file, or store in provided destination 
 
 ### See Also
 
-* enum [FontStoreType](../../fontstoretype/)
-* class [FontStoringArgs](../)
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [FontStoreType](../../fontstoretype/)
+* class [FontStoringArgs](../)
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
+* assembly [Aspose.CAD](../../../)
 

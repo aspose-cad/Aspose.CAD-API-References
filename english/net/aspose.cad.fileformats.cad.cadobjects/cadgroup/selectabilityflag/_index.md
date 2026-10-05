@@ -1,10 +1,13 @@
 ---
-title: CadGroup.SelectabilityFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadGroup property. Gets or sets the selectability flag
+title: "CadGroup.SelectabilityFlag"
+linktitle: "SelectabilityFlag"
+articleTitle: "SelectabilityFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGroup property. Gets or sets the selectability flag."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgroup/selectabilityflag/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgroup/selectabilityflag/"
+product_version: "26.9"
 ---
 ## CadGroup.SelectabilityFlag property
 
@@ -20,8 +23,7 @@ The selectability flag.
 
 ### See Also
 
-* class [CadGroup](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGroup](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

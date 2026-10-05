@@ -1,10 +1,13 @@
 ---
-title: Enum EnumOrthograthicItems
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumOrthograthicItems enum. The enumeration ORTHOGRATHIC items
+title: "EnumOrthograthicItems Enum"
+linktitle: "EnumOrthograthicItems"
+articleTitle: "EnumOrthograthicItems"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumOrthograthicItems enum. The enumeration ORTHOGRATHIC items."
 type: docs
-weight: 7700
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumorthograthicitems/
+weight: 380
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/enumorthograthicitems/"
+product_version: "26.9"
 ---
 ## EnumOrthograthicItems enumeration
 
@@ -24,7 +27,6 @@ public enum EnumOrthograthicItems
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

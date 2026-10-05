@@ -1,10 +1,13 @@
 ---
-title: CadVisualStyle.FaceStyleMonoColor
-second_title: Aspose.CAD for .NET API Reference
-description: CadVisualStyle property. Gets or sets the color of the face style mono
+title: "CadVisualStyle.FaceStyleMonoColor"
+linktitle: "FaceStyleMonoColor"
+articleTitle: "FaceStyleMonoColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVisualStyle property. Gets or sets the color of the face style mono."
 type: docs
-weight: 320
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/facestylemonocolor/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/facestylemonocolor/"
+product_version: "26.9"
 ---
 ## CadVisualStyle.FaceStyleMonoColor property
 
@@ -20,8 +23,7 @@ The color of the face style mono.
 
 ### See Also
 
-* class [CadVisualStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVisualStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

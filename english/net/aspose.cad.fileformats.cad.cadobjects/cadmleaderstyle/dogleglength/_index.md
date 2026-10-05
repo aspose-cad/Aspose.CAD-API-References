@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.DoglegLength
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the length of the dogleg
+title: "CadMLeaderStyle.DoglegLength"
+linktitle: "DoglegLength"
+articleTitle: "DoglegLength"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the length of the dogleg."
 type: docs
 weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/dogleglength/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/dogleglength/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.DoglegLength property
 
@@ -20,8 +23,7 @@ The length of the dogleg.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

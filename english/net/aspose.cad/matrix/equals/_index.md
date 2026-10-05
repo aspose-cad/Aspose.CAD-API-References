@@ -1,14 +1,17 @@
 ---
-title: Matrix.Equals
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix method. Determines whether the specified Object is equal to this instance
+title: "Matrix.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix method. Determines whether the specified Object is equal to this instance."
 type: docs
-weight: 90
-url: /net/aspose.cad/matrix/equals/
+weight: 220
+url: "/net/aspose.cad/matrix/equals/"
+product_version: "26.9"
 ---
-## Equals(object)
+## Equals(object) {#equals}
 
-Determines whether the specified Object is equal to this instance.
+Determines whether the specified `Object` is equal to this instance.
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,7 +23,7 @@ public override bool Equals(object obj)
 
 ### Return Value
 
-`true` if the specified Object is equal to this instance; otherwise, `false`.
+`true` if the specified `Object` is equal to this instance; otherwise, `false`.
 
 ### Exceptions
 
@@ -30,13 +33,13 @@ public override bool Equals(object obj)
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Equals(Matrix, Matrix)
+## Equals(Matrix, Matrix) {#equals_1}
 
 Determines whether two matrixes are equal.
 
@@ -55,8 +58,7 @@ True if matrixes are equal.
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

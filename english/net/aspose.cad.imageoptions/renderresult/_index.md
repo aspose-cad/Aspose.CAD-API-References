@@ -1,10 +1,14 @@
 ---
-title: Class RenderResult
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.RenderResult class. Represents information with results of rendering
+title: "RenderResult Class"
+linktitle: "RenderResult"
+articleTitle: "RenderResult"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.RenderResult class. Represents information with results of rendering"
 type: docs
-weight: 36700
-url: /net/aspose.cad.imageoptions/renderresult/
+weight: 490
+url: "/net/aspose.cad.imageoptions/renderresult/"
+keywords: "RenderResult, Aspose.CAD.ImageOptions, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## RenderResult class
 
@@ -18,18 +22,17 @@ public class RenderResult
 
 | Name | Description |
 | --- | --- |
-| [RenderResult](renderresult/)(string, RenderErrorCode) | Initializes a new instance of the `RenderResult` class. |
+| [RenderResult](renderresult/)(string, RenderErrorCode) | Initializes a new instance of the `RenderResult` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Message](../../aspose.cad.imageoptions/renderresult/message/) { get; set; } | Gets or sets string message |
-| [RenderCode](../../aspose.cad.imageoptions/renderresult/rendercode/) { get; set; } | Gets or sets code of error |
+| [Message](../../aspose.cad.imageoptions/renderresult/message/) { get; set; } | Gets or sets string message |
+| [RenderCode](../../aspose.cad.imageoptions/renderresult/rendercode/) { get; set; } | Gets or sets code of error |
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../)
 

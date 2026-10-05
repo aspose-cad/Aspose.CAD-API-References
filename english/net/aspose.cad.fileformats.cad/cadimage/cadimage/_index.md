@@ -1,10 +1,13 @@
 ---
-title: CadImage.CadImage
-second_title: Aspose.CAD for .NET API Reference
-description: CadImage constructor. Initializes a new instance of the CadImage class
+title: "CadImage.CadImage"
+linktitle: "CadImage"
+articleTitle: "CadImage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadImage constructor. Initializes a new instance of the CadImage class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadimage/cadimage/
+url: "/net/aspose.cad.fileformats.cad/cadimage/cadimage/"
+product_version: "26.9"
 ---
 ## CadImage constructor
 
@@ -16,8 +19,7 @@ public CadImage()
 
 ### See Also
 
-* class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

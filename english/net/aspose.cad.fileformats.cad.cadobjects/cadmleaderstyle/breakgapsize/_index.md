@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.BreakGapSize
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the size of the break gap
+title: "CadMLeaderStyle.BreakGapSize"
+linktitle: "BreakGapSize"
+articleTitle: "BreakGapSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the size of the break gap."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/breakgapsize/
+weight: 430
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/breakgapsize/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.BreakGapSize property
 
@@ -20,8 +23,7 @@ The size of the break gap.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

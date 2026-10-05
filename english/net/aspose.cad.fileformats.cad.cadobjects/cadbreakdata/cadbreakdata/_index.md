@@ -1,10 +1,13 @@
 ---
-title: CadBreakData.CadBreakData
-second_title: Aspose.CAD for .NET API Reference
-description: CadBreakData constructor. Initializes a new instance of the CadBreakData class
+title: "CadBreakData.CadBreakData"
+linktitle: "CadBreakData"
+articleTitle: "CadBreakData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBreakData constructor. Initializes a new instance of the CadBreakData class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadbreakdata/cadbreakdata/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadbreakdata/cadbreakdata/"
+product_version: "26.9"
 ---
 ## CadBreakData constructor
 
@@ -16,8 +19,7 @@ public CadBreakData()
 
 ### See Also
 
-* class [CadBreakData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBreakData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

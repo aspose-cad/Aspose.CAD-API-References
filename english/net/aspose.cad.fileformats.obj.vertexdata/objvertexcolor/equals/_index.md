@@ -1,12 +1,15 @@
 ---
-title: ObjVertexColor.Equals
-second_title: Aspose.CAD for .NET API Reference
-description: ObjVertexColor method. Indicates whether the current object is equal to another object
+title: "ObjVertexColor.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjVertexColor method. Indicates whether the current object is equal to another object."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.obj.vertexdata/objvertexcolor/equals/
+weight: 40
+url: "/net/aspose.cad.fileformats.obj.vertexdata/objvertexcolor/equals/"
+product_version: "26.9"
 ---
-## Equals(object) {#equals_2}
+## Equals(object) {#equals}
 
 Indicates whether the current object is equal to another object.
 
@@ -24,9 +27,9 @@ true if the current object is equal to the *obj* parameter; otherwise, false.
 
 ### See Also
 
-* class [ObjVertexColor](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
-* assembly [Aspose.CAD](../../../)
+* class [ObjVertexColor](../)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -48,8 +51,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 
 ### See Also
 
-* class [ObjVertexColor](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjVertexColor](../)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
+* assembly [Aspose.CAD](../../../)
 

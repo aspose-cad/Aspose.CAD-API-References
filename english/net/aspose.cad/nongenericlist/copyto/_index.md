@@ -1,14 +1,17 @@
 ---
-title: NonGenericList.CopyTo
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericList method. Copies the elements of the ICollection to an Array starting at a particular Array index
+title: "NonGenericList.CopyTo"
+linktitle: "CopyTo"
+articleTitle: "CopyTo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericList method. Copies the elements of the ICollection to an Array, starting at a particular Array index."
 type: docs
-weight: 110
-url: /net/aspose.cad/nongenericlist/copyto/
+weight: 90
+url: "/net/aspose.cad/nongenericlist/copyto/"
+product_version: "26.9"
 ---
 ## NonGenericList.CopyTo method
 
-Copies the elements of the ICollection to an Array, starting at a particular Array index.
+Copies the elements of the `ICollection` to an `Array`, starting at a particular `Array` index.
 
 ```csharp
 public void CopyTo(Array array, int index)
@@ -21,8 +24,7 @@ public void CopyTo(Array array, int index)
 
 ### See Also
 
-* class [NonGenericList](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericList](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

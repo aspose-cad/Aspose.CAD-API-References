@@ -1,10 +1,13 @@
 ---
-title: Enum TimeProvisionType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.TimeProvision.TimeProvisionType enum. Modes of artificial time operation
+title: "TimeProvisionType Enum"
+linktitle: "TimeProvisionType"
+articleTitle: "TimeProvisionType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.TimeProvision.TimeProvisionType enum. Modes of artificial time operation"
 type: docs
-weight: 37360
-url: /net/aspose.cad.timeprovision/timeprovisiontype/
+weight: 20
+url: "/net/aspose.cad.timeprovision/timeprovisiontype/"
+product_version: "26.9"
 ---
 ## TimeProvisionType enumeration
 
@@ -23,7 +26,6 @@ public enum TimeProvisionType
 
 ### See Also
 
-* namespace [Aspose.CAD.TimeProvision](../../aspose.cad.timeprovision/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.TimeProvision](../../aspose.cad.timeprovision/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DgnRootElement.SubUnitType
-second_title: Aspose.CAD for .NET API Reference
-description: DgnRootElement property. Gets or sets subunit type of design file
+title: "DgnRootElement.SubUnitType"
+linktitle: "SubUnitType"
+articleTitle: "SubUnitType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnRootElement property. Gets or sets sub-unit type of design file"
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/subunittype/
+weight: 190
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/subunittype/"
+product_version: "26.9"
 ---
 ## DgnRootElement.SubUnitType property
 
@@ -16,9 +19,8 @@ public UnitType SubUnitType { get; }
 
 ### See Also
 
-* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
-* class [DgnRootElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
+* class [DgnRootElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

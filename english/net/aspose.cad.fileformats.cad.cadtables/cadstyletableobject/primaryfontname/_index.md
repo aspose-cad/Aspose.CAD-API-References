@@ -1,10 +1,13 @@
 ---
-title: CadStyleTableObject.PrimaryFontName
-second_title: Aspose.CAD for .NET API Reference
-description: CadStyleTableObject property. Gets or sets the primary font name
+title: "CadStyleTableObject.PrimaryFontName"
+linktitle: "PrimaryFontName"
+articleTitle: "PrimaryFontName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadStyleTableObject property. Gets or sets the primary font name."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/primaryfontname/
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/primaryfontname/"
+product_version: "26.9"
 ---
 ## CadStyleTableObject.PrimaryFontName property
 
@@ -16,8 +19,7 @@ public string PrimaryFontName { get; set; }
 
 ### See Also
 
-* class [CadStyleTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadStyleTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

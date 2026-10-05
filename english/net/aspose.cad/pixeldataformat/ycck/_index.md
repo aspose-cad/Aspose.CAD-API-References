@@ -1,10 +1,13 @@
 ---
-title: PixelDataFormat.Ycck
-second_title: Aspose.CAD for .NET API Reference
-description: PixelDataFormat property. Gets the PixelDataFormat defined for 32 bits per pixel with 8 bits for each of the luma bluedifference reddifference and black chroma components
+title: "PixelDataFormat.Ycck"
+linktitle: "Ycck"
+articleTitle: "Ycck"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PixelDataFormat property. Gets the PixelDataFormat defined for 32 bits per pixel with 8 bits for each of the luma, blue-difference, red-difference and black ..."
 type: docs
-weight: 140
-url: /net/aspose.cad/pixeldataformat/ycck/
+weight: 160
+url: "/net/aspose.cad/pixeldataformat/ycck/"
+product_version: "26.9"
 ---
 ## PixelDataFormat.Ycck property
 
@@ -20,8 +23,7 @@ The [`PixelDataFormat`](../) defined for 32 bits per pixel with 8 bits for each 
 
 ### See Also
 
-* class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PixelDataFormat](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

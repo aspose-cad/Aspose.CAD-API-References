@@ -1,10 +1,13 @@
 ---
-title: Node.Skin
-second_title: Aspose.CAD for .NET API Reference
-description: Node property. Gets or sets the Skin of this Node
+title: "Node.Skin"
+linktitle: "Skin"
+articleTitle: "Skin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Node property. Gets or sets the Skin of this Node."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.glb/node/skin/
+weight: 220
+url: "/net/aspose.cad.fileformats.glb/node/skin/"
+product_version: "26.9"
 ---
 ## Node.Skin property
 
@@ -16,9 +19,8 @@ public Skin Skin { get; set; }
 
 ### See Also
 
-* class [Skin](../../skin/)
-* class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Skin](../../skin/)
+* class [Node](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

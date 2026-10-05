@@ -1,10 +1,14 @@
 ---
-title: Class DgnDigitizerElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnDigitizerElement class. Represents digitizer element
+title: "DgnDigitizerElement Class"
+linktitle: "DgnDigitizerElement"
+articleTitle: "DgnDigitizerElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnDigitizerElement class. Represents digitizer element"
 type: docs
-weight: 8830
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgndigitizerelement/
+weight: 110
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgndigitizerelement/"
+keywords: "DgnDigitizerElement, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnDigitizerElement class
 
@@ -24,14 +28,13 @@ public class DgnDigitizerElement : DgnElementBase
 
 | Name | Description |
 | --- | --- |
-| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 
 ### See Also
 
-* class [DgnElementBase](../dgnelementbase/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* class [DgnElementBase](../dgnelementbase/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

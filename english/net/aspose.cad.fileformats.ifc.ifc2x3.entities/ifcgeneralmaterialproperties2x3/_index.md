@@ -1,0 +1,51 @@
+---
+title: "IfcGeneralMaterialProperties2X3 Class"
+linktitle: "IfcGeneralMaterialProperties2X3"
+articleTitle: "IfcGeneralMaterialProperties2X3"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcGeneralMaterialProperties2X3 class. IfcGeneralMaterialProperties"
+type: docs
+weight: 2650
+url: "/net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties2x3/"
+keywords: "IfcGeneralMaterialProperties2X3, Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
+---
+## IfcGeneralMaterialProperties2X3 class
+
+IfcGeneralMaterialProperties
+
+```csharp
+public class IfcGeneralMaterialProperties2X3 : IfcMaterialProperties2X3
+```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [IfcGeneralMaterialProperties2X3](ifcgeneralmaterialproperties2x3/)() | The default constructor. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [MassDensity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties2x3/massdensity/) { get; set; } |  |
+| [Material](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcmaterialproperties2x3/material/) { get; set; } |  |
+| [MolecularWeight](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties2x3/molecularweight/) { get; set; } |  |
+| [Porosity](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcgeneralmaterialproperties2x3/porosity/) { get; set; } |  |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
+
+### See Also
+
+* class [IfcMaterialProperties2X3](../ifcmaterialproperties2x3/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
+* assembly [Aspose.CAD](../../)
+

@@ -1,10 +1,13 @@
 ---
-title: CadImage.Objects
-second_title: Aspose.CAD for .NET API Reference
-description: CadImage property. Gets or sets the objects
+title: "CadImage.Objects"
+linktitle: "Objects"
+articleTitle: "Objects"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadImage property. Gets or sets the objects."
 type: docs
-weight: 240
-url: /net/aspose.cad.fileformats.cad/cadimage/objects/
+weight: 280
+url: "/net/aspose.cad.fileformats.cad/cadimage/objects/"
+product_version: "26.9"
 ---
 ## CadImage.Objects property
 
@@ -26,9 +29,8 @@ The objects.
 
 ### See Also
 
-* class [CadBaseObject](../../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/)
-* class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBaseObject](../../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/)
+* class [CadImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

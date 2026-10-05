@@ -1,18 +1,21 @@
 ---
-title: Toolkit.WithColor
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. Defines the light color intensity and range for the current PunctualLight
+title: "Toolkit.WithColor"
+linktitle: "WithColor"
+articleTitle: "WithColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method. Defines the light color, intensity and range for the current PunctualLight."
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withcolor/
+weight: 570
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withcolor/"
+product_version: "26.9"
 ---
 ## Toolkit.WithColor method
 
 Defines the light color, intensity and range for the current [`PunctualLight`](../../../aspose.cad.fileformats.glb/punctuallight/).
 
 ```csharp
-public static PunctualLight WithColor(this PunctualLight light, Vector3 color, float intensity = 1, 
-    float range = Infinity)
+public static PunctualLight WithColor(this PunctualLight light, Vector3 color, 
+    float intensity = 1.0, float range = inf)
 ```
 
 | Parameter | Type | Description |
@@ -28,9 +31,8 @@ This [`PunctualLight`](../../../aspose.cad.fileformats.glb/punctuallight/) insta
 
 ### See Also
 
-* class [PunctualLight](../../../aspose.cad.fileformats.glb/punctuallight/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PunctualLight](../../../aspose.cad.fileformats.glb/punctuallight/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

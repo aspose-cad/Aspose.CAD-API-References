@@ -1,10 +1,13 @@
 ---
-title: Point2D.Point2D
-second_title: Aspose.CAD for .NET API Reference
-description: Point2D constructor. The default constructor
+title: "Point2D.Point2D"
+linktitle: "Point2D"
+articleTitle: "Point2D"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point2D constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.primitives/point2d/point2d/
+url: "/net/aspose.cad.primitives/point2d/point2d/"
+product_version: "26.9"
 ---
 ## Point2D() {#constructor}
 
@@ -16,13 +19,13 @@ public Point2D()
 
 ### See Also
 
-* class [Point2D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
+* class [Point2D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Point2D(double, double) {#constructor_1}
+## Point2D(double, double) {#constructor_1}
 
 Initializes a new instance of the [`Point2D`](../) class.
 
@@ -37,8 +40,7 @@ public Point2D(double x, double y)
 
 ### See Also
 
-* class [Point2D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point2D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

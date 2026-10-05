@@ -1,12 +1,17 @@
 ---
-title: Enum Severity
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Enums.Severity enum. 
+title: "Severity Enum"
+linktitle: "Severity"
+articleTitle: "Severity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Enums.Severity enum."
 type: docs
-weight: 7220
-url: /net/aspose.cad.fileformats.cgm.enums/severity/
+weight: 100
+url: "/net/aspose.cad.fileformats.cgm.enums/severity/"
+product_version: "26.9"
 ---
 ## Severity enumeration
+
+
 
 ```csharp
 public enum Severity
@@ -23,7 +28,6 @@ public enum Severity
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
+* assembly [Aspose.CAD](../../)
 

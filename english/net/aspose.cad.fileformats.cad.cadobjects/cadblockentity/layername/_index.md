@@ -1,10 +1,13 @@
 ---
-title: CadBlockEntity.LayerName
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockEntity property. Gets or sets the layer
+title: "CadBlockEntity.LayerName"
+linktitle: "LayerName"
+articleTitle: "LayerName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockEntity property. Gets or sets the layer."
 type: docs
-weight: 260
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/layername/
+weight: 230
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/layername/"
+product_version: "26.9"
 ---
 ## CadBlockEntity.LayerName property
 
@@ -20,8 +23,7 @@ The layer.
 
 ### See Also
 
-* class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

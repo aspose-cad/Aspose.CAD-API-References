@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.ColorName
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets the name of the color
+title: "CadEntityBase.ColorName"
+linktitle: "ColorName"
+articleTitle: "ColorName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets the name of the color."
 type: docs
 weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/"
+product_version: "26.9"
 ---
 ## CadEntityBase.ColorName property
 
@@ -24,8 +27,7 @@ Presented if a color from the Color Books has been selected for the entity.
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class StepTransformation
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Stp.Items.StepTransformation class. Transformation class for STP
+title: "StepTransformation Class"
+linktitle: "StepTransformation"
+articleTitle: "StepTransformation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Stp.Items.StepTransformation class. Transformation class for STP."
 type: docs
-weight: 35120
-url: /net/aspose.cad.fileformats.stp.items/steptransformation/
+weight: 1040
+url: "/net/aspose.cad.fileformats.stp.items/steptransformation/"
+keywords: "StepTransformation, Aspose.CAD.FileFormats.Stp.Items, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## StepTransformation class
 
@@ -18,20 +22,30 @@ public abstract class StepTransformation : StepRepresentationItem
 
 | Name | Description |
 | --- | --- |
-| [StepTransformation](steptransformation/)(string) |  |
+| [StepTransformation](steptransformation/)(string) | Initializes a new instance of the StepTransformation class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Id](../../aspose.cad.fileformats.stp.items/steprepresentationitem/id/) { get; set; } |  |
-| abstract [ItemType](../../aspose.cad.fileformats.stp.items/steprepresentationitem/itemtype/) { get; } |  |
-| [Name](../../aspose.cad.fileformats.stp.items/steprepresentationitem/name/) { get; set; } |  |
+| [Area](../../aspose.cad.fileformats.stp.items/steprepresentationitem/area/) { get; } | Gets the area of the entity. |
+| [Childs](../../aspose.cad.fileformats.stp.items/steprepresentationitem/childs/) { get; } |  |
+| [Id](../../aspose.cad.fileformats.stp.items/steprepresentationitem/id/) { get; } |  |
+| abstract [ItemType](../../aspose.cad.fileformats.stp.items/steprepresentationitem/itemtype/) { get; } |  |
+| [Length](../../aspose.cad.fileformats.stp.items/steprepresentationitem/length/) { get; } | Gets the length of the entity. |
+| [Name](../../aspose.cad.fileformats.stp.items/steprepresentationitem/name/) { get; set; } |  |
+| [UId](../../aspose.cad.fileformats.stp.items/steprepresentationitem/uid/) { get; set; } |  |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Equals](../../aspose.cad.fileformats.stp.items/steprepresentationitem/equals/)(StepRepresentationItem) |  |
+| override [GetHashCode](../../aspose.cad.fileformats.stp.items/steprepresentationitem/gethashcode/)() |  |
 
 ### See Also
 
-* class [StepRepresentationItem](../steprepresentationitem/)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../)
-
+* class [StepRepresentationItem](../steprepresentationitem/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../)
 

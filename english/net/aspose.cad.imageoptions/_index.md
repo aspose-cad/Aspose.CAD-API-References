@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.ImageOptions
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains classes suitable for export save or creation of different file formats
+title: "Aspose.CAD.ImageOptions"
+linktitle: "Aspose.CAD.ImageOptions"
+articleTitle: "Aspose.CAD.ImageOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains classes suitable for export, save or creation of different file formats."
 type: docs
-weight: 1280
-url: /net/aspose.cad.imageoptions/
+weight: 10
+url: "/net/aspose.cad.imageoptions/"
+keywords: "Aspose.CAD.ImageOptions, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains classes suitable for export, save or creation of different file formats.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -20,14 +28,17 @@ The namespace contains classes suitable for export, save or creation of differen
 | [DicomOptions](./dicomoptions/) | The DICOM file format creation options. |
 | [DracoOptions](./dracooptions/) | The Draco options. |
 | [DwfOptions](./dwfoptions/) | The DWF options. |
+| [DwfxOptions](./dwfxoptions/) | The DWFx options. |
 | [DwgOptions](./dwgoptions/) | The DWG file format creation options. |
 | [DxfOptions](./dxfoptions/) | Class for DXF format output creation options |
 | [EmfOptions](./emfoptions/) | The EMF file format creation options. |
 | [FbxOptions](./fbxoptions/) | The Fbx options. |
 | [GifOptions](./gifoptions/) | The gif file format creation options. |
+| [GlbGltfOptionsBase](./glbgltfoptionsbase/) | The GLTF options. |
 | [GlbOptions](./glboptions/) | The GLB options. |
 | [GltfOptions](./gltfoptions/) | The GLTF options. |
 | [GraphicsOptions](./graphicsoptions/) | Represents graphics options for embedded bitmap. |
+| [Html5Options](./html5options/) | HTML5 Canvas image format creation options |
 | [IfcOptions](./ifcoptions/) | The IFC options. |
 | [ImageOptionsBase](./imageoptionsbase/) | The image base options. |
 | [Jpeg2000Options](./jpeg2000options/) | The Jpeg2000 file format options. |
@@ -35,6 +46,7 @@ The namespace contains classes suitable for export, save or creation of differen
 | [Margins](./margins/) | Margins class. |
 | [MultiPageOptions](./multipageoptions/) | Base class for multiple pages supported formats |
 | [ObjOptions](./objoptions/) | The OBJ options. |
+| [PageSizingOptions](./pagesizingoptions/) |  |
 | [PdfDigitalSignatureDetailsCore](./pdfdigitalsignaturedetailscore/) | Contains details for a PDF digital signature. |
 | [PdfDocumentOptions](./pdfdocumentoptions/) | The PDF options. |
 | [PdfOptions](./pdfoptions/) | The PDF options. |
@@ -53,12 +65,14 @@ The namespace contains classes suitable for export, save or creation of differen
 | [VectorRasterizationOptions](./vectorrasterizationoptions/) | The vector rasterization options. |
 | [WebPOptions](./webpoptions/) | WEBP image options |
 | [WmfOptions](./wmfoptions/) | The wmf file format creation options. |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [ITextAsLinesOptions](./itextaslinesoptions/) | The TextAsLines options. |
 | [ITextAsShapesOptions](./itextasshapesoptions/) | The TextAsShapes options. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -70,9 +84,9 @@ The namespace contains classes suitable for export, save or creation of differen
 | [PdfDigitalSignatureHashAlgorithmCore](./pdfdigitalsignaturehashalgorithmcore/) | Specifies digital hash algorithm used by digital signature. |
 | [RasterizationQualityValue](./rasterizationqualityvalue/) | Copy of RasterizationQualityValue enum for use in Aspose.SVG for avoiding of dependency from Aspose.CAD.ImageOptions namespace. |
 | [RenderErrorCode](./rendererrorcode/) | Represents possible missing sections in CAD file |
+| [RenderMode](./rendermode/) | Sets whether the output result for DXF/DWG should be vectorized or rasterized. |
 | [RenderMode3D](./rendermode3d/) |  |
 | [TiffOptionsError](./tiffoptionserror/) | The tiff options error codes. |
 | [UnitType](./unittype/) | Represents unit types. |
 | [VisibilityMode](./visibilitymode/) | Defines entity visibility checking - CAD platforms typically allow separate entity visibilities for print and screen display |
-
 

@@ -1,10 +1,13 @@
 ---
-title: Enum ExifContrast
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifContrast enum. exif normal soft hard enum
+title: "ExifContrast Enum"
+linktitle: "ExifContrast"
+articleTitle: "ExifContrast"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifContrast enum. exif normal soft hard enum."
 type: docs
-weight: 540
-url: /net/aspose.cad.exif.enums/exifcontrast/
+weight: 30
+url: "/net/aspose.cad.exif.enums/exifcontrast/"
+product_version: "26.9"
 ---
 ## ExifContrast enumeration
 
@@ -24,7 +27,6 @@ public enum ExifContrast
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadBlockDictionary.KeysTyped
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockDictionary property. Gets the strongly typed collection of keys
+title: "CadBlockDictionary.KeysTyped"
+linktitle: "KeysTyped"
+articleTitle: "KeysTyped"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockDictionary property. Gets the strongly typed collection of keys."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad/cadblockdictionary/keystyped/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad/cadblockdictionary/keystyped/"
+product_version: "26.9"
 ---
 ## CadBlockDictionary.KeysTyped property
 
@@ -20,8 +23,7 @@ The strongly typed keys collection.
 
 ### See Also
 
-* class [CadBlockDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

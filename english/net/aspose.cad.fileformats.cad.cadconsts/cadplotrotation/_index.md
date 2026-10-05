@@ -1,14 +1,18 @@
 ---
-title: Enum CadPlotRotation
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotRotation enum. Plot rotation. CadPlotSettings
+title: "CadPlotRotation Enum"
+linktitle: "CadPlotRotation"
+articleTitle: "CadPlotRotation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotRotation enum. Plot rotation. CadPlotSettings"
 type: docs
-weight: 1500
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadplotrotation/
+weight: 440
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadplotrotation/"
+product_version: "26.9"
 ---
 ## CadPlotRotation enumeration
 
-Plot rotation. [`CadPlotSettings`](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
+Plot rotation.
+ [`CadPlotSettings`](../../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
 
 ```csharp
 public enum CadPlotRotation : short
@@ -25,7 +29,6 @@ public enum CadPlotRotation : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

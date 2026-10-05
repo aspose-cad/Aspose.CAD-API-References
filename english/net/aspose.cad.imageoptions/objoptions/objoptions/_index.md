@@ -1,10 +1,13 @@
 ---
-title: ObjOptions.ObjOptions
-second_title: Aspose.CAD for .NET API Reference
-description: ObjOptions constructor. The default constructor
+title: "ObjOptions.ObjOptions"
+linktitle: "ObjOptions"
+articleTitle: "ObjOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/objoptions/objoptions/
+url: "/net/aspose.cad.imageoptions/objoptions/objoptions/"
+product_version: "26.9"
 ---
 ## ObjOptions constructor
 
@@ -16,8 +19,7 @@ public ObjOptions()
 
 ### See Also
 
-* class [ObjOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadLayout.UcsOrthographicType
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayout property. Gets or sets the type of the UCS orthographic
+title: "CadLayout.UcsOrthographicType"
+linktitle: "UcsOrthographicType"
+articleTitle: "UcsOrthographicType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayout property. Gets or sets the type of the UCS orthographic."
 type: docs
 weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucsorthographictype/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucsorthographictype/"
+product_version: "26.9"
 ---
 ## CadLayout.UcsOrthographicType property
 
@@ -20,9 +23,8 @@ The type of the UCS orthographic.
 
 ### See Also
 
-* enum [CadLayoutUcsOrthographicType](../../../aspose.cad.fileformats.cad.cadconsts/cadlayoutucsorthographictype/)
-* class [CadLayout](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadLayoutUcsOrthographicType](../../../aspose.cad.fileformats.cad.cadconsts/cadlayoutucsorthographictype/)
+* class [CadLayout](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

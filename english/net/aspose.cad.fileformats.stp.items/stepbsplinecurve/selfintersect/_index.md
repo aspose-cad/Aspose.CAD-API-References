@@ -1,12 +1,17 @@
 ---
-title: StepBSplineCurve.SelfIntersect
-second_title: Aspose.CAD for .NET API Reference
-description: StepBSplineCurve property. 
+title: "StepBSplineCurve.SelfIntersect"
+linktitle: "SelfIntersect"
+articleTitle: "SelfIntersect"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepBSplineCurve property."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.stp.items/stepbsplinecurve/selfintersect/
+weight: 70
+url: "/net/aspose.cad.fileformats.stp.items/stepbsplinecurve/selfintersect/"
+product_version: "26.9"
 ---
 ## StepBSplineCurve.SelfIntersect property
+
+
 
 ```csharp
 public bool SelfIntersect { get; set; }
@@ -14,8 +19,7 @@ public bool SelfIntersect { get; set; }
 
 ### See Also
 
-* class [StepBSplineCurve](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepBSplineCurve](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

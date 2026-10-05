@@ -1,14 +1,18 @@
 ---
-title: Node.InstanceNode
-second_title: Aspose.CAD for .NET API Reference
-description: Node property. Gets or sets the instance node. The node element may instance any number of node elements or hierarchies objects
+title: "Node.InstanceNode"
+linktitle: "InstanceNode"
+articleTitle: "InstanceNode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Node property. Gets or sets the instance node. The node element may instance any number of node elements or hierarchies objects."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/node/instancenode/
+weight: 70
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/node/instancenode/"
+product_version: "26.9"
 ---
 ## Node.InstanceNode property
 
-Gets or sets the instance node. The node element may instance any number of node elements or hierarchies objects.
+Gets or sets the instance node.
+ The node element may instance any number of node elements or hierarchies objects.
 
 ```csharp
 public InstanceNode[] InstanceNode { get; set; }
@@ -16,9 +20,8 @@ public InstanceNode[] InstanceNode { get; set; }
 
 ### See Also
 
-* class [InstanceNode](../../instancenode/)
-* class [Node](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InstanceNode](../../instancenode/)
+* class [Node](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

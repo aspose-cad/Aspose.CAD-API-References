@@ -1,17 +1,22 @@
 ---
-title: Class LibraryCameras
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.LibraryCameras class. The library cameras. Provides a library in which to place camera elements
+title: "LibraryCameras Class"
+linktitle: "LibraryCameras"
+articleTitle: "LibraryCameras"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.LibraryCameras class. The library cameras. Provides a library in which to place camera elements."
 type: docs
-weight: 8040
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/librarycameras/
+weight: 720
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/librarycameras/"
+keywords: "LibraryCameras, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## LibraryCameras class
 
-The library cameras. Provides a library in which to place camera elements.
+The library cameras.
+ Provides a library in which to place camera elements.
 
 ```csharp
-public class LibraryCameras
+public class LibraryCameras : ColladaElement
 ```
 
 ## Constructors
@@ -24,15 +29,15 @@ public class LibraryCameras
 
 | Name | Description |
 | --- | --- |
-| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/asset/) { get; set; } | Gets or sets the asset. |
-| [Camera](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/camera/) { get; set; } | Gets or sets the camera collection. |
-| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/extra/) { get; set; } | Gets or sets the extra. |
-| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/id/) { get; set; } | Gets or sets the library id. This value must be unique within the instance document. Optional. |
-| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/name/) { get; set; } | Gets or sets the name. Optional. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/asset/) { get; set; } | Gets or sets the asset. |
+| [Camera](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/camera/) { get; set; } | Gets or sets the camera collection. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/extra/) { get; set; } | Gets or sets the extra. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/id/) { get; set; } | Gets or sets the library id. This value must be unique within the instance document. Optional. |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/librarycameras/name/) { get; set; } | Gets or sets the name. Optional. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PsdOptions.ChannelBitsCount
-second_title: Aspose.CAD for .NET API Reference
-description: PsdOptions property. Gets or sets the bits count per color channel
+title: "PsdOptions.ChannelBitsCount"
+linktitle: "ChannelBitsCount"
+articleTitle: "ChannelBitsCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PsdOptions property. Gets or sets the bits count per color channel."
 type: docs
-weight: 20
-url: /net/aspose.cad.imageoptions/psdoptions/channelbitscount/
+weight: 80
+url: "/net/aspose.cad.imageoptions/psdoptions/channelbitscount/"
+product_version: "26.9"
 ---
 ## PsdOptions.ChannelBitsCount property
 
@@ -20,8 +23,7 @@ The bits count per color channel.
 
 ### See Also
 
-* class [PsdOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PsdOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

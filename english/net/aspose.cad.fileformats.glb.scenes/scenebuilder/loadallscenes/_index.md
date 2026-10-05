@@ -1,12 +1,17 @@
 ---
-title: SceneBuilder.LoadAllScenes
-second_title: Aspose.CAD for .NET API Reference
-description: SceneBuilder method. 
+title: "SceneBuilder.LoadAllScenes"
+linktitle: "LoadAllScenes"
+articleTitle: "LoadAllScenes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SceneBuilder method."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/loadallscenes/
+weight: 40
+url: "/net/aspose.cad.fileformats.glb.scenes/scenebuilder/loadallscenes/"
+product_version: "26.9"
 ---
 ## SceneBuilder.LoadAllScenes method
+
+
 
 ```csharp
 public static SceneBuilder[] LoadAllScenes(string filePath, ReadSettings settings = null)
@@ -14,9 +19,8 @@ public static SceneBuilder[] LoadAllScenes(string filePath, ReadSettings setting
 
 ### See Also
 
-* class [ReadSettings](../../../aspose.cad.fileformats.glb/readsettings/)
-* class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SceneBuilder](../)
+* class [ReadSettings](../../../aspose.cad.fileformats.glb/readsettings/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

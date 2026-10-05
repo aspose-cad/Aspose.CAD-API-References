@@ -1,12 +1,17 @@
 ---
-title: TextScoreType.WriteAsClearText
-second_title: Aspose.CAD for .NET API Reference
-description: TextScoreType method. 
+title: "TextScoreType.WriteAsClearText"
+linktitle: "WriteAsClearText"
+articleTitle: "WriteAsClearText"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TextScoreType method."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cgm.commands/textscoretype/writeascleartext/
+url: "/net/aspose.cad.fileformats.cgm.commands/textscoretype/writeascleartext/"
+product_version: "26.9"
 ---
 ## TextScoreType.WriteAsClearText method
+
+
 
 ```csharp
 public override void WriteAsClearText(IClearTextWriter writer)
@@ -14,9 +19,8 @@ public override void WriteAsClearText(IClearTextWriter writer)
 
 ### See Also
 
-* interface [IClearTextWriter](../../../aspose.cad.fileformats.cgm/icleartextwriter/)
-* class [TextScoreType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IClearTextWriter](../../../aspose.cad.fileformats.cgm/icleartextwriter/)
+* class [TextScoreType](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

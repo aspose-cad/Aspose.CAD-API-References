@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSSatellites
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the GPS satellites used for measurements
+title: "ExifData.GPSSatellites"
+linktitle: "GPSSatellites"
+articleTitle: "GPSSatellites"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the GPS satellites used for measurements."
 type: docs
-weight: 590
-url: /net/aspose.cad.exif/exifdata/gpssatellites/
+weight: 610
+url: "/net/aspose.cad.exif/exifdata/gpssatellites/"
+product_version: "26.9"
 ---
 ## ExifData.GPSSatellites property
 
@@ -20,8 +23,7 @@ The GPS satellites used for measurements.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,0 +1,51 @@
+---
+title: "IfcFacetedBrepWithVoids4X3 Class"
+linktitle: "IfcFacetedBrepWithVoids4X3"
+articleTitle: "IfcFacetedBrepWithVoids4X3"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Ifc.IFC4X3.Entities.IfcFacetedBrepWithVoids4X3 class. Partial IIfc entity class"
+type: docs
+weight: 2920
+url: "/net/aspose.cad.fileformats.ifc.ifc4x3.entities/ifcfacetedbrepwithvoids4x3/"
+keywords: "IfcFacetedBrepWithVoids4X3, Aspose.CAD.FileFormats.Ifc.IFC4X3.Entities, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
+---
+## IfcFacetedBrepWithVoids4X3 class
+
+Partial IIfc entity class
+
+```csharp
+public class IfcFacetedBrepWithVoids4X3 : IfcFacetedBrep4X3
+```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [IfcFacetedBrepWithVoids4X3](ifcfacetedbrepwithvoids4x3/)() | The default constructor. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [LayerAssignment](../../aspose.cad.fileformats.ifc.ifc4x3.entities/ifcrepresentationitem4x3/layerassignment/) { get; } |  |
+| [Outer](../../aspose.cad.fileformats.ifc.ifc4x3.entities/ifcmanifoldsolidbrep4x3/outer/) { get; set; } |  |
+| [StyledByItem](../../aspose.cad.fileformats.ifc.ifc4x3.entities/ifcrepresentationitem4x3/styledbyitem/) { get; } |  |
+| [Voids](../../aspose.cad.fileformats.ifc.ifc4x3.entities/ifcfacetedbrepwithvoids4x3/voids/) { get; set; } |  |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
+
+### See Also
+
+* class [IfcFacetedBrep4X3](../ifcfacetedbrep4x3/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4X3.Entities](../../aspose.cad.fileformats.ifc.ifc4x3.entities/)
+* assembly [Aspose.CAD](../../)
+

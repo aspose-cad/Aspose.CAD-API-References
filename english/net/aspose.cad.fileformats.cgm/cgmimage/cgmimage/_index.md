@@ -1,10 +1,13 @@
 ---
-title: CgmImage.CgmImage
-second_title: Aspose.CAD for .NET API Reference
-description: CgmImage constructor. The default constructor
+title: "CgmImage.CgmImage"
+linktitle: "CgmImage"
+articleTitle: "CgmImage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmImage constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm/cgmimage/cgmimage/
+url: "/net/aspose.cad.fileformats.cgm/cgmimage/cgmimage/"
+product_version: "26.9"
 ---
 ## CgmImage constructor
 
@@ -16,8 +19,7 @@ public CgmImage()
 
 ### See Also
 
-* class [CgmImage](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmImage](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

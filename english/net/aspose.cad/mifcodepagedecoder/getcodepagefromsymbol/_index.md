@@ -1,10 +1,13 @@
 ---
-title: MifCodePageDecoder.GetCodePageFromSymbol
-second_title: Aspose.CAD for .NET API Reference
-description: MifCodePageDecoder method. Gets codepage from n symbol in MnXXXX format
+title: "MifCodePageDecoder.GetCodePageFromSymbol"
+linktitle: "GetCodePageFromSymbol"
+articleTitle: "GetCodePageFromSymbol"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MifCodePageDecoder method. Gets codepage from n symbol in M+nXXXX format"
 type: docs
-weight: 20
-url: /net/aspose.cad/mifcodepagedecoder/getcodepagefromsymbol/
+weight: 10
+url: "/net/aspose.cad/mifcodepagedecoder/getcodepagefromsymbol/"
+product_version: "26.9"
 ---
 ## MifCodePageDecoder.GetCodePageFromSymbol method
 
@@ -24,9 +27,8 @@ Codepage
 
 ### See Also
 
-* enum [CodePages](../../codepages/)
-* class [MifCodePageDecoder](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CodePages](../../codepages/)
+* class [MifCodePageDecoder](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

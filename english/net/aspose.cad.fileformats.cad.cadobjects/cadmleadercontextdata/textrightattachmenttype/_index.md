@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.TextRightAttachmentType
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets right attachment type
+title: "CadMLeaderContextData.TextRightAttachmentType"
+linktitle: "TextRightAttachmentType"
+articleTitle: "TextRightAttachmentType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets right attachment type."
 type: docs
-weight: 430
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textrightattachmenttype/
+weight: 460
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textrightattachmenttype/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.TextRightAttachmentType property
 
@@ -16,8 +19,7 @@ public short TextRightAttachmentType { get; set; }
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

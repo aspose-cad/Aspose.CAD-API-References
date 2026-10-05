@@ -1,10 +1,13 @@
 ---
-title: U3dImage.Height
-second_title: Aspose.CAD for .NET API Reference
-description: U3dImage property. Gets the image height
+title: "U3dImage.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "U3dImage property. Gets the image height."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.u3d/u3dimage/height/
+weight: 40
+url: "/net/aspose.cad.fileformats.u3d/u3dimage/height/"
+product_version: "26.9"
 ---
 ## U3dImage.Height property
 
@@ -20,8 +23,7 @@ The image height.
 
 ### See Also
 
-* class [U3dImage](../)
-* namespace [Aspose.CAD.FileFormats.U3d](../../../aspose.cad.fileformats.u3d/)
-* assembly [Aspose.CAD](../../../)
-
+* class [U3dImage](../)
+* namespace [Aspose.CAD.FileFormats.U3d](../../../aspose.cad.fileformats.u3d/)
+* assembly [Aspose.CAD](../../../)
 

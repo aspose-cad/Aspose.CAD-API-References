@@ -1,12 +1,31 @@
 ---
-title: Point2D.Distance
-second_title: Aspose.CAD for .NET API Reference
-description: Point2D method. Gets distance between points
+title: "Point2D.Distance"
+linktitle: "Distance"
+articleTitle: "Distance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point2D method. Gets distance between points"
 type: docs
-weight: 60
-url: /net/aspose.cad.primitives/point2d/distance/
+weight: 30
+url: "/net/aspose.cad.primitives/point2d/distance/"
+product_version: "26.9"
 ---
-## Distance(Point2D, Point2D)
+## Distance(Point2D) {#distance}
+
+
+
+```csharp
+public double Distance(Point2D point2)
+```
+
+### See Also
+
+* class [Point2D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## Distance(Point2D, Point2D) {#distance_1}
 
 Gets distance between points
 
@@ -25,22 +44,7 @@ Euclidean distance
 
 ### See Also
 
-* class [Point2D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## Distance(Point2D)
-
-```csharp
-public double Distance(Point2D point2)
-```
-
-### See Also
-
-* class [Point2D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point2D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

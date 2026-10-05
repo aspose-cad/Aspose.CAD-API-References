@@ -1,10 +1,13 @@
 ---
-title: CadSun.ShadowType
-second_title: Aspose.CAD for .NET API Reference
-description: CadSun property. Gets or sets the shadow type
+title: "CadSun.ShadowType"
+linktitle: "ShadowType"
+articleTitle: "ShadowType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSun property. Gets or sets the shadow type."
 type: docs
 weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsun/shadowtype/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsun/shadowtype/"
+product_version: "26.9"
 ---
 ## CadSun.ShadowType property
 
@@ -16,8 +19,7 @@ public short ShadowType { get; set; }
 
 ### See Also
 
-* class [CadSun](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSun](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

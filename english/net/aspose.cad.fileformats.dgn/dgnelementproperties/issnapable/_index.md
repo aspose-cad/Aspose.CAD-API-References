@@ -1,10 +1,13 @@
 ---
-title: DgnElementProperties.IsSnapable
-second_title: Aspose.CAD for .NET API Reference
-description: DgnElementProperties property. Gets a value indicating whether element could be snapped
+title: "DgnElementProperties.IsSnapable"
+linktitle: "IsSnapable"
+articleTitle: "IsSnapable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnElementProperties property. Gets a value indicating whether element could be snapped"
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.dgn/dgnelementproperties/issnapable/
+url: "/net/aspose.cad.fileformats.dgn/dgnelementproperties/issnapable/"
+product_version: "26.9"
 ---
 ## DgnElementProperties.IsSnapable property
 
@@ -16,8 +19,7 @@ public bool IsSnapable { get; }
 
 ### See Also
 
-* class [DgnElementProperties](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementProperties](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

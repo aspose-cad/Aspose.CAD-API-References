@@ -1,10 +1,13 @@
 ---
-title: CadLayout.MaxLimits
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayout property. Gets or sets the maximum limits
+title: "CadLayout.MaxLimits"
+linktitle: "MaxLimits"
+articleTitle: "MaxLimits"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayout property. Gets or sets the maximum limits."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/maxlimits/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlayout/maxlimits/"
+product_version: "26.9"
 ---
 ## CadLayout.MaxLimits property
 
@@ -20,9 +23,8 @@ The maximum limits.
 
 ### See Also
 
-* class [Cad2DPoint](../../cad2dpoint/)
-* class [CadLayout](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../cad2dpoint/)
+* class [CadLayout](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ProfileBridge.Id
-second_title: Aspose.CAD for .NET API Reference
-description: ProfileBridge property. Gets or sets the id
+title: "ProfileBridge.Id"
+linktitle: "Id"
+articleTitle: "Id"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ProfileBridge property. Gets or sets the id."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/profilebridge/id/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/profilebridge/id/"
+product_version: "26.9"
 ---
 ## ProfileBridge.Id property
 
@@ -16,8 +19,7 @@ public string Id { get; set; }
 
 ### See Also
 
-* class [ProfileBridge](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ProfileBridge](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

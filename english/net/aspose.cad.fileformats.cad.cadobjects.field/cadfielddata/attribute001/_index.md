@@ -1,10 +1,13 @@
 ---
-title: CadFieldData.Attribute001
-second_title: Aspose.CAD for .NET API Reference
-description: CadFieldData property. Gets or sets the attribute 1
+title: "CadFieldData.Attribute001"
+linktitle: "Attribute001"
+articleTitle: "Attribute001"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadFieldData property. Gets or sets the attribute 1."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute001/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute001/"
+product_version: "26.9"
 ---
 ## CadFieldData.Attribute001 property
 
@@ -20,8 +23,7 @@ The attribute 1.
 
 ### See Also
 
-* class [CadFieldData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadFieldData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
+* assembly [Aspose.CAD](../../../)
 

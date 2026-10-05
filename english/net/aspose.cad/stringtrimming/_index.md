@@ -1,10 +1,13 @@
 ---
-title: Enum StringTrimming
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.StringTrimming enum. Specifies how to trim characters from a string that does not completely fit into a layout shape
+title: "StringTrimming Enum"
+linktitle: "StringTrimming"
+articleTitle: "StringTrimming"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.StringTrimming enum. Specifies how to trim characters from a string that does not completely fit into a layout shape."
 type: docs
-weight: 37330
-url: /net/aspose.cad/stringtrimming/
+weight: 900
+url: "/net/aspose.cad/stringtrimming/"
+product_version: "26.9"
 ---
 ## StringTrimming enumeration
 
@@ -27,7 +30,6 @@ public enum StringTrimming
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,12 +1,17 @@
 ---
-title: DefaultBinaryReader.SizeOfPoint
-second_title: Aspose.CAD for .NET API Reference
-description: DefaultBinaryReader method. 
+title: "DefaultBinaryReader.SizeOfPoint"
+linktitle: "SizeOfPoint"
+articleTitle: "SizeOfPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DefaultBinaryReader method."
 type: docs
-weight: 350
-url: /net/aspose.cad.fileformats.cgm.import/defaultbinaryreader/sizeofpoint/
+weight: 260
+url: "/net/aspose.cad.fileformats.cgm.import/defaultbinaryreader/sizeofpoint/"
+product_version: "26.9"
 ---
 ## DefaultBinaryReader.SizeOfPoint method
+
+
 
 ```csharp
 public int SizeOfPoint()
@@ -14,8 +19,7 @@ public int SizeOfPoint()
 
 ### See Also
 
-* class [DefaultBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../../aspose.cad.fileformats.cgm.import/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DefaultBinaryReader](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../../aspose.cad.fileformats.cgm.import/)
+* assembly [Aspose.CAD](../../../)
 

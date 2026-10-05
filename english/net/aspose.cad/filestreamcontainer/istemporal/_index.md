@@ -1,10 +1,13 @@
 ---
-title: FileStreamContainer.IsTemporal
-second_title: Aspose.CAD for .NET API Reference
-description: FileStreamContainer property. Gets or sets a value indicating whether stream is temporal
+title: "FileStreamContainer.IsTemporal"
+linktitle: "IsTemporal"
+articleTitle: "IsTemporal"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FileStreamContainer property. Gets or sets a value indicating whether stream is temporal."
 type: docs
 weight: 50
-url: /net/aspose.cad/filestreamcontainer/istemporal/
+url: "/net/aspose.cad/filestreamcontainer/istemporal/"
+product_version: "26.9"
 ---
 ## FileStreamContainer.IsTemporal property
 
@@ -20,12 +23,12 @@ public bool IsTemporal { get; set; }
 
 ## Remarks
 
-A temporal stream will remove iself when disposed. If the stream is memory based this property has no effect. The stream can be marked as temporal or persistent in case it was created explicitly otherwise the appropriate exception is thrown.
+A temporal stream will remove iself when disposed. If the stream is memory based this property has no effect.
+ The stream can be marked as temporal or persistent in case it was created explicitly otherwise the appropriate exception is thrown.
 
 ### See Also
 
-* class [FileStreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FileStreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

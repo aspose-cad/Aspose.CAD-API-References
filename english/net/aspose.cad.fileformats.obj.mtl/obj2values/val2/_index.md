@@ -1,10 +1,13 @@
 ---
-title: Obj2Values.Val2
-second_title: Aspose.CAD for .NET API Reference
-description: Obj2Values property. Gets or sets the val2
+title: "Obj2Values.Val2"
+linktitle: "Val2"
+articleTitle: "Val2"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Obj2Values property. Gets or sets the val2."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.obj.mtl/obj2values/val2/
+weight: 40
+url: "/net/aspose.cad.fileformats.obj.mtl/obj2values/val2/"
+product_version: "26.9"
 ---
 ## Obj2Values.Val2 property
 
@@ -20,8 +23,7 @@ The val2.
 
 ### See Also
 
-* class [Obj2Values](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Obj2Values](../)
+* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
+* assembly [Aspose.CAD](../../../)
 

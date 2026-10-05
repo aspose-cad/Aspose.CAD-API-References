@@ -1,12 +1,17 @@
 ---
-title: StepOrientedEdge.ItemType
-second_title: Aspose.CAD for .NET API Reference
-description: StepOrientedEdge property. 
+title: "StepOrientedEdge.ItemType"
+linktitle: "ItemType"
+articleTitle: "ItemType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepOrientedEdge property."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.stp.items/steporientededge/itemtype/
+weight: 20
+url: "/net/aspose.cad.fileformats.stp.items/steporientededge/itemtype/"
+product_version: "26.9"
 ---
 ## StepOrientedEdge.ItemType property
+
+
 
 ```csharp
 public override StepItemType ItemType { get; }
@@ -14,9 +19,8 @@ public override StepItemType ItemType { get; }
 
 ### See Also
 
-* enum [StepItemType](../../stepitemtype/)
-* class [StepOrientedEdge](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [StepItemType](../../stepitemtype/)
+* class [StepOrientedEdge](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

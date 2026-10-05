@@ -1,10 +1,13 @@
 ---
-title: CadViewport.ShadeHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the shade handle
+title: "CadViewport.ShadeHandle"
+linktitle: "ShadeHandle"
+articleTitle: "ShadeHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the shade handle."
 type: docs
 weight: 280
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/shadehandle/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/shadehandle/"
+product_version: "26.9"
 ---
 ## CadViewport.ShadeHandle property
 
@@ -16,8 +19,7 @@ public string ShadeHandle { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

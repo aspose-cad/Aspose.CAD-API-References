@@ -1,10 +1,13 @@
 ---
-title: CadSunStudy.DateInputArraySize
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunStudy property. Gets or sets the size of the date input array
+title: "CadSunStudy.DateInputArraySize"
+linktitle: "DateInputArraySize"
+articleTitle: "DateInputArraySize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunStudy property. Gets or sets the size of the date input array."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/dateinputarraysize/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/dateinputarraysize/"
+product_version: "26.9"
 ---
 ## CadSunStudy.DateInputArraySize property
 
@@ -20,8 +23,7 @@ The size of the date input array.
 
 ### See Also
 
-* class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunStudy](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
+* assembly [Aspose.CAD](../../../)
 

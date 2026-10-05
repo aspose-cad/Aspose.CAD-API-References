@@ -1,10 +1,13 @@
 ---
-title: Enum StringDigitSubstitute
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.StringDigitSubstitute enum. The enumeration specifies how to substitute digits in a string according to a users locale or language
+title: "StringDigitSubstitute Enum"
+linktitle: "StringDigitSubstitute"
+articleTitle: "StringDigitSubstitute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.StringDigitSubstitute enum. The enumeration specifies how to substitute digits in a string according to a user's locale or language."
 type: docs
-weight: 37310
-url: /net/aspose.cad/stringdigitsubstitute/
+weight: 880
+url: "/net/aspose.cad/stringdigitsubstitute/"
+product_version: "26.9"
 ---
 ## StringDigitSubstitute enumeration
 
@@ -25,7 +28,6 @@ public enum StringDigitSubstitute
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

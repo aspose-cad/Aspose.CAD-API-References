@@ -1,10 +1,13 @@
 ---
-title: TiffUnknownType.TiffUnknownType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffUnknownType constructor. Initializes a new instance of the TiffUnknownType class
+title: "TiffUnknownType.TiffUnknownType"
+linktitle: "TiffUnknownType"
+articleTitle: "TiffUnknownType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffUnknownType constructor. Initializes a new instance of the TiffUnknownType class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffunknowntype/tiffunknowntype/
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffunknowntype/tiffunknowntype/"
+product_version: "26.9"
 ---
 ## TiffUnknownType constructor
 
@@ -25,9 +28,8 @@ public TiffUnknownType(TiffStreamReader stream, ushort tagType, ushort tagId, ui
 
 ### See Also
 
-* class [TiffStreamReader](../../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/)
-* class [TiffUnknownType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/)
+* class [TiffUnknownType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

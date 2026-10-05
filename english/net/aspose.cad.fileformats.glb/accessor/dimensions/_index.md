@@ -1,10 +1,13 @@
 ---
-title: Accessor.Dimensions
-second_title: Aspose.CAD for .NET API Reference
-description: Accessor property. Gets the DimensionType of an item
+title: "Accessor.Dimensions"
+linktitle: "Dimensions"
+articleTitle: "Dimensions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Accessor property. Gets the DimensionType of an item."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb/accessor/dimensions/
+weight: 240
+url: "/net/aspose.cad.fileformats.glb/accessor/dimensions/"
+product_version: "26.9"
 ---
 ## Accessor.Dimensions property
 
@@ -16,9 +19,8 @@ public DimensionType Dimensions { get; }
 
 ### See Also
 
-* enum [DimensionType](../../dimensiontype/)
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [DimensionType](../../dimensiontype/)
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

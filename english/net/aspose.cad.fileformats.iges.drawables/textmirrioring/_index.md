@@ -1,10 +1,13 @@
 ---
-title: Enum TextMirrioring
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Iges.Drawables.TextMirrioring enum. Defines text mirrioring
+title: "TextMirrioring Enum"
+linktitle: "TextMirrioring"
+articleTitle: "TextMirrioring"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Iges.Drawables.TextMirrioring enum. Defines text mirrioring"
 type: docs
-weight: 33690
-url: /net/aspose.cad.fileformats.iges.drawables/textmirrioring/
+weight: 100
+url: "/net/aspose.cad.fileformats.iges.drawables/textmirrioring/"
+product_version: "26.9"
 ---
 ## TextMirrioring enumeration
 
@@ -24,7 +27,6 @@ public enum TextMirrioring
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../)
 

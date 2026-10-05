@@ -1,10 +1,13 @@
 ---
-title: DwfWhipFont.Family
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipFont property. Gets font family
+title: "DwfWhipFont.Family"
+linktitle: "Family"
+articleTitle: "Family"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipFont property. Gets font family"
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/family/
+weight: 70
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/family/"
+product_version: "26.9"
 ---
 ## DwfWhipFont.Family property
 
@@ -16,9 +19,8 @@ public DwfWhipOptionFontFamily Family { get; }
 
 ### See Also
 
-* class [DwfWhipOptionFontFamily](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontfamily/)
-* class [DwfWhipFont](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipOptionFontFamily](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontfamily/)
+* class [DwfWhipFont](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../../)
 

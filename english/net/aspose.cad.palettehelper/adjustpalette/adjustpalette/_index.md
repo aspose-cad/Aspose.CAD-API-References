@@ -1,10 +1,13 @@
 ---
-title: AdjustPalette.AdjustPalette
-second_title: Aspose.CAD for .NET API Reference
-description: AdjustPalette constructor. The default constructor
+title: "AdjustPalette.AdjustPalette"
+linktitle: "AdjustPalette"
+articleTitle: "AdjustPalette"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AdjustPalette constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.palettehelper/adjustpalette/adjustpalette/
+url: "/net/aspose.cad.palettehelper/adjustpalette/adjustpalette/"
+product_version: "26.9"
 ---
 ## AdjustPalette constructor
 
@@ -16,8 +19,7 @@ public AdjustPalette()
 
 ### See Also
 
-* class [AdjustPalette](../)
-* namespace [Aspose.CAD.PaletteHelper](../../../aspose.cad.palettehelper/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AdjustPalette](../)
+* namespace [Aspose.CAD.PaletteHelper](../../../aspose.cad.palettehelper/)
+* assembly [Aspose.CAD](../../../)
 

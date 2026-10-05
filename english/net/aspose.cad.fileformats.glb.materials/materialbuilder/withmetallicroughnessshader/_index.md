@@ -1,10 +1,13 @@
 ---
-title: MaterialBuilder.WithMetallicRoughnessShader
-second_title: Aspose.CAD for .NET API Reference
-description: MaterialBuilder method. Sets ShaderStyle to use SHADERPBRMETALLICROUGHNESS
+title: "MaterialBuilder.WithMetallicRoughnessShader"
+linktitle: "WithMetallicRoughnessShader"
+articleTitle: "WithMetallicRoughnessShader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MaterialBuilder method. Sets ShaderStyle to use SHADERPBRMETALLICROUGHNESS."
 type: docs
-weight: 290
-url: /net/aspose.cad.fileformats.glb.materials/materialbuilder/withmetallicroughnessshader/
+weight: 140
+url: "/net/aspose.cad.fileformats.glb.materials/materialbuilder/withmetallicroughnessshader/"
+product_version: "26.9"
 ---
 ## MaterialBuilder.WithMetallicRoughnessShader method
 
@@ -20,8 +23,7 @@ This [`MaterialBuilder`](../).
 
 ### See Also
 
-* class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MaterialBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

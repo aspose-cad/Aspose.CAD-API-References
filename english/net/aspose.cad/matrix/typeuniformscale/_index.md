@@ -1,14 +1,20 @@
 ---
-title: Matrix.TypeUniformScale
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix field. A uniform scale multiplies the length of vectors by the same amount in both the x and y directions without changing the angle between vectors. This flag bit is mutually exclusive with the TypeGeneralScale flag
+title: "Matrix.TypeUniformScale"
+linktitle: "TypeUniformScale"
+articleTitle: "TypeUniformScale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix field. A uniform scale multiplies the length of vectors by the same amount in both the x and y directions without changing the angle between vectors. ..."
 type: docs
-weight: 290
-url: /net/aspose.cad/matrix/typeuniformscale/
+weight: 330
+url: "/net/aspose.cad/matrix/typeuniformscale/"
+product_version: "26.9"
 ---
 ## Matrix.TypeUniformScale field
 
-A uniform scale multiplies the length of vectors by the same amount in both the x and y directions without changing the angle between vectors. This flag bit is mutually exclusive with the TypeGeneralScale flag.
+A uniform scale multiplies the length of vectors by the same amount
+ in both the x and y directions without changing the angle between
+ vectors.
+ This flag bit is mutually exclusive with the TypeGeneralScale flag.
 
 ```csharp
 public const int TypeUniformScale;
@@ -16,8 +22,7 @@ public const int TypeUniformScale;
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

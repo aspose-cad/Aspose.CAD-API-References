@@ -1,10 +1,13 @@
 ---
-title: Margins.Top
-second_title: Aspose.CAD for .NET API Reference
-description: Margins property. Gets or sets top margin
+title: "Margins.Top"
+linktitle: "Top"
+articleTitle: "Top"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Margins property. Gets or sets top margin."
 type: docs
-weight: 50
-url: /net/aspose.cad.imageoptions/margins/top/
+weight: 40
+url: "/net/aspose.cad.imageoptions/margins/top/"
+product_version: "26.9"
 ---
 ## Margins.Top property
 
@@ -16,8 +19,7 @@ public int Top { get; set; }
 
 ### See Also
 
-* class [Margins](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Margins](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

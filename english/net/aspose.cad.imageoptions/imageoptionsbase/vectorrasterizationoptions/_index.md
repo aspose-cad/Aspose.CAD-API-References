@@ -1,10 +1,13 @@
 ---
-title: ImageOptionsBase.VectorRasterizationOptions
-second_title: Aspose.CAD for .NET API Reference
-description: ImageOptionsBase property. Gets or sets the vector rasterization options
+title: "ImageOptionsBase.VectorRasterizationOptions"
+linktitle: "VectorRasterizationOptions"
+articleTitle: "VectorRasterizationOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageOptionsBase property. Gets or sets the vector rasterization options."
 type: docs
-weight: 130
-url: /net/aspose.cad.imageoptions/imageoptionsbase/vectorrasterizationoptions/
+weight: 90
+url: "/net/aspose.cad.imageoptions/imageoptionsbase/vectorrasterizationoptions/"
+product_version: "26.9"
 ---
 ## ImageOptionsBase.VectorRasterizationOptions property
 
@@ -20,9 +23,8 @@ The vector rasterization options.
 
 ### See Also
 
-* class [VectorRasterizationOptions](../../vectorrasterizationoptions/)
-* class [ImageOptionsBase](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [VectorRasterizationOptions](../../vectorrasterizationoptions/)
+* class [ImageOptionsBase](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

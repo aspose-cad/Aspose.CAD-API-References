@@ -1,10 +1,13 @@
 ---
-title: DgnElementProperties.IsPlanar
-second_title: Aspose.CAD for .NET API Reference
-description: DgnElementProperties property. Gets a value indicating whether element is planar
+title: "DgnElementProperties.IsPlanar"
+linktitle: "IsPlanar"
+articleTitle: "IsPlanar"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnElementProperties property. Gets a value indicating whether element is planar"
 type: docs
 weight: 70
-url: /net/aspose.cad.fileformats.dgn/dgnelementproperties/isplanar/
+url: "/net/aspose.cad.fileformats.dgn/dgnelementproperties/isplanar/"
+product_version: "26.9"
 ---
 ## DgnElementProperties.IsPlanar property
 
@@ -16,8 +19,7 @@ public bool IsPlanar { get; }
 
 ### See Also
 
-* class [DgnElementProperties](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementProperties](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

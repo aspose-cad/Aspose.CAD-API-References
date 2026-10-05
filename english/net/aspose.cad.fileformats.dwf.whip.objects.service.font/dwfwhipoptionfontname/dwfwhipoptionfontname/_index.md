@@ -1,10 +1,13 @@
 ---
-title: DwfWhipOptionFontName.DwfWhipOptionFontName
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipOptionFontName constructor. The default constructor
+title: "DwfWhipOptionFontName.DwfWhipOptionFontName"
+linktitle: "DwfWhipOptionFontName"
+articleTitle: "DwfWhipOptionFontName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipOptionFontName constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontname/dwfwhipoptionfontname/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontname/dwfwhipoptionfontname/"
+product_version: "26.9"
 ---
 ## DwfWhipOptionFontName constructor
 
@@ -16,8 +19,7 @@ public DwfWhipOptionFontName()
 
 ### See Also
 
-* class [DwfWhipOptionFontName](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipOptionFontName](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
+* assembly [Aspose.CAD](../../../)
 

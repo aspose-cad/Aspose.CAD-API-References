@@ -1,10 +1,13 @@
 ---
-title: AnimationChannel.TargetNodePath
-second_title: Aspose.CAD for .NET API Reference
-description: AnimationChannel property. Gets which property of the Node pointed by TargetNode is to be bound with this animation
+title: "AnimationChannel.TargetNodePath"
+linktitle: "TargetNodePath"
+articleTitle: "TargetNodePath"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AnimationChannel property. Gets which property of the Node pointed by TargetNode is to be bound with this animation."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.glb/animationchannel/targetnodepath/
+url: "/net/aspose.cad.fileformats.glb/animationchannel/targetnodepath/"
+product_version: "26.9"
 ---
 ## AnimationChannel.TargetNodePath property
 
@@ -16,9 +19,8 @@ public PropertyPath TargetNodePath { get; }
 
 ### See Also
 
-* enum [PropertyPath](../../propertypath/)
-* class [AnimationChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [PropertyPath](../../propertypath/)
+* class [AnimationChannel](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

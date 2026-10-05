@@ -1,22 +1,26 @@
 ---
-title: StepGeometricCurveSet.Curves
-second_title: Aspose.CAD for .NET API Reference
-description: StepGeometricCurveSet property. 
+title: "StepGeometricCurveSet.Curves"
+linktitle: "Curves"
+articleTitle: "Curves"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepGeometricCurveSet property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.stp.items/stepgeometriccurveset/curves/
+weight: 30
+url: "/net/aspose.cad.fileformats.stp.items/stepgeometriccurveset/curves/"
+product_version: "26.9"
 ---
 ## StepGeometricCurveSet.Curves property
 
+
+
 ```csharp
-public List<StepCurve> Curves { get; set; }
+public List<StepRepresentationItem> Curves { get; set; }
 ```
 
 ### See Also
 
-* class [StepCurve](../../stepcurve/)
-* class [StepGeometricCurveSet](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepRepresentationItem](../../steprepresentationitem/)
+* class [StepGeometricCurveSet](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

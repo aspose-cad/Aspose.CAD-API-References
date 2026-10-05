@@ -1,10 +1,13 @@
 ---
-title: Enum CadPolylineFlag
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadPolylineFlag enum. The Cad POLYLINE flags
+title: "CadPolylineFlag Enum"
+linktitle: "CadPolylineFlag"
+articleTitle: "CadPolylineFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadPolylineFlag enum. The Cad POLYLINE flags."
 type: docs
-weight: 1530
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadpolylineflag/
+weight: 470
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadpolylineflag/"
+product_version: "26.9"
 ---
 ## CadPolylineFlag enumeration
 
@@ -31,7 +34,6 @@ public enum CadPolylineFlag : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TiffDataType.Count
-second_title: Aspose.CAD for .NET API Reference
-description: TiffDataType property. Gets the count of elements
+title: "TiffDataType.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffDataType property. Gets the count of elements."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.tiff/tiffdatatype/count/
+weight: 80
+url: "/net/aspose.cad.fileformats.tiff/tiffdatatype/count/"
+product_version: "26.9"
 ---
 ## TiffDataType.Count property
 
@@ -20,8 +23,7 @@ The count of elements.
 
 ### See Also
 
-* class [TiffDataType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDataType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

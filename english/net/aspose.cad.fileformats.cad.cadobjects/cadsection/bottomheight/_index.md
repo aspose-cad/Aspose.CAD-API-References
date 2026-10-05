@@ -1,10 +1,13 @@
 ---
-title: CadSection.BottomHeight
-second_title: Aspose.CAD for .NET API Reference
-description: CadSection property. Gets or sets the height of the bottom
+title: "CadSection.BottomHeight"
+linktitle: "BottomHeight"
+articleTitle: "BottomHeight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSection property. Gets or sets the height of the bottom."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsection/bottomheight/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsection/bottomheight/"
+product_version: "26.9"
 ---
 ## CadSection.BottomHeight property
 
@@ -20,8 +23,7 @@ The height of the bottom.
 
 ### See Also
 
-* class [CadSection](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSection](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

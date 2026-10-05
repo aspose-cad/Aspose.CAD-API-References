@@ -1,10 +1,13 @@
 ---
-title: PdfOptions.CorePdfOptions
-second_title: Aspose.CAD for .NET API Reference
-description: PdfOptions property. Gets or sets the core PDF options
+title: "PdfOptions.CorePdfOptions"
+linktitle: "CorePdfOptions"
+articleTitle: "CorePdfOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PdfOptions property. Gets or sets the core PDF options."
 type: docs
-weight: 20
-url: /net/aspose.cad.imageoptions/pdfoptions/corepdfoptions/
+weight: 40
+url: "/net/aspose.cad.imageoptions/pdfoptions/corepdfoptions/"
+product_version: "26.9"
 ---
 ## PdfOptions.CorePdfOptions property
 
@@ -20,9 +23,8 @@ The core PDF options.
 
 ### See Also
 
-* class [PdfDocumentOptions](../../pdfdocumentoptions/)
-* class [PdfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PdfDocumentOptions](../../pdfdocumentoptions/)
+* class [PdfOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

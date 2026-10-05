@@ -1,10 +1,14 @@
 ---
-title: Class StepStyle
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Stp.Helpers.StepStyle class. Style for STP items
+title: "StepStyle Class"
+linktitle: "StepStyle"
+articleTitle: "StepStyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Stp.Helpers.StepStyle class. Style for STP items."
 type: docs
-weight: 34300
-url: /net/aspose.cad.fileformats.stp.helpers/stepstyle/
+weight: 30
+url: "/net/aspose.cad.fileformats.stp.helpers/stepstyle/"
+keywords: "StepStyle, Aspose.CAD.FileFormats.Stp.Helpers, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## StepStyle class
 
@@ -24,11 +28,10 @@ public class StepStyle
 
 | Name | Description |
 | --- | --- |
-| [FillColor](../../aspose.cad.fileformats.stp.helpers/stepstyle/fillcolor/) { get; } |  |
+| [FillColor](../../aspose.cad.fileformats.stp.helpers/stepstyle/fillcolor/) { get; } |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Stp.Helpers](../../aspose.cad.fileformats.stp.helpers/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Stp.Helpers](../../aspose.cad.fileformats.stp.helpers/)
+* assembly [Aspose.CAD](../../)
 

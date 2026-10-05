@@ -1,10 +1,13 @@
 ---
-title: TiffUnknownType.OffsetOrValue
-second_title: Aspose.CAD for .NET API Reference
-description: TiffUnknownType property. Gets the offset value for an additional data or value itself in case count is 1
+title: "TiffUnknownType.OffsetOrValue"
+linktitle: "OffsetOrValue"
+articleTitle: "OffsetOrValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffUnknownType property. Gets the offset value for an additional data or value itself in case count is 1."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffunknowntype/offsetorvalue/
+weight: 50
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffunknowntype/offsetorvalue/"
+product_version: "26.9"
 ---
 ## TiffUnknownType.OffsetOrValue property
 
@@ -20,8 +23,7 @@ The offset or value.
 
 ### See Also
 
-* class [TiffUnknownType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffUnknownType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

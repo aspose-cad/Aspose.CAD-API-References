@@ -1,12 +1,17 @@
 ---
-title: Polyline.ToString
-second_title: Aspose.CAD for .NET API Reference
-description: Polyline method. 
+title: "Polyline.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Polyline method."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.cgm.commands/polyline/tostring/
+url: "/net/aspose.cad.fileformats.cgm.commands/polyline/tostring/"
+product_version: "26.9"
 ---
 ## Polyline.ToString method
+
+
 
 ```csharp
 public override string ToString()
@@ -14,8 +19,7 @@ public override string ToString()
 
 ### See Also
 
-* class [Polyline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Polyline](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

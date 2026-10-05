@@ -1,14 +1,18 @@
 ---
-title: IfcImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: IfcImage property. Gets the image width. It is calculated from all the entities
+title: "IfcImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcImage property. Gets the image width. It is calculated from all the entities"
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.ifc/ifcimage/width/
+weight: 110
+url: "/net/aspose.cad.fileformats.ifc/ifcimage/width/"
+product_version: "26.9"
 ---
 ## IfcImage.Width property
 
-Gets the image width. It is calculated from all the entities
+Gets the image width.
+ It is calculated from all the entities
 
 ```csharp
 public override int Width { get; }
@@ -31,8 +35,7 @@ using (IfcImage ifcImage = (IfcImage)Image.Load(fileName))
 
 ### See Also
 
-* class [IfcImage](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcImage](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

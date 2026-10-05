@@ -1,10 +1,13 @@
 ---
-title: CadDataTableColumn.BooleanValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadDataTableColumn property. Gets or sets the boolean value
+title: "CadDataTableColumn.BooleanValue"
+linktitle: "BooleanValue"
+articleTitle: "BooleanValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDataTableColumn property. Gets or sets the boolean value."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/booleanvalue/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/booleanvalue/"
+product_version: "26.9"
 ---
 ## CadDataTableColumn.BooleanValue property
 
@@ -20,8 +23,7 @@ The boolean value.
 
 ### See Also
 
-* class [CadDataTableColumn](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDataTableColumn](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
+* assembly [Aspose.CAD](../../../)
 

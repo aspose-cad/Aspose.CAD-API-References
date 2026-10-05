@@ -1,10 +1,13 @@
 ---
-title: ISummaryInfo.LastSavedBy
-second_title: Aspose.CAD for .NET API Reference
-description: ISummaryInfo property. Gets or sets the last saved by
+title: "ISummaryInfo.LastSavedBy"
+linktitle: "LastSavedBy"
+articleTitle: "LastSavedBy"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ISummaryInfo property. Gets or sets the last saved by."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/isummaryinfo/lastsavedby/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/isummaryinfo/lastsavedby/"
+product_version: "26.9"
 ---
 ## ISummaryInfo.LastSavedBy property
 
@@ -20,8 +23,7 @@ The last saved by.
 
 ### See Also
 
-* interface [ISummaryInfo](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [ISummaryInfo](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

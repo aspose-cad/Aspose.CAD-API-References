@@ -1,10 +1,13 @@
 ---
-title: Enum ExifWhiteBalance
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifWhiteBalance enum. exif white balance enum
+title: "ExifWhiteBalance Enum"
+linktitle: "ExifWhiteBalance"
+articleTitle: "ExifWhiteBalance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifWhiteBalance enum. exif white balance enum."
 type: docs
-weight: 700
-url: /net/aspose.cad.exif.enums/exifwhitebalance/
+weight: 190
+url: "/net/aspose.cad.exif.enums/exifwhitebalance/"
+product_version: "26.9"
 ---
 ## ExifWhiteBalance enumeration
 
@@ -23,7 +26,6 @@ public enum ExifWhiteBalance
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,14 +1,20 @@
 ---
-title: DwfImage.UpdateSize
-second_title: Aspose.CAD for .NET API Reference
-description: DwfImage method. Updates the image size. Provides forced calculation of image size parameters. This calculation must be performed before using the image size parameters after changing the graphic content of the image that affects the image size parameters
+title: "DwfImage.UpdateSize"
+linktitle: "UpdateSize"
+articleTitle: "UpdateSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfImage method. Updates the image size. Provides forced calculation of image size parameters. This calculation must be performed before using the image size..."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.dwf/dwfimage/updatesize/
+weight: 50
+url: "/net/aspose.cad.fileformats.dwf/dwfimage/updatesize/"
+product_version: "26.9"
 ---
 ## DwfImage.UpdateSize method
 
-Updates the image size. Provides forced calculation of image size parameters. This calculation must be performed before using the image size parameters after changing the graphic content of the image that affects the image size parameters.
+Updates the image size.
+ Provides forced calculation of image size parameters. This calculation must be performed
+ before using the image size parameters after changing the graphic content of the image
+ that affects the image size parameters.
 
 ```csharp
 public void UpdateSize()
@@ -41,11 +47,11 @@ using (FileStream stream = new FileStream(outFile, FileMode.Create))
 
     ImageOptionsBase options = new PngOptions();
     options.VectorRasterizationOptions = new CadRasterizationOptions
-                                             {
-                                                 PageWidth = (float)image.Pages[0].PaperWidth,
-                                                 PageHeight = (float)image.Pages[0].PaperHeight,
-                                                 DrawType = CadDrawTypeMode.UseObjectColor,
-                                             };
+    {
+        PageWidth = (float)image.Pages[0].PaperWidth,
+        PageHeight = (float)image.Pages[0].PaperHeight,
+        DrawType = CadDrawTypeMode.UseObjectColor,
+    };
 
     image.Save(stream, options);
 }
@@ -53,8 +59,7 @@ using (FileStream stream = new FileStream(outFile, FileMode.Create))
 
 ### See Also
 
-* class [DwfImage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfImage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

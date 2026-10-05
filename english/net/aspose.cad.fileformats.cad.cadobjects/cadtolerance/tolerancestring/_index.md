@@ -1,10 +1,13 @@
 ---
-title: CadTolerance.ToleranceString
-second_title: Aspose.CAD for .NET API Reference
-description: CadTolerance property. Gets or sets the tolerance string
+title: "CadTolerance.ToleranceString"
+linktitle: "ToleranceString"
+articleTitle: "ToleranceString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTolerance property. Gets or sets the tolerance string."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadtolerance/tolerancestring/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadtolerance/tolerancestring/"
+product_version: "26.9"
 ---
 ## CadTolerance.ToleranceString property
 
@@ -16,8 +19,7 @@ public string ToleranceString { get; set; }
 
 ### See Also
 
-* class [CadTolerance](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTolerance](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

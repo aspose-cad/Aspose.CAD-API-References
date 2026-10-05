@@ -1,12 +1,17 @@
 ---
-title: CopySegment.Flag
-second_title: Aspose.CAD for .NET API Reference
-description: CopySegment property. 
+title: "CopySegment.Flag"
+linktitle: "Flag"
+articleTitle: "Flag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CopySegment property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cgm.commands/copysegment/flag/
+weight: 130
+url: "/net/aspose.cad.fileformats.cgm.commands/copysegment/flag/"
+product_version: "26.9"
 ---
 ## CopySegment.Flag property
+
+
 
 ```csharp
 public bool Flag { get; set; }
@@ -14,8 +19,7 @@ public bool Flag { get; set; }
 
 ### See Also
 
-* class [CopySegment](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CopySegment](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

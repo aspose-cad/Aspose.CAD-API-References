@@ -1,10 +1,13 @@
 ---
-title: CadBoundaryPathCircularEllipse.CenterPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadBoundaryPathCircularEllipse property. Gets or sets the centerPoint
+title: "CadBoundaryPathCircularEllipse.CenterPoint"
+linktitle: "CenterPoint"
+articleTitle: "CenterPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBoundaryPathCircularEllipse property. Gets or sets the centerPoint."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/centerpoint/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/centerpoint/"
+product_version: "26.9"
 ---
 ## CadBoundaryPathCircularEllipse.CenterPoint property
 
@@ -20,9 +23,8 @@ The centerPoint.
 
 ### See Also
 
-* class [Point2D](../../../aspose.cad.primitives/point2d/)
-* class [CadBoundaryPathCircularEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point2D](../../../aspose.cad.primitives/point2d/)
+* class [CadBoundaryPathCircularEllipse](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

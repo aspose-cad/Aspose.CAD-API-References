@@ -1,10 +1,13 @@
 ---
-title: CadSpatialFilter.DisplayEnabledFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpatialFilter property. Gets or sets the display enabled flag
+title: "CadSpatialFilter.DisplayEnabledFlag"
+linktitle: "DisplayEnabledFlag"
+articleTitle: "DisplayEnabledFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpatialFilter property. Gets or sets the display enabled flag."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/displayenabledflag/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/displayenabledflag/"
+product_version: "26.9"
 ---
 ## CadSpatialFilter.DisplayEnabledFlag property
 
@@ -20,8 +23,7 @@ The display enabled flag.
 
 ### See Also
 
-* class [CadSpatialFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSpatialFilter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

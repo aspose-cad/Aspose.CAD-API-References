@@ -1,10 +1,13 @@
 ---
-title: DisposableObject.DisposableObject
-second_title: Aspose.CAD for .NET API Reference
-description: DisposableObject constructor. The default constructor
+title: "DisposableObject.DisposableObject"
+linktitle: "DisposableObject"
+articleTitle: "DisposableObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DisposableObject constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad/disposableobject/disposableobject/
+url: "/net/aspose.cad/disposableobject/disposableobject/"
+product_version: "26.9"
 ---
 ## DisposableObject constructor
 
@@ -16,8 +19,7 @@ public DisposableObject()
 
 ### See Also
 
-* class [DisposableObject](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DisposableObject](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,18 @@
 ---
-title: NodeBuilder.SetLocalTransform
-second_title: Aspose.CAD for .NET API Reference
-description: NodeBuilder method. Sets the local transform of this node. Optionally it is possible keep children from being affected by this node transformation change
+title: "NodeBuilder.SetLocalTransform"
+linktitle: "SetLocalTransform"
+articleTitle: "SetLocalTransform"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NodeBuilder method. Sets the local transform of this node. Optionally it is possible keep children from being affected by this node transformation change."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.glb.scenes/nodebuilder/setlocaltransform/
+weight: 210
+url: "/net/aspose.cad.fileformats.glb.scenes/nodebuilder/setlocaltransform/"
+product_version: "26.9"
 ---
 ## NodeBuilder.SetLocalTransform method
 
-Sets the local transform of this node. Optionally it is possible keep children from being affected by this node transformation change.
+Sets the local transform of this node.
+ Optionally it is possible keep children from being affected by this node transformation change.
 
 ```csharp
 public void SetLocalTransform(AffineTransform newLocalTransform, bool keepChildrenInPlace)
@@ -21,9 +25,8 @@ public void SetLocalTransform(AffineTransform newLocalTransform, bool keepChildr
 
 ### See Also
 
-* struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
-* class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
+* class [NodeBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

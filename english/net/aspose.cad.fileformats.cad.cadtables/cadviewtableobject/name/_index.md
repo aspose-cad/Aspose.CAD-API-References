@@ -1,10 +1,13 @@
 ---
-title: CadViewTableObject.Name
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewTableObject property. Gets or sets the name
+title: "CadViewTableObject.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewTableObject property. Gets or sets the name."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/name/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/name/"
+product_version: "26.9"
 ---
 ## CadViewTableObject.Name property
 
@@ -20,8 +23,7 @@ The name.
 
 ### See Also
 
-* class [CadViewTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

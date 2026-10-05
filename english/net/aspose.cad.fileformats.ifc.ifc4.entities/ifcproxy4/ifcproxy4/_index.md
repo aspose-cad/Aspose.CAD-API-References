@@ -1,0 +1,25 @@
+---
+title: "IfcProxy4.IfcProxy4"
+linktitle: "IfcProxy4"
+articleTitle: "IfcProxy4"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcProxy4 constructor. The default constructor."
+type: docs
+weight: 10
+url: "/net/aspose.cad.fileformats.ifc.ifc4.entities/ifcproxy4/ifcproxy4/"
+product_version: "26.9"
+---
+## IfcProxy4 constructor
+
+The default constructor.
+
+```csharp
+public IfcProxy4()
+```
+
+### See Also
+
+* class [IfcProxy4](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
+* assembly [Aspose.CAD](../../../)
+

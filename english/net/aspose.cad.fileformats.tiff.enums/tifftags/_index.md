@@ -1,10 +1,13 @@
 ---
-title: Enum TiffTags
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffTags enum. The tiff tag enum
+title: "TiffTags Enum"
+linktitle: "TiffTags"
+articleTitle: "TiffTags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffTags enum. The tiff tag enum."
 type: docs
-weight: 35530
-url: /net/aspose.cad.fileformats.tiff.enums/tifftags/
+weight: 170
+url: "/net/aspose.cad.fileformats.tiff.enums/tifftags/"
+product_version: "26.9"
 ---
 ## TiffTags enumeration
 
@@ -19,42 +22,42 @@ public enum TiffTags
 | Name | Value | Description |
 | --- | --- | --- |
 | SubFileType | `254` | Subfile data descriptor. |
-| OsubfileType | `255` | [obsoleted by TIFF rev. 5.0] Kind of data in subfile. |
+| OsubfileType | `255` | [obsoleted by TIFF rev. 5.0] |
 | ImageWidth | `256` | Image width in pixels. |
 | ImageLength | `257` | Image height in pixels. |
 | BitsPerSample | `258` | Bits per channel (sample). |
 | Compression | `259` | Data compression technique. |
 | Photometric | `262` | Photometric interpretation. |
-| Thresholding | `263` | [obsoleted by TIFF rev. 5.0] Thresholding used on data. |
-| CellWidth | `264` | [obsoleted by TIFF rev. 5.0] Dithering matrix width. |
-| CellLength | `265` | [obsoleted by TIFF rev. 5.0] Dithering matrix height. |
+| Thresholding | `263` | [obsoleted by TIFF rev. 5.0] |
+| CellWidth | `264` | [obsoleted by TIFF rev. 5.0] |
+| CellLength | `265` | [obsoleted by TIFF rev. 5.0] |
 | FillOrder | `266` | Data order within a byte. |
 | DocumentName | `269` | Name of document which holds for image. |
 | ImageDescription | `270` | Information about image. |
 | Make | `271` | Scanner manufacturer name. |
 | Model | `272` | Scanner model name/number. |
 | StripOffsets | `273` | Offsets to data strips. |
-| Orientation | `274` | [obsoleted by TIFF rev. 5.0] Image orientation. |
+| Orientation | `274` | [obsoleted by TIFF rev. 5.0] |
 | SamplesPerPixel | `277` | Samples per pixel. |
 | RowsPerStrip | `278` | Rows per strip of data. |
 | StripByteCounts | `279` | Bytes counts for strips. |
-| MinSampleValue | `280` | [obsoleted by TIFF rev. 5.0] Minimum sample value. |
-| MaxSampleValue | `281` | [obsoleted by TIFF rev. 5.0] Maximum sample value. |
+| MinSampleValue | `280` | [obsoleted by TIFF rev. 5.0] |
+| MaxSampleValue | `281` | [obsoleted by TIFF rev. 5.0] |
 | Xresolution | `282` | Pixels/resolution in x. |
 | Yresolution | `283` | Pixels/resolution in y. |
 | PlanarConfig | `284` | Storage organization. |
 | PageName | `285` | Page name image is from. |
 | Xposition | `286` | X page offset of image lhs. |
 | Yposition | `287` | Y page offset of image lhs. |
-| FreeOffsets | `288` | [obsoleted by TIFF rev. 5.0] Byte offset to free block. |
-| FreeByteCounts | `289` | [obsoleted by TIFF rev. 5.0] Sizes of free blocks. |
-| GrayResponseUnit | `290` | [obsoleted by TIFF rev. 6.0] Gray scale curve accuracy. |
-| GrayResponseCurve | `291` | [obsoleted by TIFF rev. 6.0] Gray scale response curve. |
+| FreeOffsets | `288` | [obsoleted by TIFF rev. 5.0] |
+| FreeByteCounts | `289` | [obsoleted by TIFF rev. 5.0] |
+| GrayResponseUnit | `290` | [obsoleted by TIFF rev. 6.0] |
+| GrayResponseCurve | `291` | [obsoleted by TIFF rev. 6.0] |
 | T4Options | `292` | TIFF 6.0 proper name alias for GROUP3OPTIONS. Options for CCITT Group 3 fax encoding. 32 flag bits. |
 | T6Options | `293` | Options for CCITT Group 4 fax encoding. 32 flag bits. TIFF 6.0 proper name alias for GROUP4OPTIONS. |
 | ResolutionUnit | `296` | Units of resolutions. |
 | PageNumber | `297` | Page numbers of multi-page. |
-| ColorResponseUnit | `300` | [obsoleted by TIFF rev. 6.0] Color curve accuracy. |
+| ColorResponseUnit | `300` | [obsoleted by TIFF rev. 6.0] |
 | TransferFunction | `301` | Colorimetry info. |
 | Software | `305` | Name &amp; release. |
 | DateTime | `306` | Creation date and time. |
@@ -89,15 +92,15 @@ public enum TiffTags
 | Indexed | `346` | Indexed. Introduced post TIFF rev 6.0 by Adobe TIFF Technote 3. |
 | JpegTables | `347` | JPEG table stream. Introduced post TIFF rev 6.0. |
 | OpiProxy | `351` | OPI Proxy. Introduced post TIFF rev 6.0 by Adobe TIFF technote. |
-| JpegProc | `512` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] JPEG processing algorithm. |
-| JpegInerchangeFormat | `513` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] Pointer to SOI marker. |
-| JpegInterchangeFormatLength | `514` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] JFIF stream length |
-| JpegRestartInterval | `515` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] Restart interval length. |
-| JpegLosslessPredictors | `517` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] Lossless proc predictor. |
-| JpegPointTransform | `518` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] Lossless point transform. |
-| JpegQTables | `519` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] Q matrice offsets. |
-| JpegDCtables | `520` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] DCT table offsets. |
-| JpegACtables | `521` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] AC coefficient offsets. |
+| JpegProc | `512` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] |
+| JpegInerchangeFormat | `513` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] |
+| JpegInterchangeFormatLength | `514` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] |
+| JpegRestartInterval | `515` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] |
+| JpegLosslessPredictors | `517` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] |
+| JpegPointTransform | `518` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] |
+| JpegQTables | `519` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] |
+| JpegDCtables | `520` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] |
+| JpegACtables | `521` | [obsoleted by Technical Note #2 which specifies a revised JPEG-in-TIFF scheme] |
 | YcbcrCoefficients | `529` | RGB -&gt; YCbCr transform. |
 | YcbcrSubSampling | `530` | YCbCr subsampling factors. |
 | YcbcrPositioning | `531` | Subsample positioning. |
@@ -117,7 +120,6 @@ public enum TiffTags
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Cache.SetDefaults
-second_title: Aspose.CAD for .NET API Reference
-description: Cache method. Sets the Cache settings to defaults
+title: "Cache.SetDefaults"
+linktitle: "SetDefaults"
+articleTitle: "SetDefaults"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cache method. Sets the Cache settings to defaults."
 type: docs
-weight: 90
-url: /net/aspose.cad/cache/setdefaults/
+weight: 10
+url: "/net/aspose.cad/cache/setdefaults/"
+product_version: "26.9"
 ---
 ## Cache.SetDefaults method
 
@@ -16,8 +19,7 @@ public static void SetDefaults()
 
 ### See Also
 
-* class [Cache](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cache](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

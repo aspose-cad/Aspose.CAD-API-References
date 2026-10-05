@@ -1,10 +1,13 @@
 ---
-title: CadBlockTableObject.BlockScalability
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockTableObject property. Gets the block scalability
+title: "CadBlockTableObject.BlockScalability"
+linktitle: "BlockScalability"
+articleTitle: "BlockScalability"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockTableObject property. Gets the block scalability."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/blockscalability/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/blockscalability/"
+product_version: "26.9"
 ---
 ## CadBlockTableObject.BlockScalability property
 
@@ -20,8 +23,7 @@ The block scalability.
 
 ### See Also
 
-* class [CadBlockTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

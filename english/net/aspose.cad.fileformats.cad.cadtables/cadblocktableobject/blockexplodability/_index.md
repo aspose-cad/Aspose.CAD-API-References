@@ -1,10 +1,13 @@
 ---
-title: CadBlockTableObject.BlockExplodability
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockTableObject property. Gets the block explodability
+title: "CadBlockTableObject.BlockExplodability"
+linktitle: "BlockExplodability"
+articleTitle: "BlockExplodability"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockTableObject property. Gets the block explodability."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/blockexplodability/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/blockexplodability/"
+product_version: "26.9"
 ---
 ## CadBlockTableObject.BlockExplodability property
 
@@ -20,8 +23,7 @@ The block explodability.
 
 ### See Also
 
-* class [CadBlockTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

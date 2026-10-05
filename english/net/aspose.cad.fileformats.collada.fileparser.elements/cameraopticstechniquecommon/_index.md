@@ -1,10 +1,14 @@
 ---
-title: Class CameraOpticsTechniqueCommon
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.CameraOpticsTechniqueCommon class. The camera optics technique common
+title: "CameraOpticsTechniqueCommon Class"
+linktitle: "CameraOpticsTechniqueCommon"
+articleTitle: "CameraOpticsTechniqueCommon"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.CameraOpticsTechniqueCommon class. The camera optics technique common."
 type: docs
-weight: 7450
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommon/
+weight: 130
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommon/"
+keywords: "CameraOpticsTechniqueCommon, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CameraOpticsTechniqueCommon class
 
@@ -24,11 +28,10 @@ public class CameraOpticsTechniqueCommon
 
 | Name | Description |
 | --- | --- |
-| [Item](../../aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommon/item/) { get; set; } | Gets or sets the item. |
+| [Item](../../aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommon/item/) { get; set; } | Gets or sets the item. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

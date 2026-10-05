@@ -1,14 +1,19 @@
 ---
-title: ObjImage.Height
-second_title: Aspose.CAD for .NET API Reference
-description: ObjImage property. Gets the height of the image. Calculated as the difference between maximum and minimum values of the Y coordinate amongst all vertices. Minimal allowed height is 1
+title: "ObjImage.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjImage property. Gets the height of the image. Calculated as the difference between maximum and minimum values of the Y coordinate amongst all vertices. Mi..."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.obj/objimage/height/
+weight: 60
+url: "/net/aspose.cad.fileformats.obj/objimage/height/"
+product_version: "26.9"
 ---
 ## ObjImage.Height property
 
-Gets the height of the image. Calculated as the difference between maximum and minimum values of the Y coordinate amongst all vertices. Minimal allowed height is 1.
+Gets the height of the image.
+ Calculated as the difference between maximum and minimum values of the Y coordinate amongst all vertices.
+ Minimal allowed height is 1.
 
 ```csharp
 public override int Height { get; }
@@ -31,8 +36,7 @@ using (ObjImage objImage = (ObjImage)Image.Load(fileName))
 
 ### See Also
 
-* class [ObjImage](../)
-* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjImage](../)
+* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
+* assembly [Aspose.CAD](../../../)
 

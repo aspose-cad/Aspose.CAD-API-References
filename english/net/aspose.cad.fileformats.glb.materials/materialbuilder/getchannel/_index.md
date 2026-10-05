@@ -1,12 +1,17 @@
 ---
-title: MaterialBuilder.GetChannel
-second_title: Aspose.CAD for .NET API Reference
-description: MaterialBuilder method. 
+title: "MaterialBuilder.GetChannel"
+linktitle: "GetChannel"
+articleTitle: "GetChannel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MaterialBuilder method."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.glb.materials/materialbuilder/getchannel/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb.materials/materialbuilder/getchannel/"
+product_version: "26.9"
 ---
 ## GetChannel(KnownChannel) {#getchannel}
+
+
 
 ```csharp
 public ChannelBuilder GetChannel(KnownChannel channelKey)
@@ -14,15 +19,17 @@ public ChannelBuilder GetChannel(KnownChannel channelKey)
 
 ### See Also
 
-* class [ChannelBuilder](../../channelbuilder/)
-* enum [KnownChannel](../../knownchannel/)
-* class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
+* class [ChannelBuilder](../../channelbuilder/)
+* enum [KnownChannel](../../knownchannel/)
+* class [MaterialBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
 ## GetChannel(string) {#getchannel_1}
+
+
 
 ```csharp
 public ChannelBuilder GetChannel(string channelKey)
@@ -30,9 +37,8 @@ public ChannelBuilder GetChannel(string channelKey)
 
 ### See Also
 
-* class [ChannelBuilder](../../channelbuilder/)
-* class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ChannelBuilder](../../channelbuilder/)
+* class [MaterialBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

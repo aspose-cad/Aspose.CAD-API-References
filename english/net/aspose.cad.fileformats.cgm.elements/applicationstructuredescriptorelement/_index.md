@@ -1,12 +1,17 @@
 ---
-title: Enum ApplicationStructureDescriptorElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Elements.ApplicationStructureDescriptorElement enum. 
+title: "ApplicationStructureDescriptorElement Enum"
+linktitle: "ApplicationStructureDescriptorElement"
+articleTitle: "ApplicationStructureDescriptorElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Elements.ApplicationStructureDescriptorElement enum."
 type: docs
-weight: 6960
-url: /net/aspose.cad.fileformats.cgm.elements/applicationstructuredescriptorelement/
+weight: 20
+url: "/net/aspose.cad.fileformats.cgm.elements/applicationstructuredescriptorelement/"
+product_version: "26.9"
 ---
 ## ApplicationStructureDescriptorElement enumeration
+
+
 
 ```csharp
 public enum ApplicationStructureDescriptorElement
@@ -21,7 +26,6 @@ public enum ApplicationStructureDescriptorElement
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../)
 

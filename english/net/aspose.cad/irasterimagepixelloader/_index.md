@@ -1,10 +1,13 @@
 ---
-title: Interface IRasterImagePixelLoader
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.IRasterImagePixelLoader interface. The raster image pixel loader
+title: "IRasterImagePixelLoader Interface"
+linktitle: "IRasterImagePixelLoader"
+articleTitle: "IRasterImagePixelLoader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.IRasterImagePixelLoader interface. The raster image pixel loader."
 type: docs
-weight: 36170
-url: /net/aspose.cad/irasterimagepixelloader/
+weight: 490
+url: "/net/aspose.cad/irasterimagepixelloader/"
+product_version: "26.9"
 ---
 ## IRasterImagePixelLoader interface
 
@@ -18,12 +21,11 @@ public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
 
 | Name | Description |
 | --- | --- |
-| [LoadPartialPixels](../../aspose.cad/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Loads pixels partially (by blocks). |
+| [LoadPartialPixels](../../aspose.cad/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Loads pixels partially (by blocks). |
 
 ### See Also
 
-* interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

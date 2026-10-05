@@ -1,10 +1,13 @@
 ---
-title: JpegExifData.BitsPerSample
-second_title: Aspose.CAD for .NET API Reference
-description: JpegExifData property. Gets or sets the bits per sample
+title: "JpegExifData.BitsPerSample"
+linktitle: "BitsPerSample"
+articleTitle: "BitsPerSample"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegExifData property. Gets or sets the bits per sample."
 type: docs
-weight: 30
-url: /net/aspose.cad.exif/jpegexifdata/bitspersample/
+weight: 60
+url: "/net/aspose.cad.exif/jpegexifdata/bitspersample/"
+product_version: "26.9"
 ---
 ## JpegExifData.BitsPerSample property
 
@@ -20,8 +23,7 @@ The bits per sample.
 
 ### See Also
 
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

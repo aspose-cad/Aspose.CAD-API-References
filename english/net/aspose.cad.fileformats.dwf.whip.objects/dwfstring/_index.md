@@ -1,10 +1,14 @@
 ---
-title: Class DwfString
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfString class. Represents String
+title: "DwfString Class"
+linktitle: "DwfString"
+articleTitle: "DwfString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfString class. Represents String"
 type: docs
-weight: 9870
-url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfstring/
+weight: 20
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/dwfstring/"
+keywords: "DwfString, Aspose.CAD.FileFormats.Dwf.Whip.Objects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DwfString class
 
@@ -25,11 +29,10 @@ public class DwfString
 
 | Name | Description |
 | --- | --- |
-| [AsciiString](../../aspose.cad.fileformats.dwf.whip.objects/dwfstring/asciistring/) { get; set; } | Gets string value of object |
+| [AsciiString](../../aspose.cad.fileformats.dwf.whip.objects/dwfstring/asciistring/) { get; set; } | Gets string value of object |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,14 +1,19 @@
 ---
-title: DgnImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: DgnImage property. Gets the image width. Defines the Xaxis distance between the leftmost point of all graphic objects in the image and their rightmost point. The distance is measured in units corresponding to the value of the property UnitType
+title: "DgnImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnImage property. Gets the image width. Defines the X-axis distance between the leftmost point of all graphic objects in the image and their rightmost point..."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.dgn/dgnimage/width/
+weight: 100
+url: "/net/aspose.cad.fileformats.dgn/dgnimage/width/"
+product_version: "26.9"
 ---
 ## DgnImage.Width property
 
-Gets the image width. Defines the X-axis distance between the leftmost point of all graphic objects in the image and their rightmost point. The distance is measured in units corresponding to the value of the property [`UnitType`](../../../aspose.cad/image/unittype/)
+Gets the image width.
+ Defines the X-axis distance between the leftmost point of all graphic objects in the image and their rightmost point.
+ The distance is measured in units corresponding to the value of the property [`UnitType`](../../../aspose.cad/image/unittype/)
 
 ```csharp
 public override int Width { get; }
@@ -41,8 +46,7 @@ using (DgnImage image = (DgnImage) Image.Load(inStream))
 
 ### See Also
 
-* class [DgnImage](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnImage](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

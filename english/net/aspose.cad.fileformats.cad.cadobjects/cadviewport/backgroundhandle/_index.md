@@ -1,10 +1,13 @@
 ---
-title: CadViewport.BackgroundHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the background handle
+title: "CadViewport.BackgroundHandle"
+linktitle: "BackgroundHandle"
+articleTitle: "BackgroundHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the background handle."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/backgroundhandle/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/backgroundhandle/"
+product_version: "26.9"
 ---
 ## CadViewport.BackgroundHandle property
 
@@ -16,8 +19,7 @@ public string BackgroundHandle { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

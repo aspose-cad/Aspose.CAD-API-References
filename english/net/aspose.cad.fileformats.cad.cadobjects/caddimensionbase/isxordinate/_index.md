@@ -1,10 +1,13 @@
 ---
-title: CadDimensionBase.IsXOrdinate
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionBase property. Gets a value indicating whether this instance is X ordinate
+title: "CadDimensionBase.IsXOrdinate"
+linktitle: "IsXOrdinate"
+articleTitle: "IsXOrdinate"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionBase property. Gets a value indicating whether this instance is X ordinate."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/isxordinate/
+weight: 170
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/isxordinate/"
+product_version: "26.9"
 ---
 ## CadDimensionBase.IsXOrdinate property
 
@@ -20,8 +23,7 @@ public bool IsXOrdinate { get; }
 
 ### See Also
 
-* class [CadDimensionBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

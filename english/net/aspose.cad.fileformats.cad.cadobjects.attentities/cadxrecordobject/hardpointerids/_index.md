@@ -1,10 +1,13 @@
 ---
-title: CadXrecordObject.HardPointerIds
-second_title: Aspose.CAD for .NET API Reference
-description: CadXrecordObject property. Gets or sets the hard pointer ids
+title: "CadXrecordObject.HardPointerIds"
+linktitle: "HardPointerIds"
+articleTitle: "HardPointerIds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadXrecordObject property. Gets or sets the hard pointer ids."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/hardpointerids/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/hardpointerids/"
+product_version: "26.9"
 ---
 ## CadXrecordObject.HardPointerIds property
 
@@ -20,8 +23,7 @@ The hard pointer ids.
 
 ### See Also
 
-* class [CadXrecordObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadXrecordObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

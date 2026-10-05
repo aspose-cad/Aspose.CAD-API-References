@@ -1,10 +1,14 @@
 ---
-title: Class DwfWhipLineJoinStyle
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipLineJoinStyle class. Represents Line join style
+title: "DwfWhipLineJoinStyle Class"
+linktitle: "DwfWhipLineJoinStyle"
+articleTitle: "DwfWhipLineJoinStyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipLineJoinStyle class. Represents Line join style"
 type: docs
-weight: 9990
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinejoinstyle/
+weight: 60
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinejoinstyle/"
+keywords: "DwfWhipLineJoinStyle, Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DwfWhipLineJoinStyle class
 
@@ -24,13 +28,12 @@ public class DwfWhipLineJoinStyle : DwfWhipAttribute
 
 | Name | Description |
 | --- | --- |
-| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
-| [Style](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinejoinstyle/style/) { get; } | Gets line join style |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
+| [Style](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinejoinstyle/style/) { get; } | Gets line join style |
 
 ### See Also
 
-* class [DwfWhipAttribute](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipattribute/)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../)
-
+* class [DwfWhipAttribute](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipattribute/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../)
 

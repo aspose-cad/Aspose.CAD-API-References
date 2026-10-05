@@ -1,10 +1,13 @@
 ---
-title: ReadSettings.ReadSettings
-second_title: Aspose.CAD for .NET API Reference
-description: ReadSettings constructor. The default constructor
+title: "ReadSettings.ReadSettings"
+linktitle: "ReadSettings"
+articleTitle: "ReadSettings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ReadSettings constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.glb/readsettings/readsettings/
+url: "/net/aspose.cad.fileformats.glb/readsettings/readsettings/"
+product_version: "26.9"
 ---
 ## ReadSettings() {#constructor}
 
@@ -16,13 +19,15 @@ public ReadSettings()
 
 ### See Also
 
-* class [ReadSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
+* class [ReadSettings](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
 ## ReadSettings(ReadSettings) {#constructor_1}
+
+Initializes a new instance of the ReadSettings class.
 
 ```csharp
 public ReadSettings(ReadSettings other)
@@ -30,8 +35,7 @@ public ReadSettings(ReadSettings other)
 
 ### See Also
 
-* class [ReadSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ReadSettings](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

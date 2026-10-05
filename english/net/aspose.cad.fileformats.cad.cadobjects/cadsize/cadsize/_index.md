@@ -1,10 +1,13 @@
 ---
-title: CadSize.CadSize
-second_title: Aspose.CAD for .NET API Reference
-description: CadSize constructor. Initializes a new instance of the CadSize class
+title: "CadSize.CadSize"
+linktitle: "CadSize"
+articleTitle: "CadSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSize constructor. Initializes a new instance of the CadSize class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsize/cadsize/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsize/cadsize/"
+product_version: "26.9"
 ---
 ## CadSize constructor
 
@@ -21,8 +24,7 @@ public CadSize(double width, double height)
 
 ### See Also
 
-* class [CadSize](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSize](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

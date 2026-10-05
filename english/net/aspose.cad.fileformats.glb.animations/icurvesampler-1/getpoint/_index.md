@@ -1,12 +1,15 @@
 ---
-title: ICurveSampler1.GetPoint
-second_title: Aspose.CAD for .NET API Reference
-description: ICurveSampler method. Samples the curve at the given offset
+title: "ICurveSampler<T>.GetPoint"
+linktitle: "GetPoint"
+articleTitle: "GetPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ICurveSampler method. Samples the curve at the given offset."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.glb.animations/icurvesampler-1/getpoint/
+url: "/net/aspose.cad.fileformats.glb.animations/icurvesampler-1/getpoint/"
+product_version: "26.9"
 ---
-## ICurveSampler&lt;T&gt;.GetPoint method
+## ICurveSampler<T>.GetPoint method
 
 Samples the curve at the given offset.
 
@@ -24,8 +27,7 @@ The value of the curve at *offset*.
 
 ### See Also
 
-* interface [ICurveSampler&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [ICurveSampler&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
 

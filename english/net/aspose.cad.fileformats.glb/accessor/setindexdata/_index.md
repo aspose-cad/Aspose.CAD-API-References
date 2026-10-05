@@ -1,12 +1,17 @@
 ---
-title: Accessor.SetIndexData
-second_title: Aspose.CAD for .NET API Reference
-description: Accessor method. 
+title: "Accessor.SetIndexData"
+linktitle: "SetIndexData"
+articleTitle: "SetIndexData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Accessor method."
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.glb/accessor/setindexdata/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb/accessor/setindexdata/"
+product_version: "26.9"
 ---
-## SetIndexData(MemoryAccessor) {#setindexdata_1}
+## SetIndexData(MemoryAccessor) {#setindexdata}
+
+
 
 ```csharp
 public void SetIndexData(MemoryAccessor src)
@@ -14,14 +19,14 @@ public void SetIndexData(MemoryAccessor src)
 
 ### See Also
 
-* class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
+* class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## SetIndexData(BufferView, int, int, IndexEncodingType) {#setindexdata}
+## SetIndexData(BufferView, int, int, IndexEncodingType) {#setindexdata_1}
 
 Associates this [`Accessor`](../) with a [`BufferView`](../../bufferview/)
 
@@ -39,10 +44,9 @@ public void SetIndexData(BufferView buffer, int bufferByteOffset, int itemCount,
 
 ### See Also
 
-* class [BufferView](../../bufferview/)
-* enum [IndexEncodingType](../../indexencodingtype/)
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BufferView](../../bufferview/)
+* enum [IndexEncodingType](../../indexencodingtype/)
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

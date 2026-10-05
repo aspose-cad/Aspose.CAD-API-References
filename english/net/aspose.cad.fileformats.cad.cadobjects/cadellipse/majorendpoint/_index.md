@@ -1,10 +1,13 @@
 ---
-title: CadEllipse.MajorEndPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadEllipse property. Gets or sets the majour end point
+title: "CadEllipse.MajorEndPoint"
+linktitle: "MajorEndPoint"
+articleTitle: "MajorEndPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEllipse property. Gets or sets the majour end point."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadellipse/majorendpoint/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadellipse/majorendpoint/"
+product_version: "26.9"
 ---
 ## CadEllipse.MajorEndPoint property
 
@@ -20,9 +23,8 @@ The majour end point.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadEllipse](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

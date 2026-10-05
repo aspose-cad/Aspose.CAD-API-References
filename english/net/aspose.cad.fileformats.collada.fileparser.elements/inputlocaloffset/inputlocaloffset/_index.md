@@ -1,10 +1,13 @@
 ---
-title: InputLocalOffset.InputLocalOffset
-second_title: Aspose.CAD for .NET API Reference
-description: InputLocalOffset constructor. The default constructor
+title: "InputLocalOffset.InputLocalOffset"
+linktitle: "InputLocalOffset"
+articleTitle: "InputLocalOffset"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "InputLocalOffset constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/inputlocaloffset/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/inputlocaloffset/"
+product_version: "26.9"
 ---
 ## InputLocalOffset constructor
 
@@ -16,8 +19,7 @@ public InputLocalOffset()
 
 ### See Also
 
-* class [InputLocalOffset](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InputLocalOffset](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

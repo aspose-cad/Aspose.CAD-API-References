@@ -1,10 +1,13 @@
 ---
-title: Node.FindNodesUsingMesh
-second_title: Aspose.CAD for .NET API Reference
-description: Node method. Gets a collection of Node instances using mesh
+title: "Node.FindNodesUsingMesh"
+linktitle: "FindNodesUsingMesh"
+articleTitle: "FindNodesUsingMesh"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Node method. Gets a collection of Node instances using mesh."
 type: docs
-weight: 250
-url: /net/aspose.cad.fileformats.glb/node/findnodesusingmesh/
+weight: 100
+url: "/net/aspose.cad.fileformats.glb/node/findnodesusingmesh/"
+product_version: "26.9"
 ---
 ## Node.FindNodesUsingMesh method
 
@@ -24,9 +27,8 @@ A collection of [`Node`](../) instances.
 
 ### See Also
 
-* class [Mesh](../../mesh/)
-* class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../)
+* class [Mesh](../../mesh/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

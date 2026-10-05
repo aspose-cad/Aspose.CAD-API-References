@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.Stream
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer property. Gets the data stream
+title: "StreamContainer.Stream"
+linktitle: "Stream"
+articleTitle: "Stream"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer property. Gets the data stream."
 type: docs
-weight: 80
-url: /net/aspose.cad/streamcontainer/stream/
+weight: 250
+url: "/net/aspose.cad/streamcontainer/stream/"
+product_version: "26.9"
 ---
 ## StreamContainer.Stream property
 
@@ -20,8 +23,7 @@ The data stream.
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: JpegExifData.YCbCrSubSampling
-second_title: Aspose.CAD for .NET API Reference
-description: JpegExifData property. Gets or sets the sampling ratio of chrominance components in relation to the luminance component
+title: "JpegExifData.YCbCrSubSampling"
+linktitle: "YCbCrSubSampling"
+articleTitle: "YCbCrSubSampling"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegExifData property. Gets or sets the sampling ratio of chrominance components in relation to the luminance component."
 type: docs
-weight: 240
-url: /net/aspose.cad.exif/jpegexifdata/ycbcrsubsampling/
+weight: 270
+url: "/net/aspose.cad.exif/jpegexifdata/ycbcrsubsampling/"
+product_version: "26.9"
 ---
 ## JpegExifData.YCbCrSubSampling property
 
@@ -20,8 +23,7 @@ The sampling ratio of chrominance components in relation to the luminance compon
 
 ### See Also
 
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

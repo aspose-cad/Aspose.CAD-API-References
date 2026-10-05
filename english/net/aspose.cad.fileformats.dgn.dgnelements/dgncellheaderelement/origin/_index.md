@@ -1,10 +1,13 @@
 ---
-title: DgnCellHeaderElement.Origin
-second_title: Aspose.CAD for .NET API Reference
-description: DgnCellHeaderElement property. Gets cells origin point
+title: "DgnCellHeaderElement.Origin"
+linktitle: "Origin"
+articleTitle: "Origin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnCellHeaderElement property. Gets cell's origin point"
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/origin/
+weight: 80
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/origin/"
+product_version: "26.9"
 ---
 ## DgnCellHeaderElement.Origin property
 
@@ -16,9 +19,8 @@ public DgnPoint Origin { get; }
 
 ### See Also
 
-* class [DgnPoint](../../../aspose.cad.fileformats.dgn/dgnpoint/)
-* class [DgnCellHeaderElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnPoint](../../../aspose.cad.fileformats.dgn/dgnpoint/)
+* class [DgnCellHeaderElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

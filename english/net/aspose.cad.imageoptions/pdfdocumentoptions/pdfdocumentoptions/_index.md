@@ -1,10 +1,13 @@
 ---
-title: PdfDocumentOptions.PdfDocumentOptions
-second_title: Aspose.CAD for .NET API Reference
-description: PdfDocumentOptions constructor. The default constructor
+title: "PdfDocumentOptions.PdfDocumentOptions"
+linktitle: "PdfDocumentOptions"
+articleTitle: "PdfDocumentOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PdfDocumentOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/pdfdocumentoptions/pdfdocumentoptions/
+url: "/net/aspose.cad.imageoptions/pdfdocumentoptions/pdfdocumentoptions/"
+product_version: "26.9"
 ---
 ## PdfDocumentOptions constructor
 
@@ -16,8 +19,7 @@ public PdfDocumentOptions()
 
 ### See Also
 
-* class [PdfDocumentOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PdfDocumentOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

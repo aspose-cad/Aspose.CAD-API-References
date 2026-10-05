@@ -1,10 +1,13 @@
 ---
-title: ExifData.ExposureTime
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the exposure time
+title: "ExifData.ExposureTime"
+linktitle: "ExposureTime"
+articleTitle: "ExposureTime"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the exposure time."
 type: docs
-weight: 230
-url: /net/aspose.cad.exif/exifdata/exposuretime/
+weight: 270
+url: "/net/aspose.cad.exif/exifdata/exposuretime/"
+product_version: "26.9"
 ---
 ## ExifData.ExposureTime property
 
@@ -20,9 +23,8 @@ The exposure time.
 
 ### See Also
 
-* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

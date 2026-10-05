@@ -1,50 +1,54 @@
 ---
-title: Struct TripleT
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.ToolKit.Collections.Triple1T struct. 
+title: "Triple<T> Struct"
+linktitle: "Triple<T>"
+articleTitle: "Triple<T>"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.ToolKit.Collections.Triple struct."
 type: docs
-weight: 11520
-url: /net/aspose.cad.fileformats.glb.toolkit.collections/triple-1/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb.toolkit.collections/triple-1/"
+product_version: "26.9"
 ---
-## Triple&lt;T&gt; structure
+## Triple&lt;T&gt; struct
+
+
 
 ```csharp
-public struct Triple<T> : IEquatable<Triple>, IReadOnlyList<T>
+public struct Triple<T> : IEquatable<Triple<T>>, IReadOnlyList<T>
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [Triple](triple/)(T, T, T) |  |
+| [Triple<T>](triple-1/)(T, T, T) | Initializes a new instance of the Triple class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/count/) { get; } |  |
-| [Item](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/item/) { get; } |  |
+| Count { get; } |  |
+| Item { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/equals/#equals_1)(object) |  |
-| [Equals](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/equals/#equals)(Triple) |  |
-| [GetEnumerator](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/getenumerator/)() |  |
-| override [GetHashCode](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/gethashcode/)() |  |
+| Equals(object) |  |
+| Equals(Triple&lt;T&gt;) |  |
+| GetEnumerator() |  |
+| GetHashCode() |  |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| readonly [A](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/a/) |  |
-| readonly [B](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/b/) |  |
-| readonly [C](../../aspose.cad.fileformats.glb.toolkit.collections/triple-1/c/) |  |
+| A |  |
+| B |  |
+| C |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../aspose.cad.fileformats.glb.toolkit.collections/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../aspose.cad.fileformats.glb.toolkit.collections/)
+* assembly [Aspose.CAD](../../)
 

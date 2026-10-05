@@ -1,12 +1,17 @@
 ---
-title: Enum ClipInheritance.Value
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.ClipInheritanceValue enum. 
+title: "ClipInheritance.Value Enum"
+linktitle: "ClipInheritance.Value"
+articleTitle: "ClipInheritance.Value"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.ClipInheritance.Value enum."
 type: docs
-weight: 5210
-url: /net/aspose.cad.fileformats.cgm.commands/clipinheritance.value/
+weight: 480
+url: "/net/aspose.cad.fileformats.cgm.commands/clipinheritance.value/"
+product_version: "26.9"
 ---
 ## ClipInheritance.Value enumeration
+
+
 
 ```csharp
 public enum Value
@@ -21,8 +26,7 @@ public enum Value
 
 ### See Also
 
-* class [ClipInheritance](../clipinheritance/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [ClipInheritance](../clipinheritance/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

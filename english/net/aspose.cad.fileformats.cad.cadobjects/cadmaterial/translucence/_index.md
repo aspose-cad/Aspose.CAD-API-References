@@ -1,10 +1,13 @@
 ---
-title: CadMaterial.Translucence
-second_title: Aspose.CAD for .NET API Reference
-description: CadMaterial property. Gets or sets the translucence
+title: "CadMaterial.Translucence"
+linktitle: "Translucence"
+articleTitle: "Translucence"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMaterial property. Gets or sets the translucence."
 type: docs
-weight: 970
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/translucence/
+weight: 450
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/translucence/"
+product_version: "26.9"
 ---
 ## CadMaterial.Translucence property
 
@@ -20,8 +23,7 @@ The translucence.
 
 ### See Also
 
-* class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMaterial](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

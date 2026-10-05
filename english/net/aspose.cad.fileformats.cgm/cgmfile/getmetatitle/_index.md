@@ -1,10 +1,13 @@
 ---
-title: CgmFile.GetMetaTitle
-second_title: Aspose.CAD for .NET API Reference
-description: CgmFile method. Gets the title
+title: "CgmFile.GetMetaTitle"
+linktitle: "GetMetaTitle"
+articleTitle: "GetMetaTitle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmFile method. Gets the title."
 type: docs
-weight: 320
-url: /net/aspose.cad.fileformats.cgm/cgmfile/getmetatitle/
+weight: 40
+url: "/net/aspose.cad.fileformats.cgm/cgmfile/getmetatitle/"
+product_version: "26.9"
 ---
 ## CgmFile.GetMetaTitle method
 
@@ -16,8 +19,7 @@ public string GetMetaTitle()
 
 ### See Also
 
-* class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

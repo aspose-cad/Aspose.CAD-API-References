@@ -1,10 +1,13 @@
 ---
-title: Trifans.Extra
-second_title: Aspose.CAD for .NET API Reference
-description: Trifans property. Gets or sets the extra
+title: "Trifans.Extra"
+linktitle: "Extra"
+articleTitle: "Extra"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Trifans property. Gets or sets the extra."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/trifans/extra/
+weight: 40
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/trifans/extra/"
+product_version: "26.9"
 ---
 ## Trifans.Extra property
 
@@ -16,9 +19,8 @@ public Extra[] Extra { get; set; }
 
 ### See Also
 
-* class [Extra](../../extra/)
-* class [Trifans](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Extra](../../extra/)
+* class [Trifans](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

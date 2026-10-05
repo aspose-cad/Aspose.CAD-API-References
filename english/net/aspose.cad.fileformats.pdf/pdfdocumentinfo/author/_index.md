@@ -1,10 +1,13 @@
 ---
-title: PdfDocumentInfo.Author
-second_title: Aspose.CAD for .NET API Reference
-description: PdfDocumentInfo property. Gets or sets author of the document
+title: "PdfDocumentInfo.Author"
+linktitle: "Author"
+articleTitle: "Author"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PdfDocumentInfo property. Gets or sets author of the document."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.pdf/pdfdocumentinfo/author/
+weight: 40
+url: "/net/aspose.cad.fileformats.pdf/pdfdocumentinfo/author/"
+product_version: "26.9"
 ---
 ## PdfDocumentInfo.Author property
 
@@ -16,8 +19,7 @@ public string Author { get; set; }
 
 ### See Also
 
-* class [PdfDocumentInfo](../)
-* namespace [Aspose.CAD.FileFormats.Pdf](../../../aspose.cad.fileformats.pdf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PdfDocumentInfo](../)
+* namespace [Aspose.CAD.FileFormats.Pdf](../../../aspose.cad.fileformats.pdf/)
+* assembly [Aspose.CAD](../../../)
 

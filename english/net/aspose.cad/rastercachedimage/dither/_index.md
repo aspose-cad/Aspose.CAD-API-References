@@ -1,10 +1,13 @@
 ---
-title: RasterCachedImage.Dither
-second_title: Aspose.CAD for .NET API Reference
-description: RasterCachedImage method. Performs dithering on the current image
+title: "RasterCachedImage.Dither"
+linktitle: "Dither"
+articleTitle: "Dither"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterCachedImage method. Performs dithering on the current image."
 type: docs
-weight: 100
-url: /net/aspose.cad/rastercachedimage/dither/
+weight: 60
+url: "/net/aspose.cad/rastercachedimage/dither/"
+product_version: "26.9"
 ---
 ## RasterCachedImage.Dither method
 
@@ -23,10 +26,9 @@ public override void Dither(DitheringMethod ditheringMethod, int bitsCount,
 
 ### See Also
 
-* enum [DitheringMethod](../../ditheringmethod/)
-* interface [IColorPalette](../../icolorpalette/)
-* class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [DitheringMethod](../../ditheringmethod/)
+* interface [IColorPalette](../../icolorpalette/)
+* class [RasterCachedImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

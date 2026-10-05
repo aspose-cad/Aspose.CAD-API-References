@@ -1,10 +1,13 @@
 ---
-title: CadStyleTableObject.ObliqueAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadStyleTableObject property. Gets or sets the oblique angle
+title: "CadStyleTableObject.ObliqueAngle"
+linktitle: "ObliqueAngle"
+articleTitle: "ObliqueAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadStyleTableObject property. Gets or sets the oblique angle."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/obliqueangle/
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/obliqueangle/"
+product_version: "26.9"
 ---
 ## CadStyleTableObject.ObliqueAngle property
 
@@ -16,8 +19,7 @@ public double ObliqueAngle { get; set; }
 
 ### See Also
 
-* class [CadStyleTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadStyleTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: LoadOptions.UnloadOnDispose
-second_title: Aspose.CAD for .NET API Reference
-description: LoadOptions property. Whether to unload all data and free memory when Dispose is called
+title: "LoadOptions.UnloadOnDispose"
+linktitle: "UnloadOnDispose"
+articleTitle: "UnloadOnDispose"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LoadOptions property. Whether to unload all data and free memory when Dispose is called"
 type: docs
-weight: 110
-url: /net/aspose.cad/loadoptions/unloadondispose/
+weight: 70
+url: "/net/aspose.cad/loadoptions/unloadondispose/"
+product_version: "26.9"
 ---
 ## LoadOptions.UnloadOnDispose property
 
@@ -16,8 +19,7 @@ public bool UnloadOnDispose { get; set; }
 
 ### See Also
 
-* class [LoadOptions](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [LoadOptions](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

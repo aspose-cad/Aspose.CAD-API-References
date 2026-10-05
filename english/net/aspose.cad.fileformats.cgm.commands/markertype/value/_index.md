@@ -1,12 +1,17 @@
 ---
-title: MarkerType.Value
-second_title: Aspose.CAD for .NET API Reference
-description: MarkerType property. 
+title: "MarkerType.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MarkerType property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cgm.commands/markertype/value/
+weight: 70
+url: "/net/aspose.cad.fileformats.cgm.commands/markertype/value/"
+product_version: "26.9"
 ---
 ## MarkerType.Value property
+
+
 
 ```csharp
 public Type Value { get; set; }
@@ -14,9 +19,8 @@ public Type Value { get; set; }
 
 ### See Also
 
-* enum [Type](../../markertype.type/)
-* class [MarkerType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [Type](../../markertype.type/)
+* class [MarkerType](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadDimensionStyleTable.Dimunit
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets the value that was used to set units but now is replaced with Dimlunit and Dimfrac
+title: "CadDimensionStyleTable.Dimunit"
+linktitle: "Dimunit"
+articleTitle: "Dimunit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionStyleTable property. Gets or sets the value, that was used to set units but now is replaced with Dimlunit and Dimfrac."
 type: docs
-weight: 780
-url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimunit/
+weight: 760
+url: "/net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimunit/"
+product_version: "26.9"
 ---
 ## CadDimensionStyleTable.Dimunit property
 
@@ -16,8 +19,7 @@ public short Dimunit { get; set; }
 
 ### See Also
 
-* class [CadDimensionStyleTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionStyleTable](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

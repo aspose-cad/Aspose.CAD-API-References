@@ -1,12 +1,17 @@
 ---
-title: CgmPointComparer.Compare
-second_title: Aspose.CAD for .NET API Reference
-description: CgmPointComparer method. 
+title: "CgmPointComparer.Compare"
+linktitle: "Compare"
+articleTitle: "Compare"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmPointComparer method."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cgm.classes/cgmpointcomparer/compare/
+url: "/net/aspose.cad.fileformats.cgm.classes/cgmpointcomparer/compare/"
+product_version: "26.9"
 ---
 ## CgmPointComparer.Compare method
+
+
 
 ```csharp
 public int Compare(CgmPoint x, CgmPoint y)
@@ -14,9 +19,8 @@ public int Compare(CgmPoint x, CgmPoint y)
 
 ### See Also
 
-* class [CgmPoint](../../cgmpoint/)
-* class [CgmPointComparer](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmPoint](../../cgmpoint/)
+* class [CgmPointComparer](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../../)
 

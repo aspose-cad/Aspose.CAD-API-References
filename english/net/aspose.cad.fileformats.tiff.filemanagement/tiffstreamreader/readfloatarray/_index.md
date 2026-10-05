@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ReadFloatArray
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Reads an array of float values from the stream
+title: "TiffStreamReader.ReadFloatArray"
+linktitle: "ReadFloatArray"
+articleTitle: "ReadFloatArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Reads an array of float values from the stream."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readfloatarray/
+weight: 100
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readfloatarray/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ReadFloatArray method
 
@@ -31,8 +34,7 @@ The array of float values.
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DxfOptions.DxfOptions
-second_title: Aspose.CAD for .NET API Reference
-description: DxfOptions constructor. The default constructor
+title: "DxfOptions.DxfOptions"
+linktitle: "DxfOptions"
+articleTitle: "DxfOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DxfOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/dxfoptions/dxfoptions/
+url: "/net/aspose.cad.imageoptions/dxfoptions/dxfoptions/"
+product_version: "26.9"
 ---
 ## DxfOptions constructor
 
@@ -16,8 +19,7 @@ public DxfOptions()
 
 ### See Also
 
-* class [DxfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DxfOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

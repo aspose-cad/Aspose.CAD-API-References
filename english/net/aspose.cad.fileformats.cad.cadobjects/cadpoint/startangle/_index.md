@@ -1,10 +1,13 @@
 ---
-title: CadPoint.StartAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadPoint property. Gets or sets angle XAxis
+title: "CadPoint.StartAngle"
+linktitle: "StartAngle"
+articleTitle: "StartAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPoint property. Gets or sets angle XAxis."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadpoint/startangle/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadpoint/startangle/"
+product_version: "26.9"
 ---
 ## CadPoint.StartAngle property
 
@@ -20,8 +23,7 @@ The angle X axis
 
 ### See Also
 
-* class [CadPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPoint](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

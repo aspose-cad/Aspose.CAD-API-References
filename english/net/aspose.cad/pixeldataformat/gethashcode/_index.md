@@ -1,10 +1,13 @@
 ---
-title: PixelDataFormat.GetHashCode
-second_title: Aspose.CAD for .NET API Reference
-description: PixelDataFormat method. Returns a hash code for this instance
+title: "PixelDataFormat.GetHashCode"
+linktitle: "GetHashCode"
+articleTitle: "GetHashCode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PixelDataFormat method. Returns a hash code for this instance."
 type: docs
-weight: 200
-url: /net/aspose.cad/pixeldataformat/gethashcode/
+weight: 40
+url: "/net/aspose.cad/pixeldataformat/gethashcode/"
+product_version: "26.9"
 ---
 ## PixelDataFormat.GetHashCode method
 
@@ -20,8 +23,7 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 
 ### See Also
 
-* class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PixelDataFormat](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

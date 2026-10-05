@@ -1,10 +1,13 @@
 ---
-title: CadBlockTableObject.BitmapPreviewData
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockTableObject property. Gets or sets the bitmap preview data
+title: "CadBlockTableObject.BitmapPreviewData"
+linktitle: "BitmapPreviewData"
+articleTitle: "BitmapPreviewData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockTableObject property. Gets or sets the bitmap preview data."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/bitmappreviewdata/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadblocktableobject/bitmappreviewdata/"
+product_version: "26.9"
 ---
 ## CadBlockTableObject.BitmapPreviewData property
 
@@ -20,8 +23,7 @@ The bitmap preview data.
 
 ### See Also
 
-* class [CadBlockTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadVportTableObject.CadVportTableObject
-second_title: Aspose.CAD for .NET API Reference
-description: CadVportTableObject constructor. Initializes a new instance of the CadVportTableObject class
+title: "CadVportTableObject.CadVportTableObject"
+linktitle: "CadVportTableObject"
+articleTitle: "CadVportTableObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVportTableObject constructor. Initializes a new instance of the CadVportTableObject class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/cadvporttableobject/
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/cadvporttableobject/"
+product_version: "26.9"
 ---
 ## CadVportTableObject constructor
 
@@ -16,8 +19,7 @@ public CadVportTableObject()
 
 ### See Also
 
-* class [CadVportTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVportTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

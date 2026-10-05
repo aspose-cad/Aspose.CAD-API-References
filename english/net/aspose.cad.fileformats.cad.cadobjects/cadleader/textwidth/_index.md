@@ -1,10 +1,13 @@
 ---
-title: CadLeader.TextWidth
-second_title: Aspose.CAD for .NET API Reference
-description: CadLeader property. Gets or sets the scale x
+title: "CadLeader.TextWidth"
+linktitle: "TextWidth"
+articleTitle: "TextWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLeader property. Gets or sets the scale x."
 type: docs
-weight: 200
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadleader/textwidth/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadleader/textwidth/"
+product_version: "26.9"
 ---
 ## CadLeader.TextWidth property
 
@@ -16,8 +19,7 @@ public double TextWidth { get; set; }
 
 ### See Also
 
-* class [CadLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

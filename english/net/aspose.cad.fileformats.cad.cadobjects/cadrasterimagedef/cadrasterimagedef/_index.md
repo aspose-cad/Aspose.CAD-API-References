@@ -1,10 +1,13 @@
 ---
-title: CadRasterImageDef.CadRasterImageDef
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImageDef constructor. Initializes a new instance of the CadRasterImageDef class
+title: "CadRasterImageDef.CadRasterImageDef"
+linktitle: "CadRasterImageDef"
+articleTitle: "CadRasterImageDef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImageDef constructor. Initializes a new instance of the CadRasterImageDef class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/cadrasterimagedef/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/cadrasterimagedef/"
+product_version: "26.9"
 ---
 ## CadRasterImageDef() {#constructor}
 
@@ -16,13 +19,13 @@ public CadRasterImageDef()
 
 ### See Also
 
-* class [CadRasterImageDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
+* class [CadRasterImageDef](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## CadRasterImageDef(string, int, int) {#constructor_1}
+## CadRasterImageDef(string, int, int) {#constructor_1}
 
 Initializes a new instance of the [`CadRasterImageDef`](../) class.
 
@@ -45,8 +48,7 @@ public CadRasterImageDef(string fileNameOfImage, int imageSizeU, int imageSizeV)
 
 ### See Also
 
-* class [CadRasterImageDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImageDef](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

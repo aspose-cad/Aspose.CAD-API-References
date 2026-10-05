@@ -1,10 +1,13 @@
 ---
-title: Enum TiffDataTypes
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffDataTypes enum. The tiff data type enum
+title: "TiffDataTypes Enum"
+linktitle: "TiffDataTypes"
+articleTitle: "TiffDataTypes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffDataTypes enum. The tiff data type enum."
 type: docs
-weight: 35420
-url: /net/aspose.cad.fileformats.tiff.enums/tiffdatatypes/
+weight: 60
+url: "/net/aspose.cad.fileformats.tiff.enums/tiffdatatypes/"
+product_version: "26.9"
 ---
 ## TiffDataTypes enumeration
 
@@ -34,7 +37,6 @@ public enum TiffDataTypes : ushort
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DgnExtendedViewInfo.DgnExtendedViewInfo
-second_title: Aspose.CAD for .NET API Reference
-description: DgnExtendedViewInfo constructor. The default constructor
+title: "DgnExtendedViewInfo.DgnExtendedViewInfo"
+linktitle: "DgnExtendedViewInfo"
+articleTitle: "DgnExtendedViewInfo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnExtendedViewInfo constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn/dgnextendedviewinfo/dgnextendedviewinfo/
+url: "/net/aspose.cad.fileformats.dgn/dgnextendedviewinfo/dgnextendedviewinfo/"
+product_version: "26.9"
 ---
 ## DgnExtendedViewInfo constructor
 
@@ -16,8 +19,7 @@ public DgnExtendedViewInfo()
 
 ### See Also
 
-* class [DgnExtendedViewInfo](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnExtendedViewInfo](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

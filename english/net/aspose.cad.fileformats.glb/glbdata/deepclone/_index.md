@@ -1,10 +1,13 @@
 ---
-title: GlbData.DeepClone
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a complete clone of this GlbData instance
+title: "GlbData.DeepClone"
+linktitle: "DeepClone"
+articleTitle: "DeepClone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Creates a complete clone of this GlbData instance."
 type: docs
-weight: 380
-url: /net/aspose.cad.fileformats.glb/glbdata/deepclone/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb/glbdata/deepclone/"
+product_version: "26.9"
 ---
 ## GlbData.DeepClone method
 
@@ -20,12 +23,12 @@ A new [`GlbData`](../) instance.
 
 ## Remarks
 
-Deep cloning is performed as a brute force operation; by serializing the whole model to GLTF into memory, and then deserializing it back to DOM.
+Deep cloning is performed as a brute force operation; by serializing
+ the whole model to GLTF into memory, and then deserializing it back to DOM.
 
 ### See Also
 
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

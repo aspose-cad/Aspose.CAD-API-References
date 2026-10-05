@@ -1,10 +1,13 @@
 ---
-title: JFIFData.JFIFData
-second_title: Aspose.CAD for .NET API Reference
-description: JFIFData constructor. Initializes a new instance of the JFIFData class
+title: "JFIFData.JFIFData"
+linktitle: "JFIFData"
+articleTitle: "JFIFData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JFIFData constructor. Initializes a new instance of the JFIFData class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.jpeg/jfifdata/jfifdata/
+url: "/net/aspose.cad.fileformats.jpeg/jfifdata/jfifdata/"
+product_version: "26.9"
 ---
 ## JFIFData constructor
 
@@ -16,8 +19,7 @@ public JFIFData()
 
 ### See Also
 
-* class [JFIFData](../)
-* namespace [Aspose.CAD.FileFormats.Jpeg](../../../aspose.cad.fileformats.jpeg/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JFIFData](../)
+* namespace [Aspose.CAD.FileFormats.Jpeg](../../../aspose.cad.fileformats.jpeg/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,35 @@
 ---
-title: RasterCachedImage.AdjustGamma
-second_title: Aspose.CAD for .NET API Reference
-description: RasterCachedImage method. Gammacorrection of an image
+title: "RasterCachedImage.AdjustGamma"
+linktitle: "AdjustGamma"
+articleTitle: "AdjustGamma"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterCachedImage method. Gamma-correction of an image."
 type: docs
-weight: 40
-url: /net/aspose.cad/rastercachedimage/adjustgamma/
+weight: 130
+url: "/net/aspose.cad/rastercachedimage/adjustgamma/"
+product_version: "26.9"
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
+## AdjustGamma(float) {#adjustgamma}
+
+Gamma-correction of an image.
+
+```csharp
+public override void AdjustGamma(float gamma)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| gamma | Single | Gamma for red, green and blue channels coefficient |
+
+### See Also
+
+* class [RasterCachedImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
 
 Gamma-correction of an image.
 
@@ -22,28 +45,7 @@ public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBl
 
 ### See Also
 
-* class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## AdjustGamma(float) {#adjustgamma}
-
-Gamma-correction of an image.
-
-```csharp
-public override void AdjustGamma(float gamma)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| gamma | Single | Gamma for red, green and blue channels coefficient |
-
-### See Also
-
-* class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterCachedImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

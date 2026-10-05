@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.TopBorderVisibilityFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the top border visibility flag
+title: "CadTableCell.TopBorderVisibilityFlag"
+linktitle: "TopBorderVisibilityFlag"
+articleTitle: "TopBorderVisibilityFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the top border visibility flag."
 type: docs
-weight: 420
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/topbordervisibilityflag/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/topbordervisibilityflag/"
+product_version: "26.9"
 ---
 ## CadTableCell.TopBorderVisibilityFlag property
 
@@ -20,8 +23,7 @@ The top border visibility flag.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

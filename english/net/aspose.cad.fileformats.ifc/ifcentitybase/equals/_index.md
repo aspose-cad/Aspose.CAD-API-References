@@ -1,10 +1,13 @@
 ---
-title: IfcEntityBase.Equals
-second_title: Aspose.CAD for .NET API Reference
-description: IfcEntityBase method. Determines whether the specified is equal to this instance
+title: "IfcEntityBase.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcEntityBase method. Determines whether the specified is equal to this instance."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.ifc/ifcentitybase/equals/
+weight: 10
+url: "/net/aspose.cad.fileformats.ifc/ifcentitybase/equals/"
+product_version: "26.9"
 ---
 ## IfcEntityBase.Equals method
 
@@ -24,8 +27,7 @@ public override bool Equals(object obj)
 
 ### See Also
 
-* class [IfcEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,0 +1,25 @@
+---
+title: "IfcCartesianTransformationOperator3DnonUniform4.IfcCartesianTransformationOperator3DnonUniform4"
+linktitle: "IfcCartesianTransformationOperator3DnonUniform4"
+articleTitle: "IfcCartesianTransformationOperator3DnonUniform4"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcCartesianTransformationOperator3DnonUniform4 constructor. The default constructor."
+type: docs
+weight: 10
+url: "/net/aspose.cad.fileformats.ifc.ifc4.entities/ifccartesiantransformationoperator3dnonuniform4/ifccartesiantransformationoperator3dnonuniform4/"
+product_version: "26.9"
+---
+## IfcCartesianTransformationOperator3DnonUniform4 constructor
+
+The default constructor.
+
+```csharp
+public IfcCartesianTransformationOperator3DnonUniform4()
+```
+
+### See Also
+
+* class [IfcCartesianTransformationOperator3DnonUniform4](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
+* assembly [Aspose.CAD](../../../)
+

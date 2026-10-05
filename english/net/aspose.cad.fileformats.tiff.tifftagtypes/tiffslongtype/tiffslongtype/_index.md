@@ -1,10 +1,13 @@
 ---
-title: TiffSLongType.TiffSLongType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffSLongType constructor. Initializes a new instance of the TiffSLongType class
+title: "TiffSLongType.TiffSLongType"
+linktitle: "TiffSLongType"
+articleTitle: "TiffSLongType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffSLongType constructor. Initializes a new instance of the TiffSLongType class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffslongtype/tiffslongtype/
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffslongtype/tiffslongtype/"
+product_version: "26.9"
 ---
 ## TiffSLongType(TiffTags) {#constructor}
 
@@ -20,10 +23,10 @@ public TiffSLongType(TiffTags tagId)
 
 ### See Also
 
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffSLongType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffSLongType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public TiffSLongType(ushort tagId)
 
 ### See Also
 
-* class [TiffSLongType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffSLongType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

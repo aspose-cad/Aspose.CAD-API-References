@@ -1,14 +1,17 @@
 ---
-title: Struct Matrix3x3Array
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.Matrix3x3Array struct. Wraps an encoded ArraySegment and exposes it as an IList
+title: "Matrix3x3Array Struct"
+linktitle: "Matrix3x3Array"
+articleTitle: "Matrix3x3Array"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Memory.Matrix3x3Array struct. Wraps an encoded ArraySegment and exposes it as an IList."
 type: docs
-weight: 10970
-url: /net/aspose.cad.fileformats.glb.memory/matrix3x3array/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb.memory/matrix3x3array/"
+product_version: "26.9"
 ---
-## Matrix3x3Array structure
+## Matrix3x3Array struct
 
-Wraps an encoded ArraySegment and exposes it as an IList.
+Wraps an encoded `ArraySegment` and exposes it as an `IList`.
 
 ```csharp
 public struct Matrix3x3Array : IList<Matrix4x4>, IReadOnlyList<Matrix4x4>
@@ -18,33 +21,27 @@ public struct Matrix3x3Array : IList<Matrix4x4>, IReadOnlyList<Matrix4x4>
 
 | Name | Description |
 | --- | --- |
-| [Matrix3x3Array](matrix3x3array/#constructor)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) |  |
-| [Matrix3x3Array](matrix3x3array/#constructor_1)(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) |  |
+| [Matrix3x3Array](matrix3x3array/)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) | Initializes a new instance of the Matrix3x3Array class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.cad.fileformats.glb.memory/matrix3x3array/count/) { get; } |  |
-| [Item](../../aspose.cad.fileformats.glb.memory/matrix3x3array/item/) { get; set; } |  |
+| Count { get; } |  |
+| Item { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Contains](../../aspose.cad.fileformats.glb.memory/matrix3x3array/contains/)(Matrix4x4) |  |
-| [CopyTo](../../aspose.cad.fileformats.glb.memory/matrix3x3array/copyto/)(Matrix4x4[], int) |  |
-| [Fill](../../aspose.cad.fileformats.glb.memory/matrix3x3array/fill/)(IEnumerable&lt;Matrix4x4&gt;, int) |  |
-| [GetEnumerator](../../aspose.cad.fileformats.glb.memory/matrix3x3array/getenumerator/)() |  |
-| [IndexOf](../../aspose.cad.fileformats.glb.memory/matrix3x3array/indexof/)(Matrix4x4) |  |
-
-## Remarks
-
-Vector namespace doesn't support a 3x3 matrix, so the array is decoded as a Matrix3x3 matrix internally, but exposed as a Matrix4x4.
+| Contains(Matrix4x4) |  |
+| CopyTo(Matrix4x4[], int) |  |
+| Fill(IEnumerable&lt;Matrix4x4&gt;, int) |  |
+| GetEnumerator() |  |
+| IndexOf(Matrix4x4) |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
+* assembly [Aspose.CAD](../../)
 

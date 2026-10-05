@@ -1,10 +1,13 @@
 ---
-title: DgnBSplineCurveElement.KnotElement
-second_title: Aspose.CAD for .NET API Reference
-description: DgnBSplineCurveElement property. Gets or sets KNOT element
+title: "DgnBSplineCurveElement.KnotElement"
+linktitle: "KnotElement"
+articleTitle: "KnotElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnBSplineCurveElement property. Gets or sets KNOT element"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/knotelement/
+weight: 50
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/knotelement/"
+product_version: "26.9"
 ---
 ## DgnBSplineCurveElement.KnotElement property
 
@@ -16,9 +19,8 @@ public DgnSplineKnotElement KnotElement { get; set; }
 
 ### See Also
 
-* class [DgnSplineKnotElement](../../dgnsplineknotelement/)
-* class [DgnBSplineCurveElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnSplineKnotElement](../../dgnsplineknotelement/)
+* class [DgnBSplineCurveElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

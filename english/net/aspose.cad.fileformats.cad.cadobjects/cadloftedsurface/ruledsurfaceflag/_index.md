@@ -1,10 +1,13 @@
 ---
-title: CadLoftedSurface.RuledSurfaceFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadLoftedSurface property. Gets or sets a value indicating whether ruled surface flag
+title: "CadLoftedSurface.RuledSurfaceFlag"
+linktitle: "RuledSurfaceFlag"
+articleTitle: "RuledSurfaceFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLoftedSurface property. Gets or sets a value indicating whether ruled surface flag."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/ruledsurfaceflag/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/ruledsurfaceflag/"
+product_version: "26.9"
 ---
 ## CadLoftedSurface.RuledSurfaceFlag property
 
@@ -16,8 +19,7 @@ public bool RuledSurfaceFlag { get; set; }
 
 ### See Also
 
-* class [CadLoftedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLoftedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

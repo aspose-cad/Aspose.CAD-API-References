@@ -1,10 +1,13 @@
 ---
-title: DgnRootElement.UnitType
-second_title: Aspose.CAD for .NET API Reference
-description: DgnRootElement property. Gets or sets unit type of design file
+title: "DgnRootElement.UnitType"
+linktitle: "UnitType"
+articleTitle: "UnitType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnRootElement property. Gets or sets unit type of design file"
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/unittype/
+weight: 180
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/unittype/"
+product_version: "26.9"
 ---
 ## DgnRootElement.UnitType property
 
@@ -16,9 +19,8 @@ public UnitType UnitType { get; }
 
 ### See Also
 
-* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
-* class [DgnRootElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
+* class [DgnRootElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

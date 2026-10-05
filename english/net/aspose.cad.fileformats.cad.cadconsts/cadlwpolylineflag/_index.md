@@ -1,10 +1,13 @@
 ---
-title: Enum CadLwPolylineFlag
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadLwPolylineFlag enum. The Cad LWPOLYLINE flags
+title: "CadLwPolylineFlag Enum"
+linktitle: "CadLwPolylineFlag"
+articleTitle: "CadLwPolylineFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadLwPolylineFlag enum. The Cad LWPOLYLINE flags."
 type: docs
-weight: 1430
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadlwpolylineflag/
+weight: 290
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadlwpolylineflag/"
+product_version: "26.9"
 ---
 ## CadLwPolylineFlag enumeration
 
@@ -25,7 +28,6 @@ public enum CadLwPolylineFlag : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

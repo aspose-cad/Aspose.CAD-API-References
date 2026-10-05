@@ -1,10 +1,13 @@
 ---
-title: DgnSharedCellDefinitionElement.AddChild
-second_title: Aspose.CAD for .NET API Reference
-description: DgnSharedCellDefinitionElement method. Adds element as a child
+title: "DgnSharedCellDefinitionElement.AddChild"
+linktitle: "AddChild"
+articleTitle: "AddChild"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnSharedCellDefinitionElement method. Adds element as a child"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/addchild/
+weight: 10
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/addchild/"
+product_version: "26.9"
 ---
 ## DgnSharedCellDefinitionElement.AddChild method
 
@@ -20,9 +23,8 @@ public void AddChild(DgnElementBase child)
 
 ### See Also
 
-* class [DgnElementBase](../../dgnelementbase/)
-* class [DgnSharedCellDefinitionElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementBase](../../dgnelementbase/)
+* class [DgnSharedCellDefinitionElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

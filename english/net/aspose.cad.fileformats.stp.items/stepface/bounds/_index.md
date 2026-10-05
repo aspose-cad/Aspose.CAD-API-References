@@ -1,12 +1,17 @@
 ---
-title: StepFace.Bounds
-second_title: Aspose.CAD for .NET API Reference
-description: StepFace property. 
+title: "StepFace.Bounds"
+linktitle: "Bounds"
+articleTitle: "Bounds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepFace property."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.stp.items/stepface/bounds/
+url: "/net/aspose.cad.fileformats.stp.items/stepface/bounds/"
+product_version: "26.9"
 ---
 ## StepFace.Bounds property
+
+
 
 ```csharp
 public List<StepFaceBound> Bounds { get; set; }
@@ -14,9 +19,8 @@ public List<StepFaceBound> Bounds { get; set; }
 
 ### See Also
 
-* class [StepFaceBound](../../stepfacebound/)
-* class [StepFace](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepFaceBound](../../stepfacebound/)
+* class [StepFace](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

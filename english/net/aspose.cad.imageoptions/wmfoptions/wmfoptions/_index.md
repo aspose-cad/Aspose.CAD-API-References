@@ -1,10 +1,13 @@
 ---
-title: WmfOptions.WmfOptions
-second_title: Aspose.CAD for .NET API Reference
-description: WmfOptions constructor. Initializes a new instance of the WmfOptions class
+title: "WmfOptions.WmfOptions"
+linktitle: "WmfOptions"
+articleTitle: "WmfOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "WmfOptions constructor. Initializes a new instance of the WmfOptions class."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/wmfoptions/wmfoptions/
+url: "/net/aspose.cad.imageoptions/wmfoptions/wmfoptions/"
+product_version: "26.9"
 ---
 ## WmfOptions() {#constructor}
 
@@ -16,9 +19,9 @@ public WmfOptions()
 
 ### See Also
 
-* class [WmfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
+* class [WmfOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public WmfOptions(WmfOptions wmfOptions)
 
 ### See Also
 
-* class [WmfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [WmfOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

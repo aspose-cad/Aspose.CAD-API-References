@@ -1,14 +1,17 @@
 ---
-title: Enum SeekOrigin
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.SeekOrigin enum. Provides the fields that represent reference points in StreamContainer for seeking
+title: "SeekOrigin Enum"
+linktitle: "SeekOrigin"
+articleTitle: "SeekOrigin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.SeekOrigin enum. Provides the fields that represent reference points in StreamContainer for seeking."
 type: docs
-weight: 37200
-url: /net/aspose.cad/seekorigin/
+weight: 810
+url: "/net/aspose.cad/seekorigin/"
+product_version: "26.9"
 ---
 ## SeekOrigin enumeration
 
-Provides the fields that represent reference points in [`StreamContainer`](../streamcontainer/) for seeking.
+Provides the fields that represent reference points in [`StreamContainer`](../../../aspose.cad/streamcontainer/) for seeking.
 
 ```csharp
 public enum SeekOrigin
@@ -24,7 +27,6 @@ public enum SeekOrigin
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

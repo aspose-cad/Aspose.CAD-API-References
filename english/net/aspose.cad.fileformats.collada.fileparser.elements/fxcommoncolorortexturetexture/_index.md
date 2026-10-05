@@ -1,10 +1,14 @@
 ---
-title: Class FxCommonColorOrTextureTexture
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.FxCommonColorOrTextureTexture class. The FX common color or texture texture
+title: "FxCommonColorOrTextureTexture Class"
+linktitle: "FxCommonColorOrTextureTexture"
+articleTitle: "FxCommonColorOrTextureTexture"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.FxCommonColorOrTextureTexture class. The FX common color or texture texture."
 type: docs
-weight: 7800
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/
+weight: 480
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/"
+keywords: "FxCommonColorOrTextureTexture, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## FxCommonColorOrTextureTexture class
 
@@ -24,14 +28,13 @@ public class FxCommonColorOrTextureTexture : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/extra/) { get; set; } | Gets or sets the extra. |
-| [Texture](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/texture/) { get; set; } | Gets or sets the texture. |
-| [TextureCoordinate](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/texturecoordinate/) { get; set; } | Gets or sets the texture coordinate. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/extra/) { get; set; } | Gets or sets the extra. |
+| [Texture](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/texture/) { get; set; } | Gets or sets the texture. |
+| [TextureCoordinate](../../aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/texturecoordinate/) { get; set; } | Gets or sets the texture coordinate. |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

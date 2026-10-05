@@ -1,10 +1,13 @@
 ---
-title: ObjVertexTextureIndex.TextureIndex
-second_title: Aspose.CAD for .NET API Reference
-description: ObjVertexTextureIndex property. Gets or sets the texture index
+title: "ObjVertexTextureIndex.TextureIndex"
+linktitle: "TextureIndex"
+articleTitle: "TextureIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjVertexTextureIndex property. Gets or sets the texture index."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.obj.vertexdata.index/objvertextextureindex/textureindex/
+url: "/net/aspose.cad.fileformats.obj.vertexdata.index/objvertextextureindex/textureindex/"
+product_version: "26.9"
 ---
 ## ObjVertexTextureIndex.TextureIndex property
 
@@ -16,8 +19,7 @@ public int TextureIndex { get; set; }
 
 ### See Also
 
-* class [ObjVertexTextureIndex](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../../aspose.cad.fileformats.obj.vertexdata.index/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjVertexTextureIndex](../)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../../aspose.cad.fileformats.obj.vertexdata.index/)
+* assembly [Aspose.CAD](../../../)
 

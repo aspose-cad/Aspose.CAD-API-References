@@ -1,12 +1,17 @@
 ---
-title: IfcCollection1.Count
-second_title: Aspose.CAD for .NET API Reference
-description: IfcCollection property. 
+title: "IfcCollection<T>.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcCollection property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.ifc/ifccollection-1/count/
+weight: 120
+url: "/net/aspose.cad.fileformats.ifc/ifccollection-1/count/"
+product_version: "26.9"
 ---
-## IfcCollection&lt;T&gt;.Count property
+## IfcCollection<T>.Count property
+
+
 
 ```csharp
 public int Count { get; }
@@ -14,8 +19,7 @@ public int Count { get; }
 
 ### See Also
 
-* class [IfcCollection&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcCollection&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

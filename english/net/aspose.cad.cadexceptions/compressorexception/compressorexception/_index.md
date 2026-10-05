@@ -1,10 +1,13 @@
 ---
-title: CompressorException.CompressorException
-second_title: Aspose.CAD for .NET API Reference
-description: CompressorException constructor. Initializes a new instance of the CompressorException class
+title: "CompressorException.CompressorException"
+linktitle: "CompressorException"
+articleTitle: "CompressorException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CompressorException constructor. Initializes a new instance of the CompressorException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions/compressorexception/compressorexception/
+url: "/net/aspose.cad.cadexceptions/compressorexception/compressorexception/"
+product_version: "26.9"
 ---
 ## CompressorException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public CompressorException(string message)
 
 ### See Also
 
-* class [CompressorException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
+* class [CompressorException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## CompressorException(string, Exception) {#constructor_1}
+## CompressorException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`CompressorException`](../) class.
 
@@ -41,8 +44,7 @@ public CompressorException(string message, Exception innerException)
 
 ### See Also
 
-* class [CompressorException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CompressorException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 

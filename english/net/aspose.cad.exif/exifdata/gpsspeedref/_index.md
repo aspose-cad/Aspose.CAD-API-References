@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSSpeedRef
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the unit used to express the GPS receiver speed of movement
+title: "ExifData.GPSSpeedRef"
+linktitle: "GPSSpeedRef"
+articleTitle: "GPSSpeedRef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the unit used to express the GPS receiver speed of movement."
 type: docs
-weight: 610
-url: /net/aspose.cad.exif/exifdata/gpsspeedref/
+weight: 630
+url: "/net/aspose.cad.exif/exifdata/gpsspeedref/"
+product_version: "26.9"
 ---
 ## ExifData.GPSSpeedRef property
 
@@ -20,8 +23,7 @@ The unit used to express the GPS receiver speed of movement.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

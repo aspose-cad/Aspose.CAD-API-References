@@ -1,10 +1,13 @@
 ---
-title: CF2OutputDescribing.FontSize
-second_title: Aspose.CAD for .NET API Reference
-description: CF2OutputDescribing property. The font size
+title: "CF2OutputDescribing.FontSize"
+linktitle: "FontSize"
+articleTitle: "FontSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2OutputDescribing property. The font size"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cf2/cf2outputdescribing/fontsize/
+weight: 20
+url: "/net/aspose.cad.fileformats.cf2/cf2outputdescribing/fontsize/"
+product_version: "26.9"
 ---
 ## CF2OutputDescribing.FontSize property
 
@@ -16,8 +19,7 @@ public float FontSize { get; set; }
 
 ### See Also
 
-* class [CF2OutputDescribing](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2OutputDescribing](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

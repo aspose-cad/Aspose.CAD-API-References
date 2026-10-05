@@ -1,10 +1,13 @@
 ---
-title: DgnViewInfo.ActiveZ
-second_title: Aspose.CAD for .NET API Reference
-description: DgnViewInfo property. Gets or sets the active z
+title: "DgnViewInfo.ActiveZ"
+linktitle: "ActiveZ"
+articleTitle: "ActiveZ"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnViewInfo property. Gets or sets the active z."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dgn/dgnviewinfo/activez/
+weight: 60
+url: "/net/aspose.cad.fileformats.dgn/dgnviewinfo/activez/"
+product_version: "26.9"
 ---
 ## DgnViewInfo.ActiveZ property
 
@@ -20,8 +23,7 @@ The active z.
 
 ### See Also
 
-* class [DgnViewInfo](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnViewInfo](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

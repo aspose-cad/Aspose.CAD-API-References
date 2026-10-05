@@ -1,12 +1,15 @@
 ---
-title: Struct MemoryImage
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.MemoryImage struct. Represents an image file stored as an inmemory byte array
+title: "MemoryImage Struct"
+linktitle: "MemoryImage"
+articleTitle: "MemoryImage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Memory.MemoryImage struct. Represents an image file stored as an in-memory byte array"
 type: docs
-weight: 11010
-url: /net/aspose.cad.fileformats.glb.memory/memoryimage/
+weight: 100
+url: "/net/aspose.cad.fileformats.glb.memory/memoryimage/"
+product_version: "26.9"
 ---
-## MemoryImage structure
+## MemoryImage struct
 
 Represents an image file stored as an in-memory byte array
 
@@ -18,49 +21,52 @@ public struct MemoryImage : IEquatable<MemoryImage>
 
 | Name | Description |
 | --- | --- |
-| [MemoryImage](memoryimage/#constructor_1)(ArraySegment&lt;byte&gt;) |  |
-| [MemoryImage](memoryimage/#constructor)(byte[]) |  |
-| [MemoryImage](memoryimage/#constructor_2)(Func&lt;ArraySegment&lt;byte&gt;&gt;) |  |
-| [MemoryImage](memoryimage/#constructor_3)(string) |  |
+| [MemoryImage](memoryimage/)(ArraySegment&lt;byte&gt;) | Initializes a new instance of the MemoryImage class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| static [Empty](../../aspose.cad.fileformats.glb.memory/memoryimage/empty/) { get; } |  |
-| [Content](../../aspose.cad.fileformats.glb.memory/memoryimage/content/) { get; } | Gets the file bytes of the image. |
-| [FileExtension](../../aspose.cad.fileformats.glb.memory/memoryimage/fileextension/) { get; } | Gets the most appropriate extension string for this image. |
-| [IsDds](../../aspose.cad.fileformats.glb.memory/memoryimage/isdds/) { get; } | Gets a value indicating whether this object represents a valid DDS image. |
-| [IsEmpty](../../aspose.cad.fileformats.glb.memory/memoryimage/isempty/) { get; } |  |
-| [IsExtendedFormat](../../aspose.cad.fileformats.glb.memory/memoryimage/isextendedformat/) { get; } | Gets a value indicating whether this object represents an image backed by a glTF extension. |
-| [IsJpg](../../aspose.cad.fileformats.glb.memory/memoryimage/isjpg/) { get; } | Gets a value indicating whether this object represents a valid JPG image. |
-| [IsKtx2](../../aspose.cad.fileformats.glb.memory/memoryimage/isktx2/) { get; } | Gets a value indicating whether this object represents a valid KTX2 image. |
-| [IsPng](../../aspose.cad.fileformats.glb.memory/memoryimage/ispng/) { get; } | Gets a value indicating whether this object represents a valid PNG image. |
-| [IsValid](../../aspose.cad.fileformats.glb.memory/memoryimage/isvalid/) { get; } | Gets a value indicating whether this object represents a valid image. |
-| [IsWebp](../../aspose.cad.fileformats.glb.memory/memoryimage/iswebp/) { get; } | Gets a value indicating whether this object represents a valid WEBP image. |
-| [MimeType](../../aspose.cad.fileformats.glb.memory/memoryimage/mimetype/) { get; } | Gets the most appropriate Mime type string for this image. |
-| [SourcePath](../../aspose.cad.fileformats.glb.memory/memoryimage/sourcepath/) { get; } | Gets the source path of this image, or **null**. |
+| Content { get; } | Gets the file bytes of the image. |
+| Empty { get; } |  |
+| FileExtension { get; } | Gets the most appropriate extension string for this image. |
+| IsDds { get; } | Gets a value indicating whether this object represents a valid DDS image. |
+| IsEmpty { get; } |  |
+| IsExtendedFormat { get; } | Gets a value indicating whether this object represents an image backed by a glTF extension. |
+| IsJpg { get; } | Gets a value indicating whether this object represents a valid JPG image. |
+| IsKtx2 { get; } | Gets a value indicating whether this object represents a valid KTX2 image. |
+| IsPng { get; } | Gets a value indicating whether this object represents a valid PNG image. |
+| IsValid { get; } | Gets a value indicating whether this object represents a valid image. |
+| IsWebp { get; } | Gets a value indicating whether this object represents a valid WEBP image. |
+| MimeType { get; } | Gets the most appropriate Mime type string for this image. |
+| SourcePath { get; } | Gets the source path of this image, or **null**. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Equals](../../aspose.cad.fileformats.glb.memory/memoryimage/equals/#equals)(MemoryImage) |  |
-| override [Equals](../../aspose.cad.fileformats.glb.memory/memoryimage/equals/#equals_1)(object) |  |
-| override [GetHashCode](../../aspose.cad.fileformats.glb.memory/memoryimage/gethashcode/)() |  |
-| [IsImageOfType](../../aspose.cad.fileformats.glb.memory/memoryimage/isimageoftype/)(string) | identifies an image of a specific type. |
-| [Open](../../aspose.cad.fileformats.glb.memory/memoryimage/open/)() | Opens the image file for reading its contents |
-| [SaveToFile](../../aspose.cad.fileformats.glb.memory/memoryimage/savetofile/)(string) | Saves the image stored in this `MemoryImage` to a file. |
-| [ToDebuggerDisplay](../../aspose.cad.fileformats.glb.memory/memoryimage/todebuggerdisplay/)() |  |
-| static [AreEqual](../../aspose.cad.fileformats.glb.memory/memoryimage/areequal/)(MemoryImage, MemoryImage) |  |
-| static [TryParseMime64](../../aspose.cad.fileformats.glb.memory/memoryimage/tryparsemime64/)(string, out MemoryImage) | Tries to parse a Mime64 string to `MemoryImage` |
-| [operator ==](../../aspose.cad.fileformats.glb.memory/memoryimage/op_equality/) |  |
-| [implicit operator](../../aspose.cad.fileformats.glb.memory/memoryimage/op_implicit/#op_implicit_1) |  (3 operators) |
-| [operator !=](../../aspose.cad.fileformats.glb.memory/memoryimage/op_inequality/) |  |
+| AreEqual(MemoryImage, MemoryImage) |  |
+| Equals(MemoryImage) |  |
+| Equals(object) |  |
+| GetHashCode() |  |
+| IsImageOfType(string) | identifies an image of a specific type. |
+| Open() | Opens the image file for reading its contents |
+| SaveToFile(string) | Saves the image stored in this `MemoryImage` to a file. |
+| ToDebuggerDisplay() |  |
+| TryParseMime64(string, out MemoryImage) | Tries to parse a Mime64 string to `MemoryImage` |
+
+## Operators
+
+| Name | Description |
+| --- | --- |
+| operator MemoryImage |  |
+| operator MemoryImage |  |
+| operator MemoryImage |  |
+| operator == |  |
+| operator != |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
+* assembly [Aspose.CAD](../../)
 

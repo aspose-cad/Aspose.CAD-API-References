@@ -1,12 +1,17 @@
 ---
-title: ImageBuilder.AreEqualByContent
-second_title: Aspose.CAD for .NET API Reference
-description: ImageBuilder method. 
+title: "ImageBuilder.AreEqualByContent"
+linktitle: "AreEqualByContent"
+articleTitle: "AreEqualByContent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageBuilder method."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb.materials/imagebuilder/areequalbycontent/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb.materials/imagebuilder/areequalbycontent/"
+product_version: "26.9"
 ---
 ## ImageBuilder.AreEqualByContent method
+
+
 
 ```csharp
 public static bool AreEqualByContent(ImageBuilder x, ImageBuilder y)
@@ -14,8 +19,7 @@ public static bool AreEqualByContent(ImageBuilder x, ImageBuilder y)
 
 ### See Also
 
-* class [ImageBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ImageBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

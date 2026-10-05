@@ -1,10 +1,13 @@
 ---
-title: Enum ColorQuantizationMethod
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ColorQuantizationMethod enum. Colors quantization methods
+title: "ColorQuantizationMethod Enum"
+linktitle: "ColorQuantizationMethod"
+articleTitle: "ColorQuantizationMethod"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ColorQuantizationMethod enum. Colors quantization methods"
 type: docs
-weight: 450
-url: /net/aspose.cad/colorquantizationmethod/
+weight: 160
+url: "/net/aspose.cad/colorquantizationmethod/"
+product_version: "26.9"
 ---
 ## ColorQuantizationMethod enumeration
 
@@ -23,7 +26,6 @@ public enum ColorQuantizationMethod
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

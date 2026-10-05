@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.PlotStyleFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets a value the current plot style of the entity
+title: "CadEntityBase.PlotStyleFlag"
+linktitle: "PlotStyleFlag"
+articleTitle: "PlotStyleFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets a value the current plot style of the entity"
 type: docs
-weight: 250
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyleflag/
+weight: 320
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyleflag/"
+product_version: "26.9"
 ---
 ## CadEntityBase.PlotStyleFlag property
 
@@ -16,16 +19,19 @@ public byte PlotStyleFlag { get; set; }
 
 ### Property Value
 
-0 - ByLayer, 1 - ByBlock, 3 - Set based on PLACEHOLDER object
+0 - ByLayer,
+
+ 1 - ByBlock,
+
+ 3 - Set based on `PLACEHOLDER` object
 
 ## Remarks
 
-This property is always 0 for versions earlier than AC1015.
+This property is always 0 for versions earlier than `AC1015`.
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

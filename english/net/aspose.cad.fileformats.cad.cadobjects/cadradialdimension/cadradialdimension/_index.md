@@ -1,10 +1,13 @@
 ---
-title: CadRadialDimension.CadRadialDimension
-second_title: Aspose.CAD for .NET API Reference
-description: CadRadialDimension constructor. Initializes a new instance of the CadRadialDimension class
+title: "CadRadialDimension.CadRadialDimension"
+linktitle: "CadRadialDimension"
+articleTitle: "CadRadialDimension"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRadialDimension constructor. Initializes a new instance of the CadRadialDimension class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadradialdimension/cadradialdimension/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadradialdimension/cadradialdimension/"
+product_version: "26.9"
 ---
 ## CadRadialDimension constructor
 
@@ -16,8 +19,7 @@ public CadRadialDimension()
 
 ### See Also
 
-* class [CadRadialDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRadialDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

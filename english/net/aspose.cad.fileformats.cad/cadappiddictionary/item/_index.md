@@ -1,10 +1,13 @@
 ---
-title: CadAppIdDictionary.Item
-second_title: Aspose.CAD for .NET API Reference
-description: CadAppIdDictionary property. Gets or sets the CadAppIdTableObject with the specified key
+title: "CadAppIdDictionary.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAppIdDictionary property. Gets or sets the CadAppIdTableObject with the specified key."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad/cadappiddictionary/item/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad/cadappiddictionary/item/"
+product_version: "26.9"
 ---
 ## CadAppIdDictionary indexer
 
@@ -28,9 +31,8 @@ The [`CadAppIdTableObject`](../../../aspose.cad.fileformats.cad.cadtables/cadapp
 
 ### See Also
 
-* class [CadAppIdTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadappidtableobject/)
-* class [CadAppIdDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAppIdTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadappidtableobject/)
+* class [CadAppIdDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

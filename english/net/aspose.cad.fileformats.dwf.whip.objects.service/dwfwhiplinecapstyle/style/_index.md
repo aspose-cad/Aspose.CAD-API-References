@@ -1,10 +1,13 @@
 ---
-title: DwfWhipLineCapStyle.Style
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipLineCapStyle property. Gets cap style
+title: "DwfWhipLineCapStyle.Style"
+linktitle: "Style"
+articleTitle: "Style"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipLineCapStyle property. Gets cap style"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinecapstyle/style/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinecapstyle/style/"
+product_version: "26.9"
 ---
 ## DwfWhipLineCapStyle.Style property
 
@@ -16,9 +19,8 @@ public DwfWhipCapStyleID Style { get; }
 
 ### See Also
 
-* enum [DwfWhipCapStyleID](../../dwfwhipcapstyleid/)
-* class [DwfWhipLineCapStyle](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [DwfWhipCapStyleID](../../dwfwhipcapstyleid/)
+* class [DwfWhipLineCapStyle](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadDimensionDictionary.KeysTyped
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionDictionary property. Gets the strongly typed collection of keys
+title: "CadDimensionDictionary.KeysTyped"
+linktitle: "KeysTyped"
+articleTitle: "KeysTyped"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionDictionary property. Gets the strongly typed collection of keys."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad/caddimensiondictionary/keystyped/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad/caddimensiondictionary/keystyped/"
+product_version: "26.9"
 ---
 ## CadDimensionDictionary.KeysTyped property
 
@@ -20,8 +23,7 @@ The strongly typed keys collection.
 
 ### See Also
 
-* class [CadDimensionDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

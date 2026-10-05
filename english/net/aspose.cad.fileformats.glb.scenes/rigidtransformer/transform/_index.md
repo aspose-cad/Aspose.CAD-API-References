@@ -1,12 +1,17 @@
 ---
-title: RigidTransformer.Transform
-second_title: Aspose.CAD for .NET API Reference
-description: RigidTransformer property. 
+title: "RigidTransformer.Transform"
+linktitle: "Transform"
+articleTitle: "Transform"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RigidTransformer property."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.glb.scenes/rigidtransformer/transform/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb.scenes/rigidtransformer/transform/"
+product_version: "26.9"
 ---
 ## RigidTransformer.Transform property
+
+
 
 ```csharp
 public NodeBuilder Transform { get; set; }
@@ -14,9 +19,8 @@ public NodeBuilder Transform { get; set; }
 
 ### See Also
 
-* class [NodeBuilder](../../nodebuilder/)
-* class [RigidTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NodeBuilder](../../nodebuilder/)
+* class [RigidTransformer](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

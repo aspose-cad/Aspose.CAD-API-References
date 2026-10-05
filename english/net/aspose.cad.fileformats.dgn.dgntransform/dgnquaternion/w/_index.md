@@ -1,10 +1,13 @@
 ---
-title: DgnQuaternion.W
-second_title: Aspose.CAD for .NET API Reference
-description: DgnQuaternion property. Gets the w
+title: "DgnQuaternion.W"
+linktitle: "W"
+articleTitle: "W"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnQuaternion property. Gets the w."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/w/
+weight: 60
+url: "/net/aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/w/"
+product_version: "26.9"
 ---
 ## DgnQuaternion.W property
 
@@ -20,8 +23,7 @@ The w value.
 
 ### See Also
 
-* class [DgnQuaternion](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnQuaternion](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
+* assembly [Aspose.CAD](../../../)
 

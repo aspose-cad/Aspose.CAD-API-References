@@ -1,14 +1,18 @@
 ---
-title: GlbData.CreateCamera
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a new Camera instance. and appends it to LogicalCameras
+title: "GlbData.CreateCamera"
+linktitle: "CreateCamera"
+articleTitle: "CreateCamera"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Creates a new Camera instance. and appends it to LogicalCameras."
 type: docs
-weight: 310
-url: /net/aspose.cad.fileformats.glb/glbdata/createcamera/
+weight: 140
+url: "/net/aspose.cad.fileformats.glb/glbdata/createcamera/"
+product_version: "26.9"
 ---
 ## GlbData.CreateCamera method
 
-Creates a new [`Camera`](../../camera/) instance. and appends it to [`LogicalCameras`](../logicalcameras/).
+Creates a new [`Camera`](../../camera/) instance.
+ and appends it to [`LogicalCameras`](../logicalcameras/).
 
 ```csharp
 public Camera CreateCamera(string name = null)
@@ -24,9 +28,8 @@ A [`Camera`](../../camera/) instance.
 
 ### See Also
 
-* class [Camera](../../camera/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Camera](../../camera/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

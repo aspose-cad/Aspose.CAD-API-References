@@ -1,10 +1,13 @@
 ---
-title: Canvas.Canvas
-second_title: Aspose.CAD for .NET API Reference
-description: Canvas constructor. Initializes a new instance of the Canvas class
+title: "Canvas.Canvas"
+linktitle: "Canvas"
+articleTitle: "Canvas"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Canvas constructor. Initializes a new instance of the Canvas class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/canvas/canvas/
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/canvas/canvas/"
+product_version: "26.9"
 ---
 ## Canvas constructor
 
@@ -16,8 +19,7 @@ public Canvas()
 
 ### See Also
 
-* class [Canvas](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Canvas](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

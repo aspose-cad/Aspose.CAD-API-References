@@ -1,10 +1,13 @@
 ---
-title: CadTrace.CadTrace
-second_title: Aspose.CAD for .NET API Reference
-description: CadTrace constructor. Initializes a new instance of the CadTrace class
+title: "CadTrace.CadTrace"
+linktitle: "CadTrace"
+articleTitle: "CadTrace"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTrace constructor. Initializes a new instance of the CadTrace class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadtrace/cadtrace/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadtrace/cadtrace/"
+product_version: "26.9"
 ---
 ## CadTrace constructor
 
@@ -16,8 +19,7 @@ public CadTrace()
 
 ### See Also
 
-* class [CadTrace](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTrace](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

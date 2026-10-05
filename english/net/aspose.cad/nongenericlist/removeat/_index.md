@@ -1,14 +1,17 @@
 ---
-title: NonGenericList.RemoveAt
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericList method. Removes the IList item at the specified index
+title: "NonGenericList.RemoveAt"
+linktitle: "RemoveAt"
+articleTitle: "RemoveAt"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericList method. Removes the IList item at the specified index."
 type: docs
-weight: 160
-url: /net/aspose.cad/nongenericlist/removeat/
+weight: 80
+url: "/net/aspose.cad/nongenericlist/removeat/"
+product_version: "26.9"
 ---
 ## NonGenericList.RemoveAt method
 
-Removes the IList item at the specified index.
+Removes the `IList` item at the specified index.
 
 ```csharp
 public void RemoveAt(int index)
@@ -20,8 +23,7 @@ public void RemoveAt(int index)
 
 ### See Also
 
-* class [NonGenericList](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericList](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

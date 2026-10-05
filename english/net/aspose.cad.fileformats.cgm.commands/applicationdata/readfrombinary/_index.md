@@ -1,12 +1,17 @@
 ---
-title: ApplicationData.ReadFromBinary
-second_title: Aspose.CAD for .NET API Reference
-description: ApplicationData method. 
+title: "ApplicationData.ReadFromBinary"
+linktitle: "ReadFromBinary"
+articleTitle: "ReadFromBinary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ApplicationData method."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cgm.commands/applicationdata/readfrombinary/
+weight: 30
+url: "/net/aspose.cad.fileformats.cgm.commands/applicationdata/readfrombinary/"
+product_version: "26.9"
 ---
 ## ApplicationData.ReadFromBinary method
+
+
 
 ```csharp
 public override void ReadFromBinary(IBinaryReader reader)
@@ -14,9 +19,8 @@ public override void ReadFromBinary(IBinaryReader reader)
 
 ### See Also
 
-* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
-* class [ApplicationData](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
+* class [ApplicationData](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

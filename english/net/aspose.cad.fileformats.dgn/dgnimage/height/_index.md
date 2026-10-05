@@ -1,14 +1,19 @@
 ---
-title: DgnImage.Height
-second_title: Aspose.CAD for .NET API Reference
-description: DgnImage property. Gets the image height. Defines the Yaxis distance between the bottommost point of all graphical objects in the image and their topmost point. The distance is measured in units corresponding to the value of the property UnitType
+title: "DgnImage.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnImage property. Gets the image height. Defines the Y-axis distance between the bottommost point of all graphical objects in the image and their topmost po..."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.dgn/dgnimage/height/
+weight: 110
+url: "/net/aspose.cad.fileformats.dgn/dgnimage/height/"
+product_version: "26.9"
 ---
 ## DgnImage.Height property
 
-Gets the image height. Defines the Y-axis distance between the bottommost point of all graphical objects in the image and their topmost point. The distance is measured in units corresponding to the value of the property [`UnitType`](../../../aspose.cad/image/unittype/)
+Gets the image height.
+ Defines the Y-axis distance between the bottommost point of all graphical objects in the image and their topmost point.
+ The distance is measured in units corresponding to the value of the property [`UnitType`](../../../aspose.cad/image/unittype/)
 
 ```csharp
 public override int Height { get; }
@@ -41,8 +46,7 @@ using (DgnImage image = (DgnImage) Image.Load(inStream))
 
 ### See Also
 
-* class [DgnImage](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnImage](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

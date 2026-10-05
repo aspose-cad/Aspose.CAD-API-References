@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.SampleFormat
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the sample format
+title: "TiffOptions.SampleFormat"
+linktitle: "SampleFormat"
+articleTitle: "SampleFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the sample format."
 type: docs
-weight: 340
-url: /net/aspose.cad.imageoptions/tiffoptions/sampleformat/
+weight: 430
+url: "/net/aspose.cad.imageoptions/tiffoptions/sampleformat/"
+product_version: "26.9"
 ---
 ## TiffOptions.SampleFormat property
 
@@ -27,9 +30,8 @@ The sample format.
 
 ### See Also
 
-* enum [TiffSampleFormats](../../../aspose.cad.fileformats.tiff.enums/tiffsampleformats/)
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [TiffSampleFormats](../../../aspose.cad.fileformats.tiff.enums/tiffsampleformats/)
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

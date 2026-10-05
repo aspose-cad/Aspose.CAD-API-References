@@ -1,10 +1,13 @@
 ---
-title: CadSunStudyDate.SecondsPastMidnight
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunStudyDate property. Gets or sets the seconds past midnight
+title: "CadSunStudyDate.SecondsPastMidnight"
+linktitle: "SecondsPastMidnight"
+articleTitle: "SecondsPastMidnight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunStudyDate property. Gets or sets the seconds past midnight."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudydate/secondspastmidnight/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudydate/secondspastmidnight/"
+product_version: "26.9"
 ---
 ## CadSunStudyDate.SecondsPastMidnight property
 
@@ -20,8 +23,7 @@ The seconds past midnight.
 
 ### See Also
 
-* class [CadSunStudyDate](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunStudyDate](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
+* assembly [Aspose.CAD](../../../)
 

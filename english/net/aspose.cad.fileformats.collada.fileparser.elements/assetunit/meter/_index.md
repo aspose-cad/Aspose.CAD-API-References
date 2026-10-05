@@ -1,14 +1,19 @@
 ---
-title: AssetUnit.Meter
-second_title: Aspose.CAD for .NET API Reference
-description: AssetUnit property. Gets or sets the meter. The meter attribute specifies the measurement with respect to the meter. The default value for the meter attribute is 1.0
+title: "AssetUnit.Meter"
+linktitle: "Meter"
+articleTitle: "Meter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AssetUnit property. Gets or sets the meter. The meter attribute specifies the measurement with respect to the meter. The default value for the meter attribut..."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/assetunit/meter/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/assetunit/meter/"
+product_version: "26.9"
 ---
 ## AssetUnit.Meter property
 
-Gets or sets the meter. The meter attribute specifies the measurement with respect to the meter. The default value for the meter attribute is "1.0".
+Gets or sets the meter.
+ The meter attribute specifies the measurement with respect to the meter.
+ The default value for the meter attribute is "1.0".
 
 ```csharp
 public double Meter { get; set; }
@@ -16,8 +21,7 @@ public double Meter { get; set; }
 
 ### See Also
 
-* class [AssetUnit](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AssetUnit](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

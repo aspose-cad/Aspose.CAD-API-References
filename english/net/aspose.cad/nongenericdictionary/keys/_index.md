@@ -1,14 +1,19 @@
 ---
-title: NonGenericDictionary.Keys
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericDictionary property. Gets an ICollection object containing the keys of the IDictionary object
+title: "NonGenericDictionary.Keys"
+linktitle: "Keys"
+articleTitle: "Keys"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericDictionary property. Gets an ICollection object containing the keys of the IDictionary object."
 type: docs
-weight: 70
-url: /net/aspose.cad/nongenericdictionary/keys/
+weight: 100
+url: "/net/aspose.cad/nongenericdictionary/keys/"
+product_version: "26.9"
 ---
 ## NonGenericDictionary.Keys property
 
-Gets an ICollection object containing the keys of the IDictionary object.
+Gets an 
+ `ICollection` object containing the keys of the 
+ `IDictionary` object.
 
 ```csharp
 public ICollection Keys { get; }
@@ -16,12 +21,11 @@ public ICollection Keys { get; }
 
 ### Return Value
 
-An ICollection object containing the keys of the IDictionary object.
+An `ICollection` object containing the keys of the `IDictionary` object.
 
 ### See Also
 
-* class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericDictionary](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

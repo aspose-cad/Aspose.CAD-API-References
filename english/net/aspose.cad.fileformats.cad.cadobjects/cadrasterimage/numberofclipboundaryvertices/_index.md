@@ -1,10 +1,13 @@
 ---
-title: CadRasterImage.NumberOfClipBoundaryVertices
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImage property. Gets or sets the number of clip boundary vertices
+title: "CadRasterImage.NumberOfClipBoundaryVertices"
+linktitle: "NumberOfClipBoundaryVertices"
+articleTitle: "NumberOfClipBoundaryVertices"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImage property. Gets or sets the number of clip boundary vertices."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/numberofclipboundaryvertices/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/numberofclipboundaryvertices/"
+product_version: "26.9"
 ---
 ## CadRasterImage.NumberOfClipBoundaryVertices property
 
@@ -20,8 +23,7 @@ The number of clip boundary vertices.
 
 ### See Also
 
-* class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

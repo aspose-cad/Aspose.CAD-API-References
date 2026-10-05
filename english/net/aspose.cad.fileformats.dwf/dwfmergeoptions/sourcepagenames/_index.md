@@ -1,14 +1,18 @@
 ---
-title: DwfMergeOptions.SourcePageNames
-second_title: Aspose.CAD for .NET API Reference
-description: DwfMergeOptions property. Gets or sets the source DWF image page names that will be merge with DWF image. If not set will be merged all pages
+title: "DwfMergeOptions.SourcePageNames"
+linktitle: "SourcePageNames"
+articleTitle: "SourcePageNames"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfMergeOptions property. Gets or sets the source DWF image page names that will be merge with DWF image. If not set, will be merged all pages."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.dwf/dwfmergeoptions/sourcepagenames/
+url: "/net/aspose.cad.fileformats.dwf/dwfmergeoptions/sourcepagenames/"
+product_version: "26.9"
 ---
 ## DwfMergeOptions.SourcePageNames property
 
-Gets or sets the source DWF image page names that will be merge with DWF image. If not set, will be merged all pages.
+Gets or sets the source DWF image page names that will be merge with DWF image.
+ If not set, will be merged all pages.
 
 ```csharp
 public string[] SourcePageNames { get; set; }
@@ -16,8 +20,7 @@ public string[] SourcePageNames { get; set; }
 
 ### See Also
 
-* class [DwfMergeOptions](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfMergeOptions](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SummaryInfoData.Keywords
-second_title: Aspose.CAD for .NET API Reference
-description: SummaryInfoData property. Gets or sets the keywords
+title: "SummaryInfoData.Keywords"
+linktitle: "Keywords"
+articleTitle: "Keywords"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SummaryInfoData property. Gets or sets the keywords."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/keywords/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/keywords/"
+product_version: "26.9"
 ---
 ## SummaryInfoData.Keywords property
 
@@ -20,8 +23,7 @@ The keywords.
 
 ### See Also
 
-* class [SummaryInfoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
+* assembly [Aspose.CAD](../../../)
 

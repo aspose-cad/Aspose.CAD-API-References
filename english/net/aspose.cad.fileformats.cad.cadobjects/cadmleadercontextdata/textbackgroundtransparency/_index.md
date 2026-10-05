@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.TextBackgroundTransparency
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets text background transparency
+title: "CadMLeaderContextData.TextBackgroundTransparency"
+linktitle: "TextBackgroundTransparency"
+articleTitle: "TextBackgroundTransparency"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets text background transparency."
 type: docs
 weight: 280
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textbackgroundtransparency/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textbackgroundtransparency/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.TextBackgroundTransparency property
 
@@ -20,8 +23,7 @@ Text background transparency.
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

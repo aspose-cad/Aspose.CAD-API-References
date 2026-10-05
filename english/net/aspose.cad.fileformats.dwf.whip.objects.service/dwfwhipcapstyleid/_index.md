@@ -1,10 +1,13 @@
 ---
-title: Enum DwfWhipCapStyleID
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipCapStyleID enum. Represents An enumeration of cap styles used by WT_Line_End_Cap WT_Line_Start_Cap WT_Dash_End_Cap and WT_Dash_Start_Cap
+title: "DwfWhipCapStyleID Enum"
+linktitle: "DwfWhipCapStyleID"
+articleTitle: "DwfWhipCapStyleID"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipCapStyleID enum. Represents An enumeration of cap styles used by WT_Line_End_Cap, WT_Line_Start_Cap, W..."
 type: docs
-weight: 9950
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipcapstyleid/
+weight: 20
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipcapstyleid/"
+product_version: "26.9"
 ---
 ## DwfWhipCapStyleID enumeration
 
@@ -27,7 +30,6 @@ public enum DwfWhipCapStyleID
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../)
 

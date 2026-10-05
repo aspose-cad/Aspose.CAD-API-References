@@ -1,10 +1,14 @@
 ---
-title: Class DgnTagValueElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnTagValueElement class. Represents Tag Value element
+title: "DgnTagValueElement Class"
+linktitle: "DgnTagValueElement"
+articleTitle: "DgnTagValueElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnTagValueElement class. Represents 'Tag Value' element"
 type: docs
-weight: 9030
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/
+weight: 310
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/"
+keywords: "DgnTagValueElement, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnTagValueElement class
 
@@ -18,18 +22,17 @@ public class DgnTagValueElement : DgnElementBase
 
 | Name | Description |
 | --- | --- |
-| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
-| [TagIndex](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tagindex/) { get; } | Gets tag index |
-| [TagLength](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/taglength/) { get; } | Gets tag length |
-| [TagSet](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tagset/) { get; } | Gets tag set |
-| [TagValue](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tagvalue/) { get; set; } | Gets or sets the tag value. |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
+| [TagIndex](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tagindex/) { get; } | Gets tag index |
+| [TagLength](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/taglength/) { get; } | Gets tag length |
+| [TagSet](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tagset/) { get; } | Gets tag set |
+| [TagValue](../../aspose.cad.fileformats.dgn.dgnelements/dgntagvalueelement/tagvalue/) { get; set; } | Gets or sets the tag value. |
 
 ### See Also
 
-* class [DgnElementBase](../dgnelementbase/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* class [DgnElementBase](../dgnelementbase/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

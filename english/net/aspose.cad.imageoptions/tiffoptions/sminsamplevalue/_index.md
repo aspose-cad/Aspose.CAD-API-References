@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.SminSampleValue
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the min sample value. The value has a field type which best matches the sample data Byte Short or Long type
+title: "TiffOptions.SminSampleValue"
+linktitle: "SminSampleValue"
+articleTitle: "SminSampleValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the min sample value. The value has a field type which best matches the sample data (Byte, Short or Long type)."
 type: docs
-weight: 390
-url: /net/aspose.cad.imageoptions/tiffoptions/sminsamplevalue/
+weight: 460
+url: "/net/aspose.cad.imageoptions/tiffoptions/sminsamplevalue/"
+product_version: "26.9"
 ---
 ## TiffOptions.SminSampleValue property
 
@@ -20,8 +23,7 @@ The min sample value.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

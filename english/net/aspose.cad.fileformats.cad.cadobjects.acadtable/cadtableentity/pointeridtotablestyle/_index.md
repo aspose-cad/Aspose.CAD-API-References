@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.PointerIdTotablestyle
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. Gets or sets the pointer id totablestyle
+title: "CadTableEntity.PointerIdTotablestyle"
+linktitle: "PointerIdTotablestyle"
+articleTitle: "PointerIdTotablestyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. Gets or sets the pointer id totablestyle."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointeridtotablestyle/
+weight: 200
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/pointeridtotablestyle/"
+product_version: "26.9"
 ---
 ## CadTableEntity.PointerIdTotablestyle property
 
@@ -16,8 +19,7 @@ public string PointerIdTotablestyle { get; set; }
 
 ### See Also
 
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

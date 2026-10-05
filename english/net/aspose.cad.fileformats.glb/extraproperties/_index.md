@@ -1,10 +1,14 @@
 ---
-title: Class ExtraProperties
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.ExtraProperties class. Represents the base class for all glTF 2 Schema objects
+title: "ExtraProperties Class"
+linktitle: "ExtraProperties"
+articleTitle: "ExtraProperties"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.ExtraProperties class. Represents the base class for all glTF 2 Schema objects."
 type: docs
-weight: 10380
-url: /net/aspose.cad.fileformats.glb/extraproperties/
+weight: 180
+url: "/net/aspose.cad.fileformats.glb/extraproperties/"
+keywords: "ExtraProperties, Aspose.CAD.FileFormats.GLB, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ExtraProperties class
 
@@ -18,8 +22,8 @@ public abstract class ExtraProperties : JsonSerializable
 
 | Name | Description |
 | --- | --- |
-| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
-| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
+| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
+| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
 
 ## Methods
 
@@ -37,8 +41,7 @@ Defines the [`Extras`](./extras/) property for every glTF object.
 
 ### See Also
 
-* class [JsonSerializable](../../aspose.cad.fileformats.glb.io/jsonserializable/)
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* class [JsonSerializable](../../aspose.cad.fileformats.glb.io/jsonserializable/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

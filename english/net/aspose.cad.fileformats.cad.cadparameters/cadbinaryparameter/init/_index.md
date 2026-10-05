@@ -1,10 +1,13 @@
 ---
-title: CadBinaryParameter.Init
-second_title: Aspose.CAD for .NET API Reference
-description: CadBinaryParameter method. Initialize the specified value
+title: "CadBinaryParameter.Init"
+linktitle: "Init"
+articleTitle: "Init"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBinaryParameter method. Initialize the specified value."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadparameters/cadbinaryparameter/init/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadparameters/cadbinaryparameter/init/"
+product_version: "26.9"
 ---
 ## CadBinaryParameter.Init method
 
@@ -20,9 +23,8 @@ public override void Init(CadCodeValue value)
 
 ### See Also
 
-* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
-* class [CadBinaryParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
+* class [CadBinaryParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
+* assembly [Aspose.CAD](../../../)
 

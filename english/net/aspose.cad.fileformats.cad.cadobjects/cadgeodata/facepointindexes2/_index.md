@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.FacePointIndexes2
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the face point indexes2
+title: "CadGeoData.FacePointIndexes2"
+linktitle: "FacePointIndexes2"
+articleTitle: "FacePointIndexes2"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the face point indexes2."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/facepointindexes2/
+weight: 280
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/facepointindexes2/"
+product_version: "26.9"
 ---
 ## CadGeoData.FacePointIndexes2 property
 
@@ -20,8 +23,7 @@ The face point indexes2.
 
 ### See Also
 
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

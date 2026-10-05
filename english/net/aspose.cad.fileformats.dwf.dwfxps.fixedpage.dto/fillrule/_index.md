@@ -1,14 +1,21 @@
 ---
-title: Enum FillRule
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.FillRule enum. The fill rule. The FillRule attribute specifies a fill algorithm. The filling area of a geometry is defined by taking all of the contained path figures and applying the fill algorithm to determine the enclosed area. Fill algorithms determine how the intersecting areas of geometric shapes are combined to form a region
+title: "FillRule Enum"
+linktitle: "FillRule"
+articleTitle: "FillRule"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.FillRule enum. The fill rule. The FillRule attribute specifies a fill algorithm. The filling area of a geomet..."
 type: docs
-weight: 9320
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/fillrule/
+weight: 80
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/fillrule/"
+product_version: "26.9"
 ---
 ## FillRule enumeration
 
-The fill rule. The FillRule attribute specifies a fill algorithm. The filling area of a geometry is defined by taking all of the contained path figures and applying the fill algorithm to determine the enclosed area. Fill algorithms determine how the intersecting areas of geometric shapes are combined to form a region.
+The fill rule.
+ The FillRule attribute specifies a fill algorithm.
+ The filling area of a geometry is defined by taking all
+ of the contained path figures and applying the fill algorithm to determine the enclosed area.
+ Fill algorithms determine how the intersecting areas of geometric shapes are combined to form a region.
 
 ```csharp
 public enum FillRule
@@ -23,7 +30,6 @@ public enum FillRule
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

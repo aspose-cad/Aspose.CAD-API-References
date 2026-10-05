@@ -1,10 +1,13 @@
 ---
-title: Enum ExifFileSource
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifFileSource enum. exif file source enum
+title: "ExifFileSource Enum"
+linktitle: "ExifFileSource"
+articleTitle: "ExifFileSource"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifFileSource enum. exif file source enum."
 type: docs
-weight: 580
-url: /net/aspose.cad.exif.enums/exiffilesource/
+weight: 70
+url: "/net/aspose.cad.exif.enums/exiffilesource/"
+product_version: "26.9"
 ---
 ## ExifFileSource enumeration
 
@@ -25,7 +28,6 @@ public enum ExifFileSource : byte
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

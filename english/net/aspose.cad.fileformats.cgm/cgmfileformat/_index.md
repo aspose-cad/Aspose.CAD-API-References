@@ -1,10 +1,13 @@
 ---
-title: Enum CgmFileFormat
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.CgmFileFormat enum. Type of the cgm file format
+title: "CgmFileFormat Enum"
+linktitle: "CgmFileFormat"
+articleTitle: "CgmFileFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.CgmFileFormat enum. Type of the cgm file format"
 type: docs
-weight: 4620
-url: /net/aspose.cad.fileformats.cgm/cgmfileformat/
+weight: 30
+url: "/net/aspose.cad.fileformats.cgm/cgmfileformat/"
+product_version: "26.9"
 ---
 ## CgmFileFormat enumeration
 
@@ -23,7 +26,6 @@ public enum CgmFileFormat
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm](../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm](../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../)
 

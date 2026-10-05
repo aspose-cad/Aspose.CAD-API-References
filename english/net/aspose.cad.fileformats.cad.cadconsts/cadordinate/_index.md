@@ -1,10 +1,13 @@
 ---
-title: Enum CadOrdinate
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadOrdinate enum. Cad Ordinate position
+title: "CadOrdinate Enum"
+linktitle: "CadOrdinate"
+articleTitle: "CadOrdinate"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadOrdinate enum. Cad Ordinate position"
 type: docs
-weight: 1460
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadordinate/
+weight: 400
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadordinate/"
+product_version: "26.9"
 ---
 ## CadOrdinate enumeration
 
@@ -23,7 +26,6 @@ public enum CadOrdinate
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadApplicationCodesContainer.GetCodes
-second_title: Aspose.CAD for .NET API Reference
-description: CadApplicationCodesContainer method. Gets the codes
+title: "CadApplicationCodesContainer.GetCodes"
+linktitle: "GetCodes"
+articleTitle: "GetCodes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadApplicationCodesContainer method. Gets the codes."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodescontainer/getcodes/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodescontainer/getcodes/"
+product_version: "26.9"
 ---
 ## CadApplicationCodesContainer.GetCodes method
 
@@ -25,9 +28,8 @@ The Application Codes
 
 ### See Also
 
-* class [CadApplicationCodes](../../cadapplicationcodes/)
-* class [CadApplicationCodesContainer](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadApplicationCodes](../../cadapplicationcodes/)
+* class [CadApplicationCodesContainer](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

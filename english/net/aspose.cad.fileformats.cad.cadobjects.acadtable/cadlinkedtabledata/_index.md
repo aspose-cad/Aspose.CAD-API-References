@@ -1,10 +1,14 @@
 ---
-title: Class CadLinkedTableData
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable.CadLinkedTableData class. The cad linked table data
+title: "CadLinkedTableData Class"
+linktitle: "CadLinkedTableData"
+articleTitle: "CadLinkedTableData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable.CadLinkedTableData class. The cad linked table data"
 type: docs
-weight: 1710
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadlinkedtabledata/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadlinkedtabledata/"
+keywords: "CadLinkedTableData, Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadLinkedTableData class
 
@@ -24,13 +28,12 @@ public class CadLinkedTableData
 
 | Name | Description |
 | --- | --- |
-| [Columns](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadlinkedtabledata/columns/) { get; set; } | The linked table columns data |
-| [NumberOfCellThatContainsFieldRefs](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadlinkedtabledata/numberofcellthatcontainsfieldrefs/) { get; set; } |  |
-| [Rows](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadlinkedtabledata/rows/) { get; set; } | The linked table rows data |
+| [Columns](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadlinkedtabledata/columns/) { get; set; } | The linked table columns data |
+| [NumberOfCellThatContainsFieldRefs](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadlinkedtabledata/numberofcellthatcontainsfieldrefs/) { get; set; } |  |
+| [Rows](../../aspose.cad.fileformats.cad.cadobjects.acadtable/cadlinkedtabledata/rows/) { get; set; } | The linked table rows data |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum ResourceBlock.ResourceBlockState
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Psd.ResourceBlockResourceBlockState enum. Represents resource block state
+title: "ResourceBlock.ResourceBlockState Enum"
+linktitle: "ResourceBlock.ResourceBlockState"
+articleTitle: "ResourceBlock.ResourceBlockState"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Psd.ResourceBlock.ResourceBlockState enum. Represents resource block state."
 type: docs
-weight: 34120
-url: /net/aspose.cad.fileformats.psd/resourceblock.resourceblockstate/
+weight: 50
+url: "/net/aspose.cad.fileformats.psd/resourceblock.resourceblockstate/"
+product_version: "26.9"
 ---
 ## ResourceBlock.ResourceBlockState enumeration
 
@@ -23,8 +26,7 @@ public enum ResourceBlockState
 
 ### See Also
 
-* class [ResourceBlock](../resourceblock/)
-* namespace [Aspose.CAD.FileFormats.Psd](../../aspose.cad.fileformats.psd/)
-* assembly [Aspose.CAD](../../)
-
+* class [ResourceBlock](../resourceblock/)
+* namespace [Aspose.CAD.FileFormats.Psd](../../aspose.cad.fileformats.psd/)
+* assembly [Aspose.CAD](../../)
 

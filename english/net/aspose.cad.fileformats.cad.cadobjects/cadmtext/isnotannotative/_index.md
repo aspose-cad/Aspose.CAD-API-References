@@ -1,10 +1,13 @@
 ---
-title: CadMText.IsNotAnnotative
-second_title: Aspose.CAD for .NET API Reference
-description: CadMText property. Gets or sets the not annotative
+title: "CadMText.IsNotAnnotative"
+linktitle: "IsNotAnnotative"
+articleTitle: "IsNotAnnotative"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMText property. Gets or sets the not annotative."
 type: docs
-weight: 460
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/isnotannotative/
+weight: 560
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmtext/isnotannotative/"
+product_version: "26.9"
 ---
 ## CadMText.IsNotAnnotative property
 
@@ -16,8 +19,7 @@ public bool IsNotAnnotative { get; set; }
 
 ### See Also
 
-* class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,20 @@
 ---
-title: IntArray.MaxInclusive
-second_title: Aspose.CAD for .NET API Reference
-description: IntArray property. Gets or sets the max inclusive. The maxInclusive attribute indicates the largest integer value that can be contained in the array. The default value is 2147483647. Optional attribute
+title: "IntArray.MaxInclusive"
+linktitle: "MaxInclusive"
+articleTitle: "MaxInclusive"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IntArray property. Gets or sets the max inclusive. The maxInclusive attribute indicates the largest integer value that can be contained in the array. The def..."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/intarray/maxinclusive/
+weight: 60
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/intarray/maxinclusive/"
+product_version: "26.9"
 ---
 ## IntArray.MaxInclusive property
 
-Gets or sets the max inclusive. The maxInclusive attribute indicates the largest integer value that can be contained in the array. The default value is 2147483647. Optional attribute.
+Gets or sets the max inclusive.
+ The maxInclusive attribute indicates the largest integer value that can be contained in the array.
+ The default value is 2147483647.
+ Optional attribute.
 
 ```csharp
 public string MaxInclusive { get; set; }
@@ -16,8 +22,7 @@ public string MaxInclusive { get; set; }
 
 ### See Also
 
-* class [IntArray](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IntArray](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

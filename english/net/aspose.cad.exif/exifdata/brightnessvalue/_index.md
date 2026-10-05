@@ -1,10 +1,13 @@
 ---
-title: ExifData.BrightnessValue
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the brightness value
+title: "ExifData.BrightnessValue"
+linktitle: "BrightnessValue"
+articleTitle: "BrightnessValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the brightness value."
 type: docs
-weight: 40
-url: /net/aspose.cad.exif/exifdata/brightnessvalue/
+weight: 100
+url: "/net/aspose.cad.exif/exifdata/brightnessvalue/"
+product_version: "26.9"
 ---
 ## ExifData.BrightnessValue property
 
@@ -20,9 +23,8 @@ The brightness value.
 
 ### See Also
 
-* class [TiffSRational](../../../aspose.cad.fileformats.tiff/tiffsrational/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffSRational](../../../aspose.cad.fileformats.tiff/tiffsrational/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

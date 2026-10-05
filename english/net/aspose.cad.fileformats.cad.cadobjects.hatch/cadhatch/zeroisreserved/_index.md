@@ -1,10 +1,13 @@
 ---
-title: CadHatch.ZeroIsReserved
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the zero is reserved
+title: "CadHatch.ZeroIsReserved"
+linktitle: "ZeroIsReserved"
+articleTitle: "ZeroIsReserved"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the zero is reserved."
 type: docs
-weight: 360
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/zeroisreserved/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/zeroisreserved/"
+product_version: "26.9"
 ---
 ## CadHatch.ZeroIsReserved property
 
@@ -20,8 +23,7 @@ The zero is reserved.
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

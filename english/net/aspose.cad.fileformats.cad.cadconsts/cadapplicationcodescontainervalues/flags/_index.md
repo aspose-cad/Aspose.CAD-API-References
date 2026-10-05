@@ -1,10 +1,13 @@
 ---
-title: CadApplicationCodesContainerValues.FLAGS
-second_title: Aspose.CAD for .NET API Reference
-description: CadApplicationCodesContainerValues field. The flags value
+title: "CadApplicationCodesContainerValues.FLAGS"
+linktitle: "FLAGS"
+articleTitle: "FLAGS"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadApplicationCodesContainerValues field. The flags value"
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/flags/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/flags/"
+product_version: "26.9"
 ---
 ## CadApplicationCodesContainerValues.FLAGS field
 
@@ -16,8 +19,7 @@ public const string FLAGS;
 
 ### See Also
 
-* class [CadApplicationCodesContainerValues](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadApplicationCodesContainerValues](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

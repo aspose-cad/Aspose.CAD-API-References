@@ -1,10 +1,13 @@
 ---
-title: ExifData.IsBigEndian
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets a value indicating whether the stream EXIF data created from is big endian
+title: "ExifData.IsBigEndian"
+linktitle: "IsBigEndian"
+articleTitle: "IsBigEndian"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets a value indicating whether the stream EXIF data created from is big endian."
 type: docs
-weight: 690
-url: /net/aspose.cad.exif/exifdata/isbigendian/
+weight: 60
+url: "/net/aspose.cad.exif/exifdata/isbigendian/"
+product_version: "26.9"
 ---
 ## ExifData.IsBigEndian property
 
@@ -20,8 +23,7 @@ public bool IsBigEndian { get; set; }
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

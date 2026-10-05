@@ -1,12 +1,15 @@
 ---
-title: CurveBuilder1.SetOutgoingTangent
-second_title: Aspose.CAD for .NET API Reference
-description: CurveBuilder method. Sets the outgoing tangent to an existing point
+title: "CurveBuilder<T>.SetOutgoingTangent"
+linktitle: "SetOutgoingTangent"
+articleTitle: "SetOutgoingTangent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CurveBuilder method. Sets the outgoing tangent to an existing point."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.glb.animations/curvebuilder-1/setoutgoingtangent/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb.animations/curvebuilder-1/setoutgoingtangent/"
+product_version: "26.9"
 ---
-## CurveBuilder&lt;T&gt;.SetOutgoingTangent method
+## CurveBuilder<T>.SetOutgoingTangent method
 
 Sets the outgoing tangent to an existing point.
 
@@ -21,8 +24,7 @@ public void SetOutgoingTangent(float offset, T tangent)
 
 ### See Also
 
-* class [CurveBuilder&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CurveBuilder&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
 

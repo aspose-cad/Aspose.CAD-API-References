@@ -1,10 +1,13 @@
 ---
-title: DwfWhipFilledEllipse.DwfWhipFilledEllipse
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipFilledEllipse constructor. The default constructor
+title: "DwfWhipFilledEllipse.DwfWhipFilledEllipse"
+linktitle: "DwfWhipFilledEllipse"
+articleTitle: "DwfWhipFilledEllipse"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipFilledEllipse constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipfilledellipse/dwfwhipfilledellipse/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipfilledellipse/dwfwhipfilledellipse/"
+product_version: "26.9"
 ---
 ## DwfWhipFilledEllipse constructor
 
@@ -16,8 +19,7 @@ public DwfWhipFilledEllipse()
 
 ### See Also
 
-* class [DwfWhipFilledEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipFilledEllipse](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
+* assembly [Aspose.CAD](../../../)
 

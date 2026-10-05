@@ -1,10 +1,13 @@
 ---
-title: CadLineTypeTableObject.ScaleLinetypeElementIndex
-second_title: Aspose.CAD for .NET API Reference
-description: CadLineTypeTableObject property. Gets or sets the index of the scale linetype element
+title: "CadLineTypeTableObject.ScaleLinetypeElementIndex"
+linktitle: "ScaleLinetypeElementIndex"
+articleTitle: "ScaleLinetypeElementIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLineTypeTableObject property. Gets or sets the index of the scale linetype element."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/scalelinetypeelementindex/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/scalelinetypeelementindex/"
+product_version: "26.9"
 ---
 ## CadLineTypeTableObject.ScaleLinetypeElementIndex property
 
@@ -20,8 +23,7 @@ The index of the scale linetype element.
 
 ### See Also
 
-* class [CadLineTypeTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLineTypeTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

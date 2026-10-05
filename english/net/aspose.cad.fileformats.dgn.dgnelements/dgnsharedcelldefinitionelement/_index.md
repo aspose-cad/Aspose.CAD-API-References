@@ -1,10 +1,14 @@
 ---
-title: Class DgnSharedCellDefinitionElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSharedCellDefinitionElement class. Represents shared cell definition element
+title: "DgnSharedCellDefinitionElement Class"
+linktitle: "DgnSharedCellDefinitionElement"
+articleTitle: "DgnSharedCellDefinitionElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSharedCellDefinitionElement class. Represents shared cell definition element"
 type: docs
-weight: 8950
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/
+weight: 230
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/"
+keywords: "DgnSharedCellDefinitionElement, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnSharedCellDefinitionElement class
 
@@ -18,12 +22,11 @@ public class DgnSharedCellDefinitionElement : DgnElementBase, ICompositeDgnEleme
 
 | Name | Description |
 | --- | --- |
-| [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/childs/) { get; } | Gets childs of the composite element |
-| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
-| [Name](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/name/) { get; } | Gets the name. |
-| [Totallength](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/totallength/) { get; } | Gets cell total length |
+| [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/childs/) { get; } | Gets childs of the composite element |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
+| [Name](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/name/) { get; } | Gets the name. |
+| [Totallength](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/totallength/) { get; } | Gets cell total length |
 
 ## Methods
 
@@ -33,9 +36,8 @@ public class DgnSharedCellDefinitionElement : DgnElementBase, ICompositeDgnEleme
 
 ### See Also
 
-* class [DgnElementBase](../dgnelementbase/)
-* interface [ICompositeDgnElement](../icompositedgnelement/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* class [DgnElementBase](../dgnelementbase/)
+* interface [ICompositeDgnElement](../icompositedgnelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

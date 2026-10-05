@@ -1,10 +1,13 @@
 ---
-title: CadStyleTableObject.CadStyleTableObject
-second_title: Aspose.CAD for .NET API Reference
-description: CadStyleTableObject constructor. The default constructor
+title: "CadStyleTableObject.CadStyleTableObject"
+linktitle: "CadStyleTableObject"
+articleTitle: "CadStyleTableObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadStyleTableObject constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/cadstyletableobject/
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/cadstyletableobject/"
+product_version: "26.9"
 ---
 ## CadStyleTableObject constructor
 
@@ -16,8 +19,7 @@ public CadStyleTableObject()
 
 ### See Also
 
-* class [CadStyleTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadStyleTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

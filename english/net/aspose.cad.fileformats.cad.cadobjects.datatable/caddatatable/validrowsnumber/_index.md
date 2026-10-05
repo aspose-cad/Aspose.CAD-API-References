@@ -1,10 +1,13 @@
 ---
-title: CadDataTable.ValidRowsNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadDataTable property. Gets or sets the valid rows number
+title: "CadDataTable.ValidRowsNumber"
+linktitle: "ValidRowsNumber"
+articleTitle: "ValidRowsNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDataTable property. Gets or sets the valid rows number."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/validrowsnumber/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/validrowsnumber/"
+product_version: "26.9"
 ---
 ## CadDataTable.ValidRowsNumber property
 
@@ -20,8 +23,7 @@ The valid rows number.
 
 ### See Also
 
-* class [CadDataTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDataTable](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
+* assembly [Aspose.CAD](../../../)
 

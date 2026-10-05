@@ -1,10 +1,13 @@
 ---
-title: CadBlockVisibilityParameter.CadBlockVisibilityParameter
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockVisibilityParameter constructor. Initializes a new instance of the CadBlockVisibilityParameter class
+title: "CadBlockVisibilityParameter.CadBlockVisibilityParameter"
+linktitle: "CadBlockVisibilityParameter"
+articleTitle: "CadBlockVisibilityParameter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockVisibilityParameter constructor. Initializes a new instance of the CadBlockVisibilityParameter class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockvisibilityparameter/cadblockvisibilityparameter/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockvisibilityparameter/cadblockvisibilityparameter/"
+product_version: "26.9"
 ---
 ## CadBlockVisibilityParameter constructor
 
@@ -16,8 +19,7 @@ public CadBlockVisibilityParameter()
 
 ### See Also
 
-* class [CadBlockVisibilityParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockVisibilityParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

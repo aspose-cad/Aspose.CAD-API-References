@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.UserSpecifiedScaleFactor
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the user specified scale factor
+title: "CadGeoData.UserSpecifiedScaleFactor"
+linktitle: "UserSpecifiedScaleFactor"
+articleTitle: "UserSpecifiedScaleFactor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the user specified scale factor."
 type: docs
-weight: 270
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/userspecifiedscalefactor/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/userspecifiedscalefactor/"
+product_version: "26.9"
 ---
 ## CadGeoData.UserSpecifiedScaleFactor property
 
@@ -20,8 +23,7 @@ The user specified scale factor.
 
 ### See Also
 
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

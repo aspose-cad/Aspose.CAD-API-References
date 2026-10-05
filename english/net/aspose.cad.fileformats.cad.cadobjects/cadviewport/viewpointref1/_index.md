@@ -1,10 +1,13 @@
 ---
-title: CadViewport.ViewPointRef1
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the view point ref 1
+title: "CadViewport.ViewPointRef1"
+linktitle: "ViewPointRef1"
+articleTitle: "ViewPointRef1"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the view point ref 1."
 type: docs
-weight: 430
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/viewpointref1/
+weight: 420
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/viewpointref1/"
+product_version: "26.9"
 ---
 ## CadViewport.ViewPointRef1 property
 
@@ -16,8 +19,7 @@ public string ViewPointRef1 { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

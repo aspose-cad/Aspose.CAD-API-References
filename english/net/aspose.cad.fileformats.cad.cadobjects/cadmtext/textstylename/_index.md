@@ -1,10 +1,13 @@
 ---
-title: CadMText.TextStyleName
-second_title: Aspose.CAD for .NET API Reference
-description: CadMText property. Gets or sets the text style name
+title: "CadMText.TextStyleName"
+linktitle: "TextStyleName"
+articleTitle: "TextStyleName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMText property. Gets or sets the text style name."
 type: docs
-weight: 530
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/textstylename/
+weight: 500
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmtext/textstylename/"
+product_version: "26.9"
 ---
 ## CadMText.TextStyleName property
 
@@ -16,8 +19,7 @@ public string TextStyleName { get; set; }
 
 ### See Also
 
-* class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

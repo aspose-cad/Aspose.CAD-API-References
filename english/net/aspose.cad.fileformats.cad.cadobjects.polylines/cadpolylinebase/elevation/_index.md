@@ -1,10 +1,13 @@
 ---
-title: CadPolylineBase.Elevation
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolylineBase property. Gets or sets the elevation
+title: "CadPolylineBase.Elevation"
+linktitle: "Elevation"
+articleTitle: "Elevation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolylineBase property. Gets or sets the elevation."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolylinebase/elevation/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolylinebase/elevation/"
+product_version: "26.9"
 ---
 ## CadPolylineBase.Elevation property
 
@@ -20,8 +23,7 @@ The elevation.
 
 ### See Also
 
-* class [CadPolylineBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolylineBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

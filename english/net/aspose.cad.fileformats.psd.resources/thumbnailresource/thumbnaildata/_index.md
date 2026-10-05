@@ -1,10 +1,13 @@
 ---
-title: ThumbnailResource.ThumbnailData
-second_title: Aspose.CAD for .NET API Reference
-description: ThumbnailResource property. Gets or sets the thumbnail data
+title: "ThumbnailResource.ThumbnailData"
+linktitle: "ThumbnailData"
+articleTitle: "ThumbnailData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThumbnailResource property. Gets or sets the thumbnail data."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.psd.resources/thumbnailresource/thumbnaildata/
+weight: 120
+url: "/net/aspose.cad.fileformats.psd.resources/thumbnailresource/thumbnaildata/"
+product_version: "26.9"
 ---
 ## ThumbnailResource.ThumbnailData property
 
@@ -20,9 +23,8 @@ The thumbnail data.
 
 ### See Also
 
-* struct [Color](../../../aspose.cad/color/)
-* class [ThumbnailResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../../aspose.cad/color/)
+* class [ThumbnailResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

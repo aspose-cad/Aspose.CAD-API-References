@@ -1,14 +1,18 @@
 ---
-title: Cone.Radius
-second_title: Aspose.CAD for .NET API Reference
-description: Cone property. Gets or sets the radius. Contains a floatingpoint number that specifies the radius of the cone
+title: "Cone.Radius"
+linktitle: "Radius"
+articleTitle: "Radius"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cone property. Gets or sets the radius. Contains a floating-point number that specifies the radius of the cone."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/cone/radius/
+weight: 20
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/cone/radius/"
+product_version: "26.9"
 ---
 ## Cone.Radius property
 
-Gets or sets the radius. Contains a floating-point number that specifies the radius of the cone.
+Gets or sets the radius.
+ Contains a floating-point number that specifies the radius of the cone.
 
 ```csharp
 public double Radius { get; set; }
@@ -16,8 +20,7 @@ public double Radius { get; set; }
 
 ### See Also
 
-* class [Cone](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cone](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

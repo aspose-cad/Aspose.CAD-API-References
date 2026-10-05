@@ -1,10 +1,13 @@
 ---
-title: DgnImage.Version
-second_title: Aspose.CAD for .NET API Reference
-description: DgnImage property. Gets DGN version of loaded image
+title: "DgnImage.Version"
+linktitle: "Version"
+articleTitle: "Version"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnImage property. Gets DGN version of loaded image"
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.dgn/dgnimage/version/
+weight: 80
+url: "/net/aspose.cad.fileformats.dgn/dgnimage/version/"
+product_version: "26.9"
 ---
 ## DgnImage.Version property
 
@@ -16,9 +19,8 @@ public DgnFileVersion Version { get; }
 
 ### See Also
 
-* enum [DgnFileVersion](../../dgnfileversion/)
-* class [DgnImage](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [DgnFileVersion](../../dgnfileversion/)
+* class [DgnImage](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

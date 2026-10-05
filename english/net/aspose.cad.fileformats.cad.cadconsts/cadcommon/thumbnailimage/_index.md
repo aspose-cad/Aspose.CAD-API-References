@@ -1,10 +1,13 @@
 ---
-title: CadCommon.ThumbnailImage
-second_title: Aspose.CAD for .NET API Reference
-description: CadCommon field. The thumbnail image
+title: "CadCommon.ThumbnailImage"
+linktitle: "ThumbnailImage"
+articleTitle: "ThumbnailImage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCommon field. The thumbnail image"
 type: docs
-weight: 270
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadcommon/thumbnailimage/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadcommon/thumbnailimage/"
+product_version: "26.9"
 ---
 ## CadCommon.ThumbnailImage field
 
@@ -16,8 +19,7 @@ public const string ThumbnailImage;
 
 ### See Also
 
-* class [CadCommon](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCommon](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

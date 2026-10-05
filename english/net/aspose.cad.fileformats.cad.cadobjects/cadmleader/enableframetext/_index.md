@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.EnableFrameText
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader property. Gets or sets a value indicating whether enable frame text
+title: "CadMLeader.EnableFrameText"
+linktitle: "EnableFrameText"
+articleTitle: "EnableFrameText"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader property. Gets or sets a value indicating whether [enable frame text]."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/enableframetext/
+weight: 230
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/enableframetext/"
+product_version: "26.9"
 ---
 ## CadMLeader.EnableFrameText property
 
@@ -20,8 +23,7 @@ public bool EnableFrameText { get; set; }
 
 ### See Also
 
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

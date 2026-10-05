@@ -1,10 +1,13 @@
 ---
-title: Enum ExifMeteringMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifMeteringMode enum. exif metering mode enum
+title: "ExifMeteringMode Enum"
+linktitle: "ExifMeteringMode"
+articleTitle: "ExifMeteringMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifMeteringMode enum. exif metering mode enum."
 type: docs
-weight: 630
-url: /net/aspose.cad.exif.enums/exifmeteringmode/
+weight: 120
+url: "/net/aspose.cad.exif.enums/exifmeteringmode/"
+product_version: "26.9"
 ---
 ## ExifMeteringMode enumeration
 
@@ -29,7 +32,6 @@ public enum ExifMeteringMode
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadExtrudedSurface.AlignAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadExtrudedSurface property. Gets or sets the align angle
+title: "CadExtrudedSurface.AlignAngle"
+linktitle: "AlignAngle"
+articleTitle: "AlignAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadExtrudedSurface property. Gets or sets the align angle."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/alignangle/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/alignangle/"
+product_version: "26.9"
 ---
 ## CadExtrudedSurface.AlignAngle property
 
@@ -20,8 +23,7 @@ The align angle.
 
 ### See Also
 
-* class [CadExtrudedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadExtrudedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

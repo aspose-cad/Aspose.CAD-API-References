@@ -1,10 +1,13 @@
 ---
-title: Point3D.op_Inequality
-second_title: Aspose.CAD for .NET API Reference
-description: Point3D method. Allows to compare 3D points
+title: "Point3D.op_Inequality"
+linktitle: "op_Inequality"
+articleTitle: "op_Inequality"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point3D method. Allows to compare 3D points."
 type: docs
-weight: 190
-url: /net/aspose.cad.primitives/point3d/op_inequality/
+weight: 120
+url: "/net/aspose.cad.primitives/point3d/op_inequality/"
+product_version: "26.9"
 ---
 ## Point3D Inequality operator
 
@@ -25,8 +28,7 @@ True if points are different.
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

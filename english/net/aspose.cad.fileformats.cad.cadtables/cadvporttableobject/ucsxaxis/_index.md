@@ -1,10 +1,13 @@
 ---
-title: CadVportTableObject.UcsXaxis
-second_title: Aspose.CAD for .NET API Reference
-description: CadVportTableObject property. Gets or sets the ucs xaxis
+title: "CadVportTableObject.UcsXaxis"
+linktitle: "UcsXaxis"
+articleTitle: "UcsXaxis"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVportTableObject property. Gets or sets the ucs xaxis."
 type: docs
-weight: 400
-url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/ucsxaxis/
+weight: 330
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/ucsxaxis/"
+product_version: "26.9"
 ---
 ## CadVportTableObject.UcsXaxis property
 
@@ -20,9 +23,8 @@ The ucs xaxis.
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [CadVportTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [CadVportTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

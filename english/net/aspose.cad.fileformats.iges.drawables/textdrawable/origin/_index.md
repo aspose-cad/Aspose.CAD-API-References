@@ -1,10 +1,13 @@
 ---
-title: TextDrawable.Origin
-second_title: Aspose.CAD for .NET API Reference
-description: TextDrawable property. Left bottom point of text boundary used as origin point of primitivemaps to AllPoints0
+title: "TextDrawable.Origin"
+linktitle: "Origin"
+articleTitle: "Origin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TextDrawable property. Left bottom point of text boundary, used as origin point of primitive,maps to AllPoints[0]"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.iges.drawables/textdrawable/origin/
+weight: 70
+url: "/net/aspose.cad.fileformats.iges.drawables/textdrawable/origin/"
+product_version: "26.9"
 ---
 ## TextDrawable.Origin property
 
@@ -16,9 +19,8 @@ public Point3D Origin { get; }
 
 ### See Also
 
-* class [Point3D](../../../aspose.cad.primitives/point3d/)
-* class [TextDrawable](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
+* class [TextDrawable](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

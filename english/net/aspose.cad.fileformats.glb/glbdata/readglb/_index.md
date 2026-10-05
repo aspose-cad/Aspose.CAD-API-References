@@ -1,14 +1,17 @@
 ---
-title: GlbData.ReadGLB
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Reads a GlbData instance from a Stream representing a GLB file
+title: "GlbData.ReadGLB"
+linktitle: "ReadGLB"
+articleTitle: "ReadGLB"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Reads a GlbData instance from a Stream representing a GLB file"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.glb/glbdata/readglb/
+weight: 290
+url: "/net/aspose.cad.fileformats.glb/glbdata/readglb/"
+product_version: "26.9"
 ---
 ## GlbData.ReadGLB method
 
-Reads a [`GlbData`](../) instance from a Stream representing a GLB file
+Reads a [`GlbData`](../) instance from a `Stream` representing a GLB file
 
 ```csharp
 public static GlbData ReadGLB(Stream stream, ReadSettings settings = null)
@@ -25,9 +28,8 @@ A [`GlbData`](../) instance.
 
 ### See Also
 
-* class [ReadSettings](../../readsettings/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GlbData](../)
+* class [ReadSettings](../../readsettings/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

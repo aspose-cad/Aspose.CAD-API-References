@@ -1,10 +1,13 @@
 ---
-title: Projection.CreateOrthographicMatrix
-second_title: Aspose.CAD for .NET API Reference
-description: Projection method. Calculates an orthographic projection matrix
+title: "Projection.CreateOrthographicMatrix"
+linktitle: "CreateOrthographicMatrix"
+articleTitle: "CreateOrthographicMatrix"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Projection method. Calculates an orthographic projection matrix."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.glb.transforms/projection/createorthographicmatrix/
+url: "/net/aspose.cad.fileformats.glb.transforms/projection/createorthographicmatrix/"
+product_version: "26.9"
 ---
 ## Projection.CreateOrthographicMatrix method
 
@@ -27,8 +30,7 @@ A projection matrix
 
 ### See Also
 
-* class [Projection](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Projection](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
+* assembly [Aspose.CAD](../../../)
 

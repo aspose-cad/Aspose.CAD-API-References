@@ -1,10 +1,13 @@
 ---
-title: CadPolygonMeshVertex.VertexId
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolygonMeshVertex property. Gets or sets the vertex id
+title: "CadPolygonMeshVertex.VertexId"
+linktitle: "VertexId"
+articleTitle: "VertexId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolygonMeshVertex property. Gets or sets the vertex id."
 type: docs
 weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadpolygonmeshvertex/vertexid/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cadpolygonmeshvertex/vertexid/"
+product_version: "26.9"
 ---
 ## CadPolygonMeshVertex.VertexId property
 
@@ -16,8 +19,7 @@ public override int? VertexId { get; set; }
 
 ### See Also
 
-* class [CadPolygonMeshVertex](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolygonMeshVertex](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

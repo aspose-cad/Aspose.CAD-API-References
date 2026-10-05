@@ -1,10 +1,13 @@
 ---
-title: CadMultiLineVectorBlock.MilterVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadMultiLineVectorBlock property. Gets or sets the milter vector
+title: "CadMultiLineVectorBlock.MilterVector"
+linktitle: "MilterVector"
+articleTitle: "MilterVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMultiLineVectorBlock property. Gets or sets the milter vector."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/miltervector/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/miltervector/"
+product_version: "26.9"
 ---
 ## CadMultiLineVectorBlock.MilterVector property
 
@@ -16,9 +19,8 @@ public Cad3DPoint MilterVector { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMultiLineVectorBlock](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMultiLineVectorBlock](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

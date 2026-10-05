@@ -1,14 +1,17 @@
 ---
-title: TableStyleCellContent.TableStyleCellContent
-second_title: Aspose.CAD for .NET API Reference
-description: TableStyleCellContent constructor. The default constructor
+title: "TableStyleCellContent.TableStyleCellContent"
+linktitle: "TableStyleCellContent"
+articleTitle: "TableStyleCellContent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableStyleCellContent constructor. Initializes a new instance of the TableStyleCellContent class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/tablestylecellcontent/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/tablestylecellcontent/"
+product_version: "26.9"
 ---
 ## TableStyleCellContent constructor
 
-The default constructor.
+Initializes a new instance of the [`TableStyleCellContent`](../) class.
 
 ```csharp
 public TableStyleCellContent()
@@ -16,8 +19,7 @@ public TableStyleCellContent()
 
 ### See Also
 
-* class [TableStyleCellContent](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableStyleCellContent](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

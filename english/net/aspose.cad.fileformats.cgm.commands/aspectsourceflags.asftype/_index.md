@@ -1,12 +1,17 @@
 ---
-title: Enum AspectSourceFlags.ASFType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.AspectSourceFlagsASFType enum. 
+title: "AspectSourceFlags.ASFType Enum"
+linktitle: "AspectSourceFlags.ASFType"
+articleTitle: "AspectSourceFlags.ASFType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.AspectSourceFlags.ASFType enum."
 type: docs
-weight: 4840
-url: /net/aspose.cad.fileformats.cgm.commands/aspectsourceflags.asftype/
+weight: 110
+url: "/net/aspose.cad.fileformats.cgm.commands/aspectsourceflags.asftype/"
+product_version: "26.9"
 ---
 ## AspectSourceFlags.ASFType enumeration
+
+
 
 ```csharp
 public enum ASFType
@@ -37,8 +42,7 @@ public enum ASFType
 
 ### See Also
 
-* class [AspectSourceFlags](../aspectsourceflags/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [AspectSourceFlags](../aspectsourceflags/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

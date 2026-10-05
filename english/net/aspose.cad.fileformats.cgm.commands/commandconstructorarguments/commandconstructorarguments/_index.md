@@ -1,10 +1,13 @@
 ---
-title: CommandConstructorArguments.CommandConstructorArguments
-second_title: Aspose.CAD for .NET API Reference
-description: CommandConstructorArguments constructor. The default constructor
+title: "CommandConstructorArguments.CommandConstructorArguments"
+linktitle: "CommandConstructorArguments"
+articleTitle: "CommandConstructorArguments"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CommandConstructorArguments constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.commands/commandconstructorarguments/commandconstructorarguments/
+url: "/net/aspose.cad.fileformats.cgm.commands/commandconstructorarguments/commandconstructorarguments/"
+product_version: "26.9"
 ---
 ## CommandConstructorArguments() {#constructor}
 
@@ -16,13 +19,15 @@ public CommandConstructorArguments()
 
 ### See Also
 
-* class [CommandConstructorArguments](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
+* class [CommandConstructorArguments](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## CommandConstructorArguments(ClassCode, int, CgmFile) {#constructor_1}
+## CommandConstructorArguments(ClassCode, int, CgmFile) {#constructor_1}
+
+Initializes a new instance of the CommandConstructorArguments class.
 
 ```csharp
 public CommandConstructorArguments(ClassCode elementClass, int elementId, CgmFile container)
@@ -30,10 +35,9 @@ public CommandConstructorArguments(ClassCode elementClass, int elementId, CgmFil
 
 ### See Also
 
-* enum [ClassCode](../../../aspose.cad.fileformats.cgm.enums/classcode/)
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [CommandConstructorArguments](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ClassCode](../../../aspose.cad.fileformats.cgm.enums/classcode/)
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [CommandConstructorArguments](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

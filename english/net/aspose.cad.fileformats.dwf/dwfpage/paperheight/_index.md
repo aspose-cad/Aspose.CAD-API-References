@@ -1,10 +1,13 @@
 ---
-title: DwfPage.PaperHeight
-second_title: Aspose.CAD for .NET API Reference
-description: DwfPage property. Gets the paper height
+title: "DwfPage.PaperHeight"
+linktitle: "PaperHeight"
+articleTitle: "PaperHeight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfPage property. Gets the paper height."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.dwf/dwfpage/paperheight/
+weight: 80
+url: "/net/aspose.cad.fileformats.dwf/dwfpage/paperheight/"
+product_version: "26.9"
 ---
 ## DwfPage.PaperHeight property
 
@@ -16,8 +19,7 @@ public double PaperHeight { get; }
 
 ### See Also
 
-* class [DwfPage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfPage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,19 @@
 ---
-title: DwfImage.Pages
-second_title: Aspose.CAD for .NET API Reference
-description: DwfImage property. Gets the DWF pages. Returns an array of all DWF pages that are contained in the DWF image. Each DWF page defines all its available graphical parameters and all the objects that are drawn on it
+title: "DwfImage.Pages"
+linktitle: "Pages"
+articleTitle: "Pages"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfImage property. Gets the DWF pages. Returns an array of all DWF pages that are contained in the DWF image. Each DWF page defines all its available graphic..."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.dwf/dwfimage/pages/
+weight: 70
+url: "/net/aspose.cad.fileformats.dwf/dwfimage/pages/"
+product_version: "26.9"
 ---
 ## DwfImage.Pages property
 
-Gets the DWF pages. Returns an array of all DWF pages that are contained in the DWF image. Each DWF page defines all its available graphical parameters and all the objects that are drawn on it.
+Gets the DWF pages.
+ Returns an array of all DWF pages that are contained in the DWF image.
+ Each DWF page defines all its available graphical parameters and all the objects that are drawn on it.
 
 ```csharp
 public DwfPage[] Pages { get; }
@@ -49,11 +54,11 @@ using (FileStream stream = new FileStream(outFile, FileMode.Create))
 
     ImageOptionsBase options = new PngOptions();
     options.VectorRasterizationOptions = new CadRasterizationOptions
-                                             {
-                                                 PageWidth = (float)image.Pages[0].PaperWidth,
-                                                 PageHeight = (float)image.Pages[0].PaperHeight,
-                                                 DrawType = CadDrawTypeMode.UseObjectColor,
-                                             };
+    {
+        PageWidth = (float)image.Pages[0].PaperWidth,
+        PageHeight = (float)image.Pages[0].PaperHeight,
+        DrawType = CadDrawTypeMode.UseObjectColor,
+    };
 
     image.Save(stream, options);
 }
@@ -61,9 +66,8 @@ using (FileStream stream = new FileStream(outFile, FileMode.Create))
 
 ### See Also
 
-* class [DwfPage](../../dwfpage/)
-* class [DwfImage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfPage](../../dwfpage/)
+* class [DwfImage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

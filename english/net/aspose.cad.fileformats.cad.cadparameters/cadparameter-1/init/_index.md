@@ -1,12 +1,15 @@
 ---
-title: CadParameter1.Init
-second_title: Aspose.CAD for .NET API Reference
-description: CadParameter method. Initialize the specified value
+title: "CadParameter<T>.Init"
+linktitle: "Init"
+articleTitle: "Init"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadParameter method. Initialize the specified value."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadparameters/cadparameter-1/init/
+url: "/net/aspose.cad.fileformats.cad.cadparameters/cadparameter-1/init/"
+product_version: "26.9"
 ---
-## CadParameter&lt;T&gt;.Init method
+## CadParameter<T>.Init method
 
 Initialize the specified value.
 
@@ -20,8 +23,7 @@ public override void Init(object value)
 
 ### See Also
 
-* class [CadParameter&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
+* assembly [Aspose.CAD](../../../)
 

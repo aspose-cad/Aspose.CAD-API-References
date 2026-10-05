@@ -1,0 +1,25 @@
+---
+title: "IfcConnectionCurveGeometry4.IfcConnectionCurveGeometry4"
+linktitle: "IfcConnectionCurveGeometry4"
+articleTitle: "IfcConnectionCurveGeometry4"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcConnectionCurveGeometry4 constructor. The default constructor."
+type: docs
+weight: 10
+url: "/net/aspose.cad.fileformats.ifc.ifc4.entities/ifcconnectioncurvegeometry4/ifcconnectioncurvegeometry4/"
+product_version: "26.9"
+---
+## IfcConnectionCurveGeometry4 constructor
+
+The default constructor.
+
+```csharp
+public IfcConnectionCurveGeometry4()
+```
+
+### See Also
+
+* class [IfcConnectionCurveGeometry4](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
+* assembly [Aspose.CAD](../../../)
+

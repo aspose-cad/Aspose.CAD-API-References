@@ -1,10 +1,13 @@
 ---
-title: CadPolygonMeshVertex.CadPolygonMeshVertex
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolygonMeshVertex constructor. The default constructor
+title: "CadPolygonMeshVertex.CadPolygonMeshVertex"
+linktitle: "CadPolygonMeshVertex"
+articleTitle: "CadPolygonMeshVertex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolygonMeshVertex constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadpolygonmeshvertex/cadpolygonmeshvertex/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cadpolygonmeshvertex/cadpolygonmeshvertex/"
+product_version: "26.9"
 ---
 ## CadPolygonMeshVertex constructor
 
@@ -16,8 +19,7 @@ public CadPolygonMeshVertex()
 
 ### See Also
 
-* class [CadPolygonMeshVertex](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolygonMeshVertex](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

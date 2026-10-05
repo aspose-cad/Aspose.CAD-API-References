@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.IsStreamDisposedOnClose
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer property. Gets a value indicating whether this stream is disposed on close
+title: "StreamContainer.IsStreamDisposedOnClose"
+linktitle: "IsStreamDisposedOnClose"
+articleTitle: "IsStreamDisposedOnClose"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer property. Gets a value indicating whether this stream is disposed on close."
 type: docs
-weight: 50
-url: /net/aspose.cad/streamcontainer/isstreamdisposedonclose/
+weight: 260
+url: "/net/aspose.cad/streamcontainer/isstreamdisposedonclose/"
+product_version: "26.9"
 ---
 ## StreamContainer.IsStreamDisposedOnClose property
 
@@ -20,8 +23,7 @@ public virtual bool IsStreamDisposedOnClose { get; }
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

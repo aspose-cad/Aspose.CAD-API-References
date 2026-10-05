@@ -1,10 +1,13 @@
 ---
-title: DxfImage.AddEntity
-second_title: Aspose.CAD for .NET API Reference
-description: DxfImage method. Adds entity
+title: "DxfImage.AddEntity"
+linktitle: "AddEntity"
+articleTitle: "AddEntity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DxfImage method. Adds entity."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad/dxfimage/addentity/
+url: "/net/aspose.cad.fileformats.cad/dxfimage/addentity/"
+product_version: "26.9"
 ---
 ## DxfImage.AddEntity method
 
@@ -28,9 +31,8 @@ public void AddEntity(CadEntityBase entity)
 
 ### See Also
 
-* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
-* class [DxfImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
+* class [DxfImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

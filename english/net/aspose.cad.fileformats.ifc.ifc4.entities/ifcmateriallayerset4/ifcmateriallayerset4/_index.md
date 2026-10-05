@@ -1,0 +1,25 @@
+---
+title: "IfcMaterialLayerSet4.IfcMaterialLayerSet4"
+linktitle: "IfcMaterialLayerSet4"
+articleTitle: "IfcMaterialLayerSet4"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcMaterialLayerSet4 constructor. The default constructor."
+type: docs
+weight: 10
+url: "/net/aspose.cad.fileformats.ifc.ifc4.entities/ifcmateriallayerset4/ifcmateriallayerset4/"
+product_version: "26.9"
+---
+## IfcMaterialLayerSet4 constructor
+
+The default constructor.
+
+```csharp
+public IfcMaterialLayerSet4()
+```
+
+### See Also
+
+* class [IfcMaterialLayerSet4](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
+* assembly [Aspose.CAD](../../../)
+

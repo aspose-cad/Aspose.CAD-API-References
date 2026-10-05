@@ -1,10 +1,13 @@
 ---
-title: CadSpline.FitPoints
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpline property. Gets or sets the fit points
+title: "CadSpline.FitPoints"
+linktitle: "FitPoints"
+articleTitle: "FitPoints"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpline property. Gets or sets the fit points."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspline/fitpoints/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspline/fitpoints/"
+product_version: "26.9"
 ---
 ## CadSpline.FitPoints property
 
@@ -20,9 +23,8 @@ The fit points.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

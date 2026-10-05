@@ -1,12 +1,17 @@
 ---
-title: Enum JoinIndicator
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Enums.JoinIndicator enum. 
+title: "JoinIndicator Enum"
+linktitle: "JoinIndicator"
+articleTitle: "JoinIndicator"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Enums.JoinIndicator enum."
 type: docs
-weight: 7200
-url: /net/aspose.cad.fileformats.cgm.enums/joinindicator/
+weight: 80
+url: "/net/aspose.cad.fileformats.cgm.enums/joinindicator/"
+product_version: "26.9"
 ---
 ## JoinIndicator enumeration
+
+
 
 ```csharp
 public enum JoinIndicator
@@ -23,7 +28,6 @@ public enum JoinIndicator
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
+* assembly [Aspose.CAD](../../)
 

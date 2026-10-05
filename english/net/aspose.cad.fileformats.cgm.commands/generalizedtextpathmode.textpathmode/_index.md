@@ -1,12 +1,17 @@
 ---
-title: Enum GeneralizedTextPathMode.TextPathMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.GeneralizedTextPathModeTextPathMode enum. 
+title: "GeneralizedTextPathMode.TextPathMode Enum"
+linktitle: "GeneralizedTextPathMode.TextPathMode"
+articleTitle: "GeneralizedTextPathMode.TextPathMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.GeneralizedTextPathMode.TextPathMode enum."
 type: docs
-weight: 5800
-url: /net/aspose.cad.fileformats.cgm.commands/generalizedtextpathmode.textpathmode/
+weight: 1070
+url: "/net/aspose.cad.fileformats.cgm.commands/generalizedtextpathmode.textpathmode/"
+product_version: "26.9"
 ---
 ## GeneralizedTextPathMode.TextPathMode enumeration
+
+
 
 ```csharp
 public enum TextPathMode
@@ -22,8 +27,7 @@ public enum TextPathMode
 
 ### See Also
 
-* class [GeneralizedTextPathMode](../generalizedtextpathmode/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [GeneralizedTextPathMode](../generalizedtextpathmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

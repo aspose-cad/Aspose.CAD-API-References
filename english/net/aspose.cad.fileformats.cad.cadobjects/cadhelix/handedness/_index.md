@@ -1,10 +1,13 @@
 ---
-title: CadHelix.Handedness
-second_title: Aspose.CAD for .NET API Reference
-description: CadHelix property. Gets or sets a value indicating whether this CadHelix is left or right handed
+title: "CadHelix.Handedness"
+linktitle: "Handedness"
+articleTitle: "Handedness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHelix property. Gets or sets a value indicating whether this CadHelix is left or right handed."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadhelix/handedness/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadhelix/handedness/"
+product_version: "26.9"
 ---
 ## CadHelix.Handedness property
 
@@ -20,9 +23,8 @@ public CadHorizontalDirection Handedness { get; set; }
 
 ### See Also
 
-* enum [CadHorizontalDirection](../../../aspose.cad.fileformats.cad.cadconsts/cadhorizontaldirection/)
-* class [CadHelix](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadHorizontalDirection](../../../aspose.cad.fileformats.cad.cadconsts/cadhorizontaldirection/)
+* class [CadHelix](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

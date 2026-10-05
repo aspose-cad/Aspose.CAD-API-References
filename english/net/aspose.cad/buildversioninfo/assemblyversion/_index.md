@@ -1,10 +1,13 @@
 ---
-title: BuildVersionInfo.AssemblyVersion
-second_title: Aspose.CAD for .NET API Reference
-description: BuildVersionInfo field. The assembly version
+title: "BuildVersionInfo.AssemblyVersion"
+linktitle: "AssemblyVersion"
+articleTitle: "AssemblyVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BuildVersionInfo field. The assembly version."
 type: docs
 weight: 10
-url: /net/aspose.cad/buildversioninfo/assemblyversion/
+url: "/net/aspose.cad/buildversioninfo/assemblyversion/"
+product_version: "26.9"
 ---
 ## BuildVersionInfo.AssemblyVersion field
 
@@ -16,8 +19,7 @@ public static readonly string AssemblyVersion;
 
 ### See Also
 
-* class [BuildVersionInfo](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BuildVersionInfo](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: Struct TrianglePrimitiveTVertexTmaterial
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Geometry.TrianglePrimitive2TVertexTmaterial struct. 
+title: "TrianglePrimitive<TVertex, Tmaterial> Struct"
+linktitle: "TrianglePrimitive<TVertex, Tmaterial>"
+articleTitle: "TrianglePrimitive<TVertex, Tmaterial>"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Geometry.TrianglePrimitive struct."
 type: docs
-weight: 10440
-url: /net/aspose.cad.fileformats.glb.geometry/triangleprimitive-2/
+weight: 50
+url: "/net/aspose.cad.fileformats.glb.geometry/triangleprimitive-2/"
+product_version: "26.9"
 ---
-## TrianglePrimitive&lt;TVertex,Tmaterial&gt; structure
+## TrianglePrimitive&lt;TVertex, Tmaterial&gt; struct
+
+
 
 ```csharp
 public struct TrianglePrimitive<TVertex, Tmaterial>
@@ -16,14 +21,13 @@ public struct TrianglePrimitive<TVertex, Tmaterial>
 
 | Name | Description |
 | --- | --- |
-| readonly [A](../../aspose.cad.fileformats.glb.geometry/triangleprimitive-2/a/) |  |
-| readonly [B](../../aspose.cad.fileformats.glb.geometry/triangleprimitive-2/b/) |  |
-| readonly [C](../../aspose.cad.fileformats.glb.geometry/triangleprimitive-2/c/) |  |
-| readonly [Material](../../aspose.cad.fileformats.glb.geometry/triangleprimitive-2/material/) |  |
+| A |  |
+| B |  |
+| C |  |
+| Material |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../aspose.cad.fileformats.glb.geometry/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../aspose.cad.fileformats.glb.geometry/)
+* assembly [Aspose.CAD](../../)
 

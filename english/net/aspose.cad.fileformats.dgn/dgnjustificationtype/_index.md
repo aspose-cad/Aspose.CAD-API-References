@@ -1,10 +1,13 @@
 ---
-title: Enum DgnJustificationType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnJustificationType enum. Justification type
+title: "DgnJustificationType Enum"
+linktitle: "DgnJustificationType"
+articleTitle: "DgnJustificationType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnJustificationType enum. Justification type"
 type: docs
-weight: 9110
-url: /net/aspose.cad.fileformats.dgn/dgnjustificationtype/
+weight: 130
+url: "/net/aspose.cad.fileformats.dgn/dgnjustificationtype/"
+product_version: "26.9"
 ---
 ## DgnJustificationType enumeration
 
@@ -36,7 +39,6 @@ public enum DgnJustificationType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../)
 

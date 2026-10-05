@@ -1,10 +1,13 @@
 ---
-title: CadMesh.VertexCount
-second_title: Aspose.CAD for .NET API Reference
-description: CadMesh property. Gets or sets vertex count
+title: "CadMesh.VertexCount"
+linktitle: "VertexCount"
+articleTitle: "VertexCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMesh property. Gets or sets vertex count"
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmesh/vertexcount/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmesh/vertexcount/"
+product_version: "26.9"
 ---
 ## CadMesh.VertexCount property
 
@@ -16,8 +19,7 @@ public int VertexCount { get; set; }
 
 ### See Also
 
-* class [CadMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

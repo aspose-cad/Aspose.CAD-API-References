@@ -1,12 +1,17 @@
 ---
-title: StepEllipse.Position
-second_title: Aspose.CAD for .NET API Reference
-description: StepEllipse property. 
+title: "StepEllipse.Position"
+linktitle: "Position"
+articleTitle: "Position"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepEllipse property."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.stp.items/stepellipse/position/
+url: "/net/aspose.cad.fileformats.stp.items/stepellipse/position/"
+product_version: "26.9"
 ---
 ## StepEllipse.Position property
+
+
 
 ```csharp
 public StepAxis2Placement Position { get; set; }
@@ -14,9 +19,8 @@ public StepAxis2Placement Position { get; set; }
 
 ### See Also
 
-* class [StepAxis2Placement](../../stepaxis2placement/)
-* class [StepEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepAxis2Placement](../../stepaxis2placement/)
+* class [StepEllipse](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

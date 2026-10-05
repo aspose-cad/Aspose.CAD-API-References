@@ -1,10 +1,13 @@
 ---
-title: StlRoot.Vertices
-second_title: Aspose.CAD for .NET API Reference
-description: StlRoot property. Gets or sets the vertices
+title: "StlRoot.Vertices"
+linktitle: "Vertices"
+articleTitle: "Vertices"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StlRoot property. Gets or sets the vertices."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.stl.stlobjects/stlroot/vertices/
+url: "/net/aspose.cad.fileformats.stl.stlobjects/stlroot/vertices/"
+product_version: "26.9"
 ---
 ## StlRoot.Vertices property
 
@@ -20,9 +23,8 @@ The vertices.
 
 ### See Also
 
-* class [VertexDataUnit](../../vertexdataunit/)
-* class [StlRoot](../)
-* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [VertexDataUnit](../../vertexdataunit/)
+* class [StlRoot](../)
+* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
+* assembly [Aspose.CAD](../../../)
 

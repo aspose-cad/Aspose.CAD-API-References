@@ -1,10 +1,13 @@
 ---
-title: TiffStreamWriter.WriteRational
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamWriter method. Writes a single rational number value to the stream
+title: "TiffStreamWriter.WriteRational"
+linktitle: "WriteRational"
+articleTitle: "WriteRational"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamWriter method. Writes a single rational number value to the stream."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writerational/
+weight: 80
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writerational/"
+product_version: "26.9"
 ---
 ## TiffStreamWriter.WriteRational method
 
@@ -20,9 +23,8 @@ public void WriteRational(TiffRational data)
 
 ### See Also
 
-* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
-* class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
+* class [TiffStreamWriter](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

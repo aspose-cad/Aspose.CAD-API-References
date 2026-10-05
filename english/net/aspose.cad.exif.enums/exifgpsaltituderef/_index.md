@@ -1,10 +1,13 @@
 ---
-title: Enum ExifGPSAltitudeRef
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifGPSAltitudeRef enum. exif gps altitude ref enum
+title: "ExifGPSAltitudeRef Enum"
+linktitle: "ExifGPSAltitudeRef"
+articleTitle: "ExifGPSAltitudeRef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifGPSAltitudeRef enum. exif gps altitude ref enum."
 type: docs
-weight: 600
-url: /net/aspose.cad.exif.enums/exifgpsaltituderef/
+weight: 90
+url: "/net/aspose.cad.exif.enums/exifgpsaltituderef/"
+product_version: "26.9"
 ---
 ## ExifGPSAltitudeRef enumeration
 
@@ -23,7 +26,6 @@ public enum ExifGPSAltitudeRef : byte
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

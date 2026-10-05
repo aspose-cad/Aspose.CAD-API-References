@@ -1,10 +1,13 @@
 ---
-title: GifOptions.DoPaletteCorrection
-second_title: Aspose.CAD for .NET API Reference
-description: GifOptions property. Gets or sets a value indicating whether palette correction is applied
+title: "GifOptions.DoPaletteCorrection"
+linktitle: "DoPaletteCorrection"
+articleTitle: "DoPaletteCorrection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GifOptions property. Gets or sets a value indicating whether palette correction is applied."
 type: docs
-weight: 40
-url: /net/aspose.cad.imageoptions/gifoptions/dopalettecorrection/
+weight: 50
+url: "/net/aspose.cad.imageoptions/gifoptions/dopalettecorrection/"
+product_version: "26.9"
 ---
 ## GifOptions.DoPaletteCorrection property
 
@@ -20,12 +23,13 @@ public bool DoPaletteCorrection { get; set; }
 
 ## Remarks
 
-Palette correction means that whenever image is exported to GIF the source image colors will be analyzed in order to build the best matching palette (in case image Palette does not exist or not specified in the options). The analyze process takes some time however the output image will have the best matching color palette and result is visually better.
+Palette correction means that whenever image is exported to GIF the source image colors will be analyzed
+ in order to build the best matching palette (in case image Palette does not exist or not specified in the options).
+ The analyze process takes some time however the output image will have the best matching color palette and result is visually better.
 
 ### See Also
 
-* class [GifOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GifOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

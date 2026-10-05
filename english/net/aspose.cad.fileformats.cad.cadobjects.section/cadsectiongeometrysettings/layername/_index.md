@@ -1,10 +1,13 @@
 ---
-title: CadSectionGeometrySettings.LayerName
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionGeometrySettings property. Gets or sets the name of the layer
+title: "CadSectionGeometrySettings.LayerName"
+linktitle: "LayerName"
+articleTitle: "LayerName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionGeometrySettings property. Gets or sets the name of the layer."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/layername/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/layername/"
+product_version: "26.9"
 ---
 ## CadSectionGeometrySettings.LayerName property
 
@@ -20,8 +23,7 @@ The name of the layer.
 
 ### See Also
 
-* class [CadSectionGeometrySettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionGeometrySettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DgnCellHeaderElement.AddChild
-second_title: Aspose.CAD for .NET API Reference
-description: DgnCellHeaderElement method. Adds element as a child
+title: "DgnCellHeaderElement.AddChild"
+linktitle: "AddChild"
+articleTitle: "AddChild"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnCellHeaderElement method. Adds element as a child"
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/addchild/
+weight: 10
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/addchild/"
+product_version: "26.9"
 ---
 ## DgnCellHeaderElement.AddChild method
 
@@ -20,9 +23,8 @@ public void AddChild(DgnElementBase child)
 
 ### See Also
 
-* class [DgnElementBase](../../dgnelementbase/)
-* class [DgnCellHeaderElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementBase](../../dgnelementbase/)
+* class [DgnCellHeaderElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

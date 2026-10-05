@@ -1,12 +1,17 @@
 ---
-title: CellArray.Q
-second_title: Aspose.CAD for .NET API Reference
-description: CellArray property. 
+title: "CellArray.Q"
+linktitle: "Q"
+articleTitle: "Q"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CellArray property."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cgm.commands/cellarray/q/
+weight: 110
+url: "/net/aspose.cad.fileformats.cgm.commands/cellarray/q/"
+product_version: "26.9"
 ---
 ## CellArray.Q property
+
+
 
 ```csharp
 public CgmPoint Q { get; }
@@ -14,9 +19,8 @@ public CgmPoint Q { get; }
 
 ### See Also
 
-* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
-* class [CellArray](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
+* class [CellArray](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

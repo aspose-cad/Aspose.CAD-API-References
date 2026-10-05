@@ -1,23 +1,25 @@
 ---
-title: PltImage.Pages
-second_title: Aspose.CAD for .NET API Reference
-description: PltImage property. Gets pages
+title: "PltImage.Pages"
+linktitle: "Pages"
+articleTitle: "Pages"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PltImage property. Gets pages"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.plt/pltimage/pages/
+weight: 70
+url: "/net/aspose.cad.fileformats.plt/pltimage/pages/"
+product_version: "26.9"
 ---
 ## PltImage.Pages property
 
 Gets pages
 
 ```csharp
-public #=zuyEH5d2TkGIei8MzCbao18o=[] Pages { get; }
+public #=z4yG2JUAPEWJbPJ2gTZTnffU=[] Pages { get; }
 ```
 
 ### See Also
 
-* class [PltImage](../)
-* namespace [Aspose.CAD.FileFormats.Plt](../../../aspose.cad.fileformats.plt/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PltImage](../)
+* namespace [Aspose.CAD.FileFormats.Plt](../../../aspose.cad.fileformats.plt/)
+* assembly [Aspose.CAD](../../../)
 

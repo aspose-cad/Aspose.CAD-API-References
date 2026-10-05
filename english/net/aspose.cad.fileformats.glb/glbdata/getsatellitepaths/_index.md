@@ -1,14 +1,18 @@
 ---
-title: GlbData.GetSatellitePaths
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Gets the list of satellite / dependency files for a given glTF file. This includes binary blobs and texture images
+title: "GlbData.GetSatellitePaths"
+linktitle: "GetSatellitePaths"
+articleTitle: "GetSatellitePaths"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Gets the list of satellite / dependency files for a given glTF file. This includes binary blobs and texture images."
 type: docs
-weight: 560
-url: /net/aspose.cad.fileformats.glb/glbdata/getsatellitepaths/
+weight: 300
+url: "/net/aspose.cad.fileformats.glb/glbdata/getsatellitepaths/"
+product_version: "26.9"
 ---
 ## GlbData.GetSatellitePaths method
 
-Gets the list of satellite / dependency files for a given glTF file. This includes binary blobs and texture images.
+Gets the list of satellite / dependency files for a given glTF file.
+ This includes binary blobs and texture images.
 
 ```csharp
 public static string[] GetSatellitePaths(string filePath)
@@ -24,12 +28,12 @@ A list of relative file paths, as found in the file.
 
 ## Remarks
 
-This method is designed to be as fast as possible, and it avoids performing much of the validation and parsing of a glTf file, it just blindly looks for URI fields.
+This method is designed to be as fast as possible, and it avoids performing much
+ of the validation and parsing of a glTf file, it just blindly looks for URI fields.
 
 ### See Also
 
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

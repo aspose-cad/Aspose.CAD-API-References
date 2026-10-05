@@ -1,10 +1,13 @@
 ---
-title: Enum ExifColorSpace
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifColorSpace enum. exif color space enum
+title: "ExifColorSpace Enum"
+linktitle: "ExifColorSpace"
+articleTitle: "ExifColorSpace"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifColorSpace enum. exif color space enum."
 type: docs
-weight: 530
-url: /net/aspose.cad.exif.enums/exifcolorspace/
+weight: 20
+url: "/net/aspose.cad.exif.enums/exifcolorspace/"
+product_version: "26.9"
 ---
 ## ExifColorSpace enumeration
 
@@ -24,7 +27,6 @@ public enum ExifColorSpace
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

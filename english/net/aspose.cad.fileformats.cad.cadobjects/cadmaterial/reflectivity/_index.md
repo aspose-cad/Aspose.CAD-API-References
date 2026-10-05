@@ -1,10 +1,13 @@
 ---
-title: CadMaterial.Reflectivity
-second_title: Aspose.CAD for .NET API Reference
-description: CadMaterial property. Gets or sets the reflectivity
+title: "CadMaterial.Reflectivity"
+linktitle: "Reflectivity"
+articleTitle: "Reflectivity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMaterial property. Gets or sets the reflectivity."
 type: docs
-weight: 750
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectivity/
+weight: 470
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectivity/"
+product_version: "26.9"
 ---
 ## CadMaterial.Reflectivity property
 
@@ -20,8 +23,7 @@ The reflectivity.
 
 ### See Also
 
-* class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMaterial](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

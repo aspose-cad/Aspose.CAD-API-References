@@ -1,10 +1,13 @@
 ---
-title: CadSolid.FourthCorner
-second_title: Aspose.CAD for .NET API Reference
-description: CadSolid property. Gets or sets the fourth corner
+title: "CadSolid.FourthCorner"
+linktitle: "FourthCorner"
+articleTitle: "FourthCorner"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSolid property. Gets or sets the fourth corner."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsolid/fourthcorner/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsolid/fourthcorner/"
+product_version: "26.9"
 ---
 ## CadSolid.FourthCorner property
 
@@ -20,9 +23,8 @@ The fourth corner.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadSolid](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadSolid](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

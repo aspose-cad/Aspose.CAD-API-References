@@ -1,10 +1,13 @@
 ---
-title: CadAcshWedgeClass.Length
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcshWedgeClass property. The length
+title: "CadAcshWedgeClass.Length"
+linktitle: "Length"
+articleTitle: "Length"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcshWedgeClass property. The length"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshwedgeclass/length/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshwedgeclass/length/"
+product_version: "26.9"
 ---
 ## CadAcshWedgeClass.Length property
 
@@ -16,8 +19,7 @@ public double Length { get; set; }
 
 ### See Also
 
-* class [CadAcshWedgeClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcshWedgeClass](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

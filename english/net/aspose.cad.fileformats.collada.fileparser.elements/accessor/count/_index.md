@@ -1,14 +1,19 @@
 ---
-title: Accessor.Count
-second_title: Aspose.CAD for .NET API Reference
-description: Accessor property. Gets or sets the count. The count attribute indicates the number of times the array is accessed. Required attribute
+title: "Accessor.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Accessor property. Gets or sets the count. The count attribute indicates the number of times the array is accessed. Required attribute."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/accessor/count/
+weight: 30
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/accessor/count/"
+product_version: "26.9"
 ---
 ## Accessor.Count property
 
-Gets or sets the count. The count attribute indicates the number of times the array is accessed. Required attribute.
+Gets or sets the count.
+ The count attribute indicates the number of times the array is accessed.
+ Required attribute.
 
 ```csharp
 public ulong Count { get; set; }
@@ -16,8 +21,7 @@ public ulong Count { get; set; }
 
 ### See Also
 
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

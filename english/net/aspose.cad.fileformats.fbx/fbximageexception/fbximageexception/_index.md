@@ -1,10 +1,13 @@
 ---
-title: FbxImageException.FbxImageException
-second_title: Aspose.CAD for .NET API Reference
-description: FbxImageException constructor. Initializes a new instance of the FbxImageException class
+title: "FbxImageException.FbxImageException"
+linktitle: "FbxImageException"
+articleTitle: "FbxImageException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FbxImageException constructor. Initializes a new instance of the FbxImageException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.fbx/fbximageexception/fbximageexception/
+url: "/net/aspose.cad.fileformats.fbx/fbximageexception/fbximageexception/"
+product_version: "26.9"
 ---
 ## FbxImageException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public FbxImageException(string message)
 
 ### See Also
 
-* class [FbxImageException](../)
-* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
-* assembly [Aspose.CAD](../../../)
+* class [FbxImageException](../)
+* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## FbxImageException(string, Exception) {#constructor_1}
+## FbxImageException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`FbxImageException`](../) class.
 
@@ -41,8 +44,7 @@ public FbxImageException(string message, Exception innerException)
 
 ### See Also
 
-* class [FbxImageException](../)
-* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FbxImageException](../)
+* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
+* assembly [Aspose.CAD](../../../)
 

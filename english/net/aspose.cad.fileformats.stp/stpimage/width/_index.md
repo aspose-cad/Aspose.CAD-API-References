@@ -1,10 +1,13 @@
 ---
-title: StpImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: StpImage property. Gets the image width
+title: "StpImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StpImage property. Gets the image width."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.stp/stpimage/width/
+weight: 220
+url: "/net/aspose.cad.fileformats.stp/stpimage/width/"
+product_version: "26.9"
 ---
 ## StpImage.Width property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's width: " + drawing.Width);
 
 ### See Also
 
-* class [StpImage](../)
-* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StpImage](../)
+* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
+* assembly [Aspose.CAD](../../../)
 

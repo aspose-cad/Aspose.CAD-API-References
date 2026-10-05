@@ -1,10 +1,13 @@
 ---
-title: CadVertexPolyFaceMesh.StartingWidth
-second_title: Aspose.CAD for .NET API Reference
-description: CadVertexPolyFaceMesh property. Gets or sets the starting width
+title: "CadVertexPolyFaceMesh.StartingWidth"
+linktitle: "StartingWidth"
+articleTitle: "StartingWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVertexPolyFaceMesh property. Gets or sets the starting width."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexpolyfacemesh/startingwidth/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexpolyfacemesh/startingwidth/"
+product_version: "26.9"
 ---
 ## CadVertexPolyFaceMesh.StartingWidth property
 
@@ -16,8 +19,7 @@ public override double StartingWidth { get; set; }
 
 ### See Also
 
-* class [CadVertexPolyFaceMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVertexPolyFaceMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

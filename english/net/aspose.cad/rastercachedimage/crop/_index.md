@@ -1,10 +1,13 @@
 ---
-title: RasterCachedImage.Crop
-second_title: Aspose.CAD for .NET API Reference
-description: RasterCachedImage method. Cropping the image
+title: "RasterCachedImage.Crop"
+linktitle: "Crop"
+articleTitle: "Crop"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterCachedImage method. Cropping the image."
 type: docs
-weight: 90
-url: /net/aspose.cad/rastercachedimage/crop/
+weight: 50
+url: "/net/aspose.cad/rastercachedimage/crop/"
+product_version: "26.9"
 ---
 ## RasterCachedImage.Crop method
 
@@ -20,9 +23,8 @@ public override void Crop(Rectangle rectangle)
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* class [RasterCachedImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

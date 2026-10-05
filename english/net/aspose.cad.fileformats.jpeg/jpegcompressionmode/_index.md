@@ -1,10 +1,13 @@
 ---
-title: Enum JpegCompressionMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Jpeg.JpegCompressionMode enum. Compression mode for jpeg images
+title: "JpegCompressionMode Enum"
+linktitle: "JpegCompressionMode"
+articleTitle: "JpegCompressionMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Jpeg.JpegCompressionMode enum. Compression mode for jpeg images."
 type: docs
-weight: 33750
-url: /net/aspose.cad.fileformats.jpeg/jpegcompressionmode/
+weight: 50
+url: "/net/aspose.cad.fileformats.jpeg/jpegcompressionmode/"
+product_version: "26.9"
 ---
 ## JpegCompressionMode enumeration
 
@@ -25,7 +28,6 @@ public enum JpegCompressionMode
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Jpeg](../../aspose.cad.fileformats.jpeg/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Jpeg](../../aspose.cad.fileformats.jpeg/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StepSphericalSurface.StepSphericalSurface
-second_title: Aspose.CAD for .NET API Reference
-description: StepSphericalSurface constructor. The default constructor
+title: "StepSphericalSurface.StepSphericalSurface"
+linktitle: "StepSphericalSurface"
+articleTitle: "StepSphericalSurface"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepSphericalSurface constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stp.items/stepsphericalsurface/stepsphericalsurface/
+url: "/net/aspose.cad.fileformats.stp.items/stepsphericalsurface/stepsphericalsurface/"
+product_version: "26.9"
 ---
 ## StepSphericalSurface() {#constructor}
 
@@ -16,23 +19,24 @@ public StepSphericalSurface()
 
 ### See Also
 
-* class [StepSphericalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
+* class [StepSphericalSurface](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## StepSphericalSurface(string, StepAxis2Placement3D, double) {#constructor_1}
+## StepSphericalSurface(string, StepAxis2Placement3D, double) {#constructor_1}
+
+Initializes a new instance of the StepSphericalSurface class.
 
 ```csharp
-public StepSphericalSurface(string name, StepAxis2Placement3D axis, double _radius)
+public StepSphericalSurface(string name, StepAxis2Placement3D position, double radius)
 ```
 
 ### See Also
 
-* class [StepAxis2Placement3D](../../stepaxis2placement3d/)
-* class [StepSphericalSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepAxis2Placement3D](../../stepaxis2placement3d/)
+* class [StepSphericalSurface](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

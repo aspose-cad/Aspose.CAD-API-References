@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Cad.CadParameters
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains specific Cad file format variables
+title: "Aspose.CAD.FileFormats.Cad.CadParameters"
+linktitle: "Aspose.CAD.FileFormats.Cad.CadParameters"
+articleTitle: "Aspose.CAD.FileFormats.Cad.CadParameters"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains specific Cad file format variables."
 type: docs
-weight: 340
-url: /net/aspose.cad.fileformats.cad.cadparameters/
+weight: 10
+url: "/net/aspose.cad.fileformats.cad.cadparameters/"
+keywords: "Aspose.CAD.FileFormats.Cad.CadParameters, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains specific Cad file format variables.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -21,5 +29,4 @@ The namespace contains specific Cad file format variables.
 | [CadParameter&lt;T&gt;](./cadparameter-1/) | Parameter generic base class |
 | [CadShortParameter](./cadshortparameter/) | The Cad short parameter. |
 | [CadStringParameter](./cadstringparameter/) | The Cad string parameter. |
-
 

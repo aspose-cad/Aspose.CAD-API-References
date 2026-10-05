@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSLatitudeRef
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the GPS latitude is north or south latitude
+title: "ExifData.GPSLatitudeRef"
+linktitle: "GPSLatitudeRef"
+articleTitle: "GPSLatitudeRef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the GPS latitude is north or south latitude."
 type: docs
-weight: 530
-url: /net/aspose.cad.exif/exifdata/gpslatituderef/
+weight: 550
+url: "/net/aspose.cad.exif/exifdata/gpslatituderef/"
+product_version: "26.9"
 ---
 ## ExifData.GPSLatitudeRef property
 
@@ -20,8 +23,7 @@ The GPS latitude is north or south latitude.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

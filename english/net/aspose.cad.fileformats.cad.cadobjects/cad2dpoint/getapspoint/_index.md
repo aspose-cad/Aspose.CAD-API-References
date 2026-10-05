@@ -1,23 +1,25 @@
 ---
-title: Cad2DPoint.GetApsPoint
-second_title: Aspose.CAD for .NET API Reference
-description: Cad2DPoint method. Gets the aps point
+title: "Cad2DPoint.GetApsPoint"
+linktitle: "GetApsPoint"
+articleTitle: "GetApsPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad2DPoint method. Gets the aps point."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/getapspoint/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/getapspoint/"
+product_version: "26.9"
 ---
 ## Cad2DPoint.GetApsPoint method
 
 Gets the aps point.
 
 ```csharp
-public #=zx$8VgZd$cCFa9AYpdhbJjwA= GetApsPoint()
+public #=zmR4zjIIHlowbRoENELxUY50= GetApsPoint()
 ```
 
 ### See Also
 
-* class [Cad2DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

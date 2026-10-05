@@ -1,10 +1,13 @@
 ---
-title: DwfWhipFont.WidthScale
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipFont property. Gets width scale
+title: "DwfWhipFont.WidthScale"
+linktitle: "WidthScale"
+articleTitle: "WidthScale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipFont property. Gets width scale"
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/widthscale/
+weight: 80
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/widthscale/"
+product_version: "26.9"
 ---
 ## DwfWhipFont.WidthScale property
 
@@ -16,9 +19,8 @@ public DwfWhipOptionFontWidthScale WidthScale { get; }
 
 ### See Also
 
-* class [DwfWhipOptionFontWidthScale](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontwidthscale/)
-* class [DwfWhipFont](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipOptionFontWidthScale](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontwidthscale/)
+* class [DwfWhipFont](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../../)
 

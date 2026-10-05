@@ -1,10 +1,13 @@
 ---
-title: CadViewport.GridSpacing
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the grid spacing
+title: "CadViewport.GridSpacing"
+linktitle: "GridSpacing"
+articleTitle: "GridSpacing"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the grid spacing."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/gridspacing/
+weight: 190
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/gridspacing/"
+product_version: "26.9"
 ---
 ## CadViewport.GridSpacing property
 
@@ -16,9 +19,8 @@ public Cad2DPoint GridSpacing { get; set; }
 
 ### See Also
 
-* class [Cad2DPoint](../../cad2dpoint/)
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../cad2dpoint/)
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

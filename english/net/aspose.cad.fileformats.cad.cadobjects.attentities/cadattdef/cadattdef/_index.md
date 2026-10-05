@@ -1,10 +1,13 @@
 ---
-title: CadAttDef.CadAttDef
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttDef constructor. Initializes a new instance of the CadAttDef class
+title: "CadAttDef.CadAttDef"
+linktitle: "CadAttDef"
+articleTitle: "CadAttDef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttDef constructor. Initializes a new instance of the CadAttDef class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/cadattdef/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/cadattdef/"
+product_version: "26.9"
 ---
 ## CadAttDef constructor
 
@@ -16,8 +19,7 @@ public CadAttDef()
 
 ### See Also
 
-* class [CadAttDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAttDef](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

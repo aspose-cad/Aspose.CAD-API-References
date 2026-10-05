@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.ScannerManufacturer
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the scanner manufacturer
+title: "TiffOptions.ScannerManufacturer"
+linktitle: "ScannerManufacturer"
+articleTitle: "ScannerManufacturer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the scanner manufacturer."
 type: docs
-weight: 360
-url: /net/aspose.cad.imageoptions/tiffoptions/scannermanufacturer/
+weight: 320
+url: "/net/aspose.cad.imageoptions/tiffoptions/scannermanufacturer/"
+product_version: "26.9"
 ---
 ## TiffOptions.ScannerManufacturer property
 
@@ -20,8 +23,7 @@ The scanner manufacturer.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

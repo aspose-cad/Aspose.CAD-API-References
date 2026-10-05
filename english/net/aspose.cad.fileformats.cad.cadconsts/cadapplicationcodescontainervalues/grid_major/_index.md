@@ -1,10 +1,13 @@
 ---
-title: CadApplicationCodesContainerValues.GRID_MAJOR
-second_title: Aspose.CAD for .NET API Reference
-description: CadApplicationCodesContainerValues field. The grid major
+title: "CadApplicationCodesContainerValues.GRID_MAJOR"
+linktitle: "GRID_MAJOR"
+articleTitle: "GRID_MAJOR"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadApplicationCodesContainerValues field. The grid major"
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/grid_major/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadapplicationcodescontainervalues/grid_major/"
+product_version: "26.9"
 ---
 ## CadApplicationCodesContainerValues.GRID_MAJOR field
 
@@ -16,8 +19,7 @@ public const string GRID_MAJOR;
 
 ### See Also
 
-* class [CadApplicationCodesContainerValues](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadApplicationCodesContainerValues](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

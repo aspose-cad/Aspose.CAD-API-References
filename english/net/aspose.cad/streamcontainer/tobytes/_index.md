@@ -1,14 +1,17 @@
 ---
-title: StreamContainer.ToBytes
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer method. Converts the stream data to the Byte array
+title: "StreamContainer.ToBytes"
+linktitle: "ToBytes"
+articleTitle: "ToBytes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer method. Converts the stream data to the Byte array."
 type: docs
-weight: 160
-url: /net/aspose.cad/streamcontainer/tobytes/
+weight: 80
+url: "/net/aspose.cad/streamcontainer/tobytes/"
+product_version: "26.9"
 ---
 ## ToBytes() {#tobytes}
 
-Converts the stream data to the Byte array.
+Converts the stream data to the `Byte` array.
 
 ```csharp
 public virtual byte[] ToBytes()
@@ -16,19 +19,19 @@ public virtual byte[] ToBytes()
 
 ### Return Value
 
-The stream data converted to the Byte array.
+The stream data converted to the `Byte` array.
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## ToBytes(long, long) {#tobytes_1}
+## ToBytes(long, long) {#tobytes_1}
 
-Converts the stream data to the Byte array.
+Converts the stream data to the `Byte` array.
 
 ```csharp
 public virtual byte[] ToBytes(long position, long bytesCount)
@@ -41,12 +44,11 @@ public virtual byte[] ToBytes(long position, long bytesCount)
 
 ### Return Value
 
-The stream data converted to the Byte array.
+The stream data converted to the `Byte` array.
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

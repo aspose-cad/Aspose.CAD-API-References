@@ -1,10 +1,13 @@
 ---
-title: CadDimensionDictionary.ValuesTyped
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionDictionary property. Gets the strongly typed values collection
+title: "CadDimensionDictionary.ValuesTyped"
+linktitle: "ValuesTyped"
+articleTitle: "ValuesTyped"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionDictionary property. Gets the strongly typed values collection."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad/caddimensiondictionary/valuestyped/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad/caddimensiondictionary/valuestyped/"
+product_version: "26.9"
 ---
 ## CadDimensionDictionary.ValuesTyped property
 
@@ -20,9 +23,8 @@ The strongly typed values collection.
 
 ### See Also
 
-* class [CadDimensionStyleTable](../../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/)
-* class [CadDimensionDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionStyleTable](../../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/)
+* class [CadDimensionDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

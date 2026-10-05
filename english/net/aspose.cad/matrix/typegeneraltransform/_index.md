@@ -1,14 +1,22 @@
 ---
-title: Matrix.TypeGeneralTransform
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix field. This constant indicates that the transform defined by this object performs an arbitrary conversion of the input coordinates. If this transform can be classified by any of the above constants the type will either be the constant TypeIdentity or a combination of the appropriate flag bits for the various coordinate conversions that this transform performs
+title: "Matrix.TypeGeneralTransform"
+linktitle: "TypeGeneralTransform"
+articleTitle: "TypeGeneralTransform"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix field. This constant indicates that the transform defined by this object performs an arbitrary conversion of the input coordinates. If this transform ..."
 type: docs
-weight: 230
-url: /net/aspose.cad/matrix/typegeneraltransform/
+weight: 400
+url: "/net/aspose.cad/matrix/typegeneraltransform/"
+product_version: "26.9"
 ---
 ## Matrix.TypeGeneralTransform field
 
-This constant indicates that the transform defined by this object performs an arbitrary conversion of the input coordinates. If this transform can be classified by any of the above constants, the type will either be the constant TypeIdentity or a combination of the appropriate flag bits for the various coordinate conversions that this transform performs.
+This constant indicates that the transform defined by this object
+ performs an arbitrary conversion of the input coordinates.
+ If this transform can be classified by any of the above constants,
+ the type will either be the constant TypeIdentity or a
+ combination of the appropriate flag bits for the various coordinate
+ conversions that this transform performs.
 
 ```csharp
 public const int TypeGeneralTransform;
@@ -16,8 +24,7 @@ public const int TypeGeneralTransform;
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

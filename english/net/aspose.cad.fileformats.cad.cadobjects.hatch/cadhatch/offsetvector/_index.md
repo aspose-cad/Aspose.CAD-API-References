@@ -1,10 +1,13 @@
 ---
-title: CadHatch.OffsetVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the offset vector
+title: "CadHatch.OffsetVector"
+linktitle: "OffsetVector"
+articleTitle: "OffsetVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the offset vector."
 type: docs
 weight: 250
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/offsetvector/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/offsetvector/"
+product_version: "26.9"
 ---
 ## CadHatch.OffsetVector property
 
@@ -16,8 +19,7 @@ public double OffsetVector { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

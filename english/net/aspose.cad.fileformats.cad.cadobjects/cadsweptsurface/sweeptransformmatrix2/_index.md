@@ -1,10 +1,13 @@
 ---
-title: CadSweptSurface.SweepTransformMatrix2
-second_title: Aspose.CAD for .NET API Reference
-description: CadSweptSurface property. Gets or sets the sweep transform matrix 2
+title: "CadSweptSurface.SweepTransformMatrix2"
+linktitle: "SweepTransformMatrix2"
+articleTitle: "SweepTransformMatrix2"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSweptSurface property. Gets or sets the sweep transform matrix 2."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/sweeptransformmatrix2/
+weight: 240
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/sweeptransformmatrix2/"
+product_version: "26.9"
 ---
 ## CadSweptSurface.SweepTransformMatrix2 property
 
@@ -16,8 +19,7 @@ public List<double> SweepTransformMatrix2 { get; set; }
 
 ### See Also
 
-* class [CadSweptSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSweptSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Interface ISvgResourceKeeperCallback
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.SvgOptionsParameters.ISvgResourceKeeperCallback interface. The svg callback interface
+title: "ISvgResourceKeeperCallback Interface"
+linktitle: "ISvgResourceKeeperCallback"
+articleTitle: "ISvgResourceKeeperCallback"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.SvgOptionsParameters.ISvgResourceKeeperCallback interface. The svg callback interface"
 type: docs
-weight: 36760
-url: /net/aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/
+weight: 50
+url: "/net/aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/"
+product_version: "26.9"
 ---
 ## ISvgResourceKeeperCallback interface
 
@@ -19,12 +22,11 @@ public interface ISvgResourceKeeperCallback
 | Name | Description |
 | --- | --- |
 | [OnFontResourceReady](../../aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onfontresourceready/)(FontStoringArgs) | Called for each font used in SVG. Use it to specify how to store the font. |
-| [OnImageResourceReady](../../aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onimageresourceready/)(byte[], SvgImageType, string, ref bool) | Called for each raster image in SVG. Use it to specify how to store the raster image. |
-| [OnSvgDocumentReady](../../aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onsvgdocumentready/)(byte[], string) | Called when SVG document is ready. |
+| [OnImageResourceReady](../../aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onimageresourceready/)(byte[], SvgImageType, string, ref bool) | Called for each raster image in SVG. Use it to specify how to store the raster image. |
+| [OnSvgDocumentReady](../../aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onsvgdocumentready/)(byte[], string) | Called when SVG document is ready. |
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../aspose.cad.imageoptions.svgoptionsparameters/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../aspose.cad.imageoptions.svgoptionsparameters/)
+* assembly [Aspose.CAD](../../)
 

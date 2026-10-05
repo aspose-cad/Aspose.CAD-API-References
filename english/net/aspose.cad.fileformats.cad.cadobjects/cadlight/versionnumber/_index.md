@@ -1,10 +1,13 @@
 ---
-title: CadLight.VersionNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadLight property. Gets or sets the version number
+title: "CadLight.VersionNumber"
+linktitle: "VersionNumber"
+articleTitle: "VersionNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLight property. Gets or sets the version number."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/versionnumber/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlight/versionnumber/"
+product_version: "26.9"
 ---
 ## CadLight.VersionNumber property
 
@@ -20,8 +23,7 @@ The version number.
 
 ### See Also
 
-* class [CadLight](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLight](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,52 +1,14 @@
 ---
-title: Image.GetFileFormat
-second_title: Aspose.CAD for .NET API Reference
-description: Image method. Gets the file format
+title: "Image.GetFileFormat"
+linktitle: "GetFileFormat"
+articleTitle: "GetFileFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image method. Gets the file format."
 type: docs
-weight: 200
-url: /net/aspose.cad/image/getfileformat/
+weight: 50
+url: "/net/aspose.cad/image/getfileformat/"
+product_version: "26.9"
 ---
-## GetFileFormat(string) {#getfileformat_1}
-
-Gets the file format.
-
-```csharp
-public static FileFormat GetFileFormat(string filePath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filePath | String | The file path. |
-
-### Return Value
-
-The determined file format.
-
-## Remarks
-
-The file format determined does not mean that the specified image may be loaded. Use one of the CanLoad method overloads to determine whether file may be loaded.
-
-## Examples
-
-Determines whether file is a DWG drawing
-
-```csharp
-var fileFormat = Image.GetFileFormat("file.dwg");
-if (fileFormat >= FileFormat.CadR010 && fileFormat <= FileFormat.CadR2010)
-{
-    Console.WriteLine("This is a DWG drawing");
-}
-```
-
-### See Also
-
-* enum [FileFormat](../../fileformat/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
 ## GetFileFormat(Stream) {#getfileformat}
 
 Gets the file format.
@@ -84,9 +46,49 @@ using (var f = File.OpenRead("file.dxf"))
 
 ### See Also
 
-* enum [FileFormat](../../fileformat/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* enum [FileFormat](../../fileformat/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
+---
+
+## GetFileFormat(string) {#getfileformat_1}
+
+Gets the file format.
+
+```csharp
+public static FileFormat GetFileFormat(string filePath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | String | The file path. |
+
+### Return Value
+
+The determined file format.
+
+## Remarks
+
+The file format determined does not mean that the specified image may be loaded. Use one of the CanLoad method overloads to determine whether file may be loaded.
+
+## Examples
+
+Determines whether file is a DWG drawing
+
+```csharp
+var fileFormat = Image.GetFileFormat("file.dwg");
+if (fileFormat >= FileFormat.CadR010 && fileFormat <= FileFormat.CadR2010)
+{
+    Console.WriteLine("This is a DWG drawing");
+}
+```
+
+### See Also
+
+* enum [FileFormat](../../fileformat/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

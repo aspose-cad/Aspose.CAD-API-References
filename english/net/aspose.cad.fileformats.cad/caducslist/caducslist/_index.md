@@ -1,10 +1,13 @@
 ---
-title: CadUcsList.CadUcsList
-second_title: Aspose.CAD for .NET API Reference
-description: CadUcsList constructor. Initializes a new instance of the CadUcsList class
+title: "CadUcsList.CadUcsList"
+linktitle: "CadUcsList"
+articleTitle: "CadUcsList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadUcsList constructor. Initializes a new instance of the CadUcsList class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/caducslist/caducslist/
+url: "/net/aspose.cad.fileformats.cad/caducslist/caducslist/"
+product_version: "26.9"
 ---
 ## CadUcsList constructor
 
@@ -16,8 +19,7 @@ public CadUcsList()
 
 ### See Also
 
-* class [CadUcsList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadUcsList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

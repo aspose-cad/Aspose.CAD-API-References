@@ -1,10 +1,13 @@
 ---
-title: IRasterImageArgb32PixelLoader.LoadPartialArgb32Pixels
-second_title: Aspose.CAD for .NET API Reference
-description: IRasterImageArgb32PixelLoader method. Loads 32bit ARGB pixels partially by blocks
+title: "IRasterImageArgb32PixelLoader.LoadPartialArgb32Pixels"
+linktitle: "LoadPartialArgb32Pixels"
+articleTitle: "LoadPartialArgb32Pixels"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IRasterImageArgb32PixelLoader method. Loads 32-bit ARGB pixels partially (by blocks)."
 type: docs
 weight: 10
-url: /net/aspose.cad/irasterimageargb32pixelloader/loadpartialargb32pixels/
+url: "/net/aspose.cad/irasterimageargb32pixelloader/loadpartialargb32pixels/"
+product_version: "26.9"
 ---
 ## IRasterImageArgb32PixelLoader.LoadPartialArgb32Pixels method
 
@@ -22,10 +25,9 @@ public void LoadPartialArgb32Pixels(Rectangle rectangle,
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
-* interface [IRasterImageArgb32PixelLoader](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
+* interface [IRasterImageArgb32PixelLoader](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class DgnPoint
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnPoint class. Represents point for DGN format
+title: "DgnPoint Class"
+linktitle: "DgnPoint"
+articleTitle: "DgnPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnPoint class. Represents point for DGN format"
 type: docs
-weight: 9120
-url: /net/aspose.cad.fileformats.dgn/dgnpoint/
+weight: 140
+url: "/net/aspose.cad.fileformats.dgn/dgnpoint/"
+keywords: "DgnPoint, Aspose.CAD.FileFormats.Dgn, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnPoint class
 
@@ -19,20 +23,19 @@ public class DgnPoint
 | Name | Description |
 | --- | --- |
 | [DgnPoint](dgnpoint/#constructor)() | Initiailizes a new instance of the `DgnPoint` class |
-| [DgnPoint](dgnpoint/#constructor_1)(double, double) | Initiailizes a new instance of the `DgnPoint` class |
-| [DgnPoint](dgnpoint/#constructor_2)(double, double, double) | Initiailizes a new instance of the `DgnPoint` class |
+| [DgnPoint](dgnpoint/#constructor_1)(double, double) | Initiailizes a new instance of the `DgnPoint` class |
+| [DgnPoint](dgnpoint/#constructor_2)(double, double, double) | Initiailizes a new instance of the `DgnPoint` class |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [X](../../aspose.cad.fileformats.dgn/dgnpoint/x/) { get; set; } | Gets or sets X coordinate |
-| [Y](../../aspose.cad.fileformats.dgn/dgnpoint/y/) { get; set; } | Gets or sets Y coordinate |
-| [Z](../../aspose.cad.fileformats.dgn/dgnpoint/z/) { get; set; } | Gets or sets Z coordinate |
+| [X](../../aspose.cad.fileformats.dgn/dgnpoint/x/) { get; set; } | Gets or sets X coordinate |
+| [Y](../../aspose.cad.fileformats.dgn/dgnpoint/y/) { get; set; } | Gets or sets Y coordinate |
+| [Z](../../aspose.cad.fileformats.dgn/dgnpoint/z/) { get; set; } | Gets or sets Z coordinate |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../)
 

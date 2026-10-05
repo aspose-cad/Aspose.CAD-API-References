@@ -1,10 +1,13 @@
 ---
-title: CadPlotSettings.PlotWindowArea1
-second_title: Aspose.CAD for .NET API Reference
-description: CadPlotSettings property. Gets or sets the plot window area1
+title: "CadPlotSettings.PlotWindowArea1"
+linktitle: "PlotWindowArea1"
+articleTitle: "PlotWindowArea1"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPlotSettings property. Gets or sets the plot window area1."
 type: docs
 weight: 170
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotwindowarea1/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotwindowarea1/"
+product_version: "26.9"
 ---
 ## CadPlotSettings.PlotWindowArea1 property
 
@@ -20,9 +23,8 @@ The plot window area1.
 
 ### See Also
 
-* class [Cad2DPoint](../../cad2dpoint/)
-* class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../cad2dpoint/)
+* class [CadPlotSettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Node.Flatten
-second_title: Aspose.CAD for .NET API Reference
-description: Node method. Returns all the Node instances of a visual hierarchy as a flattened list
+title: "Node.Flatten"
+linktitle: "Flatten"
+articleTitle: "Flatten"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Node method. Returns all the Node instances of a visual hierarchy as a flattened list."
 type: docs
-weight: 270
-url: /net/aspose.cad.fileformats.glb/node/flatten/
+weight: 90
+url: "/net/aspose.cad.fileformats.glb/node/flatten/"
+product_version: "26.9"
 ---
 ## Node.Flatten method
 
@@ -24,9 +27,8 @@ A collection of [`Node`](../) instances.
 
 ### See Also
 
-* interface [IVisualNodeContainer](../../ivisualnodecontainer/)
-* class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../)
+* interface [IVisualNodeContainer](../../ivisualnodecontainer/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.StyleTopAttachment
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets style top attachment type
+title: "CadMLeaderContextData.StyleTopAttachment"
+linktitle: "StyleTopAttachment"
+articleTitle: "StyleTopAttachment"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets style top attachment type."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/styletopattachment/
+weight: 470
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/styletopattachment/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.StyleTopAttachment property
 
@@ -16,8 +19,7 @@ public short StyleTopAttachment { get; set; }
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

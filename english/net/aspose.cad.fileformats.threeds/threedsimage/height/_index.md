@@ -1,10 +1,13 @@
 ---
-title: ThreeDSImage.Height
-second_title: Aspose.CAD for .NET API Reference
-description: ThreeDSImage property. Gets the image height
+title: "ThreeDSImage.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThreeDSImage property. Gets the image height."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.threeds/threedsimage/height/
+weight: 50
+url: "/net/aspose.cad.fileformats.threeds/threedsimage/height/"
+product_version: "26.9"
 ---
 ## ThreeDSImage.Height property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's height: " + drawing.Height);
 
 ### See Also
 
-* class [ThreeDSImage](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThreeDSImage](../)
+* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
+* assembly [Aspose.CAD](../../../)
 

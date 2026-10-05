@@ -1,10 +1,13 @@
 ---
-title: RasterImage.SaveCmykPixels
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Saves the pixels
+title: "RasterImage.SaveCmykPixels"
+linktitle: "SaveCmykPixels"
+articleTitle: "SaveCmykPixels"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Saves the pixels."
 type: docs
-weight: 400
-url: /net/aspose.cad/rasterimage/savecmykpixels/
+weight: 360
+url: "/net/aspose.cad/rasterimage/savecmykpixels/"
+product_version: "26.9"
 ---
 ## RasterImage.SaveCmykPixels method
 
@@ -21,10 +24,9 @@ public void SaveCmykPixels(Rectangle rectangle, CmykColor[] pixels)
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* struct [CmykColor](../../cmykcolor/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* struct [CmykColor](../../cmykcolor/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

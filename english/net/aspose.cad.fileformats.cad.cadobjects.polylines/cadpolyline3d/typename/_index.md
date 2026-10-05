@@ -1,10 +1,13 @@
 ---
-title: CadPolyline3D.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolyline3D property. Gets the name of the type
+title: "CadPolyline3D.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolyline3D property. Gets the name of the type."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline3d/typename/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline3d/typename/"
+product_version: "26.9"
 ---
 ## CadPolyline3D.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadPolyline3D](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadPolyline3D](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

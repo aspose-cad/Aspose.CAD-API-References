@@ -1,10 +1,13 @@
 ---
-title: Point3D.NormalVector
-second_title: Aspose.CAD for .NET API Reference
-description: Point3D method. Get normal vector of a plane
+title: "Point3D.NormalVector"
+linktitle: "NormalVector"
+articleTitle: "NormalVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point3D method. Get normal vector of a plane."
 type: docs
-weight: 40
-url: /net/aspose.cad.primitives/point3d/normalvector/
+weight: 100
+url: "/net/aspose.cad.primitives/point3d/normalvector/"
+product_version: "26.9"
 ---
 ## Point3D.NormalVector method
 
@@ -26,8 +29,7 @@ Normal vector of a plane
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

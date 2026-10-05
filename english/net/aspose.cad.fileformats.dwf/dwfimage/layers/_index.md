@@ -1,14 +1,19 @@
 ---
-title: DwfImage.Layers
-second_title: Aspose.CAD for .NET API Reference
-description: DwfImage property. Gets DWF pages layers. Returns the enumerable collection of DWF layers. The DWF data can be assigned to a specific DWF layer which is a grouping drawing objects
+title: "DwfImage.Layers"
+linktitle: "Layers"
+articleTitle: "Layers"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfImage property. Gets DWF pages layers. Returns the enumerable collection of DWF layers. The DWF data can be assigned to a specific DWF layer, which is a g..."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.dwf/dwfimage/layers/
+weight: 100
+url: "/net/aspose.cad.fileformats.dwf/dwfimage/layers/"
+product_version: "26.9"
 ---
 ## DwfImage.Layers property
 
-Gets DWF pages layers. Returns the enumerable collection of DWF layers. The DWF data can be assigned to a specific DWF layer, which is a grouping drawing objects.
+Gets DWF pages layers.
+ Returns the enumerable collection of DWF layers.
+ The DWF data can be assigned to a specific DWF layer, which is a grouping drawing objects.
 
 ```csharp
 public DwfLayersList Layers { get; }
@@ -41,9 +46,8 @@ using (DwfImage image = (DwfImage) Aspose.CAD.Image.Load(file))
 
 ### See Also
 
-* class [DwfLayersList](../../dwflayerslist/)
-* class [DwfImage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfLayersList](../../dwflayerslist/)
+* class [DwfImage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

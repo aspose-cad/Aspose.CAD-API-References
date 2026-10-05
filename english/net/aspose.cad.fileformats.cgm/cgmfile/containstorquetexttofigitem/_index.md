@@ -1,10 +1,13 @@
 ---
-title: CgmFile.ContainsTorqueTextToFigItem
-second_title: Aspose.CAD for .NET API Reference
-description: CgmFile method. Determines whether the torque text 20 Nm 177 lbin exists nearby the figure item
+title: "CgmFile.ContainsTorqueTextToFigItem"
+linktitle: "ContainsTorqueTextToFigItem"
+articleTitle: "ContainsTorqueTextToFigItem"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmFile method. Determines whether the torque text (\"20 Nm (177 lb-in)\" exists nearby the figure item)"
 type: docs
-weight: 280
-url: /net/aspose.cad.fileformats.cgm/cgmfile/containstorquetexttofigitem/
+weight: 90
+url: "/net/aspose.cad.fileformats.cgm/cgmfile/containstorquetexttofigitem/"
+product_version: "26.9"
 ---
 ## CgmFile.ContainsTorqueTextToFigItem method
 
@@ -25,8 +28,7 @@ public bool ContainsTorqueTextToFigItem(string torqueText, string figureItemNumb
 
 ### See Also
 
-* class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

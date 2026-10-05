@@ -1,10 +1,13 @@
 ---
-title: CgmColor.CgmColor
-second_title: Aspose.CAD for .NET API Reference
-description: CgmColor constructor. The default constructor
+title: "CgmColor.CgmColor"
+linktitle: "CgmColor"
+articleTitle: "CgmColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmColor constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.classes/cgmcolor/cgmcolor/
+url: "/net/aspose.cad.fileformats.cgm.classes/cgmcolor/cgmcolor/"
+product_version: "26.9"
 ---
 ## CgmColor constructor
 
@@ -16,8 +19,7 @@ public CgmColor()
 
 ### See Also
 
-* class [CgmColor](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmColor](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../../)
 

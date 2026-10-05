@@ -1,10 +1,13 @@
 ---
-title: InstanceVisualScene.InstanceVisualScene
-second_title: Aspose.CAD for .NET API Reference
-description: InstanceVisualScene constructor. The default constructor
+title: "InstanceVisualScene.InstanceVisualScene"
+linktitle: "InstanceVisualScene"
+articleTitle: "InstanceVisualScene"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "InstanceVisualScene constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancevisualscene/instancevisualscene/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/instancevisualscene/instancevisualscene/"
+product_version: "26.9"
 ---
 ## InstanceVisualScene constructor
 
@@ -16,8 +19,7 @@ public InstanceVisualScene()
 
 ### See Also
 
-* class [InstanceVisualScene](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InstanceVisualScene](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadBlock1PtParameters.BlockParameterList
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlock1PtParameters property. Gets or sets the block parameter list
+title: "CadBlock1PtParameters.BlockParameterList"
+linktitle: "BlockParameterList"
+articleTitle: "BlockParameterList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlock1PtParameters property. Gets or sets the block parameter list."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblock1ptparameters/blockparameterlist/
+weight: 10
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblock1ptparameters/blockparameterlist/"
+product_version: "26.9"
 ---
 ## CadBlock1PtParameters.BlockParameterList property
 
@@ -20,9 +23,8 @@ The block parameter list.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadBlock1PtParameters](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadBlock1PtParameters](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

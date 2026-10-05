@@ -1,10 +1,13 @@
 ---
-title: IfcCollection.TypeOfT
-second_title: Aspose.CAD for .NET API Reference
-description: IfcCollection property. Gets or sets the type of items in the collection
+title: "IfcCollection.TypeOfT"
+linktitle: "TypeOfT"
+articleTitle: "TypeOfT"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcCollection property. Gets or sets the type of items in the collection."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.ifc/ifccollection/typeoft/
+weight: 30
+url: "/net/aspose.cad.fileformats.ifc/ifccollection/typeoft/"
+product_version: "26.9"
 ---
 ## IfcCollection.TypeOfT property
 
@@ -20,8 +23,7 @@ The type of t.
 
 ### See Also
 
-* class [IfcCollection](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcCollection](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DwfMergeOptions.MergeType
-second_title: Aspose.CAD for .NET API Reference
-description: DwfMergeOptions property. Gets or sets the merge type
+title: "DwfMergeOptions.MergeType"
+linktitle: "MergeType"
+articleTitle: "MergeType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfMergeOptions property. Gets or sets the merge type."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.dwf/dwfmergeoptions/mergetype/
+weight: 20
+url: "/net/aspose.cad.fileformats.dwf/dwfmergeoptions/mergetype/"
+product_version: "26.9"
 ---
 ## DwfMergeOptions.MergeType property
 
@@ -16,9 +19,8 @@ public DwfMergeType MergeType { get; set; }
 
 ### See Also
 
-* enum [DwfMergeType](../../dwfmergetype/)
-* class [DwfMergeOptions](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [DwfMergeType](../../dwfmergetype/)
+* class [DwfMergeOptions](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

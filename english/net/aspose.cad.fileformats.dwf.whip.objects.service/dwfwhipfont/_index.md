@@ -1,10 +1,14 @@
 ---
-title: Class DwfWhipFont
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipFont class. Represents Font
+title: "DwfWhipFont Class"
+linktitle: "DwfWhipFont"
+articleTitle: "DwfWhipFont"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipFont class. Represents Font"
 type: docs
-weight: 9960
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/
+weight: 30
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/"
+keywords: "DwfWhipFont, Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DwfWhipFont class
 
@@ -24,22 +28,21 @@ public class DwfWhipFont : DwfWhipAttribute
 
 | Name | Description |
 | --- | --- |
-| [CharSet](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/charset/) { get; } | Gets charset |
-| [Family](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/family/) { get; } | Gets font family |
-| [Flags](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/flags/) { get; } | Gets options flags |
-| [Height](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/height/) { get; set; } | Gets or sets Height |
-| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
-| [Name](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/name/) { get; set; } | Gets font name |
-| [Oblique](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/oblique/) { get; set; } | Gets or sets oblique |
-| [Pitch](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/pitch/) { get; } | Gets pitch |
-| [Rotation](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/rotation/) { get; set; } | Gets or sets rotation |
-| [Style](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/style/) { get; } | Gets style |
-| [WidthScale](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/widthscale/) { get; } | Gets width scale |
+| [CharSet](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/charset/) { get; } | Gets charset |
+| [Family](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/family/) { get; } | Gets font family |
+| [Flags](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/flags/) { get; } | Gets options flags |
+| [Height](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/height/) { get; set; } | Gets or sets Height |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
+| [Name](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/name/) { get; set; } | Gets font name |
+| [Oblique](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/oblique/) { get; set; } | Gets or sets oblique |
+| [Pitch](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/pitch/) { get; } | Gets pitch |
+| [Rotation](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/rotation/) { get; set; } | Gets or sets rotation |
+| [Style](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/style/) { get; } | Gets style |
+| [WidthScale](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipfont/widthscale/) { get; } | Gets width scale |
 
 ### See Also
 
-* class [DwfWhipAttribute](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipattribute/)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../)
-
+* class [DwfWhipAttribute](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipattribute/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../)
 

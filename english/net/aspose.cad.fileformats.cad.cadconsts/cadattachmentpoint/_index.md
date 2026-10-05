@@ -1,10 +1,13 @@
 ---
-title: Enum CadAttachmentPoint
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadAttachmentPoint enum. The Cad attachment point
+title: "CadAttachmentPoint Enum"
+linktitle: "CadAttachmentPoint"
+articleTitle: "CadAttachmentPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadAttachmentPoint enum. The Cad attachment point."
 type: docs
-weight: 1200
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadattachmentpoint/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadattachmentpoint/"
+product_version: "26.9"
 ---
 ## CadAttachmentPoint enumeration
 
@@ -30,7 +33,6 @@ public enum CadAttachmentPoint
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.PropertyOverrideFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader property. Gets or sets the property override flag
+title: "CadMLeader.PropertyOverrideFlag"
+linktitle: "PropertyOverrideFlag"
+articleTitle: "PropertyOverrideFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader property. Gets or sets the property override flag."
 type: docs
-weight: 260
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/propertyoverrideflag/
+weight: 250
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/propertyoverrideflag/"
+product_version: "26.9"
 ---
 ## CadMLeader.PropertyOverrideFlag property
 
@@ -20,8 +23,7 @@ The property override flag.
 
 ### See Also
 
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

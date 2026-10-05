@@ -1,10 +1,13 @@
 ---
-title: CadMesh.EdgeCreaseCount
-second_title: Aspose.CAD for .NET API Reference
-description: CadMesh property. Gets or sets the edge crease count
+title: "CadMesh.EdgeCreaseCount"
+linktitle: "EdgeCreaseCount"
+articleTitle: "EdgeCreaseCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMesh property. Gets or sets the edge crease count."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmesh/edgecreasecount/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmesh/edgecreasecount/"
+product_version: "26.9"
 ---
 ## CadMesh.EdgeCreaseCount property
 
@@ -20,8 +23,7 @@ The edge crease count.
 
 ### See Also
 
-* class [CadMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

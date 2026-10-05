@@ -1,10 +1,13 @@
 ---
-title: Enum StepSurfaceSide
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Stp.Items.StepSurfaceSide enum. SurfaceSide enum for STP file
+title: "StepSurfaceSide Enum"
+linktitle: "StepSurfaceSide"
+articleTitle: "StepSurfaceSide"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Stp.Items.StepSurfaceSide enum. SurfaceSide enum for STP file."
 type: docs
-weight: 35030
-url: /net/aspose.cad.fileformats.stp.items/stepsurfaceside/
+weight: 910
+url: "/net/aspose.cad.fileformats.stp.items/stepsurfaceside/"
+product_version: "26.9"
 ---
 ## StepSurfaceSide enumeration
 
@@ -24,7 +27,6 @@ public enum StepSurfaceSide
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IfcImage.Header
-second_title: Aspose.CAD for .NET API Reference
-description: IfcImage property. Gets the header
+title: "IfcImage.Header"
+linktitle: "Header"
+articleTitle: "Header"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcImage property. Gets the header."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.ifc/ifcimage/header/
+weight: 50
+url: "/net/aspose.cad.fileformats.ifc/ifcimage/header/"
+product_version: "26.9"
 ---
 ## IfcImage.Header property
 
@@ -31,9 +34,8 @@ using (IfcImage ifcImage = (IfcImage)Image.Load(fileName))
 
 ### See Also
 
-* class [IfcHeader](../../../aspose.cad.fileformats.ifc.header/ifcheader/)
-* class [IfcImage](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcHeader](../../../aspose.cad.fileformats.ifc.header/ifcheader/)
+* class [IfcImage](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TiffDataType.WriteAdditionalData
-second_title: Aspose.CAD for .NET API Reference
-description: TiffDataType method. Writes the additional tag data
+title: "TiffDataType.WriteAdditionalData"
+linktitle: "WriteAdditionalData"
+articleTitle: "WriteAdditionalData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffDataType method. Writes the additional tag data."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.tiff/tiffdatatype/writeadditionaldata/
+weight: 60
+url: "/net/aspose.cad.fileformats.tiff/tiffdatatype/writeadditionaldata/"
+product_version: "26.9"
 ---
 ## TiffDataType.WriteAdditionalData method
 
@@ -24,9 +27,8 @@ The actual bytes written.
 
 ### See Also
 
-* class [TiffStreamWriter](../../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/)
-* class [TiffDataType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamWriter](../../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/)
+* class [TiffDataType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

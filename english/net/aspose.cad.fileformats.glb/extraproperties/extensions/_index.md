@@ -1,10 +1,13 @@
 ---
-title: ExtraProperties.Extensions
-second_title: Aspose.CAD for .NET API Reference
-description: ExtraProperties property. Gets a collection of JsonSerializable instances
+title: "ExtraProperties.Extensions"
+linktitle: "Extensions"
+articleTitle: "Extensions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExtraProperties property. Gets a collection of JsonSerializable instances."
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.glb/extraproperties/extensions/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb/extraproperties/extensions/"
+product_version: "26.9"
 ---
 ## ExtraProperties.Extensions property
 
@@ -16,9 +19,8 @@ public IReadOnlyCollection<JsonSerializable> Extensions { get; }
 
 ### See Also
 
-* class [JsonSerializable](../../../aspose.cad.fileformats.glb.io/jsonserializable/)
-* class [ExtraProperties](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JsonSerializable](../../../aspose.cad.fileformats.glb.io/jsonserializable/)
+* class [ExtraProperties](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

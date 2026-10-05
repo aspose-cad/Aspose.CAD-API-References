@@ -1,14 +1,19 @@
 ---
-title: InputLocalOffset.Source
-second_title: Aspose.CAD for .NET API Reference
-description: InputLocalOffset property. Gets or sets the source. The source attribute indicates the location of the data source. Required attribute
+title: "InputLocalOffset.Source"
+linktitle: "Source"
+articleTitle: "Source"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "InputLocalOffset property. Gets or sets the source. The source attribute indicates the location of the data source. Required attribute."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/source/
+weight: 40
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/source/"
+product_version: "26.9"
 ---
 ## InputLocalOffset.Source property
 
-Gets or sets the source. The source attribute indicates the location of the data source. Required attribute.
+Gets or sets the source.
+ The source attribute indicates the location of the data source.
+ Required attribute.
 
 ```csharp
 public string Source { get; set; }
@@ -16,8 +21,7 @@ public string Source { get; set; }
 
 ### See Also
 
-* class [InputLocalOffset](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InputLocalOffset](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

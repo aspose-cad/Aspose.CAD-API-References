@@ -1,17 +1,20 @@
 ---
-title: Image.Save
-second_title: Aspose.CAD for .NET API Reference
-description: Image method. Saves the image data to the underlying stream
+title: "Image.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image method. Saves the image data to the underlying stream."
 type: docs
-weight: 160
-url: /net/aspose.cad/image/save/
+weight: 140
+url: "/net/aspose.cad/image/save/"
+product_version: "26.9"
 ---
 ## Save() {#save}
 
 Saves the image data to the underlying stream.
 
 ```csharp
-public void Save()
+public sealed override void Save()
 ```
 
 ## Examples
@@ -27,53 +30,13 @@ using (var image = Aspose.CAD.Image.Load("fileName.dwg"))
 
 ### See Also
 
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Save(string, ImageOptionsBase) {#save_4}
-
-Saves the object's data to the specified file location in the specified file format according to save options.
-
-```csharp
-public virtual void Save(string filePath, ImageOptionsBase options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filePath | String | The file path. |
-| options | ImageOptionsBase | The options. |
-
-## Examples
-
-Exports drawing to BMP with specified size
-
-```csharp
-using (var image = Aspose.CAD.Image.Load("fileName.dwg"))
-{
-    image.Save("targetFile.bmp", new BmpOptions()
-    {
-        VectorRasterizationOptions = new CadRasterizationOptions()
-        {
-            PageWidth = 640,
-            PageHeight = 480
-        }
-    });
-}
-```
-
-### See Also
-
-* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## Save(Stream, ImageOptionsBase) {#save_2}
+## Save(Stream, ImageOptionsBase) {#save_1}
 
 Saves the image's data to the specified stream in the specified file format according to save options.
 
@@ -113,9 +76,48 @@ using (var ms = new MemoryStream())
 
 ### See Also
 
-* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
+---
+
+## Save(string, ImageOptionsBase) {#save_2}
+
+Saves the object's data to the specified file location in the specified file format according to save options.
+
+```csharp
+public virtual void Save(string filePath, ImageOptionsBase options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | String | The file path. |
+| options | ImageOptionsBase | The options. |
+
+## Examples
+
+Exports drawing to BMP with specified size
+
+```csharp
+using (var image = Aspose.CAD.Image.Load("fileName.dwg"))
+{
+    image.Save("targetFile.bmp", new BmpOptions()
+    {
+        VectorRasterizationOptions = new CadRasterizationOptions()
+        {
+            PageWidth = 640,
+            PageHeight = 480
+        }
+    });
+}
+```
+
+### See Also
+
+* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

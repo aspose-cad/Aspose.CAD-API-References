@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.ColorId
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets the color id ACI color of the entity
+title: "CadEntityBase.ColorId"
+linktitle: "ColorId"
+articleTitle: "ColorId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets the color id (ACI color) of the entity."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/"
+product_version: "26.9"
 ---
 ## CadEntityBase.ColorId property
 
@@ -16,12 +19,11 @@ public short ColorId { get; set; }
 
 ### Property Value
 
-An Int32 value representing the entity ACI color value.
+An `Int32` value representing the entity ACI color value.
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

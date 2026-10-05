@@ -1,10 +1,13 @@
 ---
-title: RasterImage.Crop
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Cropping the image
+title: "RasterImage.Crop"
+linktitle: "Crop"
+articleTitle: "Crop"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Cropping the image."
 type: docs
-weight: 200
-url: /net/aspose.cad/rasterimage/crop/
+weight: 90
+url: "/net/aspose.cad/rasterimage/crop/"
+product_version: "26.9"
 ---
 ## Crop(Rectangle) {#crop}
 
@@ -20,14 +23,14 @@ public abstract void Crop(Rectangle rectangle)
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* struct [Rectangle](../../rectangle/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Crop(int, int, int, int) {#crop_1}
+## Crop(int, int, int, int) {#crop_1}
 
 Crop image with shifts.
 
@@ -44,8 +47,7 @@ public virtual void Crop(int leftShift, int rightShift, int topShift, int bottom
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,22 @@
 ---
-title: Class ResourceDictionary
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.ResourceDictionary class. The resource dictionary. The FixedPage.Resources and Canvas.Resources property elements contain exactly one ResourceDictionary element. A resource dictionary contains resource definition element entries. Each resource definition has a key specified in the xKey attribute that is unique within the scope of the resource dictionary. The xKey attribute is included in the Resource Dictionary
+title: "ResourceDictionary Class"
+linktitle: "ResourceDictionary"
+articleTitle: "ResourceDictionary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.ResourceDictionary class. The resource dictionary. The FixedPage.Resources and Canvas.Resources property elem..."
 type: docs
-weight: 9510
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resourcedictionary/
+weight: 270
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resourcedictionary/"
+keywords: "ResourceDictionary, Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ResourceDictionary class
 
-The resource dictionary. The FixedPage.Resources and Canvas.Resources property elements contain exactly one ResourceDictionary element. A resource dictionary contains resource definition element entries. Each resource definition has a key specified in the x:Key attribute that is unique within the scope of the resource dictionary. The x:Key attribute is included in the Resource Dictionary.
+The resource dictionary.
+ The [FixedPage](../fixedpage/).[Resources](../resources/) and [Canvas](../canvas/).[Resources](../resources/) property elements contain exactly one ResourceDictionary element.
+ A resource dictionary contains resource definition element entries.
+ Each resource definition has a key specified in the x:Key attribute that is unique within the scope of the resource dictionary.
+ The x:Key attribute is included in the Resource Dictionary.
 
 ```csharp
 public class ResourceDictionary
@@ -24,12 +32,11 @@ public class ResourceDictionary
 
 | Name | Description |
 | --- | --- |
-| [Items](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resourcedictionary/items/) { get; set; } | Gets or sets the items. Defines a set of reusable resource definitions that can be used as property values in the fixed page markup. |
-| [Source](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resourcedictionary/source/) { get; set; } | Gets or sets the source. Specifies the URI of a part containing markup for a resource dictionary. The URI MUST refer to a part in the package |
+| [Items](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resourcedictionary/items/) { get; set; } | Gets or sets the items. Defines a set of reusable resource definitions that can be used as property values in the fixed page markup. |
+| [Source](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resourcedictionary/source/) { get; set; } | Gets or sets the source. Specifies the URI of a part containing markup for a resource dictionary. The URI MUST refer to a part in the package |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: JpegExifData.Model
-second_title: Aspose.CAD for .NET API Reference
-description: JpegExifData property. Gets or sets the model
+title: "JpegExifData.Model"
+linktitle: "Model"
+articleTitle: "Model"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegExifData property. Gets or sets the model."
 type: docs
-weight: 100
-url: /net/aspose.cad.exif/jpegexifdata/model/
+weight: 130
+url: "/net/aspose.cad.exif/jpegexifdata/model/"
+product_version: "26.9"
 ---
 ## JpegExifData.Model property
 
@@ -20,8 +23,7 @@ The model.
 
 ### See Also
 
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

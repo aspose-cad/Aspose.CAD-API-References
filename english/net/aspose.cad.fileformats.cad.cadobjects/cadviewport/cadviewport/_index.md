@@ -1,10 +1,13 @@
 ---
-title: CadViewport.CadViewport
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport constructor. Initializes a new instance of the CadViewport class
+title: "CadViewport.CadViewport"
+linktitle: "CadViewport"
+articleTitle: "CadViewport"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport constructor. Initializes a new instance of the CadViewport class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/cadviewport/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/cadviewport/"
+product_version: "26.9"
 ---
 ## CadViewport constructor
 
@@ -16,8 +19,7 @@ public CadViewport()
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

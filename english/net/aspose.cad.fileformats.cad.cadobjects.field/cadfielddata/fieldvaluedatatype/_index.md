@@ -1,10 +1,13 @@
 ---
-title: CadFieldData.FieldValueDataType
-second_title: Aspose.CAD for .NET API Reference
-description: CadFieldData property. Gets or sets the type of the field value data
+title: "CadFieldData.FieldValueDataType"
+linktitle: "FieldValueDataType"
+articleTitle: "FieldValueDataType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadFieldData property. Gets or sets the type of the field value data."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/fieldvaluedatatype/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/fieldvaluedatatype/"
+product_version: "26.9"
 ---
 ## CadFieldData.FieldValueDataType property
 
@@ -20,8 +23,7 @@ The type of the field value data.
 
 ### See Also
 
-* class [CadFieldData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadFieldData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
+* assembly [Aspose.CAD](../../../)
 

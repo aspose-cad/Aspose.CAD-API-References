@@ -1,14 +1,19 @@
 ---
-title: Class BindVertexInput
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.BindVertexInput class. The bind vertex input. The bind_vertex_input element binds vertex inputs to effect parameters upon instantiation
+title: "BindVertexInput Class"
+linktitle: "BindVertexInput"
+articleTitle: "BindVertexInput"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.BindVertexInput class. The bind vertex input. The bind_vertex_input element binds vertex inputs to effect ..."
 type: docs
-weight: 7400
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/
+weight: 80
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/"
+keywords: "BindVertexInput, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## BindVertexInput class
 
-The bind vertex input. The bind_vertex_input element binds vertex inputs to effect parameters upon instantiation.
+The bind vertex input.
+ The bind_vertex_input element binds vertex inputs to effect parameters upon instantiation.
 
 ```csharp
 public class BindVertexInput : ColladaElement
@@ -24,15 +29,14 @@ public class BindVertexInput : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [InputSemantic](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/inputsemantic/) { get; set; } | Gets or sets the input semantic. The input_semantic attribute specifies which input semantic to bind. |
-| [InputSet](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/inputset/) { get; set; } | Gets or sets the input set. The input_set attribute specifies which input set to bind. |
-| [InputSetSpecified](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/inputsetspecified/) { get; set; } | Gets or sets a value indicating whether input set is specified. |
-| [Semantic](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/semantic/) { get; set; } | Gets or sets the semantic. The semantic attribute specifies which effect parameter to bind. |
+| [InputSemantic](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/inputsemantic/) { get; set; } | Gets or sets the input semantic. The input_semantic attribute specifies which input semantic to bind. |
+| [InputSet](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/inputset/) { get; set; } | Gets or sets the input set. The input_set attribute specifies which input set to bind. |
+| [InputSetSpecified](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/inputsetspecified/) { get; set; } | Gets or sets a value indicating whether input set is specified. |
+| [Semantic](../../aspose.cad.fileformats.collada.fileparser.elements/bindvertexinput/semantic/) { get; set; } | Gets or sets the semantic. The semantic attribute specifies which effect parameter to bind. |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,22 +1,26 @@
 ---
-title: StepAdvancedFace.Plane
-second_title: Aspose.CAD for .NET API Reference
-description: StepAdvancedFace property. 
+title: "StepAdvancedFace.Plane"
+linktitle: "Plane"
+articleTitle: "Plane"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepAdvancedFace property."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.stp.items/stepadvancedface/plane/
+weight: 20
+url: "/net/aspose.cad.fileformats.stp.items/stepadvancedface/plane/"
+product_version: "26.9"
 ---
 ## StepAdvancedFace.Plane property
 
+
+
 ```csharp
-public StepRepresentationItem Plane { get; set; }
+public StepSurface Plane { get; set; }
 ```
 
 ### See Also
 
-* class [StepRepresentationItem](../../steprepresentationitem/)
-* class [StepAdvancedFace](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepSurface](../../stepsurface/)
+* class [StepAdvancedFace](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

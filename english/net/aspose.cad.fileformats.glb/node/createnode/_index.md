@@ -1,14 +1,19 @@
 ---
-title: Node.CreateNode
-second_title: Aspose.CAD for .NET API Reference
-description: Node method. Creates a new Node instance adds it to LogicalNodes and references it as a child in the current graph
+title: "Node.CreateNode"
+linktitle: "CreateNode"
+articleTitle: "CreateNode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Node method. Creates a new Node instance, adds it to LogicalNodes and references it as a child in the current graph."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.glb/node/createnode/
+weight: 80
+url: "/net/aspose.cad.fileformats.glb/node/createnode/"
+product_version: "26.9"
 ---
 ## Node.CreateNode method
 
-Creates a new [`Node`](../) instance, adds it to [`LogicalNodes`](../../glbdata/logicalnodes/) and references it as a child in the current graph.
+Creates a new [`Node`](../) instance,
+ adds it to [`LogicalNodes`](../../glbdata/logicalnodes/)
+ and references it as a child in the current graph.
 
 ```csharp
 public Node CreateNode(string name = null)
@@ -24,8 +29,7 @@ A [`Node`](../) instance.
 
 ### See Also
 
-* class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

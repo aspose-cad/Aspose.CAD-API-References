@@ -1,10 +1,14 @@
 ---
-title: Class CadDoubleParameter
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadParameters.CadDoubleParameter class. Class for Double values
+title: "CadDoubleParameter Class"
+linktitle: "CadDoubleParameter"
+articleTitle: "CadDoubleParameter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadParameters.CadDoubleParameter class. Class for Double values"
 type: docs
-weight: 4180
-url: /net/aspose.cad.fileformats.cad.cadparameters/caddoubleparameter/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadparameters/caddoubleparameter/"
+keywords: "CadDoubleParameter, Aspose.CAD.FileFormats.Cad.CadParameters, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadDoubleParameter class
 
@@ -25,22 +29,22 @@ public class CadDoubleParameter : CadParameter<double>
 
 | Name | Description |
 | --- | --- |
-| [Type](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/type/) { get; } | Gets the type. |
-| [Value](../../aspose.cad.fileformats.cad.cadparameters/cadparameter-1/value/) { get; set; } |  |
+| [Type](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/type/) { get; } | Gets the type. |
+| [Value](../../aspose.cad.fileformats.cad.cadparameters/cadparameter-1/value/) { get; set; } | Gets or sets the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Init](../../aspose.cad.fileformats.cad.cadparameters/caddoubleparameter/init/#init)(CadCodeValue) | Initialize the specified value. |
-| override [Init](../../aspose.cad.fileformats.cad.cadparameters/caddoubleparameter/init/#init_3)(object) | Initialize the specified value. |
-| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/)(CadEntityAttribute, CadCodeValue) | Initialize the specified type. |
-| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/)(CadEntityAttribute, object) | Initialize the specified type. |
+| override [Init](../../aspose.cad.fileformats.cad.cadparameters/caddoubleparameter/init/#init)(CadCodeValue) | Initialize the specified value. |
+| override [Init](../../aspose.cad.fileformats.cad.cadparameters/caddoubleparameter/init/#init_1)(object) | Initialize the specified value. |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/)(CadEntityAttribute, CadCodeValue) | Initialize the specified type. |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/)(CadEntityAttribute, object) | Initialize the specified type. |
 
 ### See Also
 
-* class [CadParameter&lt;T&gt;](../cadparameter-1/)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../aspose.cad.fileformats.cad.cadparameters/)
-* assembly [Aspose.CAD](../../)
-
+* class [CadParameter&lt;T&gt;](../cadparameter-1/)
+* class [CadParameter](../cadparameter/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../aspose.cad.fileformats.cad.cadparameters/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum DgnElementOrientation
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElementOrientation enum. Represents element orientation
+title: "DgnElementOrientation Enum"
+linktitle: "DgnElementOrientation"
+articleTitle: "DgnElementOrientation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElementOrientation enum. Represents element orientation"
 type: docs
-weight: 8710
-url: /net/aspose.cad.fileformats.dgn/dgnelementorientation/
+weight: 50
+url: "/net/aspose.cad.fileformats.dgn/dgnelementorientation/"
+product_version: "26.9"
 ---
 ## DgnElementOrientation enumeration
 
@@ -23,7 +26,6 @@ public enum DgnElementOrientation
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,14 +1,17 @@
 ---
-title: AnimatableProperty1.GetValueAt
-second_title: Aspose.CAD for .NET API Reference
-description: AnimatableProperty method. Evaluates the value of this AnimatableProperty at a given offset for a given track
+title: "AnimatableProperty<T>.GetValueAt"
+linktitle: "GetValueAt"
+articleTitle: "GetValueAt"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AnimatableProperty method. Evaluates the value of this AnimatableProperty at a given offset for a given track."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.glb.animations/animatableproperty-1/getvalueat/
+weight: 30
+url: "/net/aspose.cad.fileformats.glb.animations/animatableproperty-1/getvalueat/"
+product_version: "26.9"
 ---
-## AnimatableProperty&lt;T&gt;.GetValueAt method
+## AnimatableProperty<T>.GetValueAt method
 
-Evaluates the value of this [`AnimatableProperty`](../) at a given *offset* for a given *track*.
+Evaluates the value of this `AnimatableProperty` at a given *offset* for a given *track*.
 
 ```csharp
 public T GetValueAt(string track, float offset)
@@ -21,12 +24,11 @@ public T GetValueAt(string track, float offset)
 
 ### Return Value
 
-The evaluated value taken from the animation *track*, or [`Value`](../value/) if a track was not found.
+The evaluated value taken from the animation *track*, or `Value` if a track was not found.
 
 ### See Also
 
-* class [AnimatableProperty&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AnimatableProperty&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
 

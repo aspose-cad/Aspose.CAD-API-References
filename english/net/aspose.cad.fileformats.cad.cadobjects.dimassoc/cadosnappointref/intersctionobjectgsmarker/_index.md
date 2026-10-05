@@ -1,10 +1,13 @@
 ---
-title: CadOsnapPointRef.IntersctionObjectGsMarker
-second_title: Aspose.CAD for .NET API Reference
-description: CadOsnapPointRef property. Gets or sets the intersction object gs marker
+title: "CadOsnapPointRef.IntersctionObjectGsMarker"
+linktitle: "IntersctionObjectGsMarker"
+articleTitle: "IntersctionObjectGsMarker"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadOsnapPointRef property. Gets or sets the intersction object gs marker."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/intersctionobjectgsmarker/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/intersctionobjectgsmarker/"
+product_version: "26.9"
 ---
 ## CadOsnapPointRef.IntersctionObjectGsMarker property
 
@@ -20,8 +23,7 @@ The intersction object gs marker.
 
 ### See Also
 
-* class [CadOsnapPointRef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../../aspose.cad.fileformats.cad.cadobjects.dimassoc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadOsnapPointRef](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../../aspose.cad.fileformats.cad.cadobjects.dimassoc/)
+* assembly [Aspose.CAD](../../../)
 

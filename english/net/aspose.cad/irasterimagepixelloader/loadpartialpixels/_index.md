@@ -1,10 +1,13 @@
 ---
-title: IRasterImagePixelLoader.LoadPartialPixels
-second_title: Aspose.CAD for .NET API Reference
-description: IRasterImagePixelLoader method. Loads pixels partially by blocks
+title: "IRasterImagePixelLoader.LoadPartialPixels"
+linktitle: "LoadPartialPixels"
+articleTitle: "LoadPartialPixels"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IRasterImagePixelLoader method. Loads pixels partially (by blocks)."
 type: docs
 weight: 10
-url: /net/aspose.cad/irasterimagepixelloader/loadpartialpixels/
+url: "/net/aspose.cad/irasterimagepixelloader/loadpartialpixels/"
+product_version: "26.9"
 ---
 ## IRasterImagePixelLoader.LoadPartialPixels method
 
@@ -21,10 +24,9 @@ public void LoadPartialPixels(Rectangle rectangle, IPartialPixelLoader partialPi
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* interface [IPartialPixelLoader](../../ipartialpixelloader/)
-* interface [IRasterImagePixelLoader](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* interface [IPartialPixelLoader](../../ipartialpixelloader/)
+* interface [IRasterImagePixelLoader](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

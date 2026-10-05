@@ -1,10 +1,13 @@
 ---
-title: JpegExifData.Software
-second_title: Aspose.CAD for .NET API Reference
-description: JpegExifData property. Gets or sets the software
+title: "JpegExifData.Software"
+linktitle: "Software"
+articleTitle: "Software"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegExifData property. Gets or sets the software."
 type: docs
-weight: 180
-url: /net/aspose.cad.exif/jpegexifdata/software/
+weight: 210
+url: "/net/aspose.cad.exif/jpegexifdata/software/"
+product_version: "26.9"
 ---
 ## JpegExifData.Software property
 
@@ -20,8 +23,7 @@ The software.
 
 ### See Also
 
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

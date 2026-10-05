@@ -1,10 +1,13 @@
 ---
-title: RdOptimizerSettings.PsnrMax
-second_title: Aspose.CAD for .NET API Reference
-description: RdOptimizerSettings property. Gets the PSNR maximum expected value
+title: "RdOptimizerSettings.PsnrMax"
+linktitle: "PsnrMax"
+articleTitle: "PsnrMax"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RdOptimizerSettings property. Gets the PSNR maximum expected value."
 type: docs
-weight: 90
-url: /net/aspose.cad.imageoptions/rdoptimizersettings/psnrmax/
+weight: 80
+url: "/net/aspose.cad.imageoptions/rdoptimizersettings/psnrmax/"
+product_version: "26.9"
 ---
 ## RdOptimizerSettings.PsnrMax property
 
@@ -20,8 +23,7 @@ The maximum maximum pixel value.
 
 ### See Also
 
-* class [RdOptimizerSettings](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RdOptimizerSettings](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

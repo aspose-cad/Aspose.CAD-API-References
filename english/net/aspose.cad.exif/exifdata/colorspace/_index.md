@@ -1,10 +1,13 @@
 ---
-title: ExifData.ColorSpace
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the color space
+title: "ExifData.ColorSpace"
+linktitle: "ColorSpace"
+articleTitle: "ColorSpace"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the color space."
 type: docs
-weight: 70
-url: /net/aspose.cad.exif/exifdata/colorspace/
+weight: 130
+url: "/net/aspose.cad.exif/exifdata/colorspace/"
+product_version: "26.9"
 ---
 ## ExifData.ColorSpace property
 
@@ -20,9 +23,8 @@ The color space.
 
 ### See Also
 
-* enum [ExifColorSpace](../../../aspose.cad.exif.enums/exifcolorspace/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ExifColorSpace](../../../aspose.cad.exif.enums/exifcolorspace/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

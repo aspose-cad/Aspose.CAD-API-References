@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.HalfToneHints
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the halftone hints
+title: "TiffOptions.HalfToneHints"
+linktitle: "HalfToneHints"
+articleTitle: "HalfToneHints"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the halftone hints."
 type: docs
-weight: 140
-url: /net/aspose.cad.imageoptions/tiffoptions/halftonehints/
+weight: 290
+url: "/net/aspose.cad.imageoptions/tiffoptions/halftonehints/"
+product_version: "26.9"
 ---
 ## TiffOptions.HalfToneHints property
 
@@ -27,8 +30,7 @@ The halftone hints.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

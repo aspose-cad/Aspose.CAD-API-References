@@ -1,10 +1,13 @@
 ---
-title: CadAcdsRecord.CadAcdsRecord
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcdsRecord constructor. The default constructor
+title: "CadAcdsRecord.CadAcdsRecord"
+linktitle: "CadAcdsRecord"
+articleTitle: "CadAcdsRecord"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcdsRecord constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacdsrecord/cadacdsrecord/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacdsrecord/cadacdsrecord/"
+product_version: "26.9"
 ---
 ## CadAcdsRecord constructor
 
@@ -16,8 +19,7 @@ public CadAcdsRecord()
 
 ### See Also
 
-* class [CadAcdsRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcdsRecord](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

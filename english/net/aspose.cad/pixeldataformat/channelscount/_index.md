@@ -1,10 +1,13 @@
 ---
-title: PixelDataFormat.ChannelsCount
-second_title: Aspose.CAD for .NET API Reference
-description: PixelDataFormat property. Gets the channels count
+title: "PixelDataFormat.ChannelsCount"
+linktitle: "ChannelsCount"
+articleTitle: "ChannelsCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PixelDataFormat property. Gets the channels count."
 type: docs
-weight: 170
-url: /net/aspose.cad/pixeldataformat/channelscount/
+weight: 220
+url: "/net/aspose.cad/pixeldataformat/channelscount/"
+product_version: "26.9"
 ---
 ## PixelDataFormat.ChannelsCount property
 
@@ -20,8 +23,7 @@ The channels count.
 
 ### See Also
 
-* class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PixelDataFormat](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

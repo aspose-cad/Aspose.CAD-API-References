@@ -1,12 +1,17 @@
 ---
-title: LightBuilder.Directional.Clone
-second_title: Aspose.CAD for .NET API Reference
-description: Directional method. 
+title: "LightBuilder.Directional.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Directional method."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.glb.scenes/lightbuilder.directional/clone/
+url: "/net/aspose.cad.fileformats.glb.scenes/lightbuilder.directional/clone/"
+product_version: "26.9"
 ---
 ## LightBuilder.Directional.Clone method
+
+
 
 ```csharp
 public override LightBuilder Clone()
@@ -14,9 +19,8 @@ public override LightBuilder Clone()
 
 ### See Also
 
-* class [LightBuilder](../../lightbuilder/)
-* class [Directional](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [LightBuilder](../../lightbuilder/)
+* class [Directional](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

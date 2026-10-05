@@ -1,12 +1,17 @@
 ---
-title: MeshGpuInstancing.SetAccessor
-second_title: Aspose.CAD for .NET API Reference
-description: MeshGpuInstancing method. 
+title: "MeshGpuInstancing.SetAccessor"
+linktitle: "SetAccessor"
+articleTitle: "SetAccessor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MeshGpuInstancing method."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.glb/meshgpuinstancing/setaccessor/
+weight: 30
+url: "/net/aspose.cad.fileformats.glb/meshgpuinstancing/setaccessor/"
+product_version: "26.9"
 ---
 ## MeshGpuInstancing.SetAccessor method
+
+
 
 ```csharp
 public void SetAccessor(string attributeKey, Accessor accessor)
@@ -14,9 +19,8 @@ public void SetAccessor(string attributeKey, Accessor accessor)
 
 ### See Also
 
-* class [Accessor](../../accessor/)
-* class [MeshGpuInstancing](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Accessor](../../accessor/)
+* class [MeshGpuInstancing](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

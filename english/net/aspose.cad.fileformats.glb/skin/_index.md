@@ -1,10 +1,14 @@
 ---
-title: Class Skin
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Skin class. Joints and matrices defining a skin
+title: "Skin Class"
+linktitle: "Skin"
+articleTitle: "Skin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Skin class. Joints and matrices defining a skin."
 type: docs
-weight: 11450
-url: /net/aspose.cad.fileformats.glb/skin/
+weight: 480
+url: "/net/aspose.cad.fileformats.glb/skin/"
+keywords: "Skin, Aspose.CAD.FileFormats.GLB, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Skin class
 
@@ -18,21 +22,21 @@ public sealed class Skin : LogicalChildOfRoot
 
 | Name | Description |
 | --- | --- |
-| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
-| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
-| [JointsCount](../../aspose.cad.fileformats.glb/skin/jointscount/) { get; } | Gets the number of joints |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
-| [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
-| [Skeleton](../../aspose.cad.fileformats.glb/skin/skeleton/) { get; set; } | Gets or sets the Skeleton [`Node`](../node/), which represents the root of a joints hierarchy. |
-| [VisualParents](../../aspose.cad.fileformats.glb/skin/visualparents/) { get; } | Gets a collection of [`Node`](../node/) instances using this `Skin`. |
+| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
+| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
+| [JointsCount](../../aspose.cad.fileformats.glb/skin/jointscount/) { get; } | Gets the number of joints |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
+| [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
+| [Skeleton](../../aspose.cad.fileformats.glb/skin/skeleton/) { get; set; } | Gets or sets the Skeleton [`Node`](../node/), which represents the root of a joints hierarchy. |
+| [VisualParents](../../aspose.cad.fileformats.glb/skin/visualparents/) { get; } | Gets a collection of [`Node`](../node/) instances using this `Skin`. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [BindJoints](../../aspose.cad.fileformats.glb/skin/bindjoints/#bindjoints)(params Node[]) |  |
-| [BindJoints](../../aspose.cad.fileformats.glb/skin/bindjoints/#bindjoints_1)(Matrix4x4, params Node[]) | Binds a bone armature of [`Node`](../node/) to the associated skinned mesh. |
+| [BindJoints](../../aspose.cad.fileformats.glb/skin/bindjoints/#bindjoints)(params Node[]) |  |
+| [BindJoints](../../aspose.cad.fileformats.glb/skin/bindjoints/#bindjoints_1)(Matrix4x4, params Node[]) | Binds a bone armature of [`Node`](../node/) to the associated skinned mesh. |
 | [GetExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/getextension/)() |  |
 | [GetInverseBindMatricesAccessor](../../aspose.cad.fileformats.glb/skin/getinversebindmatricesaccessor/)() |  |
 | [RemoveExtensions&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/removeextensions/)() |  |
@@ -42,8 +46,7 @@ public sealed class Skin : LogicalChildOfRoot
 
 ### See Also
 
-* class [LogicalChildOfRoot](../logicalchildofroot/)
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* class [LogicalChildOfRoot](../logicalchildofroot/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

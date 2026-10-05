@@ -1,12 +1,17 @@
 ---
-title: Struct ThreeDSTexture
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSTexture struct. 
+title: "ThreeDSTexture Struct"
+linktitle: "ThreeDSTexture"
+articleTitle: "ThreeDSTexture"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSTexture struct."
 type: docs
-weight: 35350
-url: /net/aspose.cad.fileformats.threeds.elements/threedstexture/
+weight: 80
+url: "/net/aspose.cad.fileformats.threeds.elements/threedstexture/"
+product_version: "26.9"
 ---
-## ThreeDSTexture structure
+## ThreeDSTexture struct
+
+
 
 ```csharp
 public struct ThreeDSTexture
@@ -16,17 +21,16 @@ public struct ThreeDSTexture
 
 | Name | Description |
 | --- | --- |
-| [FileName](../../aspose.cad.fileformats.threeds.elements/threedstexture/filename/) { get; set; } |  |
-| [Percent](../../aspose.cad.fileformats.threeds.elements/threedstexture/percent/) { get; set; } |  |
-| [Tiling](../../aspose.cad.fileformats.threeds.elements/threedstexture/tiling/) { get; set; } |  |
-| [UOffset](../../aspose.cad.fileformats.threeds.elements/threedstexture/uoffset/) { get; set; } |  |
-| [UScale](../../aspose.cad.fileformats.threeds.elements/threedstexture/uscale/) { get; set; } |  |
-| [VOffset](../../aspose.cad.fileformats.threeds.elements/threedstexture/voffset/) { get; set; } |  |
-| [VScale](../../aspose.cad.fileformats.threeds.elements/threedstexture/vscale/) { get; set; } |  |
+| FileName { get; set; } |  |
+| Percent { get; set; } |  |
+| Tiling { get; set; } |  |
+| UOffset { get; set; } |  |
+| UScale { get; set; } |  |
+| VOffset { get; set; } |  |
+| VScale { get; set; } |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../aspose.cad.fileformats.threeds.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../aspose.cad.fileformats.threeds.elements/)
+* assembly [Aspose.CAD](../../)
 

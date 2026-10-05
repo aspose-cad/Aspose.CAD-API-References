@@ -1,10 +1,13 @@
 ---
-title: IfcFileName.Authorization
-second_title: Aspose.CAD for .NET API Reference
-description: IfcFileName property. Gets or sets the authorization
+title: "IfcFileName.Authorization"
+linktitle: "Authorization"
+articleTitle: "Authorization"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcFileName property. Gets or sets the authorization."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.ifc.header/ifcfilename/authorization/
+weight: 80
+url: "/net/aspose.cad.fileformats.ifc.header/ifcfilename/authorization/"
+product_version: "26.9"
 ---
 ## IfcFileName.Authorization property
 
@@ -27,8 +30,7 @@ var authorization = fileName.Authorization
 
 ### See Also
 
-* class [IfcFileName](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcFileName](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
+* assembly [Aspose.CAD](../../../)
 

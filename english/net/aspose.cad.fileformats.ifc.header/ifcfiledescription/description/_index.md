@@ -1,10 +1,13 @@
 ---
-title: IfcFileDescription.Description
-second_title: Aspose.CAD for .NET API Reference
-description: IfcFileDescription property. Gets or sets the description
+title: "IfcFileDescription.Description"
+linktitle: "Description"
+articleTitle: "Description"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcFileDescription property. Gets or sets the description."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.ifc.header/ifcfiledescription/description/
+url: "/net/aspose.cad.fileformats.ifc.header/ifcfiledescription/description/"
+product_version: "26.9"
 ---
 ## IfcFileDescription.Description property
 
@@ -27,9 +30,8 @@ var desc = fileDescription.Description;
 
 ### See Also
 
-* class [IfcCollection&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection-1/)
-* class [IfcFileDescription](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcCollection](../../../aspose.cad.fileformats.ifc/ifccollection/)
+* class [IfcFileDescription](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
+* assembly [Aspose.CAD](../../../)
 

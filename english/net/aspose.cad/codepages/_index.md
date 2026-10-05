@@ -1,10 +1,13 @@
 ---
-title: Enum CodePages
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.CodePages enum. Available codepages
+title: "CodePages Enum"
+linktitle: "CodePages"
+articleTitle: "CodePages"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.CodePages enum. Available codepages"
 type: docs
-weight: 380
-url: /net/aspose.cad/codepages/
+weight: 90
+url: "/net/aspose.cad/codepages/"
+product_version: "26.9"
 ---
 ## CodePages enumeration
 
@@ -67,7 +70,6 @@ public enum CodePages
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

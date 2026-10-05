@@ -1,12 +1,18 @@
 ---
-title: Class CommandConstructorArguments
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.CommandConstructorArguments class. 
+title: "CommandConstructorArguments Class"
+linktitle: "CommandConstructorArguments"
+articleTitle: "CommandConstructorArguments"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.CommandConstructorArguments class."
 type: docs
-weight: 5340
-url: /net/aspose.cad.fileformats.cgm.commands/commandconstructorarguments/
+weight: 610
+url: "/net/aspose.cad.fileformats.cgm.commands/commandconstructorarguments/"
+keywords: "CommandConstructorArguments, Aspose.CAD.FileFormats.Cgm.Commands, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CommandConstructorArguments class
+
+
 
 ```csharp
 public class CommandConstructorArguments
@@ -17,19 +23,18 @@ public class CommandConstructorArguments
 | Name | Description |
 | --- | --- |
 | [CommandConstructorArguments](commandconstructorarguments/#constructor)() | The default constructor. |
-| [CommandConstructorArguments](commandconstructorarguments/#constructor_1)(ClassCode, int, CgmFile) |  |
+| [CommandConstructorArguments](commandconstructorarguments/#constructor_1)(ClassCode, int, CgmFile) | Initializes a new instance of the CommandConstructorArguments class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Container](../../aspose.cad.fileformats.cgm.commands/commandconstructorarguments/container/) { get; set; } |  |
-| [ElementClass](../../aspose.cad.fileformats.cgm.commands/commandconstructorarguments/elementclass/) { get; set; } |  |
-| [ElementId](../../aspose.cad.fileformats.cgm.commands/commandconstructorarguments/elementid/) { get; set; } |  |
+| [Container](../../aspose.cad.fileformats.cgm.commands/commandconstructorarguments/container/) { get; set; } |  |
+| [ElementClass](../../aspose.cad.fileformats.cgm.commands/commandconstructorarguments/elementclass/) { get; set; } |  |
+| [ElementId](../../aspose.cad.fileformats.cgm.commands/commandconstructorarguments/elementid/) { get; set; } |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

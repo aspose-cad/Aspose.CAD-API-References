@@ -1,12 +1,55 @@
 ---
-title: Image.CanLoad
-second_title: Aspose.CAD for .NET API Reference
-description: Image method. Determines whether image can be loaded from the specified file path
+title: "Image.CanLoad"
+linktitle: "CanLoad"
+articleTitle: "CanLoad"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image method. Determines whether image can be loaded from the specified file path."
 type: docs
-weight: 190
-url: /net/aspose.cad/image/canload/
+weight: 10
+url: "/net/aspose.cad/image/canload/"
+product_version: "26.9"
 ---
-## CanLoad(string) {#canload_2}
+## CanLoad(Stream) {#canload}
+
+Determines whether image can be loaded from the specified stream.
+
+```csharp
+public static bool CanLoad(Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The stream to load from. |
+
+### Return Value
+
+`true` if image can be loaded from the specified stream; otherwise, `false`.
+
+## Examples
+
+Checks whether loading of a drawing is possible from the stream specified
+
+```csharp
+using (var f = File.OpenRead("file.dxf"))
+{
+    var currentPosition = f.Position;
+    if (Image.CanLoad(f))
+    {
+        AssertLegacy.That(currentPosition, f.Position);
+        // process the drawing...
+    }
+}
+```
+
+### See Also
+
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## CanLoad(string) {#canload_1}
 
 Determines whether image can be loaded from the specified file path.
 
@@ -39,13 +82,58 @@ if (Aspose.CAD.Image.CanLoad(fileName))
 
 ### See Also
 
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## CanLoad(string, LoadOptions) {#canload_3}
+## CanLoad(Stream, LoadOptions) {#canload_2}
+
+Determines whether image can be loaded from the specified stream and optionally using the specified *loadOptions*.
+
+```csharp
+public static bool CanLoad(Stream stream, LoadOptions loadOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The stream to load from. |
+| loadOptions | LoadOptions | The load options. |
+
+### Return Value
+
+`true` if image can be loaded from the specified stream; otherwise, `false`.
+
+## Examples
+
+Checks whether loading of a drawing is possible from the stream specified with a corresponding encoding
+
+```csharp
+using (var f = File.OpenRead("file.dwg", new LoadOptions
+{
+    SpecifiedEncoding = CodePages.Japanese
+}))
+{
+    var currentPosition = f.Position;
+    if (Image.CanLoad(f))
+    {
+        AssertLegacy.That(currentPosition, f.Position);
+        // process the drawing...
+    }
+}
+```
+
+### See Also
+
+* class [LoadOptions](../../loadoptions/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## CanLoad(string, LoadOptions) {#canload_3}
 
 Determines whether an image can be loaded from the specified file path and optionally using the specified open options
 
@@ -82,94 +170,8 @@ if (Aspose.CAD.Image.CanLoad(fileName, new LoadOptions
 
 ### See Also
 
-* class [LoadOptions](../../loadoptions/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## CanLoad(Stream) {#canload}
-
-Determines whether image can be loaded from the specified stream.
-
-```csharp
-public static bool CanLoad(Stream stream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | The stream to load from. |
-
-### Return Value
-
-`true` if image can be loaded from the specified stream; otherwise, `false`.
-
-## Examples
-
-Checks whether loading of a drawing is possible from the stream specified
-
-```csharp
-using (var f = File.OpenRead("file.dxf"))
-{
-    var currentPosition = f.Position;
-    if (Image.CanLoad(f))
-    {
-        Assert.AreEqual(currentPosition, f.Position);
-        // process the drawing...
-    }
-}
-```
-
-### See Also
-
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## CanLoad(Stream, LoadOptions) {#canload_1}
-
-Determines whether image can be loaded from the specified stream and optionally using the specified *loadOptions*.
-
-```csharp
-public static bool CanLoad(Stream stream, LoadOptions loadOptions)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | The stream to load from. |
-| loadOptions | LoadOptions | The load options. |
-
-### Return Value
-
-`true` if image can be loaded from the specified stream; otherwise, `false`.
-
-## Examples
-
-Checks whether loading of a drawing is possible from the stream specified with a corresponding encoding
-
-```csharp
-using (var f = File.OpenRead("file.dwg", new LoadOptions
-{
-    SpecifiedEncoding = CodePages.Japanese
-}))
-{
-    var currentPosition = f.Position;
-    if (Image.CanLoad(f))
-    {
-        Assert.AreEqual(currentPosition, f.Position);
-        // process the drawing...
-    }
-}
-```
-
-### See Also
-
-* class [LoadOptions](../../loadoptions/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [LoadOptions](../../loadoptions/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

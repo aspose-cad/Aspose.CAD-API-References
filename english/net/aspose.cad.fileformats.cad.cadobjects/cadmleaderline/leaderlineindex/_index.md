@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderLine.LeaderLineIndex
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderLine property. Gets or sets the index of the leader line
+title: "CadMLeaderLine.LeaderLineIndex"
+linktitle: "LeaderLineIndex"
+articleTitle: "LeaderLineIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderLine property. Gets or sets the index of the leader line."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/leaderlineindex/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/leaderlineindex/"
+product_version: "26.9"
 ---
 ## CadMLeaderLine.LeaderLineIndex property
 
@@ -20,8 +23,7 @@ The index of the leader line.
 
 ### See Also
 
-* class [CadMLeaderLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

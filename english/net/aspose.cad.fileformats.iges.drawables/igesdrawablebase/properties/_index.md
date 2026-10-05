@@ -1,10 +1,13 @@
 ---
-title: IgesDrawableBase.Properties
-second_title: Aspose.CAD for .NET API Reference
-description: IgesDrawableBase property. Nongeometric properties for geometry
+title: "IgesDrawableBase.Properties"
+linktitle: "Properties"
+articleTitle: "Properties"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IgesDrawableBase property. Non-geometric properties for geometry"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.iges.drawables/igesdrawablebase/properties/
+weight: 30
+url: "/net/aspose.cad.fileformats.iges.drawables/igesdrawablebase/properties/"
+product_version: "26.9"
 ---
 ## IgesDrawableBase.Properties property
 
@@ -16,9 +19,8 @@ public IDrawableProperties Properties { get; }
 
 ### See Also
 
-* interface [IDrawableProperties](../../idrawableproperties/)
-* class [IgesDrawableBase](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IDrawableProperties](../../idrawableproperties/)
+* class [IgesDrawableBase](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

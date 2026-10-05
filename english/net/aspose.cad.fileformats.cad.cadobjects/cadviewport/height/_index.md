@@ -1,10 +1,13 @@
 ---
-title: CadViewport.Height
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the height
+title: "CadViewport.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the height."
 type: docs
 weight: 200
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/height/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/height/"
+product_version: "26.9"
 ---
 ## CadViewport.Height property
 
@@ -16,8 +19,7 @@ public double Height { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

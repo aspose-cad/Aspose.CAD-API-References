@@ -1,10 +1,13 @@
 ---
-title: Enum FontStoreType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.SvgOptionsParameters.FontStoreType enum. The font store type
+title: "FontStoreType Enum"
+linktitle: "FontStoreType"
+articleTitle: "FontStoreType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.SvgOptionsParameters.FontStoreType enum. The font store type"
 type: docs
-weight: 36740
-url: /net/aspose.cad.imageoptions.svgoptionsparameters/fontstoretype/
+weight: 20
+url: "/net/aspose.cad.imageoptions.svgoptionsparameters/fontstoretype/"
+product_version: "26.9"
 ---
 ## FontStoreType enumeration
 
@@ -24,7 +27,6 @@ public enum FontStoreType
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../aspose.cad.imageoptions.svgoptionsparameters/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../aspose.cad.imageoptions.svgoptionsparameters/)
+* assembly [Aspose.CAD](../../)
 

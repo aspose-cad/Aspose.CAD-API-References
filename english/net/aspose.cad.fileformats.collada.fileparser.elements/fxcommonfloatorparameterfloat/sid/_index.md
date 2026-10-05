@@ -1,14 +1,18 @@
 ---
-title: FxCommonFloatOrParameterFloat.Sid
-second_title: Aspose.CAD for .NET API Reference
-description: FxCommonFloatOrParameterFloat property. Gets or sets the sid. The sid attribute is optional
+title: "FxCommonFloatOrParameterFloat.Sid"
+linktitle: "Sid"
+articleTitle: "Sid"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FxCommonFloatOrParameterFloat property. Gets or sets the sid. The sid attribute is optional."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterfloat/sid/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterfloat/sid/"
+product_version: "26.9"
 ---
 ## FxCommonFloatOrParameterFloat.Sid property
 
-Gets or sets the sid. The sid attribute is optional.
+Gets or sets the sid.
+ The sid attribute is optional.
 
 ```csharp
 public string Sid { get; set; }
@@ -16,8 +20,7 @@ public string Sid { get; set; }
 
 ### See Also
 
-* class [FxCommonFloatOrParameterFloat](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonFloatOrParameterFloat](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

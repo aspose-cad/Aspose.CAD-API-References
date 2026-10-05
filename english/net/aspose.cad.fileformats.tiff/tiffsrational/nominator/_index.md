@@ -1,10 +1,13 @@
 ---
-title: TiffSRational.Nominator
-second_title: Aspose.CAD for .NET API Reference
-description: TiffSRational property. Gets the nominator
+title: "TiffSRational.Nominator"
+linktitle: "Nominator"
+articleTitle: "Nominator"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffSRational property. Gets the nominator."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.tiff/tiffsrational/nominator/
+weight: 120
+url: "/net/aspose.cad.fileformats.tiff/tiffsrational/nominator/"
+product_version: "26.9"
 ---
 ## TiffSRational.Nominator property
 
@@ -20,8 +23,7 @@ The nominator.
 
 ### See Also
 
-* class [TiffSRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffSRational](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

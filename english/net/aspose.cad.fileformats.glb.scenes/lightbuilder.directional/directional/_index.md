@@ -1,12 +1,15 @@
 ---
-title: LightBuilder.Directional.Directional
-second_title: Aspose.CAD for .NET API Reference
-description: Directional constructor. The default constructor
+title: "LightBuilder.Directional.Directional"
+linktitle: "LightBuilder.Directional"
+articleTitle: "LightBuilder.Directional"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Directional constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.glb.scenes/lightbuilder.directional/directional/
+url: "/net/aspose.cad.fileformats.glb.scenes/lightbuilder.directional/directional/"
+product_version: "26.9"
 ---
-## LightBuilder.Directional constructor
+## Directional constructor
 
 The default constructor.
 
@@ -16,8 +19,7 @@ public Directional()
 
 ### See Also
 
-* class [Directional](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Directional](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

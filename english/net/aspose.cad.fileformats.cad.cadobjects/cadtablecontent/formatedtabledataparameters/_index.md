@@ -1,10 +1,13 @@
 ---
-title: CadTableContent.FormatedTableDataParameters
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableContent property. Gets or sets the formated table data parameters
+title: "CadTableContent.FormatedTableDataParameters"
+linktitle: "FormatedTableDataParameters"
+articleTitle: "FormatedTableDataParameters"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableContent property. Gets or sets the formated table data parameters."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent/formatedtabledataparameters/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent/formatedtabledataparameters/"
+product_version: "26.9"
 ---
 ## CadTableContent.FormatedTableDataParameters property
 
@@ -20,9 +23,8 @@ The formated table data parameters.
 
 ### See Also
 
-* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
-* class [CadTableContent](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
+* class [CadTableContent](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

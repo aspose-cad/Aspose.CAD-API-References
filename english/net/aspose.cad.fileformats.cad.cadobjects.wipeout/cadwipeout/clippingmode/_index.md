@@ -1,10 +1,13 @@
 ---
-title: CadWipeout.ClippingMode
-second_title: Aspose.CAD for .NET API Reference
-description: CadWipeout property. The Clipping Mode
+title: "CadWipeout.ClippingMode"
+linktitle: "ClippingMode"
+articleTitle: "ClippingMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadWipeout property. The Clipping Mode"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/clippingmode/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeout/clippingmode/"
+product_version: "26.9"
 ---
 ## CadWipeout.ClippingMode property
 
@@ -16,8 +19,7 @@ public bool ClippingMode { get; set; }
 
 ### See Also
 
-* class [CadWipeout](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadWipeout](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
+* assembly [Aspose.CAD](../../../)
 

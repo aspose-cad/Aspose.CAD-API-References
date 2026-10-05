@@ -1,10 +1,13 @@
 ---
-title: CadLayoutDictionary.Clone
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayoutDictionary method. Clones the dictionary
+title: "CadLayoutDictionary.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayoutDictionary method. Clones the dictionary."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad/cadlayoutdictionary/clone/
+url: "/net/aspose.cad.fileformats.cad/cadlayoutdictionary/clone/"
+product_version: "26.9"
 ---
 ## CadLayoutDictionary.Clone method
 
@@ -20,8 +23,7 @@ A new object that is a shallow copy of this instance.
 
 ### See Also
 
-* class [CadLayoutDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLayoutDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadHatch.AssociativeFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the associative flag
+title: "CadHatch.AssociativeFlag"
+linktitle: "AssociativeFlag"
+articleTitle: "AssociativeFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the associative flag."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/associativeflag/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/associativeflag/"
+product_version: "26.9"
 ---
 ## CadHatch.AssociativeFlag property
 
@@ -16,8 +19,7 @@ public short AssociativeFlag { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

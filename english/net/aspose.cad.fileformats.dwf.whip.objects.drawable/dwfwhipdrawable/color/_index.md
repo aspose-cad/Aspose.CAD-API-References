@@ -1,10 +1,13 @@
 ---
-title: DwfWhipDrawable.Color
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipDrawable property. Gets or sets Color
+title: "DwfWhipDrawable.Color"
+linktitle: "Color"
+articleTitle: "Color"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipDrawable property. Gets or sets Color"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/color/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/color/"
+product_version: "26.9"
 ---
 ## DwfWhipDrawable.Color property
 
@@ -16,9 +19,8 @@ public virtual Color Color { get; set; }
 
 ### See Also
 
-* struct [Color](../../../aspose.cad/color/)
-* class [DwfWhipDrawable](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../../aspose.cad/color/)
+* class [DwfWhipDrawable](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
+* assembly [Aspose.CAD](../../../)
 

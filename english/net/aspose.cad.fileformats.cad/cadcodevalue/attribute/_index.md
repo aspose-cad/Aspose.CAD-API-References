@@ -1,10 +1,13 @@
 ---
-title: CadCodeValue.Attribute
-second_title: Aspose.CAD for .NET API Reference
-description: CadCodeValue property. Gets the attribute
+title: "CadCodeValue.Attribute"
+linktitle: "Attribute"
+articleTitle: "Attribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCodeValue property. Gets the attribute."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad/cadcodevalue/attribute/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad/cadcodevalue/attribute/"
+product_version: "26.9"
 ---
 ## CadCodeValue.Attribute property
 
@@ -16,9 +19,8 @@ public CadEntityAttribute Attribute { get; }
 
 ### See Also
 
-* enum [CadEntityAttribute](../../cadentityattribute/)
-* class [CadCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* class [CadCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

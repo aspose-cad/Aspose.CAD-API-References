@@ -1,10 +1,13 @@
 ---
-title: DgnElementDimension.XHigh
-second_title: Aspose.CAD for .NET API Reference
-description: DgnElementDimension property. Gets or sets hi value by X axis
+title: "DgnElementDimension.XHigh"
+linktitle: "XHigh"
+articleTitle: "XHigh"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnElementDimension property. Gets or sets hi value by X axis"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dgn/dgnelementdimension/xhigh/
+weight: 50
+url: "/net/aspose.cad.fileformats.dgn/dgnelementdimension/xhigh/"
+product_version: "26.9"
 ---
 ## DgnElementDimension.XHigh property
 
@@ -16,8 +19,7 @@ public uint XHigh { get; set; }
 
 ### See Also
 
-* class [DgnElementDimension](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementDimension](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

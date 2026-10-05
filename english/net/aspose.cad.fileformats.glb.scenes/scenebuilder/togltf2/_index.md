@@ -1,10 +1,13 @@
 ---
-title: SceneBuilder.ToGltf2
-second_title: Aspose.CAD for .NET API Reference
-description: SceneBuilder method. Converts this SceneBuilder instance into a GlbImage instance
+title: "SceneBuilder.ToGltf2"
+linktitle: "ToGltf2"
+articleTitle: "ToGltf2"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SceneBuilder method. Converts this SceneBuilder instance into a GlbImage instance."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/togltf2/
+weight: 140
+url: "/net/aspose.cad.fileformats.glb.scenes/scenebuilder/togltf2/"
+product_version: "26.9"
 ---
 ## ToGltf2() {#togltf2}
 
@@ -20,10 +23,10 @@ A new [`GlbImage`](../../../aspose.cad.fileformats.glb/glbimage/) instance.
 
 ### See Also
 
-* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
-* class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
+* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
+* class [SceneBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -45,15 +48,15 @@ A new [`GlbImage`](../../../aspose.cad.fileformats.glb/glbimage/) instance.
 
 ### See Also
 
-* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
-* struct [SceneBuilderSchema2Settings](../../scenebuilderschema2settings/)
-* class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
+* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
+* struct [SceneBuilderSchema2Settings](../../scenebuilderschema2settings/)
+* class [SceneBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## ToGltf2(IEnumerable&lt;SceneBuilder&gt;, SceneBuilderSchema2Settings)
+## ToGltf2(IEnumerable&lt;SceneBuilder&gt;, SceneBuilderSchema2Settings) {#togltf2_2}
 
 Converts a collection of [`SceneBuilder`](../) instances to a single [`GlbImage`](../../../aspose.cad.fileformats.glb/glbimage/) instance.
 
@@ -73,10 +76,9 @@ A new [`GlbImage`](../../../aspose.cad.fileformats.glb/glbimage/) instance.
 
 ### See Also
 
-* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
-* struct [SceneBuilderSchema2Settings](../../scenebuilderschema2settings/)
-* class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
+* class [SceneBuilder](../)
+* struct [SceneBuilderSchema2Settings](../../scenebuilderschema2settings/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

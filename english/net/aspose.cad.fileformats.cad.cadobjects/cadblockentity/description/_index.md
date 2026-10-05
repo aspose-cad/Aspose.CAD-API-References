@@ -1,10 +1,13 @@
 ---
-title: CadBlockEntity.Description
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockEntity property. Gets or sets the description
+title: "CadBlockEntity.Description"
+linktitle: "Description"
+articleTitle: "Description"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockEntity property. Gets or sets the description."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/description/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/description/"
+product_version: "26.9"
 ---
 ## CadBlockEntity.Description property
 
@@ -20,8 +23,7 @@ The description.
 
 ### See Also
 
-* class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ColorTranslator.FromOle
-second_title: Aspose.CAD for .NET API Reference
-description: ColorTranslator method. Takes color from the OLE color
+title: "ColorTranslator.FromOle"
+linktitle: "FromOle"
+articleTitle: "FromOle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColorTranslator method. Takes color from the OLE color."
 type: docs
 weight: 20
-url: /net/aspose.cad/colortranslator/fromole/
+url: "/net/aspose.cad/colortranslator/fromole/"
+product_version: "26.9"
 ---
 ## ColorTranslator.FromOle method
 
@@ -24,9 +27,8 @@ The color.
 
 ### See Also
 
-* struct [Color](../../color/)
-* class [ColorTranslator](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../color/)
+* class [ColorTranslator](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

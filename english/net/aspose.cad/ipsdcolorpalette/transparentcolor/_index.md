@@ -1,10 +1,13 @@
 ---
-title: IPsdColorPalette.TransparentColor
-second_title: Aspose.CAD for .NET API Reference
-description: IPsdColorPalette property. Gets the transparent color
+title: "IPsdColorPalette.TransparentColor"
+linktitle: "TransparentColor"
+articleTitle: "TransparentColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IPsdColorPalette property. Gets the transparent color."
 type: docs
-weight: 40
-url: /net/aspose.cad/ipsdcolorpalette/transparentcolor/
+weight: 30
+url: "/net/aspose.cad/ipsdcolorpalette/transparentcolor/"
+product_version: "26.9"
 ---
 ## IPsdColorPalette.TransparentColor property
 
@@ -20,9 +23,8 @@ The transparent color.
 
 ### See Also
 
-* struct [Color](../../color/)
-* interface [IPsdColorPalette](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../color/)
+* interface [IPsdColorPalette](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

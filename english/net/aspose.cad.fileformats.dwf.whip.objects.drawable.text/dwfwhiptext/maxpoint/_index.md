@@ -1,10 +1,13 @@
 ---
-title: DwfWhipText.MaxPoint
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipText property. Gets the max point of object
+title: "DwfWhipText.MaxPoint"
+linktitle: "MaxPoint"
+articleTitle: "MaxPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipText property. Gets the max point of object."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/maxpoint/
+weight: 100
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/maxpoint/"
+product_version: "26.9"
 ---
 ## DwfWhipText.MaxPoint property
 
@@ -20,9 +23,8 @@ Max point of object.
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [DwfWhipText](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [DwfWhipText](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/)
+* assembly [Aspose.CAD](../../../)
 

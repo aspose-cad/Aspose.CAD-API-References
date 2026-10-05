@@ -1,10 +1,13 @@
 ---
-title: CadOle2Frame.BinaryData
-second_title: Aspose.CAD for .NET API Reference
-description: CadOle2Frame property. Gets or sets the binary data
+title: "CadOle2Frame.BinaryData"
+linktitle: "BinaryData"
+articleTitle: "BinaryData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadOle2Frame property. Gets or sets the binary data."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/binarydata/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/binarydata/"
+product_version: "26.9"
 ---
 ## CadOle2Frame.BinaryData property
 
@@ -20,8 +23,7 @@ The binary data.
 
 ### See Also
 
-* class [CadOle2Frame](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadOle2Frame](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

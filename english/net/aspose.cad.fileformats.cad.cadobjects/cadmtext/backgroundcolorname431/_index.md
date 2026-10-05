@@ -1,10 +1,13 @@
 ---
-title: CadMText.BackgroundColorName431
-second_title: Aspose.CAD for .NET API Reference
-description: CadMText property. Gets or sets the background color name 431
+title: "CadMText.BackgroundColorName431"
+linktitle: "BackgroundColorName431"
+articleTitle: "BackgroundColorName431"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMText property. Gets or sets the background color name 431."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/backgroundcolorname431/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmtext/backgroundcolorname431/"
+product_version: "26.9"
 ---
 ## CadMText.BackgroundColorName431 property
 
@@ -20,8 +23,7 @@ The background color name 431.
 
 ### See Also
 
-* class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

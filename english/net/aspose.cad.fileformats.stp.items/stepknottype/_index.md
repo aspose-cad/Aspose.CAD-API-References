@@ -1,10 +1,13 @@
 ---
-title: Enum StepKnotType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Stp.Items.StepKnotType enum. KnotType enum for STP file
+title: "StepKnotType Enum"
+linktitle: "StepKnotType"
+articleTitle: "StepKnotType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Stp.Items.StepKnotType enum. KnotType enum for STP file."
 type: docs
-weight: 34750
-url: /net/aspose.cad.fileformats.stp.items/stepknottype/
+weight: 570
+url: "/net/aspose.cad.fileformats.stp.items/stepknottype/"
+product_version: "26.9"
 ---
 ## StepKnotType enumeration
 
@@ -25,7 +28,6 @@ public enum StepKnotType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../)
 

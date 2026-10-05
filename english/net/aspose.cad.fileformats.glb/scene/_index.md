@@ -1,10 +1,14 @@
 ---
-title: Class Scene
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Scene class. The root nodes of a scene
+title: "Scene Class"
+linktitle: "Scene"
+articleTitle: "Scene"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Scene class. The root nodes of a scene."
 type: docs
-weight: 11270
-url: /net/aspose.cad.fileformats.glb/scene/
+weight: 470
+url: "/net/aspose.cad.fileformats.glb/scene/"
+keywords: "Scene, Aspose.CAD.FileFormats.GLB, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Scene class
 
@@ -18,12 +22,12 @@ public sealed class Scene : LogicalChildOfRoot, IVisualNodeContainer
 
 | Name | Description |
 | --- | --- |
-| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
-| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
-| [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
-| [VisualChildren](../../aspose.cad.fileformats.glb/scene/visualchildren/) { get; } |  |
+| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
+| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
+| [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
+| [VisualChildren](../../aspose.cad.fileformats.glb/scene/visualchildren/) { get; } |  |
 
 ## Methods
 
@@ -38,9 +42,8 @@ public sealed class Scene : LogicalChildOfRoot, IVisualNodeContainer
 
 ### See Also
 
-* class [LogicalChildOfRoot](../logicalchildofroot/)
-* interface [IVisualNodeContainer](../ivisualnodecontainer/)
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* class [LogicalChildOfRoot](../logicalchildofroot/)
+* interface [IVisualNodeContainer](../ivisualnodecontainer/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

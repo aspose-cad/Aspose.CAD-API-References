@@ -1,10 +1,13 @@
 ---
-title: Cad2DPoint.Distance
-second_title: Aspose.CAD for .NET API Reference
-description: Cad2DPoint method. Distances the specified destination
+title: "Cad2DPoint.Distance"
+linktitle: "Distance"
+articleTitle: "Distance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad2DPoint method. Distances the specified destination."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/distance/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/distance/"
+product_version: "26.9"
 ---
 ## Cad2DPoint.Distance method
 
@@ -24,8 +27,7 @@ Distance to point
 
 ### See Also
 
-* class [Cad2DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

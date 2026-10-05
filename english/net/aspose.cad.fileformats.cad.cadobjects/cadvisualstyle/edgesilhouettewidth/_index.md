@@ -1,10 +1,13 @@
 ---
-title: CadVisualStyle.EdgeSilhouetteWidth
-second_title: Aspose.CAD for .NET API Reference
-description: CadVisualStyle property. Gets or sets the width of the edge silhouette
+title: "CadVisualStyle.EdgeSilhouetteWidth"
+linktitle: "EdgeSilhouetteWidth"
+articleTitle: "EdgeSilhouetteWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVisualStyle property. Gets or sets the width of the edge silhouette."
 type: docs
-weight: 210
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edgesilhouettewidth/
+weight: 290
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edgesilhouettewidth/"
+product_version: "26.9"
 ---
 ## CadVisualStyle.EdgeSilhouetteWidth property
 
@@ -20,8 +23,7 @@ The width of the edge silhouette.
 
 ### See Also
 
-* class [CadVisualStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVisualStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

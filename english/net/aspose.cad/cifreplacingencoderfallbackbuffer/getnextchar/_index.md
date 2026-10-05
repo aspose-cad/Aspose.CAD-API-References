@@ -1,10 +1,13 @@
 ---
-title: CifReplacingEncoderFallbackBuffer.GetNextChar
-second_title: Aspose.CAD for .NET API Reference
-description: CifReplacingEncoderFallbackBuffer method. Gets next replacement char
+title: "CifReplacingEncoderFallbackBuffer.GetNextChar"
+linktitle: "GetNextChar"
+articleTitle: "GetNextChar"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CifReplacingEncoderFallbackBuffer method. Gets next replacement char"
 type: docs
 weight: 40
-url: /net/aspose.cad/cifreplacingencoderfallbackbuffer/getnextchar/
+url: "/net/aspose.cad/cifreplacingencoderfallbackbuffer/getnextchar/"
+product_version: "26.9"
 ---
 ## CifReplacingEncoderFallbackBuffer.GetNextChar method
 
@@ -20,8 +23,7 @@ Replacement char
 
 ### See Also
 
-* class [CifReplacingEncoderFallbackBuffer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CifReplacingEncoderFallbackBuffer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

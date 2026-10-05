@@ -1,14 +1,17 @@
 ---
-title: Enum PunctualLightType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.PunctualLightType enum. Defines all the types of PunctualLight types
+title: "PunctualLightType Enum"
+linktitle: "PunctualLightType"
+articleTitle: "PunctualLightType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.PunctualLightType enum. Defines all the types of PunctualLight types."
 type: docs
-weight: 11160
-url: /net/aspose.cad.fileformats.glb/punctuallighttype/
+weight: 440
+url: "/net/aspose.cad.fileformats.glb/punctuallighttype/"
+product_version: "26.9"
 ---
 ## PunctualLightType enumeration
 
-Defines all the types of [`PunctualLight`](../punctuallight/) types.
+Defines all the types of [`PunctualLight`](../../../aspose.cad.fileformats.glb/punctuallight/) types.
 
 ```csharp
 public enum PunctualLightType
@@ -24,7 +27,6 @@ public enum PunctualLightType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

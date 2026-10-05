@@ -1,10 +1,13 @@
 ---
-title: FxCommonColorOrTexture.FxCommonColorOrTexture
-second_title: Aspose.CAD for .NET API Reference
-description: FxCommonColorOrTexture constructor. The default constructor
+title: "FxCommonColorOrTexture.FxCommonColorOrTexture"
+linktitle: "FxCommonColorOrTexture"
+articleTitle: "FxCommonColorOrTexture"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FxCommonColorOrTexture constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexture/fxcommoncolorortexture/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexture/fxcommoncolorortexture/"
+product_version: "26.9"
 ---
 ## FxCommonColorOrTexture constructor
 
@@ -16,8 +19,7 @@ public FxCommonColorOrTexture()
 
 ### See Also
 
-* class [FxCommonColorOrTexture](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonColorOrTexture](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

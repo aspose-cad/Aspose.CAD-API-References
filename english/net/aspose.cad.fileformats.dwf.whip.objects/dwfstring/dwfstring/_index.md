@@ -1,10 +1,13 @@
 ---
-title: DwfString.DwfString
-second_title: Aspose.CAD for .NET API Reference
-description: DwfString constructor. Initializes a new instance of the DwfString class
+title: "DwfString.DwfString"
+linktitle: "DwfString"
+articleTitle: "DwfString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfString constructor. Initializes a new instance of the DwfString class"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfstring/dwfstring/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/dwfstring/dwfstring/"
+product_version: "26.9"
 ---
 ## DwfString() {#constructor}
 
@@ -16,9 +19,9 @@ public DwfString()
 
 ### See Also
 
-* class [DwfString](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../../)
+* class [DwfString](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public DwfString(string initValue)
 
 ### See Also
 
-* class [DwfString](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfString](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../../)
 

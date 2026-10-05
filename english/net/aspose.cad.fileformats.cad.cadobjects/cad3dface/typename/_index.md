@@ -1,10 +1,13 @@
 ---
-title: Cad3DFace.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: Cad3DFace property. Gets the name of the type
+title: "Cad3DFace.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad3DFace property. Gets the name of the type."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dface/typename/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad3dface/typename/"
+product_version: "26.9"
 ---
 ## Cad3DFace.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [Cad3DFace](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [Cad3DFace](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

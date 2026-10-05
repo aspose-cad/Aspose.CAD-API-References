@@ -1,10 +1,13 @@
 ---
-title: ObjVertex.ObjVertex
-second_title: Aspose.CAD for .NET API Reference
-description: ObjVertex constructor. Initializes a new instance of the ObjVertex class
+title: "ObjVertex.ObjVertex"
+linktitle: "ObjVertex"
+articleTitle: "ObjVertex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjVertex constructor. Initializes a new instance of the ObjVertex class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.obj.vertexdata/objvertex/objvertex/
+url: "/net/aspose.cad.fileformats.obj.vertexdata/objvertex/objvertex/"
+product_version: "26.9"
 ---
 ## ObjVertex constructor
 
@@ -22,8 +25,7 @@ public ObjVertex(float x, float y, float z)
 
 ### See Also
 
-* class [ObjVertex](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjVertex](../)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
+* assembly [Aspose.CAD](../../../)
 

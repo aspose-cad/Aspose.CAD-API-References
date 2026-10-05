@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.SourceMeshPoints
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the source mesh points
+title: "CadGeoData.SourceMeshPoints"
+linktitle: "SourceMeshPoints"
+articleTitle: "SourceMeshPoints"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the source mesh points."
 type: docs
-weight: 250
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/sourcemeshpoints/
+weight: 240
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/sourcemeshpoints/"
+product_version: "26.9"
 ---
 ## CadGeoData.SourceMeshPoints property
 
@@ -20,9 +23,8 @@ The source mesh points.
 
 ### See Also
 
-* class [Cad2DPoint](../../cad2dpoint/)
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../cad2dpoint/)
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

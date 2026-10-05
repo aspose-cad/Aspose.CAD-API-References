@@ -1,12 +1,15 @@
 ---
-title: CurveBuilder1.GetPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CurveBuilder method. Samples the curve at a given offset
+title: "CurveBuilder<T>.GetPoint"
+linktitle: "GetPoint"
+articleTitle: "GetPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CurveBuilder method. Samples the curve at a given offset"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.glb.animations/curvebuilder-1/getpoint/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb.animations/curvebuilder-1/getpoint/"
+product_version: "26.9"
 ---
-## CurveBuilder&lt;T&gt;.GetPoint method
+## CurveBuilder<T>.GetPoint method
 
 Samples the curve at a given *offset*
 
@@ -24,8 +27,7 @@ A curve *T* point.
 
 ### See Also
 
-* class [CurveBuilder&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CurveBuilder&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
 

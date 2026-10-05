@@ -1,22 +1,26 @@
 ---
-title: MeshGpuInstancing.LogicalParent
-second_title: Aspose.CAD for .NET API Reference
-description: MeshGpuInstancing property. 
+title: "MeshGpuInstancing.LogicalParent"
+linktitle: "LogicalParent"
+articleTitle: "LogicalParent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MeshGpuInstancing property."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb/meshgpuinstancing/logicalparent/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb/meshgpuinstancing/logicalparent/"
+product_version: "26.9"
 ---
 ## MeshGpuInstancing.LogicalParent property
 
+
+
 ```csharp
-public Node LogicalParent { get; }
+public JsonSerializable LogicalParent { get; }
 ```
 
 ### See Also
 
-* class [Node](../../node/)
-* class [MeshGpuInstancing](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JsonSerializable](../../../aspose.cad.fileformats.glb.io/jsonserializable/)
+* class [MeshGpuInstancing](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Geometry.Geometry
-second_title: Aspose.CAD for .NET API Reference
-description: Geometry constructor. The default constructor
+title: "Geometry.Geometry"
+linktitle: "Geometry"
+articleTitle: "Geometry"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Geometry constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/geometry/geometry/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/geometry/geometry/"
+product_version: "26.9"
 ---
 ## Geometry constructor
 
@@ -16,8 +19,7 @@ public Geometry()
 
 ### See Also
 
-* class [Geometry](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Geometry](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

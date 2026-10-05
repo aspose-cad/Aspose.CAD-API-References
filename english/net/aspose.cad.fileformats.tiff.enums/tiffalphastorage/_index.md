@@ -1,10 +1,13 @@
 ---
-title: Enum TiffAlphaStorage
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffAlphaStorage enum. Specifies the alpha storage for tiff documents
+title: "TiffAlphaStorage Enum"
+linktitle: "TiffAlphaStorage"
+articleTitle: "TiffAlphaStorage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffAlphaStorage enum. Specifies the alpha storage for tiff documents."
 type: docs
-weight: 35390
-url: /net/aspose.cad.fileformats.tiff.enums/tiffalphastorage/
+weight: 30
+url: "/net/aspose.cad.fileformats.tiff.enums/tiffalphastorage/"
+product_version: "26.9"
 ---
 ## TiffAlphaStorage enumeration
 
@@ -24,7 +27,6 @@ public enum TiffAlphaStorage : ushort
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

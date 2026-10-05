@@ -1,12 +1,17 @@
 ---
-title: CadMLeaderStyleObject.ArrowheadSize
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyleObject property. 
+title: "CadMLeaderStyleObject.ArrowheadSize"
+linktitle: "ArrowheadSize"
+articleTitle: "ArrowheadSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyleObject property."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/arrowheadsize/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/arrowheadsize/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyleObject.ArrowheadSize property
+
+
 
 ```csharp
 public double? ArrowheadSize { get; set; }
@@ -14,8 +19,7 @@ public double? ArrowheadSize { get; set; }
 
 ### See Also
 
-* class [CadMLeaderStyleObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyleObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

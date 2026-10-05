@@ -1,10 +1,13 @@
 ---
-title: GeographicLocation.GeographicLocation
-second_title: Aspose.CAD for .NET API Reference
-description: GeographicLocation constructor. The default constructor
+title: "GeographicLocation.GeographicLocation"
+linktitle: "GeographicLocation"
+articleTitle: "GeographicLocation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GeographicLocation constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/geographiclocation/geographiclocation/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/geographiclocation/geographiclocation/"
+product_version: "26.9"
 ---
 ## GeographicLocation constructor
 
@@ -16,8 +19,7 @@ public GeographicLocation()
 
 ### See Also
 
-* class [GeographicLocation](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GeographicLocation](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

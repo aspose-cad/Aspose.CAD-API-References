@@ -1,10 +1,13 @@
 ---
-title: ThumbnailResource.ValidateValues
-second_title: Aspose.CAD for .NET API Reference
-description: ThumbnailResource method. Validates the resource values
+title: "ThumbnailResource.ValidateValues"
+linktitle: "ValidateValues"
+articleTitle: "ValidateValues"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThumbnailResource method. Validates the resource values."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.psd.resources/thumbnailresource/validatevalues/
+weight: 20
+url: "/net/aspose.cad.fileformats.psd.resources/thumbnailresource/validatevalues/"
+product_version: "26.9"
 ---
 ## ThumbnailResource.ValidateValues method
 
@@ -16,8 +19,7 @@ public override void ValidateValues()
 
 ### See Also
 
-* class [ThumbnailResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThumbnailResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

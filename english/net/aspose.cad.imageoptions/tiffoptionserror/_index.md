@@ -1,10 +1,13 @@
 ---
-title: Enum TiffOptionsError
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.TiffOptionsError enum. The tiff options error codes
+title: "TiffOptionsError Enum"
+linktitle: "TiffOptionsError"
+articleTitle: "TiffOptionsError"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.TiffOptionsError enum. The tiff options error codes."
 type: docs
-weight: 36810
-url: /net/aspose.cad.imageoptions/tiffoptionserror/
+weight: 550
+url: "/net/aspose.cad.imageoptions/tiffoptionserror/"
+product_version: "26.9"
 ---
 ## TiffOptionsError enumeration
 
@@ -30,7 +33,6 @@ public enum TiffOptionsError
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../)
 

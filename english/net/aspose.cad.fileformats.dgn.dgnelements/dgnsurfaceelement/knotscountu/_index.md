@@ -1,10 +1,13 @@
 ---
-title: DgnSurfaceElement.KnotsCountU
-second_title: Aspose.CAD for .NET API Reference
-description: DgnSurfaceElement property. Gets knots count for U
+title: "DgnSurfaceElement.KnotsCountU"
+linktitle: "KnotsCountU"
+articleTitle: "KnotsCountU"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnSurfaceElement property. Gets knots count for U"
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/knotscountu/
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/knotscountu/"
+product_version: "26.9"
 ---
 ## DgnSurfaceElement.KnotsCountU property
 
@@ -16,8 +19,7 @@ public ushort KnotsCountU { get; }
 
 ### See Also
 
-* class [DgnSurfaceElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnSurfaceElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

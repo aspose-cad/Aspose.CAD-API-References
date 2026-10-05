@@ -1,14 +1,20 @@
 ---
-title: Glyphs.GlyphsClip
-second_title: Aspose.CAD for .NET API Reference
-description: Glyphs property. Gets or sets the glyphs clip. Limits the rendered region of the element. Only portions of the Glyphs element that fall within the clip region even partially clipped characters produce marks on the page
+title: "Glyphs.GlyphsClip"
+linktitle: "GlyphsClip"
+articleTitle: "GlyphsClip"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Glyphs property. Gets or sets the glyphs clip. Limits the rendered region of the element. Only portions of the Glyphs element that fall within the clip regio..."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/glyphs/glyphsclip/
+weight: 30
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/glyphs/glyphsclip/"
+product_version: "26.9"
 ---
 ## Glyphs.GlyphsClip property
 
-Gets or sets the glyphs clip. Limits the rendered region of the element. Only portions of the Glyphs element that fall within the clip region (even partially clipped characters) produce marks on the page.
+Gets or sets the glyphs clip.
+ Limits the rendered region of the element.
+ Only portions of the Glyphs element that fall within the clip region
+ (even partially clipped characters) produce marks on the page.
 
 ```csharp
 public Geometry GlyphsClip { get; set; }
@@ -16,9 +22,8 @@ public Geometry GlyphsClip { get; set; }
 
 ### See Also
 
-* class [Geometry](../../geometry/)
-* class [Glyphs](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Geometry](../../geometry/)
+* class [Glyphs](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

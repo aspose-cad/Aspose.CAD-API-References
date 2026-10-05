@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderBlock.BlockAttributeTextString
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderBlock property. Gets or sets the block attribute text string
+title: "CadMLeaderBlock.BlockAttributeTextString"
+linktitle: "BlockAttributeTextString"
+articleTitle: "BlockAttributeTextString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderBlock property. Gets or sets the block attribute text string."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderblock/blockattributetextstring/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderblock/blockattributetextstring/"
+product_version: "26.9"
 ---
 ## CadMLeaderBlock.BlockAttributeTextString property
 
@@ -20,8 +23,7 @@ The block attribute text string.
 
 ### See Also
 
-* class [CadMLeaderBlock](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderBlock](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

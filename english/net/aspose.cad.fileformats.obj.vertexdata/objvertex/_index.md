@@ -1,10 +1,14 @@
 ---
-title: Class ObjVertex
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Obj.VertexData.ObjVertex class. The OBJ vertex
+title: "ObjVertex Class"
+linktitle: "ObjVertex"
+articleTitle: "ObjVertex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Obj.VertexData.ObjVertex class. The OBJ vertex."
 type: docs
-weight: 33870
-url: /net/aspose.cad.fileformats.obj.vertexdata/objvertex/
+weight: 20
+url: "/net/aspose.cad.fileformats.obj.vertexdata/objvertex/"
+keywords: "ObjVertex, Aspose.CAD.FileFormats.Obj.VertexData, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ObjVertex class
 
@@ -18,29 +22,28 @@ public class ObjVertex : IEquatable<ObjVertex>
 
 | Name | Description |
 | --- | --- |
-| [ObjVertex](objvertex/)(float, float, float) | Initializes a new instance of the `ObjVertex` class. |
+| [ObjVertex](objvertex/)(float, float, float) | Initializes a new instance of the `ObjVertex` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [X](../../aspose.cad.fileformats.obj.vertexdata/objvertex/x/) { get; } | Gets the x coordinate. |
-| [Y](../../aspose.cad.fileformats.obj.vertexdata/objvertex/y/) { get; } | Gets the y coordinate. |
-| [Z](../../aspose.cad.fileformats.obj.vertexdata/objvertex/z/) { get; } | Gets the z coordinate. |
+| [X](../../aspose.cad.fileformats.obj.vertexdata/objvertex/x/) { get; } | Gets the x coordinate. |
+| [Y](../../aspose.cad.fileformats.obj.vertexdata/objvertex/y/) { get; } | Gets the y coordinate. |
+| [Z](../../aspose.cad.fileformats.obj.vertexdata/objvertex/z/) { get; } | Gets the z coordinate. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.obj.vertexdata/objvertex/equals/#equals_1)(object) | Indicates whether the current object is equal to another object. |
-| [Equals](../../aspose.cad.fileformats.obj.vertexdata/objvertex/equals/#equals)(ObjVertex) | Indicates whether the current object is equal to another object of the same type. |
-| override [GetHashCode](../../aspose.cad.fileformats.obj.vertexdata/objvertex/gethashcode/)() | Gets hash code. |
+| override [Equals](../../aspose.cad.fileformats.obj.vertexdata/objvertex/equals/#equals)(object) | Indicates whether the current object is equal to another object. |
+| [Equals](../../aspose.cad.fileformats.obj.vertexdata/objvertex/equals/#equals_1)(ObjVertex) | Indicates whether the current object is equal to another object of the same type. |
+| override [GetHashCode](../../aspose.cad.fileformats.obj.vertexdata/objvertex/gethashcode/)() | Gets hash code. |
 | [operator ==](../../aspose.cad.fileformats.obj.vertexdata/objvertex/op_equality/) | Overloading the equality operator. |
 | [operator !=](../../aspose.cad.fileformats.obj.vertexdata/objvertex/op_inequality/) | Overloading the inequality operator. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../aspose.cad.fileformats.obj.vertexdata/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../aspose.cad.fileformats.obj.vertexdata/)
+* assembly [Aspose.CAD](../../)
 

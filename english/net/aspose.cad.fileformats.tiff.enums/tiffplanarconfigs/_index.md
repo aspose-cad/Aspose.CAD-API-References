@@ -1,14 +1,19 @@
 ---
-title: Enum TiffPlanarConfigs
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffPlanarConfigs enum. Storage organization. Possible values for PLANARCONFIG tag
+title: "TiffPlanarConfigs Enum"
+linktitle: "TiffPlanarConfigs"
+articleTitle: "TiffPlanarConfigs"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffPlanarConfigs enum. Storage organization. Possible values for PLANARCONFIG tag."
 type: docs
-weight: 35490
-url: /net/aspose.cad.fileformats.tiff.enums/tiffplanarconfigs/
+weight: 130
+url: "/net/aspose.cad.fileformats.tiff.enums/tiffplanarconfigs/"
+product_version: "26.9"
 ---
 ## TiffPlanarConfigs enumeration
 
-Storage organization. Possible values for PLANARCONFIG tag.
+Storage organization.
+
+ Possible values for PLANARCONFIG tag.
 
 ```csharp
 public enum TiffPlanarConfigs : ushort
@@ -23,7 +28,6 @@ public enum TiffPlanarConfigs : ushort
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

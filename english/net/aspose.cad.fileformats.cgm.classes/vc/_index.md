@@ -1,10 +1,14 @@
 ---
-title: Class VC
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Classes.VC class. Represents the abstract VC parameter type
+title: "VC Class"
+linktitle: "VC"
+articleTitle: "VC"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Classes.VC class. Represents the abstract VC parameter type"
 type: docs
-weight: 4730
-url: /net/aspose.cad.fileformats.cgm.classes/vc/
+weight: 110
+url: "/net/aspose.cad.fileformats.cgm.classes/vc/"
+keywords: "VC, Aspose.CAD.FileFormats.Cgm.Classes, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## VC class
 
@@ -24,12 +28,11 @@ public class VC
 
 | Name | Description |
 | --- | --- |
-| [ValueInt](../../aspose.cad.fileformats.cgm.classes/vc/valueint/) { get; set; } |  |
-| [ValueReal](../../aspose.cad.fileformats.cgm.classes/vc/valuereal/) { get; set; } |  |
+| [ValueInt](../../aspose.cad.fileformats.cgm.classes/vc/valueint/) { get; set; } |  |
+| [ValueReal](../../aspose.cad.fileformats.cgm.classes/vc/valuereal/) { get; set; } |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../)
 

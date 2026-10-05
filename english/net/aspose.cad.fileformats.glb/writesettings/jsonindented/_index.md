@@ -1,10 +1,13 @@
 ---
-title: WriteSettings.JsonIndented
-second_title: Aspose.CAD for .NET API Reference
-description: WriteSettings property. Gets or sets a value indicating whether the JSON formatting will include indentation
+title: "WriteSettings.JsonIndented"
+linktitle: "JsonIndented"
+articleTitle: "JsonIndented"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "WriteSettings property. Gets or sets a value indicating whether the JSON formatting will include indentation."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb/writesettings/jsonindented/
+weight: 80
+url: "/net/aspose.cad.fileformats.glb/writesettings/jsonindented/"
+product_version: "26.9"
 ---
 ## WriteSettings.JsonIndented property
 
@@ -16,8 +19,7 @@ public bool JsonIndented { get; set; }
 
 ### See Also
 
-* class [WriteSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [WriteSettings](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

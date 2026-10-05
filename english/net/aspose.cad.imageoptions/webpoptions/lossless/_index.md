@@ -1,10 +1,13 @@
 ---
-title: WebPOptions.Lossless
-second_title: Aspose.CAD for .NET API Reference
-description: WebPOptions property. Gets or sets a value indicating whether this WebPOptions is lossless
+title: "WebPOptions.Lossless"
+linktitle: "Lossless"
+articleTitle: "Lossless"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "WebPOptions property. Gets or sets a value indicating whether this WebPOptions is lossless."
 type: docs
-weight: 40
-url: /net/aspose.cad.imageoptions/webpoptions/lossless/
+weight: 30
+url: "/net/aspose.cad.imageoptions/webpoptions/lossless/"
+product_version: "26.9"
 ---
 ## WebPOptions.Lossless property
 
@@ -20,8 +23,7 @@ public bool Lossless { get; set; }
 
 ### See Also
 
-* class [WebPOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [WebPOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

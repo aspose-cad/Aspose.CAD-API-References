@@ -1,10 +1,13 @@
 ---
-title: ImageOptionsBase.Timeout
-second_title: Aspose.CAD for .NET API Reference
-description: ImageOptionsBase property. Timeout value for export operation in milliseconds
+title: "ImageOptionsBase.Timeout"
+linktitle: "Timeout"
+articleTitle: "Timeout"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageOptionsBase property. Timeout value for export operation (in milliseconds)"
 type: docs
 weight: 100
-url: /net/aspose.cad.imageoptions/imageoptionsbase/timeout/
+url: "/net/aspose.cad.imageoptions/imageoptionsbase/timeout/"
+product_version: "26.9"
 ---
 ## ImageOptionsBase.Timeout property
 
@@ -16,8 +19,7 @@ public int Timeout { get; set; }
 
 ### See Also
 
-* class [ImageOptionsBase](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ImageOptionsBase](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

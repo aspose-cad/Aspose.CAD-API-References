@@ -1,10 +1,13 @@
 ---
-title: Interface IPartialRawDataLoader
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.IPartialRawDataLoader interface. The partial data loader
+title: "IPartialRawDataLoader Interface"
+linktitle: "IPartialRawDataLoader"
+articleTitle: "IPartialRawDataLoader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.IPartialRawDataLoader interface. The partial data loader."
 type: docs
-weight: 36140
-url: /net/aspose.cad/ipartialrawdataloader/
+weight: 460
+url: "/net/aspose.cad/ipartialrawdataloader/"
+product_version: "26.9"
 ---
 ## IPartialRawDataLoader interface
 
@@ -18,12 +21,11 @@ public interface IPartialRawDataLoader
 
 | Name | Description |
 | --- | --- |
-| [Process](../../aspose.cad/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | Processes the loaded data. |
-| [Process](../../aspose.cad/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | Processes the loaded data. |
+| [Process](../../aspose.cad/ipartialrawdataloader/process/)(Rectangle, byte[], Point, Point) | Processes the loaded data. |
+| [Process](../../aspose.cad/ipartialrawdataloader/process/)(Rectangle, byte[], Point, Point, LoadOptions) | Processes the loaded data. |
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ColladaImage.CacheData
-second_title: Aspose.CAD for .NET API Reference
-description: ColladaImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer
+title: "ColladaImage.CacheData"
+linktitle: "CacheData"
+articleTitle: "CacheData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColladaImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.collada/colladaimage/cachedata/
+weight: 10
+url: "/net/aspose.cad.fileformats.collada/colladaimage/cachedata/"
+product_version: "26.9"
 ---
 ## ColladaImage.CacheData method
 
@@ -16,8 +19,7 @@ public override void CacheData()
 
 ### See Also
 
-* class [ColladaImage](../)
-* namespace [Aspose.CAD.FileFormats.Collada](../../../aspose.cad.fileformats.collada/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ColladaImage](../)
+* namespace [Aspose.CAD.FileFormats.Collada](../../../aspose.cad.fileformats.collada/)
+* assembly [Aspose.CAD](../../../)
 

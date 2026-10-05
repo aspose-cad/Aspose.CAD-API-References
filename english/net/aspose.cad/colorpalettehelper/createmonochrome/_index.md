@@ -1,10 +1,13 @@
 ---
-title: ColorPaletteHelper.CreateMonochrome
-second_title: Aspose.CAD for .NET API Reference
-description: ColorPaletteHelper method. Creates a monochrome color palette containing 2 colors only
+title: "ColorPaletteHelper.CreateMonochrome"
+linktitle: "CreateMonochrome"
+articleTitle: "CreateMonochrome"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColorPaletteHelper method. Creates a monochrome color palette containing 2 colors only."
 type: docs
-weight: 50
-url: /net/aspose.cad/colorpalettehelper/createmonochrome/
+weight: 10
+url: "/net/aspose.cad/colorpalettehelper/createmonochrome/"
+product_version: "26.9"
 ---
 ## ColorPaletteHelper.CreateMonochrome method
 
@@ -20,9 +23,8 @@ Color palette for monochrome images.
 
 ### See Also
 
-* interface [IColorPalette](../../icolorpalette/)
-* class [ColorPaletteHelper](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IColorPalette](../../icolorpalette/)
+* class [ColorPaletteHelper](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

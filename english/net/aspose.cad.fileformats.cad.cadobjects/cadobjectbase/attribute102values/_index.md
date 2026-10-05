@@ -1,10 +1,13 @@
 ---
-title: CadObjectBase.Attribute102Values
-second_title: Aspose.CAD for .NET API Reference
-description: CadObjectBase property. Gets or sets the attribute102 values
+title: "CadObjectBase.Attribute102Values"
+linktitle: "Attribute102Values"
+articleTitle: "Attribute102Values"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadObjectBase property. Gets or sets the attribute102 values."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/"
+product_version: "26.9"
 ---
 ## CadObjectBase.Attribute102Values property
 
@@ -20,9 +23,8 @@ The attribute102 values.
 
 ### See Also
 
-* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
-* class [CadObjectBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
+* class [CadObjectBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

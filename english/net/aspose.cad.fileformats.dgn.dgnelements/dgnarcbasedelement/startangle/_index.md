@@ -1,10 +1,13 @@
 ---
-title: DgnArcBasedElement.StartAngle
-second_title: Aspose.CAD for .NET API Reference
-description: DgnArcBasedElement property. Gets or sets Start angle degrees counterclockwise of primary axis
+title: "DgnArcBasedElement.StartAngle"
+linktitle: "StartAngle"
+articleTitle: "StartAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnArcBasedElement property. Gets or sets Start angle (degrees counterclockwise of primary axis)"
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/startangle/
+weight: 50
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/startangle/"
+product_version: "26.9"
 ---
 ## DgnArcBasedElement.StartAngle property
 
@@ -16,8 +19,7 @@ public double StartAngle { get; }
 
 ### See Also
 
-* class [DgnArcBasedElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnArcBasedElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum AlphaMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Materials.AlphaMode enum. The alpha rendering mode of the material
+title: "AlphaMode Enum"
+linktitle: "AlphaMode"
+articleTitle: "AlphaMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Materials.AlphaMode enum. The alpha rendering mode of the material."
 type: docs
-weight: 10830
-url: /net/aspose.cad.fileformats.glb.materials/alphamode/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb.materials/alphamode/"
+product_version: "26.9"
 ---
 ## AlphaMode enumeration
 
@@ -24,7 +27,6 @@ public enum AlphaMode
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.TextBackgroundFillOn
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets text background fill on
+title: "CadMLeaderContextData.TextBackgroundFillOn"
+linktitle: "TextBackgroundFillOn"
+articleTitle: "TextBackgroundFillOn"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets text background fill on"
 type: docs
-weight: 260
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textbackgroundfillon/
+weight: 200
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textbackgroundfillon/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.TextBackgroundFillOn property
 
@@ -20,8 +23,7 @@ Text background color on
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

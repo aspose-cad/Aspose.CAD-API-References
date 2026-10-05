@@ -1,10 +1,13 @@
 ---
-title: GlbData.UseImage
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates or reuses a Image instance
+title: "GlbData.UseImage"
+linktitle: "UseImage"
+articleTitle: "UseImage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Creates or reuses a Image instance."
 type: docs
-weight: 510
-url: /net/aspose.cad.fileformats.glb/glbdata/useimage/
+weight: 170
+url: "/net/aspose.cad.fileformats.glb/glbdata/useimage/"
+product_version: "26.9"
 ---
 ## GlbData.UseImage method
 
@@ -24,10 +27,9 @@ A [`Image`](../../../aspose.cad/image/) instance.
 
 ### See Also
 
-* class [ImageGlb](../../imageglb/)
-* struct [MemoryImage](../../../aspose.cad.fileformats.glb.memory/memoryimage/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ImageGlb](../../imageglb/)
+* struct [MemoryImage](../../../aspose.cad.fileformats.glb.memory/memoryimage/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

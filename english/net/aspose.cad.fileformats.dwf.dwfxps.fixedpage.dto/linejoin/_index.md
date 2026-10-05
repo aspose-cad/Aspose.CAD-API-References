@@ -1,14 +1,18 @@
 ---
-title: Enum LineJoin
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.LineJoin enum. The line join. Specifies the appearance of line joins
+title: "LineJoin Enum"
+linktitle: "LineJoin"
+articleTitle: "LineJoin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.LineJoin enum. The line join. Specifies the appearance of line joins."
 type: docs
-weight: 9400
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/linejoin/
+weight: 160
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/linejoin/"
+product_version: "26.9"
 ---
 ## LineJoin enumeration
 
-The line join. Specifies the appearance of line joins.
+The line join.
+ Specifies the appearance of line joins.
 
 ```csharp
 public enum LineJoin
@@ -24,7 +28,6 @@ public enum LineJoin
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

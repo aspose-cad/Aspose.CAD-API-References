@@ -1,10 +1,13 @@
 ---
-title: RasterImage.AdjustContrast
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Image contrasting
+title: "RasterImage.AdjustContrast"
+linktitle: "AdjustContrast"
+articleTitle: "AdjustContrast"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Image contrasting"
 type: docs
 weight: 150
-url: /net/aspose.cad/rasterimage/adjustcontrast/
+url: "/net/aspose.cad/rasterimage/adjustcontrast/"
+product_version: "26.9"
 ---
 ## RasterImage.AdjustContrast method
 
@@ -20,8 +23,7 @@ public abstract void AdjustContrast(float contrast)
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

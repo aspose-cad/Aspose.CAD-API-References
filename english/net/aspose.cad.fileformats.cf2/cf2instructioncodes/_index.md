@@ -1,10 +1,13 @@
 ---
-title: Enum CF2InstructionCodes
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.CF2.CF2InstructionCodes enum. CF2 instruction codes
+title: "CF2InstructionCodes Enum"
+linktitle: "CF2InstructionCodes"
+articleTitle: "CF2InstructionCodes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.CF2.CF2InstructionCodes enum. CF2 instruction codes"
 type: docs
-weight: 870
-url: /net/aspose.cad.fileformats.cf2/cf2instructioncodes/
+weight: 70
+url: "/net/aspose.cad.fileformats.cf2/cf2instructioncodes/"
+product_version: "26.9"
 ---
 ## CF2InstructionCodes enumeration
 
@@ -26,7 +29,6 @@ public enum CF2InstructionCodes
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../)
 

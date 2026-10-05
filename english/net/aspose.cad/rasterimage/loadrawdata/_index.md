@@ -1,10 +1,13 @@
 ---
-title: RasterImage.LoadRawData
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Loads raw data
+title: "RasterImage.LoadRawData"
+linktitle: "LoadRawData"
+articleTitle: "LoadRawData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Loads raw data."
 type: docs
-weight: 340
-url: /net/aspose.cad/rasterimage/loadrawdata/
+weight: 320
+url: "/net/aspose.cad/rasterimage/loadrawdata/"
+product_version: "26.9"
 ---
 ## RasterImage.LoadRawData method
 
@@ -23,11 +26,10 @@ public void LoadRawData(Rectangle rectangle, RawDataSettings rawDataSettings,
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* class [RawDataSettings](../../rawdatasettings/)
-* interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* class [RawDataSettings](../../rawdatasettings/)
+* interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StlRoot.StlRoot
-second_title: Aspose.CAD for .NET API Reference
-description: StlRoot constructor. Initializes a new instance of the class
+title: "StlRoot.StlRoot"
+linktitle: "StlRoot"
+articleTitle: "StlRoot"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StlRoot constructor. Initializes a new instance of the class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stl.stlobjects/stlroot/stlroot/
+url: "/net/aspose.cad.fileformats.stl.stlobjects/stlroot/stlroot/"
+product_version: "26.9"
 ---
 ## StlRoot constructor
 
@@ -16,8 +19,7 @@ public StlRoot()
 
 ### See Also
 
-* class [StlRoot](../)
-* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StlRoot](../)
+* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
+* assembly [Aspose.CAD](../../../)
 

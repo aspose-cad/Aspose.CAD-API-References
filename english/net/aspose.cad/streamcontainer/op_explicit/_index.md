@@ -1,14 +1,17 @@
 ---
-title: StreamContainer.op_Explicit
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer method. Performs an explicit conversion from StreamContainer to Stream
+title: "StreamContainer.op_Explicit"
+linktitle: "op_Explicit"
+articleTitle: "op_Explicit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer method. Performs an explicit conversion from StreamContainer to Stream."
 type: docs
-weight: 210
-url: /net/aspose.cad/streamcontainer/op_explicit/
+weight: 30
+url: "/net/aspose.cad/streamcontainer/op_explicit/"
+product_version: "26.9"
 ---
 ## StreamContainer Explicit operator
 
-Performs an explicit conversion from [`StreamContainer`](../) to Stream.
+Performs an explicit conversion from [`StreamContainer`](../) to `Stream`.
 
 ```csharp
 public static explicit operator Stream(StreamContainer streamContainer)
@@ -24,8 +27,7 @@ The result of the conversion.
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

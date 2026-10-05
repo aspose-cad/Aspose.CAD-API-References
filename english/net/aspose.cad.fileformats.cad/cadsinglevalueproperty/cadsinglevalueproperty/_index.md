@@ -1,10 +1,13 @@
 ---
-title: CadSingleValueProperty.CadSingleValueProperty
-second_title: Aspose.CAD for .NET API Reference
-description: CadSingleValueProperty constructor. Initializes a new instance of the CadSingleValueProperty class
+title: "CadSingleValueProperty.CadSingleValueProperty"
+linktitle: "CadSingleValueProperty"
+articleTitle: "CadSingleValueProperty"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSingleValueProperty constructor. Initializes a new instance of the CadSingleValueProperty class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadsinglevalueproperty/cadsinglevalueproperty/
+url: "/net/aspose.cad.fileformats.cad/cadsinglevalueproperty/cadsinglevalueproperty/"
+product_version: "26.9"
 ---
 ## CadSingleValueProperty constructor
 
@@ -23,10 +26,9 @@ public CadSingleValueProperty(CadEntityAttribute attribute, CadParameterType par
 
 ### See Also
 
-* enum [CadEntityAttribute](../../cadentityattribute/)
-* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
-* class [CadSingleValueProperty](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
+* class [CadSingleValueProperty](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

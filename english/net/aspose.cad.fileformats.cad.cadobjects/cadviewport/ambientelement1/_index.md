@@ -1,10 +1,13 @@
 ---
-title: CadViewport.AmbientElement1
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the ambient element 1
+title: "CadViewport.AmbientElement1"
+linktitle: "AmbientElement1"
+articleTitle: "AmbientElement1"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the ambient element 1."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/ambientelement1/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/ambientelement1/"
+product_version: "26.9"
 ---
 ## CadViewport.AmbientElement1 property
 
@@ -16,8 +19,7 @@ public short? AmbientElement1 { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

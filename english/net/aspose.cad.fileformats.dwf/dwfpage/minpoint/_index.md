@@ -1,10 +1,13 @@
 ---
-title: DwfPage.MinPoint
-second_title: Aspose.CAD for .NET API Reference
-description: DwfPage property. Gets the min point
+title: "DwfPage.MinPoint"
+linktitle: "MinPoint"
+articleTitle: "MinPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfPage property. Gets the min point."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.dwf/dwfpage/minpoint/
+weight: 50
+url: "/net/aspose.cad.fileformats.dwf/dwfpage/minpoint/"
+product_version: "26.9"
 ---
 ## DwfPage.MinPoint property
 
@@ -16,9 +19,8 @@ public Cad3DPoint MinPoint { get; }
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [DwfPage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [DwfPage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

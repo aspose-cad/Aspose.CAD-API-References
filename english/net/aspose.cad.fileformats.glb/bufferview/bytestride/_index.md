@@ -1,10 +1,13 @@
 ---
-title: BufferView.ByteStride
-second_title: Aspose.CAD for .NET API Reference
-description: BufferView property. Gets the number of bytes between the beginnings of successive elements or Zero
+title: "BufferView.ByteStride"
+linktitle: "ByteStride"
+articleTitle: "ByteStride"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BufferView property. Gets the number of bytes between the beginnings of successive elements, or Zero."
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.glb/bufferview/bytestride/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb/bufferview/bytestride/"
+product_version: "26.9"
 ---
 ## BufferView.ByteStride property
 
@@ -16,8 +19,7 @@ public int ByteStride { get; }
 
 ### See Also
 
-* class [BufferView](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BufferView](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

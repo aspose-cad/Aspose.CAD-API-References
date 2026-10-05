@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.BasePoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets basepoint
+title: "CadMLeaderContextData.BasePoint"
+linktitle: "BasePoint"
+articleTitle: "BasePoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets basepoint."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/basepoint/
+weight: 370
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/basepoint/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.BasePoint property
 
@@ -20,9 +23,8 @@ The base point of context data.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Image.Container
-second_title: Aspose.CAD for .NET API Reference
-description: Image property. Gets the Image container
+title: "Image.Container"
+linktitle: "Container"
+articleTitle: "Container"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image property. Gets the Image container."
 type: docs
-weight: 40
-url: /net/aspose.cad/image/container/
+weight: 200
+url: "/net/aspose.cad/image/container/"
+product_version: "26.9"
 ---
 ## Image.Container property
 
@@ -36,8 +39,7 @@ while (drawing.Container != null)
 
 ### See Also
 
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

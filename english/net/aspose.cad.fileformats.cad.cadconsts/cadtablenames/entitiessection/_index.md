@@ -1,10 +1,13 @@
 ---
-title: CadTableNames.EntitiesSection
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableNames field. entities section
+title: "CadTableNames.EntitiesSection"
+linktitle: "EntitiesSection"
+articleTitle: "EntitiesSection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableNames field. entities section."
 type: docs
 weight: 150
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/entitiessection/
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/entitiessection/"
+product_version: "26.9"
 ---
 ## CadTableNames.EntitiesSection field
 
@@ -16,8 +19,7 @@ public const string EntitiesSection;
 
 ### See Also
 
-* class [CadTableNames](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableNames](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

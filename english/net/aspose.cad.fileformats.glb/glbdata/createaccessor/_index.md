@@ -1,14 +1,18 @@
 ---
-title: GlbData.CreateAccessor
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a new Accessor instance and adds it to GLTF.Schema2.ModelRoot.LogicalAccessors
+title: "GlbData.CreateAccessor"
+linktitle: "CreateAccessor"
+articleTitle: "CreateAccessor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Creates a new Accessor instance and adds it to LogicalAccessors."
 type: docs
-weight: 270
-url: /net/aspose.cad.fileformats.glb/glbdata/createaccessor/
+weight: 30
+url: "/net/aspose.cad.fileformats.glb/glbdata/createaccessor/"
+product_version: "26.9"
 ---
 ## GlbData.CreateAccessor method
 
-Creates a new [`Accessor`](../../accessor/) instance and adds it to !:GLTF.Schema2.ModelRoot.LogicalAccessors.
+Creates a new [`Accessor`](../../accessor/) instance
+ and adds it to `LogicalAccessors`.
 
 ```csharp
 public Accessor CreateAccessor(string name = null)
@@ -24,9 +28,8 @@ A [`Accessor`](../../accessor/) instance.
 
 ### See Also
 
-* class [Accessor](../../accessor/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Accessor](../../accessor/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

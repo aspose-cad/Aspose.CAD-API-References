@@ -1,10 +1,13 @@
 ---
-title: Interface IDrawableProperties
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Iges.Drawables.IDrawableProperties interface. Interface for Nongeometric properties for geometric representations
+title: "IDrawableProperties Interface"
+linktitle: "IDrawableProperties"
+articleTitle: "IDrawableProperties"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Iges.Drawables.IDrawableProperties interface. Interface for Non-geometric properties for geometric representations"
 type: docs
-weight: 33620
-url: /net/aspose.cad.fileformats.iges.drawables/idrawableproperties/
+weight: 30
+url: "/net/aspose.cad.fileformats.iges.drawables/idrawableproperties/"
+product_version: "26.9"
 ---
 ## IDrawableProperties interface
 
@@ -18,15 +21,14 @@ public interface IDrawableProperties
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/color/) { get; } | Color to represent geometry with |
-| [LinePattern](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/linepattern/) { get; } | Line pattern to represent geometry with |
-| [LineThickness](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/linethickness/) { get; } | Line thickness in document's measurement units (i.e. same as geometry's units). |
-| [UnitToMmRate](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/unittommrate/) { get; } | Rate of document's measurement units to millimeters |
-| [Visible](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/visible/) { get; } | Visibility of geometry |
+| [Color](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/color/) { get; } | Color to represent geometry with |
+| [LinePattern](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/linepattern/) { get; } | Line pattern to represent geometry with |
+| [LineThickness](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/linethickness/) { get; } | Line thickness in document's measurement units (i.e. same as geometry's units). |
+| [UnitToMmRate](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/unittommrate/) { get; } | Rate of document's measurement units to millimeters |
+| [Visible](../../aspose.cad.fileformats.iges.drawables/idrawableproperties/visible/) { get; } | Visibility of geometry |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../)
 

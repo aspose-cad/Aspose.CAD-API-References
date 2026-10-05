@@ -1,10 +1,13 @@
 ---
-title: CadMText.Extents
-second_title: Aspose.CAD for .NET API Reference
-description: CadMText property. Gets or sets the extents
+title: "CadMText.Extents"
+linktitle: "Extents"
+articleTitle: "Extents"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMText property. Gets or sets the extents."
 type: docs
-weight: 370
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/extents/
+weight: 530
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmtext/extents/"
+product_version: "26.9"
 ---
 ## CadMText.Extents property
 
@@ -16,8 +19,7 @@ public double Extents { get; set; }
 
 ### See Also
 
-* class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

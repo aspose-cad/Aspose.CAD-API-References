@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.XDirMissingFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets a value indicating that no XDictionary handle is stored for this entity
+title: "CadEntityBase.XDirMissingFlag"
+linktitle: "XDirMissingFlag"
+articleTitle: "XDirMissingFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets a value indicating that no XDictionary handle is stored for this entity."
 type: docs
-weight: 340
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/xdirmissingflag/
+weight: 270
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/xdirmissingflag/"
+product_version: "26.9"
 ---
 ## CadEntityBase.XDirMissingFlag property
 
@@ -20,12 +23,11 @@ public bool XDirMissingFlag { get; set; }
 
 ## Remarks
 
-This flag is always false for AC1015 and earlier versions.
+This flag is always false for `AC1015` and earlier versions.
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

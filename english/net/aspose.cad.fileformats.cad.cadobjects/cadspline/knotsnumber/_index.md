@@ -1,10 +1,13 @@
 ---
-title: CadSpline.KnotsNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpline property. Gets or sets the knots number
+title: "CadSpline.KnotsNumber"
+linktitle: "KnotsNumber"
+articleTitle: "KnotsNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpline property. Gets or sets the knots number."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspline/knotsnumber/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspline/knotsnumber/"
+product_version: "26.9"
 ---
 ## CadSpline.KnotsNumber property
 
@@ -20,8 +23,7 @@ The knots number.
 
 ### See Also
 
-* class [CadSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SceneBuilder.Materials
-second_title: Aspose.CAD for .NET API Reference
-description: SceneBuilder property. Gets all the unique material references shared by all the meshes in this scene
+title: "SceneBuilder.Materials"
+linktitle: "Materials"
+articleTitle: "Materials"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SceneBuilder property. Gets all the unique material references shared by all the meshes in this scene."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/materials/
+weight: 210
+url: "/net/aspose.cad.fileformats.glb.scenes/scenebuilder/materials/"
+product_version: "26.9"
 ---
 ## SceneBuilder.Materials property
 
@@ -16,9 +19,8 @@ public IEnumerable<MaterialBuilder> Materials { get; }
 
 ### See Also
 
-* class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
-* class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
+* class [SceneBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

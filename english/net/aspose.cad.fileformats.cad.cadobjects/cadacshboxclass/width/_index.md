@@ -1,10 +1,13 @@
 ---
-title: CadAcshBoxClass.Width
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcshBoxClass property. The width
+title: "CadAcshBoxClass.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcshBoxClass property. The width"
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshboxclass/width/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshboxclass/width/"
+product_version: "26.9"
 ---
 ## CadAcshBoxClass.Width property
 
@@ -16,8 +19,7 @@ public double Width { get; set; }
 
 ### See Also
 
-* class [CadAcshBoxClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcshBoxClass](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

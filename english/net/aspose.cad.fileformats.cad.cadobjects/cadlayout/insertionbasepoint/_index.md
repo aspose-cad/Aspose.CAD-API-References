@@ -1,10 +1,13 @@
 ---
-title: CadLayout.InsertionBasePoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayout property. Gets or sets the insertion base point
+title: "CadLayout.InsertionBasePoint"
+linktitle: "InsertionBasePoint"
+articleTitle: "InsertionBasePoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayout property. Gets or sets the insertion base point."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/insertionbasepoint/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlayout/insertionbasepoint/"
+product_version: "26.9"
 ---
 ## CadLayout.InsertionBasePoint property
 
@@ -20,9 +23,8 @@ The insertion base point.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadLayout](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadLayout](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

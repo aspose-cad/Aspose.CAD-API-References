@@ -1,10 +1,13 @@
 ---
-title: LoadOptions.DataBackgroundColor
-second_title: Aspose.CAD for .NET API Reference
-description: LoadOptions property. Gets or sets the Image background Color
+title: "LoadOptions.DataBackgroundColor"
+linktitle: "DataBackgroundColor"
+articleTitle: "DataBackgroundColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LoadOptions property. Gets or sets the Image background Color."
 type: docs
-weight: 50
-url: /net/aspose.cad/loadoptions/databackgroundcolor/
+weight: 60
+url: "/net/aspose.cad/loadoptions/databackgroundcolor/"
+product_version: "26.9"
 ---
 ## LoadOptions.DataBackgroundColor property
 
@@ -24,9 +27,8 @@ Typically the background color is set whenever pixel value cannot be recovered d
 
 ### See Also
 
-* struct [Color](../../color/)
-* class [LoadOptions](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../color/)
+* class [LoadOptions](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

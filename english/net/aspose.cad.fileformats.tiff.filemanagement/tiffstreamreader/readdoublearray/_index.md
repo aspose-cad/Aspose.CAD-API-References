@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ReadDoubleArray
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Reads an array of double values from the stream
+title: "TiffStreamReader.ReadDoubleArray"
+linktitle: "ReadDoubleArray"
+articleTitle: "ReadDoubleArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Reads an array of double values from the stream."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readdoublearray/
+weight: 80
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readdoublearray/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ReadDoubleArray method
 
@@ -25,8 +28,7 @@ The array of double values.
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

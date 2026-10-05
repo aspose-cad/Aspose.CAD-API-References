@@ -1,10 +1,13 @@
 ---
-title: CadAcshPyramidClass.Sides
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcshPyramidClass property. The sides
+title: "CadAcshPyramidClass.Sides"
+linktitle: "Sides"
+articleTitle: "Sides"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcshPyramidClass property. The sides"
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/sides/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/sides/"
+product_version: "26.9"
 ---
 ## CadAcshPyramidClass.Sides property
 
@@ -16,8 +19,7 @@ public int Sides { get; set; }
 
 ### See Also
 
-* class [CadAcshPyramidClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcshPyramidClass](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

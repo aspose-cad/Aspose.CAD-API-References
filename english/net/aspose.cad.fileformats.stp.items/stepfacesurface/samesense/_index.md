@@ -1,12 +1,17 @@
 ---
-title: StepFaceSurface.SameSense
-second_title: Aspose.CAD for .NET API Reference
-description: StepFaceSurface property. 
+title: "StepFaceSurface.SameSense"
+linktitle: "SameSense"
+articleTitle: "SameSense"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepFaceSurface property."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.stp.items/stepfacesurface/samesense/
+url: "/net/aspose.cad.fileformats.stp.items/stepfacesurface/samesense/"
+product_version: "26.9"
 ---
 ## StepFaceSurface.SameSense property
+
+
 
 ```csharp
 public bool SameSense { get; set; }
@@ -14,8 +19,7 @@ public bool SameSense { get; set; }
 
 ### See Also
 
-* class [StepFaceSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepFaceSurface](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

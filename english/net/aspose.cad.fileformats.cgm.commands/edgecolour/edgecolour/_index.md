@@ -1,12 +1,17 @@
 ---
-title: EdgeColour.EdgeColour
-second_title: Aspose.CAD for .NET API Reference
-description: EdgeColour constructor. 
+title: "EdgeColour.EdgeColour"
+linktitle: "EdgeColour"
+articleTitle: "EdgeColour"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "EdgeColour constructor. Initializes a new instance of the EdgeColour class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.commands/edgecolour/edgecolour/
+url: "/net/aspose.cad.fileformats.cgm.commands/edgecolour/edgecolour/"
+product_version: "26.9"
 ---
 ## EdgeColour(CgmFile) {#constructor}
+
+Initializes a new instance of the EdgeColour class.
 
 ```csharp
 public EdgeColour(CgmFile container)
@@ -14,14 +19,16 @@ public EdgeColour(CgmFile container)
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [EdgeColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [EdgeColour](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## EdgeColour(CgmFile, CgmColor) {#constructor_1}
+## EdgeColour(CgmFile, CgmColor) {#constructor_1}
+
+Initializes a new instance of the EdgeColour class.
 
 ```csharp
 public EdgeColour(CgmFile container, CgmColor color)
@@ -29,10 +36,9 @@ public EdgeColour(CgmFile container, CgmColor color)
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
-* class [EdgeColour](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
+* class [EdgeColour](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: Struct Matrix2x2Array
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.Matrix2x2Array struct. Wraps an encoded ArraySegment and exposes it as an IList
+title: "Matrix2x2Array Struct"
+linktitle: "Matrix2x2Array"
+articleTitle: "Matrix2x2Array"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Memory.Matrix2x2Array struct. Wraps an encoded ArraySegment and exposes it as an IList."
 type: docs
-weight: 10950
-url: /net/aspose.cad.fileformats.glb.memory/matrix2x2array/
+weight: 40
+url: "/net/aspose.cad.fileformats.glb.memory/matrix2x2array/"
+product_version: "26.9"
 ---
-## Matrix2x2Array structure
+## Matrix2x2Array struct
 
-Wraps an encoded ArraySegment and exposes it as an IList.
+Wraps an encoded `ArraySegment` and exposes it as an `IList`.
 
 ```csharp
 public struct Matrix2x2Array : IList<Matrix3x2>, IReadOnlyList<Matrix3x2>
@@ -18,33 +21,27 @@ public struct Matrix2x2Array : IList<Matrix3x2>, IReadOnlyList<Matrix3x2>
 
 | Name | Description |
 | --- | --- |
-| [Matrix2x2Array](matrix2x2array/#constructor)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) |  |
-| [Matrix2x2Array](matrix2x2array/#constructor_1)(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) |  |
+| [Matrix2x2Array](matrix2x2array/)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) | Initializes a new instance of the Matrix2x2Array class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.cad.fileformats.glb.memory/matrix2x2array/count/) { get; } |  |
-| [Item](../../aspose.cad.fileformats.glb.memory/matrix2x2array/item/) { get; set; } |  |
+| Count { get; } |  |
+| Item { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Contains](../../aspose.cad.fileformats.glb.memory/matrix2x2array/contains/)(Matrix3x2) |  |
-| [CopyTo](../../aspose.cad.fileformats.glb.memory/matrix2x2array/copyto/)(Matrix3x2[], int) |  |
-| [Fill](../../aspose.cad.fileformats.glb.memory/matrix2x2array/fill/)(IEnumerable&lt;Matrix3x2&gt;, int) |  |
-| [GetEnumerator](../../aspose.cad.fileformats.glb.memory/matrix2x2array/getenumerator/)() |  |
-| [IndexOf](../../aspose.cad.fileformats.glb.memory/matrix2x2array/indexof/)(Matrix3x2) |  |
-
-## Remarks
-
-Vector namespace doesn't support a 2x2 matrix, so the array is decoded as a Matrix2x2 matrix internally, but exposed as a Matrix3x2.
+| Contains(Matrix3x2) |  |
+| CopyTo(Matrix3x2[], int) |  |
+| Fill(IEnumerable&lt;Matrix3x2&gt;, int) |  |
+| GetEnumerator() |  |
+| IndexOf(Matrix3x2) |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
+* assembly [Aspose.CAD](../../)
 

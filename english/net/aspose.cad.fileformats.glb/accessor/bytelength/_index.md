@@ -1,10 +1,13 @@
 ---
-title: Accessor.ByteLength
-second_title: Aspose.CAD for .NET API Reference
-description: Accessor property. Gets the number of bytes starting at ByteOffset use by this Accessor
+title: "Accessor.ByteLength"
+linktitle: "ByteLength"
+articleTitle: "ByteLength"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Accessor property. Gets the number of bytes, starting at ByteOffset use by this Accessor"
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.glb/accessor/bytelength/
+weight: 230
+url: "/net/aspose.cad.fileformats.glb/accessor/bytelength/"
+product_version: "26.9"
 ---
 ## Accessor.ByteLength property
 
@@ -16,8 +19,7 @@ public int ByteLength { get; }
 
 ### See Also
 
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

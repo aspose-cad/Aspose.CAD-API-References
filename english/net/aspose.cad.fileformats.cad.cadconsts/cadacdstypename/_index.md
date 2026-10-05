@@ -1,10 +1,13 @@
 ---
-title: Enum CadAcdsTypeName
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadAcdsTypeName enum. Contains Acds names
+title: "CadAcdsTypeName Enum"
+linktitle: "CadAcdsTypeName"
+articleTitle: "CadAcdsTypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadAcdsTypeName enum. Contains Acds names"
 type: docs
-weight: 1180
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadacdstypename/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadacdstypename/"
+product_version: "26.9"
 ---
 ## CadAcdsTypeName enumeration
 
@@ -25,7 +28,6 @@ public enum CadAcdsTypeName
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

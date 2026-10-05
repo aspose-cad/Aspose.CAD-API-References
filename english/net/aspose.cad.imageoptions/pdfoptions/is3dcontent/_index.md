@@ -1,14 +1,19 @@
 ---
-title: PdfOptions.Is3DContent
-second_title: Aspose.CAD for .NET API Reference
-description: PdfOptions property. Gets or sets whether content of the document should be represented as 3D model. Allows to export U3D content directly to PDF in a form of interactive 3D annotation object. The resulting PDF file will contain single 3D model object occupying the entire page with margins
+title: "PdfOptions.Is3DContent"
+linktitle: "Is3DContent"
+articleTitle: "Is3DContent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PdfOptions property. Gets or sets whether content of the document should be represented as 3D model. Allows to export U3D content directly to PDF in a form o..."
 type: docs
-weight: 30
-url: /net/aspose.cad.imageoptions/pdfoptions/is3dcontent/
+weight: 50
+url: "/net/aspose.cad.imageoptions/pdfoptions/is3dcontent/"
+product_version: "26.9"
 ---
 ## PdfOptions.Is3DContent property
 
-Gets or sets whether content of the document should be represented as 3D model. Allows to export U3D content directly to PDF in a form of interactive 3D annotation object. The resulting PDF file will contain single 3D model object occupying the entire page with margins.
+Gets or sets whether content of the document should be represented as 3D model. 
+ Allows to export U3D content directly to PDF in a form of interactive 3D annotation object.
+ The resulting PDF file will contain single 3D model object occupying the entire page with margins.
 
 ```csharp
 public bool Is3DContent { get; set; }
@@ -32,8 +37,7 @@ using (U3dImage u3dImage = (U3dImage)Image.Load(fileName))
 
 ### See Also
 
-* class [PdfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PdfOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

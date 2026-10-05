@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.LinkedDataName
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. The linked data name
+title: "CadTableEntity.LinkedDataName"
+linktitle: "LinkedDataName"
+articleTitle: "LinkedDataName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. The linked data name"
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/linkeddataname/
+weight: 410
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/linkeddataname/"
+product_version: "26.9"
 ---
 ## CadTableEntity.LinkedDataName property
 
@@ -16,8 +19,7 @@ public string LinkedDataName { get; set; }
 
 ### See Also
 
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

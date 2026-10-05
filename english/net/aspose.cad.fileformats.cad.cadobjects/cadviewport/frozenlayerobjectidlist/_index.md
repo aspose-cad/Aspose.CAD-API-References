@@ -1,10 +1,13 @@
 ---
-title: CadViewport.FrozenLayerObjectIdList
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the frozen layer object identifier list
+title: "CadViewport.FrozenLayerObjectIdList"
+linktitle: "FrozenLayerObjectIdList"
+articleTitle: "FrozenLayerObjectIdList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the frozen layer object identifier list."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/frozenlayerobjectidlist/
+weight: 170
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/frozenlayerobjectidlist/"
+product_version: "26.9"
 ---
 ## CadViewport.FrozenLayerObjectIdList property
 
@@ -20,8 +23,7 @@ The frozen layer object identifier list.
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

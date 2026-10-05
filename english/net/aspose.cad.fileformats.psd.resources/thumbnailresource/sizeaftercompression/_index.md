@@ -1,10 +1,13 @@
 ---
-title: ThumbnailResource.SizeAfterCompression
-second_title: Aspose.CAD for .NET API Reference
-description: ThumbnailResource property. Gets or sets the size after compression. Used for consistency check
+title: "ThumbnailResource.SizeAfterCompression"
+linktitle: "SizeAfterCompression"
+articleTitle: "SizeAfterCompression"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThumbnailResource property. Gets or sets the size after compression. Used for consistency check."
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.psd.resources/thumbnailresource/sizeaftercompression/
+url: "/net/aspose.cad.fileformats.psd.resources/thumbnailresource/sizeaftercompression/"
+product_version: "26.9"
 ---
 ## ThumbnailResource.SizeAfterCompression property
 
@@ -20,8 +23,7 @@ The size after compression.
 
 ### See Also
 
-* class [ThumbnailResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThumbnailResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

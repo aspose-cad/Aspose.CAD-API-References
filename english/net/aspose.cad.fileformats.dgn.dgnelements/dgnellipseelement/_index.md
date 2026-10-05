@@ -1,10 +1,14 @@
 ---
-title: Class DgnEllipseElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnEllipseElement class. Represents ellipse element
+title: "DgnEllipseElement Class"
+linktitle: "DgnEllipseElement"
+articleTitle: "DgnEllipseElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnEllipseElement class. Represents ellipse element"
 type: docs
-weight: 8880
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnellipseelement/
+weight: 160
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnellipseelement/"
+keywords: "DgnEllipseElement, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnEllipseElement class
 
@@ -18,23 +22,22 @@ public class DgnEllipseElement : DgnArcBasedElement
 
 | Name | Description |
 | --- | --- |
-| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
-| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/maxpoint/) { get; } | Gets the max point of object. |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
-| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/minpoint/) { get; } | Gets the min point of object. |
-| [Origin](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/origin/) { get; } | Gets or sets Origin of ellipse |
-| [PrimaryAxis](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/primaryaxis/) { get; } | Gets or sets Primary axis length |
-| [QuaternionRotations](../../aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbasequaternion/quaternionrotations/) { get; } | Gets or sets |
-| [Rotation](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/rotation/) { get; } | Gets or sets Counterclockwise rotation in degrees |
-| [SecondaryAxis](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/secondaryaxis/) { get; } | Gets or sets Secondary axis length |
-| [StartAngle](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/startangle/) { get; } | Gets or sets Start angle (degrees counterclockwise of primary axis) |
-| [SweepAngle](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/sweepangle/) { get; } | Gets or sets Sweep angle (degrees) |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/maxpoint/) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
+| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/minpoint/) { get; } | Gets the min point of object. |
+| [Origin](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/origin/) { get; } | Gets or sets Origin of ellipse |
+| [PrimaryAxis](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/primaryaxis/) { get; } | Gets or sets Primary axis length |
+| [QuaternionRotations](../../aspose.cad.fileformats.dgn.dgnelements/dgndrawingelementbasequaternion/quaternionrotations/) { get; } | Gets or sets |
+| [Rotation](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/rotation/) { get; } | Gets or sets Counterclockwise rotation in degrees |
+| [SecondaryAxis](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/secondaryaxis/) { get; } | Gets or sets Secondary axis length |
+| [StartAngle](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/startangle/) { get; } | Gets or sets Start angle (degrees counterclockwise of primary axis) |
+| [SweepAngle](../../aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/sweepangle/) { get; } | Gets or sets Sweep angle (degrees) |
 
 ### See Also
 
-* class [DgnArcBasedElement](../dgnarcbasedelement/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* class [DgnArcBasedElement](../dgnarcbasedelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: JFIFData.XDensity
-second_title: Aspose.CAD for .NET API Reference
-description: JFIFData property. Gets or sets the x density
+title: "JFIFData.XDensity"
+linktitle: "XDensity"
+articleTitle: "XDensity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JFIFData property. Gets or sets the x density."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.jpeg/jfifdata/xdensity/
+url: "/net/aspose.cad.fileformats.jpeg/jfifdata/xdensity/"
+product_version: "26.9"
 ---
 ## JFIFData.XDensity property
 
@@ -16,8 +19,7 @@ public short XDensity { get; set; }
 
 ### See Also
 
-* class [JFIFData](../)
-* namespace [Aspose.CAD.FileFormats.Jpeg](../../../aspose.cad.fileformats.jpeg/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JFIFData](../)
+* namespace [Aspose.CAD.FileFormats.Jpeg](../../../aspose.cad.fileformats.jpeg/)
+* assembly [Aspose.CAD](../../../)
 

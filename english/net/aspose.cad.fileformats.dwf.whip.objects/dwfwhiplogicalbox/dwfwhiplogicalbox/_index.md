@@ -1,10 +1,13 @@
 ---
-title: DwfWhipLogicalBox.DwfWhipLogicalBox
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipLogicalBox constructor. Initializes a new instance of the DwfWhipLogicalBox class
+title: "DwfWhipLogicalBox.DwfWhipLogicalBox"
+linktitle: "DwfWhipLogicalBox"
+articleTitle: "DwfWhipLogicalBox"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipLogicalBox constructor. Initializes a new instance of the DwfWhipLogicalBox class"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalbox/dwfwhiplogicalbox/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalbox/dwfwhiplogicalbox/"
+product_version: "26.9"
 ---
 ## DwfWhipLogicalBox() {#constructor}
 
@@ -16,13 +19,13 @@ public DwfWhipLogicalBox()
 
 ### See Also
 
-* class [DwfWhipLogicalBox](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../../)
+* class [DwfWhipLogicalBox](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## DwfWhipLogicalBox(DwfWhipLogicalPoint, DwfWhipLogicalPoint) {#constructor_1}
+## DwfWhipLogicalBox(DwfWhipLogicalPoint, DwfWhipLogicalPoint) {#constructor_1}
 
 Initializes a new instance of the [`DwfWhipLogicalBox`](../) class
 
@@ -37,9 +40,8 @@ public DwfWhipLogicalBox(DwfWhipLogicalPoint min, DwfWhipLogicalPoint max)
 
 ### See Also
 
-* class [DwfWhipLogicalPoint](../../dwfwhiplogicalpoint/)
-* class [DwfWhipLogicalBox](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLogicalPoint](../../dwfwhiplogicalpoint/)
+* class [DwfWhipLogicalBox](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../../)
 

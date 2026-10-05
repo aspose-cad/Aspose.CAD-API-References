@@ -1,10 +1,13 @@
 ---
-title: CadRegion.ModelerFormatVersionNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadRegion property. Gets or sets the modeler format version number
+title: "CadRegion.ModelerFormatVersionNumber"
+linktitle: "ModelerFormatVersionNumber"
+articleTitle: "ModelerFormatVersionNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRegion property. Gets or sets the modeler format version number."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadregion/modelerformatversionnumber/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadregion/modelerformatversionnumber/"
+product_version: "26.9"
 ---
 ## CadRegion.ModelerFormatVersionNumber property
 
@@ -20,8 +23,7 @@ The modeler format version number.
 
 ### See Also
 
-* class [CadRegion](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRegion](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

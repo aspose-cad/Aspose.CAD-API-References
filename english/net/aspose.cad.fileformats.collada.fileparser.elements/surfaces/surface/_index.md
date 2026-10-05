@@ -1,10 +1,13 @@
 ---
-title: Surfaces.Surface
-second_title: Aspose.CAD for .NET API Reference
-description: Surfaces property. Gets or sets the surfaces collection
+title: "Surfaces.Surface"
+linktitle: "Surface"
+articleTitle: "Surface"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Surfaces property. Gets or sets the surfaces collection."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/surfaces/surface/
+weight: 20
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/surfaces/surface/"
+product_version: "26.9"
 ---
 ## Surfaces.Surface property
 
@@ -16,9 +19,8 @@ public Surface[] Surface { get; set; }
 
 ### See Also
 
-* class [Surface](../../surface/)
-* class [Surfaces](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Surface](../../surface/)
+* class [Surfaces](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

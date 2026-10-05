@@ -1,10 +1,13 @@
 ---
-title: Torus.Extra
-second_title: Aspose.CAD for .NET API Reference
-description: Torus property. Gets or sets the extra
+title: "Torus.Extra"
+linktitle: "Extra"
+articleTitle: "Extra"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Torus property. Gets or sets the extra."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/torus/extra/
+weight: 30
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/torus/extra/"
+product_version: "26.9"
 ---
 ## Torus.Extra property
 
@@ -16,9 +19,8 @@ public Extra[] Extra { get; set; }
 
 ### See Also
 
-* class [Extra](../../extra/)
-* class [Torus](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Extra](../../extra/)
+* class [Torus](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadLight.LightName
-second_title: Aspose.CAD for .NET API Reference
-description: CadLight property. Gets or sets the name of the light
+title: "CadLight.LightName"
+linktitle: "LightName"
+articleTitle: "LightName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLight property. Gets or sets the name of the light."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/lightname/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlight/lightname/"
+product_version: "26.9"
 ---
 ## CadLight.LightName property
 
@@ -20,8 +23,7 @@ The name of the light.
 
 ### See Also
 
-* class [CadLight](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLight](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

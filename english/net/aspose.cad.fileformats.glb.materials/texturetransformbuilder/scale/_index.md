@@ -1,12 +1,17 @@
 ---
-title: TextureTransformBuilder.Scale
-second_title: Aspose.CAD for .NET API Reference
-description: TextureTransformBuilder property. 
+title: "TextureTransformBuilder.Scale"
+linktitle: "Scale"
+articleTitle: "Scale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TextureTransformBuilder property."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb.materials/texturetransformbuilder/scale/
+weight: 30
+url: "/net/aspose.cad.fileformats.glb.materials/texturetransformbuilder/scale/"
+product_version: "26.9"
 ---
 ## TextureTransformBuilder.Scale property
+
+
 
 ```csharp
 public Vector2 Scale { get; set; }
@@ -14,8 +19,7 @@ public Vector2 Scale { get; set; }
 
 ### See Also
 
-* class [TextureTransformBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TextureTransformBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

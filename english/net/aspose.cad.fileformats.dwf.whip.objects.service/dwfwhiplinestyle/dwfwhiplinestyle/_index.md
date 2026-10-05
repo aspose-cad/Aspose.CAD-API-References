@@ -1,10 +1,13 @@
 ---
-title: DwfWhipLineStyle.DwfWhipLineStyle
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipLineStyle constructor. The default constructor
+title: "DwfWhipLineStyle.DwfWhipLineStyle"
+linktitle: "DwfWhipLineStyle"
+articleTitle: "DwfWhipLineStyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipLineStyle constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/dwfwhiplinestyle/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/dwfwhiplinestyle/"
+product_version: "26.9"
 ---
 ## DwfWhipLineStyle constructor
 
@@ -16,8 +19,7 @@ public DwfWhipLineStyle()
 
 ### See Also
 
-* class [DwfWhipLineStyle](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLineStyle](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../../)
 

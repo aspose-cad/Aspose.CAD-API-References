@@ -1,10 +1,13 @@
 ---
-title: DgnSurfaceElement.RuleLinesU
-second_title: Aspose.CAD for .NET API Reference
-description: DgnSurfaceElement property. Gets rule lines for U
+title: "DgnSurfaceElement.RuleLinesU"
+linktitle: "RuleLinesU"
+articleTitle: "RuleLinesU"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnSurfaceElement property. Gets rule lines for U"
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/rulelinesu/
+weight: 70
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/rulelinesu/"
+product_version: "26.9"
 ---
 ## DgnSurfaceElement.RuleLinesU property
 
@@ -16,8 +19,7 @@ public ushort RuleLinesU { get; }
 
 ### See Also
 
-* class [DgnSurfaceElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnSurfaceElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

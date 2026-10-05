@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ReadDouble
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Read a single double value from the stream
+title: "TiffStreamReader.ReadDouble"
+linktitle: "ReadDouble"
+articleTitle: "ReadDouble"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Read a single double value from the stream."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readdouble/
+weight: 70
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readdouble/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ReadDouble method
 
@@ -24,8 +27,7 @@ The single double value.
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

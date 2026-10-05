@@ -1,10 +1,13 @@
 ---
-title: CadSunStudy.Spacing
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunStudy property. Gets or sets the spacing
+title: "CadSunStudy.Spacing"
+linktitle: "Spacing"
+articleTitle: "Spacing"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunStudy property. Gets or sets the spacing."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/spacing/
+weight: 240
+url: "/net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/spacing/"
+product_version: "26.9"
 ---
 ## CadSunStudy.Spacing property
 
@@ -20,8 +23,7 @@ The spacing.
 
 ### See Also
 
-* class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunStudy](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
+* assembly [Aspose.CAD](../../../)
 

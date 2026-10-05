@@ -1,14 +1,18 @@
 ---
-title: TiffOptions.AlphaStorage
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the alpha storage option. Options other than Unspecified are used when there are more than 3 SamplesPerPixel defined
+title: "TiffOptions.AlphaStorage"
+linktitle: "AlphaStorage"
+articleTitle: "AlphaStorage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the alpha storage option. Options other than Unspecified are used when there are more than 3 SamplesPerPixel defined."
 type: docs
-weight: 20
-url: /net/aspose.cad.imageoptions/tiffoptions/alphastorage/
+weight: 260
+url: "/net/aspose.cad.imageoptions/tiffoptions/alphastorage/"
+product_version: "26.9"
 ---
 ## TiffOptions.AlphaStorage property
 
-Gets or sets the alpha storage option. Options other than Unspecified are used when there are more than 3 [`SamplesPerPixel`](../samplesperpixel/) defined.
+Gets or sets the alpha storage option. Options other than `Unspecified`
+ are used when there are more than 3 [`SamplesPerPixel`](../samplesperpixel/) defined.
 
 ```csharp
 public TiffAlphaStorage AlphaStorage { get; set; }
@@ -20,9 +24,8 @@ The alpha storage option.
 
 ### See Also
 
-* enum [TiffAlphaStorage](../../../aspose.cad.fileformats.tiff.enums/tiffalphastorage/)
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [TiffAlphaStorage](../../../aspose.cad.fileformats.tiff.enums/tiffalphastorage/)
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

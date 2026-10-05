@@ -1,12 +1,17 @@
 ---
-title: Enum AnnotationDirection
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Annotations.AnnotationDirection enum. 
+title: "AnnotationDirection Enum"
+linktitle: "AnnotationDirection"
+articleTitle: "AnnotationDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Annotations.AnnotationDirection enum."
 type: docs
-weight: 10
-url: /net/aspose.cad.annotations/annotationdirection/
+weight: 20
+url: "/net/aspose.cad.annotations/annotationdirection/"
+product_version: "26.9"
 ---
 ## AnnotationDirection enumeration
+
+
 
 ```csharp
 public enum AnnotationDirection
@@ -23,7 +28,6 @@ public enum AnnotationDirection
 
 ### See Also
 
-* namespace [Aspose.CAD.Annotations](../../aspose.cad.annotations/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Annotations](../../aspose.cad.annotations/)
+* assembly [Aspose.CAD](../../)
 

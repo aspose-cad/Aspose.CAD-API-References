@@ -1,10 +1,13 @@
 ---
-title: DgnExtLocks.DgnExtLocks
-second_title: Aspose.CAD for .NET API Reference
-description: DgnExtLocks constructor. The default constructor
+title: "DgnExtLocks.DgnExtLocks"
+linktitle: "DgnExtLocks"
+articleTitle: "DgnExtLocks"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnExtLocks constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn/dgnextlocks/dgnextlocks/
+url: "/net/aspose.cad.fileformats.dgn/dgnextlocks/dgnextlocks/"
+product_version: "26.9"
 ---
 ## DgnExtLocks constructor
 
@@ -16,8 +19,7 @@ public DgnExtLocks()
 
 ### See Also
 
-* class [DgnExtLocks](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnExtLocks](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

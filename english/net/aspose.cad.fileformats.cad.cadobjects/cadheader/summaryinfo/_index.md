@@ -1,10 +1,13 @@
 ---
-title: CadHeader.SummaryInfo
-second_title: Aspose.CAD for .NET API Reference
-description: CadHeader property. Gets the DWG summary information
+title: "CadHeader.SummaryInfo"
+linktitle: "SummaryInfo"
+articleTitle: "SummaryInfo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHeader property. Gets the (DWG) summary information."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadheader/summaryinfo/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadheader/summaryinfo/"
+product_version: "26.9"
 ---
 ## CadHeader.SummaryInfo property
 
@@ -20,9 +23,8 @@ The summary information.
 
 ### See Also
 
-* class [SummaryInfoData](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/)
-* class [CadHeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoData](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/)
+* class [CadHeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

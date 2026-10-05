@@ -1,10 +1,13 @@
 ---
-title: JpegExifData.DateTime
-second_title: Aspose.CAD for .NET API Reference
-description: JpegExifData property. Gets or sets the date time
+title: "JpegExifData.DateTime"
+linktitle: "DateTime"
+articleTitle: "DateTime"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegExifData property. Gets or sets the date time."
 type: docs
-weight: 60
-url: /net/aspose.cad.exif/jpegexifdata/datetime/
+weight: 90
+url: "/net/aspose.cad.exif/jpegexifdata/datetime/"
+product_version: "26.9"
 ---
 ## JpegExifData.DateTime property
 
@@ -20,8 +23,7 @@ The date time.
 
 ### See Also
 
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

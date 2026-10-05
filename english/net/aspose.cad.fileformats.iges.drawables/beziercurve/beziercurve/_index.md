@@ -1,10 +1,13 @@
 ---
-title: BezierCurve.BezierCurve
-second_title: Aspose.CAD for .NET API Reference
-description: BezierCurve constructor. Creates new Bezier curve geometric representation from geometry points and nongeometry properties
+title: "BezierCurve.BezierCurve"
+linktitle: "BezierCurve"
+articleTitle: "BezierCurve"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BezierCurve constructor. Creates new Bezier curve geometric representation from geometry points and non-geometry properties"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.iges.drawables/beziercurve/beziercurve/
+url: "/net/aspose.cad.fileformats.iges.drawables/beziercurve/beziercurve/"
+product_version: "26.9"
 ---
 ## BezierCurve constructor
 
@@ -21,10 +24,9 @@ public BezierCurve(IDrawableProperties properties, Point3D[] pointList)
 
 ### See Also
 
-* interface [IDrawableProperties](../../idrawableproperties/)
-* class [Point3D](../../../aspose.cad.primitives/point3d/)
-* class [BezierCurve](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IDrawableProperties](../../idrawableproperties/)
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
+* class [BezierCurve](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

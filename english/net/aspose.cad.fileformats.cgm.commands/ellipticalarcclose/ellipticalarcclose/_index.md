@@ -1,12 +1,17 @@
 ---
-title: EllipticalArcClose.EllipticalArcClose
-second_title: Aspose.CAD for .NET API Reference
-description: EllipticalArcClose constructor. 
+title: "EllipticalArcClose.EllipticalArcClose"
+linktitle: "EllipticalArcClose"
+articleTitle: "EllipticalArcClose"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "EllipticalArcClose constructor. Initializes a new instance of the EllipticalArcClose class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.commands/ellipticalarcclose/ellipticalarcclose/
+url: "/net/aspose.cad.fileformats.cgm.commands/ellipticalarcclose/ellipticalarcclose/"
+product_version: "26.9"
 ---
 ## EllipticalArcClose(CgmFile) {#constructor}
+
+Initializes a new instance of the EllipticalArcClose class.
 
 ```csharp
 public EllipticalArcClose(CgmFile container)
@@ -14,14 +19,16 @@ public EllipticalArcClose(CgmFile container)
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [EllipticalArcClose](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [EllipticalArcClose](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## EllipticalArcClose(CgmFile, ClosureType, double, double, double, double, CgmPoint, CgmPoint, CgmPoint) {#constructor_1}
+## EllipticalArcClose(CgmFile, ClosureType, double, double, double, double, CgmPoint, CgmPoint, CgmPoint) {#constructor_1}
+
+Initializes a new instance of the EllipticalArcClose class.
 
 ```csharp
 public EllipticalArcClose(CgmFile container, ClosureType type, double startX, double startY, 
@@ -30,11 +37,10 @@ public EllipticalArcClose(CgmFile container, ClosureType type, double startX, do
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* enum [ClosureType](../../../aspose.cad.fileformats.cgm.enums/closuretype/)
-* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
-* class [EllipticalArcClose](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* enum [ClosureType](../../../aspose.cad.fileformats.cgm.enums/closuretype/)
+* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
+* class [EllipticalArcClose](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderLine.Color
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderLine property. Gets or sets the line color
+title: "CadMLeaderLine.Color"
+linktitle: "Color"
+articleTitle: "Color"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderLine property. Gets or sets the line color."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/color/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/color/"
+product_version: "26.9"
 ---
 ## CadMLeaderLine.Color property
 
@@ -16,8 +19,7 @@ public int Color { get; set; }
 
 ### See Also
 
-* class [CadMLeaderLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

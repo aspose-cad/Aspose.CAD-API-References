@@ -1,14 +1,18 @@
 ---
-title: TechniqueConstant.Emission
-second_title: Aspose.CAD for .NET API Reference
-description: TechniqueConstant property. Gets or sets the emission. Declares the amount of light emitted from the surface of this object
+title: "TechniqueConstant.Emission"
+linktitle: "Emission"
+articleTitle: "Emission"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TechniqueConstant property. Gets or sets the emission. Declares the amount of light emitted from the surface of this object."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniqueconstant/emission/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/techniqueconstant/emission/"
+product_version: "26.9"
 ---
 ## TechniqueConstant.Emission property
 
-Gets or sets the emission. Declares the amount of light emitted from the surface of this object.
+Gets or sets the emission.
+ Declares the amount of light emitted from the surface of this object.
 
 ```csharp
 public FxCommonColorOrTexture Emission { get; set; }
@@ -16,9 +20,8 @@ public FxCommonColorOrTexture Emission { get; set; }
 
 ### See Also
 
-* class [FxCommonColorOrTexture](../../fxcommoncolorortexture/)
-* class [TechniqueConstant](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonColorOrTexture](../../fxcommoncolorortexture/)
+* class [TechniqueConstant](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

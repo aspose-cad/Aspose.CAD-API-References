@@ -1,10 +1,13 @@
 ---
-title: CadSpatialFilter.BackClippingPlaneDistance
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpatialFilter property. Gets or sets the back clipping plane distance
+title: "CadSpatialFilter.BackClippingPlaneDistance"
+linktitle: "BackClippingPlaneDistance"
+articleTitle: "BackClippingPlaneDistance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpatialFilter property. Gets or sets the back clipping plane distance."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/backclippingplanedistance/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/backclippingplanedistance/"
+product_version: "26.9"
 ---
 ## CadSpatialFilter.BackClippingPlaneDistance property
 
@@ -20,8 +23,7 @@ The back clipping plane distance.
 
 ### See Also
 
-* class [CadSpatialFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSpatialFilter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

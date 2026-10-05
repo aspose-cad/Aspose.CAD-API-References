@@ -1,10 +1,13 @@
 ---
-title: CadBinaryCodeValue.GetDoubleValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadBinaryCodeValue method. The get double value
+title: "CadBinaryCodeValue.GetDoubleValue"
+linktitle: "GetDoubleValue"
+articleTitle: "GetDoubleValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBinaryCodeValue method. The get double value."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad/cadbinarycodevalue/getdoublevalue/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad/cadbinarycodevalue/getdoublevalue/"
+product_version: "26.9"
 ---
 ## CadBinaryCodeValue.GetDoubleValue method
 
@@ -16,12 +19,11 @@ public override double GetDoubleValue()
 
 ### Return Value
 
-The Double.
+The `Double`.
 
 ### See Also
 
-* class [CadBinaryCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBinaryCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

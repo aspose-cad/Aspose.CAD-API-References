@@ -1,12 +1,17 @@
 ---
-title: Toolkit.WithSkinBinding
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. 
+title: "Toolkit.WithSkinBinding"
+linktitle: "WithSkinBinding"
+articleTitle: "WithSkinBinding"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method."
 type: docs
-weight: 470
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withskinbinding/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withskinbinding/"
+product_version: "26.9"
 ---
 ## Toolkit.WithSkinBinding method
+
+
 
 ```csharp
 public static Node WithSkinBinding(this Node node, Matrix4x4 meshPoseTransform, 
@@ -15,9 +20,8 @@ public static Node WithSkinBinding(this Node node, Matrix4x4 meshPoseTransform,
 
 ### See Also
 
-* class [Node](../../../aspose.cad.fileformats.glb/node/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../../../aspose.cad.fileformats.glb/node/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

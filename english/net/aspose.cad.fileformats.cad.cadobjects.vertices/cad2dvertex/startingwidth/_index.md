@@ -1,10 +1,13 @@
 ---
-title: Cad2DVertex.StartingWidth
-second_title: Aspose.CAD for .NET API Reference
-description: Cad2DVertex property. Gets or sets the starting width
+title: "Cad2DVertex.StartingWidth"
+linktitle: "StartingWidth"
+articleTitle: "StartingWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad2DVertex property. Gets or sets the starting width."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cad2dvertex/startingwidth/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cad2dvertex/startingwidth/"
+product_version: "26.9"
 ---
 ## Cad2DVertex.StartingWidth property
 
@@ -16,8 +19,7 @@ public override double StartingWidth { get; set; }
 
 ### See Also
 
-* class [Cad2DVertex](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DVertex](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

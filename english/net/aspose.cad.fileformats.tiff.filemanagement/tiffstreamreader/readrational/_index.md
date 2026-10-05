@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ReadRational
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Read a single rational number value from the stream
+title: "TiffStreamReader.ReadRational"
+linktitle: "ReadRational"
+articleTitle: "ReadRational"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Read a single rational number value from the stream."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readrational/
+weight: 110
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readrational/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ReadRational method
 
@@ -24,9 +27,8 @@ The rational number.
 
 ### See Also
 
-* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

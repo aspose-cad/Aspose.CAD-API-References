@@ -1,10 +1,13 @@
 ---
-title: CadSectionViewStyle.IdentifierStyleHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionViewStyle property. The Identifier Style Handle
+title: "CadSectionViewStyle.IdentifierStyleHandle"
+linktitle: "IdentifierStyleHandle"
+articleTitle: "IdentifierStyleHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionViewStyle property. The Identifier Style Handle"
 type: docs
-weight: 310
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/identifierstylehandle/
+weight: 350
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/identifierstylehandle/"
+product_version: "26.9"
 ---
 ## CadSectionViewStyle.IdentifierStyleHandle property
 
@@ -16,8 +19,7 @@ public string IdentifierStyleHandle { get; set; }
 
 ### See Also
 
-* class [CadSectionViewStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionViewStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

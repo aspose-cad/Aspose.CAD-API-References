@@ -1,10 +1,13 @@
 ---
-title: Accessor.ByteOffset
-second_title: Aspose.CAD for .NET API Reference
-description: Accessor property. Gets the starting byte offset within SourceBufferView
+title: "Accessor.ByteOffset"
+linktitle: "ByteOffset"
+articleTitle: "ByteOffset"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Accessor property. Gets the starting byte offset within SourceBufferView."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.glb/accessor/byteoffset/
+weight: 220
+url: "/net/aspose.cad.fileformats.glb/accessor/byteoffset/"
+product_version: "26.9"
 ---
 ## Accessor.ByteOffset property
 
@@ -16,8 +19,7 @@ public int ByteOffset { get; }
 
 ### See Also
 
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

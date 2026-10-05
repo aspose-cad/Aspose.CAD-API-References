@@ -1,10 +1,13 @@
 ---
-title: Enum CadBoundaryPathTypeFlag
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadBoundaryPathTypeFlag enum. The boundary path type flag
+title: "CadBoundaryPathTypeFlag Enum"
+linktitle: "CadBoundaryPathTypeFlag"
+articleTitle: "CadBoundaryPathTypeFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadBoundaryPathTypeFlag enum. The boundary path type flag."
 type: docs
-weight: 1220
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadboundarypathtypeflag/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadboundarypathtypeflag/"
+product_version: "26.9"
 ---
 ## CadBoundaryPathTypeFlag enumeration
 
@@ -28,7 +31,6 @@ public enum CadBoundaryPathTypeFlag
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

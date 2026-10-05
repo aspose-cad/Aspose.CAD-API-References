@@ -1,10 +1,13 @@
 ---
-title: CadMultiLineVectorBlock.SegmentDirection
-second_title: Aspose.CAD for .NET API Reference
-description: CadMultiLineVectorBlock property. Gets or sets the segment direction
+title: "CadMultiLineVectorBlock.SegmentDirection"
+linktitle: "SegmentDirection"
+articleTitle: "SegmentDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMultiLineVectorBlock property. Gets or sets the segment direction."
 type: docs
 weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/segmentdirection/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/segmentdirection/"
+product_version: "26.9"
 ---
 ## CadMultiLineVectorBlock.SegmentDirection property
 
@@ -16,9 +19,8 @@ public Cad3DPoint SegmentDirection { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMultiLineVectorBlock](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMultiLineVectorBlock](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

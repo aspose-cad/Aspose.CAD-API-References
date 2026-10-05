@@ -1,10 +1,13 @@
 ---
-title: CadTableFormat.GridFormats
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableFormat property. Gets or sets the grid formats
+title: "CadTableFormat.GridFormats"
+linktitle: "GridFormats"
+articleTitle: "GridFormats"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableFormat property. Gets or sets the grid formats."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadtableformat/gridformats/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadtableformat/gridformats/"
+product_version: "26.9"
 ---
 ## CadTableFormat.GridFormats property
 
@@ -20,9 +23,8 @@ The grid formats.
 
 ### See Also
 
-* class [CadGridFormat](../../cadgridformat/)
-* class [CadTableFormat](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGridFormat](../../cadgridformat/)
+* class [CadTableFormat](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadFieldData.Attribute304
-second_title: Aspose.CAD for .NET API Reference
-description: CadFieldData property. Gets or sets the attribute304
+title: "CadFieldData.Attribute304"
+linktitle: "Attribute304"
+articleTitle: "Attribute304"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadFieldData property. Gets or sets the attribute304."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute304/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/attribute304/"
+product_version: "26.9"
 ---
 ## CadFieldData.Attribute304 property
 
@@ -20,8 +23,7 @@ The attribute304.
 
 ### See Also
 
-* class [CadFieldData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadFieldData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
+* assembly [Aspose.CAD](../../../)
 

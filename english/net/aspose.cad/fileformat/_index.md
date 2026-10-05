@@ -1,10 +1,13 @@
 ---
-title: Enum FileFormat
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormat enum. One of supported CAD file formats
+title: "FileFormat Enum"
+linktitle: "FileFormat"
+articleTitle: "FileFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormat enum. One of supported CAD file formats."
 type: docs
-weight: 770
-url: /net/aspose.cad/fileformat/
+weight: 250
+url: "/net/aspose.cad/fileformat/"
+product_version: "26.9"
 ---
 ## FileFormat enumeration
 
@@ -33,6 +36,7 @@ public enum FileFormat : ulong
 | Svg | `16384` | The Svg file format. |
 | Wmf | `32768` | The Wmf file format. |
 | Dng | `65536` | The Dng file format. |
+| Html5Canvas | `4194304` | The Html5 file format. |
 | Apng | `8388608` | The Apng file format. |
 | Tga | `16777216` | The Tga file format. |
 | Pdf | `65537` | The PDF file format. |
@@ -119,10 +123,11 @@ public enum FileFormat : ulong
 | U3D | `65618` | The Universal 3D (U3D) file format |
 | ThreeDS | `65619` | The 3DS format. |
 | Draco | `65620` | The Google Draco format. |
+| PostScript | `65621` | The PostScript format. |
+| SAT | `65622` | The Standard ACIS Text format. |
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

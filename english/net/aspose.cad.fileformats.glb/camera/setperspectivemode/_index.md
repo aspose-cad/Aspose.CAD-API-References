@@ -1,10 +1,13 @@
 ---
-title: Camera.SetPerspectiveMode
-second_title: Aspose.CAD for .NET API Reference
-description: Camera method. Configures this Camera to use perspective projection
+title: "Camera.SetPerspectiveMode"
+linktitle: "SetPerspectiveMode"
+articleTitle: "SetPerspectiveMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Camera method. Configures this Camera to use perspective projection."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb/camera/setperspectivemode/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb/camera/setperspectivemode/"
+product_version: "26.9"
 ---
 ## Camera.SetPerspectiveMode method
 
@@ -23,8 +26,7 @@ public void SetPerspectiveMode(float? aspectRatio, float yfov, float znear, floa
 
 ### See Also
 
-* class [Camera](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Camera](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

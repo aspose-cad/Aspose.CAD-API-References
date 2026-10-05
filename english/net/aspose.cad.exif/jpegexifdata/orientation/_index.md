@@ -1,10 +1,13 @@
 ---
-title: JpegExifData.Orientation
-second_title: Aspose.CAD for .NET API Reference
-description: JpegExifData property. Gets or sets the orientation
+title: "JpegExifData.Orientation"
+linktitle: "Orientation"
+articleTitle: "Orientation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegExifData property. Gets or sets the orientation."
 type: docs
-weight: 110
-url: /net/aspose.cad.exif/jpegexifdata/orientation/
+weight: 140
+url: "/net/aspose.cad.exif/jpegexifdata/orientation/"
+product_version: "26.9"
 ---
 ## JpegExifData.Orientation property
 
@@ -20,9 +23,8 @@ The orientation.
 
 ### See Also
 
-* enum [ExifOrientation](../../../aspose.cad.exif.enums/exiforientation/)
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ExifOrientation](../../../aspose.cad.exif.enums/exiforientation/)
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

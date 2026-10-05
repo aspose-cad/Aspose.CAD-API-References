@@ -1,10 +1,13 @@
 ---
-title: ThreeDSImage.IsCached
-second_title: Aspose.CAD for .NET API Reference
-description: ThreeDSImage property. Gets a value indicating whether objects data is cached currently and no data readig is required
+title: "ThreeDSImage.IsCached"
+linktitle: "IsCached"
+articleTitle: "IsCached"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThreeDSImage property. Gets a value indicating whether object's data is cached currently and no data readig is required."
 type: docs
 weight: 70
-url: /net/aspose.cad.fileformats.threeds/threedsimage/iscached/
+url: "/net/aspose.cad.fileformats.threeds/threedsimage/iscached/"
+product_version: "26.9"
 ---
 ## ThreeDSImage.IsCached property
 
@@ -20,8 +23,7 @@ public override bool IsCached { get; }
 
 ### See Also
 
-* class [ThreeDSImage](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThreeDSImage](../)
+* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
+* assembly [Aspose.CAD](../../../)
 

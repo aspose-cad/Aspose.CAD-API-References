@@ -1,10 +1,13 @@
 ---
-title: GltfImageBase.Height
-second_title: Aspose.CAD for .NET API Reference
-description: GltfImageBase property. Gets the image height
+title: "GltfImageBase.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GltfImageBase property. Gets the image height."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb/gltfimagebase/height/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb/gltfimagebase/height/"
+product_version: "26.9"
 ---
 ## GltfImageBase.Height property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's height: " + drawing.Height);
 
 ### See Also
 
-* class [GltfImageBase](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GltfImageBase](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

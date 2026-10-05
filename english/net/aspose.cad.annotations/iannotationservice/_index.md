@@ -1,12 +1,17 @@
 ---
-title: Interface IAnnotationService
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Annotations.IAnnotationService interface. 
+title: "IAnnotationService Interface"
+linktitle: "IAnnotationService"
+articleTitle: "IAnnotationService"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Annotations.IAnnotationService interface."
 type: docs
-weight: 50
-url: /net/aspose.cad.annotations/iannotationservice/
+weight: 60
+url: "/net/aspose.cad.annotations/iannotationservice/"
+product_version: "26.9"
 ---
 ## IAnnotationService interface
+
+
 
 ```csharp
 public interface IAnnotationService
@@ -24,7 +29,6 @@ public interface IAnnotationService
 
 ### See Also
 
-* namespace [Aspose.CAD.Annotations](../../aspose.cad.annotations/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Annotations](../../aspose.cad.annotations/)
+* assembly [Aspose.CAD](../../)
 

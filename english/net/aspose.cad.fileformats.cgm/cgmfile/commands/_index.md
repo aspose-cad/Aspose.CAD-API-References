@@ -1,10 +1,13 @@
 ---
-title: CgmFile.Commands
-second_title: Aspose.CAD for .NET API Reference
-description: CgmFile property. The read CGM commands
+title: "CgmFile.Commands"
+linktitle: "Commands"
+articleTitle: "Commands"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmFile property. The read CGM commands"
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cgm/cgmfile/commands/
+weight: 340
+url: "/net/aspose.cad.fileformats.cgm/cgmfile/commands/"
+product_version: "26.9"
 ---
 ## CgmFile.Commands property
 
@@ -16,9 +19,8 @@ public List<Command> Commands { get; }
 
 ### See Also
 
-* class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
-* class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
+* class [CgmFile](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.StreamContainer
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer constructor. Initializes a new instance of the StreamContainer class
+title: "StreamContainer.StreamContainer"
+linktitle: "StreamContainer"
+articleTitle: "StreamContainer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer constructor. Initializes a new instance of the StreamContainer class."
 type: docs
 weight: 10
-url: /net/aspose.cad/streamcontainer/streamcontainer/
+url: "/net/aspose.cad/streamcontainer/streamcontainer/"
+product_version: "26.9"
 ---
 ## StreamContainer(Stream) {#constructor}
 
@@ -20,13 +23,13 @@ public StreamContainer(Stream stream)
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## StreamContainer(Stream, bool) {#constructor_1}
+## StreamContainer(Stream, bool) {#constructor_1}
 
 Initializes a new instance of the [`StreamContainer`](../) class.
 
@@ -41,8 +44,7 @@ public StreamContainer(Stream stream, bool disposeStream)
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

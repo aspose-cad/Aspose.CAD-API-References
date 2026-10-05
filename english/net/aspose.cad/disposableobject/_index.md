@@ -1,10 +1,14 @@
 ---
-title: Class DisposableObject
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.DisposableObject class. Represents disposable object
+title: "DisposableObject Class"
+linktitle: "DisposableObject"
+articleTitle: "DisposableObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.DisposableObject class. Represents disposable object."
 type: docs
-weight: 490
-url: /net/aspose.cad/disposableobject/
+weight: 210
+url: "/net/aspose.cad/disposableobject/"
+keywords: "DisposableObject, Aspose.CAD, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DisposableObject class
 
@@ -24,7 +28,7 @@ public class DisposableObject : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
+| [Disposed](../../aspose.cad/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
 
 ## Methods
 
@@ -34,7 +38,6 @@ public class DisposableObject : IDisposable
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

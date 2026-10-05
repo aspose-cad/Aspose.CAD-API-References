@@ -1,12 +1,17 @@
 ---
-title: Struct PointPrimitiveTVertexTmaterial
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Geometry.PointPrimitive2TVertexTmaterial struct. 
+title: "PointPrimitive<TVertex, Tmaterial> Struct"
+linktitle: "PointPrimitive<TVertex, Tmaterial>"
+articleTitle: "PointPrimitive<TVertex, Tmaterial>"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Geometry.PointPrimitive struct."
 type: docs
-weight: 10430
-url: /net/aspose.cad.fileformats.glb.geometry/pointprimitive-2/
+weight: 40
+url: "/net/aspose.cad.fileformats.glb.geometry/pointprimitive-2/"
+product_version: "26.9"
 ---
-## PointPrimitive&lt;TVertex,Tmaterial&gt; structure
+## PointPrimitive&lt;TVertex, Tmaterial&gt; struct
+
+
 
 ```csharp
 public struct PointPrimitive<TVertex, Tmaterial>
@@ -16,12 +21,11 @@ public struct PointPrimitive<TVertex, Tmaterial>
 
 | Name | Description |
 | --- | --- |
-| readonly [A](../../aspose.cad.fileformats.glb.geometry/pointprimitive-2/a/) |  |
-| readonly [Material](../../aspose.cad.fileformats.glb.geometry/pointprimitive-2/material/) |  |
+| A |  |
+| Material |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../aspose.cad.fileformats.glb.geometry/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../aspose.cad.fileformats.glb.geometry/)
+* assembly [Aspose.CAD](../../)
 

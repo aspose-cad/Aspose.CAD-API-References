@@ -1,10 +1,13 @@
 ---
-title: CadSun.Shadows
-second_title: Aspose.CAD for .NET API Reference
-description: CadSun property. Gets or sets a value indicating whether shadows
+title: "CadSun.Shadows"
+linktitle: "Shadows"
+articleTitle: "Shadows"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSun property. Gets or sets a value indicating whether shadows."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsun/shadows/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsun/shadows/"
+product_version: "26.9"
 ---
 ## CadSun.Shadows property
 
@@ -16,8 +19,7 @@ public bool Shadows { get; set; }
 
 ### See Also
 
-* class [CadSun](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSun](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadRotatedDimension.InsertionPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadRotatedDimension property. Gets or sets the insertion point
+title: "CadRotatedDimension.InsertionPoint"
+linktitle: "InsertionPoint"
+articleTitle: "InsertionPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRotatedDimension property. Gets or sets the insertion point."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrotateddimension/insertionpoint/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrotateddimension/insertionpoint/"
+product_version: "26.9"
 ---
 ## CadRotatedDimension.InsertionPoint property
 
@@ -20,9 +23,8 @@ The insertion point.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadRotatedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadRotatedDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

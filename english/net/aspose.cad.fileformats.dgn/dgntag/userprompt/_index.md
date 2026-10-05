@@ -1,10 +1,13 @@
 ---
-title: DgnTag.UserPrompt
-second_title: Aspose.CAD for .NET API Reference
-description: DgnTag property. Gets or sets tag user prompt
+title: "DgnTag.UserPrompt"
+linktitle: "UserPrompt"
+articleTitle: "UserPrompt"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnTag property. Gets or sets tag user prompt"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.dgn/dgntag/userprompt/
+weight: 40
+url: "/net/aspose.cad.fileformats.dgn/dgntag/userprompt/"
+product_version: "26.9"
 ---
 ## DgnTag.UserPrompt property
 
@@ -16,8 +19,7 @@ public string UserPrompt { get; set; }
 
 ### See Also
 
-* class [DgnTag](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnTag](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

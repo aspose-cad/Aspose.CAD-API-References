@@ -1,14 +1,18 @@
 ---
-title: Enum CadPlotType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotType enum. Plot type portion of paper space to output to the media. CadPlotSettings
+title: "CadPlotType Enum"
+linktitle: "CadPlotType"
+articleTitle: "CadPlotType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotType enum. Plot type (portion of paper space to output to the media). CadPlotSettings"
 type: docs
-weight: 1520
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadplottype/
+weight: 460
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadplottype/"
+product_version: "26.9"
 ---
 ## CadPlotType enumeration
 
-Plot type (portion of paper space to output to the media). [`CadPlotSettings`](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
+Plot type (portion of paper space to output to the media).
+ [`CadPlotSettings`](../../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
 
 ```csharp
 public enum CadPlotType : short
@@ -27,7 +31,6 @@ public enum CadPlotType : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadOsnapPointRef.ClassName
-second_title: Aspose.CAD for .NET API Reference
-description: CadOsnapPointRef property. Gets the name of the class
+title: "CadOsnapPointRef.ClassName"
+linktitle: "ClassName"
+articleTitle: "ClassName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadOsnapPointRef property. Gets the name of the class."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/classname/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/classname/"
+product_version: "26.9"
 ---
 ## CadOsnapPointRef.ClassName property
 
@@ -20,8 +23,7 @@ The name of the class.
 
 ### See Also
 
-* class [CadOsnapPointRef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../../aspose.cad.fileformats.cad.cadobjects.dimassoc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadOsnapPointRef](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../../aspose.cad.fileformats.cad.cadobjects.dimassoc/)
+* assembly [Aspose.CAD](../../../)
 

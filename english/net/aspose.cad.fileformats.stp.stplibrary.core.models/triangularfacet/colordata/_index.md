@@ -1,10 +1,13 @@
 ---
-title: TriangularFacet.ColorData
-second_title: Aspose.CAD for .NET API Reference
-description: TriangularFacet property. Gets or sets the surface color
+title: "TriangularFacet.ColorData"
+linktitle: "ColorData"
+articleTitle: "ColorData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TriangularFacet property. Gets or sets the surface color."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/colordata/
+weight: 60
+url: "/net/aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/colordata/"
+product_version: "26.9"
 ---
 ## TriangularFacet.ColorData property
 
@@ -16,9 +19,8 @@ public ColorDataUnit ColorData { get; set; }
 
 ### See Also
 
-* class [ColorDataUnit](../../colordataunit/)
-* class [TriangularFacet](../)
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ColorDataUnit](../../colordataunit/)
+* class [TriangularFacet](../)
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadJoggedDimension.Unknown
-second_title: Aspose.CAD for .NET API Reference
-description: CadJoggedDimension property. Gets or sets the unknown
+title: "CadJoggedDimension.Unknown"
+linktitle: "Unknown"
+articleTitle: "Unknown"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadJoggedDimension property. Gets or sets the unknown."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadjoggeddimension/unknown/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadjoggeddimension/unknown/"
+product_version: "26.9"
 ---
 ## CadJoggedDimension.Unknown property
 
@@ -16,8 +19,7 @@ public double Unknown { get; set; }
 
 ### See Also
 
-* class [CadJoggedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadJoggedDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

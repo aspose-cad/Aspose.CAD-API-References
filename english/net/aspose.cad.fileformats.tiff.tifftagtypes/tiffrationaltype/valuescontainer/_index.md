@@ -1,10 +1,13 @@
 ---
-title: TiffRationalType.ValuesContainer
-second_title: Aspose.CAD for .NET API Reference
-description: TiffRationalType property. Gets the values container
+title: "TiffRationalType.ValuesContainer"
+linktitle: "ValuesContainer"
+articleTitle: "ValuesContainer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffRationalType property. Gets the values container."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffrationaltype/valuescontainer/
+weight: 50
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffrationaltype/valuescontainer/"
+product_version: "26.9"
 ---
 ## TiffRationalType.ValuesContainer property
 
@@ -20,8 +23,7 @@ The values container.
 
 ### See Also
 
-* class [TiffRationalType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRationalType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadRasterImageDefReactor.ClassVersion2
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImageDefReactor property. Gets or sets the class version2
+title: "CadRasterImageDefReactor.ClassVersion2"
+linktitle: "ClassVersion2"
+articleTitle: "ClassVersion2"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImageDefReactor property. Gets or sets the class version2."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedefreactor/classversion2/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedefreactor/classversion2/"
+product_version: "26.9"
 ---
 ## CadRasterImageDefReactor.ClassVersion2 property
 
@@ -20,8 +23,7 @@ The class version2.
 
 ### See Also
 
-* class [CadRasterImageDefReactor](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImageDefReactor](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

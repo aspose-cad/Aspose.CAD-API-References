@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.RemoveTag
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions method. Removes the tag
+title: "TiffOptions.RemoveTag"
+linktitle: "RemoveTag"
+articleTitle: "RemoveTag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions method. Removes the tag."
 type: docs
-weight: 590
-url: /net/aspose.cad.imageoptions/tiffoptions/removetag/
+weight: 80
+url: "/net/aspose.cad.imageoptions/tiffoptions/removetag/"
+product_version: "26.9"
 ---
 ## TiffOptions.RemoveTag method
 
@@ -24,9 +27,8 @@ true if successfully removed
 
 ### See Also
 
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

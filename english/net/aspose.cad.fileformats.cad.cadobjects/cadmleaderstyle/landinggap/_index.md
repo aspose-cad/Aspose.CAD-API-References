@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.LandingGap
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the landing gap
+title: "CadMLeaderStyle.LandingGap"
+linktitle: "LandingGap"
+articleTitle: "LandingGap"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the landing gap."
 type: docs
-weight: 260
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/landinggap/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/landinggap/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.LandingGap property
 
@@ -20,8 +23,7 @@ The landing gap.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

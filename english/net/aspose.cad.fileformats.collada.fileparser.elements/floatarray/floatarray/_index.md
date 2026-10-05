@@ -1,10 +1,13 @@
 ---
-title: FloatArray.FloatArray
-second_title: Aspose.CAD for .NET API Reference
-description: FloatArray constructor. Initializes a new instance of the FloatArray class
+title: "FloatArray.FloatArray"
+linktitle: "FloatArray"
+articleTitle: "FloatArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FloatArray constructor. Initializes a new instance of the FloatArray class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/floatarray/floatarray/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/floatarray/floatarray/"
+product_version: "26.9"
 ---
 ## FloatArray constructor
 
@@ -16,8 +19,7 @@ public FloatArray()
 
 ### See Also
 
-* class [FloatArray](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FloatArray](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

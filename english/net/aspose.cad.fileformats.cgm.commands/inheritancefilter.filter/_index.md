@@ -1,12 +1,17 @@
 ---
-title: Enum InheritanceFilter.Filter
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.InheritanceFilterFilter enum. 
+title: "InheritanceFilter.Filter Enum"
+linktitle: "InheritanceFilter.Filter"
+articleTitle: "InheritanceFilter.Filter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.InheritanceFilter.Filter enum."
 type: docs
-weight: 5910
-url: /net/aspose.cad.fileformats.cgm.commands/inheritancefilter.filter/
+weight: 1190
+url: "/net/aspose.cad.fileformats.cgm.commands/inheritancefilter.filter/"
+product_version: "26.9"
 ---
 ## InheritanceFilter.Filter enumeration
+
+
 
 ```csharp
 public enum Filter
@@ -106,8 +111,7 @@ public enum Filter
 
 ### See Also
 
-* class [InheritanceFilter](../inheritancefilter/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [InheritanceFilter](../inheritancefilter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

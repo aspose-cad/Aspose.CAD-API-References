@@ -1,12 +1,31 @@
 ---
-title: DgnQuaternion.DgnQuaternion
-second_title: Aspose.CAD for .NET API Reference
-description: DgnQuaternion constructor. Initializes a new instance of the DgnQuaternion class
+title: "DgnQuaternion.DgnQuaternion"
+linktitle: "DgnQuaternion"
+articleTitle: "DgnQuaternion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnQuaternion constructor. Initializes a new instance of the DgnQuaternion class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/dgnquaternion/
+url: "/net/aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/dgnquaternion/"
+product_version: "26.9"
 ---
-## DgnQuaternion(long, long, long, long) {#constructor_1}
+## DgnQuaternion() {#constructor}
+
+Initializes a new instance of the [`DgnQuaternion`](../) class.
+
+```csharp
+public DgnQuaternion()
+```
+
+### See Also
+
+* class [DgnQuaternion](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## DgnQuaternion(long, long, long, long) {#constructor_1}
 
 Initializes a new instance of the [`DgnQuaternion`](../) class.
 
@@ -23,24 +42,7 @@ public DgnQuaternion(long x, long y, long z, long w)
 
 ### See Also
 
-* class [DgnQuaternion](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## DgnQuaternion() {#constructor}
-
-Initializes a new instance of the [`DgnQuaternion`](../) class.
-
-```csharp
-public DgnQuaternion()
-```
-
-### See Also
-
-* class [DgnQuaternion](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnQuaternion](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
+* assembly [Aspose.CAD](../../../)
 

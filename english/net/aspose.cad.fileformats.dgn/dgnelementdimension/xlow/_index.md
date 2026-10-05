@@ -1,10 +1,13 @@
 ---
-title: DgnElementDimension.XLow
-second_title: Aspose.CAD for .NET API Reference
-description: DgnElementDimension property. Gets or sets low value by X axis
+title: "DgnElementDimension.XLow"
+linktitle: "XLow"
+articleTitle: "XLow"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnElementDimension property. Gets or sets low value by X axis"
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.dgn/dgnelementdimension/xlow/
+weight: 20
+url: "/net/aspose.cad.fileformats.dgn/dgnelementdimension/xlow/"
+product_version: "26.9"
 ---
 ## DgnElementDimension.XLow property
 
@@ -16,8 +19,7 @@ public uint XLow { get; set; }
 
 ### See Also
 
-* class [DgnElementDimension](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementDimension](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

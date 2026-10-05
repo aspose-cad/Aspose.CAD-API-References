@@ -1,10 +1,14 @@
 ---
-title: Class CadBinaryCodeValue
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadBinaryCodeValue class. Cad binary Code Value class
+title: "CadBinaryCodeValue Class"
+linktitle: "CadBinaryCodeValue"
+articleTitle: "CadBinaryCodeValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadBinaryCodeValue class. Cad binary Code Value class"
 type: docs
-weight: 1110
-url: /net/aspose.cad.fileformats.cad/cadbinarycodevalue/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad/cadbinarycodevalue/"
+keywords: "CadBinaryCodeValue, Aspose.CAD.FileFormats.Cad, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadBinaryCodeValue class
 
@@ -18,35 +22,34 @@ public sealed class CadBinaryCodeValue : CadCodeValue
 
 | Name | Description |
 | --- | --- |
-| [CadBinaryCodeValue](cadbinarycodevalue/#constructor_1)(int, string) | Initializes a new instance of the `CadBinaryCodeValue` class. |
-| [CadBinaryCodeValue](cadbinarycodevalue/#constructor)(int, byte[], int) | Initializes a new instance of the `CadBinaryCodeValue` class. |
+| [CadBinaryCodeValue](cadbinarycodevalue/#constructor)(int, string) | Initializes a new instance of the `CadBinaryCodeValue` class. |
+| [CadBinaryCodeValue](cadbinarycodevalue/#constructor_1)(int, byte[], int) | Initializes a new instance of the `CadBinaryCodeValue` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Attribute](../../aspose.cad.fileformats.cad/cadcodevalue/attribute/) { get; } | Gets the attribute. |
-| [Code](../../aspose.cad.fileformats.cad/cadcodevalue/code/) { get; set; } | Gets or sets the code. |
-| [Data](../../aspose.cad.fileformats.cad/cadbinarycodevalue/data/) { get; set; } | Gets or sets the value. |
-| [Value](../../aspose.cad.fileformats.cad/cadcodevalue/value/) { get; set; } | Gets or sets the value. |
+| [Attribute](../../aspose.cad.fileformats.cad/cadcodevalue/attribute/) { get; } | Gets the attribute. |
+| [Code](../../aspose.cad.fileformats.cad/cadcodevalue/code/) { get; set; } | Gets or sets the code. |
+| [Data](../../aspose.cad.fileformats.cad/cadbinarycodevalue/data/) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.cad.fileformats.cad/cadcodevalue/value/) { get; set; } | Gets or sets the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.cad.fileformats.cad/cadbinarycodevalue/equals/#equals)(CadCodeValue) | Determines whether the specified [`CadCodeValue`](../cadcodevalue/), is equal to this instance. |
-| override [GetBinaryData](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getbinarydata/)() | Gets the binary data. |
-| override [GetBoolValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getboolvalue/)() | Gets the boolean value. |
-| override [GetDoubleValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getdoublevalue/)() | The get double value. |
-| override [GetIntValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getintvalue/)() | The get integer value. |
-| override [GetLongValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getlongvalue/)() | The get long value. |
-| override [GetShortValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getshortvalue/)() | The get short value. |
-| virtual [GetStringValue](../../aspose.cad.fileformats.cad/cadcodevalue/getstringvalue/)() | Gets the string value. |
+| override [Equals](../../aspose.cad.fileformats.cad/cadbinarycodevalue/equals/)(CadCodeValue) | Determines whether the specified [`CadCodeValue`](../cadcodevalue/), is equal to this instance. |
+| override [GetBinaryData](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getbinarydata/)() | Gets the binary data. |
+| override [GetBoolValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getboolvalue/)() | Gets the boolean value. |
+| override [GetDoubleValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getdoublevalue/)() | The get double value. |
+| override [GetIntValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getintvalue/)() | The get integer value. |
+| override [GetLongValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getlongvalue/)() | The get long value. |
+| override [GetShortValue](../../aspose.cad.fileformats.cad/cadbinarycodevalue/getshortvalue/)() | The get short value. |
+| virtual [GetStringValue](../../aspose.cad.fileformats.cad/cadcodevalue/getstringvalue/)() | Gets the string value. |
 
 ### See Also
 
-* class [CadCodeValue](../cadcodevalue/)
-* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../)
-
+* class [CadCodeValue](../cadcodevalue/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../)
 

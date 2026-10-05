@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSDestLatitudeRef
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the GPS value which indicates whether the latitude of the destination point is north or south latitude
+title: "ExifData.GPSDestLatitudeRef"
+linktitle: "GPSDestLatitudeRef"
+articleTitle: "GPSDestLatitudeRef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the GPS value which indicates whether the latitude of the destination point is north or south latitude."
 type: docs
-weight: 450
-url: /net/aspose.cad.exif/exifdata/gpsdestlatituderef/
+weight: 470
+url: "/net/aspose.cad.exif/exifdata/gpsdestlatituderef/"
+product_version: "26.9"
 ---
 ## ExifData.GPSDestLatitudeRef property
 
@@ -20,8 +23,7 @@ The GPS value which indicates whether the latitude of the destination point is n
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

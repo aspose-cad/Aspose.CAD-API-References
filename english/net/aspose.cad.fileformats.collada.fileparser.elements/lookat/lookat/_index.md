@@ -1,10 +1,13 @@
 ---
-title: Lookat.Lookat
-second_title: Aspose.CAD for .NET API Reference
-description: Lookat constructor. The default constructor
+title: "Lookat.Lookat"
+linktitle: "Lookat"
+articleTitle: "Lookat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Lookat constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/lookat/lookat/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/lookat/lookat/"
+product_version: "26.9"
 ---
 ## Lookat constructor
 
@@ -16,8 +19,7 @@ public Lookat()
 
 ### See Also
 
-* class [Lookat](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Lookat](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

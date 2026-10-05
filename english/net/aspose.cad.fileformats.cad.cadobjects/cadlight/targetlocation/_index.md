@@ -1,10 +1,13 @@
 ---
-title: CadLight.TargetLocation
-second_title: Aspose.CAD for .NET API Reference
-description: CadLight property. Gets or sets the target location
+title: "CadLight.TargetLocation"
+linktitle: "TargetLocation"
+articleTitle: "TargetLocation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLight property. Gets or sets the target location."
 type: docs
-weight: 200
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/targetlocation/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlight/targetlocation/"
+product_version: "26.9"
 ---
 ## CadLight.TargetLocation property
 
@@ -20,9 +23,8 @@ The target location.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadLight](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadLight](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

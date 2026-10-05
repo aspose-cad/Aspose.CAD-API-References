@@ -1,10 +1,13 @@
 ---
-title: Cad2DVertex.LocationPoint
-second_title: Aspose.CAD for .NET API Reference
-description: Cad2DVertex property. Gets or sets the location point
+title: "Cad2DVertex.LocationPoint"
+linktitle: "LocationPoint"
+articleTitle: "LocationPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad2DVertex property. Gets or sets the location point."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cad2dvertex/locationpoint/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cad2dvertex/locationpoint/"
+product_version: "26.9"
 ---
 ## Cad2DVertex.LocationPoint property
 
@@ -20,9 +23,8 @@ The location point.
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [Cad2DVertex](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [Cad2DVertex](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

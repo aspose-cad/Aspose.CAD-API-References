@@ -1,10 +1,13 @@
 ---
-title: VectorRasterizationOptions.UnitType
-second_title: Aspose.CAD for .NET API Reference
-description: VectorRasterizationOptions property. Gets or sets unit type of export result
+title: "VectorRasterizationOptions.UnitType"
+linktitle: "UnitType"
+articleTitle: "UnitType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "VectorRasterizationOptions property. Gets or sets unit type of export result."
 type: docs
-weight: 160
-url: /net/aspose.cad.imageoptions/vectorrasterizationoptions/unittype/
+weight: 90
+url: "/net/aspose.cad.imageoptions/vectorrasterizationoptions/unittype/"
+product_version: "26.9"
 ---
 ## VectorRasterizationOptions.UnitType property
 
@@ -16,9 +19,8 @@ public UnitType UnitType { get; set; }
 
 ### See Also
 
-* enum [UnitType](../../unittype/)
-* class [VectorRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [UnitType](../../unittype/)
+* class [VectorRasterizationOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

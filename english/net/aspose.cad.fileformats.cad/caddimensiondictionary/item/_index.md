@@ -1,10 +1,13 @@
 ---
-title: CadDimensionDictionary.Item
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionDictionary property. Gets or sets the CadDimensionStyleTable with the specified key
+title: "CadDimensionDictionary.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionDictionary property. Gets or sets the CadDimensionStyleTable with the specified key."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad/caddimensiondictionary/item/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad/caddimensiondictionary/item/"
+product_version: "26.9"
 ---
 ## CadDimensionDictionary indexer
 
@@ -28,9 +31,8 @@ The [`CadDimensionStyleTable`](../../../aspose.cad.fileformats.cad.cadtables/cad
 
 ### See Also
 
-* class [CadDimensionStyleTable](../../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/)
-* class [CadDimensionDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionStyleTable](../../../aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/)
+* class [CadDimensionDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

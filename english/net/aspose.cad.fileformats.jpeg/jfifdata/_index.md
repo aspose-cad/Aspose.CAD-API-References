@@ -1,10 +1,14 @@
 ---
-title: Class JFIFData
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Jpeg.JFIFData class. The jfif segment
+title: "JFIFData Class"
+linktitle: "JFIFData"
+articleTitle: "JFIFData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Jpeg.JFIFData class. The jfif segment."
 type: docs
-weight: 33720
-url: /net/aspose.cad.fileformats.jpeg/jfifdata/
+weight: 20
+url: "/net/aspose.cad.fileformats.jpeg/jfifdata/"
+keywords: "JFIFData, Aspose.CAD.FileFormats.Jpeg, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## JFIFData class
 
@@ -24,15 +28,14 @@ public sealed class JFIFData
 
 | Name | Description |
 | --- | --- |
-| [DensityUnits](../../aspose.cad.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | Gets or sets the density units. |
-| [Thumbnail](../../aspose.cad.fileformats.jpeg/jfifdata/thumbnail/) { get; set; } | Gets or sets the thumbnail. |
-| [Version](../../aspose.cad.fileformats.jpeg/jfifdata/version/) { get; set; } | Gets or sets the version. |
-| [XDensity](../../aspose.cad.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | Gets or sets the x density. |
-| [YDensity](../../aspose.cad.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | Gets or sets the y density. |
+| [DensityUnits](../../aspose.cad.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | Gets or sets the density units. |
+| [Thumbnail](../../aspose.cad.fileformats.jpeg/jfifdata/thumbnail/) { get; set; } | Gets or sets the thumbnail. |
+| [Version](../../aspose.cad.fileformats.jpeg/jfifdata/version/) { get; set; } | Gets or sets the version. |
+| [XDensity](../../aspose.cad.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | Gets or sets the x density. |
+| [YDensity](../../aspose.cad.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | Gets or sets the y density. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Jpeg](../../aspose.cad.fileformats.jpeg/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Jpeg](../../aspose.cad.fileformats.jpeg/)
+* assembly [Aspose.CAD](../../)
 

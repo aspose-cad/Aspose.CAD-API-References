@@ -1,14 +1,17 @@
 ---
-title: Toolkit.WithSpotCone
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. Sets the cone angles for the Spot light
+title: "Toolkit.WithSpotCone"
+linktitle: "WithSpotCone"
+articleTitle: "WithSpotCone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method. Sets the cone angles for the Spot light."
 type: docs
-weight: 490
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withspotcone/
+weight: 560
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withspotcone/"
+product_version: "26.9"
 ---
 ## Toolkit.WithSpotCone method
 
-Sets the cone angles for the Spot light.
+Sets the cone angles for the `Spot` light.
 
 ```csharp
 public static PunctualLight WithSpotCone(this PunctualLight light, float innerConeAngle, 
@@ -27,9 +30,8 @@ This [`PunctualLight`](../../../aspose.cad.fileformats.glb/punctuallight/) insta
 
 ### See Also
 
-* class [PunctualLight](../../../aspose.cad.fileformats.glb/punctuallight/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PunctualLight](../../../aspose.cad.fileformats.glb/punctuallight/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

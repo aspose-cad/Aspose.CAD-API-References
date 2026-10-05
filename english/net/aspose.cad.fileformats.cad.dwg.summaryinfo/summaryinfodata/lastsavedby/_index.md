@@ -1,10 +1,13 @@
 ---
-title: SummaryInfoData.LastSavedBy
-second_title: Aspose.CAD for .NET API Reference
-description: SummaryInfoData property. Gets or sets the last saved by
+title: "SummaryInfoData.LastSavedBy"
+linktitle: "LastSavedBy"
+articleTitle: "LastSavedBy"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SummaryInfoData property. Gets or sets the last saved by."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/lastsavedby/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/lastsavedby/"
+product_version: "26.9"
 ---
 ## SummaryInfoData.LastSavedBy property
 
@@ -20,8 +23,7 @@ The last saved by.
 
 ### See Also
 
-* class [SummaryInfoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
+* assembly [Aspose.CAD](../../../)
 

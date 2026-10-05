@@ -1,10 +1,13 @@
 ---
-title: ContentTransformer.GetArmatureRoot
-second_title: Aspose.CAD for .NET API Reference
-description: ContentTransformer method. If this ContentTransformer uses a NodeBuilder armature it returns the root of the armature
+title: "ContentTransformer.GetArmatureRoot"
+linktitle: "GetArmatureRoot"
+articleTitle: "GetArmatureRoot"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ContentTransformer method. If this ContentTransformer uses a NodeBuilder armature, it returns the root of the armature."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.glb.scenes/contenttransformer/getarmatureroot/
+weight: 40
+url: "/net/aspose.cad.fileformats.glb.scenes/contenttransformer/getarmatureroot/"
+product_version: "26.9"
 ---
 ## ContentTransformer.GetArmatureRoot method
 
@@ -20,9 +23,8 @@ A [`NodeBuilder`](../../nodebuilder/) instance, or NULL.
 
 ### See Also
 
-* class [NodeBuilder](../../nodebuilder/)
-* class [ContentTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NodeBuilder](../../nodebuilder/)
+* class [ContentTransformer](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.Write
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer method. Writes all of the specified bytes to the stream
+title: "StreamContainer.Write"
+linktitle: "Write"
+articleTitle: "Write"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer method. Writes all of the specified bytes to the stream."
 type: docs
-weight: 170
-url: /net/aspose.cad/streamcontainer/write/
+weight: 50
+url: "/net/aspose.cad/streamcontainer/write/"
+product_version: "26.9"
 ---
 ## Write(byte[]) {#write}
 
@@ -20,13 +23,13 @@ public virtual void Write(byte[] bytes)
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Write(byte[], int, int) {#write_1}
+## Write(byte[], int, int) {#write_1}
 
 Writes a sequence of bytes to the current stream and advances the current position within this stream by the number of bytes written.
 
@@ -42,8 +45,7 @@ public virtual void Write(byte[] buffer, int offset, int count)
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

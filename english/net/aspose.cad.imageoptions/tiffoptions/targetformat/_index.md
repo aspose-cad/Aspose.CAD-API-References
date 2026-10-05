@@ -1,12 +1,17 @@
 ---
-title: TiffOptions.TargetFormat
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. 
+title: "TiffOptions.TargetFormat"
+linktitle: "TargetFormat"
+articleTitle: "TargetFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property."
 type: docs
-weight: 450
-url: /net/aspose.cad.imageoptions/tiffoptions/targetformat/
+weight: 130
+url: "/net/aspose.cad.imageoptions/tiffoptions/targetformat/"
+product_version: "26.9"
 ---
 ## TiffOptions.TargetFormat property
+
+
 
 ```csharp
 public override FileFormat TargetFormat { get; }
@@ -14,9 +19,8 @@ public override FileFormat TargetFormat { get; }
 
 ### See Also
 
-* enum [FileFormat](../../../aspose.cad/fileformat/)
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [FileFormat](../../../aspose.cad/fileformat/)
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

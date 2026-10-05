@@ -1,10 +1,13 @@
 ---
-title: Enum CadLineSpacing
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadLineSpacing enum. The Cad line spacing
+title: "CadLineSpacing Enum"
+linktitle: "CadLineSpacing"
+articleTitle: "CadLineSpacing"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadLineSpacing enum. The Cad line spacing."
 type: docs
-weight: 1400
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadlinespacing/
+weight: 250
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadlinespacing/"
+product_version: "26.9"
 ---
 ## CadLineSpacing enumeration
 
@@ -23,7 +26,6 @@ public enum CadLineSpacing
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

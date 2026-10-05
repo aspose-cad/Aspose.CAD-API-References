@@ -1,14 +1,19 @@
 ---
-title: ObjImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: ObjImage property. Gets the width of the image. Calculated as the difference between maximum and minimum values of the X coordinate amongst all vertices. Minimal allowed width is 1
+title: "ObjImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjImage property. Gets the width of the image. Calculated as the difference between maximum and minimum values of the X coordinate amongst all vertices. Min..."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.obj/objimage/width/
+weight: 50
+url: "/net/aspose.cad.fileformats.obj/objimage/width/"
+product_version: "26.9"
 ---
 ## ObjImage.Width property
 
-Gets the width of the image. Calculated as the difference between maximum and minimum values of the X coordinate amongst all vertices. Minimal allowed width is 1.
+Gets the width of the image.
+ Calculated as the difference between maximum and minimum values of the X coordinate amongst all vertices.
+ Minimal allowed width is 1.
 
 ```csharp
 public override int Width { get; }
@@ -31,8 +36,7 @@ using (ObjImage objImage = (ObjImage)Image.Load(fileName))
 
 ### See Also
 
-* class [ObjImage](../)
-* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjImage](../)
+* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
+* assembly [Aspose.CAD](../../../)
 

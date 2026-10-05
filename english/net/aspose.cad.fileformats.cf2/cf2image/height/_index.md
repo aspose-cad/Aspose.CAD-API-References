@@ -1,10 +1,13 @@
 ---
-title: CF2Image.Height
-second_title: Aspose.CAD for .NET API Reference
-description: CF2Image property. Gets the image height
+title: "CF2Image.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2Image property. Gets the image height."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cf2/cf2image/height/
+weight: 90
+url: "/net/aspose.cad.fileformats.cf2/cf2image/height/"
+product_version: "26.9"
 ---
 ## CF2Image.Height property
 
@@ -20,8 +23,7 @@ The image height.
 
 ### See Also
 
-* class [CF2Image](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2Image](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

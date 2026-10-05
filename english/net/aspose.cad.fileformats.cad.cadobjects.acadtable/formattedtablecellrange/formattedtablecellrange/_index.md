@@ -1,10 +1,13 @@
 ---
-title: FormattedTableCellRange.FormattedTableCellRange
-second_title: Aspose.CAD for .NET API Reference
-description: FormattedTableCellRange constructor. The default constructor
+title: "FormattedTableCellRange.FormattedTableCellRange"
+linktitle: "FormattedTableCellRange"
+articleTitle: "FormattedTableCellRange"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FormattedTableCellRange constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/formattedtablecellrange/formattedtablecellrange/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/formattedtablecellrange/formattedtablecellrange/"
+product_version: "26.9"
 ---
 ## FormattedTableCellRange constructor
 
@@ -16,8 +19,7 @@ public FormattedTableCellRange()
 
 ### See Also
 
-* class [FormattedTableCellRange](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FormattedTableCellRange](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

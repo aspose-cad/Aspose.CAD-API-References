@@ -1,10 +1,13 @@
 ---
-title: BufferView.IsInterleaved
-second_title: Aspose.CAD for .NET API Reference
-description: BufferView method. Checks if accessors use this buffer in interleaved arrangement
+title: "BufferView.IsInterleaved"
+linktitle: "IsInterleaved"
+articleTitle: "IsInterleaved"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BufferView method. Checks if accessors use this buffer in interleaved arrangement"
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.glb/bufferview/isinterleaved/
+weight: 30
+url: "/net/aspose.cad.fileformats.glb/bufferview/isinterleaved/"
+product_version: "26.9"
 ---
 ## BufferView.IsInterleaved method
 
@@ -24,9 +27,8 @@ true if the buffer is interleaved
 
 ### See Also
 
-* class [Accessor](../../accessor/)
-* class [BufferView](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Accessor](../../accessor/)
+* class [BufferView](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum CadSectionType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadSectionType enum. Contains Section type
+title: "CadSectionType Enum"
+linktitle: "CadSectionType"
+articleTitle: "CadSectionType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadSectionType enum. Contains Section type"
 type: docs
-weight: 1540
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadsectiontype/
+weight: 480
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadsectiontype/"
+product_version: "26.9"
 ---
 ## CadSectionType enumeration
 
@@ -31,7 +34,6 @@ public enum CadSectionType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

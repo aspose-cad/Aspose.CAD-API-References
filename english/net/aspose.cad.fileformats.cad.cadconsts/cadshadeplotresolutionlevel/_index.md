@@ -1,14 +1,18 @@
 ---
-title: Enum CadShadePlotResolutionLevel
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadShadePlotResolutionLevel enum. ShadePlot resolution level. CadPlotSettings
+title: "CadShadePlotResolutionLevel Enum"
+linktitle: "CadShadePlotResolutionLevel"
+articleTitle: "CadShadePlotResolutionLevel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadShadePlotResolutionLevel enum. ShadePlot resolution level. CadPlotSettings"
 type: docs
-weight: 1560
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadshadeplotresolutionlevel/
+weight: 500
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadshadeplotresolutionlevel/"
+product_version: "26.9"
 ---
 ## CadShadePlotResolutionLevel enumeration
 
-ShadePlot resolution level. [`CadPlotSettings`](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
+ShadePlot resolution level.
+ [`CadPlotSettings`](../../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
 
 ```csharp
 public enum CadShadePlotResolutionLevel : short
@@ -27,7 +31,6 @@ public enum CadShadePlotResolutionLevel : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

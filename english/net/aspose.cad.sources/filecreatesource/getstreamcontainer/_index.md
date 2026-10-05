@@ -1,10 +1,13 @@
 ---
-title: FileCreateSource.GetStreamContainer
-second_title: Aspose.CAD for .NET API Reference
-description: FileCreateSource method. Gets the stream container
+title: "FileCreateSource.GetStreamContainer"
+linktitle: "GetStreamContainer"
+articleTitle: "GetStreamContainer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FileCreateSource method. Gets the stream container."
 type: docs
-weight: 40
-url: /net/aspose.cad.sources/filecreatesource/getstreamcontainer/
+weight: 30
+url: "/net/aspose.cad.sources/filecreatesource/getstreamcontainer/"
+product_version: "26.9"
 ---
 ## FileCreateSource.GetStreamContainer method
 
@@ -24,9 +27,8 @@ Use with caution. You will need to dispose the stream container after retrieval.
 
 ### See Also
 
-* class [StreamContainer](../../../aspose.cad/streamcontainer/)
-* class [FileCreateSource](../)
-* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../../../aspose.cad/streamcontainer/)
+* class [FileCreateSource](../)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
+* assembly [Aspose.CAD](../../../)
 

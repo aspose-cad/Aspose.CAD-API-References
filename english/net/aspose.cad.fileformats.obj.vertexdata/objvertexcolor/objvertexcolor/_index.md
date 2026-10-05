@@ -1,10 +1,13 @@
 ---
-title: ObjVertexColor.ObjVertexColor
-second_title: Aspose.CAD for .NET API Reference
-description: ObjVertexColor constructor. Initializes a new instance of the ObjVertexColor class
+title: "ObjVertexColor.ObjVertexColor"
+linktitle: "ObjVertexColor"
+articleTitle: "ObjVertexColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjVertexColor constructor. Initializes a new instance of the ObjVertexColor class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.obj.vertexdata/objvertexcolor/objvertexcolor/
+url: "/net/aspose.cad.fileformats.obj.vertexdata/objvertexcolor/objvertexcolor/"
+product_version: "26.9"
 ---
 ## ObjVertexColor constructor
 
@@ -25,8 +28,7 @@ public ObjVertexColor(float x, float y, float z, float r, float g, float b)
 
 ### See Also
 
-* class [ObjVertexColor](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjVertexColor](../)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
+* assembly [Aspose.CAD](../../../)
 

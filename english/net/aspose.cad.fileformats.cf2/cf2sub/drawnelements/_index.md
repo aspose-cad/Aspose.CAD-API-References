@@ -1,10 +1,13 @@
 ---
-title: CF2Sub.DrawnElements
-second_title: Aspose.CAD for .NET API Reference
-description: CF2Sub property. The drawn elements
+title: "CF2Sub.DrawnElements"
+linktitle: "DrawnElements"
+articleTitle: "DrawnElements"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2Sub property. The drawn elements"
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.cf2/cf2sub/drawnelements/
+weight: 20
+url: "/net/aspose.cad.fileformats.cf2/cf2sub/drawnelements/"
+product_version: "26.9"
 ---
 ## CF2Sub.DrawnElements property
 
@@ -16,9 +19,8 @@ public List<CF2DrawnElement> DrawnElements { get; }
 
 ### See Also
 
-* class [CF2DrawnElement](../../cf2drawnelement/)
-* class [CF2Sub](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2DrawnElement](../../cf2drawnelement/)
+* class [CF2Sub](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

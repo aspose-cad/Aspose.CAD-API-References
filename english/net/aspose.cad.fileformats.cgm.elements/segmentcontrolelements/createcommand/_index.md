@@ -1,12 +1,17 @@
 ---
-title: SegmentControlElements.CreateCommand
-second_title: Aspose.CAD for .NET API Reference
-description: SegmentControlElements method. 
+title: "SegmentControlElements.CreateCommand"
+linktitle: "CreateCommand"
+articleTitle: "CreateCommand"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SegmentControlElements method."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.elements/segmentcontrolelements/createcommand/
+url: "/net/aspose.cad.fileformats.cgm.elements/segmentcontrolelements/createcommand/"
+product_version: "26.9"
 ---
 ## SegmentControlElements.CreateCommand method
+
+
 
 ```csharp
 public static Command CreateCommand(int elementId, int elementClass, CgmFile container)
@@ -14,10 +19,9 @@ public static Command CreateCommand(int elementId, int elementClass, CgmFile con
 
 ### See Also
 
-* class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [SegmentControlElements](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../../aspose.cad.fileformats.cgm.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [SegmentControlElements](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../../)
 

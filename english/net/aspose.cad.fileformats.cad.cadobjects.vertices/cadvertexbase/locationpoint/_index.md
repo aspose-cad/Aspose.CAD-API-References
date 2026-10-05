@@ -1,10 +1,13 @@
 ---
-title: CadVertexBase.LocationPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadVertexBase property. Gets or sets the location point
+title: "CadVertexBase.LocationPoint"
+linktitle: "LocationPoint"
+articleTitle: "LocationPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVertexBase property. Gets or sets the location point."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexbase/locationpoint/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexbase/locationpoint/"
+product_version: "26.9"
 ---
 ## CadVertexBase.LocationPoint property
 
@@ -20,9 +23,8 @@ The location point.
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [CadVertexBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [CadVertexBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

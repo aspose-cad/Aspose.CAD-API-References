@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.PageNumber
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the page number tag
+title: "TiffOptions.PageNumber"
+linktitle: "PageNumber"
+articleTitle: "PageNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the page number tag."
 type: docs
-weight: 260
-url: /net/aspose.cad.imageoptions/tiffoptions/pagenumber/
+weight: 380
+url: "/net/aspose.cad.imageoptions/tiffoptions/pagenumber/"
+product_version: "26.9"
 ---
 ## TiffOptions.PageNumber property
 
@@ -27,8 +30,7 @@ The page number tag.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

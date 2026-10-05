@@ -1,12 +1,17 @@
 ---
-title: CellArray.Nx
-second_title: Aspose.CAD for .NET API Reference
-description: CellArray property. 
+title: "CellArray.Nx"
+linktitle: "Nx"
+articleTitle: "Nx"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CellArray property."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cgm.commands/cellarray/nx/
+weight: 80
+url: "/net/aspose.cad.fileformats.cgm.commands/cellarray/nx/"
+product_version: "26.9"
 ---
 ## CellArray.Nx property
+
+
 
 ```csharp
 public int Nx { get; }
@@ -14,8 +19,7 @@ public int Nx { get; }
 
 ### See Also
 
-* class [CellArray](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CellArray](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: StepVector.StepVector
-second_title: Aspose.CAD for .NET API Reference
-description: StepVector constructor. 
+title: "StepVector.StepVector"
+linktitle: "StepVector"
+articleTitle: "StepVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepVector constructor. Initializes a new instance of the StepVector class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stp.items/stepvector/stepvector/
+url: "/net/aspose.cad.fileformats.stp.items/stepvector/stepvector/"
+product_version: "26.9"
 ---
 ## StepVector constructor
+
+Initializes a new instance of the StepVector class.
 
 ```csharp
 public StepVector(string name, StepDirection direction, double length)
@@ -14,9 +19,8 @@ public StepVector(string name, StepDirection direction, double length)
 
 ### See Also
 
-* class [StepDirection](../../stepdirection/)
-* class [StepVector](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepDirection](../../stepdirection/)
+* class [StepVector](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

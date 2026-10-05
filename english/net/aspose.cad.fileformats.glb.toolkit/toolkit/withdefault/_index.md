@@ -1,12 +1,15 @@
 ---
-title: Toolkit.WithDefault
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. Initializes this Material instance with default material attributes
+title: "Toolkit.WithDefault"
+linktitle: "WithDefault"
+articleTitle: "WithDefault"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method. Initializes this Material instance with default material attributes."
 type: docs
-weight: 240
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withdefault/
+weight: 310
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withdefault/"
+product_version: "26.9"
 ---
-## WithDefault(this Material) {#withdefault}
+## WithDefault(this Material) {#withdefault}
 
 Initializes this [`Material`](../../../aspose.cad.fileformats.glb/material/) instance with default material attributes.
 
@@ -24,14 +27,14 @@ This [`Material`](../../../aspose.cad.fileformats.glb/material/) instance.
 
 ### See Also
 
-* class [Material](../../../aspose.cad.fileformats.glb/material/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## WithDefault(this Material, Vector4) {#withdefault_1}
+## WithDefault(this Material, Vector4) {#withdefault_1}
 
 Initializes this [`Material`](../../../aspose.cad.fileformats.glb/material/) instance with default material attributes.
 
@@ -50,9 +53,8 @@ This [`Material`](../../../aspose.cad.fileformats.glb/material/) instance.
 
 ### See Also
 
-* class [Material](../../../aspose.cad.fileformats.glb/material/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

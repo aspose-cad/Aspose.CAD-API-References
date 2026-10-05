@@ -1,10 +1,14 @@
 ---
-title: Class DgnCurveLineElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnCurveLineElement class. Represents curve line element element
+title: "DgnCurveLineElement Class"
+linktitle: "DgnCurveLineElement"
+articleTitle: "DgnCurveLineElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnCurveLineElement class. Represents curve line element element"
 type: docs
-weight: 8820
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncurvelineelement/
+weight: 100
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgncurvelineelement/"
+keywords: "DgnCurveLineElement, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnCurveLineElement class
 
@@ -18,17 +22,16 @@ public class DgnCurveLineElement : DgnLineElement
 
 | Name | Description |
 | --- | --- |
-| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
-| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/maxpoint/) { get; } | Gets the max point of object. |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
-| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/minpoint/) { get; } | Gets the min point of object. |
-| [Vertices](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/vertices/) { get; } | Gets vertices of the line |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/maxpoint/) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
+| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/minpoint/) { get; } | Gets the min point of object. |
+| [Vertices](../../aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/vertices/) { get; } | Gets vertices of the line |
 
 ### See Also
 
-* class [DgnLineElement](../dgnlineelement/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* class [DgnLineElement](../dgnlineelement/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

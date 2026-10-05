@@ -1,10 +1,13 @@
 ---
-title: CadDbColor.CadDbColor
-second_title: Aspose.CAD for .NET API Reference
-description: CadDbColor constructor. Initializes a new instance of the CadDbColor class
+title: "CadDbColor.CadDbColor"
+linktitle: "CadDbColor"
+articleTitle: "CadDbColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDbColor constructor. Initializes a new instance of the CadDbColor class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddbcolor/caddbcolor/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddbcolor/caddbcolor/"
+product_version: "26.9"
 ---
 ## CadDbColor constructor
 
@@ -16,8 +19,7 @@ public CadDbColor()
 
 ### See Also
 
-* class [CadDbColor](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDbColor](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

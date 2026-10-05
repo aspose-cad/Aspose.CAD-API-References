@@ -1,14 +1,18 @@
 ---
-title: Class ReadSettings
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.ReadSettings class. Read settings and base class of ReadContext
+title: "ReadSettings Class"
+linktitle: "ReadSettings"
+articleTitle: "ReadSettings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.ReadSettings class. Read settings and base class of ReadContext"
 type: docs
-weight: 11170
-url: /net/aspose.cad.fileformats.glb/readsettings/
+weight: 450
+url: "/net/aspose.cad.fileformats.glb/readsettings/"
+keywords: "ReadSettings, Aspose.CAD.FileFormats.GLB, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ReadSettings class
 
-Read settings and base class of ReadContext
+Read settings and base class of `ReadContext`
 
 ```csharp
 public class ReadSettings
@@ -19,15 +23,15 @@ public class ReadSettings
 | Name | Description |
 | --- | --- |
 | [ReadSettings](readsettings/#constructor)() | The default constructor. |
-| [ReadSettings](readsettings/#constructor_1)(ReadSettings) |  |
+| [ReadSettings](readsettings/#constructor_1)(ReadSettings) | Initializes a new instance of the ReadSettings class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ImageDecoder](../../aspose.cad.fileformats.glb/readsettings/imagedecoder/) { get; set; } | Gets or sets the callback used to decode the textures as they're loaded. |
-| [JsonPreprocessor](../../aspose.cad.fileformats.glb/readsettings/jsonpreprocessor/) { get; set; } | Gets or sets the callback used to preprocess the json text before parsing it. |
-| [Validation](../../aspose.cad.fileformats.glb/readsettings/validation/) { get; set; } | Gets or sets a value indicating the level of validation applied when loading a file. |
+| [ImageDecoder](../../aspose.cad.fileformats.glb/readsettings/imagedecoder/) { get; set; } | Gets or sets the callback used to decode the textures as they're loaded. |
+| [JsonPreprocessor](../../aspose.cad.fileformats.glb/readsettings/jsonpreprocessor/) { get; set; } | Gets or sets the callback used to preprocess the json text before parsing it. |
+| [Validation](../../aspose.cad.fileformats.glb/readsettings/validation/) { get; set; } | Gets or sets a value indicating the level of validation applied when loading a file. |
 
 ## Methods
 
@@ -38,7 +42,6 @@ public class ReadSettings
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TiffSRational.Value
-second_title: Aspose.CAD for .NET API Reference
-description: TiffSRational property. Gets the float value
+title: "TiffSRational.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffSRational property. Gets the float value."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.tiff/tiffsrational/value/
+weight: 130
+url: "/net/aspose.cad.fileformats.tiff/tiffsrational/value/"
+product_version: "26.9"
 ---
 ## TiffSRational.Value property
 
@@ -20,8 +23,7 @@ The float value.
 
 ### See Also
 
-* class [TiffSRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffSRational](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

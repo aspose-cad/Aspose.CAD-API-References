@@ -1,10 +1,13 @@
 ---
-title: PngImageException.PngImageException
-second_title: Aspose.CAD for .NET API Reference
-description: PngImageException constructor. Initializes a new instance of the PngImageException class
+title: "PngImageException.PngImageException"
+linktitle: "PngImageException"
+articleTitle: "PngImageException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PngImageException constructor. Initializes a new instance of the PngImageException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.imageformats/pngimageexception/pngimageexception/
+url: "/net/aspose.cad.cadexceptions.imageformats/pngimageexception/pngimageexception/"
+product_version: "26.9"
 ---
 ## PngImageException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public PngImageException(string message)
 
 ### See Also
 
-* class [PngImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
+* class [PngImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## PngImageException(string, Exception) {#constructor_1}
+## PngImageException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`PngImageException`](../) class.
 
@@ -41,8 +44,7 @@ public PngImageException(string message, Exception innerException)
 
 ### See Also
 
-* class [PngImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PngImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 

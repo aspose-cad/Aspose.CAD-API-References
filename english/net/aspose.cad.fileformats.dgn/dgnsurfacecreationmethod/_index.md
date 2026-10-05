@@ -1,10 +1,13 @@
 ---
-title: Enum DgnSurfaceCreationMethod
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnSurfaceCreationMethod enum. Represents creation method of 3d surface and 3d solid
+title: "DgnSurfaceCreationMethod Enum"
+linktitle: "DgnSurfaceCreationMethod"
+articleTitle: "DgnSurfaceCreationMethod"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnSurfaceCreationMethod enum. Represents creation method of 3d surface and 3d solid"
 type: docs
-weight: 9140
-url: /net/aspose.cad.fileformats.dgn/dgnsurfacecreationmethod/
+weight: 160
+url: "/net/aspose.cad.fileformats.dgn/dgnsurfacecreationmethod/"
+product_version: "26.9"
 ---
 ## DgnSurfaceCreationMethod enumeration
 
@@ -34,7 +37,6 @@ public enum DgnSurfaceCreationMethod
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../)
 

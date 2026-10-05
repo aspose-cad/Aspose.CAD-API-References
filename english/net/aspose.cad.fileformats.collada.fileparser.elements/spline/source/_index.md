@@ -1,14 +1,18 @@
 ---
-title: Spline.Source
-second_title: Aspose.CAD for .NET API Reference
-description: Spline property. Gets or sets the source. Provides the values for the CVs and segments of the spline
+title: "Spline.Source"
+linktitle: "Source"
+articleTitle: "Source"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Spline property. Gets or sets the source. Provides the values for the CVs and segments of the spline."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/spline/source/
+weight: 20
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/spline/source/"
+product_version: "26.9"
 ---
 ## Spline.Source property
 
-Gets or sets the source. Provides the values for the CVs and segments of the spline.
+Gets or sets the source.
+ Provides the values for the CVs and segments of the spline.
 
 ```csharp
 public Source[] Source { get; set; }
@@ -16,9 +20,8 @@ public Source[] Source { get; set; }
 
 ### See Also
 
-* class [Source](../../source/)
-* class [Spline](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Source](../../source/)
+* class [Spline](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

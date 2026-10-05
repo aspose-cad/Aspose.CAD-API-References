@@ -1,10 +1,13 @@
 ---
-title: Enum AcDbObjectType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects.AcDbObjectType enum. Internal Dwg entity type codes
+title: "AcDbObjectType Enum"
+linktitle: "AcDbObjectType"
+articleTitle: "AcDbObjectType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects.AcDbObjectType enum. Internal Dwg entity type codes."
 type: docs
-weight: 4440
-url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/acdbobjecttype/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.dwg.acdbobjects/acdbobjecttype/"
+product_version: "26.9"
 ---
 ## AcDbObjectType enumeration
 
@@ -146,20 +149,46 @@ public enum AcDbObjectType
 | ACSH_TORUS_CLASS | `131` | The Acsh Torus Class |
 | ACSH_WEDGE_CLASS | `132` | The Acsh Wedge Class |
 | VLO_VL | `133` | The VLO-VL object |
-| VBA_PROJECT_500 | `134` | The project |
-| VISUALSTYLE | `135` | The visual style |
-| WIPEOUTVARIABLE | `136` | The wipe out variable |
-| XRECORD_500 | `137` | The record |
-| DGNUNDERLAY | `138` | The dgnunderlay |
-| DGNDEFINITION | `139` | The dgndefinition |
-| DWFUNDERLAY | `140` | The dwfunderlay |
-| DWFDEFINITION | `141` | The dwfdefinition |
-| PDFUNDERLAY | `142` | The pdfunderlay |
-| PDFDEFINITION | `143` | The pdfdefinition |
-| AECIDBIMAGEDEF | `144` | The embedded image definition |
-| IMAGEDATA | `145` | The embedded image data |
-| EMBEDDEDIMAGE | `146` | The embedded image |
-| ACIDBLOCKREFERENCE | `147` | The block reference |
+| LSDEFINITION | `134` | The LSDEFINITION object |
+| LSSTROKEPATTERNCOMPONENT | `135` | The LSSTROKEPATTERNCOMPONENT object |
+| LSINTERNALCOMPONENT | `136` | The LSINTERNALCOMPONENT object |
+| LSCOMPOUNDCOMPONENT | `137` | The LSCOMPOUNDCOMPONENT object |
+| LSPOINTCOMPONENT | `138` | The LSPOINTCOMPONENT object |
+| LSSYMBOLCOMPONENT | `139` | The LSSYMBOLCOMPONENT object |
+| ACDBASSOCNETWORK | `140` | The ACDBASSOCNETWORK |
+| ACDBASSOCVARIABLE | `141` | The ACDBASSOCVARIABLE |
+| ACDBASSOC2DCONSTRAINTGROUP | `142` | The ACDBASSOC2DCONSTRAINTGROUP |
+| ACDBASSOCDEPENDENCY | `143` | The ACDBASSOCDEPENDENCY |
+| ACDBASSOCVALUEDEPENDENCY | `144` | The ACDBASSOCVALUEDEPENDENCY |
+| ACDBASSOCGEOMDEPENDENCY | `145` | The ACDBASSOCGEOMDEPENDENCY |
+| ACDB_BLKREFOBJECTCONTEXTDATA_CLASS | `146` | The block reference object context data |
+| ACDB_TEXTOBJECTCONTEXTDATA_CLASS | `147` | The text object context data |
+| ACDB_MTEXTATTRIBUTEOBJECTCONTEXTDATA_CLASS | `148` | The mtext attribute object context data |
+| ACDB_MTEXTOBJECTCONTEXTDATA_CLASS | `149` | The mtext object context data |
+| ACDB_ALDIMOBJECTCONTEXTDATA_CLASS | `150` | The aligned dimension object context data |
+| ACDB_ANGDIMOBJECTCONTEXTDATA_CLASS | `151` | The angular dimension object context data |
+| ACDB_LEADEROBJECTCONTEXTDATA_CLASS | `152` | The leader object context data |
+| ACDB_MLEADEROBJECTCONTEXTDATA_CLASS | `153` | The multileader object context data |
+| ACDB_HATCHSCALECONTEXTDATA_CLASS | `154` | The hatch scale context data |
+| ACDB_RADIMOBJECTCONTEXTDATA_CLASS | `155` | The radial dimension object context data |
+| ACDB_RADIMLRGOBJECTCONTEXTDATA_CLASS | `156` | The large radial dimension object context data |
+| ACDB_DMDIMOBJECTCONTEXTDATA_CLASS | `157` | The diametric dimension object context data |
+| ACDB_ORDDIMOBJECTCONTEXTDATA_CLASS | `158` | The ordinate dimension object context data |
+| ACDB_FCFOBJECTCONTEXTDATA_CLASS | `159` | The feature control frame object context data |
+| VBA_PROJECT_500 | `160` | The project |
+| VISUALSTYLE | `161` | The visual style |
+| WIPEOUTVARIABLE | `162` | The wipe out variable |
+| XRECORD_500 | `163` | The record |
+| DGNUNDERLAY | `164` | The dgnunderlay |
+| DGNDEFINITION | `165` | The dgndefinition |
+| DWFUNDERLAY | `166` | The dwfunderlay |
+| DWFDEFINITION | `167` | The dwfdefinition |
+| PDFUNDERLAY | `168` | The pdfunderlay |
+| PDFDEFINITION | `169` | The pdfdefinition |
+| AECIDBIMAGEDEF | `170` | The embedded image definition |
+| IMAGEDATA | `171` | The embedded image data |
+| EMBEDDEDIMAGE | `172` | The embedded image |
+| ACIDBLOCKREFERENCE | `173` | The block reference |
 | ACAD_PROXY_ENTITY | `498` | The ACAD_PROXY_ENTITY |
 | ACAD_PROXY_OBJECT | `499` | The ACAD_PROXY_OBJECT |
 | WIPEOUT | `509` | The wipe out |
@@ -176,7 +205,6 @@ public enum AcDbObjectType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](../../aspose.cad.fileformats.cad.dwg.acdbobjects/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](../../aspose.cad.fileformats.cad.dwg.acdbobjects/)
+* assembly [Aspose.CAD](../../)
 

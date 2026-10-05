@@ -1,10 +1,13 @@
 ---
-title: ObjVertexColor.op_Inequality
-second_title: Aspose.CAD for .NET API Reference
-description: ObjVertexColor method. Overloading the inequality operator
+title: "ObjVertexColor.op_Inequality"
+linktitle: "op_Inequality"
+articleTitle: "op_Inequality"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjVertexColor method. Overloading the inequality operator."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.obj.vertexdata/objvertexcolor/op_inequality/
+weight: 30
+url: "/net/aspose.cad.fileformats.obj.vertexdata/objvertexcolor/op_inequality/"
+product_version: "26.9"
 ---
 ## ObjVertexColor Inequality operator
 
@@ -25,8 +28,7 @@ The value indicating whether instances are not equal.
 
 ### See Also
 
-* class [ObjVertexColor](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjVertexColor](../)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
+* assembly [Aspose.CAD](../../../)
 

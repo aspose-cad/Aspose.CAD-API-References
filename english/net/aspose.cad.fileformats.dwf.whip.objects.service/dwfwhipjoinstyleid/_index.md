@@ -1,10 +1,13 @@
 ---
-title: Enum DwfWhipJoinstyleID
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipJoinstyleID enum. Represents join style IDs
+title: "DwfWhipJoinstyleID Enum"
+linktitle: "DwfWhipJoinstyleID"
+articleTitle: "DwfWhipJoinstyleID"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipJoinstyleID enum. Represents join style IDs"
 type: docs
-weight: 9970
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipjoinstyleid/
+weight: 40
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhipjoinstyleid/"
+product_version: "26.9"
 ---
 ## DwfWhipJoinstyleID enumeration
 
@@ -27,7 +30,6 @@ public enum DwfWhipJoinstyleID
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../)
 

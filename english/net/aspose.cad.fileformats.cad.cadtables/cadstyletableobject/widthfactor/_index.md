@@ -1,10 +1,13 @@
 ---
-title: CadStyleTableObject.WidthFactor
-second_title: Aspose.CAD for .NET API Reference
-description: CadStyleTableObject property. Gets or sets the width factor
+title: "CadStyleTableObject.WidthFactor"
+linktitle: "WidthFactor"
+articleTitle: "WidthFactor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadStyleTableObject property. Gets or sets the width factor."
 type: docs
 weight: 100
-url: /net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/widthfactor/
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/widthfactor/"
+product_version: "26.9"
 ---
 ## CadStyleTableObject.WidthFactor property
 
@@ -16,8 +19,7 @@ public double WidthFactor { get; set; }
 
 ### See Also
 
-* class [CadStyleTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadStyleTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

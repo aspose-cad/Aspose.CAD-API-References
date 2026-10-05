@@ -1,10 +1,13 @@
 ---
-title: Enum CadEntityTypeName
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadEntityTypeName enum. Contains Entity names
+title: "CadEntityTypeName Enum"
+linktitle: "CadEntityTypeName"
+articleTitle: "CadEntityTypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadEntityTypeName enum. Contains Entity names"
 type: docs
-weight: 1280
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadentitytypename/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadentitytypename/"
+product_version: "26.9"
 ---
 ## CadEntityTypeName enumeration
 
@@ -79,11 +82,11 @@ public enum CadEntityTypeName
 | LOFTEDSURFACE | `58` | The lofted surface |
 | ACIDBLOCKREFERENCE | `59` | ACIDBLOCKREFERENCE |
 | ARC_DIMENSION | `60` | ARC_DIMENSION entity |
-| EMBEDDEDIMAGE | `61` | EMBEDDED IMAGE entity |
+| LARGE_RADIAL_DIMENSION | `61` | LARGE_RADIAL_DIMENSION entity |
+| EMBEDDEDIMAGE | `62` | EMBEDDED IMAGE entity |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

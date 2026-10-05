@@ -1,10 +1,13 @@
 ---
-title: CadViewList.AddRange
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewList method. Adds the range of the objects to container
+title: "CadViewList.AddRange"
+linktitle: "AddRange"
+articleTitle: "AddRange"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewList method. Adds the range of the objects to container."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad/cadviewlist/addrange/
+url: "/net/aspose.cad.fileformats.cad/cadviewlist/addrange/"
+product_version: "26.9"
 ---
 ## CadViewList.AddRange method
 
@@ -20,9 +23,8 @@ public void AddRange(CadViewTableObject[] objects)
 
 ### See Also
 
-* class [CadViewTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/)
-* class [CadViewList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadviewtableobject/)
+* class [CadViewList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

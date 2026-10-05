@@ -1,10 +1,13 @@
 ---
-title: DgnCircle.DgnCircle
-second_title: Aspose.CAD for .NET API Reference
-description: DgnCircle constructor. Initializes a new instance of the DgnCircle class
+title: "DgnCircle.DgnCircle"
+linktitle: "DgnCircle"
+articleTitle: "DgnCircle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnCircle constructor. Initializes a new instance of the DgnCircle class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn/dgncircle/dgncircle/
+url: "/net/aspose.cad.fileformats.dgn/dgncircle/dgncircle/"
+product_version: "26.9"
 ---
 ## DgnCircle constructor
 
@@ -22,10 +25,9 @@ public DgnCircle(DgnPoint center, double radius, DgnQuaternion quaternion)
 
 ### See Also
 
-* class [DgnPoint](../../dgnpoint/)
-* class [DgnQuaternion](../../../aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/)
-* class [DgnCircle](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnPoint](../../dgnpoint/)
+* class [DgnQuaternion](../../../aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/)
+* class [DgnCircle](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

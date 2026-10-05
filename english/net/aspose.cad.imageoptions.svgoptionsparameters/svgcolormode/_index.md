@@ -1,10 +1,13 @@
 ---
-title: Enum SvgColorMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.SvgOptionsParameters.SvgColorMode enum. Сolor mode for SVG images
+title: "SvgColorMode Enum"
+linktitle: "SvgColorMode"
+articleTitle: "SvgColorMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.SvgOptionsParameters.SvgColorMode enum. Сolor mode for SVG images."
 type: docs
-weight: 36770
-url: /net/aspose.cad.imageoptions.svgoptionsparameters/svgcolormode/
+weight: 60
+url: "/net/aspose.cad.imageoptions.svgoptionsparameters/svgcolormode/"
+product_version: "26.9"
 ---
 ## SvgColorMode enumeration
 
@@ -26,7 +29,6 @@ public enum SvgColorMode
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../aspose.cad.imageoptions.svgoptionsparameters/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../aspose.cad.imageoptions.svgoptionsparameters/)
+* assembly [Aspose.CAD](../../)
 

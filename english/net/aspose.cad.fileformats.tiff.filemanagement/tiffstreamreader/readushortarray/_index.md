@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ReadUShortArray
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Reads an array of unsigned integer values from the stream
+title: "TiffStreamReader.ReadUShortArray"
+linktitle: "ReadUShortArray"
+articleTitle: "ReadUShortArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Reads an array of unsigned integer values from the stream."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readushortarray/
+weight: 260
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readushortarray/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ReadUShortArray method
 
@@ -31,8 +34,7 @@ The array of unsigned integer values.
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

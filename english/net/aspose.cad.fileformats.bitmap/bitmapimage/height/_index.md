@@ -1,10 +1,13 @@
 ---
-title: BitmapImage.Height
-second_title: Aspose.CAD for .NET API Reference
-description: BitmapImage property. Gets the image height
+title: "BitmapImage.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BitmapImage property. Gets the image height."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.bitmap/bitmapimage/height/
+weight: 30
+url: "/net/aspose.cad.fileformats.bitmap/bitmapimage/height/"
+product_version: "26.9"
 ---
 ## BitmapImage.Height property
 
@@ -20,8 +23,7 @@ The image height.
 
 ### See Also
 
-* class [BitmapImage](../)
-* namespace [Aspose.CAD.FileFormats.Bitmap](../../../aspose.cad.fileformats.bitmap/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BitmapImage](../)
+* namespace [Aspose.CAD.FileFormats.Bitmap](../../../aspose.cad.fileformats.bitmap/)
+* assembly [Aspose.CAD](../../../)
 

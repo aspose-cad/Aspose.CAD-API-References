@@ -1,10 +1,13 @@
 ---
-title: DgnCompoundElement.TotalLength
-second_title: Aspose.CAD for .NET API Reference
-description: DgnCompoundElement property. Gets or sets total length of data of related elements
+title: "DgnCompoundElement.TotalLength"
+linktitle: "TotalLength"
+articleTitle: "TotalLength"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnCompoundElement property. Gets or sets total length of data of related elements"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/totallength/
+weight: 10
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/totallength/"
+product_version: "26.9"
 ---
 ## DgnCompoundElement.TotalLength property
 
@@ -16,8 +19,7 @@ public ushort TotalLength { get; }
 
 ### See Also
 
-* class [DgnCompoundElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnCompoundElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

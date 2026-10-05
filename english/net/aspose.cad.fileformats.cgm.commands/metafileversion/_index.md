@@ -1,12 +1,18 @@
 ---
-title: Class MetafileVersion
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.MetafileVersion class. 
+title: "MetafileVersion Class"
+linktitle: "MetafileVersion"
+articleTitle: "MetafileVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.MetafileVersion class. Class=1, Element=1"
 type: docs
-weight: 6250
-url: /net/aspose.cad.fileformats.cgm.commands/metafileversion/
+weight: 1530
+url: "/net/aspose.cad.fileformats.cgm.commands/metafileversion/"
+keywords: "MetafileVersion, Aspose.CAD.FileFormats.Cgm.Commands, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## MetafileVersion class
+
+Class=1, Element=1
 
 ```csharp
 public class MetafileVersion : Command
@@ -16,25 +22,25 @@ public class MetafileVersion : Command
 
 | Name | Description |
 | --- | --- |
-| [MetafileVersion](metafileversion/#constructor)(CgmFile) |  |
-| [MetafileVersion](metafileversion/#constructor_1)(CgmFile, int) |  |
+| [MetafileVersion](metafileversion/#constructor)(CgmFile) | Initializes a new instance of the MetafileVersion class. |
+| [MetafileVersion](metafileversion/#constructor_1)(CgmFile, int) | Initializes a new instance of the MetafileVersion class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
-| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
-| [Version](../../aspose.cad.fileformats.cgm.commands/metafileversion/version/) { get; } |  |
+| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
+| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
+| [Version](../../aspose.cad.fileformats.cgm.commands/metafileversion/version/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/metafileversion/readfrombinary/)(IBinaryReader) |  |
-| override [ToString](../../aspose.cad.fileformats.cgm.commands/metafileversion/tostring/)() |  |
-| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/metafileversion/writeasbinary/)(IBinaryWriter) |  |
-| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/metafileversion/writeascleartext/)(IClearTextWriter) |  |
+| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/metafileversion/readfrombinary/)(IBinaryReader) |  |
+| override [ToString](../../aspose.cad.fileformats.cgm.commands/metafileversion/tostring/)() |  |
+| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/metafileversion/writeasbinary/)(IBinaryWriter) |  |
+| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/metafileversion/writeascleartext/)(IClearTextWriter) |  |
 
 ## Remarks
 
@@ -42,8 +48,7 @@ Class=1, Element=1
 
 ### See Also
 
-* class [Command](../command/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [Command](../command/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

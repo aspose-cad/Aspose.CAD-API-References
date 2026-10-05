@@ -1,12 +1,17 @@
 ---
-title: Struct VertexTextureTuple
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.VertexTextureTuple struct. 
+title: "VertexTextureTuple Struct"
+linktitle: "VertexTextureTuple"
+articleTitle: "VertexTextureTuple"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.VertexTextureTuple struct."
 type: docs
-weight: 11860
-url: /net/aspose.cad.fileformats.glb/vertextexturetuple/
+weight: 630
+url: "/net/aspose.cad.fileformats.glb/vertextexturetuple/"
+product_version: "26.9"
 ---
-## VertexTextureTuple structure
+## VertexTextureTuple struct
+
+
 
 ```csharp
 public struct VertexTextureTuple
@@ -14,7 +19,6 @@ public struct VertexTextureTuple
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

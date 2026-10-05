@@ -1,10 +1,13 @@
 ---
-title: CadVisualStyle.EdgeStyleApplyFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadVisualStyle property. Gets or sets the edge style apply flag
+title: "CadVisualStyle.EdgeStyleApplyFlag"
+linktitle: "EdgeStyleApplyFlag"
+articleTitle: "EdgeStyleApplyFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVisualStyle property. Gets or sets the edge style apply flag."
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edgestyleapplyflag/
+weight: 330
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edgestyleapplyflag/"
+product_version: "26.9"
 ---
 ## CadVisualStyle.EdgeStyleApplyFlag property
 
@@ -20,8 +23,7 @@ The edge style apply flag.
 
 ### See Also
 
-* class [CadVisualStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVisualStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

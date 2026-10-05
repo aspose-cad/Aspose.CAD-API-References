@@ -1,10 +1,13 @@
 ---
-title: CadFaceRecord.VertexId
-second_title: Aspose.CAD for .NET API Reference
-description: CadFaceRecord property. Gets or sets the vertex id
+title: "CadFaceRecord.VertexId"
+linktitle: "VertexId"
+articleTitle: "VertexId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadFaceRecord property. Gets or sets the vertex id."
 type: docs
 weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadfacerecord/vertexid/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cadfacerecord/vertexid/"
+product_version: "26.9"
 ---
 ## CadFaceRecord.VertexId property
 
@@ -16,8 +19,7 @@ public override int? VertexId { get; set; }
 
 ### See Also
 
-* class [CadFaceRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadFaceRecord](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

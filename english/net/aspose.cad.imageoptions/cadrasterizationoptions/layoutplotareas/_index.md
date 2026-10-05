@@ -1,12 +1,17 @@
 ---
-title: CadRasterizationOptions.LayoutPlotAreas
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterizationOptions property. 
+title: "CadRasterizationOptions.LayoutPlotAreas"
+linktitle: "LayoutPlotAreas"
+articleTitle: "LayoutPlotAreas"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterizationOptions property."
 type: docs
-weight: 70
-url: /net/aspose.cad.imageoptions/cadrasterizationoptions/layoutplotareas/
+weight: 80
+url: "/net/aspose.cad.imageoptions/cadrasterizationoptions/layoutplotareas/"
+product_version: "26.9"
 ---
 ## CadRasterizationOptions.LayoutPlotAreas property
+
+
 
 ```csharp
 public Dictionary<string, RectangleF> LayoutPlotAreas { get; set; }
@@ -14,9 +19,8 @@ public Dictionary<string, RectangleF> LayoutPlotAreas { get; set; }
 
 ### See Also
 
-* struct [RectangleF](../../../aspose.cad/rectanglef/)
-* class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [RectangleF](../../../aspose.cad/rectanglef/)
+* class [CadRasterizationOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

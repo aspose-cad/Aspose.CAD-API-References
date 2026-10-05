@@ -1,10 +1,13 @@
 ---
-title: TriangularFacet.TriangularFacet
-second_title: Aspose.CAD for .NET API Reference
-description: TriangularFacet constructor. The default constructor
+title: "TriangularFacet.TriangularFacet"
+linktitle: "TriangularFacet"
+articleTitle: "TriangularFacet"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TriangularFacet constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/triangularfacet/
+url: "/net/aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/triangularfacet/"
+product_version: "26.9"
 ---
 ## TriangularFacet constructor
 
@@ -16,8 +19,7 @@ public TriangularFacet()
 
 ### See Also
 
-* class [TriangularFacet](../)
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TriangularFacet](../)
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../../aspose.cad.fileformats.stp.stplibrary.core.models/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadUcsList.Clone
-second_title: Aspose.CAD for .NET API Reference
-description: CadUcsList method. The clone
+title: "CadUcsList.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadUcsList method. The clone."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad/caducslist/clone/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad/caducslist/clone/"
+product_version: "26.9"
 ---
 ## CadUcsList.Clone method
 
@@ -16,12 +19,11 @@ public object Clone()
 
 ### Return Value
 
-The Object.
+The `Object`.
 
 ### See Also
 
-* class [CadUcsList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadUcsList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

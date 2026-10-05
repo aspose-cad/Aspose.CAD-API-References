@@ -1,10 +1,13 @@
 ---
-title: DgnTagSetElement.Tags
-second_title: Aspose.CAD for .NET API Reference
-description: DgnTagSetElement property. Gets tags of the tag definition
+title: "DgnTagSetElement.Tags"
+linktitle: "Tags"
+articleTitle: "Tags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnTagSetElement property. Gets tags of the tag definition"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/tags/
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/tags/"
+product_version: "26.9"
 ---
 ## DgnTagSetElement.Tags property
 
@@ -16,9 +19,8 @@ public DgnTag[] Tags { get; }
 
 ### See Also
 
-* class [DgnTag](../../../aspose.cad.fileformats.dgn/dgntag/)
-* class [DgnTagSetElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnTag](../../../aspose.cad.fileformats.dgn/dgntag/)
+* class [DgnTagSetElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

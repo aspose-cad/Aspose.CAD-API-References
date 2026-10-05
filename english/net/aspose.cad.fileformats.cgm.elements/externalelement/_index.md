@@ -1,12 +1,17 @@
 ---
-title: Enum ExternalElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Elements.ExternalElement enum. 
+title: "ExternalElement Enum"
+linktitle: "ExternalElement"
+articleTitle: "ExternalElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Elements.ExternalElement enum."
 type: docs
-weight: 7040
-url: /net/aspose.cad.fileformats.cgm.elements/externalelement/
+weight: 100
+url: "/net/aspose.cad.fileformats.cgm.elements/externalelement/"
+product_version: "26.9"
 ---
 ## ExternalElement enumeration
+
+
 
 ```csharp
 public enum ExternalElement
@@ -22,7 +27,6 @@ public enum ExternalElement
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StlShape.MaterialId
-second_title: Aspose.CAD for .NET API Reference
-description: StlShape property. Gets or sets the material identifier
+title: "StlShape.MaterialId"
+linktitle: "MaterialId"
+articleTitle: "MaterialId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StlShape property. Gets or sets the material identifier."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.stl.stlobjects/stlshape/materialid/
+weight: 50
+url: "/net/aspose.cad.fileformats.stl.stlobjects/stlshape/materialid/"
+product_version: "26.9"
 ---
 ## StlShape.MaterialId property
 
@@ -20,8 +23,7 @@ The material identifier.
 
 ### See Also
 
-* class [StlShape](../)
-* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StlShape](../)
+* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
+* assembly [Aspose.CAD](../../../)
 

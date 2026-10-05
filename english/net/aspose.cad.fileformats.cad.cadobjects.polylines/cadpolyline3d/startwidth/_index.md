@@ -1,10 +1,13 @@
 ---
-title: CadPolyline3D.StartWidth
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolyline3D property. Gets or sets the start width
+title: "CadPolyline3D.StartWidth"
+linktitle: "StartWidth"
+articleTitle: "StartWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolyline3D property. Gets or sets the start width."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline3d/startwidth/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline3d/startwidth/"
+product_version: "26.9"
 ---
 ## CadPolyline3D.StartWidth property
 
@@ -20,8 +23,7 @@ The start width.
 
 ### See Also
 
-* class [CadPolyline3D](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolyline3D](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

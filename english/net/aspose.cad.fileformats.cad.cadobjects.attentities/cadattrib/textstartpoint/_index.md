@@ -1,10 +1,13 @@
 ---
-title: CadAttrib.TextStartPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttrib property. Gets or sets the text start point
+title: "CadAttrib.TextStartPoint"
+linktitle: "TextStartPoint"
+articleTitle: "TextStartPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttrib property. Gets or sets the text start point."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/textstartpoint/
+weight: 170
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/textstartpoint/"
+product_version: "26.9"
 ---
 ## CadAttrib.TextStartPoint property
 
@@ -20,9 +23,8 @@ The text start point.
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [CadAttrib](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [CadAttrib](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

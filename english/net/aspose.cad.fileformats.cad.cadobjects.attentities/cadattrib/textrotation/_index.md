@@ -1,10 +1,13 @@
 ---
-title: CadAttrib.TextRotation
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttrib property. Gets or sets the text rotation
+title: "CadAttrib.TextRotation"
+linktitle: "TextRotation"
+articleTitle: "TextRotation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttrib property. Gets or sets the text rotation."
 type: docs
-weight: 210
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/textrotation/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/textrotation/"
+product_version: "26.9"
 ---
 ## CadAttrib.TextRotation property
 
@@ -16,8 +19,7 @@ public double TextRotation { get; set; }
 
 ### See Also
 
-* class [CadAttrib](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAttrib](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

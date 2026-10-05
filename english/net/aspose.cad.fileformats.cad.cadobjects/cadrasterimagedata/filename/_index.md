@@ -1,10 +1,13 @@
 ---
-title: CadRasterImageData.FileName
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImageData property. Gets or sets name of a file
+title: "CadRasterImageData.FileName"
+linktitle: "FileName"
+articleTitle: "FileName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImageData property. Gets or sets name of a file."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedata/filename/
+weight: 10
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedata/filename/"
+product_version: "26.9"
 ---
 ## CadRasterImageData.FileName property
 
@@ -16,8 +19,7 @@ public string FileName { get; set; }
 
 ### See Also
 
-* class [CadRasterImageData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImageData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

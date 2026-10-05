@@ -1,14 +1,21 @@
 ---
-title: Class PathGeometry
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.PathGeometry class. The path geometry. A PathGeometry element contains a set of path figures specified either with the Figures attribute or with a child PathFigure element. Producers MUST NOT specify the path figures of a geometry with both the Figures attribute and a child PathFigure element
+title: "PathGeometry Class"
+linktitle: "PathGeometry"
+articleTitle: "PathGeometry"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.PathGeometry class. The path geometry. A PathGeometry element contains a set of path figures specified either..."
 type: docs
-weight: 9460
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/
+weight: 220
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/"
+keywords: "PathGeometry, Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## PathGeometry class
 
-The path geometry. A PathGeometry element contains a set of path figures specified either with the Figures attribute or with a child PathFigure element. Producers MUST NOT specify the path figures of a geometry with both the Figures attribute and a child PathFigure element.
+The path geometry.
+ A PathGeometry element contains a set of path figures specified either
+ with the Figures attribute or with a child [PathFigure](../pathfigure/) element.
+ Producers MUST NOT specify the path figures of a geometry with both the Figures attribute and a child [PathFigure](../pathfigure/) element.
 
 ```csharp
 public class PathGeometry
@@ -24,15 +31,14 @@ public class PathGeometry
 
 | Name | Description |
 | --- | --- |
-| [Figures](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/figures/) { get; set; } | Gets or sets the figures. Describes the geometry of the path. |
-| [FillRule](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/fillrule/) { get; set; } | Gets or sets the fill rule. Specifies how the intersecting areas of geometric shapes are combined to form a region. Valid values are EvenOdd and NonZero. |
-| [PathFigure](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/pathfigure/) { get; set; } | Gets or sets the path figure. Specifies a set of one or more segment elements defining a closed region. |
-| [PathGeometryTransform](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/pathgeometrytransform/) { get; set; } | Gets or sets the path geometry transform. Specifies the local matrix transformation that is applied to all child and descendant elements of the path geometry before it is used for filling, clipping, or stroking. |
-| [Transform](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/transform/) { get; set; } | Gets or sets the transform. Specifies the local matrix transformation that is applied to all child and descendant elements of the path geometry before it is used for filling, clipping, or stroking. |
+| [Figures](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/figures/) { get; set; } | Gets or sets the figures. Describes the geometry of the path. |
+| [FillRule](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/fillrule/) { get; set; } | Gets or sets the fill rule. Specifies how the intersecting areas of geometric shapes are combined to form a region. Valid values are EvenOdd and NonZero. |
+| [PathFigure](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/pathfigure/) { get; set; } | Gets or sets the path figure. Specifies a set of one or more segment elements defining a closed region. |
+| [PathGeometryTransform](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/pathgeometrytransform/) { get; set; } | Gets or sets the path geometry transform. Specifies the local matrix transformation that is applied to all child and descendant elements of the path geometry before it is used for filling, clipping, or stroking. |
+| [Transform](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/pathgeometry/transform/) { get; set; } | Gets or sets the transform. Specifies the local matrix transformation that is applied to all child and descendant elements of the path geometry before it is used for filling, clipping, or stroking. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

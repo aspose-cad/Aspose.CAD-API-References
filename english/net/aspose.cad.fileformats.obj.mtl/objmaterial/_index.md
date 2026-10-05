@@ -1,10 +1,14 @@
 ---
-title: Class ObjMaterial
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Obj.Mtl.ObjMaterial class. ObjMaterial class
+title: "ObjMaterial Class"
+linktitle: "ObjMaterial"
+articleTitle: "ObjMaterial"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Obj.Mtl.ObjMaterial class. ObjMaterial class"
 type: docs
-weight: 33820
-url: /net/aspose.cad.fileformats.obj.mtl/objmaterial/
+weight: 40
+url: "/net/aspose.cad.fileformats.obj.mtl/objmaterial/"
+keywords: "ObjMaterial, Aspose.CAD.FileFormats.Obj.Mtl, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ObjMaterial class
 
@@ -24,12 +28,11 @@ public class ObjMaterial
 
 | Name | Description |
 | --- | --- |
-| [Diffuse](../../aspose.cad.fileformats.obj.mtl/objmaterial/diffuse/) { get; set; } | Gets or sets the diffuse. |
-| [Name](../../aspose.cad.fileformats.obj.mtl/objmaterial/name/) { get; set; } | Gets or sets the name. |
+| [Diffuse](../../aspose.cad.fileformats.obj.mtl/objmaterial/diffuse/) { get; set; } | Gets or sets the diffuse. |
+| [Name](../../aspose.cad.fileformats.obj.mtl/objmaterial/name/) { get; set; } | Gets or sets the name. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../aspose.cad.fileformats.obj.mtl/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../aspose.cad.fileformats.obj.mtl/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: RasterImage.GetArgb32Pixel
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Gets an image 32bit ARGB pixel
+title: "RasterImage.GetArgb32Pixel"
+linktitle: "GetArgb32Pixel"
+articleTitle: "GetArgb32Pixel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Gets an image 32-bit ARGB pixel."
 type: docs
-weight: 230
-url: /net/aspose.cad/rasterimage/getargb32pixel/
+weight: 190
+url: "/net/aspose.cad/rasterimage/getargb32pixel/"
+product_version: "26.9"
 ---
 ## RasterImage.GetArgb32Pixel method
 
@@ -25,8 +28,7 @@ The 32-bit ARGB pixel for the specified location.
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

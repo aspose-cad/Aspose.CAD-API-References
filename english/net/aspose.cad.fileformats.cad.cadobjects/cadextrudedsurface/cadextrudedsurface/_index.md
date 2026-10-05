@@ -1,10 +1,13 @@
 ---
-title: CadExtrudedSurface.CadExtrudedSurface
-second_title: Aspose.CAD for .NET API Reference
-description: CadExtrudedSurface constructor. Initializes a new instance of the CadExtrudedSurface class
+title: "CadExtrudedSurface.CadExtrudedSurface"
+linktitle: "CadExtrudedSurface"
+articleTitle: "CadExtrudedSurface"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadExtrudedSurface constructor. Initializes a new instance of the CadExtrudedSurface class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/cadextrudedsurface/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/cadextrudedsurface/"
+product_version: "26.9"
 ---
 ## CadExtrudedSurface constructor
 
@@ -16,8 +19,7 @@ public CadExtrudedSurface()
 
 ### See Also
 
-* class [CadExtrudedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadExtrudedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IPsdColorPalette.RawEntries
-second_title: Aspose.CAD for .NET API Reference
-description: IPsdColorPalette property. Gets the raw color palette entries data
+title: "IPsdColorPalette.RawEntries"
+linktitle: "RawEntries"
+articleTitle: "RawEntries"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IPsdColorPalette property. Gets the raw color palette entries data."
 type: docs
-weight: 20
-url: /net/aspose.cad/ipsdcolorpalette/rawentries/
+weight: 40
+url: "/net/aspose.cad/ipsdcolorpalette/rawentries/"
+product_version: "26.9"
 ---
 ## IPsdColorPalette.RawEntries property
 
@@ -20,8 +23,7 @@ The raw color palette entries data.
 
 ### See Also
 
-* interface [IPsdColorPalette](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IPsdColorPalette](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

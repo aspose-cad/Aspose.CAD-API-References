@@ -1,10 +1,13 @@
 ---
-title: TableStyleCellContent.ContentColor
-second_title: Aspose.CAD for .NET API Reference
-description: TableStyleCellContent property. The Content Color
+title: "TableStyleCellContent.ContentColor"
+linktitle: "ContentColor"
+articleTitle: "ContentColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableStyleCellContent property. The Content Color"
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/contentcolor/
+weight: 170
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/contentcolor/"
+product_version: "26.9"
 ---
 ## TableStyleCellContent.ContentColor property
 
@@ -16,8 +19,7 @@ public short ContentColor { get; set; }
 
 ### See Also
 
-* class [TableStyleCellContent](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableStyleCellContent](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

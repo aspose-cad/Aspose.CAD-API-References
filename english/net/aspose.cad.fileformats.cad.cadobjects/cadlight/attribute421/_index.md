@@ -1,10 +1,13 @@
 ---
-title: CadLight.Attribute421
-second_title: Aspose.CAD for .NET API Reference
-description: CadLight property. Gets or sets the attribute 421
+title: "CadLight.Attribute421"
+linktitle: "Attribute421"
+articleTitle: "Attribute421"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLight property. Gets or sets the attribute 421."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/attribute421/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlight/attribute421/"
+product_version: "26.9"
 ---
 ## CadLight.Attribute421 property
 
@@ -20,8 +23,7 @@ The attribute 421.
 
 ### See Also
 
-* class [CadLight](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLight](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

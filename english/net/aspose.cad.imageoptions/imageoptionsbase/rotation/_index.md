@@ -1,10 +1,13 @@
 ---
-title: ImageOptionsBase.Rotation
-second_title: Aspose.CAD for .NET API Reference
-description: ImageOptionsBase property. Gets or sets the parameter for rotate flip or rotate and flip the image
+title: "ImageOptionsBase.Rotation"
+linktitle: "Rotation"
+articleTitle: "Rotation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageOptionsBase property. Gets or sets the parameter for rotate, flip, or rotate and flip the image.."
 type: docs
-weight: 70
-url: /net/aspose.cad.imageoptions/imageoptionsbase/rotation/
+weight: 30
+url: "/net/aspose.cad.imageoptions/imageoptionsbase/rotation/"
+product_version: "26.9"
 ---
 ## ImageOptionsBase.Rotation property
 
@@ -16,9 +19,8 @@ public RotateFlipType Rotation { get; set; }
 
 ### See Also
 
-* enum [RotateFlipType](../../../aspose.cad/rotatefliptype/)
-* class [ImageOptionsBase](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [RotateFlipType](../../../aspose.cad/rotatefliptype/)
+* class [ImageOptionsBase](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

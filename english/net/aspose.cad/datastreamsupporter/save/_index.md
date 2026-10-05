@@ -1,10 +1,13 @@
 ---
-title: DataStreamSupporter.Save
-second_title: Aspose.CAD for .NET API Reference
-description: DataStreamSupporter method. Saves the objects data to the current DataStreamSupporter
+title: "DataStreamSupporter.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DataStreamSupporter method. Saves the object's data to the current DataStreamSupporter."
 type: docs
-weight: 40
-url: /net/aspose.cad/datastreamsupporter/save/
+weight: 20
+url: "/net/aspose.cad/datastreamsupporter/save/"
+product_version: "26.9"
 ---
 ## Save() {#save}
 
@@ -16,9 +19,9 @@ public virtual void Save()
 
 ### See Also
 
-* class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [DataStreamSupporter](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,9 +39,9 @@ public void Save(Stream stream)
 
 ### See Also
 
-* class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [DataStreamSupporter](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -56,13 +59,13 @@ public virtual void Save(string filePath)
 
 ### See Also
 
-* class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [DataStreamSupporter](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Save(string, bool) {#save_3}
+## Save(string, bool) {#save_3}
 
 Saves the object's data to the specified file location.
 
@@ -77,8 +80,7 @@ public virtual void Save(string filePath, bool overWrite)
 
 ### See Also
 
-* class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DataStreamSupporter](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

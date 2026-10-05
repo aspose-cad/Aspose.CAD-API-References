@@ -1,10 +1,13 @@
 ---
-title: StpImage.IsCached
-second_title: Aspose.CAD for .NET API Reference
-description: StpImage property. Gets a value indicating whether objects data is cached currently and no data reading is required
+title: "StpImage.IsCached"
+linktitle: "IsCached"
+articleTitle: "IsCached"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StpImage property. Gets a value indicating whether object's data is cached currently and no data reading is required."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.stp/stpimage/iscached/
+weight: 210
+url: "/net/aspose.cad.fileformats.stp/stpimage/iscached/"
+product_version: "26.9"
 ---
 ## StpImage.IsCached property
 
@@ -20,8 +23,7 @@ public override bool IsCached { get; }
 
 ### See Also
 
-* class [StpImage](../)
-* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StpImage](../)
+* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
+* assembly [Aspose.CAD](../../../)
 

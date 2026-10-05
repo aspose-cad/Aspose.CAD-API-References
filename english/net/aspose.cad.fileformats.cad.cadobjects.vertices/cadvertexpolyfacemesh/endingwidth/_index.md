@@ -1,10 +1,13 @@
 ---
-title: CadVertexPolyFaceMesh.EndingWidth
-second_title: Aspose.CAD for .NET API Reference
-description: CadVertexPolyFaceMesh property. Gets or sets the ending width
+title: "CadVertexPolyFaceMesh.EndingWidth"
+linktitle: "EndingWidth"
+articleTitle: "EndingWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVertexPolyFaceMesh property. Gets or sets the ending width."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexpolyfacemesh/endingwidth/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cadvertexpolyfacemesh/endingwidth/"
+product_version: "26.9"
 ---
 ## CadVertexPolyFaceMesh.EndingWidth property
 
@@ -16,8 +19,7 @@ public override double EndingWidth { get; set; }
 
 ### See Also
 
-* class [CadVertexPolyFaceMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVertexPolyFaceMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

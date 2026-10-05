@@ -1,10 +1,13 @@
 ---
-title: CadDictionaryBase.RemoveByValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadDictionaryBase method. Removes the entry soft owner and entry name by value
+title: "CadDictionaryBase.RemoveByValue"
+linktitle: "RemoveByValue"
+articleTitle: "RemoveByValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDictionaryBase method. Removes the entry soft owner and entry name by value."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/removebyvalue/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/removebyvalue/"
+product_version: "26.9"
 ---
 ## CadDictionaryBase.RemoveByValue method
 
@@ -20,8 +23,7 @@ public void RemoveByValue(string value)
 
 ### See Also
 
-* class [CadDictionaryBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDictionaryBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
+* assembly [Aspose.CAD](../../../)
 

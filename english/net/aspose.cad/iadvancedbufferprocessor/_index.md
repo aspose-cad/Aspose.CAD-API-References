@@ -1,10 +1,13 @@
 ---
-title: Interface IAdvancedBufferProcessor
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.IAdvancedBufferProcessor interface. The advanced buffer processor
+title: "IAdvancedBufferProcessor Interface"
+linktitle: "IAdvancedBufferProcessor"
+articleTitle: "IAdvancedBufferProcessor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.IAdvancedBufferProcessor interface. The advanced buffer processor."
 type: docs
-weight: 36010
-url: /net/aspose.cad/iadvancedbufferprocessor/
+weight: 320
+url: "/net/aspose.cad/iadvancedbufferprocessor/"
+product_version: "26.9"
 ---
 ## IAdvancedBufferProcessor interface
 
@@ -23,8 +26,7 @@ public interface IAdvancedBufferProcessor : IBufferProcessor
 
 ### See Also
 
-* interface [IBufferProcessor](../ibufferprocessor/)
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* interface [IBufferProcessor](../ibufferprocessor/)
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

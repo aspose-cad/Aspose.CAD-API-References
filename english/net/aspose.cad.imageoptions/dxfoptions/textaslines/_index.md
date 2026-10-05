@@ -1,10 +1,13 @@
 ---
-title: DxfOptions.TextAsLines
-second_title: Aspose.CAD for .NET API Reference
-description: DxfOptions property. Gets or sets a value indicating whether text as lines if OutputMode is Render
+title: "DxfOptions.TextAsLines"
+linktitle: "TextAsLines"
+articleTitle: "TextAsLines"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DxfOptions property. Gets or sets a value indicating whether [text as lines] if OutputMode is Render."
 type: docs
-weight: 70
-url: /net/aspose.cad.imageoptions/dxfoptions/textaslines/
+weight: 80
+url: "/net/aspose.cad.imageoptions/dxfoptions/textaslines/"
+product_version: "26.9"
 ---
 ## DxfOptions.TextAsLines property
 
@@ -20,8 +23,7 @@ public bool TextAsLines { get; set; }
 
 ### See Also
 
-* class [DxfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DxfOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

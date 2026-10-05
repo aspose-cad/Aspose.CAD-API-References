@@ -1,10 +1,13 @@
 ---
-title: ObjVertexColor.op_Equality
-second_title: Aspose.CAD for .NET API Reference
-description: ObjVertexColor method. Overloading the equality operator
+title: "ObjVertexColor.op_Equality"
+linktitle: "op_Equality"
+articleTitle: "op_Equality"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjVertexColor method. Overloading the equality operator."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.obj.vertexdata/objvertexcolor/op_equality/
+weight: 20
+url: "/net/aspose.cad.fileformats.obj.vertexdata/objvertexcolor/op_equality/"
+product_version: "26.9"
 ---
 ## ObjVertexColor Equality operator
 
@@ -25,8 +28,7 @@ The value indicating whether instances are equal.
 
 ### See Also
 
-* class [ObjVertexColor](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjVertexColor](../)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ExifData.Contrast
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the contrast
+title: "ExifData.Contrast"
+linktitle: "Contrast"
+articleTitle: "Contrast"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the contrast."
 type: docs
-weight: 110
-url: /net/aspose.cad.exif/exifdata/contrast/
+weight: 160
+url: "/net/aspose.cad.exif/exifdata/contrast/"
+product_version: "26.9"
 ---
 ## ExifData.Contrast property
 
@@ -20,9 +23,8 @@ The contrast.
 
 ### See Also
 
-* enum [ExifContrast](../../../aspose.cad.exif.enums/exifcontrast/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ExifContrast](../../../aspose.cad.exif.enums/exifcontrast/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

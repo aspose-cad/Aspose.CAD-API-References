@@ -1,14 +1,19 @@
 ---
-title: Enum TiffFillOrders
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffFillOrders enum. Data order within a byte. Possible values for FILLORDER tag
+title: "TiffFillOrders Enum"
+linktitle: "TiffFillOrders"
+articleTitle: "TiffFillOrders"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffFillOrders enum. Data order within a byte. Possible values for FILLORDER tag."
 type: docs
-weight: 35450
-url: /net/aspose.cad.fileformats.tiff.enums/tifffillorders/
+weight: 90
+url: "/net/aspose.cad.fileformats.tiff.enums/tifffillorders/"
+product_version: "26.9"
 ---
 ## TiffFillOrders enumeration
 
-Data order within a byte. Possible values for FILLORDER tag.
+Data order within a byte.
+
+ Possible values for FILLORDER tag.
 
 ```csharp
 public enum TiffFillOrders : ushort
@@ -23,7 +28,6 @@ public enum TiffFillOrders : ushort
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

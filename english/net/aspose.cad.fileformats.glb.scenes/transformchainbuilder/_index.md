@@ -1,12 +1,17 @@
 ---
-title: Struct TransformChainBuilder
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Scenes.TransformChainBuilder struct. 
+title: "TransformChainBuilder Struct"
+linktitle: "TransformChainBuilder"
+articleTitle: "TransformChainBuilder"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Scenes.TransformChainBuilder struct."
 type: docs
-weight: 11440
-url: /net/aspose.cad.fileformats.glb.scenes/transformchainbuilder/
+weight: 180
+url: "/net/aspose.cad.fileformats.glb.scenes/transformchainbuilder/"
+product_version: "26.9"
 ---
-## TransformChainBuilder structure
+## TransformChainBuilder struct
+
+
 
 ```csharp
 public struct TransformChainBuilder
@@ -16,26 +21,25 @@ public struct TransformChainBuilder
 
 | Name | Description |
 | --- | --- |
-| [TransformChainBuilder](transformchainbuilder/#constructor_2)(AffineTransform) |  |
-| [TransformChainBuilder](transformchainbuilder/#constructor)(NodeBuilder) |  |
-| [TransformChainBuilder](transformchainbuilder/#constructor_1)(NodeBuilder, AffineTransform) |  |
+| [TransformChainBuilder](transformchainbuilder/)(AffineTransform) | Initializes a new instance of the TransformChainBuilder class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Child](../../aspose.cad.fileformats.glb.scenes/transformchainbuilder/child/) { get; } |  |
-| [Parent](../../aspose.cad.fileformats.glb.scenes/transformchainbuilder/parent/) { get; } |  |
+| Child { get; } |  |
+| Parent { get; } |  |
 
-## Methods
+## Operators
 
 | Name | Description |
 | --- | --- |
-| [implicit operator](../../aspose.cad.fileformats.glb.scenes/transformchainbuilder/op_implicit/#op_implicit) |  (3 operators) |
+| operator TransformChainBuilder |  |
+| operator TransformChainBuilder |  |
+| operator TransformChainBuilder |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadClassEntity.Type
-second_title: Aspose.CAD for .NET API Reference
-description: CadClassEntity property. Gets the class type
+title: "CadClassEntity.Type"
+linktitle: "Type"
+articleTitle: "Type"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadClassEntity property. Gets the class type."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadclassentity/type/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadclassentity/type/"
+product_version: "26.9"
 ---
 ## CadClassEntity.Type property
 
@@ -20,9 +23,8 @@ The class type.
 
 ### See Also
 
-* enum [CadClassTypeName](../../cadclasstypename/)
-* class [CadClassEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadClassTypeName](../../cadclasstypename/)
+* class [CadClassEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

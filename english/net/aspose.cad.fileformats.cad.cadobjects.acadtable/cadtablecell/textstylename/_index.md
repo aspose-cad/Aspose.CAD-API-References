@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.TextStyleName
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the name of the text style
+title: "CadTableCell.TextStyleName"
+linktitle: "TextStyleName"
+articleTitle: "TextStyleName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the name of the text style."
 type: docs
-weight: 410
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/textstylename/
+weight: 170
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/textstylename/"
+product_version: "26.9"
 ---
 ## CadTableCell.TextStyleName property
 
@@ -20,8 +23,7 @@ The name of the text style.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

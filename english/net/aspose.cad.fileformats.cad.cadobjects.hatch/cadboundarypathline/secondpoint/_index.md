@@ -1,10 +1,13 @@
 ---
-title: CadBoundaryPathLine.SecondPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadBoundaryPathLine property. Gets or sets the second Point
+title: "CadBoundaryPathLine.SecondPoint"
+linktitle: "SecondPoint"
+articleTitle: "SecondPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBoundaryPathLine property. Gets or sets the second Point."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/secondpoint/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathline/secondpoint/"
+product_version: "26.9"
 ---
 ## CadBoundaryPathLine.SecondPoint property
 
@@ -20,9 +23,8 @@ The Second Point.
 
 ### See Also
 
-* class [Point2D](../../../aspose.cad.primitives/point2d/)
-* class [CadBoundaryPathLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point2D](../../../aspose.cad.primitives/point2d/)
+* class [CadBoundaryPathLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

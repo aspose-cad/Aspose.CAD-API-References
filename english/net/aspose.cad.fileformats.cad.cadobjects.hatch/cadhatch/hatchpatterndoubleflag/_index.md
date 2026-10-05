@@ -1,10 +1,13 @@
 ---
-title: CadHatch.HatchPatternDoubleFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the hatch pattern double flag
+title: "CadHatch.HatchPatternDoubleFlag"
+linktitle: "HatchPatternDoubleFlag"
+articleTitle: "HatchPatternDoubleFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the hatch pattern double flag."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatchpatterndoubleflag/
+weight: 170
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatchpatterndoubleflag/"
+product_version: "26.9"
 ---
 ## CadHatch.HatchPatternDoubleFlag property
 
@@ -16,8 +19,7 @@ public short HatchPatternDoubleFlag { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

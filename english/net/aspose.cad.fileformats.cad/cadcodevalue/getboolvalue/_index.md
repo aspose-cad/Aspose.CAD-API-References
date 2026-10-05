@@ -1,10 +1,13 @@
 ---
-title: CadCodeValue.GetBoolValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadCodeValue method. Gets the boolean value
+title: "CadCodeValue.GetBoolValue"
+linktitle: "GetBoolValue"
+articleTitle: "GetBoolValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCodeValue method. Gets the boolean value."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad/cadcodevalue/getboolvalue/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad/cadcodevalue/getboolvalue/"
+product_version: "26.9"
 ---
 ## CadCodeValue.GetBoolValue method
 
@@ -16,12 +19,11 @@ public virtual bool GetBoolValue()
 
 ### Return Value
 
-The Boolean.
+The `Boolean`.
 
 ### See Also
 
-* class [CadCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

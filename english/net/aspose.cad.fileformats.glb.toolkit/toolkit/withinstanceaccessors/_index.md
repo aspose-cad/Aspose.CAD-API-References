@@ -1,12 +1,17 @@
 ---
-title: Toolkit.WithInstanceAccessors
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. 
+title: "Toolkit.WithInstanceAccessors"
+linktitle: "WithInstanceAccessors"
+articleTitle: "WithInstanceAccessors"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method."
 type: docs
-weight: 290
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withinstanceaccessors/
+weight: 250
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withinstanceaccessors/"
+product_version: "26.9"
 ---
 ## Toolkit.WithInstanceAccessors method
+
+
 
 ```csharp
 public static MeshGpuInstancing WithInstanceAccessors(this MeshGpuInstancing instancing, 
@@ -15,10 +20,9 @@ public static MeshGpuInstancing WithInstanceAccessors(this MeshGpuInstancing ins
 
 ### See Also
 
-* class [MeshGpuInstancing](../../../aspose.cad.fileformats.glb/meshgpuinstancing/)
-* struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MeshGpuInstancing](../../../aspose.cad.fileformats.glb/meshgpuinstancing/)
+* struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

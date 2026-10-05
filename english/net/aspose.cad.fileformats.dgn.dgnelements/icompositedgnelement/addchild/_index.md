@@ -1,10 +1,13 @@
 ---
-title: ICompositeDgnElement.AddChild
-second_title: Aspose.CAD for .NET API Reference
-description: ICompositeDgnElement method. Adds element as a child
+title: "ICompositeDgnElement.AddChild"
+linktitle: "AddChild"
+articleTitle: "AddChild"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ICompositeDgnElement method. Adds element as a child"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/addchild/
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/addchild/"
+product_version: "26.9"
 ---
 ## ICompositeDgnElement.AddChild method
 
@@ -20,9 +23,8 @@ public void AddChild(DgnElementBase child)
 
 ### See Also
 
-* class [DgnElementBase](../../dgnelementbase/)
-* interface [ICompositeDgnElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementBase](../../dgnelementbase/)
+* interface [ICompositeDgnElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

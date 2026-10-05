@@ -1,10 +1,14 @@
 ---
-title: Class ColladaElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.ColladaElement class. The base COLLADA element
+title: "ColladaElement Class"
+linktitle: "ColladaElement"
+articleTitle: "ColladaElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.ColladaElement class. The base COLLADA element."
 type: docs
-weight: 7500
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/colladaelement/
+weight: 180
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/colladaelement/"
+keywords: "ColladaElement, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ColladaElement class
 
@@ -22,7 +26,6 @@ public class ColladaElement
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

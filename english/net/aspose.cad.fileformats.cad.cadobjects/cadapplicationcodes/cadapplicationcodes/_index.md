@@ -1,14 +1,18 @@
 ---
-title: CadApplicationCodes.CadApplicationCodes
-second_title: Aspose.CAD for .NET API Reference
-description: CadApplicationCodes constructor. Initializes a new instance of the CadApplicationCodes class. Initializes a new instance of the class
+title: "CadApplicationCodes.CadApplicationCodes"
+linktitle: "CadApplicationCodes"
+articleTitle: "CadApplicationCodes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadApplicationCodes constructor. Initializes a new instance of the CadApplicationCodes class. Initializes a new instance of the class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/cadapplicationcodes/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/cadapplicationcodes/"
+product_version: "26.9"
 ---
 ## CadApplicationCodes constructor
 
-Initializes a new instance of the [`CadApplicationCodes`](../) class. Initializes a new instance of the class.
+Initializes a new instance of the [`CadApplicationCodes`](../) class.
+ Initializes a new instance of the class.
 
 ```csharp
 public CadApplicationCodes(string applicationName)
@@ -20,8 +24,7 @@ public CadApplicationCodes(string applicationName)
 
 ### See Also
 
-* class [CadApplicationCodes](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadApplicationCodes](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

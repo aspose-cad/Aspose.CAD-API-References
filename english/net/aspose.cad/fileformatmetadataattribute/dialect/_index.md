@@ -1,12 +1,17 @@
 ---
-title: FileFormatMetadataAttribute.Dialect
-second_title: Aspose.CAD for .NET API Reference
-description: FileFormatMetadataAttribute property. 
+title: "FileFormatMetadataAttribute.Dialect"
+linktitle: "Dialect"
+articleTitle: "Dialect"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FileFormatMetadataAttribute property."
 type: docs
 weight: 30
-url: /net/aspose.cad/fileformatmetadataattribute/dialect/
+url: "/net/aspose.cad/fileformatmetadataattribute/dialect/"
+product_version: "26.9"
 ---
 ## FileFormatMetadataAttribute.Dialect property
+
+
 
 ```csharp
 public string Dialect { get; }
@@ -14,8 +19,7 @@ public string Dialect { get; }
 
 ### See Also
 
-* class [FileFormatMetadataAttribute](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FileFormatMetadataAttribute](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

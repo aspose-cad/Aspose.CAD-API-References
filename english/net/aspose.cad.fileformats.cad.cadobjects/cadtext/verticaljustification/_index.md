@@ -1,10 +1,13 @@
 ---
-title: CadText.VerticalJustification
-second_title: Aspose.CAD for .NET API Reference
-description: CadText property. Gets or sets the vertical justification
+title: "CadText.VerticalJustification"
+linktitle: "VerticalJustification"
+articleTitle: "VerticalJustification"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadText property. Gets or sets the vertical justification."
 type: docs
 weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadtext/verticaljustification/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadtext/verticaljustification/"
+product_version: "26.9"
 ---
 ## CadText.VerticalJustification property
 
@@ -16,8 +19,7 @@ public short VerticalJustification { get; set; }
 
 ### See Also
 
-* class [CadText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

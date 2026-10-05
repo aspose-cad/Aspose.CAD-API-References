@@ -1,12 +1,17 @@
 ---
-title: ViewportPoint.FirstPoint
-second_title: Aspose.CAD for .NET API Reference
-description: ViewportPoint property. 
+title: "ViewportPoint.FirstPoint"
+linktitle: "FirstPoint"
+articleTitle: "FirstPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ViewportPoint property."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cgm.classes/viewportpoint/firstpoint/
+url: "/net/aspose.cad.fileformats.cgm.classes/viewportpoint/firstpoint/"
+product_version: "26.9"
 ---
 ## ViewportPoint.FirstPoint property
+
+
 
 ```csharp
 public VC FirstPoint { get; set; }
@@ -14,9 +19,8 @@ public VC FirstPoint { get; set; }
 
 ### See Also
 
-* class [VC](../../vc/)
-* class [ViewportPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [VC](../../vc/)
+* class [ViewportPoint](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../../)
 

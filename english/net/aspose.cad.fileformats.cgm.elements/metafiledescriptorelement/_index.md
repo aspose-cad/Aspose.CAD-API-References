@@ -1,12 +1,17 @@
 ---
-title: Enum MetaFileDescriptorElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Elements.MetaFileDescriptorElement enum. 
+title: "MetaFileDescriptorElement Enum"
+linktitle: "MetaFileDescriptorElement"
+articleTitle: "MetaFileDescriptorElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Elements.MetaFileDescriptorElement enum."
 type: docs
-weight: 7080
-url: /net/aspose.cad.fileformats.cgm.elements/metafiledescriptorelement/
+weight: 140
+url: "/net/aspose.cad.fileformats.cgm.elements/metafiledescriptorelement/"
+product_version: "26.9"
 ---
 ## MetaFileDescriptorElement enumeration
+
+
 
 ```csharp
 public enum MetaFileDescriptorElement
@@ -44,7 +49,6 @@ public enum MetaFileDescriptorElement
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../)
 

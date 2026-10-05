@@ -1,12 +1,17 @@
 ---
-title: Enum PictureDescriptorElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Elements.PictureDescriptorElement enum. 
+title: "PictureDescriptorElement Enum"
+linktitle: "PictureDescriptorElement"
+articleTitle: "PictureDescriptorElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Elements.PictureDescriptorElement enum."
 type: docs
-weight: 7100
-url: /net/aspose.cad.fileformats.cgm.elements/picturedescriptorelement/
+weight: 160
+url: "/net/aspose.cad.fileformats.cgm.elements/picturedescriptorelement/"
+product_version: "26.9"
 ---
 ## PictureDescriptorElement enumeration
+
+
 
 ```csharp
 public enum PictureDescriptorElement
@@ -40,7 +45,6 @@ public enum PictureDescriptorElement
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../)
 

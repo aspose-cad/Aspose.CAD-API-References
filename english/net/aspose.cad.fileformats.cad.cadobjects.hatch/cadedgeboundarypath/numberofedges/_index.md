@@ -1,10 +1,13 @@
 ---
-title: CadEdgeBoundaryPath.NumberOfEdges
-second_title: Aspose.CAD for .NET API Reference
-description: CadEdgeBoundaryPath property. Gets or sets the number of edges
+title: "CadEdgeBoundaryPath.NumberOfEdges"
+linktitle: "NumberOfEdges"
+articleTitle: "NumberOfEdges"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEdgeBoundaryPath property. Gets or sets the number of edges."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/numberofedges/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/numberofedges/"
+product_version: "26.9"
 ---
 ## CadEdgeBoundaryPath.NumberOfEdges property
 
@@ -20,8 +23,7 @@ The number of edges.
 
 ### See Also
 
-* class [CadEdgeBoundaryPath](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEdgeBoundaryPath](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadAcDbPersSubentManager.Attribute90List
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcDbPersSubentManager property. Gets or sets the attribute90 list
+title: "CadAcDbPersSubentManager.Attribute90List"
+linktitle: "Attribute90List"
+articleTitle: "Attribute90List"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcDbPersSubentManager property. Gets or sets the attribute90 list."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbperssubentmanager/attribute90list/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.perssubentmanager/cadacdbperssubentmanager/attribute90list/"
+product_version: "26.9"
 ---
 ## CadAcDbPersSubentManager.Attribute90List property
 
@@ -20,8 +23,7 @@ The attribute90 list.
 
 ### See Also
 
-* class [CadAcDbPersSubentManager](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcDbPersSubentManager](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](../../../aspose.cad.fileformats.cad.cadobjects.perssubentmanager/)
+* assembly [Aspose.CAD](../../../)
 

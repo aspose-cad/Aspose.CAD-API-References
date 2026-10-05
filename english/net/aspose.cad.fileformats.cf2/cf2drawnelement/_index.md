@@ -1,10 +1,14 @@
 ---
-title: Class CF2DrawnElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.CF2.CF2DrawnElement class. The Basic of the drawn elements
+title: "CF2DrawnElement Class"
+linktitle: "CF2DrawnElement"
+articleTitle: "CF2DrawnElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.CF2.CF2DrawnElement class. The Basic of the drawn elements"
 type: docs
-weight: 840
-url: /net/aspose.cad.fileformats.cf2/cf2drawnelement/
+weight: 40
+url: "/net/aspose.cad.fileformats.cf2/cf2drawnelement/"
+keywords: "CF2DrawnElement, Aspose.CAD.FileFormats.CF2, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CF2DrawnElement class
 
@@ -18,12 +22,11 @@ public abstract class CF2DrawnElement
 
 | Name | Description |
 | --- | --- |
-| [StartPoint](../../aspose.cad.fileformats.cf2/cf2drawnelement/startpoint/) { get; set; } | The start point |
-| [TypeDElement](../../aspose.cad.fileformats.cf2/cf2drawnelement/typedelement/) { get; } | The type of the drawn element |
+| [StartPoint](../../aspose.cad.fileformats.cf2/cf2drawnelement/startpoint/) { get; set; } | The start point |
+| [TypeDElement](../../aspose.cad.fileformats.cf2/cf2drawnelement/typedelement/) { get; } | The type of the drawn element |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../)
 

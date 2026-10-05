@@ -1,10 +1,13 @@
 ---
-title: CadSpline.Weight
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpline property. Gets or sets the weight
+title: "CadSpline.Weight"
+linktitle: "Weight"
+articleTitle: "Weight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpline property. Gets or sets the weight"
 type: docs
 weight: 230
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspline/weight/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspline/weight/"
+product_version: "26.9"
 ---
 ## CadSpline.Weight property
 
@@ -16,8 +19,7 @@ public bool Weight { get; set; }
 
 ### See Also
 
-* class [CadSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

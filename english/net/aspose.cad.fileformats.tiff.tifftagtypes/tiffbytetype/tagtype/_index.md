@@ -1,10 +1,13 @@
 ---
-title: TiffByteType.TagType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffByteType property. Gets the tag type
+title: "TiffByteType.TagType"
+linktitle: "TagType"
+articleTitle: "TagType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffByteType property. Gets the tag type."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffbytetype/tagtype/
+weight: 70
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffbytetype/tagtype/"
+product_version: "26.9"
 ---
 ## TiffByteType.TagType property
 
@@ -20,9 +23,8 @@ The tag type.
 
 ### See Also
 
-* enum [TiffDataTypes](../../../aspose.cad.fileformats.tiff.enums/tiffdatatypes/)
-* class [TiffByteType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [TiffDataTypes](../../../aspose.cad.fileformats.tiff.enums/tiffdatatypes/)
+* class [TiffByteType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

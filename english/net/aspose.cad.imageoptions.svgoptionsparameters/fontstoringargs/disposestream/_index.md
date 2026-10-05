@@ -1,10 +1,13 @@
 ---
-title: FontStoringArgs.DisposeStream
-second_title: Aspose.CAD for .NET API Reference
-description: FontStoringArgs property. Gets or sets a value indicating whether destionation stream should be disposed
+title: "FontStoringArgs.DisposeStream"
+linktitle: "DisposeStream"
+articleTitle: "DisposeStream"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FontStoringArgs property. Gets or sets a value indicating whether destionation stream should be disposed."
 type: docs
-weight: 30
-url: /net/aspose.cad.imageoptions.svgoptionsparameters/fontstoringargs/disposestream/
+weight: 60
+url: "/net/aspose.cad.imageoptions.svgoptionsparameters/fontstoringargs/disposestream/"
+product_version: "26.9"
 ---
 ## FontStoringArgs.DisposeStream property
 
@@ -20,8 +23,7 @@ public bool DisposeStream { get; set; }
 
 ### See Also
 
-* class [FontStoringArgs](../)
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FontStoringArgs](../)
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
+* assembly [Aspose.CAD](../../../)
 

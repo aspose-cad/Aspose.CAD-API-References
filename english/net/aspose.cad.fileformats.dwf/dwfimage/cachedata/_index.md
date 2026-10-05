@@ -1,14 +1,19 @@
 ---
-title: DwfImage.CacheData
-second_title: Aspose.CAD for .NET API Reference
-description: DwfImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer. Depending on the loading options only the necessary part of the data can be loaded into the cache from the image data. In this case we can use this method to load all image data into the cache
+title: "DwfImage.CacheData"
+linktitle: "CacheData"
+articleTitle: "CacheData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer. Depending on the loading o..."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.dwf/dwfimage/cachedata/
+weight: 40
+url: "/net/aspose.cad.fileformats.dwf/dwfimage/cachedata/"
+product_version: "26.9"
 ---
 ## DwfImage.CacheData method
 
-Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamContainer`](../../../aspose.cad/datastreamsupporter/datastreamcontainer/). Depending on the loading options only the necessary part of the data can be loaded into the cache from the image data. In this case, we can use this method to load all image data into the cache.
+Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamContainer`](../../../aspose.cad/datastreamsupporter/datastreamcontainer/).
+ Depending on the loading options only the necessary part of the data can be loaded into the cache from the image data.
+ In this case, we can use this method to load all image data into the cache.
 
 ```csharp
 public override void CacheData()
@@ -35,9 +40,9 @@ using (FileStream stream = new FileStream(outFile, FileMode.Create))
 
     ImageOptionsBase options = new PngOptions();
     options.VectorRasterizationOptions = new CadRasterizationOptions
-                                             {
-                                                 DrawType = CadDrawTypeMode.UseObjectColor,
-                                             };
+    {
+        DrawType = CadDrawTypeMode.UseObjectColor,
+    };
 
     image.Save(stream, options);
 }
@@ -45,8 +50,7 @@ using (FileStream stream = new FileStream(outFile, FileMode.Create))
 
 ### See Also
 
-* class [DwfImage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfImage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

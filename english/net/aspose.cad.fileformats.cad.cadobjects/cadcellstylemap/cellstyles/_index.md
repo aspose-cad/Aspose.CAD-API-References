@@ -1,10 +1,13 @@
 ---
-title: CadCellStyleMap.CellStyles
-second_title: Aspose.CAD for .NET API Reference
-description: CadCellStyleMap property. Gets or sets the attrib text strings
+title: "CadCellStyleMap.CellStyles"
+linktitle: "CellStyles"
+articleTitle: "CellStyles"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCellStyleMap property. Gets or sets the attrib text strings."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadcellstylemap/cellstyles/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadcellstylemap/cellstyles/"
+product_version: "26.9"
 ---
 ## CadCellStyleMap.CellStyles property
 
@@ -16,9 +19,8 @@ public List<CadCellStyle> CellStyles { get; set; }
 
 ### See Also
 
-* class [CadCellStyle](../../cadcellstyle/)
-* class [CadCellStyleMap](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCellStyle](../../cadcellstyle/)
+* class [CadCellStyleMap](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

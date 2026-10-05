@@ -1,12 +1,17 @@
 ---
-title: DisjointPolyline.ToString
-second_title: Aspose.CAD for .NET API Reference
-description: DisjointPolyline method. 
+title: "DisjointPolyline.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DisjointPolyline method."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cgm.commands/disjointpolyline/tostring/
+weight: 50
+url: "/net/aspose.cad.fileformats.cgm.commands/disjointpolyline/tostring/"
+product_version: "26.9"
 ---
 ## DisjointPolyline.ToString method
+
+
 
 ```csharp
 public override string ToString()
@@ -14,8 +19,7 @@ public override string ToString()
 
 ### See Also
 
-* class [DisjointPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DisjointPolyline](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.WriteTo
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer method. Copies the contained data to another StreamContainer
+title: "StreamContainer.WriteTo"
+linktitle: "WriteTo"
+articleTitle: "WriteTo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer method. Copies the contained data to another StreamContainer."
 type: docs
-weight: 190
-url: /net/aspose.cad/streamcontainer/writeto/
+weight: 210
+url: "/net/aspose.cad/streamcontainer/writeto/"
+product_version: "26.9"
 ---
 ## WriteTo(StreamContainer) {#writeto}
 
@@ -20,13 +23,13 @@ public virtual void WriteTo(StreamContainer streamContainer)
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## WriteTo(StreamContainer, long) {#writeto_1}
+## WriteTo(StreamContainer, long) {#writeto_1}
 
 Copies the contained data to another [`StreamContainer`](../).
 
@@ -47,8 +50,7 @@ public virtual void WriteTo(StreamContainer streamContainer, long length)
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

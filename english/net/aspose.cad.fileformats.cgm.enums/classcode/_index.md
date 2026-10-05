@@ -1,12 +1,17 @@
 ---
-title: Enum ClassCode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Enums.ClassCode enum. 
+title: "ClassCode Enum"
+linktitle: "ClassCode"
+articleTitle: "ClassCode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Enums.ClassCode enum."
 type: docs
-weight: 7140
-url: /net/aspose.cad.fileformats.cgm.enums/classcode/
+weight: 20
+url: "/net/aspose.cad.fileformats.cgm.enums/classcode/"
+product_version: "26.9"
 ---
 ## ClassCode enumeration
+
+
 
 ```csharp
 public enum ClassCode
@@ -35,7 +40,6 @@ public enum ClassCode
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
+* assembly [Aspose.CAD](../../)
 

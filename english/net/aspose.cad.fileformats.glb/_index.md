@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.GLB
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace handles GLB files format processing
+title: "Aspose.CAD.FileFormats.GLB"
+linktitle: "Aspose.CAD.FileFormats.GLB"
+articleTitle: "Aspose.CAD.FileFormats.GLB"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace handles GLB files format processing."
 type: docs
-weight: 690
-url: /net/aspose.cad.fileformats.glb/
+weight: 10
+url: "/net/aspose.cad.fileformats.glb/"
+keywords: "Aspose.CAD.FileFormats.GLB, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace handles GLB files format processing.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -21,51 +29,36 @@ The namespace handles GLB files format processing.
 | [Camera](./camera/) | A camera's projection. A node **MAY** reference a camera to apply a transform to place the camera in the scene. |
 | [ExtensionsFactory](./extensionsfactory/) | Global extensions manager. |
 | [ExtraProperties](./extraproperties/) | Represents the base class for all glTF 2 Schema objects. |
-| [FileReaderCallback](./filereadercallback/) | Callback used for loading associated files of current model. |
 | [GlbData](./glbdata/) | The root object for a glTF asset. |
 | [GlbImage](./glbimage/) |  |
 | [GltfImage](./gltfimage/) |  |
 | [GltfImageBase](./gltfimagebase/) | Represents the base class of a serializable glTF schema2 object. Inherited by [`ExtraProperties`](../aspose.cad.fileformats.glb/extraproperties/). |
-| [ImageDecodeCallback](./imagedecodecallback/) | Callback used to intercept the loading of textures so they can be decoded by the client engine and uploaded to the GPU if neccesary. |
+| [GltfLoadOptions](./gltfloadoptions/) | Represents the loading options for GLTF/GLB image. |
 | [ImageGlb](./imageglb/) | Image data used to create a texture. Image **MAY** be referenced by an URI (or IRI) or a buffer view index. |
-| [JsonFilterCallback](./jsonfiltercallback/) | Callback used to preprocess and postprocess json before reading and after writing. |
 | [LogicalChildOfRoot](./logicalchildofroot/) | All gltf elements stored in ModelRoot must inherit from this class. |
 | [Material](./material/) | The material appearance of a primitive. |
 | [Mesh](./mesh/) | A set of primitives to be rendered. Its global transform is defined by a node that references it. |
 | [MeshGpuInstancing](./meshgpuinstancing/) | glTF extension defines instance attributes for a node with a mesh. |
 | [MeshPrimitive](./meshprimitive/) | Geometry to be rendered with the given material. |
+| [MeshPrimitiveDracoMesh](./meshprimitivedracomesh/) | Geometry to be rendered with the given material. |
 | [Node](./node/) | A node in the node hierarchy. When the node contains `skin`, all `mesh.primitives` **MUST** contain `JOINTS_0` and `WEIGHTS_0` attributes. A node **MAY** have either a `matrix` or any combination of `translation`/`rotation`/`scale` (TRS) properties. TRS properties are converted to matrices and postmultiplied in the `T * R * S` order to compose the transformation matrix; first the scale is applied to the vertices, then the rotation, and then the translation. If none are provided, the transform is the identity. When a node is targeted for animation (referenced by an animation.channel.target), `matrix` **MUST NOT** be present. |
 | [PunctualLight](./punctuallight/) | A directional, point, or spot light. |
-| [ReadSettings](./readsettings/) | Read settings and base class of ReadContext |
+| [ReadSettings](./readsettings/) | Read settings and base class of `ReadContext` |
 | [Scene](./scene/) | The root nodes of a scene. |
 | [Skin](./skin/) | Joints and matrices defining a skin. |
 | [Texture](./texture/) | A texture and its sampler. |
 | [TextureSampler](./texturesampler/) | Texture sampler properties for filtering and wrapping modes. |
 | [TextureTransform](./texturetransform/) | glTF extension that enables shifting and scaling UV coordinates on a per-texture basis |
-| [UriResolver](./uriresolver/) |  |
-| [WriteSettings](./writesettings/) | Write settings and base class of WriteContext |
-## Structures
+| [WriteSettings](./writesettings/) | Write settings and base class of `WriteContext` |
 
-| Structure | Description |
-| --- | --- |
-| [AttributeFormatTuple](./attributeformattuple/) |  |
-| [MaterialChannel](./materialchannel/) | Represents a material sub-channel, which usually contains a texture. Use [`Channels`](../aspose.cad.fileformats.glb/material/channels/) and [`FindChannel`](../aspose.cad.fileformats.glb/material/findchannel/) to access it. |
-| [NodeCurveSamplers](./nodecurvesamplers/) | Represents an proxy to acccess the animation curves of a [`Node`](../aspose.cad.fileformats.glb/node/). Use [`GetCurveSamplers`](../aspose.cad.fileformats.glb/node/getcurvesamplers/) for access. |
-| [ValueLocationTuple](./valuelocationtuple/) |  |
-| [VertexBuilderTuple&lt;TvG,TvM,TvS&gt;](./vertexbuildertuple-3/) |  |
-| [VertexColor2Texture2Tuple](./vertexcolor2texture2tuple/) |  |
-| [VertexColor2TextureTuple](./vertexcolor2texturetuple/) |  |
-| [VertexColorTexture2Tuple](./vertexcolortexture2tuple/) |  |
-| [VertexColorTextureTuple](./vertexcolortexturetuple/) |  |
-| [VertexGeometryTuple](./vertexgeometrytuple/) |  |
-| [VertexTextureTuple](./vertextexturetuple/) |  |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [ICamera](./icamera/) | Common interface for CameraOrthographic and CameraPerspective. |
+| [ICamera](./icamera/) | Common interface for `CameraOrthographic` and `CameraPerspective`. |
 | [IMaterialParameter](./imaterialparameter/) |  |
 | [IVisualNodeContainer](./ivisualnodecontainer/) | Represents an abstract interface for a visual hierarchy. Implemented by [`Node`](../aspose.cad.fileformats.glb/node/) and [`Scene`](../aspose.cad.fileformats.glb/scene/). |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -86,4 +79,28 @@ The namespace handles GLB files format processing.
 | [TextureMipMapFilter](./texturemipmapfilter/) | Minification filter. |
 | [TextureWrapMode](./texturewrapmode/) | T (V) wrapping mode. |
 
+## Structures
+
+| Structure | Description |
+| --- | --- |
+| [AttributeFormatTuple](./attributeformattuple/) |  |
+| [MaterialChannel](./materialchannel/) | Represents a material sub-channel, which usually contains a texture. |
+| [NodeCurveSamplers](./nodecurvesamplers/) | Represents an proxy to acccess the animation curves of a [`Node`](../aspose.cad.fileformats.glb/node/). Use [`GetCurveSamplers`](../aspose.cad.fileformats.glb/node/getcurvesamplers/) for access. |
+| [ValueLocationTuple](./valuelocationtuple/) |  |
+| [VertexBuilderTuple&lt;TvG, TvM, TvS&gt;](./vertexbuildertuple-3/) |  |
+| [VertexColor2Texture2Tuple](./vertexcolor2texture2tuple/) |  |
+| [VertexColor2TextureTuple](./vertexcolor2texturetuple/) |  |
+| [VertexColorTexture2Tuple](./vertexcolortexture2tuple/) |  |
+| [VertexColorTextureTuple](./vertexcolortexturetuple/) |  |
+| [VertexGeometryTuple](./vertexgeometrytuple/) |  |
+| [VertexTextureTuple](./vertextexturetuple/) |  |
+
+## Delegates
+
+| Delegate | Description |
+| --- | --- |
+| [FileReaderCallback](./filereadercallback/) | Callback used for loading associated files of current model. |
+| [ImageDecodeCallback](./imagedecodecallback/) | Callback used to intercept the loading of textures so they can be decoded by the client engine and uploaded to the GPU if neccesary. |
+| [JsonFilterCallback](./jsonfiltercallback/) | Callback used to preprocess and postprocess json before reading and after writing. |
+| [UriResolver](./uriresolver/) |  |
 

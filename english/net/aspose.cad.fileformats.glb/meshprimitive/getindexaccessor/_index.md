@@ -1,12 +1,17 @@
 ---
-title: MeshPrimitive.GetIndexAccessor
-second_title: Aspose.CAD for .NET API Reference
-description: MeshPrimitive method. 
+title: "MeshPrimitive.GetIndexAccessor"
+linktitle: "GetIndexAccessor"
+articleTitle: "GetIndexAccessor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MeshPrimitive method."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.glb/meshprimitive/getindexaccessor/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb/meshprimitive/getindexaccessor/"
+product_version: "26.9"
 ---
 ## MeshPrimitive.GetIndexAccessor method
+
+
 
 ```csharp
 public Accessor GetIndexAccessor()
@@ -14,9 +19,8 @@ public Accessor GetIndexAccessor()
 
 ### See Also
 
-* class [Accessor](../../accessor/)
-* class [MeshPrimitive](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Accessor](../../accessor/)
+* class [MeshPrimitive](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Source.Id
-second_title: Aspose.CAD for .NET API Reference
-description: Source property. Gets or sets the id
+title: "Source.Id"
+linktitle: "Id"
+articleTitle: "Id"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Source property. Gets or sets the id."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/source/id/
+weight: 60
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/source/id/"
+product_version: "26.9"
 ---
 ## Source.Id property
 
@@ -16,8 +19,7 @@ public string Id { get; set; }
 
 ### See Also
 
-* class [Source](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Source](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

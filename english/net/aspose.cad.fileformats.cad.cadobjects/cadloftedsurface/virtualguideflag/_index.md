@@ -1,10 +1,13 @@
 ---
-title: CadLoftedSurface.VirtualGuideFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadLoftedSurface property. Gets or sets a value indicating whether virtual guide flag
+title: "CadLoftedSurface.VirtualGuideFlag"
+linktitle: "VirtualGuideFlag"
+articleTitle: "VirtualGuideFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLoftedSurface property. Gets or sets a value indicating whether virtual guide flag."
 type: docs
 weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/virtualguideflag/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/virtualguideflag/"
+product_version: "26.9"
 ---
 ## CadLoftedSurface.VirtualGuideFlag property
 
@@ -16,8 +19,7 @@ public bool VirtualGuideFlag { get; set; }
 
 ### See Also
 
-* class [CadLoftedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLoftedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

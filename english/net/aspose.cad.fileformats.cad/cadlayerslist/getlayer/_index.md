@@ -1,10 +1,13 @@
 ---
-title: CadLayersList.GetLayer
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayersList method. Gets list of layers by name
+title: "CadLayersList.GetLayer"
+linktitle: "GetLayer"
+articleTitle: "GetLayer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayersList method. Gets list of layers by name."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad/cadlayerslist/getlayer/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad/cadlayerslist/getlayer/"
+product_version: "26.9"
 ---
 ## CadLayersList.GetLayer method
 
@@ -24,9 +27,8 @@ The list of [`CadLayerTable`](../../../aspose.cad.fileformats.cad.cadtables/cadl
 
 ### See Also
 
-* class [CadLayerTable](../../../aspose.cad.fileformats.cad.cadtables/cadlayertable/)
-* class [CadLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLayerTable](../../../aspose.cad.fileformats.cad.cadtables/cadlayertable/)
+* class [CadLayersList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

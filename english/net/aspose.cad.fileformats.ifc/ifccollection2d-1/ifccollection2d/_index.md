@@ -1,12 +1,15 @@
 ---
-title: IfcCollection2D1.IfcCollection2D
-second_title: Aspose.CAD for .NET API Reference
-description: IfcCollection2D constructor. Initializes a new instance of the class
+title: "IfcCollection2D<T>.IfcCollection2D<T>"
+linktitle: "IfcCollection2D<T>"
+articleTitle: "IfcCollection2D<T>"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcCollection2D constructor. Initializes a new instance of the class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.ifc/ifccollection2d-1/ifccollection2d/
+url: "/net/aspose.cad.fileformats.ifc/ifccollection2d-1/ifccollection2d/"
+product_version: "26.9"
 ---
-## IfcCollection2D&lt;T&gt; constructor
+## IfcCollection2D constructor
 
 Initializes a new instance of the class.
 
@@ -20,8 +23,7 @@ public IfcCollection2D(Type typeOfT)
 
 ### See Also
 
-* class [IfcCollection2D&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcCollection2D&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

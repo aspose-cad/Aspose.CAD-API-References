@@ -1,10 +1,13 @@
 ---
-title: DwfWhipLineCapStyle.DwfWhipLineCapStyle
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipLineCapStyle constructor. The default constructor
+title: "DwfWhipLineCapStyle.DwfWhipLineCapStyle"
+linktitle: "DwfWhipLineCapStyle"
+articleTitle: "DwfWhipLineCapStyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipLineCapStyle constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinecapstyle/dwfwhiplinecapstyle/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinecapstyle/dwfwhiplinecapstyle/"
+product_version: "26.9"
 ---
 ## DwfWhipLineCapStyle constructor
 
@@ -16,8 +19,7 @@ public DwfWhipLineCapStyle()
 
 ### See Also
 
-* class [DwfWhipLineCapStyle](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLineCapStyle](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../../)
 

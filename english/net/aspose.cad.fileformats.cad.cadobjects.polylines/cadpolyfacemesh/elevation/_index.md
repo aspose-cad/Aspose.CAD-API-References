@@ -1,10 +1,13 @@
 ---
-title: CadPolyFaceMesh.Elevation
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolyFaceMesh property. Gets or sets the elevation
+title: "CadPolyFaceMesh.Elevation"
+linktitle: "Elevation"
+articleTitle: "Elevation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolyFaceMesh property. Gets or sets the elevation."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyfacemesh/elevation/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyfacemesh/elevation/"
+product_version: "26.9"
 ---
 ## CadPolyFaceMesh.Elevation property
 
@@ -20,8 +23,7 @@ The elevation.
 
 ### See Also
 
-* class [CadPolyFaceMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolyFaceMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

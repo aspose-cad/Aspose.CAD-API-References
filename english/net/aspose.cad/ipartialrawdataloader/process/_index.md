@@ -1,12 +1,15 @@
 ---
-title: IPartialRawDataLoader.Process
-second_title: Aspose.CAD for .NET API Reference
-description: IPartialRawDataLoader method. Processes the loaded data
+title: "IPartialRawDataLoader.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IPartialRawDataLoader method. Processes the loaded data."
 type: docs
 weight: 10
-url: /net/aspose.cad/ipartialrawdataloader/process/
+url: "/net/aspose.cad/ipartialrawdataloader/process/"
+product_version: "26.9"
 ---
-## Process(Rectangle, byte[], Point, Point) {#process}
+## Process(Rectangle, byte[], Point, Point) {#process}
 
 Processes the loaded data.
 
@@ -23,15 +26,15 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end)
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* struct [Point](../../point/)
-* interface [IPartialRawDataLoader](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* struct [Rectangle](../../rectangle/)
+* struct [Point](../../point/)
+* interface [IPartialRawDataLoader](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Process(Rectangle, byte[], Point, Point, LoadOptions) {#process_1}
+## Process(Rectangle, byte[], Point, Point, LoadOptions) {#process_1}
 
 Processes the loaded data.
 
@@ -50,11 +53,10 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end,
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* struct [Point](../../point/)
-* class [LoadOptions](../../loadoptions/)
-* interface [IPartialRawDataLoader](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* struct [Point](../../point/)
+* class [LoadOptions](../../loadoptions/)
+* interface [IPartialRawDataLoader](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

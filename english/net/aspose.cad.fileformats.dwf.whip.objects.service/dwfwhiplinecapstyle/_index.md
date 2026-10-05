@@ -1,10 +1,14 @@
 ---
-title: Class DwfWhipLineCapStyle
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipLineCapStyle class. Represents line cap style
+title: "DwfWhipLineCapStyle Class"
+linktitle: "DwfWhipLineCapStyle"
+articleTitle: "DwfWhipLineCapStyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipLineCapStyle class. Represents line cap style"
 type: docs
-weight: 9980
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinecapstyle/
+weight: 50
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinecapstyle/"
+keywords: "DwfWhipLineCapStyle, Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DwfWhipLineCapStyle class
 
@@ -24,13 +28,12 @@ public class DwfWhipLineCapStyle : DwfWhipAttribute
 
 | Name | Description |
 | --- | --- |
-| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
-| [Style](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinecapstyle/style/) { get; } | Gets cap style |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
+| [Style](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinecapstyle/style/) { get; } | Gets cap style |
 
 ### See Also
 
-* class [DwfWhipAttribute](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipattribute/)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../)
-
+* class [DwfWhipAttribute](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipattribute/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../)
 

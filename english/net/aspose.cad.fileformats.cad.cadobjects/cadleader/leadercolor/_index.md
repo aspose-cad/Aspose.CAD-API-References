@@ -1,10 +1,13 @@
 ---
-title: CadLeader.LeaderColor
-second_title: Aspose.CAD for .NET API Reference
-description: CadLeader property. Gets or sets the color of the leader
+title: "CadLeader.LeaderColor"
+linktitle: "LeaderColor"
+articleTitle: "LeaderColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLeader property. Gets or sets the color of the leader."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadleader/leadercolor/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadleader/leadercolor/"
+product_version: "26.9"
 ---
 ## CadLeader.LeaderColor property
 
@@ -20,8 +23,7 @@ The color of the leader.
 
 ### See Also
 
-* class [CadLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

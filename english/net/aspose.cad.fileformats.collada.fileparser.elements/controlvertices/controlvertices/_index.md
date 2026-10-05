@@ -1,10 +1,13 @@
 ---
-title: ControlVertices.ControlVertices
-second_title: Aspose.CAD for .NET API Reference
-description: ControlVertices constructor. The default constructor
+title: "ControlVertices.ControlVertices"
+linktitle: "ControlVertices"
+articleTitle: "ControlVertices"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ControlVertices constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/controlvertices/controlvertices/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/controlvertices/controlvertices/"
+product_version: "26.9"
 ---
 ## ControlVertices constructor
 
@@ -16,8 +19,7 @@ public ControlVertices()
 
 ### See Also
 
-* class [ControlVertices](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ControlVertices](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

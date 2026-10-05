@@ -1,10 +1,13 @@
 ---
-title: TiffShortType.Value
-second_title: Aspose.CAD for .NET API Reference
-description: TiffShortType property. Gets or sets the value this data type contains
+title: "TiffShortType.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffShortType property. Gets or sets the value this data type contains."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffshorttype/value/
+weight: 80
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffshorttype/value/"
+product_version: "26.9"
 ---
 ## TiffShortType.Value property
 
@@ -26,8 +29,7 @@ The value.
 
 ### See Also
 
-* class [TiffShortType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffShortType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

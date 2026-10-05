@@ -1,10 +1,13 @@
 ---
-title: CadSpatialFilter.TransformationMatrices
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpatialFilter property. Gets or sets the transformation matrices
+title: "CadSpatialFilter.TransformationMatrices"
+linktitle: "TransformationMatrices"
+articleTitle: "TransformationMatrices"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpatialFilter property. Gets or sets the transformation matrices."
 type: docs
 weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/transformationmatrices/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspatialfilter/transformationmatrices/"
+product_version: "26.9"
 ---
 ## CadSpatialFilter.TransformationMatrices property
 
@@ -20,8 +23,7 @@ The transformation matrices.
 
 ### See Also
 
-* class [CadSpatialFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSpatialFilter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

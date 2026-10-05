@@ -1,12 +1,18 @@
 ---
-title: Class DefaultClearTextWriter
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Export.DefaultClearTextWriter class. 
+title: "DefaultClearTextWriter Class"
+linktitle: "DefaultClearTextWriter"
+articleTitle: "DefaultClearTextWriter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Export.DefaultClearTextWriter class."
 type: docs
-weight: 7260
-url: /net/aspose.cad.fileformats.cgm.export/defaultcleartextwriter/
+weight: 30
+url: "/net/aspose.cad.fileformats.cgm.export/defaultcleartextwriter/"
+keywords: "DefaultClearTextWriter, Aspose.CAD.FileFormats.Cgm.Export, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DefaultClearTextWriter class
+
+
 
 ```csharp
 public class DefaultClearTextWriter : IClearTextWriter, IDisposable
@@ -16,13 +22,13 @@ public class DefaultClearTextWriter : IClearTextWriter, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [DefaultClearTextWriter](defaultcleartextwriter/)(Stream) |  |
+| [DefaultClearTextWriter](defaultcleartextwriter/)(Stream) | Initializes a new instance of the DefaultClearTextWriter class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Messages](../../aspose.cad.fileformats.cgm.export/defaultcleartextwriter/messages/) { get; } |  |
+| [Messages](../../aspose.cad.fileformats.cgm.export/defaultcleartextwriter/messages/) { get; } |  |
 
 ## Methods
 
@@ -36,8 +42,7 @@ public class DefaultClearTextWriter : IClearTextWriter, IDisposable
 
 ### See Also
 
-* interface [IClearTextWriter](../../aspose.cad.fileformats.cgm/icleartextwriter/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../aspose.cad.fileformats.cgm.export/)
-* assembly [Aspose.CAD](../../)
-
+* interface [IClearTextWriter](../../aspose.cad.fileformats.cgm/icleartextwriter/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../aspose.cad.fileformats.cgm.export/)
+* assembly [Aspose.CAD](../../)
 

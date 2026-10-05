@@ -1,10 +1,13 @@
 ---
-title: Jpeg2000Options.Jpeg2000Options
-second_title: Aspose.CAD for .NET API Reference
-description: Jpeg2000Options constructor. Initializes a new instance of the Jpeg2000Options class
+title: "Jpeg2000Options.Jpeg2000Options"
+linktitle: "Jpeg2000Options"
+articleTitle: "Jpeg2000Options"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Jpeg2000Options constructor. Initializes a new instance of the Jpeg2000Options class."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/jpeg2000options/jpeg2000options/
+url: "/net/aspose.cad.imageoptions/jpeg2000options/jpeg2000options/"
+product_version: "26.9"
 ---
 ## Jpeg2000Options() {#constructor}
 
@@ -16,9 +19,9 @@ public Jpeg2000Options()
 
 ### See Also
 
-* class [Jpeg2000Options](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
+* class [Jpeg2000Options](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public Jpeg2000Options(Jpeg2000Options jpeg2000Options)
 
 ### See Also
 
-* class [Jpeg2000Options](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Jpeg2000Options](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

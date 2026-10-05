@@ -1,10 +1,13 @@
 ---
-title: PltImage.GetUnitTranslationCoefficient
-second_title: Aspose.CAD for .NET API Reference
-description: PltImage method. Gets unit type convert coefficient
+title: "PltImage.GetUnitTranslationCoefficient"
+linktitle: "GetUnitTranslationCoefficient"
+articleTitle: "GetUnitTranslationCoefficient"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PltImage method. Gets unit type convert coefficient"
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.plt/pltimage/getunittranslationcoefficient/
+weight: 10
+url: "/net/aspose.cad.fileformats.plt/pltimage/getunittranslationcoefficient/"
+product_version: "26.9"
 ---
 ## PltImage.GetUnitTranslationCoefficient method
 
@@ -16,7 +19,7 @@ public float GetUnitTranslationCoefficient(UnitType newUnitType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newUnitType | UnitType | new unit type |
+| newUnitType | UnitType |  |
 
 ### Return Value
 
@@ -24,9 +27,8 @@ conversion coefficient
 
 ### See Also
 
-* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
-* class [PltImage](../)
-* namespace [Aspose.CAD.FileFormats.Plt](../../../aspose.cad.fileformats.plt/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
+* class [PltImage](../)
+* namespace [Aspose.CAD.FileFormats.Plt](../../../aspose.cad.fileformats.plt/)
+* assembly [Aspose.CAD](../../../)
 

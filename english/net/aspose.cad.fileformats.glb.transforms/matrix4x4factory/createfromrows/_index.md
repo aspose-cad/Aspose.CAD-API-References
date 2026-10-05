@@ -1,12 +1,17 @@
 ---
-title: Matrix4x4Factory.CreateFromRows
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix4x4Factory method. 
+title: "Matrix4x4Factory.CreateFromRows"
+linktitle: "CreateFromRows"
+articleTitle: "CreateFromRows"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix4x4Factory method."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.glb.transforms/matrix4x4factory/createfromrows/
+weight: 30
+url: "/net/aspose.cad.fileformats.glb.transforms/matrix4x4factory/createfromrows/"
+product_version: "26.9"
 ---
-## CreateFromRows(Vector3, Vector3, Vector3) {#createfromrows}
+## CreateFromRows(Vector3, Vector3, Vector3) {#createfromrows}
+
+
 
 ```csharp
 public static Matrix4x4 CreateFromRows(Vector3 rowX, Vector3 rowY, Vector3 rowZ)
@@ -14,13 +19,15 @@ public static Matrix4x4 CreateFromRows(Vector3 rowX, Vector3 rowY, Vector3 rowZ)
 
 ### See Also
 
-* class [Matrix4x4Factory](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
-* assembly [Aspose.CAD](../../../)
+* class [Matrix4x4Factory](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## CreateFromRows(Vector3, Vector3, Vector3, Vector3) {#createfromrows_1}
+## CreateFromRows(Vector3, Vector3, Vector3, Vector3) {#createfromrows_1}
+
+
 
 ```csharp
 public static Matrix4x4 CreateFromRows(Vector3 rowX, Vector3 rowY, Vector3 rowZ, 
@@ -29,8 +36,7 @@ public static Matrix4x4 CreateFromRows(Vector3 rowX, Vector3 rowY, Vector3 rowZ,
 
 ### See Also
 
-* class [Matrix4x4Factory](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix4x4Factory](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
+* assembly [Aspose.CAD](../../../)
 

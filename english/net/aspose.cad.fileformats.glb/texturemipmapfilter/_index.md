@@ -1,10 +1,13 @@
 ---
-title: Enum TextureMipMapFilter
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.TextureMipMapFilter enum. Minification filter
+title: "TextureMipMapFilter Enum"
+linktitle: "TextureMipMapFilter"
+articleTitle: "TextureMipMapFilter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.TextureMipMapFilter enum. Minification filter."
 type: docs
-weight: 11480
-url: /net/aspose.cad.fileformats.glb/texturemipmapfilter/
+weight: 510
+url: "/net/aspose.cad.fileformats.glb/texturemipmapfilter/"
+product_version: "26.9"
 ---
 ## TextureMipMapFilter enumeration
 
@@ -28,7 +31,6 @@ public enum TextureMipMapFilter
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

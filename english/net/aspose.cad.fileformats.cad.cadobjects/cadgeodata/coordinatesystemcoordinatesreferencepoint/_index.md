@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.CoordinateSystemCoordinatesReferencePoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the coordinate system coordinates reference point
+title: "CadGeoData.CoordinateSystemCoordinatesReferencePoint"
+linktitle: "CoordinateSystemCoordinatesReferencePoint"
+articleTitle: "CoordinateSystemCoordinatesReferencePoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the coordinate system coordinates reference point."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/coordinatesystemcoordinatesreferencepoint/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/coordinatesystemcoordinatesreferencepoint/"
+product_version: "26.9"
 ---
 ## CadGeoData.CoordinateSystemCoordinatesReferencePoint property
 
@@ -20,9 +23,8 @@ The coordinate system coordinates reference point.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ReadSShortArray
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Reads an array of signed short values from the stream
+title: "TiffStreamReader.ReadSShortArray"
+linktitle: "ReadSShortArray"
+articleTitle: "ReadSShortArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Reads an array of signed short values from the stream."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsshortarray/
+weight: 200
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsshortarray/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ReadSShortArray method
 
@@ -31,8 +34,7 @@ The array of signed short values.
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

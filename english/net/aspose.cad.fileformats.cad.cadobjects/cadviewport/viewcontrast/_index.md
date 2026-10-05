@@ -1,10 +1,13 @@
 ---
-title: CadViewport.ViewContrast
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the view contrast
+title: "CadViewport.ViewContrast"
+linktitle: "ViewContrast"
+articleTitle: "ViewContrast"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the view contrast."
 type: docs
 weight: 400
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/viewcontrast/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/viewcontrast/"
+product_version: "26.9"
 ---
 ## CadViewport.ViewContrast property
 
@@ -16,8 +19,7 @@ public double? ViewContrast { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: PunctualLight.SetSpotCone
-second_title: Aspose.CAD for .NET API Reference
-description: PunctualLight method. Sets the cone angles for the Spot light
+title: "PunctualLight.SetSpotCone"
+linktitle: "SetSpotCone"
+articleTitle: "SetSpotCone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PunctualLight method. Sets the cone angles for the Spot light."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.glb/punctuallight/setspotcone/
+weight: 10
+url: "/net/aspose.cad.fileformats.glb/punctuallight/setspotcone/"
+product_version: "26.9"
 ---
 ## PunctualLight.SetSpotCone method
 
-Sets the cone angles for the Spot light.
+Sets the cone angles for the `Spot` light.
 
 ```csharp
 public void SetSpotCone(float innerConeAngle, float outerConeAngle)
@@ -21,8 +24,7 @@ public void SetSpotCone(float innerConeAngle, float outerConeAngle)
 
 ### See Also
 
-* class [PunctualLight](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PunctualLight](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

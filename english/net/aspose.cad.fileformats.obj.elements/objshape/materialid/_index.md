@@ -1,10 +1,13 @@
 ---
-title: ObjShape.MaterialId
-second_title: Aspose.CAD for .NET API Reference
-description: ObjShape property. Gets or sets the material identifier
+title: "ObjShape.MaterialId"
+linktitle: "MaterialId"
+articleTitle: "MaterialId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjShape property. Gets or sets the material identifier."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.obj.elements/objshape/materialid/
+weight: 40
+url: "/net/aspose.cad.fileformats.obj.elements/objshape/materialid/"
+product_version: "26.9"
 ---
 ## ObjShape.MaterialId property
 
@@ -20,8 +23,7 @@ The material identifier.
 
 ### See Also
 
-* class [ObjShape](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjShape](../)
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
+* assembly [Aspose.CAD](../../../)
 

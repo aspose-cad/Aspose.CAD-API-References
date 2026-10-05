@@ -1,14 +1,21 @@
 ---
-title: Enum EdgeMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.EdgeMode enum. The edge mode. The EdgeMode can instruct to render the contents of the element and all child and descendant elements without performing antialiasing including child brushes and their contents as well as contents included via resource dictionary references
+title: "EdgeMode Enum"
+linktitle: "EdgeMode"
+articleTitle: "EdgeMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.EdgeMode enum. The edge mode. The EdgeMode can instruct to render the contents of the element and all child a..."
 type: docs
-weight: 9310
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/edgemode/
+weight: 70
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/edgemode/"
+product_version: "26.9"
 ---
 ## EdgeMode enumeration
 
-The edge mode. The EdgeMode can instruct to render the contents of the element and all child and descendant elements without performing anti-aliasing, including child brushes and their contents as well as contents included via resource dictionary references.
+The edge mode.
+ The EdgeMode can instruct to render the contents of the element
+ and all child and descendant elements without performing anti-aliasing,
+ including child brushes and their contents as well as contents included
+ via resource dictionary references.
 
 ```csharp
 public enum EdgeMode
@@ -22,7 +29,6 @@ public enum EdgeMode
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,12 +1,17 @@
 ---
-title: IBinaryReader.SizeOfEnum
-second_title: Aspose.CAD for .NET API Reference
-description: IBinaryReader method. 
+title: "IBinaryReader.SizeOfEnum"
+linktitle: "SizeOfEnum"
+articleTitle: "SizeOfEnum"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IBinaryReader method."
 type: docs
-weight: 290
-url: /net/aspose.cad.fileformats.cgm/ibinaryreader/sizeofenum/
+weight: 220
+url: "/net/aspose.cad.fileformats.cgm/ibinaryreader/sizeofenum/"
+product_version: "26.9"
 ---
 ## IBinaryReader.SizeOfEnum method
+
+
 
 ```csharp
 public int SizeOfEnum()
@@ -14,8 +19,7 @@ public int SizeOfEnum()
 
 ### See Also
 
-* interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBinaryReader](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

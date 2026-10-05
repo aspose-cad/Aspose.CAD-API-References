@@ -1,10 +1,13 @@
 ---
-title: Point3D.Point3D
-second_title: Aspose.CAD for .NET API Reference
-description: Point3D constructor. Initializes a new instance of the Point3D class
+title: "Point3D.Point3D"
+linktitle: "Point3D"
+articleTitle: "Point3D"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point3D constructor. Initializes a new instance of the Point3D class"
 type: docs
 weight: 10
-url: /net/aspose.cad.primitives/point3d/point3d/
+url: "/net/aspose.cad.primitives/point3d/point3d/"
+product_version: "26.9"
 ---
 ## Point3D() {#constructor}
 
@@ -16,13 +19,56 @@ public Point3D()
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Point3D(double, double, double, double) {#constructor_3}
+## Point3D(double, double) {#constructor_1}
+
+Initializes a new instance of the Point3D class
+
+```csharp
+public Point3D(double x, double y)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Double | X value |
+| y | Double | Y value |
+
+### See Also
+
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## Point3D(double, double, double) {#constructor_2}
+
+Initializes a new instance of the Point3D class
+
+```csharp
+public Point3D(double x, double y, double z)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Double | X value |
+| y | Double | Y value |
+| z | Double | Z value |
+
+### See Also
+
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## Point3D(double, double, double, double) {#constructor_3}
 
 Initializes a new instance of the Point3D class
 
@@ -39,51 +85,7 @@ public Point3D(double x, double y, double z, double w)
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## Point3D(double, double) {#constructor_1}
-
-Initializes a new instance of the Point3D class
-
-```csharp
-public Point3D(double x, double y)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | Double | X value |
-| y | Double | Y value |
-
-### See Also
-
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## Point3D(double, double, double) {#constructor_2}
-
-Initializes a new instance of the Point3D class
-
-```csharp
-public Point3D(double x, double y, double z)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | Double | X value |
-| y | Double | Y value |
-| z | Double | Z value |
-
-### See Also
-
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

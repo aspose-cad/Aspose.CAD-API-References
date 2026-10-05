@@ -1,10 +1,14 @@
 ---
-title: Class CadDictionaryWithDefault
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary.CadDictionaryWithDefault class. Class describing Dictionary With default object
+title: "CadDictionaryWithDefault Class"
+linktitle: "CadDictionaryWithDefault"
+articleTitle: "CadDictionaryWithDefault"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary.CadDictionaryWithDefault class. Class describing Dictionary With default object."
 type: docs
-weight: 3580
-url: /net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/"
+keywords: "CadDictionaryWithDefault, Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadDictionaryWithDefault class
 
@@ -24,26 +28,26 @@ public class CadDictionaryWithDefault : CadDictionaryBase
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
-| [CloningFlag](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/cloningflag/) { get; set; } | Gets or sets cloning flag. |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
-| [EntryNames](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/entrynames/) { get; set; } | Gets or sets names of entries. |
-| [EntrySoftOwners](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/entrysoftowners/) { get; set; } | Gets or sets the entry soft owners. |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
-| [HardOwnerFlag](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/hardownerflag/) { get; set; } | Gets or sets hard owner flag. |
-| [HardPointer](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/hardpointer/) { get; set; } | Gets or sets the hard pointer. |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
-| [Item](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/item/) { get; } | Gets or sets the entry soft owner by key. |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
-| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
-| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
-| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
+| [CloningFlag](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/cloningflag/) { get; set; } | Gets or sets cloning flag. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [EntryNames](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/entrynames/) { get; set; } | Gets or sets names of entries. |
+| [EntrySoftOwners](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/entrysoftowners/) { get; set; } | Gets or sets the entry soft owners. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [HardOwnerFlag](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/hardownerflag/) { get; set; } | Gets or sets hard owner flag. |
+| [HardPointer](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/hardpointer/) { get; set; } | Gets or sets the hard pointer. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [Item](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/item/) { get; } | Gets or sets the entry soft owner by key. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods
 
@@ -52,13 +56,12 @@ public class CadDictionaryWithDefault : CadDictionaryBase
 | [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/getuid/)() | Identifier to use if object handle doesn't work. Done as method not to disturb FileComparer's property comparer |
 | [RemoveByValue](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/removebyvalue/)(string) | Removes the entry soft owner and entry name by value. |
 | [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/setuid/)(string) | Sets |
-| [TryGetValue](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/trygetvalue/)(string, out string) | Gets the entry soft owner by key. |
-| [TryGetValue](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/trygetvalue/)(string, out CadEntityAttribute, out string) | Gets the entry soft owner by key. |
+| [TryGetValue](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/trygetvalue/)(string, out string) | Gets the entry soft owner by key. |
+| [TryGetValue](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/trygetvalue/)(string, out CadEntityAttribute, out string) | Gets the entry soft owner by key. |
 
 ### See Also
 
-* class [CadDictionaryBase](../caddictionarybase/)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
-* assembly [Aspose.CAD](../../)
-
+* class [CadDictionaryBase](../caddictionarybase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
+* assembly [Aspose.CAD](../../)
 

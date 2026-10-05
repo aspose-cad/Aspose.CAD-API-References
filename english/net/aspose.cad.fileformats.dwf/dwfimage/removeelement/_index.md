@@ -1,14 +1,20 @@
 ---
-title: DwfImage.RemoveElement
-second_title: Aspose.CAD for .NET API Reference
-description: DwfImage method. Removes graphic element from specified page. Provides the ability to remove a graphic element from the image. To remove it you need to specify the page index in Pages array from which the element should be removed and the index of the element in Entities array
+title: "DwfImage.RemoveElement"
+linktitle: "RemoveElement"
+articleTitle: "RemoveElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfImage method. Removes graphic element from specified page. Provides the ability to remove a graphic element from the image. To remove it, you need to spec..."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.dwf/dwfimage/removeelement/
+weight: 20
+url: "/net/aspose.cad.fileformats.dwf/dwfimage/removeelement/"
+product_version: "26.9"
 ---
 ## DwfImage.RemoveElement method
 
-Removes graphic element from specified page. Provides the ability to remove a graphic element from the image. To remove it, you need to specify the page index in [`Pages`](../pages/) array from which the element should be removed and the index of the element in [`Entities`](../../dwfpage/entities/) array.
+Removes graphic element from specified page.
+ Provides the ability to remove a graphic element from the image.
+ To remove it, you need to specify the page index in [`Pages`](../pages/) array from which the element should be removed
+ and the index of the element in [`Entities`](../../dwfpage/entities/) array.
 
 ```csharp
 public void RemoveElement(int pageNumber, int elementIndex)
@@ -46,8 +52,7 @@ using (FileStream stream = new FileStream(outFile, FileMode.Create))
 
 ### See Also
 
-* class [DwfImage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfImage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TableStyleCellBorder.TableStyleCellBorder
-second_title: Aspose.CAD for .NET API Reference
-description: TableStyleCellBorder constructor. The default constructor
+title: "TableStyleCellBorder.TableStyleCellBorder"
+linktitle: "TableStyleCellBorder"
+articleTitle: "TableStyleCellBorder"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableStyleCellBorder constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellborder/tablestylecellborder/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellborder/tablestylecellborder/"
+product_version: "26.9"
 ---
 ## TableStyleCellBorder constructor
 
@@ -16,8 +19,7 @@ public TableStyleCellBorder()
 
 ### See Also
 
-* class [TableStyleCellBorder](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableStyleCellBorder](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

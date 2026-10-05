@@ -1,10 +1,13 @@
 ---
-title: RasterImage.LoadPartialArgb32Pixels
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Loads 32bit ARGB pixels partially by packs
+title: "RasterImage.LoadPartialArgb32Pixels"
+linktitle: "LoadPartialArgb32Pixels"
+articleTitle: "LoadPartialArgb32Pixels"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Loads 32-bit ARGB pixels partially by packs."
 type: docs
-weight: 310
-url: /net/aspose.cad/rasterimage/loadpartialargb32pixels/
+weight: 270
+url: "/net/aspose.cad/rasterimage/loadpartialargb32pixels/"
+product_version: "26.9"
 ---
 ## RasterImage.LoadPartialArgb32Pixels method
 
@@ -22,10 +25,9 @@ public void LoadPartialArgb32Pixels(Rectangle desiredRectangle,
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

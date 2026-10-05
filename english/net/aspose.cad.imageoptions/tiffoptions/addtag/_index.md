@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.AddTag
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions method. Adds a new tag
+title: "TiffOptions.AddTag"
+linktitle: "AddTag"
+articleTitle: "AddTag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions method. Adds a new tag."
 type: docs
-weight: 550
-url: /net/aspose.cad.imageoptions/tiffoptions/addtag/
+weight: 110
+url: "/net/aspose.cad.imageoptions/tiffoptions/addtag/"
+product_version: "26.9"
 ---
 ## TiffOptions.AddTag method
 
@@ -20,9 +23,8 @@ public void AddTag(TiffDataType tagToAdd)
 
 ### See Also
 
-* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

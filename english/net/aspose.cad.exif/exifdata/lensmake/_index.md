@@ -1,10 +1,13 @@
 ---
-title: ExifData.LensMake
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the maker of lens
+title: "ExifData.LensMake"
+linktitle: "LensMake"
+articleTitle: "LensMake"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the maker of lens."
 type: docs
-weight: 730
-url: /net/aspose.cad.exif/exifdata/lensmake/
+weight: 760
+url: "/net/aspose.cad.exif/exifdata/lensmake/"
+product_version: "26.9"
 ---
 ## ExifData.LensMake property
 
@@ -20,8 +23,7 @@ The lens maker.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

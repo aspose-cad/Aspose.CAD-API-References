@@ -1,10 +1,13 @@
 ---
-title: CadIntAttribute.CadIntAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: CadIntAttribute constructor. Initializes a new instance of the CadIntAttribute class
+title: "CadIntAttribute.CadIntAttribute"
+linktitle: "CadIntAttribute"
+articleTitle: "CadIntAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadIntAttribute constructor. Initializes a new instance of the CadIntAttribute class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadintattribute/cadintattribute/
+url: "/net/aspose.cad.fileformats.cad/cadintattribute/cadintattribute/"
+product_version: "26.9"
 ---
 ## CadIntAttribute constructor
 
@@ -23,10 +26,9 @@ public CadIntAttribute(CadEntityAttribute attribute, CadParameterType parameterT
 
 ### See Also
 
-* enum [CadEntityAttribute](../../cadentityattribute/)
-* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
-* class [CadIntAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
+* class [CadIntAttribute](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

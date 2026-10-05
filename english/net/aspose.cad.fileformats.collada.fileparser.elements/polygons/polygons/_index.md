@@ -1,10 +1,13 @@
 ---
-title: Polygons.Polygons
-second_title: Aspose.CAD for .NET API Reference
-description: Polygons constructor. The default constructor
+title: "Polygons.Polygons"
+linktitle: "Polygons"
+articleTitle: "Polygons"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Polygons constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/polygons/polygons/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/polygons/polygons/"
+product_version: "26.9"
 ---
 ## Polygons constructor
 
@@ -16,8 +19,7 @@ public Polygons()
 
 ### See Also
 
-* class [Polygons](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Polygons](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

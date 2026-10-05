@@ -1,37 +1,43 @@
 ---
-title: MaterialBuilder.WithMetallicRoughness
-second_title: Aspose.CAD for .NET API Reference
-description: MaterialBuilder method. 
+title: "MaterialBuilder.WithMetallicRoughness"
+linktitle: "WithMetallicRoughness"
+articleTitle: "WithMetallicRoughness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MaterialBuilder method."
 type: docs
-weight: 270
-url: /net/aspose.cad.fileformats.glb.materials/materialbuilder/withmetallicroughness/
+weight: 280
+url: "/net/aspose.cad.fileformats.glb.materials/materialbuilder/withmetallicroughness/"
+product_version: "26.9"
 ---
-## WithMetallicRoughness(float?, float?) {#withmetallicroughness_1}
+## WithMetallicRoughness(float?, float?) {#withmetallicroughness}
+
+
 
 ```csharp
-public MaterialBuilder WithMetallicRoughness(float? metallic = null, float? roughness = null)
+public MaterialBuilder WithMetallicRoughness(float? metallic = default, float? roughness = default)
 ```
 
 ### See Also
 
-* class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
+* class [MaterialBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## WithMetallicRoughness(ImageBuilder, float?, float?) {#withmetallicroughness}
+## WithMetallicRoughness(ImageBuilder, float?, float?) {#withmetallicroughness_1}
+
+
 
 ```csharp
-public MaterialBuilder WithMetallicRoughness(ImageBuilder imageFile, float? metallic = null, 
-    float? roughness = null)
+public MaterialBuilder WithMetallicRoughness(ImageBuilder imageFile, float? metallic = default, 
+    float? roughness = default)
 ```
 
 ### See Also
 
-* class [ImageBuilder](../../imagebuilder/)
-* class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MaterialBuilder](../)
+* class [ImageBuilder](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,20 @@
 ---
-title: Accessor.Stride
-second_title: Aspose.CAD for .NET API Reference
-description: Accessor property. Gets or sets the stride. The stride attribute indicates number of values to be considered a unit during each access to the array. The default value is 1 indicating that a single value is accessed. Optional attribute
+title: "Accessor.Stride"
+linktitle: "Stride"
+articleTitle: "Stride"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Accessor property. Gets or sets the stride. The stride attribute indicates number of values to be considered a unit during each access to the array. The defa..."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/accessor/stride/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/accessor/stride/"
+product_version: "26.9"
 ---
 ## Accessor.Stride property
 
-Gets or sets the stride. The stride attribute indicates number of values to be considered a unit during each access to the array. The default value is 1, indicating that a single value is accessed. Optional attribute.
+Gets or sets the stride.
+ The stride attribute indicates number of values to be considered a unit during each access to the array.
+ The default value is 1, indicating that a single value is accessed.
+ Optional attribute.
 
 ```csharp
 public ulong Stride { get; set; }
@@ -16,8 +22,7 @@ public ulong Stride { get; set; }
 
 ### See Also
 
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

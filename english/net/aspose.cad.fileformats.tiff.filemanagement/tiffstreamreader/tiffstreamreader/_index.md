@@ -1,12 +1,15 @@
 ---
-title: TiffStreamReader.TiffStreamReader
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader constructor. Initializes a new instance of the TiffStreamReader class
+title: "TiffStreamReader.TiffStreamReader"
+linktitle: "TiffStreamReader"
+articleTitle: "TiffStreamReader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader constructor. Initializes a new instance of the TiffStreamReader class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/tiffstreamreader/
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/tiffstreamreader/"
+product_version: "26.9"
 ---
-## TiffStreamReader(byte[]) {#constructor_1}
+## TiffStreamReader(byte[]) {#constructor}
 
 Initializes a new instance of the [`TiffStreamReader`](../) class.
 
@@ -20,13 +23,34 @@ public TiffStreamReader(byte[] data)
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## TiffStreamReader(byte[], int) {#constructor_2}
+## TiffStreamReader(StreamContainer) {#constructor_1}
+
+Initializes a new instance of the [`TiffStreamReader`](../) class.
+
+```csharp
+public TiffStreamReader(StreamContainer streamContainer)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| streamContainer | StreamContainer | The stream container. |
+
+### See Also
+
+* class [StreamContainer](../../../aspose.cad/streamcontainer/)
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## TiffStreamReader(byte[], int) {#constructor_2}
 
 Initializes a new instance of the [`TiffStreamReader`](../) class.
 
@@ -41,13 +65,13 @@ public TiffStreamReader(byte[] data, int startIndex)
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## TiffStreamReader(byte[], int, int) {#constructor_3}
+## TiffStreamReader(byte[], int, int) {#constructor_3}
 
 Initializes a new instance of the [`TiffStreamReader`](../) class.
 
@@ -63,29 +87,7 @@ public TiffStreamReader(byte[] data, int startIndex, int dataLength)
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## TiffStreamReader(StreamContainer) {#constructor}
-
-Initializes a new instance of the [`TiffStreamReader`](../) class.
-
-```csharp
-public TiffStreamReader(StreamContainer streamContainer)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| streamContainer | StreamContainer | The stream container. |
-
-### See Also
-
-* class [StreamContainer](../../../aspose.cad/streamcontainer/)
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

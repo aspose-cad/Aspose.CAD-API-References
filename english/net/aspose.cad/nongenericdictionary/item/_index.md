@@ -1,10 +1,13 @@
 ---
-title: NonGenericDictionary.Item
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericDictionary property. Gets or sets the element with the specified key
+title: "NonGenericDictionary.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericDictionary property. Gets or sets the element with the specified key."
 type: docs
-weight: 60
-url: /net/aspose.cad/nongenericdictionary/item/
+weight: 150
+url: "/net/aspose.cad/nongenericdictionary/item/"
+product_version: "26.9"
 ---
 ## NonGenericDictionary indexer
 
@@ -24,8 +27,7 @@ The element with the specified key.
 
 ### See Also
 
-* class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericDictionary](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

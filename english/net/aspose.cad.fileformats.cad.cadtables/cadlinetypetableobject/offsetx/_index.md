@@ -1,10 +1,13 @@
 ---
-title: CadLineTypeTableObject.OffsetX
-second_title: Aspose.CAD for .NET API Reference
-description: CadLineTypeTableObject property. Gets or sets the offset x
+title: "CadLineTypeTableObject.OffsetX"
+linktitle: "OffsetX"
+articleTitle: "OffsetX"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLineTypeTableObject property. Gets or sets the offset x."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsetx/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsetx/"
+product_version: "26.9"
 ---
 ## CadLineTypeTableObject.OffsetX property
 
@@ -16,8 +19,7 @@ public List<double> OffsetX { get; set; }
 
 ### See Also
 
-* class [CadLineTypeTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLineTypeTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

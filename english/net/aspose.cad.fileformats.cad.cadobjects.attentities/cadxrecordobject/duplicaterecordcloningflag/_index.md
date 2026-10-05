@@ -1,10 +1,13 @@
 ---
-title: CadXrecordObject.DuplicateRecordCloningFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadXrecordObject property. Gets or sets the duplicate record cloning flag
+title: "CadXrecordObject.DuplicateRecordCloningFlag"
+linktitle: "DuplicateRecordCloningFlag"
+articleTitle: "DuplicateRecordCloningFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadXrecordObject property. Gets or sets the duplicate record cloning flag."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/duplicaterecordcloningflag/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/duplicaterecordcloningflag/"
+product_version: "26.9"
 ---
 ## CadXrecordObject.DuplicateRecordCloningFlag property
 
@@ -20,8 +23,7 @@ The duplicate record cloning flag.
 
 ### See Also
 
-* class [CadXrecordObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadXrecordObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

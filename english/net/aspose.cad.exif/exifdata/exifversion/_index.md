@@ -1,10 +1,13 @@
 ---
-title: ExifData.ExifVersion
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the EXIF version
+title: "ExifData.ExifVersion"
+linktitle: "ExifVersion"
+articleTitle: "ExifVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the EXIF version."
 type: docs
-weight: 180
-url: /net/aspose.cad.exif/exifdata/exifversion/
+weight: 220
+url: "/net/aspose.cad.exif/exifdata/exifversion/"
+product_version: "26.9"
 ---
 ## ExifData.ExifVersion property
 
@@ -20,8 +23,7 @@ The EXIF version.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

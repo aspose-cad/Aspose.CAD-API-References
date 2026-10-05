@@ -1,10 +1,13 @@
 ---
-title: IColorPalette.GetArgb32Color
-second_title: Aspose.CAD for .NET API Reference
-description: IColorPalette method. Gets the 32bit ARGB palette color by index
+title: "IColorPalette.GetArgb32Color"
+linktitle: "GetArgb32Color"
+articleTitle: "GetArgb32Color"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IColorPalette method. Gets the 32-bit ARGB palette color by index."
 type: docs
-weight: 50
-url: /net/aspose.cad/icolorpalette/getargb32color/
+weight: 30
+url: "/net/aspose.cad/icolorpalette/getargb32color/"
+product_version: "26.9"
 ---
 ## IColorPalette.GetArgb32Color method
 
@@ -30,8 +33,7 @@ The color palette entry specified by the *index*.
 
 ### See Also
 
-* interface [IColorPalette](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IColorPalette](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

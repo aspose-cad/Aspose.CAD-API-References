@@ -1,10 +1,13 @@
 ---
-title: StepRepresentation.StepRepresentation
-second_title: Aspose.CAD for .NET API Reference
-description: StepRepresentation constructor. The default constructor
+title: "StepRepresentation.StepRepresentation"
+linktitle: "StepRepresentation"
+articleTitle: "StepRepresentation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepRepresentation constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stp.items/steprepresentation/steprepresentation/
+url: "/net/aspose.cad.fileformats.stp.items/steprepresentation/steprepresentation/"
+product_version: "26.9"
 ---
 ## StepRepresentation constructor
 
@@ -16,8 +19,7 @@ public StepRepresentation()
 
 ### See Also
 
-* class [StepRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepRepresentation](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

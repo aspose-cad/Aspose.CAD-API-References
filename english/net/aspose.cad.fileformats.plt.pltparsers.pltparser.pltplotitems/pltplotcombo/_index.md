@@ -1,10 +1,14 @@
 ---
-title: Class PltPlotCombo
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotCombo class. The PLT plot combo object
+title: "PltPlotCombo Class"
+linktitle: "PltPlotCombo"
+articleTitle: "PltPlotCombo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotCombo class. The PLT plot combo object."
 type: docs
-weight: 33980
-url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotcombo/
+weight: 70
+url: "/net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotcombo/"
+keywords: "PltPlotCombo, Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## PltPlotCombo class
 
@@ -18,12 +22,11 @@ public class PltPlotCombo : PltPlotObject
 
 | Name | Description |
 | --- | --- |
-| [PlotObjects](../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotcombo/plotobjects/) { get; } | Gets the combined PLT objects. |
+| [PlotObjects](../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotcombo/plotobjects/) { get; } | Gets the combined PLT objects. |
 
 ### See Also
 
-* class [PltPlotObject](../pltplotobject/)
-* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/)
-* assembly [Aspose.CAD](../../)
-
+* class [PltPlotObject](../pltplotobject/)
+* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/)
+* assembly [Aspose.CAD](../../)
 

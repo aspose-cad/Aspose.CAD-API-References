@@ -1,12 +1,17 @@
 ---
-title: CgmColor.ToString
-second_title: Aspose.CAD for .NET API Reference
-description: CgmColor method. 
+title: "CgmColor.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmColor method."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cgm.classes/cgmcolor/tostring/
+weight: 50
+url: "/net/aspose.cad.fileformats.cgm.classes/cgmcolor/tostring/"
+product_version: "26.9"
 ---
 ## CgmColor.ToString method
+
+
 
 ```csharp
 public override string ToString()
@@ -14,8 +19,7 @@ public override string ToString()
 
 ### See Also
 
-* class [CgmColor](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmColor](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../../)
 

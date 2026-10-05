@@ -1,12 +1,17 @@
 ---
-title: IBinaryWriter.WriteByte
-second_title: Aspose.CAD for .NET API Reference
-description: IBinaryWriter method. 
+title: "IBinaryWriter.WriteByte"
+linktitle: "WriteByte"
+articleTitle: "WriteByte"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IBinaryWriter method."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cgm/ibinarywriter/writebyte/
+weight: 240
+url: "/net/aspose.cad.fileformats.cgm/ibinarywriter/writebyte/"
+product_version: "26.9"
 ---
 ## IBinaryWriter.WriteByte method
+
+
 
 ```csharp
 public void WriteByte(byte data)
@@ -14,8 +19,7 @@ public void WriteByte(byte data)
 
 ### See Also
 
-* interface [IBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBinaryWriter](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

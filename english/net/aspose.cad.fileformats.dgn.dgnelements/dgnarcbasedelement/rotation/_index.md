@@ -1,10 +1,13 @@
 ---
-title: DgnArcBasedElement.Rotation
-second_title: Aspose.CAD for .NET API Reference
-description: DgnArcBasedElement property. Gets or sets Counterclockwise rotation in degrees
+title: "DgnArcBasedElement.Rotation"
+linktitle: "Rotation"
+articleTitle: "Rotation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnArcBasedElement property. Gets or sets Counterclockwise rotation in degrees"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/rotation/
+weight: 40
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/rotation/"
+product_version: "26.9"
 ---
 ## DgnArcBasedElement.Rotation property
 
@@ -16,8 +19,7 @@ public double Rotation { get; }
 
 ### See Also
 
-* class [DgnArcBasedElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnArcBasedElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadTableStyleCell.VisibilityFlag4
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableStyleCell property. Gets or sets the visibility flag4
+title: "CadTableStyleCell.VisibilityFlag4"
+linktitle: "VisibilityFlag4"
+articleTitle: "VisibilityFlag4"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableStyleCell property. Gets or sets the visibility flag4."
 type: docs
-weight: 280
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/visibilityflag4/
+weight: 210
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/visibilityflag4/"
+product_version: "26.9"
 ---
 ## CadTableStyleCell.VisibilityFlag4 property
 
@@ -20,8 +23,7 @@ The visibility flag4.
 
 ### See Also
 
-* class [CadTableStyleCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableStyleCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

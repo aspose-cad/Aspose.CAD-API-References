@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.RightBorderVisibilityFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the right border visibility flag
+title: "CadTableCell.RightBorderVisibilityFlag"
+linktitle: "RightBorderVisibilityFlag"
+articleTitle: "RightBorderVisibilityFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the right border visibility flag."
 type: docs
-weight: 360
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/rightbordervisibilityflag/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/rightbordervisibilityflag/"
+product_version: "26.9"
 ---
 ## CadTableCell.RightBorderVisibilityFlag property
 
@@ -20,8 +23,7 @@ The right border visibility flag.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

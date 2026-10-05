@@ -1,12 +1,17 @@
 ---
-title: DisjointPolyline.Lines
-second_title: Aspose.CAD for .NET API Reference
-description: DisjointPolyline property. 
+title: "DisjointPolyline.Lines"
+linktitle: "Lines"
+articleTitle: "Lines"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DisjointPolyline property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cgm.commands/disjointpolyline/lines/
+weight: 70
+url: "/net/aspose.cad.fileformats.cgm.commands/disjointpolyline/lines/"
+product_version: "26.9"
 ---
 ## DisjointPolyline.Lines property
+
+
 
 ```csharp
 public List<KeyValuePair<CgmPoint, CgmPoint>> Lines { get; set; }
@@ -14,9 +19,8 @@ public List<KeyValuePair<CgmPoint, CgmPoint>> Lines { get; set; }
 
 ### See Also
 
-* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
-* class [DisjointPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
+* class [DisjointPolyline](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

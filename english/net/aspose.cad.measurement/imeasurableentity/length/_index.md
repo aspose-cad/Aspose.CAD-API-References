@@ -1,10 +1,13 @@
 ---
-title: IMeasurableEntity.Length
-second_title: Aspose.CAD for .NET API Reference
-description: IMeasurableEntity property. Gets the length of a figure
+title: "IMeasurableEntity.Length"
+linktitle: "Length"
+articleTitle: "Length"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IMeasurableEntity property. Gets the length of a figure."
 type: docs
 weight: 20
-url: /net/aspose.cad.measurement/imeasurableentity/length/
+url: "/net/aspose.cad.measurement/imeasurableentity/length/"
+product_version: "26.9"
 ---
 ## IMeasurableEntity.Length property
 
@@ -16,8 +19,7 @@ public double Length { get; }
 
 ### See Also
 
-* interface [IMeasurableEntity](../)
-* namespace [Aspose.CAD.Measurement](../../../aspose.cad.measurement/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IMeasurableEntity](../)
+* namespace [Aspose.CAD.Measurement](../../../aspose.cad.measurement/)
+* assembly [Aspose.CAD](../../../)
 

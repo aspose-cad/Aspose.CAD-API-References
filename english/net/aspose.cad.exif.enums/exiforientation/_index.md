@@ -1,10 +1,13 @@
 ---
-title: Enum ExifOrientation
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifOrientation enum. Exif image orientation
+title: "ExifOrientation Enum"
+linktitle: "ExifOrientation"
+articleTitle: "ExifOrientation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifOrientation enum. Exif image orientation."
 type: docs
-weight: 640
-url: /net/aspose.cad.exif.enums/exiforientation/
+weight: 130
+url: "/net/aspose.cad.exif.enums/exiforientation/"
+product_version: "26.9"
 ---
 ## ExifOrientation enumeration
 
@@ -29,7 +32,6 @@ public enum ExifOrientation
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

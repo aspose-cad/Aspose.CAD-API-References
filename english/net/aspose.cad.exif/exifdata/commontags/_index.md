@@ -1,10 +1,13 @@
 ---
-title: ExifData.CommonTags
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets tags which belong to common section. This applies only to jpeg images in tiff format tiffOptions are being used instead
+title: "ExifData.CommonTags"
+linktitle: "CommonTags"
+articleTitle: "CommonTags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets tags, which belong to common section. This applies only to jpeg images, in tiff format tiffOptions are being used instead"
 type: docs
-weight: 80
-url: /net/aspose.cad.exif/exifdata/commontags/
+weight: 1120
+url: "/net/aspose.cad.exif/exifdata/commontags/"
+product_version: "26.9"
 ---
 ## ExifData.CommonTags property
 
@@ -20,9 +23,8 @@ The common section tags.
 
 ### See Also
 
-* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

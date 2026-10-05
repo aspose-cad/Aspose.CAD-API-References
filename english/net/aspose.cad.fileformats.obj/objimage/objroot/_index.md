@@ -1,14 +1,19 @@
 ---
-title: ObjImage.ObjRoot
-second_title: Aspose.CAD for .NET API Reference
-description: ObjImage property. Gets or sets root information about the drawing. ObjRoot contains data about vertices materials and shapes. Could be useful for the exposing information about faces
+title: "ObjImage.ObjRoot"
+linktitle: "ObjRoot"
+articleTitle: "ObjRoot"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjImage property. Gets or sets root information about the drawing. ObjRoot contains data about vertices, materials, and shapes. Could be useful for the expo..."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.obj/objimage/objroot/
+weight: 40
+url: "/net/aspose.cad.fileformats.obj/objimage/objroot/"
+product_version: "26.9"
 ---
 ## ObjImage.ObjRoot property
 
-Gets or sets root information about the drawing. ObjRoot contains data about vertices, materials, and shapes. Could be useful for the exposing information about faces.
+Gets or sets root information about the drawing.
+ ObjRoot contains data about vertices, materials, and shapes.
+ Could be useful for the exposing information about faces.
 
 ```csharp
 public ObjRoot ObjRoot { get; set; }
@@ -28,9 +33,8 @@ using (ObjImage objImage = (ObjImage)Image.Load(fileName))
 
 ### See Also
 
-* class [ObjRoot](../../../aspose.cad.fileformats.obj.elements/objroot/)
-* class [ObjImage](../)
-* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjRoot](../../../aspose.cad.fileformats.obj.elements/objroot/)
+* class [ObjImage](../)
+* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
+* assembly [Aspose.CAD](../../../)
 

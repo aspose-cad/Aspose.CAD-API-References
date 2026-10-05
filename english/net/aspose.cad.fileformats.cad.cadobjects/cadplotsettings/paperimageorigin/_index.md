@@ -1,10 +1,13 @@
 ---
-title: CadPlotSettings.PaperImageOrigin
-second_title: Aspose.CAD for .NET API Reference
-description: CadPlotSettings property. Gets or sets the paper image origin
+title: "CadPlotSettings.PaperImageOrigin"
+linktitle: "PaperImageOrigin"
+articleTitle: "PaperImageOrigin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPlotSettings property. Gets or sets the paper image origin."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/paperimageorigin/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/paperimageorigin/"
+product_version: "26.9"
 ---
 ## CadPlotSettings.PaperImageOrigin property
 
@@ -20,9 +23,8 @@ The paper image origin.
 
 ### See Also
 
-* class [Cad2DPoint](../../cad2dpoint/)
-* class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../cad2dpoint/)
+* class [CadPlotSettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

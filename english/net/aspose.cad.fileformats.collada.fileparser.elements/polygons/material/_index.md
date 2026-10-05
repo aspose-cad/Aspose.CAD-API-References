@@ -1,14 +1,21 @@
 ---
-title: Polygons.Material
-second_title: Aspose.CAD for .NET API Reference
-description: Polygons property. Gets or sets the material. The material attribute declares a symbol for a material. This symbol is bound to a material at the time of instantiation. If the material attribute is not specified then the lighting and shading results are application defined. Optional attribute
+title: "Polygons.Material"
+linktitle: "Material"
+articleTitle: "Material"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Polygons property. Gets or sets the material. The material attribute declares a symbol for a material. This symbol is bound to a material at the time of inst..."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/polygons/material/
+weight: 70
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/polygons/material/"
+product_version: "26.9"
 ---
 ## Polygons.Material property
 
-Gets or sets the material. The material attribute declares a symbol for a material. This symbol is bound to a material at the time of instantiation. If the material attribute is not specified then the lighting and shading results are application defined. Optional attribute.
+Gets or sets the material.
+ The material attribute declares a symbol for a material.
+ This symbol is bound to a material at the time of instantiation.
+ If the material attribute is not specified then the lighting and shading results are application defined.
+ Optional attribute.
 
 ```csharp
 public string Material { get; set; }
@@ -16,8 +23,7 @@ public string Material { get; set; }
 
 ### See Also
 
-* class [Polygons](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Polygons](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

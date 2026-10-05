@@ -1,10 +1,13 @@
 ---
-title: VectorRasterizationOptions.EmbedBackground
-second_title: Aspose.CAD for .NET API Reference
-description: VectorRasterizationOptions property. Wether background of color not equal to default background color of output format white for PDF and SVG transparent for raster should be embedded into output image if not embedded background will be default of the output render system but color of the content that depend on background color will be rendered using stated background color
+title: "VectorRasterizationOptions.EmbedBackground"
+linktitle: "EmbedBackground"
+articleTitle: "EmbedBackground"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "VectorRasterizationOptions property. Wether background of color not equal to default background color of output format (white for PDF and SVG, transparent fo..."
 type: docs
-weight: 60
-url: /net/aspose.cad.imageoptions/vectorrasterizationoptions/embedbackground/
+weight: 70
+url: "/net/aspose.cad.imageoptions/vectorrasterizationoptions/embedbackground/"
+product_version: "26.9"
 ---
 ## VectorRasterizationOptions.EmbedBackground property
 
@@ -16,8 +19,7 @@ public bool EmbedBackground { get; set; }
 
 ### See Also
 
-* class [VectorRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [VectorRasterizationOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

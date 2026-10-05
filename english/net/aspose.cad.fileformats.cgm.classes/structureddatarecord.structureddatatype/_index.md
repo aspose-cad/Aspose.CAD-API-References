@@ -1,12 +1,17 @@
 ---
-title: Enum StructuredDataRecord.StructuredDataType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Classes.StructuredDataRecordStructuredDataType enum. 
+title: "StructuredDataRecord.StructuredDataType Enum"
+linktitle: "StructuredDataRecord.StructuredDataType"
+articleTitle: "StructuredDataRecord.StructuredDataType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Classes.StructuredDataRecord.StructuredDataType enum."
 type: docs
-weight: 4710
-url: /net/aspose.cad.fileformats.cgm.classes/structureddatarecord.structureddatatype/
+weight: 90
+url: "/net/aspose.cad.fileformats.cgm.classes/structureddatarecord.structureddatatype/"
+product_version: "26.9"
 ---
 ## StructuredDataRecord.StructuredDataType enumeration
+
+
 
 ```csharp
 public enum StructuredDataType
@@ -41,8 +46,7 @@ public enum StructuredDataType
 
 ### See Also
 
-* class [StructuredDataRecord](../structureddatarecord/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../)
-
+* class [StructuredDataRecord](../structureddatarecord/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../)
 

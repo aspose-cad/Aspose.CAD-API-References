@@ -1,10 +1,13 @@
 ---
-title: CadRasterImage.UVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImage property. Gets or sets U vector
+title: "CadRasterImage.UVector"
+linktitle: "UVector"
+articleTitle: "UVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImage property. Gets or sets U vector."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/uvector/
+weight: 190
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/uvector/"
+product_version: "26.9"
 ---
 ## CadRasterImage.UVector property
 
@@ -16,9 +19,8 @@ public Cad3DPoint UVector { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

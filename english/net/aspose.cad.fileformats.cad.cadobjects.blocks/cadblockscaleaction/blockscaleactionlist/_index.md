@@ -1,10 +1,13 @@
 ---
-title: CadBlockScaleAction.BlockScaleActionList
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockScaleAction property. Gets or sets the block scale action list
+title: "CadBlockScaleAction.BlockScaleActionList"
+linktitle: "BlockScaleActionList"
+articleTitle: "BlockScaleActionList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockScaleAction property. Gets or sets the block scale action list."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockscaleaction/blockscaleactionlist/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockscaleaction/blockscaleactionlist/"
+product_version: "26.9"
 ---
 ## CadBlockScaleAction.BlockScaleActionList property
 
@@ -20,9 +23,8 @@ The block scale action list.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadBlockScaleAction](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadBlockScaleAction](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

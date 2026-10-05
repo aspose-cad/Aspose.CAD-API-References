@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.TextHeight
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the height of the text
+title: "CadMLeaderStyle.TextHeight"
+linktitle: "TextHeight"
+articleTitle: "TextHeight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the height of the text."
 type: docs
-weight: 420
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/textheight/
+weight: 270
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/textheight/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.TextHeight property
 
@@ -20,8 +23,7 @@ The height of the text.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

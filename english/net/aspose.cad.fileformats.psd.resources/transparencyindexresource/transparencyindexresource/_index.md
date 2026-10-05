@@ -1,10 +1,13 @@
 ---
-title: TransparencyIndexResource.TransparencyIndexResource
-second_title: Aspose.CAD for .NET API Reference
-description: TransparencyIndexResource constructor. Initializes a new instance of the TransparencyIndexResource class
+title: "TransparencyIndexResource.TransparencyIndexResource"
+linktitle: "TransparencyIndexResource"
+articleTitle: "TransparencyIndexResource"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TransparencyIndexResource constructor. Initializes a new instance of the TransparencyIndexResource class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.psd.resources/transparencyindexresource/transparencyindexresource/
+url: "/net/aspose.cad.fileformats.psd.resources/transparencyindexresource/transparencyindexresource/"
+product_version: "26.9"
 ---
 ## TransparencyIndexResource constructor
 
@@ -16,8 +19,7 @@ public TransparencyIndexResource()
 
 ### See Also
 
-* class [TransparencyIndexResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TransparencyIndexResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

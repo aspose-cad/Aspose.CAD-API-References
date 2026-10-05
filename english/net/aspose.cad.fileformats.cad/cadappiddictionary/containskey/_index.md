@@ -1,10 +1,13 @@
 ---
-title: CadAppIdDictionary.ContainsKey
-second_title: Aspose.CAD for .NET API Reference
-description: CadAppIdDictionary method. Determines whether CadAppIdTableObject contained within this dictionary
+title: "CadAppIdDictionary.ContainsKey"
+linktitle: "ContainsKey"
+articleTitle: "ContainsKey"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAppIdDictionary method. Determines whether CadAppIdTableObject contained within this dictionary."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad/cadappiddictionary/containskey/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad/cadappiddictionary/containskey/"
+product_version: "26.9"
 ---
 ## CadAppIdDictionary.ContainsKey method
 
@@ -24,8 +27,7 @@ True if the current dictionary contains an element with the key; otherwise, fals
 
 ### See Also
 
-* class [CadAppIdDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAppIdDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

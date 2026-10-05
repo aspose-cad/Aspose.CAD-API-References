@@ -1,10 +1,13 @@
 ---
-title: NonGenericList.NonGenericList
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericList constructor. Initializes a new instance of the NonGenericList class
+title: "NonGenericList.NonGenericList"
+linktitle: "NonGenericList"
+articleTitle: "NonGenericList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericList constructor. Initializes a new instance of the NonGenericList class."
 type: docs
 weight: 10
-url: /net/aspose.cad/nongenericlist/nongenericlist/
+url: "/net/aspose.cad/nongenericlist/nongenericlist/"
+product_version: "26.9"
 ---
 ## NonGenericList constructor
 
@@ -20,8 +23,7 @@ public NonGenericList(IList list)
 
 ### See Also
 
-* class [NonGenericList](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericList](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

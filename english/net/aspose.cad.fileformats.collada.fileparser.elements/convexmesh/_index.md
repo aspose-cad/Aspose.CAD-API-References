@@ -1,14 +1,21 @@
 ---
-title: Class ConvexMesh
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.ConvexMesh class. The convex mesh. The definition of the convex_mesh element is identical to the mesh element with the exception that instead of a complete descriptionsource vertices polygons etc. it may simply point to another geometry to derive its shape. The latter case means that the convex hull of that geometry should be computed and is indicated by the optional convex_hull_of attribute
+title: "ConvexMesh Class"
+linktitle: "ConvexMesh"
+articleTitle: "ConvexMesh"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.ConvexMesh class. The convex mesh. The definition of the convex_mesh element is identical to the mesh elem..."
 type: docs
-weight: 7540
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/convexmesh/
+weight: 220
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/convexmesh/"
+keywords: "ConvexMesh, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ConvexMesh class
 
-The convex mesh. The definition of the convex_mesh element is identical to the mesh element with the exception that instead of a complete description(source, vertices, polygons etc.), it may simply point to another geometry to derive its shape. The latter case means that the convex hull of that geometry should be computed and is indicated by the optional "convex_hull_of" attribute.
+The convex mesh.
+ The definition of the convex_mesh element is identical to the mesh element with the exception
+ that instead of a complete description(source, vertices, polygons etc.), it may simply point to another geometry to derive its shape.
+ The latter case means that the convex hull of that geometry should be computed and is indicated by the optional "convex_hull_of" attribute.
 
 ```csharp
 public class ConvexMesh : ColladaElement
@@ -24,16 +31,15 @@ public class ConvexMesh : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [ConvexHullOf](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/convexhullof/) { get; set; } | Gets or sets the convex hull of. |
-| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/extra/) { get; set; } | Gets or sets the extra. |
-| [Items](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/items/) { get; set; } | Gets or sets the items. |
-| [Source](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/source/) { get; set; } | Gets or sets the source. |
-| [Vertices](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/vertices/) { get; set; } | Gets or sets the vertices. |
+| [ConvexHullOf](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/convexhullof/) { get; set; } | Gets or sets the convex hull of. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/extra/) { get; set; } | Gets or sets the extra. |
+| [Items](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/items/) { get; set; } | Gets or sets the items. |
+| [Source](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/source/) { get; set; } | Gets or sets the source. |
+| [Vertices](../../aspose.cad.fileformats.collada.fileparser.elements/convexmesh/vertices/) { get; set; } | Gets or sets the vertices. |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum ScaleType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.ScaleType enum. Represents possible modes for automatic scale of an image
+title: "ScaleType Enum"
+linktitle: "ScaleType"
+articleTitle: "ScaleType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.ScaleType enum. Represents possible modes for automatic scale of an image."
 type: docs
-weight: 4590
-url: /net/aspose.cad.fileformats.cad/scaletype/
+weight: 340
+url: "/net/aspose.cad.fileformats.cad/scaletype/"
+product_version: "26.9"
 ---
 ## ScaleType enumeration
 
@@ -24,7 +27,6 @@ public enum ScaleType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../)
 

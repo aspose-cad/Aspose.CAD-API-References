@@ -1,10 +1,13 @@
 ---
-title: IgesImage.Height
-second_title: Aspose.CAD for .NET API Reference
-description: IgesImage property. Gets Image height
+title: "IgesImage.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IgesImage property. Gets Image height"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.iges/igesimage/height/
+weight: 50
+url: "/net/aspose.cad.fileformats.iges/igesimage/height/"
+product_version: "26.9"
 ---
 ## IgesImage.Height property
 
@@ -20,8 +23,7 @@ Image height
 
 ### See Also
 
-* class [IgesImage](../)
-* namespace [Aspose.CAD.FileFormats.Iges](../../../aspose.cad.fileformats.iges/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IgesImage](../)
+* namespace [Aspose.CAD.FileFormats.Iges](../../../aspose.cad.fileformats.iges/)
+* assembly [Aspose.CAD](../../../)
 

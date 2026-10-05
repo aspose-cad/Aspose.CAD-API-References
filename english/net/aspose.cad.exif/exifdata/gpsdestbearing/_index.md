@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSDestBearing
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the GPS bearing to the destination point
+title: "ExifData.GPSDestBearing"
+linktitle: "GPSDestBearing"
+articleTitle: "GPSDestBearing"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the GPS bearing to the destination point."
 type: docs
-weight: 400
-url: /net/aspose.cad.exif/exifdata/gpsdestbearing/
+weight: 420
+url: "/net/aspose.cad.exif/exifdata/gpsdestbearing/"
+product_version: "26.9"
 ---
 ## ExifData.GPSDestBearing property
 
@@ -20,9 +23,8 @@ The GPS bearing to the destination point.
 
 ### See Also
 
-* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

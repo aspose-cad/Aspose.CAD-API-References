@@ -1,10 +1,13 @@
 ---
-title: CadLight.AttenuationEndLimit
-second_title: Aspose.CAD for .NET API Reference
-description: CadLight property. Gets or sets the attenuation end limit
+title: "CadLight.AttenuationEndLimit"
+linktitle: "AttenuationEndLimit"
+articleTitle: "AttenuationEndLimit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLight property. Gets or sets the attenuation end limit."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/attenuationendlimit/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlight/attenuationendlimit/"
+product_version: "26.9"
 ---
 ## CadLight.AttenuationEndLimit property
 
@@ -20,8 +23,7 @@ The attenuation end limit.
 
 ### See Also
 
-* class [CadLight](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLight](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

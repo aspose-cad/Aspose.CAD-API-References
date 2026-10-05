@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.TopTextAttachmentDirection
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the top text attachment direction
+title: "CadMLeaderStyle.TopTextAttachmentDirection"
+linktitle: "TopTextAttachmentDirection"
+articleTitle: "TopTextAttachmentDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the top text attachment direction."
 type: docs
-weight: 450
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/toptextattachmentdirection/
+weight: 460
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/toptextattachmentdirection/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.TopTextAttachmentDirection property
 
@@ -20,8 +23,7 @@ The top text attachment direction.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

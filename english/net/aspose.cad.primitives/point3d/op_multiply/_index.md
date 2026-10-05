@@ -1,10 +1,13 @@
 ---
-title: Point3D.op_Multiply
-second_title: Aspose.CAD for .NET API Reference
-description: Point3D method. Implements the operator 
+title: "Point3D.op_Multiply"
+linktitle: "op_Multiply"
+articleTitle: "op_Multiply"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point3D method. Implements the operator ."
 type: docs
-weight: 200
-url: /net/aspose.cad.primitives/point3d/op_multiply/
+weight: 150
+url: "/net/aspose.cad.primitives/point3d/op_multiply/"
+product_version: "26.9"
 ---
 ## Point3D Multiply operator
 
@@ -25,8 +28,7 @@ The result of the operator.
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

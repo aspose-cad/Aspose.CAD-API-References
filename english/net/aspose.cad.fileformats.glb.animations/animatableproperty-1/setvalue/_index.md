@@ -1,12 +1,17 @@
 ---
-title: AnimatableProperty1.SetValue
-second_title: Aspose.CAD for .NET API Reference
-description: AnimatableProperty method. 
+title: "AnimatableProperty<T>.SetValue"
+linktitle: "SetValue"
+articleTitle: "SetValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AnimatableProperty method."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.glb.animations/animatableproperty-1/setvalue/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb.animations/animatableproperty-1/setvalue/"
+product_version: "26.9"
 ---
-## AnimatableProperty&lt;T&gt;.SetValue method
+## AnimatableProperty<T>.SetValue method
+
+
 
 ```csharp
 public void SetValue(params float[] elements)
@@ -14,8 +19,7 @@ public void SetValue(params float[] elements)
 
 ### See Also
 
-* class [AnimatableProperty&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AnimatableProperty&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
 

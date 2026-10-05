@@ -1,10 +1,13 @@
 ---
-title: Cad3DPoint.op_Subtraction
-second_title: Aspose.CAD for .NET API Reference
-description: Cad3DPoint method. Diff of two points
+title: "Cad3DPoint.op_Subtraction"
+linktitle: "op_Subtraction"
+articleTitle: "op_Subtraction"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad3DPoint method. Diff of two points"
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dpoint/op_subtraction/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad3dpoint/op_subtraction/"
+product_version: "26.9"
 ---
 ## Cad3DPoint Subtraction operator
 
@@ -25,8 +28,7 @@ Returns the diff
 
 ### See Also
 
-* class [Cad3DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

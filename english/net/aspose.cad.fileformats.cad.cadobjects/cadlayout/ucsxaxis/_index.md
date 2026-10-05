@@ -1,10 +1,13 @@
 ---
-title: CadLayout.UcsXAxis
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayout property. Gets or sets the UCS x axis
+title: "CadLayout.UcsXAxis"
+linktitle: "UcsXAxis"
+articleTitle: "UcsXAxis"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayout property. Gets or sets the UCS x axis."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucsxaxis/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucsxaxis/"
+product_version: "26.9"
 ---
 ## CadLayout.UcsXAxis property
 
@@ -20,9 +23,8 @@ The UCS x axis.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadLayout](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadLayout](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

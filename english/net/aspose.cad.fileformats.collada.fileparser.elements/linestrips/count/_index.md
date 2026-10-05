@@ -1,14 +1,19 @@
 ---
-title: Linestrips.Count
-second_title: Aspose.CAD for .NET API Reference
-description: Linestrips property. Gets or sets the count. The count attribute indicates the number of LINESTRIP primitives. Required attribute
+title: "Linestrips.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Linestrips property. Gets or sets the count. The count attribute indicates the number of LINESTRIP primitives. Required attribute."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/linestrips/count/
+weight: 60
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/linestrips/count/"
+product_version: "26.9"
 ---
 ## Linestrips.Count property
 
-Gets or sets the count. The count attribute indicates the number of LINESTRIP primitives. Required attribute.
+Gets or sets the count.
+ The count attribute indicates the number of LINESTRIP primitives.
+ Required attribute.
 
 ```csharp
 public ulong Count { get; set; }
@@ -16,8 +21,7 @@ public ulong Count { get; set; }
 
 ### See Also
 
-* class [Linestrips](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Linestrips](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

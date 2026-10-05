@@ -1,10 +1,13 @@
 ---
-title: CadDataTable.SoftPointerOwnserships
-second_title: Aspose.CAD for .NET API Reference
-description: CadDataTable property. Gets or sets the soft pointer ownserships
+title: "CadDataTable.SoftPointerOwnserships"
+linktitle: "SoftPointerOwnserships"
+articleTitle: "SoftPointerOwnserships"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDataTable property. Gets or sets the soft pointer ownserships."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointerownserships/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointerownserships/"
+product_version: "26.9"
 ---
 ## CadDataTable.SoftPointerOwnserships property
 
@@ -20,8 +23,7 @@ The soft pointer ownserships.
 
 ### See Also
 
-* class [CadDataTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDataTable](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
+* assembly [Aspose.CAD](../../../)
 

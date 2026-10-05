@@ -1,12 +1,17 @@
 ---
-title: DefaultBinaryWriter.WriteReal
-second_title: Aspose.CAD for .NET API Reference
-description: DefaultBinaryWriter method. 
+title: "DefaultBinaryWriter.WriteReal"
+linktitle: "WriteReal"
+articleTitle: "WriteReal"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DefaultBinaryWriter method."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.cgm.export/defaultbinarywriter/writereal/
+weight: 130
+url: "/net/aspose.cad.fileformats.cgm.export/defaultbinarywriter/writereal/"
+product_version: "26.9"
 ---
 ## DefaultBinaryWriter.WriteReal method
+
+
 
 ```csharp
 public void WriteReal(double data)
@@ -14,8 +19,7 @@ public void WriteReal(double data)
 
 ### See Also
 
-* class [DefaultBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DefaultBinaryWriter](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
+* assembly [Aspose.CAD](../../../)
 

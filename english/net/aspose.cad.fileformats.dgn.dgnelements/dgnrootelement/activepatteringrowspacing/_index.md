@@ -1,10 +1,13 @@
 ---
-title: DgnRootElement.ActivePatteringRowSpacing
-second_title: Aspose.CAD for .NET API Reference
-description: DgnRootElement property. Gets active pattering row spacing
+title: "DgnRootElement.ActivePatteringRowSpacing"
+linktitle: "ActivePatteringRowSpacing"
+articleTitle: "ActivePatteringRowSpacing"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnRootElement property. Gets active pattering row spacing"
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/activepatteringrowspacing/
+weight: 90
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/activepatteringrowspacing/"
+product_version: "26.9"
 ---
 ## DgnRootElement.ActivePatteringRowSpacing property
 
@@ -16,8 +19,7 @@ public int ActivePatteringRowSpacing { get; }
 
 ### See Also
 
-* class [DgnRootElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnRootElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

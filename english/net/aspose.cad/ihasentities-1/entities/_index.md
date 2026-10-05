@@ -1,14 +1,18 @@
 ---
-title: IHasEntities1.Entities
-second_title: Aspose.CAD for .NET API Reference
-description: IHasEntities property. Gets all entities that exist on a drawing. Could be useful for walking through them and check its properties
+title: "IHasEntities<T>.Entities"
+linktitle: "Entities"
+articleTitle: "Entities"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IHasEntities property. Gets all entities that exist on a drawing. Could be useful for walking through them and check its properties"
 type: docs
-weight: 10
-url: /net/aspose.cad/ihasentities-1/entities/
+weight: 20
+url: "/net/aspose.cad/ihasentities-1/entities/"
+product_version: "26.9"
 ---
-## IHasEntities&lt;T&gt;.Entities property
+## IHasEntities<T>.Entities property
 
-Gets all entities that exist on a drawing. Could be useful for walking through them and check its properties
+Gets all entities that exist on a drawing.
+ Could be useful for walking through them and check its properties
 
 ```csharp
 public IEnumerable<T> Entities { get; }
@@ -31,8 +35,7 @@ using (IfcImage ifcImage = (IfcImage)Image.Load(fileName))
 
 ### See Also
 
-* interface [IHasEntities&lt;T&gt;](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IHasEntities&lt;T&gt;](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

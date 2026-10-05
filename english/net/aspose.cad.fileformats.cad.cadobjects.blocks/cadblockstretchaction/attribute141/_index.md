@@ -1,10 +1,13 @@
 ---
-title: CadBlockStretchAction.Attribute141
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockStretchAction property. Gets or sets the attribute 141
+title: "CadBlockStretchAction.Attribute141"
+linktitle: "Attribute141"
+articleTitle: "Attribute141"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockStretchAction property. Gets or sets the attribute 141."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchaction/attribute141/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchaction/attribute141/"
+product_version: "26.9"
 ---
 ## CadBlockStretchAction.Attribute141 property
 
@@ -20,8 +23,7 @@ The attribute 141.
 
 ### See Also
 
-* class [CadBlockStretchAction](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockStretchAction](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

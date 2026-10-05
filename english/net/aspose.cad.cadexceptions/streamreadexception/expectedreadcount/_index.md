@@ -1,10 +1,13 @@
 ---
-title: StreamReadException.ExpectedReadCount
-second_title: Aspose.CAD for .NET API Reference
-description: StreamReadException property. Gets the expected read bytes count
+title: "StreamReadException.ExpectedReadCount"
+linktitle: "ExpectedReadCount"
+articleTitle: "ExpectedReadCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamReadException property. Gets the expected read bytes count."
 type: docs
-weight: 30
-url: /net/aspose.cad.cadexceptions/streamreadexception/expectedreadcount/
+weight: 50
+url: "/net/aspose.cad.cadexceptions/streamreadexception/expectedreadcount/"
+product_version: "26.9"
 ---
 ## StreamReadException.ExpectedReadCount property
 
@@ -20,8 +23,7 @@ The expected read bytes count.
 
 ### See Also
 
-* class [StreamReadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamReadException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 

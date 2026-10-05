@@ -1,10 +1,13 @@
 ---
-title: ISummaryInfo.CreateDateTime
-second_title: Aspose.CAD for .NET API Reference
-description: ISummaryInfo property. The date/time of drawing creation
+title: "ISummaryInfo.CreateDateTime"
+linktitle: "CreateDateTime"
+articleTitle: "CreateDateTime"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ISummaryInfo property. The date/time of drawing creation."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/isummaryinfo/createdatetime/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects/isummaryinfo/createdatetime/"
+product_version: "26.9"
 ---
 ## ISummaryInfo.CreateDateTime property
 
@@ -16,8 +19,7 @@ public DateTime CreateDateTime { get; }
 
 ### See Also
 
-* interface [ISummaryInfo](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [ISummaryInfo](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

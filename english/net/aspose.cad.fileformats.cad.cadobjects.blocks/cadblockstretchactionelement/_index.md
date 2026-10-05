@@ -1,10 +1,14 @@
 ---
-title: Class CadBlockStretchActionElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockStretchActionElement class. The Field data
+title: "CadBlockStretchActionElement Class"
+linktitle: "CadBlockStretchActionElement"
+articleTitle: "CadBlockStretchActionElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.Blocks.CadBlockStretchActionElement class. The Field data"
 type: docs
-weight: 2080
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchactionelement/
+weight: 240
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchactionelement/"
+keywords: "CadBlockStretchActionElement, Aspose.CAD.FileFormats.Cad.CadObjects.Blocks, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadBlockStretchActionElement class
 
@@ -24,11 +28,10 @@ public class CadBlockStretchActionElement
 
 | Name | Description |
 | --- | --- |
-| [ParametersList](../../aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchactionelement/parameterslist/) { get; set; } | Gets or sets the parameters list. |
+| [ParametersList](../../aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchactionelement/parameterslist/) { get; set; } | Gets or sets the parameters list. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../)
 

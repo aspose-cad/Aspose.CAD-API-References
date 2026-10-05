@@ -1,10 +1,13 @@
 ---
-title: TiffByteType.ElementSize
-second_title: Aspose.CAD for .NET API Reference
-description: TiffByteType property. Gets the element size in bytes
+title: "TiffByteType.ElementSize"
+linktitle: "ElementSize"
+articleTitle: "ElementSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffByteType property. Gets the element size in bytes."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffbytetype/elementsize/
+weight: 60
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffbytetype/elementsize/"
+product_version: "26.9"
 ---
 ## TiffByteType.ElementSize property
 
@@ -20,8 +23,7 @@ The element size in bytes.
 
 ### See Also
 
-* class [TiffByteType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffByteType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Parabola.Parabola
-second_title: Aspose.CAD for .NET API Reference
-description: Parabola constructor. The default constructor
+title: "Parabola.Parabola"
+linktitle: "Parabola"
+articleTitle: "Parabola"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Parabola constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/parabola/parabola/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/parabola/parabola/"
+product_version: "26.9"
 ---
 ## Parabola constructor
 
@@ -16,8 +19,7 @@ public Parabola()
 
 ### See Also
 
-* class [Parabola](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Parabola](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

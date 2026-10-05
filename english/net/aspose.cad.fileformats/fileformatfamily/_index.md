@@ -1,10 +1,13 @@
 ---
-title: Enum FileFormatFamily
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.FileFormatFamily enum. Represents available image families
+title: "FileFormatFamily Enum"
+linktitle: "FileFormatFamily"
+articleTitle: "FileFormatFamily"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.FileFormatFamily enum. Represents available image families"
 type: docs
-weight: 10160
-url: /net/aspose.cad.fileformats/fileformatfamily/
+weight: 20
+url: "/net/aspose.cad.fileformats/fileformatfamily/"
+product_version: "26.9"
 ---
 ## FileFormatFamily enumeration
 
@@ -38,7 +41,6 @@ public enum FileFormatFamily
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats](../../aspose.cad.fileformats/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats](../../aspose.cad.fileformats/)
+* assembly [Aspose.CAD](../../)
 

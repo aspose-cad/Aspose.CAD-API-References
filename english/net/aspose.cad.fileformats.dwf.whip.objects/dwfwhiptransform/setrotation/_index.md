@@ -1,10 +1,13 @@
 ---
-title: DwfWhipTransform.setRotation
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipTransform method. Sets rotation angle
+title: "DwfWhipTransform.setRotation"
+linktitle: "setRotation"
+articleTitle: "setRotation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipTransform method. Sets rotation angle"
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/setrotation/
+weight: 30
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/setrotation/"
+product_version: "26.9"
 ---
 ## DwfWhipTransform.setRotation method
 
@@ -20,8 +23,7 @@ public void setRotation(long rotation)
 
 ### See Also
 
-* class [DwfWhipTransform](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipTransform](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../../)
 

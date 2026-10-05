@@ -1,10 +1,13 @@
 ---
-title: ObjRoot.Shapes
-second_title: Aspose.CAD for .NET API Reference
-description: ObjRoot property. Gets or sets the shapes
+title: "ObjRoot.Shapes"
+linktitle: "Shapes"
+articleTitle: "Shapes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjRoot property. Gets or sets the shapes."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.obj.elements/objroot/shapes/
+weight: 50
+url: "/net/aspose.cad.fileformats.obj.elements/objroot/shapes/"
+product_version: "26.9"
 ---
 ## ObjRoot.Shapes property
 
@@ -20,9 +23,8 @@ The shapes.
 
 ### See Also
 
-* class [ObjShape](../../objshape/)
-* class [ObjRoot](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjShape](../../objshape/)
+* class [ObjRoot](../)
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
+* assembly [Aspose.CAD](../../../)
 

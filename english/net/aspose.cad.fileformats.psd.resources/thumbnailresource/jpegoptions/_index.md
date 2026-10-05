@@ -1,10 +1,13 @@
 ---
-title: ThumbnailResource.JpegOptions
-second_title: Aspose.CAD for .NET API Reference
-description: ThumbnailResource property. Gets or sets the JPEG options. Suitable when thumbnail resource is saved into JPEG file format only. This option has no effect when RAW format is defined
+title: "ThumbnailResource.JpegOptions"
+linktitle: "JpegOptions"
+articleTitle: "JpegOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThumbnailResource property. Gets or sets the JPEG options. Suitable when thumbnail resource is saved into JPEG file format only. This option has no effect wh..."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.psd.resources/thumbnailresource/jpegoptions/
+weight: 30
+url: "/net/aspose.cad.fileformats.psd.resources/thumbnailresource/jpegoptions/"
+product_version: "26.9"
 ---
 ## ThumbnailResource.JpegOptions property
 
@@ -20,9 +23,8 @@ The JPEG options.
 
 ### See Also
 
-* class [JpegOptions](../../../aspose.cad.imageoptions/jpegoptions/)
-* class [ThumbnailResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JpegOptions](../../../aspose.cad.imageoptions/jpegoptions/)
+* class [ThumbnailResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

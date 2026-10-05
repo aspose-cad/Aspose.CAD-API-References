@@ -1,10 +1,13 @@
 ---
-title: GifOptions.GifOptions
-second_title: Aspose.CAD for .NET API Reference
-description: GifOptions constructor. Initializes a new instance of the GifOptions class
+title: "GifOptions.GifOptions"
+linktitle: "GifOptions"
+articleTitle: "GifOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GifOptions constructor. Initializes a new instance of the GifOptions class."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/gifoptions/gifoptions/
+url: "/net/aspose.cad.imageoptions/gifoptions/gifoptions/"
+product_version: "26.9"
 ---
 ## GifOptions() {#constructor}
 
@@ -16,9 +19,9 @@ public GifOptions()
 
 ### See Also
 
-* class [GifOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
+* class [GifOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public GifOptions(GifOptions gifOptions)
 
 ### See Also
 
-* class [GifOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GifOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

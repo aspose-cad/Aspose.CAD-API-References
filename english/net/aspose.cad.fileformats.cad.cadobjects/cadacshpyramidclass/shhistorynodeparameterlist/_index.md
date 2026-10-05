@@ -1,10 +1,13 @@
 ---
-title: CadAcshPyramidClass.ShHistoryNodeParameterList
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcshPyramidClass property. Gets or sets the sh history node parameter list
+title: "CadAcshPyramidClass.ShHistoryNodeParameterList"
+linktitle: "ShHistoryNodeParameterList"
+articleTitle: "ShHistoryNodeParameterList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcshPyramidClass property. Gets or sets the sh history node parameter list."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/shhistorynodeparameterlist/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshpyramidclass/shhistorynodeparameterlist/"
+product_version: "26.9"
 ---
 ## CadAcshPyramidClass.ShHistoryNodeParameterList property
 
@@ -20,9 +23,8 @@ The sh history node parameter list.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadAcshPyramidClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadAcshPyramidClass](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

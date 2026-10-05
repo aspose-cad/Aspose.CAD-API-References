@@ -1,12 +1,15 @@
 ---
-title: TiffImageException.TiffImageException
-second_title: Aspose.CAD for .NET API Reference
-description: TiffImageException constructor. Initializes a new instance of the TiffImageException class
+title: "TiffImageException.TiffImageException"
+linktitle: "TiffImageException"
+articleTitle: "TiffImageException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffImageException constructor. Initializes a new instance of the TiffImageException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.imageformats/tiffimageexception/tiffimageexception/
+url: "/net/aspose.cad.cadexceptions.imageformats/tiffimageexception/tiffimageexception/"
+product_version: "26.9"
 ---
-## TiffImageException(string) {#constructor_1}
+## TiffImageException(string) {#constructor}
 
 Initializes a new instance of the [`TiffImageException`](../) class.
 
@@ -20,13 +23,34 @@ public TiffImageException(string message)
 
 ### See Also
 
-* class [TiffImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
+* class [TiffImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## TiffImageException(string, Exception) {#constructor_3}
+## TiffImageException(TiffOptionsError) {#constructor_1}
+
+Initializes a new instance of the [`TiffImageException`](../) class.
+
+```csharp
+public TiffImageException(TiffOptionsError error)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| error | TiffOptionsError | The error. |
+
+### See Also
+
+* enum [TiffOptionsError](../../../aspose.cad.imageoptions/tiffoptionserror/)
+* class [TiffImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## TiffImageException(string, Exception) {#constructor_2}
 
 Initializes a new instance of the [`TiffImageException`](../) class.
 
@@ -41,13 +65,13 @@ public TiffImageException(string message, Exception innerException)
 
 ### See Also
 
-* class [TiffImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
+* class [TiffImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## TiffImageException(string, TiffOptionsError) {#constructor_2}
+## TiffImageException(string, TiffOptionsError) {#constructor_3}
 
 Initializes a new instance of the [`TiffImageException`](../) class.
 
@@ -62,30 +86,8 @@ public TiffImageException(string message, TiffOptionsError error)
 
 ### See Also
 
-* enum [TiffOptionsError](../../../aspose.cad.imageoptions/tiffoptionserror/)
-* class [TiffImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## TiffImageException(TiffOptionsError) {#constructor}
-
-Initializes a new instance of the [`TiffImageException`](../) class.
-
-```csharp
-public TiffImageException(TiffOptionsError error)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| error | TiffOptionsError | The error. |
-
-### See Also
-
-* enum [TiffOptionsError](../../../aspose.cad.imageoptions/tiffoptionserror/)
-* class [TiffImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [TiffOptionsError](../../../aspose.cad.imageoptions/tiffoptionserror/)
+* class [TiffImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 

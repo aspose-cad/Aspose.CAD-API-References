@@ -1,12 +1,17 @@
 ---
-title: Struct ThreeDSVectorUV
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSVectorUV struct. 
+title: "ThreeDSVectorUV Struct"
+linktitle: "ThreeDSVectorUV"
+articleTitle: "ThreeDSVectorUV"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSVectorUV struct."
 type: docs
-weight: 35360
-url: /net/aspose.cad.fileformats.threeds.elements/threedsvectoruv/
+weight: 90
+url: "/net/aspose.cad.fileformats.threeds.elements/threedsvectoruv/"
+product_version: "26.9"
 ---
-## ThreeDSVectorUV structure
+## ThreeDSVectorUV struct
+
+
 
 ```csharp
 public struct ThreeDSVectorUV
@@ -16,24 +21,23 @@ public struct ThreeDSVectorUV
 
 | Name | Description |
 | --- | --- |
-| [ThreeDSVectorUV](threedsvectoruv/)(float, float) |  |
+| [ThreeDSVectorUV](threedsvectoruv/)(float, float) | Initializes a new instance of the ThreeDSVectorUV class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [U](../../aspose.cad.fileformats.threeds.elements/threedsvectoruv/u/) { get; set; } |  |
-| [V](../../aspose.cad.fileformats.threeds.elements/threedsvectoruv/v/) { get; set; } |  |
+| U { get; set; } |  |
+| V { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.cad.fileformats.threeds.elements/threedsvectoruv/tostring/)() |  |
+| ToString() |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../aspose.cad.fileformats.threeds.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../aspose.cad.fileformats.threeds.elements/)
+* assembly [Aspose.CAD](../../)
 

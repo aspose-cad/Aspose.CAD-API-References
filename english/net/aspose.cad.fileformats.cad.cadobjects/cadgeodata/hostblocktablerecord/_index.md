@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.HostBlockTableRecord
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the host block table record
+title: "CadGeoData.HostBlockTableRecord"
+linktitle: "HostBlockTableRecord"
+articleTitle: "HostBlockTableRecord"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the host block table record."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/hostblocktablerecord/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/hostblocktablerecord/"
+product_version: "26.9"
 ---
 ## CadGeoData.HostBlockTableRecord property
 
@@ -20,8 +23,7 @@ The host block table record.
 
 ### See Also
 
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

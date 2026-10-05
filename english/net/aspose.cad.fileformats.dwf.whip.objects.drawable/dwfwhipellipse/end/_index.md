@@ -1,10 +1,13 @@
 ---
-title: DwfWhipEllipse.End
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipEllipse property. Gets or sets End angle in 360/65536ths of a degree
+title: "DwfWhipEllipse.End"
+linktitle: "End"
+articleTitle: "End"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipEllipse property. Gets or sets End angle (in 360/65,536ths of a degree.)"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipellipse/end/
+weight: 60
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipellipse/end/"
+product_version: "26.9"
 ---
 ## DwfWhipEllipse.End property
 
@@ -16,8 +19,7 @@ public double End { get; }
 
 ### See Also
 
-* class [DwfWhipEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipEllipse](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
+* assembly [Aspose.CAD](../../../)
 

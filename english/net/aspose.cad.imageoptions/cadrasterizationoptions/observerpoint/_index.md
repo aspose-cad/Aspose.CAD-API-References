@@ -1,10 +1,13 @@
 ---
-title: CadRasterizationOptions.ObserverPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterizationOptions property. Gets or sets the observer point
+title: "CadRasterizationOptions.ObserverPoint"
+linktitle: "ObserverPoint"
+articleTitle: "ObserverPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterizationOptions property. Gets or sets the observer point."
 type: docs
-weight: 100
-url: /net/aspose.cad.imageoptions/cadrasterizationoptions/observerpoint/
+weight: 40
+url: "/net/aspose.cad.imageoptions/cadrasterizationoptions/observerpoint/"
+product_version: "26.9"
 ---
 ## CadRasterizationOptions.ObserverPoint property
 
@@ -40,9 +43,8 @@ using (CadImage cadImage = (CadImage)Image.Load(GetPath(fileName)))
 
 ### See Also
 
-* class [ObserverPoint](../../../aspose.cad.fileformats/observerpoint/)
-* class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObserverPoint](../../../aspose.cad.fileformats/observerpoint/)
+* class [CadRasterizationOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

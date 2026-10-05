@@ -1,14 +1,19 @@
 ---
-title: Contributor.Comments
-second_title: Aspose.CAD for .NET API Reference
-description: Contributor property. Gets or sets the comments. The comments element contains a string with comments from this contributor. There may be only one comments element
+title: "Contributor.Comments"
+linktitle: "Comments"
+articleTitle: "Comments"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Contributor property. Gets or sets the comments. The comments element contains a string with comments from this contributor. There may be only one comments e..."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/contributor/comments/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/contributor/comments/"
+product_version: "26.9"
 ---
 ## Contributor.Comments property
 
-Gets or sets the comments. The comments element contains a string with comments from this contributor. There may be only one comments element.
+Gets or sets the comments.
+ The comments element contains a string with comments from this contributor.
+ There may be only one comments element.
 
 ```csharp
 public string Comments { get; set; }
@@ -16,8 +21,7 @@ public string Comments { get; set; }
 
 ### See Also
 
-* class [Contributor](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Contributor](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

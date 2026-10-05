@@ -1,10 +1,13 @@
 ---
-title: PngOptions.PngOptions
-second_title: Aspose.CAD for .NET API Reference
-description: PngOptions constructor. Initializes a new instance of the PngOptions class
+title: "PngOptions.PngOptions"
+linktitle: "PngOptions"
+articleTitle: "PngOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PngOptions constructor. Initializes a new instance of the PngOptions class."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/pngoptions/pngoptions/
+url: "/net/aspose.cad.imageoptions/pngoptions/pngoptions/"
+product_version: "26.9"
 ---
 ## PngOptions() {#constructor}
 
@@ -16,9 +19,9 @@ public PngOptions()
 
 ### See Also
 
-* class [PngOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
+* class [PngOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public PngOptions(PngOptions pngOptions)
 
 ### See Also
 
-* class [PngOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PngOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

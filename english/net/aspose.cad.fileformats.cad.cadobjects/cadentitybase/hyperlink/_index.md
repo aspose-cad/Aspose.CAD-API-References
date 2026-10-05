@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.Hyperlink
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets a hyperlink to an entity and displays the hyperlink name or description if one is specified
+title: "CadEntityBase.Hyperlink"
+linktitle: "Hyperlink"
+articleTitle: "Hyperlink"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets a hyperlink to an entity and displays the hyperlink name or description (if one is specified)."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/hyperlink/
+weight: 250
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/hyperlink/"
+product_version: "26.9"
 ---
 ## CadEntityBase.Hyperlink property
 
@@ -20,8 +23,7 @@ The hyperlink name or description (if one is specified).
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

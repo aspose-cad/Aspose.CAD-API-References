@@ -1,10 +1,13 @@
 ---
-title: CifReplacingEncoderFallback.CreateFallbackBuffer
-second_title: Aspose.CAD for .NET API Reference
-description: CifReplacingEncoderFallback method. Creates the actual fallback buffer
+title: "CifReplacingEncoderFallback.CreateFallbackBuffer"
+linktitle: "CreateFallbackBuffer"
+articleTitle: "CreateFallbackBuffer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CifReplacingEncoderFallback method. Creates the actual fallback buffer"
 type: docs
-weight: 30
-url: /net/aspose.cad/cifreplacingencoderfallback/createfallbackbuffer/
+weight: 20
+url: "/net/aspose.cad/cifreplacingencoderfallback/createfallbackbuffer/"
+product_version: "26.9"
 ---
 ## CifReplacingEncoderFallback.CreateFallbackBuffer method
 
@@ -20,8 +23,7 @@ Fallback buffer
 
 ### See Also
 
-* class [CifReplacingEncoderFallback](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CifReplacingEncoderFallback](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

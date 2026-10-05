@@ -1,14 +1,19 @@
 ---
-title: Class Scale
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Scale class. The scale. The scale element contains a mathematical vector that represents the relative proportions of the X Y and Z axes of a coordinated system
+title: "Scale Class"
+linktitle: "Scale"
+articleTitle: "Scale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.Scale class. The scale. The scale element contains a mathematical vector that represents the relative prop..."
 type: docs
-weight: 8350
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/scale/
+weight: 1040
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/scale/"
+keywords: "Scale, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Scale class
 
-The scale. The scale element contains a mathematical vector that represents the relative proportions of the X, Y and Z axes of a coordinated system.
+The scale.
+ The scale element contains a mathematical vector that represents the relative proportions of the X, Y and Z axes of a coordinated system.
 
 ```csharp
 public class Scale : TargetableFloat3
@@ -24,13 +29,12 @@ public class Scale : TargetableFloat3
 
 | Name | Description |
 | --- | --- |
-| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat3/sid/) { get; set; } | Gets or sets the sid. |
-| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat3/text/) { get; set; } | Gets or sets the value float3 as text. |
+| [Sid](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat3/sid/) { get; set; } | Gets or sets the sid. |
+| [Text](../../aspose.cad.fileformats.collada.fileparser.elements/targetablefloat3/text/) { get; set; } | Gets or sets the value float3 as text. |
 
 ### See Also
 
-* class [TargetableFloat3](../targetablefloat3/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [TargetableFloat3](../targetablefloat3/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

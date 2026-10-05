@@ -1,10 +1,13 @@
 ---
-title: Delegate CadRasterizationOptions.CadRenderHandler
-second_title: Aspose.CAD for .NET API Reference
-description: Delegate to create handler to catch CadRenderResult
+title: "CadRasterizationOptions.CadRenderHandler Delegate"
+linktitle: "CadRasterizationOptions.CadRenderHandler"
+articleTitle: "CadRasterizationOptions.CadRenderHandler"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Delegate to create handler to catch CadRenderResult"
 type: docs
-weight: 36320
-url: /net/aspose.cad.imageoptions/cadrasterizationoptions.cadrenderhandler/
+weight: 60
+url: "/net/aspose.cad.imageoptions/cadrasterizationoptions.cadrenderhandler/"
+product_version: "26.9"
 ---
 ## CadRasterizationOptions.CadRenderHandler delegate
 
@@ -20,9 +23,8 @@ public delegate void CadRenderHandler(CadRenderResult result);
 
 ### See Also
 
-* class [CadRenderResult](../cadrenderresult/)
-* class [CadRasterizationOptions](../cadrasterizationoptions/)
-* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../)
-
+* class [CadRenderResult](../cadrenderresult/)
+* class [CadRasterizationOptions](../cadrasterizationoptions/)
+* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../)
 

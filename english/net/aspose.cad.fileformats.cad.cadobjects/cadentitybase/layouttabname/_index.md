@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.LayoutTabName
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets the name of the layout tab
+title: "CadEntityBase.LayoutTabName"
+linktitle: "LayoutTabName"
+articleTitle: "LayoutTabName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets the name of the layout tab."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/"
+product_version: "26.9"
 ---
 ## CadEntityBase.LayoutTabName property
 
@@ -20,8 +23,7 @@ The name of the layout tab.
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

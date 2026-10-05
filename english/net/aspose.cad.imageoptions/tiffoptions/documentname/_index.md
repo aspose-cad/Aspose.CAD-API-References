@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.DocumentName
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the name of the document
+title: "TiffOptions.DocumentName"
+linktitle: "DocumentName"
+articleTitle: "DocumentName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the name of the document."
 type: docs
-weight: 110
-url: /net/aspose.cad.imageoptions/tiffoptions/documentname/
+weight: 250
+url: "/net/aspose.cad.imageoptions/tiffoptions/documentname/"
+product_version: "26.9"
 ---
 ## TiffOptions.DocumentName property
 
@@ -20,8 +23,7 @@ The name of the document.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadUcsList.CadSymbolTableGroupCodes
-second_title: Aspose.CAD for .NET API Reference
-description: CadUcsList property. Gets or sets the cad symbol table group codes
+title: "CadUcsList.CadSymbolTableGroupCodes"
+linktitle: "CadSymbolTableGroupCodes"
+articleTitle: "CadSymbolTableGroupCodes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadUcsList property. Gets or sets the cad symbol table group codes."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad/caducslist/cadsymboltablegroupcodes/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad/caducslist/cadsymboltablegroupcodes/"
+product_version: "26.9"
 ---
 ## CadUcsList.CadSymbolTableGroupCodes property
 
@@ -20,9 +23,8 @@ The cad symbol table group codes.
 
 ### See Also
 
-* class [CadSymbolTableGroupCodes](../../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/)
-* class [CadUcsList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSymbolTableGroupCodes](../../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/)
+* class [CadUcsList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

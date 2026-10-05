@@ -1,10 +1,14 @@
 ---
-title: Class CadHatchBoundaryPathContainer
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadHatchBoundaryPathContainer class. Boundary for hatch
+title: "CadHatchBoundaryPathContainer Class"
+linktitle: "CadHatchBoundaryPathContainer"
+articleTitle: "CadHatchBoundaryPathContainer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadHatchBoundaryPathContainer class. Boundary for hatch"
 type: docs
-weight: 3690
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/"
+keywords: "CadHatchBoundaryPathContainer, Aspose.CAD.FileFormats.Cad.CadObjects.Hatch, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadHatchBoundaryPathContainer class
 
@@ -24,14 +28,13 @@ public class CadHatchBoundaryPathContainer
 
 | Name | Description |
 | --- | --- |
-| [BoundaryObjectCount](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/boundaryobjectcount/) { get; set; } | Gets or sets the boundary object count. |
-| [BoundaryPath](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/boundarypath/) { get; set; } | Gets or sets the boundary path. |
-| [PathType](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/pathtype/) { get; set; } | Gets or sets the path type. |
-| [SourceBoundaryObjects](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/sourceboundaryobjects/) { get; set; } | Gets or sets the source boundary objects. |
+| [BoundaryObjectCount](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/boundaryobjectcount/) { get; set; } | Gets or sets the boundary object count. |
+| [BoundaryPath](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/boundarypath/) { get; set; } | Gets or sets the boundary path. |
+| [PathType](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/pathtype/) { get; set; } | Gets or sets the path type. |
+| [SourceBoundaryObjects](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchboundarypathcontainer/sourceboundaryobjects/) { get; set; } | Gets or sets the source boundary objects. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../)
 

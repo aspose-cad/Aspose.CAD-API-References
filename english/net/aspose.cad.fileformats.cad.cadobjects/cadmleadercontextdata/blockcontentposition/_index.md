@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.BlockContentPosition
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets the block content position
+title: "CadMLeaderContextData.BlockContentPosition"
+linktitle: "BlockContentPosition"
+articleTitle: "BlockContentPosition"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets the block content position."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/blockcontentposition/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/blockcontentposition/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.BlockContentPosition property
 
@@ -20,9 +23,8 @@ The block content position.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

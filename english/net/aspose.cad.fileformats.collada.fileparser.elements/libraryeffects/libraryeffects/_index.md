@@ -1,10 +1,13 @@
 ---
-title: LibraryEffects.LibraryEffects
-second_title: Aspose.CAD for .NET API Reference
-description: LibraryEffects constructor. The default constructor
+title: "LibraryEffects.LibraryEffects"
+linktitle: "LibraryEffects"
+articleTitle: "LibraryEffects"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LibraryEffects constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/libraryeffects/libraryeffects/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/libraryeffects/libraryeffects/"
+product_version: "26.9"
 ---
 ## LibraryEffects constructor
 
@@ -16,8 +19,7 @@ public LibraryEffects()
 
 ### See Also
 
-* class [LibraryEffects](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [LibraryEffects](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

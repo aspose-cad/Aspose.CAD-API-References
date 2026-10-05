@@ -1,14 +1,18 @@
 ---
-title: Enum LineCap
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.LineCap enum. The line cap. Specifies the appearance of line caps
+title: "LineCap Enum"
+linktitle: "LineCap"
+articleTitle: "LineCap"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.LineCap enum. The line cap. Specifies the appearance of line caps."
 type: docs
-weight: 9390
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/linecap/
+weight: 150
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/linecap/"
+product_version: "26.9"
 ---
 ## LineCap enumeration
 
-The line cap. Specifies the appearance of line caps.
+The line cap.
+ Specifies the appearance of line caps.
 
 ```csharp
 public enum LineCap
@@ -25,7 +29,6 @@ public enum LineCap
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

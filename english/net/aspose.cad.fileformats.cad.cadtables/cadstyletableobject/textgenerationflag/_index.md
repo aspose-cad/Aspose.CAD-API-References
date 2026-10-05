@@ -1,10 +1,13 @@
 ---
-title: CadStyleTableObject.TextGenerationFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadStyleTableObject property. Gets or sets the text generation flag
+title: "CadStyleTableObject.TextGenerationFlag"
+linktitle: "TextGenerationFlag"
+articleTitle: "TextGenerationFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadStyleTableObject property. Gets or sets the text generation flag."
 type: docs
 weight: 90
-url: /net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/textgenerationflag/
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadstyletableobject/textgenerationflag/"
+product_version: "26.9"
 ---
 ## CadStyleTableObject.TextGenerationFlag property
 
@@ -16,8 +19,7 @@ public short TextGenerationFlag { get; set; }
 
 ### See Also
 
-* class [CadStyleTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadStyleTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DataStreamSupporter.DataStreamContainer
-second_title: Aspose.CAD for .NET API Reference
-description: DataStreamSupporter property. Gets the objects data stream
+title: "DataStreamSupporter.DataStreamContainer"
+linktitle: "DataStreamContainer"
+articleTitle: "DataStreamContainer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DataStreamSupporter property. Gets the object's data stream."
 type: docs
-weight: 10
-url: /net/aspose.cad/datastreamsupporter/datastreamcontainer/
+weight: 60
+url: "/net/aspose.cad/datastreamsupporter/datastreamcontainer/"
+product_version: "26.9"
 ---
 ## DataStreamSupporter.DataStreamContainer property
 
@@ -20,9 +23,8 @@ The object's data stream.
 
 ### See Also
 
-* class [StreamContainer](../../streamcontainer/)
-* class [DataStreamSupporter](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../../streamcontainer/)
+* class [DataStreamSupporter](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

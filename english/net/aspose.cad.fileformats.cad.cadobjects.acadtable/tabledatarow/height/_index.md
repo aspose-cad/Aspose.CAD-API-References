@@ -1,10 +1,13 @@
 ---
-title: TableDataRow.Height
-second_title: Aspose.CAD for .NET API Reference
-description: TableDataRow property. The row height
+title: "TableDataRow.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableDataRow property. The row height"
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/height/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/height/"
+product_version: "26.9"
 ---
 ## TableDataRow.Height property
 
@@ -16,8 +19,7 @@ public double Height { get; set; }
 
 ### See Also
 
-* class [TableDataRow](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableDataRow](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

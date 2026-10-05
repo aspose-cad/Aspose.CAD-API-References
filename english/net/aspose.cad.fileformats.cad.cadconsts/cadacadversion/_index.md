@@ -1,10 +1,13 @@
 ---
-title: Enum CadAcadVersion
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadAcadVersion enum. Autocad version enum
+title: "CadAcadVersion Enum"
+linktitle: "CadAcadVersion"
+articleTitle: "CadAcadVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadAcadVersion enum. Autocad version enum"
 type: docs
-weight: 1170
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadacadversion/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadacadversion/"
+product_version: "26.9"
 ---
 ## CadAcadVersion enumeration
 
@@ -32,7 +35,6 @@ public enum CadAcadVersion
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: BitmapImage.LoadOptions
-second_title: Aspose.CAD for .NET API Reference
-description: BitmapImage property. Options this image was loaded with
+title: "BitmapImage.LoadOptions"
+linktitle: "LoadOptions"
+articleTitle: "LoadOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BitmapImage property. Options this image was loaded with."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.bitmap/bitmapimage/loadoptions/
+url: "/net/aspose.cad.fileformats.bitmap/bitmapimage/loadoptions/"
+product_version: "26.9"
 ---
 ## BitmapImage.LoadOptions property
 
@@ -16,9 +19,8 @@ public LoadOptions LoadOptions { get; }
 
 ### See Also
 
-* class [LoadOptions](../../../aspose.cad/loadoptions/)
-* class [BitmapImage](../)
-* namespace [Aspose.CAD.FileFormats.Bitmap](../../../aspose.cad.fileformats.bitmap/)
-* assembly [Aspose.CAD](../../../)
-
+* class [LoadOptions](../../../aspose.cad/loadoptions/)
+* class [BitmapImage](../)
+* namespace [Aspose.CAD.FileFormats.Bitmap](../../../aspose.cad.fileformats.bitmap/)
+* assembly [Aspose.CAD](../../../)
 

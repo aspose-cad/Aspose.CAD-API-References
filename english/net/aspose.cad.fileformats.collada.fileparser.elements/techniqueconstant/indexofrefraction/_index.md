@@ -1,14 +1,18 @@
 ---
-title: TechniqueConstant.IndexOfRefraction
-second_title: Aspose.CAD for .NET API Reference
-description: TechniqueConstant property. Gets or sets the index of refraction. Declares the index of refraction for perfectly refracted light as a single scalar index
+title: "TechniqueConstant.IndexOfRefraction"
+linktitle: "IndexOfRefraction"
+articleTitle: "IndexOfRefraction"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TechniqueConstant property. Gets or sets the index of refraction. Declares the index of refraction for perfectly refracted light as a single scalar index."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniqueconstant/indexofrefraction/
+weight: 70
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/techniqueconstant/indexofrefraction/"
+product_version: "26.9"
 ---
 ## TechniqueConstant.IndexOfRefraction property
 
-Gets or sets the index of refraction. Declares the index of refraction for perfectly refracted light as a single scalar index.
+Gets or sets the index of refraction.
+ Declares the index of refraction for perfectly refracted light as a single scalar index.
 
 ```csharp
 public FxCommonFloatOrParameter IndexOfRefraction { get; set; }
@@ -16,9 +20,8 @@ public FxCommonFloatOrParameter IndexOfRefraction { get; set; }
 
 ### See Also
 
-* class [FxCommonFloatOrParameter](../../fxcommonfloatorparameter/)
-* class [TechniqueConstant](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonFloatOrParameter](../../fxcommonfloatorparameter/)
+* class [TechniqueConstant](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

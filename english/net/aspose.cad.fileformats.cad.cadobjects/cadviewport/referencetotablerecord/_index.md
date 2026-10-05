@@ -1,10 +1,13 @@
 ---
-title: CadViewport.ReferenceToTableRecord
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the reference to table record
+title: "CadViewport.ReferenceToTableRecord"
+linktitle: "ReferenceToTableRecord"
+articleTitle: "ReferenceToTableRecord"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the reference to table record."
 type: docs
 weight: 250
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/referencetotablerecord/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/referencetotablerecord/"
+product_version: "26.9"
 ---
 ## CadViewport.ReferenceToTableRecord property
 
@@ -16,8 +19,7 @@ public string ReferenceToTableRecord { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: RasterImage.Grayscale
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Transformation of an image to its grayscale representation
+title: "RasterImage.Grayscale"
+linktitle: "Grayscale"
+articleTitle: "Grayscale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Transformation of an image to its grayscale representation"
 type: docs
-weight: 280
-url: /net/aspose.cad/rasterimage/grayscale/
+weight: 100
+url: "/net/aspose.cad/rasterimage/grayscale/"
+product_version: "26.9"
 ---
 ## RasterImage.Grayscale method
 
@@ -16,8 +19,7 @@ public abstract void Grayscale()
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

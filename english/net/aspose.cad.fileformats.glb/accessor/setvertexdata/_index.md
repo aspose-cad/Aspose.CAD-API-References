@@ -1,12 +1,17 @@
 ---
-title: Accessor.SetVertexData
-second_title: Aspose.CAD for .NET API Reference
-description: Accessor method. 
+title: "Accessor.SetVertexData"
+linktitle: "SetVertexData"
+articleTitle: "SetVertexData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Accessor method."
 type: docs
-weight: 240
-url: /net/aspose.cad.fileformats.glb/accessor/setvertexdata/
+weight: 100
+url: "/net/aspose.cad.fileformats.glb/accessor/setvertexdata/"
+product_version: "26.9"
 ---
-## SetVertexData(MemoryAccessor) {#setvertexdata_1}
+## SetVertexData(MemoryAccessor) {#setvertexdata}
+
+
 
 ```csharp
 public void SetVertexData(MemoryAccessor src)
@@ -14,14 +19,14 @@ public void SetVertexData(MemoryAccessor src)
 
 ### See Also
 
-* class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
+* class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## SetVertexData(BufferView, int, int, DimensionType, EncodingType, bool) {#setvertexdata}
+## SetVertexData(BufferView, int, int, DimensionType, EncodingType, bool) {#setvertexdata_1}
 
 Associates this [`Accessor`](../) with a [`BufferView`](../../bufferview/)
 
@@ -42,11 +47,10 @@ public void SetVertexData(BufferView buffer, int bufferByteOffset, int itemCount
 
 ### See Also
 
-* class [BufferView](../../bufferview/)
-* enum [DimensionType](../../dimensiontype/)
-* enum [EncodingType](../../encodingtype/)
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BufferView](../../bufferview/)
+* enum [DimensionType](../../dimensiontype/)
+* enum [EncodingType](../../encodingtype/)
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

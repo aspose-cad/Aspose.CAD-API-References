@@ -1,12 +1,18 @@
 ---
-title: Class AppInfoData
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.Dwg.AppInfo.AppInfoData class. 
+title: "AppInfoData Class"
+linktitle: "AppInfoData"
+articleTitle: "AppInfoData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.Dwg.AppInfo.AppInfoData class."
 type: docs
-weight: 4460
-url: /net/aspose.cad.fileformats.cad.dwg.appinfo/appinfodata/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.dwg.appinfo/appinfodata/"
+keywords: "AppInfoData, Aspose.CAD.FileFormats.Cad.Dwg.AppInfo, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## AppInfoData class
+
+
 
 ```csharp
 public class AppInfoData
@@ -22,12 +28,11 @@ public class AppInfoData
 
 | Name | Description |
 | --- | --- |
-| [AppInfoName](../../aspose.cad.fileformats.cad.dwg.appinfo/appinfodata/appinfoname/) { get; set; } |  |
-| [AppInfoVersion](../../aspose.cad.fileformats.cad.dwg.appinfo/appinfodata/appinfoversion/) { get; set; } | The application information version ODA writes "2.7.2.0" |
+| [AppInfoName](../../aspose.cad.fileformats.cad.dwg.appinfo/appinfodata/appinfoname/) { get; set; } |  |
+| [AppInfoVersion](../../aspose.cad.fileformats.cad.dwg.appinfo/appinfodata/appinfoversion/) { get; set; } | The application information version ODA writes "2.7.2.0" |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AppInfo](../../aspose.cad.fileformats.cad.dwg.appinfo/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AppInfo](../../aspose.cad.fileformats.cad.dwg.appinfo/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadOle2Frame.TileModeDescriptor
-second_title: Aspose.CAD for .NET API Reference
-description: CadOle2Frame property. Gets or sets the tile mode descriptor
+title: "CadOle2Frame.TileModeDescriptor"
+linktitle: "TileModeDescriptor"
+articleTitle: "TileModeDescriptor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadOle2Frame property. Gets or sets the tile mode descriptor."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/tilemodedescriptor/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/tilemodedescriptor/"
+product_version: "26.9"
 ---
 ## CadOle2Frame.TileModeDescriptor property
 
@@ -20,8 +23,7 @@ The tile mode descriptor.
 
 ### See Also
 
-* class [CadOle2Frame](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadOle2Frame](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,19 @@
 ---
-title: Class PolyLineSegment
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.PolyLineSegment class. The poly line segment. Specifies a set of points between which lines are drawn
+title: "PolyLineSegment Class"
+linktitle: "PolyLineSegment"
+articleTitle: "PolyLineSegment"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.PolyLineSegment class. The poly line segment. Specifies a set of points between which lines are drawn."
 type: docs
-weight: 9480
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polylinesegment/
+weight: 240
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polylinesegment/"
+keywords: "PolyLineSegment, Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## PolyLineSegment class
 
-The poly line segment. Specifies a set of points between which lines are drawn.
+The poly line segment.
+ Specifies a set of points between which lines are drawn.
 
 ```csharp
 public class PolyLineSegment
@@ -24,12 +29,11 @@ public class PolyLineSegment
 
 | Name | Description |
 | --- | --- |
-| [IsStroked](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polylinesegment/isstroked/) { get; set; } | Gets or sets a value indicating whether is stroked. Specifies whether the stroke for this segment of the path is drawn. Can be true or false. |
-| [Points](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polylinesegment/points/) { get; set; } | Gets or sets the points. Specifies a set of coordinates for the multiple segments that define the poly line segment.Coordinate values within each pair are comma-separated and additional whitespace can appear. Coordinate pairs are separated from other coordinate pairs by whitespace. |
+| [IsStroked](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polylinesegment/isstroked/) { get; set; } | Gets or sets a value indicating whether is stroked. Specifies whether the stroke for this segment of the path is drawn. Can be true or false. |
+| [Points](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polylinesegment/points/) { get; set; } | Gets or sets the points. Specifies a set of coordinates for the multiple segments that define the poly line segment.Coordinate values within each pair are comma-separated and additional whitespace can appear. Coordinate pairs are separated from other coordinate pairs by whitespace. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

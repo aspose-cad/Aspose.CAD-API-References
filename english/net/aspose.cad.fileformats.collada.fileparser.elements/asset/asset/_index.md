@@ -1,10 +1,13 @@
 ---
-title: Asset.Asset
-second_title: Aspose.CAD for .NET API Reference
-description: Asset constructor. Initializes a new instance of the Asset class
+title: "Asset.Asset"
+linktitle: "Asset"
+articleTitle: "Asset"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Asset constructor. Initializes a new instance of the Asset class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/asset/asset/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/asset/asset/"
+product_version: "26.9"
 ---
 ## Asset constructor
 
@@ -16,8 +19,7 @@ public Asset()
 
 ### See Also
 
-* class [Asset](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Asset](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

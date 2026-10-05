@@ -1,10 +1,13 @@
 ---
-title: Lines.Lines
-second_title: Aspose.CAD for .NET API Reference
-description: Lines constructor. The default constructor
+title: "Lines.Lines"
+linktitle: "Lines"
+articleTitle: "Lines"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Lines constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/lines/lines/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/lines/lines/"
+product_version: "26.9"
 ---
 ## Lines constructor
 
@@ -16,8 +19,7 @@ public Lines()
 
 ### See Also
 
-* class [Lines](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Lines](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

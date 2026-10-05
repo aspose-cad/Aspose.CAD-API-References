@@ -1,10 +1,13 @@
 ---
-title: TiffTagFactory.CreateInstance
-second_title: Aspose.CAD for .NET API Reference
-description: TiffTagFactory method. Creates a new data type instance
+title: "TiffTagFactory.CreateInstance"
+linktitle: "CreateInstance"
+articleTitle: "CreateInstance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffTagFactory method. Creates a new data type instance."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.instancefactory/tifftagfactory/createinstance/
+url: "/net/aspose.cad.fileformats.tiff.instancefactory/tifftagfactory/createinstance/"
+product_version: "26.9"
 ---
 ## TiffTagFactory.CreateInstance method
 
@@ -25,9 +28,8 @@ Tiff tag data type
 
 ### See Also
 
-* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
-* class [TiffTagFactory](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.InstanceFactory](../../../aspose.cad.fileformats.tiff.instancefactory/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
+* class [TiffTagFactory](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.InstanceFactory](../../../aspose.cad.fileformats.tiff.instancefactory/)
+* assembly [Aspose.CAD](../../../)
 

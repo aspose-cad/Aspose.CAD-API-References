@@ -1,10 +1,14 @@
 ---
-title: Class ObjVertexTextureNormalIndex
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Obj.VertexData.Index.ObjVertexTextureNormalIndex class. The OBJ vertex texture normal index
+title: "ObjVertexTextureNormalIndex Class"
+linktitle: "ObjVertexTextureNormalIndex"
+articleTitle: "ObjVertexTextureNormalIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Obj.VertexData.Index.ObjVertexTextureNormalIndex class. The OBJ vertex texture normal index."
 type: docs
-weight: 33860
-url: /net/aspose.cad.fileformats.obj.vertexdata.index/objvertextexturenormalindex/
+weight: 40
+url: "/net/aspose.cad.fileformats.obj.vertexdata.index/objvertextexturenormalindex/"
+keywords: "ObjVertexTextureNormalIndex, Aspose.CAD.FileFormats.Obj.VertexData.Index, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ObjVertexTextureNormalIndex class
 
@@ -24,14 +28,13 @@ public class ObjVertexTextureNormalIndex : ObjVertexTextureIndex
 
 | Name | Description |
 | --- | --- |
-| [NormalIndex](../../aspose.cad.fileformats.obj.vertexdata.index/objvertextexturenormalindex/normalindex/) { get; set; } | Gets or sets the normal index. |
-| [TextureIndex](../../aspose.cad.fileformats.obj.vertexdata.index/objvertextextureindex/textureindex/) { get; set; } | Gets or sets the texture index. |
-| [VertexIndex](../../aspose.cad.fileformats.obj.vertexdata.index/objvertexindex/vertexindex/) { get; set; } | Gets or sets the vertex index. |
+| [NormalIndex](../../aspose.cad.fileformats.obj.vertexdata.index/objvertextexturenormalindex/normalindex/) { get; set; } | Gets or sets the normal index. |
+| [TextureIndex](../../aspose.cad.fileformats.obj.vertexdata.index/objvertextextureindex/textureindex/) { get; set; } | Gets or sets the texture index. |
+| [VertexIndex](../../aspose.cad.fileformats.obj.vertexdata.index/objvertexindex/vertexindex/) { get; set; } | Gets or sets the vertex index. |
 
 ### See Also
 
-* class [ObjVertexTextureIndex](../objvertextextureindex/)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../aspose.cad.fileformats.obj.vertexdata.index/)
-* assembly [Aspose.CAD](../../)
-
+* class [ObjVertexTextureIndex](../objvertextextureindex/)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../aspose.cad.fileformats.obj.vertexdata.index/)
+* assembly [Aspose.CAD](../../)
 

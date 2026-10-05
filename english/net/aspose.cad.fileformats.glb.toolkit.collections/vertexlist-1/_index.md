@@ -1,10 +1,14 @@
 ---
-title: Class VertexListT
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.ToolKit.Collections.VertexList1T class. Represent an ordered collection of T vertices where every vertex is unique
+title: "VertexList<T> Class"
+linktitle: "VertexList<T>"
+articleTitle: "VertexList<T>"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.ToolKit.Collections.VertexList class. Represent an ordered collection of T vertices, where every vertex is unique."
 type: docs
-weight: 11540
-url: /net/aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/
+weight: 40
+url: "/net/aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/"
+keywords: "VertexList<T>, Aspose.CAD.FileFormats.GLB.ToolKit.Collections, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## VertexList&lt;T&gt; class
 
@@ -29,22 +33,21 @@ public class VertexList<T> : IReadOnlyList<T>
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/count/) { get; } |  |
-| [Item](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/item/) { get; } |  |
+| [Count](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/count/) { get; } |  |
+| [Item](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/item/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ApplyTransform](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/applytransform/)(Func&lt;T, T&gt;) |  |
-| [CopyTo](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/copyto/)(VertexList) |  |
+| [ApplyTransform](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/applytransform/)(Func&lt;T, T&gt;) |  |
+| [CopyTo](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/copyto/)(VertexList&lt;T&gt;) |  |
 | [GetEnumerator](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/getenumerator/)() |  |
-| [IndexOf](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/indexof/)(ref T) |  |
-| [Use](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/use/)(ref T) |  |
+| [IndexOf](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/indexof/)(ref T) |  |
+| [Use](../../aspose.cad.fileformats.glb.toolkit.collections/vertexlist-1/use/)(ref T) |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../aspose.cad.fileformats.glb.toolkit.collections/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../aspose.cad.fileformats.glb.toolkit.collections/)
+* assembly [Aspose.CAD](../../)
 

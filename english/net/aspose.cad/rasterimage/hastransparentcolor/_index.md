@@ -1,10 +1,13 @@
 ---
-title: RasterImage.HasTransparentColor
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage property. Gets a value indicating whether image has transparent color
+title: "RasterImage.HasTransparentColor"
+linktitle: "HasTransparentColor"
+articleTitle: "HasTransparentColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage property. Gets a value indicating whether image has transparent color."
 type: docs
-weight: 30
-url: /net/aspose.cad/rasterimage/hastransparentcolor/
+weight: 500
+url: "/net/aspose.cad/rasterimage/hastransparentcolor/"
+product_version: "26.9"
 ---
 ## RasterImage.HasTransparentColor property
 
@@ -16,8 +19,7 @@ public virtual bool HasTransparentColor { get; set; }
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

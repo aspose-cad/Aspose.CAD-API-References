@@ -1,14 +1,19 @@
 ---
-title: InputLocalOffset.SingleSet
-second_title: Aspose.CAD for .NET API Reference
-description: InputLocalOffset property. Gets or sets the single set. The set attribute indicates which inputs should be grouped together as a single set. This is helpful when multiple inputs share the same semantics
+title: "InputLocalOffset.SingleSet"
+linktitle: "SingleSet"
+articleTitle: "SingleSet"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "InputLocalOffset property. Gets or sets the single set. The set attribute indicates which inputs should be grouped together as a single set. This is helpful ..."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/singleset/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/inputlocaloffset/singleset/"
+product_version: "26.9"
 ---
 ## InputLocalOffset.SingleSet property
 
-Gets or sets the single set. The set attribute indicates which inputs should be grouped together as a single set. This is helpful when multiple inputs share the same semantics.
+Gets or sets the single set.
+ The set attribute indicates which inputs should be grouped together as a single set.
+ This is helpful when multiple inputs share the same semantics.
 
 ```csharp
 public ulong SingleSet { get; set; }
@@ -16,8 +21,7 @@ public ulong SingleSet { get; set; }
 
 ### See Also
 
-* class [InputLocalOffset](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InputLocalOffset](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

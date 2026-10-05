@@ -1,14 +1,17 @@
 ---
-title: PixelDataFormat.Equals
-second_title: Aspose.CAD for .NET API Reference
-description: PixelDataFormat method. Determines whether the specified Object is equal to this instance
+title: "PixelDataFormat.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PixelDataFormat method. Determines whether the specified Object is equal to this instance."
 type: docs
-weight: 190
-url: /net/aspose.cad/pixeldataformat/equals/
+weight: 30
+url: "/net/aspose.cad/pixeldataformat/equals/"
+product_version: "26.9"
 ---
 ## PixelDataFormat.Equals method
 
-Determines whether the specified Object is equal to this instance.
+Determines whether the specified `Object` is equal to this instance.
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,12 +23,11 @@ public override bool Equals(object obj)
 
 ### Return Value
 
-`true` if the specified Object is equal to this instance; otherwise, `false`.
+`true` if the specified `Object` is equal to this instance; otherwise, `false`.
 
 ### See Also
 
-* class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PixelDataFormat](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

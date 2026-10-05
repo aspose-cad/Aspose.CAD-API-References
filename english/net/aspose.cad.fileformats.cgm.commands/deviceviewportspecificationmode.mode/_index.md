@@ -1,12 +1,17 @@
 ---
-title: Enum DeviceViewportSpecificationMode.Mode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.DeviceViewportSpecificationModeMode enum. 
+title: "DeviceViewportSpecificationMode.Mode Enum"
+linktitle: "DeviceViewportSpecificationMode.Mode"
+articleTitle: "DeviceViewportSpecificationMode.Mode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.DeviceViewportSpecificationMode.Mode enum."
 type: docs
-weight: 5440
-url: /net/aspose.cad.fileformats.cgm.commands/deviceviewportspecificationmode.mode/
+weight: 710
+url: "/net/aspose.cad.fileformats.cgm.commands/deviceviewportspecificationmode.mode/"
+product_version: "26.9"
 ---
 ## DeviceViewportSpecificationMode.Mode enumeration
+
+
 
 ```csharp
 public enum Mode
@@ -22,8 +27,7 @@ public enum Mode
 
 ### See Also
 
-* class [DeviceViewportSpecificationMode](../deviceviewportspecificationmode/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [DeviceViewportSpecificationMode](../deviceviewportspecificationmode/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

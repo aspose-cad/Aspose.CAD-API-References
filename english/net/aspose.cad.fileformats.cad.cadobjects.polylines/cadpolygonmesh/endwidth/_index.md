@@ -1,10 +1,13 @@
 ---
-title: CadPolygonMesh.EndWidth
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolygonMesh property. Gets or sets the end width
+title: "CadPolygonMesh.EndWidth"
+linktitle: "EndWidth"
+articleTitle: "EndWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolygonMesh property. Gets or sets the end width."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh/endwidth/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh/endwidth/"
+product_version: "26.9"
 ---
 ## CadPolygonMesh.EndWidth property
 
@@ -20,8 +23,7 @@ The end width.
 
 ### See Also
 
-* class [CadPolygonMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolygonMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

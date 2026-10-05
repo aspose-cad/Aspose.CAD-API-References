@@ -1,10 +1,13 @@
 ---
-title: Enum CadHatchBoundaryType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadHatchBoundaryType enum. Polyline type hatch
+title: "CadHatchBoundaryType Enum"
+linktitle: "CadHatchBoundaryType"
+articleTitle: "CadHatchBoundaryType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadHatchBoundaryType enum. Polyline type hatch"
 type: docs
-weight: 1330
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadhatchboundarytype/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadhatchboundarytype/"
+product_version: "26.9"
 ---
 ## CadHatchBoundaryType enumeration
 
@@ -25,7 +28,6 @@ public enum CadHatchBoundaryType : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

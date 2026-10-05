@@ -1,14 +1,18 @@
 ---
-title: ProfileBridge.Url
-second_title: Aspose.CAD for .NET API Reference
-description: ProfileBridge property. Gets or sets the url. The url to the file which we are bridging too
+title: "ProfileBridge.Url"
+linktitle: "Url"
+articleTitle: "Url"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ProfileBridge property. Gets or sets the url. The url to the file which we are bridging too."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/profilebridge/url/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/profilebridge/url/"
+product_version: "26.9"
 ---
 ## ProfileBridge.Url property
 
-Gets or sets the url. The url to the file which we are bridging too.
+Gets or sets the url.
+ The url to the file which we are bridging too.
 
 ```csharp
 public string Url { get; set; }
@@ -16,8 +20,7 @@ public string Url { get; set; }
 
 ### See Also
 
-* class [ProfileBridge](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ProfileBridge](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

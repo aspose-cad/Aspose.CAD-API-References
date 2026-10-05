@@ -1,10 +1,13 @@
 ---
-title: CadRasterizationOptions.RenderResult
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterizationOptions field. Rendering result handler
+title: "CadRasterizationOptions.RenderResult"
+linktitle: "RenderResult"
+articleTitle: "RenderResult"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterizationOptions field. Rendering result handler."
 type: docs
-weight: 200
-url: /net/aspose.cad.imageoptions/cadrasterizationoptions/renderresult/
+weight: 240
+url: "/net/aspose.cad.imageoptions/cadrasterizationoptions/renderresult/"
+product_version: "26.9"
 ---
 ## CadRasterizationOptions.RenderResult field
 
@@ -42,9 +45,8 @@ using (var image = Aspose.CAD.Image.Load("fileName.dwg"))
 
 ### See Also
 
-* delegate [CadRenderHandler](../../cadrasterizationoptions.cadrenderhandler/)
-* class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* delegate [CadRenderHandler](../../cadrasterizationoptions.cadrenderhandler/)
+* class [CadRasterizationOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

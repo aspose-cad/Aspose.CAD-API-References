@@ -1,10 +1,13 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.IIndexedColorConverter interface. The color converter for indexed image formats
+title: "IIndexedColorConverter Interface"
+linktitle: "IIndexedColorConverter"
+articleTitle: "IIndexedColorConverter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.IIndexedColorConverter interface. The color converter for indexed image formats."
 type: docs
-weight: 36090
-url: /net/aspose.cad/iindexedcolorconverter/
+weight: 410
+url: "/net/aspose.cad/iindexedcolorconverter/"
+product_version: "26.9"
 ---
 ## IIndexedColorConverter interface
 
@@ -18,11 +21,10 @@ public interface IIndexedColorConverter
 
 | Name | Description |
 | --- | --- |
-| [FillIndexedtoIndexedMap](../../aspose.cad/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Fills the indexed to indexed image conversion map. |
+| [FillIndexedtoIndexedMap](../../aspose.cad/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Fills the indexed to indexed image conversion map. |
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

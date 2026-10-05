@@ -1,12 +1,17 @@
 ---
-title: Enum SpecificationMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Enums.SpecificationMode enum. 
+title: "SpecificationMode Enum"
+linktitle: "SpecificationMode"
+articleTitle: "SpecificationMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Enums.SpecificationMode enum."
 type: docs
-weight: 7230
-url: /net/aspose.cad.fileformats.cgm.enums/specificationmode/
+weight: 110
+url: "/net/aspose.cad.fileformats.cgm.enums/specificationmode/"
+product_version: "26.9"
 ---
 ## SpecificationMode enumeration
+
+
 
 ```csharp
 public enum SpecificationMode
@@ -23,7 +28,6 @@ public enum SpecificationMode
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
+* assembly [Aspose.CAD](../../)
 

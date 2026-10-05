@@ -1,10 +1,13 @@
 ---
-title: Camera.Asset
-second_title: Aspose.CAD for .NET API Reference
-description: Camera property. Gets or sets the asset
+title: "Camera.Asset"
+linktitle: "Asset"
+articleTitle: "Asset"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Camera property. Gets or sets the asset."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/camera/asset/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/camera/asset/"
+product_version: "26.9"
 ---
 ## Camera.Asset property
 
@@ -16,9 +19,8 @@ public Asset Asset { get; set; }
 
 ### See Also
 
-* class [Asset](../../asset/)
-* class [Camera](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Asset](../../asset/)
+* class [Camera](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

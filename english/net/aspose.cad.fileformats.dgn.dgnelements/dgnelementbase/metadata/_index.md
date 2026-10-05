@@ -1,10 +1,13 @@
 ---
-title: DgnElementBase.Metadata
-second_title: Aspose.CAD for .NET API Reference
-description: DgnElementBase property. Gets element metadata
+title: "DgnElementBase.Metadata"
+linktitle: "Metadata"
+articleTitle: "Metadata"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnElementBase property. Gets element metadata"
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/"
+product_version: "26.9"
 ---
 ## DgnElementBase.Metadata property
 
@@ -16,9 +19,8 @@ public DgnElementMetadata Metadata { get; }
 
 ### See Also
 
-* class [DgnElementMetadata](../../../aspose.cad.fileformats.dgn/dgnelementmetadata/)
-* class [DgnElementBase](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementMetadata](../../../aspose.cad.fileformats.dgn/dgnelementmetadata/)
+* class [DgnElementBase](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

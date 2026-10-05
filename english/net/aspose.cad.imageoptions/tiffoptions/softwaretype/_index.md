@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.SoftwareType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the software type
+title: "TiffOptions.SoftwareType"
+linktitle: "SoftwareType"
+articleTitle: "SoftwareType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the software type."
 type: docs
-weight: 400
-url: /net/aspose.cad.imageoptions/tiffoptions/softwaretype/
+weight: 470
+url: "/net/aspose.cad.imageoptions/tiffoptions/softwaretype/"
+product_version: "26.9"
 ---
 ## TiffOptions.SoftwareType property
 
@@ -20,8 +23,7 @@ The software type.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

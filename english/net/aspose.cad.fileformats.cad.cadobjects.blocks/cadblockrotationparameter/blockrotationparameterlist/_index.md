@@ -1,10 +1,13 @@
 ---
-title: CadBlockRotationParameter.BlockRotationParameterList
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockRotationParameter property. Gets or sets the block rotation parameter list
+title: "CadBlockRotationParameter.BlockRotationParameterList"
+linktitle: "BlockRotationParameterList"
+articleTitle: "BlockRotationParameterList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockRotationParameter property. Gets or sets the block rotation parameter list."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockrotationparameter/blockrotationparameterlist/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockrotationparameter/blockrotationparameterlist/"
+product_version: "26.9"
 ---
 ## CadBlockRotationParameter.BlockRotationParameterList property
 
@@ -20,9 +23,8 @@ The block rotation parameter list.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadBlockRotationParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadBlockRotationParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DwfWhipOptionFontHeight.DwfWhipOptionFontHeight
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipOptionFontHeight constructor. The default constructor
+title: "DwfWhipOptionFontHeight.DwfWhipOptionFontHeight"
+linktitle: "DwfWhipOptionFontHeight"
+articleTitle: "DwfWhipOptionFontHeight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipOptionFontHeight constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontheight/dwfwhipoptionfontheight/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontheight/dwfwhipoptionfontheight/"
+product_version: "26.9"
 ---
 ## DwfWhipOptionFontHeight constructor
 
@@ -16,8 +19,7 @@ public DwfWhipOptionFontHeight()
 
 ### See Also
 
-* class [DwfWhipOptionFontHeight](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipOptionFontHeight](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
+* assembly [Aspose.CAD](../../../)
 

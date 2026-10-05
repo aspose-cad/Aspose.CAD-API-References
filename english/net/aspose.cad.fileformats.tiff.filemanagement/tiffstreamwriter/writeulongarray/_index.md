@@ -1,10 +1,13 @@
 ---
-title: TiffStreamWriter.WriteULongArray
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamWriter method. Writes an array of unsigned integer values to the stream
+title: "TiffStreamWriter.WriteULongArray"
+linktitle: "WriteULongArray"
+articleTitle: "WriteULongArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamWriter method. Writes an array of unsigned integer values to the stream."
 type: docs
-weight: 210
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray/
+weight: 200
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray/"
+product_version: "26.9"
 ---
 ## TiffStreamWriter.WriteULongArray method
 
@@ -20,8 +23,7 @@ public void WriteULongArray(uint[] data)
 
 ### See Also
 
-* class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamWriter](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

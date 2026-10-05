@@ -1,10 +1,13 @@
 ---
-title: VertexDataUnit.VertexDataUnit
-second_title: Aspose.CAD for .NET API Reference
-description: VertexDataUnit constructor. Initializes a new instance of the VertexDataUnit class
+title: "VertexDataUnit.VertexDataUnit"
+linktitle: "VertexDataUnit"
+articleTitle: "VertexDataUnit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "VertexDataUnit constructor. Initializes a new instance of the VertexDataUnit class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stl.stlobjects/vertexdataunit/vertexdataunit/
+url: "/net/aspose.cad.fileformats.stl.stlobjects/vertexdataunit/vertexdataunit/"
+product_version: "26.9"
 ---
 ## VertexDataUnit constructor
 
@@ -22,8 +25,7 @@ public VertexDataUnit(float x, float y, float z)
 
 ### See Also
 
-* class [VertexDataUnit](../)
-* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [VertexDataUnit](../)
+* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadViewport.ReferenceToTableRecordOrthoGraphic
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the reference to table record ortho graphic
+title: "CadViewport.ReferenceToTableRecordOrthoGraphic"
+linktitle: "ReferenceToTableRecordOrthoGraphic"
+articleTitle: "ReferenceToTableRecordOrthoGraphic"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the reference to table record ortho graphic."
 type: docs
 weight: 260
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/referencetotablerecordorthographic/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/referencetotablerecordorthographic/"
+product_version: "26.9"
 ---
 ## CadViewport.ReferenceToTableRecordOrthoGraphic property
 
@@ -16,8 +19,7 @@ public string ReferenceToTableRecordOrthoGraphic { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

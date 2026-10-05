@@ -1,14 +1,17 @@
 ---
-title: NonGenericList.Contains
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericList method. Determines whether the IList contains a specific value
+title: "NonGenericList.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericList method. Determines whether the IList contains a specific value."
 type: docs
-weight: 100
-url: /net/aspose.cad/nongenericlist/contains/
+weight: 40
+url: "/net/aspose.cad/nongenericlist/contains/"
+product_version: "26.9"
 ---
 ## NonGenericList.Contains method
 
-Determines whether the IList contains a specific value.
+Determines whether the `IList` contains a specific value.
 
 ```csharp
 public bool Contains(object value)
@@ -20,12 +23,11 @@ public bool Contains(object value)
 
 ### Return Value
 
-true if the Object is found in the IList; otherwise, false.
+true if the `Object` is found in the `IList`; otherwise, false.
 
 ### See Also
 
-* class [NonGenericList](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericList](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

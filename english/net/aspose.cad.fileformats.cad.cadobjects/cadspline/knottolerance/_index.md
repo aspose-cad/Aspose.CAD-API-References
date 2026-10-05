@@ -1,10 +1,13 @@
 ---
-title: CadSpline.KnotTolerance
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpline property. Gets or sets the knot tolerance
+title: "CadSpline.KnotTolerance"
+linktitle: "KnotTolerance"
+articleTitle: "KnotTolerance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpline property. Gets or sets the knot tolerance."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspline/knottolerance/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspline/knottolerance/"
+product_version: "26.9"
 ---
 ## CadSpline.KnotTolerance property
 
@@ -20,8 +23,7 @@ The knot tolerance.
 
 ### See Also
 
-* class [CadSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

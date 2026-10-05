@@ -1,10 +1,13 @@
 ---
-title: Image.UnitType
-second_title: Aspose.CAD for .NET API Reference
-description: Image property. Gets current unit type
+title: "Image.UnitType"
+linktitle: "UnitType"
+articleTitle: "UnitType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image property. Gets current unit type."
 type: docs
-weight: 110
-url: /net/aspose.cad/image/unittype/
+weight: 270
+url: "/net/aspose.cad/image/unittype/"
+product_version: "26.9"
 ---
 ## Image.UnitType property
 
@@ -146,9 +149,8 @@ protected static Tuple<bool, double> DefineUnitSystem(UnitType unitType)
 
 ### See Also
 
-* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Matrix.GetElements
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix method. Gets the copy of matrix elements
+title: "Matrix.GetElements"
+linktitle: "GetElements"
+articleTitle: "GetElements"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix method. Gets the copy of matrix elements."
 type: docs
-weight: 100
-url: /net/aspose.cad/matrix/getelements/
+weight: 80
+url: "/net/aspose.cad/matrix/getelements/"
+product_version: "26.9"
 ---
 ## Matrix.GetElements method
 
@@ -20,8 +23,7 @@ A matrix elements copy.
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

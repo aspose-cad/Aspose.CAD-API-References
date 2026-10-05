@@ -1,10 +1,13 @@
 ---
-title: StepItemDefinedTransformation.StepItemDefinedTransformation
-second_title: Aspose.CAD for .NET API Reference
-description: StepItemDefinedTransformation constructor. The default constructor
+title: "StepItemDefinedTransformation.StepItemDefinedTransformation"
+linktitle: "StepItemDefinedTransformation"
+articleTitle: "StepItemDefinedTransformation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepItemDefinedTransformation constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stp.items/stepitemdefinedtransformation/stepitemdefinedtransformation/
+url: "/net/aspose.cad.fileformats.stp.items/stepitemdefinedtransformation/stepitemdefinedtransformation/"
+product_version: "26.9"
 ---
 ## StepItemDefinedTransformation constructor
 
@@ -16,8 +19,7 @@ public StepItemDefinedTransformation()
 
 ### See Also
 
-* class [StepItemDefinedTransformation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepItemDefinedTransformation](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

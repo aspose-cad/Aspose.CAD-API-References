@@ -1,14 +1,20 @@
 ---
-title: Canvas.RenderOptionsEdgeMode
-second_title: Aspose.CAD for .NET API Reference
-description: Canvas property. Gets or sets the render options edge mode. Controls how edges of paths within the canvas are rendered. The only valid value is Aliased. Omitting this attribute causes the edges to be rendered in the consumers default manner
+title: "Canvas.RenderOptionsEdgeMode"
+linktitle: "RenderOptionsEdgeMode"
+articleTitle: "RenderOptionsEdgeMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Canvas property. Gets or sets the render options edge mode. Controls how edges of paths within the canvas are rendered. The only valid value is Aliased. Omit..."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/canvas/renderoptionsedgemode/
+weight: 120
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/canvas/renderoptionsedgemode/"
+product_version: "26.9"
 ---
 ## Canvas.RenderOptionsEdgeMode property
 
-Gets or sets the render options edge mode. Controls how edges of paths within the canvas are rendered. The only valid value is Aliased. Omitting this attribute causes the edges to be rendered in the consumer's default manner.
+Gets or sets the render options edge mode.
+ Controls how edges of paths within the canvas are rendered.
+ The only valid value is Aliased.
+ Omitting this attribute causes the edges to be rendered in the consumer's default manner.
 
 ```csharp
 public EdgeMode RenderOptionsEdgeMode { get; set; }
@@ -16,9 +22,8 @@ public EdgeMode RenderOptionsEdgeMode { get; set; }
 
 ### See Also
 
-* enum [EdgeMode](../../edgemode/)
-* class [Canvas](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [EdgeMode](../../edgemode/)
+* class [Canvas](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

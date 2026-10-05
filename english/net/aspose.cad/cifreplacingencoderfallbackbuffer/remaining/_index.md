@@ -1,10 +1,13 @@
 ---
-title: CifReplacingEncoderFallbackBuffer.Remaining
-second_title: Aspose.CAD for .NET API Reference
-description: CifReplacingEncoderFallbackBuffer property. Count of remaining characters in replacement buffer
+title: "CifReplacingEncoderFallbackBuffer.Remaining"
+linktitle: "Remaining"
+articleTitle: "Remaining"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CifReplacingEncoderFallbackBuffer property. Count of remaining characters in replacement buffer"
 type: docs
-weight: 20
-url: /net/aspose.cad/cifreplacingencoderfallbackbuffer/remaining/
+weight: 60
+url: "/net/aspose.cad/cifreplacingencoderfallbackbuffer/remaining/"
+product_version: "26.9"
 ---
 ## CifReplacingEncoderFallbackBuffer.Remaining property
 
@@ -16,8 +19,7 @@ public override int Remaining { get; }
 
 ### See Also
 
-* class [CifReplacingEncoderFallbackBuffer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CifReplacingEncoderFallbackBuffer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

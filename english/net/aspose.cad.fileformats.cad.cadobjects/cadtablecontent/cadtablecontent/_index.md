@@ -1,10 +1,13 @@
 ---
-title: CadTableContent.CadTableContent
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableContent constructor. Initializes a new instance of the CadTableContent class
+title: "CadTableContent.CadTableContent"
+linktitle: "CadTableContent"
+articleTitle: "CadTableContent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableContent constructor. Initializes a new instance of the CadTableContent class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent/cadtablecontent/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadtablecontent/cadtablecontent/"
+product_version: "26.9"
 ---
 ## CadTableContent constructor
 
@@ -16,8 +19,7 @@ public CadTableContent()
 
 ### See Also
 
-* class [CadTableContent](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableContent](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

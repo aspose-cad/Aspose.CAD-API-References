@@ -1,10 +1,13 @@
 ---
-title: DwgImage.AddEntity
-second_title: Aspose.CAD for .NET API Reference
-description: DwgImage method. Add entity to drawing
+title: "DwgImage.AddEntity"
+linktitle: "AddEntity"
+articleTitle: "AddEntity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwgImage method. Add entity to drawing"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad/dwgimage/addentity/
+url: "/net/aspose.cad.fileformats.cad/dwgimage/addentity/"
+product_version: "26.9"
 ---
 ## DwgImage.AddEntity method
 
@@ -20,9 +23,8 @@ public void AddEntity(CadEntityBase entity)
 
 ### See Also
 
-* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
-* class [DwgImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
+* class [DwgImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

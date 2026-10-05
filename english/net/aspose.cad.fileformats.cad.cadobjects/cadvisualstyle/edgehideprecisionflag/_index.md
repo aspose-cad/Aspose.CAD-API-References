@@ -1,10 +1,13 @@
 ---
-title: CadVisualStyle.EdgeHidePrecisionFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadVisualStyle property. Gets or sets the edge hide precision flag
+title: "CadVisualStyle.EdgeHidePrecisionFlag"
+linktitle: "EdgeHidePrecisionFlag"
+articleTitle: "EdgeHidePrecisionFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVisualStyle property. Gets or sets the edge hide precision flag."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edgehideprecisionflag/
+weight: 320
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/edgehideprecisionflag/"
+product_version: "26.9"
 ---
 ## CadVisualStyle.EdgeHidePrecisionFlag property
 
@@ -20,8 +23,7 @@ The edge hide precision flag.
 
 ### See Also
 
-* class [CadVisualStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVisualStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ReadRationalArray
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Reads an array of rational values from the stream
+title: "TiffStreamReader.ReadRationalArray"
+linktitle: "ReadRationalArray"
+articleTitle: "ReadRationalArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Reads an array of rational values from the stream."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readrationalarray/
+weight: 130
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readrationalarray/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ReadRationalArray method
 
@@ -31,9 +34,8 @@ The array of rational values.
 
 ### See Also
 
-* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

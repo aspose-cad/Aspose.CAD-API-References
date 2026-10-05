@@ -1,10 +1,13 @@
 ---
-title: CadBaseInfinityEntity.FirstPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadBaseInfinityEntity property. Gets or sets the first point 
+title: "CadBaseInfinityEntity.FirstPoint"
+linktitle: "FirstPoint"
+articleTitle: "FirstPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBaseInfinityEntity property. Gets or sets the first point ."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadbaseinfinityentity/firstpoint/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadbaseinfinityentity/firstpoint/"
+product_version: "26.9"
 ---
 ## CadBaseInfinityEntity.FirstPoint property
 
@@ -20,9 +23,8 @@ The First Point .
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadBaseInfinityEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadBaseInfinityEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

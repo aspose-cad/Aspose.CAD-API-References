@@ -1,10 +1,13 @@
 ---
-title: CadBlockEntity.AddEntity
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockEntity method. Adds the entity
+title: "CadBlockEntity.AddEntity"
+linktitle: "AddEntity"
+articleTitle: "AddEntity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockEntity method. Adds the entity."
 type: docs
-weight: 320
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/addentity/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/addentity/"
+product_version: "26.9"
 ---
 ## CadBlockEntity.AddEntity method
 
@@ -20,9 +23,8 @@ public void AddEntity(CadEntityBase entityObject)
 
 ### See Also
 
-* class [CadEntityBase](../../cadentitybase/)
-* class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../../cadentitybase/)
+* class [CadBlockEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

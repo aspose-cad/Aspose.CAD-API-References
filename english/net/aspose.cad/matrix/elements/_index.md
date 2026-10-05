@@ -1,10 +1,13 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix property. Gets an array of floatingpoint values that represents the elements of this Matrix
+title: "Matrix.Elements"
+linktitle: "Elements"
+articleTitle: "Elements"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix property. Gets an array of floating-point values that represents the elements of this Matrix."
 type: docs
-weight: 20
-url: /net/aspose.cad/matrix/elements/
+weight: 240
+url: "/net/aspose.cad/matrix/elements/"
+product_version: "26.9"
 ---
 ## Matrix.Elements property
 
@@ -20,8 +23,7 @@ An array of floating-point values that represents the elements of this [`Matrix`
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

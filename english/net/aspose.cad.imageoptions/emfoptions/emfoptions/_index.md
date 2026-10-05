@@ -1,10 +1,13 @@
 ---
-title: EmfOptions.EmfOptions
-second_title: Aspose.CAD for .NET API Reference
-description: EmfOptions constructor. Initializes a new instance of the EmfOptions class
+title: "EmfOptions.EmfOptions"
+linktitle: "EmfOptions"
+articleTitle: "EmfOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "EmfOptions constructor. Initializes a new instance of the EmfOptions class."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/emfoptions/emfoptions/
+url: "/net/aspose.cad.imageoptions/emfoptions/emfoptions/"
+product_version: "26.9"
 ---
 ## EmfOptions() {#constructor}
 
@@ -16,9 +19,9 @@ public EmfOptions()
 
 ### See Also
 
-* class [EmfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
+* class [EmfOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public EmfOptions(EmfOptions emfOptions)
 
 ### See Also
 
-* class [EmfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [EmfOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

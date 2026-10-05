@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.FlagOverride
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. Gets or sets the flag override
+title: "CadTableEntity.FlagOverride"
+linktitle: "FlagOverride"
+articleTitle: "FlagOverride"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. Gets or sets the flag override."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverride/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/flagoverride/"
+product_version: "26.9"
 ---
 ## CadTableEntity.FlagOverride property
 
@@ -16,8 +19,7 @@ public int FlagOverride { get; set; }
 
 ### See Also
 
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

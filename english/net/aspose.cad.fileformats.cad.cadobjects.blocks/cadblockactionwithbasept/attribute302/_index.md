@@ -1,10 +1,13 @@
 ---
-title: CadBlockActionWithBasePt.Attribute302
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockActionWithBasePt property. Gets or sets the attribute 302
+title: "CadBlockActionWithBasePt.Attribute302"
+linktitle: "Attribute302"
+articleTitle: "Attribute302"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockActionWithBasePt property. Gets or sets the attribute 302."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/attribute302/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/attribute302/"
+product_version: "26.9"
 ---
 ## CadBlockActionWithBasePt.Attribute302 property
 
@@ -20,8 +23,7 @@ The attribute 302.
 
 ### See Also
 
-* class [CadBlockActionWithBasePt](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockActionWithBasePt](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SummaryInfoData.RevisionNumber
-second_title: Aspose.CAD for .NET API Reference
-description: SummaryInfoData property. Gets or sets the revision number
+title: "SummaryInfoData.RevisionNumber"
+linktitle: "RevisionNumber"
+articleTitle: "RevisionNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SummaryInfoData property. Gets or sets the revision number."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/revisionnumber/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/revisionnumber/"
+product_version: "26.9"
 ---
 ## SummaryInfoData.RevisionNumber property
 
@@ -20,8 +23,7 @@ The revision number.
 
 ### See Also
 
-* class [SummaryInfoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
+* assembly [Aspose.CAD](../../../)
 

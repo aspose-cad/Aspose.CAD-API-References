@@ -1,10 +1,13 @@
 ---
-title: Interface IClearTextWriter
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.IClearTextWriter interface. Writer interface to write clear text values
+title: "IClearTextWriter Interface"
+linktitle: "IClearTextWriter"
+articleTitle: "IClearTextWriter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.IClearTextWriter interface. Writer interface to write clear text values"
 type: docs
-weight: 7290
-url: /net/aspose.cad.fileformats.cgm/icleartextwriter/
+weight: 70
+url: "/net/aspose.cad.fileformats.cgm/icleartextwriter/"
+product_version: "26.9"
 ---
 ## IClearTextWriter interface
 
@@ -24,7 +27,6 @@ public interface IClearTextWriter
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm](../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm](../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../)
 

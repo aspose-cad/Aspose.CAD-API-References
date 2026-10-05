@@ -1,12 +1,17 @@
 ---
-title: CadMLeaderStyleObject.BottomTextAttachmentDirection
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyleObject property. 
+title: "CadMLeaderStyleObject.BottomTextAttachmentDirection"
+linktitle: "BottomTextAttachmentDirection"
+articleTitle: "BottomTextAttachmentDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyleObject property."
 type: docs
-weight: 250
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/bottomtextattachmentdirection/
+weight: 460
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/bottomtextattachmentdirection/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyleObject.BottomTextAttachmentDirection property
+
+
 
 ```csharp
 public short? BottomTextAttachmentDirection { get; set; }
@@ -14,8 +19,7 @@ public short? BottomTextAttachmentDirection { get; set; }
 
 ### See Also
 
-* class [CadMLeaderStyleObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyleObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

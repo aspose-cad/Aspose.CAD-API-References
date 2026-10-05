@@ -1,10 +1,13 @@
 ---
-title: FontStoringArgs.FontFileUri
-second_title: Aspose.CAD for .NET API Reference
-description: FontStoringArgs property. Gets or sets the font file URI
+title: "FontStoringArgs.FontFileUri"
+linktitle: "FontFileUri"
+articleTitle: "FontFileUri"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FontStoringArgs property. Gets or sets the font file URI."
 type: docs
-weight: 40
-url: /net/aspose.cad.imageoptions.svgoptionsparameters/fontstoringargs/fontfileuri/
+weight: 50
+url: "/net/aspose.cad.imageoptions.svgoptionsparameters/fontstoringargs/fontfileuri/"
+product_version: "26.9"
 ---
 ## FontStoringArgs.FontFileUri property
 
@@ -20,8 +23,7 @@ The font file URI.
 
 ### See Also
 
-* class [FontStoringArgs](../)
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FontStoringArgs](../)
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
+* assembly [Aspose.CAD](../../../)
 

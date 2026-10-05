@@ -1,10 +1,13 @@
 ---
-title: PltPlotBezier.PltPlotBezier
-second_title: Aspose.CAD for .NET API Reference
-description: PltPlotBezier constructor. Initializes a new instance of the PltPlotBezier class
+title: "PltPlotBezier.PltPlotBezier"
+linktitle: "PltPlotBezier"
+articleTitle: "PltPlotBezier"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PltPlotBezier constructor. Initializes a new instance of the PltPlotBezier class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotbezier/pltplotbezier/
+url: "/net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotbezier/pltplotbezier/"
+product_version: "26.9"
 ---
 ## PltPlotBezier constructor
 
@@ -20,9 +23,8 @@ public PltPlotBezier(PltPlotBezierCurve curve)
 
 ### See Also
 
-* class [PltPlotBezierCurve](../../pltplotbeziercurve/)
-* class [PltPlotBezier](../)
-* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PltPlotBezierCurve](../../pltplotbeziercurve/)
+* class [PltPlotBezier](../)
+* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/)
+* assembly [Aspose.CAD](../../../)
 

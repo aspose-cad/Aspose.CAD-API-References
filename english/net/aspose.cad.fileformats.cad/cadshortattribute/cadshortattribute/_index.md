@@ -1,10 +1,13 @@
 ---
-title: CadShortAttribute.CadShortAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: CadShortAttribute constructor. Initializes a new instance of the CadShortAttribute class
+title: "CadShortAttribute.CadShortAttribute"
+linktitle: "CadShortAttribute"
+articleTitle: "CadShortAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadShortAttribute constructor. Initializes a new instance of the CadShortAttribute class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadshortattribute/cadshortattribute/
+url: "/net/aspose.cad.fileformats.cad/cadshortattribute/cadshortattribute/"
+product_version: "26.9"
 ---
 ## CadShortAttribute constructor
 
@@ -23,10 +26,9 @@ public CadShortAttribute(CadEntityAttribute attribute, CadParameterType paramete
 
 ### See Also
 
-* enum [CadEntityAttribute](../../cadentityattribute/)
-* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
-* class [CadShortAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
+* class [CadShortAttribute](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

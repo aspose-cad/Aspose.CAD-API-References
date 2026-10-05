@@ -1,12 +1,17 @@
 ---
-title: Struct ThreeDSFace
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSFace struct. 
+title: "ThreeDSFace Struct"
+linktitle: "ThreeDSFace"
+articleTitle: "ThreeDSFace"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.ThreeDS.Elements.ThreeDSFace struct."
 type: docs
-weight: 35300
-url: /net/aspose.cad.fileformats.threeds.elements/threedsface/
+weight: 30
+url: "/net/aspose.cad.fileformats.threeds.elements/threedsface/"
+product_version: "26.9"
 ---
-## ThreeDSFace structure
+## ThreeDSFace struct
+
+
 
 ```csharp
 public struct ThreeDSFace
@@ -16,18 +21,17 @@ public struct ThreeDSFace
 
 | Name | Description |
 | --- | --- |
-| [ThreeDSFace](threedsface/)(ThreeDSPoly, ushort) |  |
+| [ThreeDSFace](threedsface/)(ThreeDSPoly, ushort) | Initializes a new instance of the ThreeDSFace class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FaceInfo](../../aspose.cad.fileformats.threeds.elements/threedsface/faceinfo/) { get; set; } |  |
-| [Poly](../../aspose.cad.fileformats.threeds.elements/threedsface/poly/) { get; set; } |  |
+| FaceInfo { get; set; } |  |
+| Poly { get; set; } |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../aspose.cad.fileformats.threeds.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../aspose.cad.fileformats.threeds.elements/)
+* assembly [Aspose.CAD](../../)
 

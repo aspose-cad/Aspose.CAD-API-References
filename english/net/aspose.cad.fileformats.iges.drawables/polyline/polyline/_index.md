@@ -1,10 +1,13 @@
 ---
-title: Polyline.Polyline
-second_title: Aspose.CAD for .NET API Reference
-description: Polyline constructor. Creates new Miltisegment line geometric representation from geometry points and nongeometry properties
+title: "Polyline.Polyline"
+linktitle: "Polyline"
+articleTitle: "Polyline"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Polyline constructor. Creates new Miltisegment line geometric representation from geometry points and non-geometry properties"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.iges.drawables/polyline/polyline/
+url: "/net/aspose.cad.fileformats.iges.drawables/polyline/polyline/"
+product_version: "26.9"
 ---
 ## Polyline constructor
 
@@ -21,10 +24,9 @@ public Polyline(IDrawableProperties properties, Point3D[] pointList)
 
 ### See Also
 
-* interface [IDrawableProperties](../../idrawableproperties/)
-* class [Point3D](../../../aspose.cad.primitives/point3d/)
-* class [Polyline](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IDrawableProperties](../../idrawableproperties/)
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
+* class [Polyline](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

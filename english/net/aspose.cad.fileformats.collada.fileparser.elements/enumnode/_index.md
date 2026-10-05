@@ -1,10 +1,13 @@
 ---
-title: Enum EnumNode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumNode enum. The node type enumeration
+title: "EnumNode Enum"
+linktitle: "EnumNode"
+articleTitle: "EnumNode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumNode enum. The node type enumeration."
 type: docs
-weight: 7690
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumnode/
+weight: 370
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/enumnode/"
+product_version: "26.9"
 ---
 ## EnumNode enumeration
 
@@ -23,7 +26,6 @@ public enum EnumNode
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadVloVlObject.CadVloVlObject
-second_title: Aspose.CAD for .NET API Reference
-description: CadVloVlObject constructor. The default constructor
+title: "CadVloVlObject.CadVloVlObject"
+linktitle: "CadVloVlObject"
+articleTitle: "CadVloVlObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVloVlObject constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadvlovlobject/cadvlovlobject/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadvlovlobject/cadvlovlobject/"
+product_version: "26.9"
 ---
 ## CadVloVlObject constructor
 
@@ -16,8 +19,7 @@ public CadVloVlObject()
 
 ### See Also
 
-* class [CadVloVlObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVloVlObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

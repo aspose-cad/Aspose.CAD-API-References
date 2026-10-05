@@ -1,10 +1,13 @@
 ---
-title: CadSection.Vertices
-second_title: Aspose.CAD for .NET API Reference
-description: CadSection property. Gets or sets the vertices
+title: "CadSection.Vertices"
+linktitle: "Vertices"
+articleTitle: "Vertices"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSection property. Gets or sets the vertices."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsection/vertices/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsection/vertices/"
+product_version: "26.9"
 ---
 ## CadSection.Vertices property
 
@@ -20,9 +23,8 @@ The vertices.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadSection](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadSection](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadAcshHistoryNode.StepId
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcshHistoryNode property. The step ID
+title: "CadAcshHistoryNode.StepId"
+linktitle: "StepId"
+articleTitle: "StepId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcshHistoryNode property. The step ID"
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshhistorynode/stepid/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshhistorynode/stepid/"
+product_version: "26.9"
 ---
 ## CadAcshHistoryNode.StepId property
 
@@ -16,8 +19,7 @@ public int StepId { get; set; }
 
 ### See Also
 
-* class [CadAcshHistoryNode](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcshHistoryNode](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

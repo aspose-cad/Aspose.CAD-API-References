@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.MinSampleValue
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the min sample value
+title: "TiffOptions.MinSampleValue"
+linktitle: "MinSampleValue"
+articleTitle: "MinSampleValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the min sample value."
 type: docs
-weight: 230
-url: /net/aspose.cad.imageoptions/tiffoptions/minsamplevalue/
+weight: 340
+url: "/net/aspose.cad.imageoptions/tiffoptions/minsamplevalue/"
+product_version: "26.9"
 ---
 ## TiffOptions.MinSampleValue property
 
@@ -27,8 +30,7 @@ The min sample value.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

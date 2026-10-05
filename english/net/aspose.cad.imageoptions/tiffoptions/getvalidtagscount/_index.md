@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.GetValidTagsCount
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions method. Gets the valid tags count
+title: "TiffOptions.GetValidTagsCount"
+linktitle: "GetValidTagsCount"
+articleTitle: "GetValidTagsCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions method. Gets the valid tags count."
 type: docs
-weight: 610
-url: /net/aspose.cad.imageoptions/tiffoptions/getvalidtagscount/
+weight: 70
+url: "/net/aspose.cad.imageoptions/tiffoptions/getvalidtagscount/"
+product_version: "26.9"
 ---
 ## TiffOptions.GetValidTagsCount method
 
@@ -24,9 +27,8 @@ The valid tags count.
 
 ### See Also
 
-* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

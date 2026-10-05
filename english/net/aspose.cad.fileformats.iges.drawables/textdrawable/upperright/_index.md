@@ -1,10 +1,13 @@
 ---
-title: TextDrawable.UpperRight
-second_title: Aspose.CAD for .NET API Reference
-description: TextDrawable property. Right upper point of text boundary maps to AllPoints2
+title: "TextDrawable.UpperRight"
+linktitle: "UpperRight"
+articleTitle: "UpperRight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TextDrawable property. Right upper point of text boundary, maps to AllPoints[2]"
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.iges.drawables/textdrawable/upperright/
+weight: 100
+url: "/net/aspose.cad.fileformats.iges.drawables/textdrawable/upperright/"
+product_version: "26.9"
 ---
 ## TextDrawable.UpperRight property
 
@@ -16,9 +19,8 @@ public Point3D UpperRight { get; }
 
 ### See Also
 
-* class [Point3D](../../../aspose.cad.primitives/point3d/)
-* class [TextDrawable](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
+* class [TextDrawable](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

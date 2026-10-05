@@ -1,14 +1,19 @@
 ---
-title: Contributor.SourceData
-second_title: Aspose.CAD for .NET API Reference
-description: Contributor property. Gets or sets the source data. The source_data element contains a URI reference to the source data used for this asset. There may be only one source_data element
+title: "Contributor.SourceData"
+linktitle: "SourceData"
+articleTitle: "SourceData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Contributor property. Gets or sets the source data. The source_data element contains a URI reference to the source data used for this asset. There may be onl..."
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/contributor/sourcedata/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/contributor/sourcedata/"
+product_version: "26.9"
 ---
 ## Contributor.SourceData property
 
-Gets or sets the source data. The source_data element contains a URI reference to the source data used for this asset. There may be only one source_data element.
+Gets or sets the source data.
+ The source_data element contains a URI reference to the source data used for this asset.
+ There may be only one source_data element.
 
 ```csharp
 public string SourceData { get; set; }
@@ -16,8 +21,7 @@ public string SourceData { get; set; }
 
 ### See Also
 
-* class [Contributor](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Contributor](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

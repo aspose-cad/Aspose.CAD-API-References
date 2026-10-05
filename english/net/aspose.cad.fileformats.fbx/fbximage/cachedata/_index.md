@@ -1,10 +1,13 @@
 ---
-title: FbxImage.CacheData
-second_title: Aspose.CAD for .NET API Reference
-description: FbxImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer
+title: "FbxImage.CacheData"
+linktitle: "CacheData"
+articleTitle: "CacheData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FbxImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.fbx/fbximage/cachedata/
+weight: 20
+url: "/net/aspose.cad.fileformats.fbx/fbximage/cachedata/"
+product_version: "26.9"
 ---
 ## FbxImage.CacheData method
 
@@ -22,8 +25,7 @@ public override void CacheData()
 
 ### See Also
 
-* class [FbxImage](../)
-* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FbxImage](../)
+* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Cache.Reallocated
-second_title: Aspose.CAD for .NET API Reference
-description: Cache event. Fires when reallocation was performed
+title: "Cache.Reallocated"
+linktitle: "Reallocated"
+articleTitle: "Reallocated"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cache event. Fires when reallocation was performed"
 type: docs
-weight: 80
-url: /net/aspose.cad/cache/reallocated/
+weight: 90
+url: "/net/aspose.cad/cache/reallocated/"
+product_version: "26.9"
 ---
 ## Cache.Reallocated event
 
@@ -16,8 +19,7 @@ public static event EventHandler Reallocated;
 
 ### See Also
 
-* class [Cache](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cache](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

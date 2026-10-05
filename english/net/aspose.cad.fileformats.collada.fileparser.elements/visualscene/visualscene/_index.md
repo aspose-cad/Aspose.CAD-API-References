@@ -1,10 +1,13 @@
 ---
-title: VisualScene.VisualScene
-second_title: Aspose.CAD for .NET API Reference
-description: VisualScene constructor. The default constructor
+title: "VisualScene.VisualScene"
+linktitle: "VisualScene"
+articleTitle: "VisualScene"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "VisualScene constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/visualscene/visualscene/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/visualscene/visualscene/"
+product_version: "26.9"
 ---
 ## VisualScene constructor
 
@@ -16,8 +19,7 @@ public VisualScene()
 
 ### See Also
 
-* class [VisualScene](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [VisualScene](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

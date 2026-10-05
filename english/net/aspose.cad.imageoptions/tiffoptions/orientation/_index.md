@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.Orientation
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the orientation
+title: "TiffOptions.Orientation"
+linktitle: "Orientation"
+articleTitle: "Orientation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the orientation."
 type: docs
-weight: 240
-url: /net/aspose.cad.imageoptions/tiffoptions/orientation/
+weight: 360
+url: "/net/aspose.cad.imageoptions/tiffoptions/orientation/"
+product_version: "26.9"
 ---
 ## TiffOptions.Orientation property
 
@@ -20,9 +23,8 @@ The orientation.
 
 ### See Also
 
-* enum [TiffOrientations](../../../aspose.cad.fileformats.tiff.enums/tifforientations/)
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [TiffOrientations](../../../aspose.cad.fileformats.tiff.enums/tifforientations/)
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

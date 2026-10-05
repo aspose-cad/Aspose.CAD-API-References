@@ -1,10 +1,13 @@
 ---
-title: TiffRationalType.Value
-second_title: Aspose.CAD for .NET API Reference
-description: TiffRationalType property. Gets or sets the value this data type contains
+title: "TiffRationalType.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffRationalType property. Gets or sets the value this data type contains."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffrationaltype/value/
+weight: 80
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffrationaltype/value/"
+product_version: "26.9"
 ---
 ## TiffRationalType.Value property
 
@@ -26,8 +29,7 @@ The value.
 
 ### See Also
 
-* class [TiffRationalType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRationalType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SummaryInfoData.CreateDateTime
-second_title: Aspose.CAD for .NET API Reference
-description: SummaryInfoData property. Gets the create date time
+title: "SummaryInfoData.CreateDateTime"
+linktitle: "CreateDateTime"
+articleTitle: "CreateDateTime"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SummaryInfoData property. Gets the create date time."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/createdatetime/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/createdatetime/"
+product_version: "26.9"
 ---
 ## SummaryInfoData.CreateDateTime property
 
@@ -20,8 +23,7 @@ The create date time.
 
 ### See Also
 
-* class [SummaryInfoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
+* assembly [Aspose.CAD](../../../)
 

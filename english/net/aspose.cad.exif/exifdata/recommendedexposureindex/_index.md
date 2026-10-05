@@ -1,10 +1,13 @@
 ---
-title: ExifData.RecommendedExposureIndex
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the recommended exposure index
+title: "ExifData.RecommendedExposureIndex"
+linktitle: "RecommendedExposureIndex"
+articleTitle: "RecommendedExposureIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the recommended exposure index."
 type: docs
-weight: 890
-url: /net/aspose.cad.exif/exifdata/recommendedexposureindex/
+weight: 900
+url: "/net/aspose.cad.exif/exifdata/recommendedexposureindex/"
+product_version: "26.9"
 ---
 ## ExifData.RecommendedExposureIndex property
 
@@ -20,8 +23,7 @@ The recommended exposure index.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PixelDataFormat.Rgb24BppPng
-second_title: Aspose.CAD for .NET API Reference
-description: PixelDataFormat property. Gets the PixelDataFormat defined for 24 bits per pixel with 8 bits for each of the alpha red green and blue alpha is not defined
+title: "PixelDataFormat.Rgb24BppPng"
+linktitle: "Rgb24BppPng"
+articleTitle: "Rgb24BppPng"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PixelDataFormat property. Gets the PixelDataFormat defined for 24 bits per pixel with 8 bits for each of the alpha, red, green and blue, alpha is not defined."
 type: docs
-weight: 60
-url: /net/aspose.cad/pixeldataformat/rgb24bpppng/
+weight: 180
+url: "/net/aspose.cad/pixeldataformat/rgb24bpppng/"
+product_version: "26.9"
 ---
 ## PixelDataFormat.Rgb24BppPng property
 
@@ -20,8 +23,7 @@ The [`PixelDataFormat`](../) defined for 24 bits per pixel with 8 bits for each 
 
 ### See Also
 
-* class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PixelDataFormat](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

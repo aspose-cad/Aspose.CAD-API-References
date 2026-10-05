@@ -1,10 +1,13 @@
 ---
-title: CadApplicationCodes.Name
-second_title: Aspose.CAD for .NET API Reference
-description: CadApplicationCodes property. Gets the name
+title: "CadApplicationCodes.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadApplicationCodes property. Gets the name."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/name/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/name/"
+product_version: "26.9"
 ---
 ## CadApplicationCodes.Name property
 
@@ -20,8 +23,7 @@ The name.
 
 ### See Also
 
-* class [CadApplicationCodes](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadApplicationCodes](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

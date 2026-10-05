@@ -1,10 +1,13 @@
 ---
-title: Enum ExifLightSource
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifLightSource enum. The exif light source
+title: "ExifLightSource Enum"
+linktitle: "ExifLightSource"
+articleTitle: "ExifLightSource"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifLightSource enum. The exif light source."
 type: docs
-weight: 620
-url: /net/aspose.cad.exif.enums/exiflightsource/
+weight: 110
+url: "/net/aspose.cad.exif.enums/exiflightsource/"
+product_version: "26.9"
 ---
 ## ExifLightSource enumeration
 
@@ -42,7 +45,6 @@ public enum ExifLightSource
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

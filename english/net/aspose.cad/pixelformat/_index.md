@@ -1,10 +1,13 @@
 ---
-title: Enum PixelFormat
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.PixelFormat enum. The pixel data format actual meaning
+title: "PixelFormat Enum"
+linktitle: "PixelFormat"
+articleTitle: "PixelFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.PixelFormat enum. The pixel data format actual meaning."
 type: docs
-weight: 37070
-url: /net/aspose.cad/pixelformat/
+weight: 700
+url: "/net/aspose.cad/pixelformat/"
+product_version: "26.9"
 ---
 ## PixelFormat enumeration
 
@@ -27,7 +30,6 @@ public enum PixelFormat : long
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

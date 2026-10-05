@@ -1,10 +1,13 @@
 ---
-title: CgmPoint.CompareTo
-second_title: Aspose.CAD for .NET API Reference
-description: CgmPoint method. sort CGMPoints to the leftest upper corner
+title: "CgmPoint.CompareTo"
+linktitle: "CompareTo"
+articleTitle: "CompareTo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmPoint method. sort CGMPoints to the leftest upper corner"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cgm.classes/cgmpoint/compareto/
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm.classes/cgmpoint/compareto/"
+product_version: "26.9"
 ---
 ## CgmPoint.CompareTo method
 
@@ -30,8 +33,7 @@ A value that indicates the relative order of the objects being compared. The ret
 
 ### See Also
 
-* class [CgmPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmPoint](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../../)
 

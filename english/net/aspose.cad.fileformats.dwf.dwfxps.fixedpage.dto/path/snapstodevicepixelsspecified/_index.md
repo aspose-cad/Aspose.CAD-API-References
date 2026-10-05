@@ -1,10 +1,13 @@
 ---
-title: Path.SnapsToDevicePixelsSpecified
-second_title: Aspose.CAD for .NET API Reference
-description: Path property. Gets or sets a value indicating whether snaps to device pixels specified
+title: "Path.SnapsToDevicePixelsSpecified"
+linktitle: "SnapsToDevicePixelsSpecified"
+articleTitle: "SnapsToDevicePixelsSpecified"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Path property. Gets or sets a value indicating whether snaps to device pixels specified."
 type: docs
-weight: 200
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/path/snapstodevicepixelsspecified/
+weight: 290
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/path/snapstodevicepixelsspecified/"
+product_version: "26.9"
 ---
 ## Path.SnapsToDevicePixelsSpecified property
 
@@ -16,8 +19,7 @@ public bool SnapsToDevicePixelsSpecified { get; set; }
 
 ### See Also
 
-* class [Path](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Path](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum KnownColor
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.KnownColor enum. Specifies the known system colors
+title: "KnownColor Enum"
+linktitle: "KnownColor"
+articleTitle: "KnownColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.KnownColor enum. Specifies the known system colors."
 type: docs
-weight: 36910
-url: /net/aspose.cad/knowncolor/
+weight: 560
+url: "/net/aspose.cad/knowncolor/"
+product_version: "26.9"
 ---
 ## KnownColor enumeration
 
@@ -162,7 +165,6 @@ public enum KnownColor
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

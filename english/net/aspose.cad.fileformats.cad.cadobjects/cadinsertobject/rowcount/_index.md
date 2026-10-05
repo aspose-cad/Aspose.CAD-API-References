@@ -1,10 +1,13 @@
 ---
-title: CadInsertObject.RowCount
-second_title: Aspose.CAD for .NET API Reference
-description: CadInsertObject property. Gets or sets the row count
+title: "CadInsertObject.RowCount"
+linktitle: "RowCount"
+articleTitle: "RowCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadInsertObject property. Gets or sets the row count."
 type: docs
 weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadinsertobject/rowcount/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadinsertobject/rowcount/"
+product_version: "26.9"
 ---
 ## CadInsertObject.RowCount property
 
@@ -16,8 +19,7 @@ public short RowCount { get; set; }
 
 ### See Also
 
-* class [CadInsertObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadInsertObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

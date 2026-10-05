@@ -1,10 +1,13 @@
 ---
-title: CadViewport.HasNewStatus
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Wether entity has new viewport status field DXF 90
+title: "CadViewport.HasNewStatus"
+linktitle: "HasNewStatus"
+articleTitle: "HasNewStatus"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Wether entity has new viewport status field (DXF 90)"
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/hasnewstatus/
+weight: 480
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/hasnewstatus/"
+product_version: "26.9"
 ---
 ## CadViewport.HasNewStatus property
 
@@ -16,8 +19,7 @@ public bool HasNewStatus { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

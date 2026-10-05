@@ -1,10 +1,13 @@
 ---
-title: JpegException.JpegException
-second_title: Aspose.CAD for .NET API Reference
-description: JpegException constructor. Initializes a new instance of the JpegException class
+title: "JpegException.JpegException"
+linktitle: "JpegException"
+articleTitle: "JpegException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegException constructor. Initializes a new instance of the JpegException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.imageformats/jpegexception/jpegexception/
+url: "/net/aspose.cad.cadexceptions.imageformats/jpegexception/jpegexception/"
+product_version: "26.9"
 ---
 ## JpegException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public JpegException(string message)
 
 ### See Also
 
-* class [JpegException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
+* class [JpegException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## JpegException(string, Exception) {#constructor_1}
+## JpegException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`JpegException`](../) class.
 
@@ -41,8 +44,7 @@ public JpegException(string message, Exception innerException)
 
 ### See Also
 
-* class [JpegException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JpegException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum UnitType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.UnitType enum. Represents unit types
+title: "UnitType Enum"
+linktitle: "UnitType"
+articleTitle: "UnitType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.UnitType enum. Represents unit types."
 type: docs
-weight: 36830
-url: /net/aspose.cad.imageoptions/unittype/
+weight: 570
+url: "/net/aspose.cad.imageoptions/unittype/"
+product_version: "26.9"
 ---
 ## UnitType enumeration
 
@@ -40,10 +43,12 @@ public enum UnitType
 | MicroInch | `19` | MicroInch unit |
 | Custom | `20` | Custom unit. |
 | Unitless | `21` | Unitless unit. |
+| Pixel | `22` | Pixel unit - 1/96 of an inch by default |
+| Point | `23` | Typographic point unit - 1/72 of an inch by default |
+| WmfUnit | `24` | Default unit of WMF format if 1/1440th of an inch |
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../)
 

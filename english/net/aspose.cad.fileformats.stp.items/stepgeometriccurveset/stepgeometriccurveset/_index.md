@@ -1,10 +1,13 @@
 ---
-title: StepGeometricCurveSet.StepGeometricCurveSet
-second_title: Aspose.CAD for .NET API Reference
-description: StepGeometricCurveSet constructor. The default constructor
+title: "StepGeometricCurveSet.StepGeometricCurveSet"
+linktitle: "StepGeometricCurveSet"
+articleTitle: "StepGeometricCurveSet"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepGeometricCurveSet constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stp.items/stepgeometriccurveset/stepgeometriccurveset/
+url: "/net/aspose.cad.fileformats.stp.items/stepgeometriccurveset/stepgeometriccurveset/"
+product_version: "26.9"
 ---
 ## StepGeometricCurveSet() {#constructor}
 
@@ -16,23 +19,24 @@ public StepGeometricCurveSet()
 
 ### See Also
 
-* class [StepGeometricCurveSet](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
+* class [StepGeometricCurveSet](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## StepGeometricCurveSet(string, List&lt;StepCurve&gt;) {#constructor_1}
+## StepGeometricCurveSet(string, List&lt;StepRepresentationItem&gt;) {#constructor_1}
+
+Initializes a new instance of the StepGeometricCurveSet class.
 
 ```csharp
-public StepGeometricCurveSet(string name, List<StepCurve> curves)
+public StepGeometricCurveSet(string name, List<StepRepresentationItem> curves)
 ```
 
 ### See Also
 
-* class [StepCurve](../../stepcurve/)
-* class [StepGeometricCurveSet](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepRepresentationItem](../../steprepresentationitem/)
+* class [StepGeometricCurveSet](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

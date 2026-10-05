@@ -1,10 +1,13 @@
 ---
-title: CadPolygonMesh.SurfaceType
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolygonMesh property. Gets or sets the type of the surface
+title: "CadPolygonMesh.SurfaceType"
+linktitle: "SurfaceType"
+articleTitle: "SurfaceType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolygonMesh property. Gets or sets the type of the surface."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh/surfacetype/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh/surfacetype/"
+product_version: "26.9"
 ---
 ## CadPolygonMesh.SurfaceType property
 
@@ -20,8 +23,7 @@ The type of the surface.
 
 ### See Also
 
-* class [CadPolygonMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolygonMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

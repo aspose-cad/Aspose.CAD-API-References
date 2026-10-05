@@ -1,10 +1,13 @@
 ---
-title: CadXdataContainer.Xdatas
-second_title: Aspose.CAD for .NET API Reference
-description: CadXdataContainer property. Gets or sets the xdatas
+title: "CadXdataContainer.Xdatas"
+linktitle: "Xdatas"
+articleTitle: "Xdatas"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadXdataContainer property. Gets or sets the xdatas."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadxdatacontainer/xdatas/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadxdatacontainer/xdatas/"
+product_version: "26.9"
 ---
 ## CadXdataContainer.Xdatas property
 
@@ -20,9 +23,8 @@ The xdatas.
 
 ### See Also
 
-* class [CadXdata](../../cadxdata/)
-* class [CadXdataContainer](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadXdata](../../cadxdata/)
+* class [CadXdataContainer](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

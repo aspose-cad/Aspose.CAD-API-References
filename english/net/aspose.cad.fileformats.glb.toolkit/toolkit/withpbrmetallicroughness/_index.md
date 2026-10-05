@@ -1,12 +1,15 @@
 ---
-title: Toolkit.WithPBRMetallicRoughness
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. Initializes this Material instance with PBR Metallic Roughness attributes
+title: "Toolkit.WithPBRMetallicRoughness"
+linktitle: "WithPBRMetallicRoughness"
+articleTitle: "WithPBRMetallicRoughness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method. Initializes this Material instance with PBR Metallic Roughness attributes."
 type: docs
-weight: 410
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withpbrmetallicroughness/
+weight: 380
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withpbrmetallicroughness/"
+product_version: "26.9"
 ---
-## WithPBRMetallicRoughness(this Material) {#withpbrmetallicroughness}
+## WithPBRMetallicRoughness(this Material) {#withpbrmetallicroughness}
 
 Initializes this [`Material`](../../../aspose.cad.fileformats.glb/material/) instance with PBR Metallic Roughness attributes.
 
@@ -24,26 +27,27 @@ This [`Material`](../../../aspose.cad.fileformats.glb/material/) instance.
 
 ### See Also
 
-* class [Material](../../../aspose.cad.fileformats.glb/material/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## WithPBRMetallicRoughness(this Material, Vector4, string, string, float, float) {#withpbrmetallicroughness_1}
+## WithPBRMetallicRoughness(this Material, Vector4, string, string, float, float) {#withpbrmetallicroughness_1}
+
+
 
 ```csharp
 public static Material WithPBRMetallicRoughness(this Material material, Vector4 baseColor, 
-    string baseColorImageFilePath, string metallicImageFilePath = null, float metallicFactor = 1, 
-    float roughnessFactor = 1)
+    string baseColorImageFilePath, string metallicImageFilePath = null, float metallicFactor = 1.0, 
+    float roughnessFactor = 1.0)
 ```
 
 ### See Also
 
-* class [Material](../../../aspose.cad.fileformats.glb/material/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Cad3DSolid.ModelerFormatVersion
-second_title: Aspose.CAD for .NET API Reference
-description: Cad3DSolid property. Gets or sets the Modeler format version number currently  1
+title: "Cad3DSolid.ModelerFormatVersion"
+linktitle: "ModelerFormatVersion"
+articleTitle: "ModelerFormatVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad3DSolid property. Gets or sets the Modeler format version number (currently = 1)"
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dsolid/modelerformatversion/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad3dsolid/modelerformatversion/"
+product_version: "26.9"
 ---
 ## Cad3DSolid.ModelerFormatVersion property
 
@@ -20,8 +23,7 @@ The Modeler format version number (currently = 1)
 
 ### See Also
 
-* class [Cad3DSolid](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DSolid](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

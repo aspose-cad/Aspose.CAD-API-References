@@ -1,10 +1,13 @@
 ---
-title: TiffStreamWriter.WriteSRationalArray
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamWriter method. Writes an array of signed rational values to the stream
+title: "TiffStreamWriter.WriteSRationalArray"
+linktitle: "WriteSRationalArray"
+articleTitle: "WriteSRationalArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamWriter method. Writes an array of signed rational values to the stream."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesrationalarray/
+weight: 110
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesrationalarray/"
+product_version: "26.9"
 ---
 ## TiffStreamWriter.WriteSRationalArray method
 
@@ -20,9 +23,8 @@ public void WriteSRationalArray(TiffSRational[] data)
 
 ### See Also
 
-* class [TiffSRational](../../../aspose.cad.fileformats.tiff/tiffsrational/)
-* class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffSRational](../../../aspose.cad.fileformats.tiff/tiffsrational/)
+* class [TiffStreamWriter](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

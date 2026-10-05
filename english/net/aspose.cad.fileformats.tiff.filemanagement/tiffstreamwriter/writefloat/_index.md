@@ -1,10 +1,13 @@
 ---
-title: TiffStreamWriter.WriteFloat
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamWriter method. Writes a single float value to the stream
+title: "TiffStreamWriter.WriteFloat"
+linktitle: "WriteFloat"
+articleTitle: "WriteFloat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamWriter method. Writes a single float value to the stream."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat/
+weight: 60
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat/"
+product_version: "26.9"
 ---
 ## TiffStreamWriter.WriteFloat method
 
@@ -20,8 +23,7 @@ public void WriteFloat(float data)
 
 ### See Also
 
-* class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamWriter](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

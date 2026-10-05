@@ -1,31 +1,14 @@
 ---
-title: CF2Image.LoadMessageFile
-second_title: Aspose.CAD for .NET API Reference
-description: CF2Image method. Loads a message file from the specified path
+title: "CF2Image.LoadMessageFile"
+linktitle: "LoadMessageFile"
+articleTitle: "LoadMessageFile"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2Image method. Loads a message file from the specified path."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cf2/cf2image/loadmessagefile/
+weight: 10
+url: "/net/aspose.cad.fileformats.cf2/cf2image/loadmessagefile/"
+product_version: "26.9"
 ---
-## LoadMessageFile(string) {#loadmessagefile_1}
-
-Loads a message file from the specified path.
-
-```csharp
-public void LoadMessageFile(string filePath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filePath | String | The file path of the message file. |
-
-### See Also
-
-* class [CF2Image](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
----
-
 ## LoadMessageFile(Stream) {#loadmessagefile}
 
 Loads a message file from the specified stream.
@@ -40,8 +23,27 @@ public void LoadMessageFile(Stream stream)
 
 ### See Also
 
-* class [CF2Image](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
+* class [CF2Image](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 
+---
+
+## LoadMessageFile(string) {#loadmessagefile_1}
+
+Loads a message file from the specified path.
+
+```csharp
+public void LoadMessageFile(string filePath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | String | The file path of the message file. |
+
+### See Also
+
+* class [CF2Image](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadStringAttribute.CadStringAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: CadStringAttribute constructor. Initializes a new instance of the CadStringAttribute class
+title: "CadStringAttribute.CadStringAttribute"
+linktitle: "CadStringAttribute"
+articleTitle: "CadStringAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadStringAttribute constructor. Initializes a new instance of the CadStringAttribute class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadstringattribute/cadstringattribute/
+url: "/net/aspose.cad.fileformats.cad/cadstringattribute/cadstringattribute/"
+product_version: "26.9"
 ---
 ## CadStringAttribute constructor
 
@@ -23,10 +26,9 @@ public CadStringAttribute(CadEntityAttribute attribute, CadParameterType paramet
 
 ### See Also
 
-* enum [CadEntityAttribute](../../cadentityattribute/)
-* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
-* class [CadStringAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
+* class [CadStringAttribute](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

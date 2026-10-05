@@ -1,10 +1,13 @@
 ---
-title: Enum CadMultiLineFlag
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadMultiLineFlag enum. The Cad MULTILINE flags
+title: "CadMultiLineFlag Enum"
+linktitle: "CadMultiLineFlag"
+articleTitle: "CadMultiLineFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadMultiLineFlag enum. The Cad MULTILINE flags."
 type: docs
-weight: 1440
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadmultilineflag/
+weight: 380
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadmultilineflag/"
+product_version: "26.9"
 ---
 ## CadMultiLineFlag enumeration
 
@@ -26,7 +29,6 @@ public enum CadMultiLineFlag : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

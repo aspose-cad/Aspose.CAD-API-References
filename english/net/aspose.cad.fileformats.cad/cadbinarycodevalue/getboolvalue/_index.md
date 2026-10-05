@@ -1,10 +1,13 @@
 ---
-title: CadBinaryCodeValue.GetBoolValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadBinaryCodeValue method. Gets the boolean value
+title: "CadBinaryCodeValue.GetBoolValue"
+linktitle: "GetBoolValue"
+articleTitle: "GetBoolValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBinaryCodeValue method. Gets the boolean value."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad/cadbinarycodevalue/getboolvalue/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad/cadbinarycodevalue/getboolvalue/"
+product_version: "26.9"
 ---
 ## CadBinaryCodeValue.GetBoolValue method
 
@@ -16,12 +19,11 @@ public override bool GetBoolValue()
 
 ### Return Value
 
-The Boolean.
+The `Boolean`.
 
 ### See Also
 
-* class [CadBinaryCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBinaryCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

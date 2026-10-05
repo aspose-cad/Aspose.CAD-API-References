@@ -1,10 +1,13 @@
 ---
-title: CadRevolvedSurface.BinaryDataSize
-second_title: Aspose.CAD for .NET API Reference
-description: CadRevolvedSurface property. Gets or sets the size of the binary data
+title: "CadRevolvedSurface.BinaryDataSize"
+linktitle: "BinaryDataSize"
+articleTitle: "BinaryDataSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRevolvedSurface property. Gets or sets the size of the binary data."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/binarydatasize/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/binarydatasize/"
+product_version: "26.9"
 ---
 ## CadRevolvedSurface.BinaryDataSize property
 
@@ -20,8 +23,7 @@ The size of the binary data.
 
 ### See Also
 
-* class [CadRevolvedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRevolvedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

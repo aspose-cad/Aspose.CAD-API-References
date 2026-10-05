@@ -1,12 +1,17 @@
 ---
-title: DefaultBinaryWriter.WriteViewportPoint
-second_title: Aspose.CAD for .NET API Reference
-description: DefaultBinaryWriter method. 
+title: "DefaultBinaryWriter.WriteViewportPoint"
+linktitle: "WriteViewportPoint"
+articleTitle: "WriteViewportPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DefaultBinaryWriter method."
 type: docs
-weight: 280
-url: /net/aspose.cad.fileformats.cgm.export/defaultbinarywriter/writeviewportpoint/
+weight: 170
+url: "/net/aspose.cad.fileformats.cgm.export/defaultbinarywriter/writeviewportpoint/"
+product_version: "26.9"
 ---
 ## DefaultBinaryWriter.WriteViewportPoint method
+
+
 
 ```csharp
 public void WriteViewportPoint(ViewportPoint data)
@@ -14,9 +19,8 @@ public void WriteViewportPoint(ViewportPoint data)
 
 ### See Also
 
-* class [ViewportPoint](../../../aspose.cad.fileformats.cgm.classes/viewportpoint/)
-* class [DefaultBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ViewportPoint](../../../aspose.cad.fileformats.cgm.classes/viewportpoint/)
+* class [DefaultBinaryWriter](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
+* assembly [Aspose.CAD](../../../)
 

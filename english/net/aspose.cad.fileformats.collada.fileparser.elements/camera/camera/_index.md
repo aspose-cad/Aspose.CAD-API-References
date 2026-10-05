@@ -1,10 +1,13 @@
 ---
-title: Camera.Camera
-second_title: Aspose.CAD for .NET API Reference
-description: Camera constructor. The default constructor
+title: "Camera.Camera"
+linktitle: "Camera"
+articleTitle: "Camera"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Camera constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/camera/camera/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/camera/camera/"
+product_version: "26.9"
 ---
 ## Camera constructor
 
@@ -16,8 +19,7 @@ public Camera()
 
 ### See Also
 
-* class [Camera](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Camera](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

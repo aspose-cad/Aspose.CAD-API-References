@@ -1,12 +1,17 @@
 ---
-title: Enum DashType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Enums.DashType enum. 
+title: "DashType Enum"
+linktitle: "DashType"
+articleTitle: "DashType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Enums.DashType enum."
 type: docs
-weight: 7190
-url: /net/aspose.cad.fileformats.cgm.enums/dashtype/
+weight: 70
+url: "/net/aspose.cad.fileformats.cgm.enums/dashtype/"
+product_version: "26.9"
 ---
 ## DashType enumeration
+
+
 
 ```csharp
 public enum DashType
@@ -24,7 +29,6 @@ public enum DashType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
+* assembly [Aspose.CAD](../../)
 

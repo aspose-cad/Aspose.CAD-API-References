@@ -1,10 +1,13 @@
 ---
-title: CadLayersList.CadSymbolTableGroupCodes
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayersList property. Gets or sets the cad symbol table group codes
+title: "CadLayersList.CadSymbolTableGroupCodes"
+linktitle: "CadSymbolTableGroupCodes"
+articleTitle: "CadSymbolTableGroupCodes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayersList property. Gets or sets the cad symbol table group codes."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad/cadlayerslist/cadsymboltablegroupcodes/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad/cadlayerslist/cadsymboltablegroupcodes/"
+product_version: "26.9"
 ---
 ## CadLayersList.CadSymbolTableGroupCodes property
 
@@ -20,9 +23,8 @@ The cad symbol table group codes.
 
 ### See Also
 
-* class [CadSymbolTableGroupCodes](../../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/)
-* class [CadLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSymbolTableGroupCodes](../../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/)
+* class [CadLayersList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

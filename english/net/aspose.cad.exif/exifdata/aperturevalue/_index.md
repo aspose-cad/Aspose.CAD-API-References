@@ -1,10 +1,13 @@
 ---
-title: ExifData.ApertureValue
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the aperture value
+title: "ExifData.ApertureValue"
+linktitle: "ApertureValue"
+articleTitle: "ApertureValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the aperture value."
 type: docs
-weight: 20
-url: /net/aspose.cad.exif/exifdata/aperturevalue/
+weight: 80
+url: "/net/aspose.cad.exif/exifdata/aperturevalue/"
+product_version: "26.9"
 ---
 ## ExifData.ApertureValue property
 
@@ -20,9 +23,8 @@ The aperture value.
 
 ### See Also
 
-* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadViewport.BackClipZValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the back clip z value
+title: "CadViewport.BackClipZValue"
+linktitle: "BackClipZValue"
+articleTitle: "BackClipZValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the back clip z value."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/backclipzvalue/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/backclipzvalue/"
+product_version: "26.9"
 ---
 ## CadViewport.BackClipZValue property
 
@@ -16,8 +19,7 @@ public double BackClipZValue { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

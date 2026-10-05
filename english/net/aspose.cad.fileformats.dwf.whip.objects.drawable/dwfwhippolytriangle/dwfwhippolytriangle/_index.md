@@ -1,10 +1,13 @@
 ---
-title: DwfWhipPolytriangle.DwfWhipPolytriangle
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipPolytriangle constructor. The default constructor
+title: "DwfWhipPolytriangle.DwfWhipPolytriangle"
+linktitle: "DwfWhipPolytriangle"
+articleTitle: "DwfWhipPolytriangle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipPolytriangle constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolytriangle/dwfwhippolytriangle/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolytriangle/dwfwhippolytriangle/"
+product_version: "26.9"
 ---
 ## DwfWhipPolytriangle constructor
 
@@ -16,8 +19,7 @@ public DwfWhipPolytriangle()
 
 ### See Also
 
-* class [DwfWhipPolytriangle](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipPolytriangle](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
+* assembly [Aspose.CAD](../../../)
 

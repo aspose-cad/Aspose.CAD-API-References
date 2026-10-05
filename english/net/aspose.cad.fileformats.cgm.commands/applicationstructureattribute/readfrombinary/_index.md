@@ -1,12 +1,17 @@
 ---
-title: ApplicationStructureAttribute.ReadFromBinary
-second_title: Aspose.CAD for .NET API Reference
-description: ApplicationStructureAttribute method. 
+title: "ApplicationStructureAttribute.ReadFromBinary"
+linktitle: "ReadFromBinary"
+articleTitle: "ReadFromBinary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ApplicationStructureAttribute method."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cgm.commands/applicationstructureattribute/readfrombinary/
+weight: 30
+url: "/net/aspose.cad.fileformats.cgm.commands/applicationstructureattribute/readfrombinary/"
+product_version: "26.9"
 ---
 ## ApplicationStructureAttribute.ReadFromBinary method
+
+
 
 ```csharp
 public override void ReadFromBinary(IBinaryReader reader)
@@ -14,9 +19,8 @@ public override void ReadFromBinary(IBinaryReader reader)
 
 ### See Also
 
-* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
-* class [ApplicationStructureAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
+* class [ApplicationStructureAttribute](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

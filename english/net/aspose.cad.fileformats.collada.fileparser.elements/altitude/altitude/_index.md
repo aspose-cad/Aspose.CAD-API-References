@@ -1,10 +1,13 @@
 ---
-title: Altitude.Altitude
-second_title: Aspose.CAD for .NET API Reference
-description: Altitude constructor. Initializes a new instance of the Altitude class
+title: "Altitude.Altitude"
+linktitle: "Altitude"
+articleTitle: "Altitude"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Altitude constructor. Initializes a new instance of the Altitude class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/altitude/altitude/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/altitude/altitude/"
+product_version: "26.9"
 ---
 ## Altitude constructor
 
@@ -16,8 +19,7 @@ public Altitude()
 
 ### See Also
 
-* class [Altitude](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Altitude](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

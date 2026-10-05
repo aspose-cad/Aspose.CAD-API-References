@@ -1,10 +1,14 @@
 ---
-title: Class DataMissmatchError
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.CadExceptions.DataMissmatchError class. Data mismatch exception class
+title: "DataMissmatchError Class"
+linktitle: "DataMissmatchError"
+articleTitle: "DataMissmatchError"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.CadExceptions.DataMissmatchError class. Data mismatch exception class"
 type: docs
-weight: 130
-url: /net/aspose.cad.cadexceptions/datamissmatcherror/
+weight: 30
+url: "/net/aspose.cad.cadexceptions/datamissmatcherror/"
+keywords: "DataMissmatchError, Aspose.CAD.CadExceptions, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DataMissmatchError class
 
@@ -22,7 +26,6 @@ public class DataMissmatchError : Exception
 
 ### See Also
 
-* namespace [Aspose.CAD.CadExceptions](../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.CadExceptions](../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../)
 

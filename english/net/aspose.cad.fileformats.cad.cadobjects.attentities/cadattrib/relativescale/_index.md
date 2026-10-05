@@ -1,10 +1,13 @@
 ---
-title: CadAttrib.RelativeScale
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttrib property. Gets or sets the relativeScale
+title: "CadAttrib.RelativeScale"
+linktitle: "RelativeScale"
+articleTitle: "RelativeScale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttrib property. Gets or sets the relativeScale."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/relativescale/
+weight: 200
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/relativescale/"
+product_version: "26.9"
 ---
 ## CadAttrib.RelativeScale property
 
@@ -16,8 +19,7 @@ public double RelativeScale { get; set; }
 
 ### See Also
 
-* class [CadAttrib](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAttrib](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

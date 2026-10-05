@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. Gets the name of the type
+title: "CadTableEntity.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. Gets the name of the type."
 type: docs
-weight: 240
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/typename/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/typename/"
+product_version: "26.9"
 ---
 ## CadTableEntity.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

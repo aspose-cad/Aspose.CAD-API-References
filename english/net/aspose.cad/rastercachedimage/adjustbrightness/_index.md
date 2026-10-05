@@ -1,10 +1,13 @@
 ---
-title: RasterCachedImage.AdjustBrightness
-second_title: Aspose.CAD for .NET API Reference
-description: RasterCachedImage method. Adjust of a brightness for image
+title: "RasterCachedImage.AdjustBrightness"
+linktitle: "AdjustBrightness"
+articleTitle: "AdjustBrightness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterCachedImage method. Adjust of a brightness for image."
 type: docs
-weight: 20
-url: /net/aspose.cad/rastercachedimage/adjustbrightness/
+weight: 110
+url: "/net/aspose.cad/rastercachedimage/adjustbrightness/"
+product_version: "26.9"
 ---
 ## RasterCachedImage.AdjustBrightness method
 
@@ -20,8 +23,7 @@ public override void AdjustBrightness(int brightness)
 
 ### See Also
 
-* class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterCachedImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

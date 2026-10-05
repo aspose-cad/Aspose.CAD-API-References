@@ -1,10 +1,13 @@
 ---
-title: CadDataTable.CadDataTable
-second_title: Aspose.CAD for .NET API Reference
-description: CadDataTable constructor. Initializes a new instance of the CadDataTable class
+title: "CadDataTable.CadDataTable"
+linktitle: "CadDataTable"
+articleTitle: "CadDataTable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDataTable constructor. Initializes a new instance of the CadDataTable class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/caddatatable/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/caddatatable/"
+product_version: "26.9"
 ---
 ## CadDataTable constructor
 
@@ -16,8 +19,7 @@ public CadDataTable()
 
 ### See Also
 
-* class [CadDataTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDataTable](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
+* assembly [Aspose.CAD](../../../)
 

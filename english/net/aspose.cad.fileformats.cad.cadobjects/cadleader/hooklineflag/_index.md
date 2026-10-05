@@ -1,10 +1,13 @@
 ---
-title: CadLeader.HookLineFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadLeader property. Gets or sets the hook line flag
+title: "CadLeader.HookLineFlag"
+linktitle: "HookLineFlag"
+articleTitle: "HookLineFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLeader property. Gets or sets the hook line flag."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadleader/hooklineflag/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadleader/hooklineflag/"
+product_version: "26.9"
 ---
 ## CadLeader.HookLineFlag property
 
@@ -16,8 +19,7 @@ public short HookLineFlag { get; set; }
 
 ### See Also
 
-* class [CadLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

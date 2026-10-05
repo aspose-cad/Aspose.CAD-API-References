@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.LinkedDataDescription
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. The linked data description
+title: "CadTableEntity.LinkedDataDescription"
+linktitle: "LinkedDataDescription"
+articleTitle: "LinkedDataDescription"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. The linked data description"
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/linkeddatadescription/
+weight: 420
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/linkeddatadescription/"
+product_version: "26.9"
 ---
 ## CadTableEntity.LinkedDataDescription property
 
@@ -16,8 +19,7 @@ public string LinkedDataDescription { get; set; }
 
 ### See Also
 
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

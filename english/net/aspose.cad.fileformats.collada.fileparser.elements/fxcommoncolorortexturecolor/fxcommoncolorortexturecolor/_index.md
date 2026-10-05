@@ -1,10 +1,13 @@
 ---
-title: FxCommonColorOrTextureColor.FxCommonColorOrTextureColor
-second_title: Aspose.CAD for .NET API Reference
-description: FxCommonColorOrTextureColor constructor. The default constructor
+title: "FxCommonColorOrTextureColor.FxCommonColorOrTextureColor"
+linktitle: "FxCommonColorOrTextureColor"
+articleTitle: "FxCommonColorOrTextureColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FxCommonColorOrTextureColor constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturecolor/fxcommoncolorortexturecolor/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturecolor/fxcommoncolorortexturecolor/"
+product_version: "26.9"
 ---
 ## FxCommonColorOrTextureColor constructor
 
@@ -16,8 +19,7 @@ public FxCommonColorOrTextureColor()
 
 ### See Also
 
-* class [FxCommonColorOrTextureColor](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonColorOrTextureColor](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

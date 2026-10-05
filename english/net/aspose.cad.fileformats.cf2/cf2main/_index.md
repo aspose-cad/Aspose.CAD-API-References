@@ -1,10 +1,14 @@
 ---
-title: Class CF2Main
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.CF2.CF2Main class. The Main section of the CF2 format
+title: "CF2Main Class"
+linktitle: "CF2Main"
+articleTitle: "CF2Main"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.CF2.CF2Main class. The Main section of the CF2 format"
 type: docs
-weight: 930
-url: /net/aspose.cad.fileformats.cf2/cf2main/
+weight: 130
+url: "/net/aspose.cad.fileformats.cf2/cf2main/"
+keywords: "CF2Main, Aspose.CAD.FileFormats.CF2, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CF2Main class
 
@@ -18,16 +22,15 @@ public class CF2Main
 
 | Name | Description |
 | --- | --- |
-| [DrawnElements](../../aspose.cad.fileformats.cf2/cf2main/drawnelements/) { get; } | The drawn elements |
-| [LeftLowerCorner](../../aspose.cad.fileformats.cf2/cf2main/leftlowercorner/) { get; set; } | The coordinates of the lower left corner of the cutting |
-| [Name](../../aspose.cad.fileformats.cf2/cf2main/name/) { get; set; } | The name of section. |
-| [Scale](../../aspose.cad.fileformats.cf2/cf2main/scale/) { get; set; } | The scale |
-| [SystemCoordinate](../../aspose.cad.fileformats.cf2/cf2main/systemcoordinate/) { get; set; } | The type of coordinate system. |
-| [UpperRightCorner](../../aspose.cad.fileformats.cf2/cf2main/upperrightcorner/) { get; set; } | The coordinates of the upper right corner of the cutting |
+| [DrawnElements](../../aspose.cad.fileformats.cf2/cf2main/drawnelements/) { get; } | The drawn elements |
+| [LeftLowerCorner](../../aspose.cad.fileformats.cf2/cf2main/leftlowercorner/) { get; set; } | The coordinates of the lower left corner of the cutting |
+| [Name](../../aspose.cad.fileformats.cf2/cf2main/name/) { get; set; } | The name of section. |
+| [Scale](../../aspose.cad.fileformats.cf2/cf2main/scale/) { get; set; } | The scale |
+| [SystemCoordinate](../../aspose.cad.fileformats.cf2/cf2main/systemcoordinate/) { get; set; } | The type of coordinate system. |
+| [UpperRightCorner](../../aspose.cad.fileformats.cf2/cf2main/upperrightcorner/) { get; set; } | The coordinates of the upper right corner of the cutting |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../)
 

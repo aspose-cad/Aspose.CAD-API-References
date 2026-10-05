@@ -1,10 +1,14 @@
 ---
-title: Class CadHatchPatternData
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadHatchPatternData class. Cad hatch pattern class
+title: "CadHatchPatternData Class"
+linktitle: "CadHatchPatternData"
+articleTitle: "CadHatchPatternData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadHatchPatternData class. Cad hatch pattern class"
 type: docs
-weight: 3700
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/"
+keywords: "CadHatchPatternData, Aspose.CAD.FileFormats.Cad.CadObjects.Hatch, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadHatchPatternData class
 
@@ -24,15 +28,14 @@ public class CadHatchPatternData
 
 | Name | Description |
 | --- | --- |
-| [DashLengthCount](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/dashlengthcount/) { get; set; } | Gets or sets the dash length count. |
-| [DashLengths](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/dashlengths/) { get; set; } | Gets or sets the dash lengths. |
-| [LineAngle](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/lineangle/) { get; set; } | Gets or sets the line angle. |
-| [LineBasePoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/linebasepoint/) { get; set; } | Gets or sets the line base point. |
-| [LineOffset](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/lineoffset/) { get; set; } | Gets or sets the line offset. |
+| [DashLengthCount](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/dashlengthcount/) { get; set; } | Gets or sets the dash length count. |
+| [DashLengths](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/dashlengths/) { get; set; } | Gets or sets the dash lengths. |
+| [LineAngle](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/lineangle/) { get; set; } | Gets or sets the line angle. |
+| [LineBasePoint](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/linebasepoint/) { get; set; } | Gets or sets the line base point. |
+| [LineOffset](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/lineoffset/) { get; set; } | Gets or sets the line offset. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../)
 

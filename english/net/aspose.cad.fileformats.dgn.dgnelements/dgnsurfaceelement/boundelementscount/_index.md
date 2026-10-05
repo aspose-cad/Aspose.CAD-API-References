@@ -1,10 +1,13 @@
 ---
-title: DgnSurfaceElement.BoundElementsCount
-second_title: Aspose.CAD for .NET API Reference
-description: DgnSurfaceElement property. Gets bound elements count
+title: "DgnSurfaceElement.BoundElementsCount"
+linktitle: "BoundElementsCount"
+articleTitle: "BoundElementsCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnSurfaceElement property. Gets bound elements count"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/boundelementscount/
+weight: 140
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/boundelementscount/"
+product_version: "26.9"
 ---
 ## DgnSurfaceElement.BoundElementsCount property
 
@@ -16,8 +19,7 @@ public int BoundElementsCount { get; }
 
 ### See Also
 
-* class [DgnSurfaceElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnSurfaceElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

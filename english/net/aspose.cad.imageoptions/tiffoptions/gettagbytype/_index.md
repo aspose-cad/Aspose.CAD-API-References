@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.GetTagByType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions method. Gets the instance of the tag by type
+title: "TiffOptions.GetTagByType"
+linktitle: "GetTagByType"
+articleTitle: "GetTagByType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions method. Gets the instance of the tag by type."
 type: docs
-weight: 570
-url: /net/aspose.cad.imageoptions/tiffoptions/gettagbytype/
+weight: 120
+url: "/net/aspose.cad.imageoptions/tiffoptions/gettagbytype/"
+product_version: "26.9"
 ---
 ## TiffOptions.GetTagByType method
 
@@ -24,10 +27,9 @@ Instance of the tag if exists or null otherwise.
 
 ### See Also
 
-* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

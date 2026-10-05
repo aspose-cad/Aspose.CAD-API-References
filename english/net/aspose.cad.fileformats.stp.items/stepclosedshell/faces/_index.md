@@ -1,22 +1,26 @@
 ---
-title: StepClosedShell.Faces
-second_title: Aspose.CAD for .NET API Reference
-description: StepClosedShell property. 
+title: "StepClosedShell.Faces"
+linktitle: "Faces"
+articleTitle: "Faces"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepClosedShell property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.stp.items/stepclosedshell/faces/
+weight: 30
+url: "/net/aspose.cad.fileformats.stp.items/stepclosedshell/faces/"
+product_version: "26.9"
 ---
 ## StepClosedShell.Faces property
 
+
+
 ```csharp
-public List<StepFace> Faces { get; set; }
+public List<StepRepresentationItem> Faces { get; set; }
 ```
 
 ### See Also
 
-* class [StepFace](../../stepface/)
-* class [StepClosedShell](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepRepresentationItem](../../steprepresentationitem/)
+* class [StepClosedShell](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

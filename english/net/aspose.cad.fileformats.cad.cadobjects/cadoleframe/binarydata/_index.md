@@ -1,10 +1,13 @@
 ---
-title: CadOleFrame.BinaryData
-second_title: Aspose.CAD for .NET API Reference
-description: CadOleFrame property. Gets or sets the binary data
+title: "CadOleFrame.BinaryData"
+linktitle: "BinaryData"
+articleTitle: "BinaryData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadOleFrame property. Gets or sets the binary data."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadoleframe/binarydata/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadoleframe/binarydata/"
+product_version: "26.9"
 ---
 ## CadOleFrame.BinaryData property
 
@@ -20,8 +23,7 @@ The binary data.
 
 ### See Also
 
-* class [CadOleFrame](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadOleFrame](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

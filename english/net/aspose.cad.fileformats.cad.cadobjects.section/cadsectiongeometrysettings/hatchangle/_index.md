@@ -1,10 +1,13 @@
 ---
-title: CadSectionGeometrySettings.HatchAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionGeometrySettings property. Gets or sets the hatch angle
+title: "CadSectionGeometrySettings.HatchAngle"
+linktitle: "HatchAngle"
+articleTitle: "HatchAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionGeometrySettings property. Gets or sets the hatch angle."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/hatchangle/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/hatchangle/"
+product_version: "26.9"
 ---
 ## CadSectionGeometrySettings.HatchAngle property
 
@@ -20,8 +23,7 @@ The hatch angle.
 
 ### See Also
 
-* class [CadSectionGeometrySettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionGeometrySettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

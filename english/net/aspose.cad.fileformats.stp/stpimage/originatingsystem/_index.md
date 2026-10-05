@@ -1,12 +1,17 @@
 ---
-title: StpImage.OriginatingSystem
-second_title: Aspose.CAD for .NET API Reference
-description: StpImage property. 
+title: "StpImage.OriginatingSystem"
+linktitle: "OriginatingSystem"
+articleTitle: "OriginatingSystem"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StpImage property."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.stp/stpimage/originatingsystem/
+weight: 150
+url: "/net/aspose.cad.fileformats.stp/stpimage/originatingsystem/"
+product_version: "26.9"
 ---
 ## StpImage.OriginatingSystem property
+
+
 
 ```csharp
 public string OriginatingSystem { get; set; }
@@ -14,8 +19,7 @@ public string OriginatingSystem { get; set; }
 
 ### See Also
 
-* class [StpImage](../)
-* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StpImage](../)
+* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
+* assembly [Aspose.CAD](../../../)
 

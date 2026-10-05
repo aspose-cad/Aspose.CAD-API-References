@@ -1,10 +1,13 @@
 ---
-title: ICadObjectContainer.XdataContainer
-second_title: Aspose.CAD for .NET API Reference
-description: ICadObjectContainer property. Gets or sets the xdata container
+title: "ICadObjectContainer.XdataContainer"
+linktitle: "XdataContainer"
+articleTitle: "XdataContainer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ICadObjectContainer property. Gets or sets the xdata container."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/icadobjectcontainer/xdatacontainer/
+weight: 10
+url: "/net/aspose.cad.fileformats.cad.cadobjects/icadobjectcontainer/xdatacontainer/"
+product_version: "26.9"
 ---
 ## ICadObjectContainer.XdataContainer property
 
@@ -20,9 +23,8 @@ The xdata container.
 
 ### See Also
 
-* class [CadXdataContainer](../../cadxdatacontainer/)
-* interface [ICadObjectContainer](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadXdataContainer](../../cadxdatacontainer/)
+* interface [ICadObjectContainer](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

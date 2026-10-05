@@ -1,10 +1,13 @@
 ---
-title: CadLongAttribute.CadLongAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: CadLongAttribute constructor. Initializes a new instance of the CadLongAttribute class
+title: "CadLongAttribute.CadLongAttribute"
+linktitle: "CadLongAttribute"
+articleTitle: "CadLongAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLongAttribute constructor. Initializes a new instance of the CadLongAttribute class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadlongattribute/cadlongattribute/
+url: "/net/aspose.cad.fileformats.cad/cadlongattribute/cadlongattribute/"
+product_version: "26.9"
 ---
 ## CadLongAttribute constructor
 
@@ -23,10 +26,9 @@ public CadLongAttribute(CadEntityAttribute attribute, CadParameterType parameter
 
 ### See Also
 
-* enum [CadEntityAttribute](../../cadentityattribute/)
-* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
-* class [CadLongAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
+* class [CadLongAttribute](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadDimensionStyleTable.Dimtfac
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets a scale factor for the text height of fractions and tolerance values relative to the dimension text height
+title: "CadDimensionStyleTable.Dimtfac"
+linktitle: "Dimtfac"
+articleTitle: "Dimtfac"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionStyleTable property. Gets or sets a scale factor for the text height of fractions and tolerance values relative to the dimension text height."
 type: docs
-weight: 610
-url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtfac/
+weight: 570
+url: "/net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtfac/"
+product_version: "26.9"
 ---
 ## CadDimensionStyleTable.Dimtfac property
 
@@ -16,8 +19,7 @@ public double Dimtfac { get; set; }
 
 ### See Also
 
-* class [CadDimensionStyleTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionStyleTable](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

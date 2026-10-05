@@ -1,10 +1,13 @@
 ---
-title: CadCodeValue.GetLongValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadCodeValue method. The get long value
+title: "CadCodeValue.GetLongValue"
+linktitle: "GetLongValue"
+articleTitle: "GetLongValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCodeValue method. The get long value."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad/cadcodevalue/getlongvalue/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad/cadcodevalue/getlongvalue/"
+product_version: "26.9"
 ---
 ## CadCodeValue.GetLongValue method
 
@@ -16,12 +19,11 @@ public virtual long GetLongValue()
 
 ### Return Value
 
-The Int64.
+The `Int64`.
 
 ### See Also
 
-* class [CadCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

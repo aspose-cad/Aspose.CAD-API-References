@@ -1,12 +1,17 @@
 ---
-title: Mesh.SetMorphWeights
-second_title: Aspose.CAD for .NET API Reference
-description: Mesh method. 
+title: "Mesh.SetMorphWeights"
+linktitle: "SetMorphWeights"
+articleTitle: "SetMorphWeights"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Mesh method."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.glb/mesh/setmorphweights/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb/mesh/setmorphweights/"
+product_version: "26.9"
 ---
-## SetMorphWeights(IReadOnlyList&lt;float&gt;) {#setmorphweights_1}
+## SetMorphWeights(IReadOnlyList&lt;float&gt;) {#setmorphweights}
+
+
 
 ```csharp
 public void SetMorphWeights(IReadOnlyList<float> weights)
@@ -14,13 +19,15 @@ public void SetMorphWeights(IReadOnlyList<float> weights)
 
 ### See Also
 
-* class [Mesh](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
+* class [Mesh](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## SetMorphWeights(SparseWeight8) {#setmorphweights}
+## SetMorphWeights(SparseWeight8) {#setmorphweights_1}
+
+
 
 ```csharp
 public void SetMorphWeights(SparseWeight8 weights)
@@ -28,9 +35,8 @@ public void SetMorphWeights(SparseWeight8 weights)
 
 ### See Also
 
-* struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
-* class [Mesh](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [SparseWeight8](../../../aspose.cad.fileformats.glb.transforms/sparseweight8/)
+* class [Mesh](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

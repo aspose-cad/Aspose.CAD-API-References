@@ -1,10 +1,13 @@
 ---
-title: GradientStop.GradientStop
-second_title: Aspose.CAD for .NET API Reference
-description: GradientStop constructor. The default constructor
+title: "GradientStop.GradientStop"
+linktitle: "GradientStop"
+articleTitle: "GradientStop"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GradientStop constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/gradientstop/gradientstop/
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/gradientstop/gradientstop/"
+product_version: "26.9"
 ---
 ## GradientStop constructor
 
@@ -16,8 +19,7 @@ public GradientStop()
 
 ### See Also
 
-* class [GradientStop](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GradientStop](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

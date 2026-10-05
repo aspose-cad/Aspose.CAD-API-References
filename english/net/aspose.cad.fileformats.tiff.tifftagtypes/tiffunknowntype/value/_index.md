@@ -1,10 +1,13 @@
 ---
-title: TiffUnknownType.Value
-second_title: Aspose.CAD for .NET API Reference
-description: TiffUnknownType property. Gets or sets the value this data type contains
+title: "TiffUnknownType.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffUnknownType property. Gets or sets the value this data type contains."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffunknowntype/value/
+weight: 90
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffunknowntype/value/"
+product_version: "26.9"
 ---
 ## TiffUnknownType.Value property
 
@@ -26,8 +29,7 @@ The value.
 
 ### See Also
 
-* class [TiffUnknownType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffUnknownType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

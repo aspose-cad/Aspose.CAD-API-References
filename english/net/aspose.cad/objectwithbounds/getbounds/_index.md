@@ -1,10 +1,13 @@
 ---
-title: ObjectWithBounds.GetBounds
-second_title: Aspose.CAD for .NET API Reference
-description: ObjectWithBounds method. Gets the objects bounds
+title: "ObjectWithBounds.GetBounds"
+linktitle: "GetBounds"
+articleTitle: "GetBounds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjectWithBounds method. Gets the object's bounds."
 type: docs
-weight: 20
-url: /net/aspose.cad/objectwithbounds/getbounds/
+weight: 10
+url: "/net/aspose.cad/objectwithbounds/getbounds/"
+product_version: "26.9"
 ---
 ## ObjectWithBounds.GetBounds method
 
@@ -24,10 +27,9 @@ The estimated object's bounds.
 
 ### See Also
 
-* struct [RectangleF](../../rectanglef/)
-* class [Matrix](../../matrix/)
-* class [ObjectWithBounds](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [RectangleF](../../rectanglef/)
+* class [Matrix](../../matrix/)
+* class [ObjectWithBounds](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

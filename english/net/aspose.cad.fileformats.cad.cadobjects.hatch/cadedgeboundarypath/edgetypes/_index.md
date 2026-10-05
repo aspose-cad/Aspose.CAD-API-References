@@ -1,10 +1,13 @@
 ---
-title: CadEdgeBoundaryPath.EdgeTypes
-second_title: Aspose.CAD for .NET API Reference
-description: CadEdgeBoundaryPath property. Gets or sets the edge types
+title: "CadEdgeBoundaryPath.EdgeTypes"
+linktitle: "EdgeTypes"
+articleTitle: "EdgeTypes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEdgeBoundaryPath property. Gets or sets the edge types."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/edgetypes/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/edgetypes/"
+product_version: "26.9"
 ---
 ## CadEdgeBoundaryPath.EdgeTypes property
 
@@ -20,8 +23,7 @@ The edge types.
 
 ### See Also
 
-* class [CadEdgeBoundaryPath](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEdgeBoundaryPath](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

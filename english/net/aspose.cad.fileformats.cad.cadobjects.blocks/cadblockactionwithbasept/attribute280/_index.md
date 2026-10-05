@@ -1,10 +1,13 @@
 ---
-title: CadBlockActionWithBasePt.Attribute280
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockActionWithBasePt property. Gets or sets the attribute 280
+title: "CadBlockActionWithBasePt.Attribute280"
+linktitle: "Attribute280"
+articleTitle: "Attribute280"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockActionWithBasePt property. Gets or sets the attribute 280."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/attribute280/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/attribute280/"
+product_version: "26.9"
 ---
 ## CadBlockActionWithBasePt.Attribute280 property
 
@@ -20,8 +23,7 @@ The attribute 280.
 
 ### See Also
 
-* class [CadBlockActionWithBasePt](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockActionWithBasePt](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

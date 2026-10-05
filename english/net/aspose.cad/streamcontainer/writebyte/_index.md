@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.WriteByte
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer method. Writes a byte to the current position in the stream and advances the position within the stream by one byte
+title: "StreamContainer.WriteByte"
+linktitle: "WriteByte"
+articleTitle: "WriteByte"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer method. Writes a byte to the current position in the stream and advances the position within the stream by one byte."
 type: docs
-weight: 180
-url: /net/aspose.cad/streamcontainer/writebyte/
+weight: 60
+url: "/net/aspose.cad/streamcontainer/writebyte/"
+product_version: "26.9"
 ---
 ## StreamContainer.WriteByte method
 
@@ -20,8 +23,7 @@ public virtual void WriteByte(byte value)
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

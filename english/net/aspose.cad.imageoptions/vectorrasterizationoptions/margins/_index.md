@@ -1,10 +1,13 @@
 ---
-title: VectorRasterizationOptions.Margins
-second_title: Aspose.CAD for .NET API Reference
-description: VectorRasterizationOptions property. Gets or sets Margins
+title: "VectorRasterizationOptions.Margins"
+linktitle: "Margins"
+articleTitle: "Margins"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "VectorRasterizationOptions property. Gets or sets Margins."
 type: docs
-weight: 90
-url: /net/aspose.cad.imageoptions/vectorrasterizationoptions/margins/
+weight: 10
+url: "/net/aspose.cad.imageoptions/vectorrasterizationoptions/margins/"
+product_version: "26.9"
 ---
 ## VectorRasterizationOptions.Margins property
 
@@ -16,9 +19,8 @@ public Margins Margins { get; set; }
 
 ### See Also
 
-* class [Margins](../../margins/)
-* class [VectorRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Margins](../../margins/)
+* class [VectorRasterizationOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

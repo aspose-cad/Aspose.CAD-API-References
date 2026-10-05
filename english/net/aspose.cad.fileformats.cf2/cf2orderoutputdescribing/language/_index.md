@@ -1,10 +1,13 @@
 ---
-title: CF2OrderOutputDescribing.Language
-second_title: Aspose.CAD for .NET API Reference
-description: CF2OrderOutputDescribing property. The language
+title: "CF2OrderOutputDescribing.Language"
+linktitle: "Language"
+articleTitle: "Language"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2OrderOutputDescribing property. The language"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cf2/cf2orderoutputdescribing/language/
+url: "/net/aspose.cad.fileformats.cf2/cf2orderoutputdescribing/language/"
+product_version: "26.9"
 ---
 ## CF2OrderOutputDescribing.Language property
 
@@ -16,8 +19,7 @@ public string Language { get; set; }
 
 ### See Also
 
-* class [CF2OrderOutputDescribing](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2OrderOutputDescribing](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

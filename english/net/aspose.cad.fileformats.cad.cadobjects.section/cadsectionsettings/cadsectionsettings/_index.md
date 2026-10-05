@@ -1,10 +1,13 @@
 ---
-title: CadSectionSettings.CadSectionSettings
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionSettings constructor. Initializes a new instance of the CadSectionSettings class
+title: "CadSectionSettings.CadSectionSettings"
+linktitle: "CadSectionSettings"
+articleTitle: "CadSectionSettings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionSettings constructor. Initializes a new instance of the CadSectionSettings class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectionsettings/cadsectionsettings/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectionsettings/cadsectionsettings/"
+product_version: "26.9"
 ---
 ## CadSectionSettings constructor
 
@@ -16,8 +19,7 @@ public CadSectionSettings()
 
 ### See Also
 
-* class [CadSectionSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionSettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

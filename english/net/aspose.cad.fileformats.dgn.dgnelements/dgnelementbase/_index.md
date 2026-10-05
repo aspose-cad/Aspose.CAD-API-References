@@ -1,10 +1,14 @@
 ---
-title: Class DgnElementBase
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnElementBase class. Represents base class for all elements
+title: "DgnElementBase Class"
+linktitle: "DgnElementBase"
+articleTitle: "DgnElementBase"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnElementBase class. Represents base class for all elements"
 type: docs
-weight: 8870
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/
+weight: 150
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/"
+keywords: "DgnElementBase, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnElementBase class
 
@@ -18,14 +22,13 @@ public abstract class DgnElementBase : IDrawingEntity
 
 | Name | Description |
 | --- | --- |
-| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 
 ### See Also
 
-* interface [IDrawingEntity](../../aspose.cad/idrawingentity/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* interface [IDrawingEntity](../../aspose.cad/idrawingentity/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

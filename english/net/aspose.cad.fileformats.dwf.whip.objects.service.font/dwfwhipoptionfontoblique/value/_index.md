@@ -1,10 +1,13 @@
 ---
-title: DwfWhipOptionFontOblique.Value
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipOptionFontOblique property. Gets value of option
+title: "DwfWhipOptionFontOblique.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipOptionFontOblique property. Gets value of option"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontoblique/value/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontoblique/value/"
+product_version: "26.9"
 ---
 ## DwfWhipOptionFontOblique.Value property
 
@@ -16,8 +19,7 @@ public int Value { get; }
 
 ### See Also
 
-* class [DwfWhipOptionFontOblique](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipOptionFontOblique](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
+* assembly [Aspose.CAD](../../../)
 

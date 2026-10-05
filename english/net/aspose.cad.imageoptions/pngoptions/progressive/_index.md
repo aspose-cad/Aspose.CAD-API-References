@@ -1,10 +1,13 @@
 ---
-title: PngOptions.Progressive
-second_title: Aspose.CAD for .NET API Reference
-description: PngOptions property. Gets or sets a value indicating whether this PngOptions is progressive
+title: "PngOptions.Progressive"
+linktitle: "Progressive"
+articleTitle: "Progressive"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PngOptions property. Gets or sets a value indicating whether this PngOptions is progressive."
 type: docs
 weight: 60
-url: /net/aspose.cad.imageoptions/pngoptions/progressive/
+url: "/net/aspose.cad.imageoptions/pngoptions/progressive/"
+product_version: "26.9"
 ---
 ## PngOptions.Progressive property
 
@@ -20,8 +23,7 @@ public bool Progressive { get; set; }
 
 ### See Also
 
-* class [PngOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PngOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 
