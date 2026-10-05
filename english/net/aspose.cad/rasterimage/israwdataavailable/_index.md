@@ -1,10 +1,13 @@
 ---
-title: RasterImage.IsRawDataAvailable
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage property. Gets a value indicating whether raw data loading is available
+title: "RasterImage.IsRawDataAvailable"
+linktitle: "IsRawDataAvailable"
+articleTitle: "IsRawDataAvailable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage property. Gets a value indicating whether raw data loading is available."
 type: docs
-weight: 50
-url: /net/aspose.cad/rasterimage/israwdataavailable/
+weight: 460
+url: "/net/aspose.cad/rasterimage/israwdataavailable/"
+product_version: "26.9"
 ---
 ## RasterImage.IsRawDataAvailable property
 
@@ -20,8 +23,7 @@ public bool IsRawDataAvailable { get; }
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

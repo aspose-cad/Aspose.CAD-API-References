@@ -1,10 +1,13 @@
 ---
-title: DgnExtendedViewInfo.Perspective
-second_title: Aspose.CAD for .NET API Reference
-description: DgnExtendedViewInfo property. Gets perspective disappearing point
+title: "DgnExtendedViewInfo.Perspective"
+linktitle: "Perspective"
+articleTitle: "Perspective"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnExtendedViewInfo property. Gets perspective disappearing point"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.dgn/dgnextendedviewinfo/perspective/
+weight: 50
+url: "/net/aspose.cad.fileformats.dgn/dgnextendedviewinfo/perspective/"
+product_version: "26.9"
 ---
 ## DgnExtendedViewInfo.Perspective property
 
@@ -16,8 +19,7 @@ public double Perspective { get; }
 
 ### See Also
 
-* class [DgnExtendedViewInfo](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnExtendedViewInfo](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

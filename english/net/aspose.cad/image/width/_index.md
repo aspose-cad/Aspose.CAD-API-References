@@ -1,10 +1,13 @@
 ---
-title: Image.Width
-second_title: Aspose.CAD for .NET API Reference
-description: Image property. Gets the image width
+title: "Image.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image property. Gets the image width."
 type: docs
-weight: 130
-url: /net/aspose.cad/image/width/
+weight: 250
+url: "/net/aspose.cad/image/width/"
+product_version: "26.9"
 ---
 ## Image.Width property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's width: " + drawing.Width);
 
 ### See Also
 
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

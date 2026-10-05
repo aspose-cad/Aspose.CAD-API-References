@@ -1,12 +1,15 @@
 ---
-title: Struct U3dAuthorFace
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorFace struct. The face of the author progressive mesh
+title: "U3dAuthorFace Struct"
+linktitle: "U3dAuthorFace"
+articleTitle: "U3dAuthorFace"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorFace struct. The face of the author (progressive) mesh."
 type: docs
-weight: 35800
-url: /net/aspose.cad.fileformats.u3d.elements/u3dauthorface/
+weight: 20
+url: "/net/aspose.cad.fileformats.u3d.elements/u3dauthorface/"
+product_version: "26.9"
 ---
-## U3dAuthorFace structure
+## U3dAuthorFace struct
 
 The face of the author (progressive) mesh.
 
@@ -18,26 +21,25 @@ public struct U3dAuthorFace
 
 | Name | Description |
 | --- | --- |
-| [Item](../../aspose.cad.fileformats.u3d.elements/u3dauthorface/item/) { get; set; } |  |
+| Item { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [IndexerGet](../../aspose.cad.fileformats.u3d.elements/u3dauthorface/indexerget/)(int) |  |
-| [IndexerSet](../../aspose.cad.fileformats.u3d.elements/u3dauthorface/indexerset/)(int, uint) |  |
+| IndexerGet(int) |  |
+| IndexerSet(int, uint) |  |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [A](../../aspose.cad.fileformats.u3d.elements/u3dauthorface/a/) |  |
-| [B](../../aspose.cad.fileformats.u3d.elements/u3dauthorface/b/) |  |
-| [C](../../aspose.cad.fileformats.u3d.elements/u3dauthorface/c/) |  |
+| A |  |
+| B |  |
+| C |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../aspose.cad.fileformats.u3d.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../aspose.cad.fileformats.u3d.elements/)
+* assembly [Aspose.CAD](../../)
 

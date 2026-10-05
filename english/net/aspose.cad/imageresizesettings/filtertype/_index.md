@@ -1,10 +1,13 @@
 ---
-title: ImageResizeSettings.FilterType
-second_title: Aspose.CAD for .NET API Reference
-description: ImageResizeSettings property. Gets or sets the type of the filter
+title: "ImageResizeSettings.FilterType"
+linktitle: "FilterType"
+articleTitle: "FilterType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageResizeSettings property. Gets or sets the type of the filter."
 type: docs
-weight: 50
-url: /net/aspose.cad/imageresizesettings/filtertype/
+weight: 40
+url: "/net/aspose.cad/imageresizesettings/filtertype/"
+product_version: "26.9"
 ---
 ## ImageResizeSettings.FilterType property
 
@@ -20,9 +23,8 @@ The type of the filter.
 
 ### See Also
 
-* enum [ImageFilterType](../../imagefiltertype/)
-* class [ImageResizeSettings](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ImageFilterType](../../imagefiltertype/)
+* class [ImageResizeSettings](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

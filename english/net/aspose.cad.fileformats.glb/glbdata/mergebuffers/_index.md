@@ -1,10 +1,13 @@
 ---
-title: GlbData.MergeBuffers
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Merges all the LogicalBuffers instances into a single big one
+title: "GlbData.MergeBuffers"
+linktitle: "MergeBuffers"
+articleTitle: "MergeBuffers"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Merges all the LogicalBuffers instances into a single big one."
 type: docs
-weight: 420
-url: /net/aspose.cad.fileformats.glb/glbdata/mergebuffers/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb/glbdata/mergebuffers/"
+product_version: "26.9"
 ---
 ## MergeBuffers() {#mergebuffers}
 
@@ -23,14 +26,17 @@ public void MergeBuffers()
 ## Remarks
 
 When merging the buffers, it also adjusts the BufferView offsets so the data they point to remains the same.
+ 
+ 
 
-If images are required to be included in the binary, call [`MergeImages`](../mergeimages/) before calling `MergeBuffers`.
+ If images are required to be included in the binary, call [`MergeImages`](../mergeimages/)
+ before calling [`MergeBuffers`](../mergebuffers/).
 
 ### See Also
 
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -48,8 +54,7 @@ public void MergeBuffers(int maxSize)
 
 ### See Also
 
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

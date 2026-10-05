@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.TextLeftAttachmentType
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader property. Gets or sets the type of the text left attachment
+title: "CadMLeader.TextLeftAttachmentType"
+linktitle: "TextLeftAttachmentType"
+articleTitle: "TextLeftAttachmentType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader property. Gets or sets the type of the text left attachment."
 type: docs
-weight: 360
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/textleftattachmenttype/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/textleftattachmenttype/"
+product_version: "26.9"
 ---
 ## CadMLeader.TextLeftAttachmentType property
 
@@ -20,8 +23,7 @@ The type of the text left attachment.
 
 ### See Also
 
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

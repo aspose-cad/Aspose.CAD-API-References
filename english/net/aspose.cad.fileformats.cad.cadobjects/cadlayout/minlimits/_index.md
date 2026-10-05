@@ -1,10 +1,13 @@
 ---
-title: CadLayout.MinLimits
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayout property. Gets or sets the minimum limits
+title: "CadLayout.MinLimits"
+linktitle: "MinLimits"
+articleTitle: "MinLimits"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayout property. Gets or sets the minimum limits."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/minlimits/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlayout/minlimits/"
+product_version: "26.9"
 ---
 ## CadLayout.MinLimits property
 
@@ -20,9 +23,8 @@ The minimum limits.
 
 ### See Also
 
-* class [Cad2DPoint](../../cad2dpoint/)
-* class [CadLayout](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../cad2dpoint/)
+* class [CadLayout](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

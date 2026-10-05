@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSDestDistanceRef
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the GPS unit used to express the distance to the destination point
+title: "ExifData.GPSDestDistanceRef"
+linktitle: "GPSDestDistanceRef"
+articleTitle: "GPSDestDistanceRef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the GPS unit used to express the distance to the destination point."
 type: docs
-weight: 430
-url: /net/aspose.cad.exif/exifdata/gpsdestdistanceref/
+weight: 450
+url: "/net/aspose.cad.exif/exifdata/gpsdestdistanceref/"
+product_version: "26.9"
 ---
 ## ExifData.GPSDestDistanceRef property
 
@@ -20,8 +23,7 @@ The GPS unit used to express the distance to the destination point.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

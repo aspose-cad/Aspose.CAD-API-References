@@ -1,10 +1,13 @@
 ---
-title: ObserverPoint.ObserverPoint
-second_title: Aspose.CAD for .NET API Reference
-description: ObserverPoint constructor. Initializes a new instance of the ObserverPoint class with default rotation angles
+title: "ObserverPoint.ObserverPoint"
+linktitle: "ObserverPoint"
+articleTitle: "ObserverPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObserverPoint constructor. Initializes a new instance of the ObserverPoint class with default rotation angles."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats/observerpoint/observerpoint/
+url: "/net/aspose.cad.fileformats/observerpoint/observerpoint/"
+product_version: "26.9"
 ---
 ## ObserverPoint() {#constructor}
 
@@ -16,13 +19,13 @@ public ObserverPoint()
 
 ### See Also
 
-* class [ObserverPoint](../)
-* namespace [Aspose.CAD.FileFormats](../../../aspose.cad.fileformats/)
-* assembly [Aspose.CAD](../../../)
+* class [ObserverPoint](../)
+* namespace [Aspose.CAD.FileFormats](../../../aspose.cad.fileformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## ObserverPoint(float, float, float) {#constructor_1}
+## ObserverPoint(float, float, float) {#constructor_1}
 
 Initializes a new instance of the [`ObserverPoint`](../) class.
 
@@ -38,8 +41,7 @@ public ObserverPoint(float angleRotateX, float angleRotateY, float angleRotateZ)
 
 ### See Also
 
-* class [ObserverPoint](../)
-* namespace [Aspose.CAD.FileFormats](../../../aspose.cad.fileformats/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObserverPoint](../)
+* namespace [Aspose.CAD.FileFormats](../../../aspose.cad.fileformats/)
+* assembly [Aspose.CAD](../../../)
 

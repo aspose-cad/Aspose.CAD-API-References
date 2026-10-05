@@ -1,10 +1,13 @@
 ---
-title: CadThumbnailImage.BytesNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadThumbnailImage property. Gets or sets the bytes number
+title: "CadThumbnailImage.BytesNumber"
+linktitle: "BytesNumber"
+articleTitle: "BytesNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadThumbnailImage property. Gets or sets the bytes number."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadthumbnailimage/bytesnumber/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadthumbnailimage/bytesnumber/"
+product_version: "26.9"
 ---
 ## CadThumbnailImage.BytesNumber property
 
@@ -20,8 +23,7 @@ The bytes number.
 
 ### See Also
 
-* class [CadThumbnailImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadThumbnailImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

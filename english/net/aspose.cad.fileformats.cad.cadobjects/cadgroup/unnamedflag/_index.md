@@ -1,10 +1,13 @@
 ---
-title: CadGroup.UnnamedFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadGroup property. Gets or sets the unnamed flag
+title: "CadGroup.UnnamedFlag"
+linktitle: "UnnamedFlag"
+articleTitle: "UnnamedFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGroup property. Gets or sets the unnamed flag."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgroup/unnamedflag/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgroup/unnamedflag/"
+product_version: "26.9"
 ---
 ## CadGroup.UnnamedFlag property
 
@@ -20,8 +23,7 @@ The unnamed flag.
 
 ### See Also
 
-* class [CadGroup](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGroup](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

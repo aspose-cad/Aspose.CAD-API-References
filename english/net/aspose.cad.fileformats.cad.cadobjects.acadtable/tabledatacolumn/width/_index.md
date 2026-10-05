@@ -1,10 +1,13 @@
 ---
-title: TableDataColumn.Width
-second_title: Aspose.CAD for .NET API Reference
-description: TableDataColumn property. The column width
+title: "TableDataColumn.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableDataColumn property. The column width"
 type: docs
 weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatacolumn/width/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatacolumn/width/"
+product_version: "26.9"
 ---
 ## TableDataColumn.Width property
 
@@ -16,8 +19,7 @@ public double Width { get; set; }
 
 ### See Also
 
-* class [TableDataColumn](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableDataColumn](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

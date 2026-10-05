@@ -1,10 +1,13 @@
 ---
-title: CadHatch.Elevation
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the elevation
+title: "CadHatch.Elevation"
+linktitle: "Elevation"
+articleTitle: "Elevation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the elevation."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/elevation/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/elevation/"
+product_version: "26.9"
 ---
 ## CadHatch.Elevation property
 
@@ -16,8 +19,7 @@ public double Elevation { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

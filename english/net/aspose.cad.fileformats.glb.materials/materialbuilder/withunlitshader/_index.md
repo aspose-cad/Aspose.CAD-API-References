@@ -1,10 +1,13 @@
 ---
-title: MaterialBuilder.WithUnlitShader
-second_title: Aspose.CAD for .NET API Reference
-description: MaterialBuilder method. Sets ShaderStyle to use SHADERUNLIT
+title: "MaterialBuilder.WithUnlitShader"
+linktitle: "WithUnlitShader"
+articleTitle: "WithUnlitShader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MaterialBuilder method. Sets ShaderStyle to use SHADERUNLIT."
 type: docs
-weight: 380
-url: /net/aspose.cad.fileformats.glb.materials/materialbuilder/withunlitshader/
+weight: 130
+url: "/net/aspose.cad.fileformats.glb.materials/materialbuilder/withunlitshader/"
+product_version: "26.9"
 ---
 ## MaterialBuilder.WithUnlitShader method
 
@@ -20,8 +23,7 @@ This [`MaterialBuilder`](../).
 
 ### See Also
 
-* class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MaterialBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

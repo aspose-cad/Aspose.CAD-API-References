@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ReadSShort
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Read signed short value from the stream
+title: "TiffStreamReader.ReadSShort"
+linktitle: "ReadSShort"
+articleTitle: "ReadSShort"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Read signed short value from the stream."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsshort/
+weight: 190
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsshort/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ReadSShort method
 
@@ -24,8 +27,7 @@ A signed short value.
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

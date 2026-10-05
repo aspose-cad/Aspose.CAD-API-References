@@ -1,10 +1,13 @@
 ---
-title: IfcHeader.Schema
-second_title: Aspose.CAD for .NET API Reference
-description: IfcHeader property. Gets or sets the schema property for IFC
+title: "IfcHeader.Schema"
+linktitle: "Schema"
+articleTitle: "Schema"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcHeader property. Gets or sets the schema property for IFC."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.ifc.header/ifcheader/schema/
+url: "/net/aspose.cad.fileformats.ifc.header/ifcheader/schema/"
+product_version: "26.9"
 ---
 ## IfcHeader.Schema property
 
@@ -20,9 +23,8 @@ The schema property instance.
 
 ### See Also
 
-* class [IfcFileSchema](../../ifcfileschema/)
-* class [IfcHeader](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcFileSchema](../../ifcfileschema/)
+* class [IfcHeader](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
+* assembly [Aspose.CAD](../../../)
 

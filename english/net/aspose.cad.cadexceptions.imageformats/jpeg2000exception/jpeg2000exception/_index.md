@@ -1,10 +1,13 @@
 ---
-title: Jpeg2000Exception.Jpeg2000Exception
-second_title: Aspose.CAD for .NET API Reference
-description: Jpeg2000Exception constructor. Initializes a new instance of the Jpeg2000Exception class
+title: "Jpeg2000Exception.Jpeg2000Exception"
+linktitle: "Jpeg2000Exception"
+articleTitle: "Jpeg2000Exception"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Jpeg2000Exception constructor. Initializes a new instance of the Jpeg2000Exception class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.imageformats/jpeg2000exception/jpeg2000exception/
+url: "/net/aspose.cad.cadexceptions.imageformats/jpeg2000exception/jpeg2000exception/"
+product_version: "26.9"
 ---
 ## Jpeg2000Exception(string) {#constructor}
 
@@ -20,13 +23,13 @@ public Jpeg2000Exception(string message)
 
 ### See Also
 
-* class [Jpeg2000Exception](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
+* class [Jpeg2000Exception](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Jpeg2000Exception(string, Exception) {#constructor_1}
+## Jpeg2000Exception(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`Jpeg2000Exception`](../) class.
 
@@ -41,8 +44,7 @@ public Jpeg2000Exception(string message, Exception innerException)
 
 ### See Also
 
-* class [Jpeg2000Exception](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Jpeg2000Exception](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 

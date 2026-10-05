@@ -1,10 +1,13 @@
 ---
-title: TiffUndefinedType.DataSize
-second_title: Aspose.CAD for .NET API Reference
-description: TiffUndefinedType property. Gets the additional data size in bytes in case the 12 bytes is not enough to fit the tag data
+title: "TiffUndefinedType.DataSize"
+linktitle: "DataSize"
+articleTitle: "DataSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffUndefinedType property. Gets the additional data size in bytes (in case the 12 bytes is not enough to fit the tag data)."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/datasize/
+weight: 70
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/datasize/"
+product_version: "26.9"
 ---
 ## TiffUndefinedType.DataSize property
 
@@ -20,8 +23,7 @@ The additional data size in bytes.
 
 ### See Also
 
-* class [TiffUndefinedType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffUndefinedType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

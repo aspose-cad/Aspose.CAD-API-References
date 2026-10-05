@@ -1,14 +1,19 @@
 ---
-title: Class ObjShape
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Obj.Elements.ObjShape class. Represents a shape object for OBJ format. Contains information about set of faces with corresponding material vertex texture and normal indices
+title: "ObjShape Class"
+linktitle: "ObjShape"
+articleTitle: "ObjShape"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Obj.Elements.ObjShape class. Represents a shape object for OBJ format. Contains information about set of faces with corresponding mate..."
 type: docs
-weight: 33790
-url: /net/aspose.cad.fileformats.obj.elements/objshape/
+weight: 40
+url: "/net/aspose.cad.fileformats.obj.elements/objshape/"
+keywords: "ObjShape, Aspose.CAD.FileFormats.Obj.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ObjShape class
 
-Represents a shape object for OBJ format. Contains information about set of faces with corresponding material, vertex, texture, and normal indices.
+Represents a shape object for OBJ format. 
+ Contains information about set of faces with corresponding material, vertex, texture, and normal indices.
 
 ```csharp
 public class ObjShape
@@ -24,13 +29,12 @@ public class ObjShape
 
 | Name | Description |
 | --- | --- |
-| [Faces](../../aspose.cad.fileformats.obj.elements/objshape/faces/) { get; set; } | Gets or sets the faces. |
-| [MaterialId](../../aspose.cad.fileformats.obj.elements/objshape/materialid/) { get; set; } | Gets or sets the material identifier. |
-| [Name](../../aspose.cad.fileformats.obj.elements/objshape/name/) { get; set; } | Gets or sets the name. |
+| [Faces](../../aspose.cad.fileformats.obj.elements/objshape/faces/) { get; set; } | Gets or sets the faces. |
+| [MaterialId](../../aspose.cad.fileformats.obj.elements/objshape/materialid/) { get; set; } | Gets or sets the material identifier. |
+| [Name](../../aspose.cad.fileformats.obj.elements/objshape/name/) { get; set; } | Gets or sets the name. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../aspose.cad.fileformats.obj.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../aspose.cad.fileformats.obj.elements/)
+* assembly [Aspose.CAD](../../)
 

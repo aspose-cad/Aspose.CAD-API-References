@@ -1,12 +1,17 @@
 ---
-title: NodeBuilder.Flatten
-second_title: Aspose.CAD for .NET API Reference
-description: NodeBuilder method. 
+title: "NodeBuilder.Flatten"
+linktitle: "Flatten"
+articleTitle: "Flatten"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NodeBuilder method."
 type: docs
-weight: 290
-url: /net/aspose.cad.fileformats.glb.scenes/nodebuilder/flatten/
+weight: 80
+url: "/net/aspose.cad.fileformats.glb.scenes/nodebuilder/flatten/"
+product_version: "26.9"
 ---
 ## NodeBuilder.Flatten method
+
+
 
 ```csharp
 public static IEnumerable<NodeBuilder> Flatten(NodeBuilder container)
@@ -14,8 +19,7 @@ public static IEnumerable<NodeBuilder> Flatten(NodeBuilder container)
 
 ### See Also
 
-* class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NodeBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

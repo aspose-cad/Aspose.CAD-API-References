@@ -1,10 +1,13 @@
 ---
-title: Enum CadEntitySpaceMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadEntitySpaceMode enum. The Cad entity space mode
+title: "CadEntitySpaceMode Enum"
+linktitle: "CadEntitySpaceMode"
+articleTitle: "CadEntitySpaceMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadEntitySpaceMode enum. The Cad entity space mode."
 type: docs
-weight: 1270
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadentityspacemode/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadentityspacemode/"
+product_version: "26.9"
 ---
 ## CadEntitySpaceMode enumeration
 
@@ -23,7 +26,6 @@ public enum CadEntitySpaceMode
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

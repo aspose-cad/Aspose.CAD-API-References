@@ -1,10 +1,13 @@
 ---
-title: CadExtrudedSurface.SweepVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadExtrudedSurface property. Gets or sets sweep vector
+title: "CadExtrudedSurface.SweepVector"
+linktitle: "SweepVector"
+articleTitle: "SweepVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadExtrudedSurface property. Gets or sets sweep vector."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/sweepvector/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/sweepvector/"
+product_version: "26.9"
 ---
 ## CadExtrudedSurface.SweepVector property
 
@@ -16,9 +19,8 @@ public Cad3DPoint SweepVector { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadExtrudedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadExtrudedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

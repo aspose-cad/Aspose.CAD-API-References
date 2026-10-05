@@ -1,12 +1,17 @@
 ---
-title: GeometricPatternDefinition.PatternIndex
-second_title: Aspose.CAD for .NET API Reference
-description: GeometricPatternDefinition property. 
+title: "GeometricPatternDefinition.PatternIndex"
+linktitle: "PatternIndex"
+articleTitle: "PatternIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GeometricPatternDefinition property."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/patternindex/
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/patternindex/"
+product_version: "26.9"
 ---
 ## GeometricPatternDefinition.PatternIndex property
+
+
 
 ```csharp
 public int PatternIndex { get; set; }
@@ -14,8 +19,7 @@ public int PatternIndex { get; set; }
 
 ### See Also
 
-* class [GeometricPatternDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GeometricPatternDefinition](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

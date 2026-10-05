@@ -1,14 +1,18 @@
 ---
-title: TechniqueConstant.Reflective
-second_title: Aspose.CAD for .NET API Reference
-description: TechniqueConstant property. Gets or sets the reflective. Declares the color of a perfect mirror reflection
+title: "TechniqueConstant.Reflective"
+linktitle: "Reflective"
+articleTitle: "Reflective"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TechniqueConstant property. Gets or sets the reflective. Declares the color of a perfect mirror reflection."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniqueconstant/reflective/
+weight: 30
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/techniqueconstant/reflective/"
+product_version: "26.9"
 ---
 ## TechniqueConstant.Reflective property
 
-Gets or sets the reflective. Declares the color of a perfect mirror reflection.
+Gets or sets the reflective.
+ Declares the color of a perfect mirror reflection.
 
 ```csharp
 public FxCommonColorOrTexture Reflective { get; set; }
@@ -16,9 +20,8 @@ public FxCommonColorOrTexture Reflective { get; set; }
 
 ### See Also
 
-* class [FxCommonColorOrTexture](../../fxcommoncolorortexture/)
-* class [TechniqueConstant](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonColorOrTexture](../../fxcommoncolorortexture/)
+* class [TechniqueConstant](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

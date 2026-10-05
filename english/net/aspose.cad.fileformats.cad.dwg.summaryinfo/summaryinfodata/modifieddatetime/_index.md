@@ -1,10 +1,13 @@
 ---
-title: SummaryInfoData.ModifiedDateTime
-second_title: Aspose.CAD for .NET API Reference
-description: SummaryInfoData property. Gets the modified date time
+title: "SummaryInfoData.ModifiedDateTime"
+linktitle: "ModifiedDateTime"
+articleTitle: "ModifiedDateTime"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SummaryInfoData property. Gets the modified date time."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/modifieddatetime/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/modifieddatetime/"
+product_version: "26.9"
 ---
 ## SummaryInfoData.ModifiedDateTime property
 
@@ -20,8 +23,7 @@ The modified date time.
 
 ### See Also
 
-* class [SummaryInfoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
+* assembly [Aspose.CAD](../../../)
 

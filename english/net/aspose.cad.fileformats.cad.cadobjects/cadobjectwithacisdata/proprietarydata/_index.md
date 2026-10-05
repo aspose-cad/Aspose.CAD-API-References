@@ -1,10 +1,13 @@
 ---
-title: CadObjectWithAcisData.ProprietaryData
-second_title: Aspose.CAD for .NET API Reference
-description: CadObjectWithAcisData property. Gets or sets the Proprietary data
+title: "CadObjectWithAcisData.ProprietaryData"
+linktitle: "ProprietaryData"
+articleTitle: "ProprietaryData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadObjectWithAcisData property. Gets or sets the Proprietary data"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectwithacisdata/proprietarydata/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadobjectwithacisdata/proprietarydata/"
+product_version: "26.9"
 ---
 ## CadObjectWithAcisData.ProprietaryData property
 
@@ -20,8 +23,7 @@ The Proprietary data
 
 ### See Also
 
-* class [CadObjectWithAcisData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadObjectWithAcisData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TiffStreamWriter.WriteSByte
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamWriter method. Writes a single signed byte value to the stream
+title: "TiffStreamWriter.WriteSByte"
+linktitle: "WriteSByte"
+articleTitle: "WriteSByte"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamWriter method. Writes a single signed byte value to the stream."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesbyte/
+weight: 120
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesbyte/"
+product_version: "26.9"
 ---
 ## TiffStreamWriter.WriteSByte method
 
@@ -20,8 +23,7 @@ public void WriteSByte(sbyte data)
 
 ### See Also
 
-* class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamWriter](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

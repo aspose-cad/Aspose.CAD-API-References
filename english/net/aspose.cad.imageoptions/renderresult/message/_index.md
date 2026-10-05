@@ -1,10 +1,13 @@
 ---
-title: RenderResult.Message
-second_title: Aspose.CAD for .NET API Reference
-description: RenderResult property. Gets or sets string message
+title: "RenderResult.Message"
+linktitle: "Message"
+articleTitle: "Message"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RenderResult property. Gets or sets string message"
 type: docs
 weight: 20
-url: /net/aspose.cad.imageoptions/renderresult/message/
+url: "/net/aspose.cad.imageoptions/renderresult/message/"
+product_version: "26.9"
 ---
 ## RenderResult.Message property
 
@@ -16,8 +19,7 @@ public string Message { get; set; }
 
 ### See Also
 
-* class [RenderResult](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RenderResult](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.ReadByte
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer method. Reads a byte from the stream and advances the position within the stream by one byte or returns 1 if at the end of the stream
+title: "StreamContainer.ReadByte"
+linktitle: "ReadByte"
+articleTitle: "ReadByte"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer method. Reads a byte from the stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream."
 type: docs
-weight: 120
-url: /net/aspose.cad/streamcontainer/readbyte/
+weight: 110
+url: "/net/aspose.cad/streamcontainer/readbyte/"
+product_version: "26.9"
 ---
 ## StreamContainer.ReadByte method
 
@@ -20,8 +23,7 @@ The unsigned byte cast to an Int32, or -1 if at the end of the stream.
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

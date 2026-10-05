@@ -1,10 +1,13 @@
 ---
-title: Enum DwfResult
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.DwfResult enum. Represents operations result
+title: "DwfResult Enum"
+linktitle: "DwfResult"
+articleTitle: "DwfResult"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.DwfResult enum. Represents operations result"
 type: docs
-weight: 9630
-url: /net/aspose.cad.fileformats.dwf.whip/dwfresult/
+weight: 20
+url: "/net/aspose.cad.fileformats.dwf.whip/dwfresult/"
+product_version: "26.9"
 ---
 ## DwfResult enumeration
 
@@ -46,7 +49,6 @@ public enum DwfResult
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip](../../aspose.cad.fileformats.dwf.whip/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip](../../aspose.cad.fileformats.dwf.whip/)
+* assembly [Aspose.CAD](../../)
 

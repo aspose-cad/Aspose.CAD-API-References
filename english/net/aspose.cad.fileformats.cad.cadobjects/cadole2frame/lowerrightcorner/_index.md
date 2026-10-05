@@ -1,10 +1,13 @@
 ---
-title: CadOle2Frame.LowerRightCorner
-second_title: Aspose.CAD for .NET API Reference
-description: CadOle2Frame property. Gets or sets the lower right corner
+title: "CadOle2Frame.LowerRightCorner"
+linktitle: "LowerRightCorner"
+articleTitle: "LowerRightCorner"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadOle2Frame property. Gets or sets the lower right corner."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/lowerrightcorner/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/lowerrightcorner/"
+product_version: "26.9"
 ---
 ## CadOle2Frame.LowerRightCorner property
 
@@ -20,9 +23,8 @@ The lower right corner.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadOle2Frame](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadOle2Frame](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

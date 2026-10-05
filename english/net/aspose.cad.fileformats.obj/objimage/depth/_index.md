@@ -1,14 +1,19 @@
 ---
-title: ObjImage.Depth
-second_title: Aspose.CAD for .NET API Reference
-description: ObjImage property. Gets the depth of the image. Calculated as the difference between maximum and minimum values of the Z coordinate amongst all vertices. Minimal allowed depth is 0
+title: "ObjImage.Depth"
+linktitle: "Depth"
+articleTitle: "Depth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjImage property. Gets the depth of the image. Calculated as the difference between maximum and minimum values of the Z coordinate amongst all vertices. Min..."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.obj/objimage/depth/
+weight: 70
+url: "/net/aspose.cad.fileformats.obj/objimage/depth/"
+product_version: "26.9"
 ---
 ## ObjImage.Depth property
 
-Gets the depth of the image. Calculated as the difference between maximum and minimum values of the Z coordinate amongst all vertices. Minimal allowed depth is 0.
+Gets the depth of the image.
+ Calculated as the difference between maximum and minimum values of the Z coordinate amongst all vertices.
+ Minimal allowed depth is 0.
 
 ```csharp
 public override int Depth { get; }
@@ -31,8 +36,7 @@ using (ObjImage objImage = (ObjImage)Image.Load(fileName))
 
 ### See Also
 
-* class [ObjImage](../)
-* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjImage](../)
+* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
+* assembly [Aspose.CAD](../../../)
 

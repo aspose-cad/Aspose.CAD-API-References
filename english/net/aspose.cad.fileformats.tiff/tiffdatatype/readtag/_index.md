@@ -1,10 +1,13 @@
 ---
-title: TiffDataType.ReadTag
-second_title: Aspose.CAD for .NET API Reference
-description: TiffDataType method. Reads the tag data
+title: "TiffDataType.ReadTag"
+linktitle: "ReadTag"
+articleTitle: "ReadTag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffDataType method. Reads the tag data."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff/tiffdatatype/readtag/
+url: "/net/aspose.cad.fileformats.tiff/tiffdatatype/readtag/"
+product_version: "26.9"
 ---
 ## TiffDataType.ReadTag method
 
@@ -31,9 +34,8 @@ The read tag.
 
 ### See Also
 
-* class [TiffStreamReader](../../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/)
-* class [TiffDataType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDataType](../)
+* class [TiffStreamReader](../../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

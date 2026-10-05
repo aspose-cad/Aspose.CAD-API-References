@@ -1,10 +1,13 @@
 ---
-title: ResolutionSetting.HorizontalResolution
-second_title: Aspose.CAD for .NET API Reference
-description: ResolutionSetting property. Gets or sets the horizontal resolution
+title: "ResolutionSetting.HorizontalResolution"
+linktitle: "HorizontalResolution"
+articleTitle: "HorizontalResolution"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ResolutionSetting property. Gets or sets the horizontal resolution."
 type: docs
-weight: 20
-url: /net/aspose.cad/resolutionsetting/horizontalresolution/
+weight: 30
+url: "/net/aspose.cad/resolutionsetting/horizontalresolution/"
+product_version: "26.9"
 ---
 ## ResolutionSetting.HorizontalResolution property
 
@@ -16,8 +19,7 @@ public double HorizontalResolution { get; set; }
 
 ### See Also
 
-* class [ResolutionSetting](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ResolutionSetting](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

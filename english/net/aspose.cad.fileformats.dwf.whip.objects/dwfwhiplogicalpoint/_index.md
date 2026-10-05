@@ -1,10 +1,14 @@
 ---
-title: Class DwfWhipLogicalPoint
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfWhipLogicalPoint class. Represents Logical point
+title: "DwfWhipLogicalPoint Class"
+linktitle: "DwfWhipLogicalPoint"
+articleTitle: "DwfWhipLogicalPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfWhipLogicalPoint class. Represents Logical point"
 type: docs
-weight: 9910
-url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalpoint/
+weight: 60
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalpoint/"
+keywords: "DwfWhipLogicalPoint, Aspose.CAD.FileFormats.Dwf.Whip.Objects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DwfWhipLogicalPoint class
 
@@ -19,18 +23,17 @@ public class DwfWhipLogicalPoint
 | Name | Description |
 | --- | --- |
 | [DwfWhipLogicalPoint](dwfwhiplogicalpoint/#constructor)() | Initializes a new instance of the `DwfWhipLogicalPoint` class |
-| [DwfWhipLogicalPoint](dwfwhiplogicalpoint/#constructor_1)(double, double) | Initializes a new instance of the `DwfWhipLogicalPoint` class |
+| [DwfWhipLogicalPoint](dwfwhiplogicalpoint/#constructor_1)(double, double) | Initializes a new instance of the `DwfWhipLogicalPoint` class |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [X](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalpoint/x/) { get; set; } | Gets or sets X coordinate |
-| [Y](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalpoint/y/) { get; set; } | Gets or sets Y coordinate |
+| [X](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalpoint/x/) { get; set; } | Gets or sets X coordinate |
+| [Y](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplogicalpoint/y/) { get; set; } | Gets or sets Y coordinate |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../)
 

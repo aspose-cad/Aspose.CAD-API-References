@@ -1,10 +1,13 @@
 ---
-title: SceneBuilder.ApplyBasisTransform
-second_title: Aspose.CAD for .NET API Reference
-description: SceneBuilder method. Applies a tranform the this SceneBuilder
+title: "SceneBuilder.ApplyBasisTransform"
+linktitle: "ApplyBasisTransform"
+articleTitle: "ApplyBasisTransform"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SceneBuilder method. Applies a tranform the this SceneBuilder."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/applybasistransform/
+weight: 120
+url: "/net/aspose.cad.fileformats.glb.scenes/scenebuilder/applybasistransform/"
+product_version: "26.9"
 ---
 ## SceneBuilder.ApplyBasisTransform method
 
@@ -21,16 +24,23 @@ public void ApplyBasisTransform(Matrix4x4 basisTransform, string basisNodeName =
 
 ## Remarks
 
-In some circunstances, it's not possible to apply the *basisTransform* to the nodes in the scene. In these cases a dummy node is created, and these nodes are made children of this dummy node.
+In some circunstances, it's not possible to apply the
+ *basisTransform* to the nodes in the scene.
 
-This method is useful to switch axes (Z-UP or Y-UP) and left right handed mode.
+ In these cases a dummy node is created, and these
+ nodes are made children of this dummy node.
+ 
+ 
 
-This method should be called at the end, when the scene has been created completely.
+ This method is useful to switch axes (Z-UP or Y-UP) and left right handed mode.
+ 
+ 
+
+ This method should be called at the end, when the scene has been created completely.
 
 ### See Also
 
-* class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SceneBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

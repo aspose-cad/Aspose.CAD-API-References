@@ -1,12 +1,17 @@
 ---
-title: BmpOptions.TargetFormat
-second_title: Aspose.CAD for .NET API Reference
-description: BmpOptions property. 
+title: "BmpOptions.TargetFormat"
+linktitle: "TargetFormat"
+articleTitle: "TargetFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BmpOptions property."
 type: docs
-weight: 50
-url: /net/aspose.cad.imageoptions/bmpoptions/targetformat/
+weight: 30
+url: "/net/aspose.cad.imageoptions/bmpoptions/targetformat/"
+product_version: "26.9"
 ---
 ## BmpOptions.TargetFormat property
+
+
 
 ```csharp
 public override FileFormat TargetFormat { get; }
@@ -14,9 +19,8 @@ public override FileFormat TargetFormat { get; }
 
 ### See Also
 
-* enum [FileFormat](../../../aspose.cad/fileformat/)
-* class [BmpOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [FileFormat](../../../aspose.cad/fileformat/)
+* class [BmpOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

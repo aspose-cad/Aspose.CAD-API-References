@@ -1,10 +1,13 @@
 ---
-title: CadLineTypesDictionary.ValuesTyped
-second_title: Aspose.CAD for .NET API Reference
-description: CadLineTypesDictionary property. Gets the strongly typed values collection
+title: "CadLineTypesDictionary.ValuesTyped"
+linktitle: "ValuesTyped"
+articleTitle: "ValuesTyped"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLineTypesDictionary property. Gets the strongly typed values collection."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad/cadlinetypesdictionary/valuestyped/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad/cadlinetypesdictionary/valuestyped/"
+product_version: "26.9"
 ---
 ## CadLineTypesDictionary.ValuesTyped property
 
@@ -20,9 +23,8 @@ The strongly typed values collection.
 
 ### See Also
 
-* class [CadLineTypeTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/)
-* class [CadLineTypesDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLineTypeTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/)
+* class [CadLineTypesDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class CadLineTypeTableObject
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadTables.CadLineTypeTableObject class. The Cad line type table object
+title: "CadLineTypeTableObject Class"
+linktitle: "CadLineTypeTableObject"
+articleTitle: "CadLineTypeTableObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadTables.CadLineTypeTableObject class. The Cad line type table object."
 type: docs
-weight: 4350
-url: /net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/"
+keywords: "CadLineTypeTableObject, Aspose.CAD.FileFormats.Cad.CadTables, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadLineTypeTableObject class
 
@@ -24,36 +28,38 @@ public class CadLineTypeTableObject : CadOwnedObjectBase
 
 | Name | Description |
 | --- | --- |
-| [AlignmentCode](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/alignmentcode/) { get; set; } | Gets or sets the alignment code. |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
-| [DashDotLength](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/dashdotlength/) { get; set; } | Gets or sets the dash dot length. |
-| [Description](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/description/) { get; set; } | Gets or sets the description. |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
-| [Flags](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/flags/) { get; set; } | Gets or sets the flags. |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
-| [LineTypeElement](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/linetypeelement/) { get; set; } | Gets or sets the line type element. |
-| [Name](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/name/) { get; set; } | Gets or sets the name. |
-| [NumberOfLinetypeElements](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/numberoflinetypeelements/) { get; set; } | Gets or sets the number of linetype elements. |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
-| [OffsetX](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsetx/) { get; set; } | Gets or sets the offset x. |
-| [OffsetXElementIndex](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsetxelementindex/) { get; set; } | Gets or sets the index of the offset x element. |
-| [OffsetY](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsety/) { get; set; } | Gets or sets the offset y. |
-| [OffsetYElementIndex](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsetyelementindex/) { get; set; } | Gets or sets the index of the offset y element. |
-| [PatternLength](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/patternlength/) { get; set; } | Gets or sets the pattern length. |
-| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
-| [RotationAngle](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/rotationangle/) { get; set; } | Gets or sets the rotation angle. |
-| [Scale](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/scale/) { get; set; } | Gets or sets the scale. |
-| [ScaleLinetypeElementIndex](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/scalelinetypeelementindex/) { get; set; } | Gets or sets the index of the scale linetype element. |
-| [ShapeNumber](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/shapenumber/) { get; set; } | Gets or sets the shape number. |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
-| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
-| [StyleReference](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/stylereference/) { get; set; } | Gets or sets the style reference. |
-| [TextStrings](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/textstrings/) { get; set; } | Gets or sets the text strings. |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+| [AlignmentCode](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/alignmentcode/) { get; set; } | Gets or sets the alignment code. |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [DashDotLength](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/dashdotlength/) { get; set; } | Gets or sets the dash dot length. |
+| [Description](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/description/) { get; set; } | Gets or sets the description. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [Flags](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/flags/) { get; set; } | Gets or sets the flags. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [LineTypeElement](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/linetypeelement/) { get; set; } | Gets or sets the line type element. |
+| [LineTypeElements](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/linetypeelements/) { get; set; } | Gets or sets the linetype elements. |
+| [Name](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/name/) { get; set; } | Gets or sets the name. |
+| [NumberOfLinetypeElements](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/numberoflinetypeelements/) { get; set; } | Gets or sets the number of linetype elements. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [OffsetX](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsetx/) { get; set; } | Gets or sets the offset x. |
+| [OffsetXElementIndex](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsetxelementindex/) { get; set; } | Gets or sets the index of the offset x element. |
+| [OffsetY](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsety/) { get; set; } | Gets or sets the offset y. |
+| [OffsetYElementIndex](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsetyelementindex/) { get; set; } | Gets or sets the index of the offset y element. |
+| [PatternLength](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/patternlength/) { get; set; } | Gets or sets the pattern length. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
+| [RotationAngle](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/rotationangle/) { get; set; } | Gets or sets the rotation angle. |
+| [Scale](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/scale/) { get; set; } | Gets or sets the scale. |
+| [ScaleLinetypeElementIndex](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/scalelinetypeelementindex/) { get; set; } | Gets or sets the index of the scale linetype element. |
+| [ShapeNumber](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/shapenumber/) { get; set; } | Gets or sets the shape number. |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| [StyleReference](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/stylereference/) { get; set; } | Gets or sets the style reference. |
+| [TextStrings](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/textstrings/) { get; set; } | Gets or sets the text strings. |
+| [XRefBlockHandle](../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/xrefblockhandle/) { get; set; } | Gets or sets the external reference block handle |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods
 
@@ -64,8 +70,7 @@ public class CadLineTypeTableObject : CadOwnedObjectBase
 
 ### See Also
 
-* class [CadOwnedObjectBase](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../)
-
+* class [CadOwnedObjectBase](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../)
 

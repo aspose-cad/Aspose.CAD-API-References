@@ -1,17 +1,25 @@
 ---
-title: Struct AffineTransform
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Transforms.AffineTransform struct. Represents an affine transform in 3D space with two mutually exclusive representantions
+title: "AffineTransform Struct"
+linktitle: "AffineTransform"
+articleTitle: "AffineTransform"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Transforms.AffineTransform struct. Represents an affine transform in 3D space, with two mutually exclusive representantions: As a ..."
 type: docs
-weight: 11560
-url: /net/aspose.cad.fileformats.glb.transforms/affinetransform/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb.transforms/affinetransform/"
+product_version: "26.9"
 ---
-## AffineTransform structure
+## AffineTransform struct
 
 Represents an affine transform in 3D space, with two mutually exclusive representantions:
 
-* As a 4x3 Matrix. When [`IsMatrix`](./ismatrix/) is true. Publicly exposed as [`Matrix`](./matrix/).
-* As a Scale/Rotation/Translation chain. When [`IsSRT`](./issrt/) is true. Publicly exposed as: [`Scale`](./scale/), [`Rotation`](./rotation/), [`Translation`](./translation/).
+ As a 4x3 Matrix. When [`IsMatrix`](./ismatrix/) is true.
+
+ Publicly exposed as [`Matrix`](./matrix/).
+ 
+ As a Scale/Rotation/Translation chain. When [`IsSRT`](./issrt/) is true.
+
+ Publicly exposed as: [`Scale`](./scale/), [`Rotation`](./rotation/), [`Translation`](./translation/).
 
 ```csharp
 public struct AffineTransform : IEquatable<AffineTransform>
@@ -21,68 +29,61 @@ public struct AffineTransform : IEquatable<AffineTransform>
 
 | Name | Description |
 | --- | --- |
-| [AffineTransform](affinetransform/#constructor_1)(Matrix4x4) |  |
-| [AffineTransform](affinetransform/#constructor_2)(Quaternion) |  |
-| [AffineTransform](affinetransform/#constructor_3)(Quaternion, Vector3) |  |
-| [AffineTransform](affinetransform/#constructor_4)(Vector3, Quaternion, Vector3) |  |
-| [AffineTransform](affinetransform/#constructor)(Vector3?, Quaternion?, Vector3?) |  |
+| [AffineTransform](affinetransform/)(Vector3?, Quaternion?, Vector3?) | Initializes a new instance of the AffineTransform class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [IsIdentity](../../aspose.cad.fileformats.glb.transforms/affinetransform/isidentity/) { get; } |  |
-| [IsLosslessDecomposable](../../aspose.cad.fileformats.glb.transforms/affinetransform/islosslessdecomposable/) { get; } | Gets a value indicating whether this transform can be decomposed to SRT without precission loss. |
-| [IsMatrix](../../aspose.cad.fileformats.glb.transforms/affinetransform/ismatrix/) { get; } | Gets a value indicating whether this `AffineTransform` represents a Matrix4x4. |
-| [IsSRT](../../aspose.cad.fileformats.glb.transforms/affinetransform/issrt/) { get; } | Gets a value indicating whether this `AffineTransform` represents a SRT chain. |
-| [IsValid](../../aspose.cad.fileformats.glb.transforms/affinetransform/isvalid/) { get; } |  |
-| [Matrix](../../aspose.cad.fileformats.glb.transforms/affinetransform/matrix/) { get; } | Gets the Matrix4x4 transform of the current `AffineTransform` |
-| [Rotation](../../aspose.cad.fileformats.glb.transforms/affinetransform/rotation/) { get; } | Gets the rotation. |
-| [Scale](../../aspose.cad.fileformats.glb.transforms/affinetransform/scale/) { get; } | Gets the scale. |
-| [Translation](../../aspose.cad.fileformats.glb.transforms/affinetransform/translation/) { get; } | Gets the translation |
+| IsIdentity { get; } |  |
+| IsLosslessDecomposable { get; } | Gets a value indicating whether this transform can be decomposed to SRT without precission loss. |
+| IsMatrix { get; } | Gets a value indicating whether this `AffineTransform` represents a Matrix4x4. |
+| IsSRT { get; } | Gets a value indicating whether this `AffineTransform` represents a SRT chain. |
+| IsValid { get; } |  |
+| Matrix { get; } | Gets the Matrix4x4 transform of the current `AffineTransform` |
+| Rotation { get; } | Gets the rotation. |
+| Scale { get; } | Gets the scale. |
+| Translation { get; } | Gets the translation |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Blend](../../aspose.cad.fileformats.glb.transforms/affinetransform/blend/)(AffineTransform[], float[]) |  |
-| static [CreateDecomposed](../../aspose.cad.fileformats.glb.transforms/affinetransform/createdecomposed/)(Matrix4x4) |  |
-| static [CreateFromAny](../../aspose.cad.fileformats.glb.transforms/affinetransform/createfromany/)(Matrix4x4?, Vector3?, Quaternion?, Vector3?) |  |
-| static [Multiply](../../aspose.cad.fileformats.glb.transforms/affinetransform/multiply/)(ref AffineTransform, ref AffineTransform) | Multiplies *a* by *b*. |
-| [Equals](../../aspose.cad.fileformats.glb.transforms/affinetransform/equals/#equals)(AffineTransform) |  |
-| override [Equals](../../aspose.cad.fileformats.glb.transforms/affinetransform/equals/#equals_1)(object) |  |
-| [GetDecomposed](../../aspose.cad.fileformats.glb.transforms/affinetransform/getdecomposed/)() | If this object represents a Matrix4x4, it returns a decomposed representation. |
-| override [GetHashCode](../../aspose.cad.fileformats.glb.transforms/affinetransform/gethashcode/)() |  |
-| [TryDecompose](../../aspose.cad.fileformats.glb.transforms/affinetransform/trydecompose/#trydecompose)(out AffineTransform) |  |
-| [TryDecompose](../../aspose.cad.fileformats.glb.transforms/affinetransform/trydecompose/#trydecompose_1)(out Vector3, out Quaternion, out Vector3) |  |
-| [WithRotation](../../aspose.cad.fileformats.glb.transforms/affinetransform/withrotation/)(Quaternion) |  |
-| [WithScale](../../aspose.cad.fileformats.glb.transforms/affinetransform/withscale/)(Vector3) |  |
-| [WithTranslation](../../aspose.cad.fileformats.glb.transforms/affinetransform/withtranslation/)(Vector3) |  |
-| static [AreGeometricallyEquivalent](../../aspose.cad.fileformats.glb.transforms/affinetransform/aregeometricallyequivalent/)(ref AffineTransform, ref AffineTransform, float) | Checks whether two transform represent the same geometric spatial transformation. |
-| static [TransformNormal](../../aspose.cad.fileformats.glb.transforms/affinetransform/transformnormal/)(Vector3, ref AffineTransform) | Transforms a vector normal by a specified transform. |
-| static [TryInvert](../../aspose.cad.fileformats.glb.transforms/affinetransform/tryinvert/)(ref AffineTransform, out AffineTransform) | Inverts the specified transform. The return value indicates whether the operation succeeded. |
-| [operator ==](../../aspose.cad.fileformats.glb.transforms/affinetransform/op_equality/) |  |
-| [implicit operator](../../aspose.cad.fileformats.glb.transforms/affinetransform/op_implicit/#op_implicit) |  (2 operators) |
-| [operator !=](../../aspose.cad.fileformats.glb.transforms/affinetransform/op_inequality/) |  |
-| [operator *](../../aspose.cad.fileformats.glb.transforms/affinetransform/op_multiply/) |  |
+| AreGeometricallyEquivalent(ref AffineTransform, ref AffineTransform, float) | Checks whether two transform represent the same geometric spatial transformation. |
+| Blend(AffineTransform[], float[]) |  |
+| CreateDecomposed(Matrix4x4) |  |
+| CreateFromAny(Matrix4x4?, Vector3?, Quaternion?, Vector3?) |  |
+| Equals(AffineTransform) |  |
+| Equals(object) |  |
+| GetDecomposed() | If this object represents a Matrix4x4, it returns a decomposed representation. |
+| GetHashCode() |  |
+| Multiply(ref AffineTransform, ref AffineTransform) | Multiplies *a* by *b*. |
+| TransformNormal(Vector3, ref AffineTransform) | Transforms a vector normal by a specified transform. |
+| TryDecompose(out AffineTransform) |  |
+| TryDecompose(out Vector3, out Quaternion, out Vector3) |  |
+| TryInvert(ref AffineTransform, out AffineTransform) | Inverts the specified transform. The return value indicates whether the operation succeeded. |
+| WithRotation(Quaternion) |  |
+| WithScale(Vector3) |  |
+| WithTranslation(Vector3) |  |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Identity](../../aspose.cad.fileformats.glb.transforms/affinetransform/identity/) |  |
+| Identity |  |
 
-## Remarks
+## Operators
 
-Depending on how `AffineTransform` structures are created, the underlaying fields must be interpreted as a Matrix4x3 or a Scale/Rotation/Translation chain.
-
-This approach allows `AffineTransform` preserving the source transform, avoiding loosing precission when decomposing a matrix, or creating a matrix from a SRT chain.
-
-Decomposing matrices is tricky because not all valid matrices can be decomposed; in particular squewed matrices will fail to decompose.
+| Name | Description |
+| --- | --- |
+| operator AffineTransform |  |
+| operator AffineTransform |  |
+| operator == |  |
+| operator != |  |
+| operator * |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../aspose.cad.fileformats.glb.transforms/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../aspose.cad.fileformats.glb.transforms/)
+* assembly [Aspose.CAD](../../)
 

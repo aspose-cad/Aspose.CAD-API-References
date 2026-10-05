@@ -1,23 +1,25 @@
 ---
-title: Image.Load
-second_title: Aspose.CAD for .NET API Reference
-description: Image method. Loads a new image from the specified file
+title: "Image.Load"
+linktitle: "Load"
+articleTitle: "Load"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image method. Loads a new image from the specified file."
 type: docs
-weight: 10
-url: /net/aspose.cad/image/load/
+weight: 80
+url: "/net/aspose.cad/image/load/"
+product_version: "26.9"
 ---
-## Load(string, LoadOptions) {#load_4}
+## Load(Stream) {#load}
 
-Loads a new image from the specified file.
+Loads a new image from the specified stream.
 
 ```csharp
-public static Image Load(string filePath, LoadOptions loadOptions)
+public static Image Load(Stream stream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePath | String | The file path to load image from. |
-| loadOptions | LoadOptions | The load options. |
+| stream | Stream | The stream to load image from. |
 
 ### Return Value
 
@@ -25,13 +27,10 @@ The loaded drawing.
 
 ## Examples
 
-Loads a drawing to process and unloads all related resources when dispose is called
+Loads a drawing to process from corresponding stream
 
 ```csharp
-using (var image = Aspose.CAD.Image.Load("fileName.dwg", new LoadOptions
-{
-    UnloadOnDispose = true
-}))
+using (var image = Aspose.CAD.Image.Load(File.OpenRead("fileName.dwg"))
 {
     // process the drawing
 }
@@ -39,14 +38,13 @@ using (var image = Aspose.CAD.Image.Load("fileName.dwg", new LoadOptions
 
 ### See Also
 
-* class [LoadOptions](../../loadoptions/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Load(string) {#load_3}
+## Load(string) {#load_1}
 
 Loads a new image from the specified file.
 
@@ -75,13 +73,13 @@ using (var image = Aspose.CAD.Image.Load("fileName.dwg"))
 
 ### See Also
 
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Load(Stream, LoadOptions) {#load_1}
+## Load(Stream, LoadOptions) {#load_2}
 
 Loads a new image from the specified stream.
 
@@ -114,14 +112,54 @@ using (var image = Aspose.CAD.Image.Load(File.OpenRead("fileName.dwg"), new Load
 
 ### See Also
 
-* class [LoadOptions](../../loadoptions/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [Image](../)
+* class [LoadOptions](../../loadoptions/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Load(Stream, string, LoadOptions) {#load_2}
+## Load(string, LoadOptions) {#load_3}
+
+Loads a new image from the specified file.
+
+```csharp
+public static Image Load(string filePath, LoadOptions loadOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | String | The file path to load image from. |
+| loadOptions | LoadOptions | The load options. |
+
+### Return Value
+
+The loaded drawing.
+
+## Examples
+
+Loads a drawing to process and unloads all related resources when dispose is called
+
+```csharp
+using (var image = Aspose.CAD.Image.Load("fileName.dwg", new LoadOptions
+{
+    UnloadOnDispose = true
+}))
+{
+    // process the drawing
+}
+```
+
+### See Also
+
+* class [Image](../)
+* class [LoadOptions](../../loadoptions/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## Load(Stream, string, LoadOptions) {#load_4}
 
 Loads a new image from the specified stream.
 
@@ -153,44 +191,8 @@ var image = Image.Load(ms, fileName)
 
 ### See Also
 
-* class [LoadOptions](../../loadoptions/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## Load(Stream) {#load}
-
-Loads a new image from the specified stream.
-
-```csharp
-public static Image Load(Stream stream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | The stream to load image from. |
-
-### Return Value
-
-The loaded drawing.
-
-## Examples
-
-Loads a drawing to process from corresponding stream
-
-```csharp
-using (var image = Aspose.CAD.Image.Load(File.OpenRead("fileName.dwg"))
-{
-    // process the drawing
-}
-```
-
-### See Also
-
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Image](../)
+* class [LoadOptions](../../loadoptions/)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

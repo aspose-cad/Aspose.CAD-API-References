@@ -1,10 +1,13 @@
 ---
-title: BezierCurve.GetTransformedDrawable
-second_title: Aspose.CAD for .NET API Reference
-description: BezierCurve method. Creates a new Bezier curve using provided points and nongeometric properties of current Bezier curve
+title: "BezierCurve.GetTransformedDrawable"
+linktitle: "GetTransformedDrawable"
+articleTitle: "GetTransformedDrawable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BezierCurve method. Creates a new Bezier curve using provided points and non-geometric properties of current Bezier curve"
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.iges.drawables/beziercurve/gettransformeddrawable/
+url: "/net/aspose.cad.fileformats.iges.drawables/beziercurve/gettransformeddrawable/"
+product_version: "26.9"
 ---
 ## BezierCurve.GetTransformedDrawable method
 
@@ -24,10 +27,9 @@ New Bezier curve with new geometry and current non-geometric properties
 
 ### See Also
 
-* interface [IIgesDrawable](../../iigesdrawable/)
-* class [Point3D](../../../aspose.cad.primitives/point3d/)
-* class [BezierCurve](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IIgesDrawable](../../iigesdrawable/)
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
+* class [BezierCurve](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

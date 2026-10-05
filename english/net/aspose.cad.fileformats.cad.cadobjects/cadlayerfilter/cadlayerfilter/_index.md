@@ -1,10 +1,13 @@
 ---
-title: CadLayerFilter.CadLayerFilter
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayerFilter constructor. Initializes a new instance of the CadLayerFilter class
+title: "CadLayerFilter.CadLayerFilter"
+linktitle: "CadLayerFilter"
+articleTitle: "CadLayerFilter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayerFilter constructor. Initializes a new instance of the CadLayerFilter class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayerfilter/cadlayerfilter/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlayerfilter/cadlayerfilter/"
+product_version: "26.9"
 ---
 ## CadLayerFilter constructor
 
@@ -16,8 +19,7 @@ public CadLayerFilter()
 
 ### See Also
 
-* class [CadLayerFilter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLayerFilter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

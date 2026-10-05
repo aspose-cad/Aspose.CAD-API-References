@@ -1,12 +1,17 @@
 ---
-title: IBinaryReader.ReadEmbeddedCommand
-second_title: Aspose.CAD for .NET API Reference
-description: IBinaryReader method. 
+title: "IBinaryReader.ReadEmbeddedCommand"
+linktitle: "ReadEmbeddedCommand"
+articleTitle: "ReadEmbeddedCommand"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IBinaryReader method."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cgm/ibinaryreader/readembeddedcommand/
+weight: 140
+url: "/net/aspose.cad.fileformats.cgm/ibinaryreader/readembeddedcommand/"
+product_version: "26.9"
 ---
 ## IBinaryReader.ReadEmbeddedCommand method
+
+
 
 ```csharp
 public Command ReadEmbeddedCommand()
@@ -14,9 +19,8 @@ public Command ReadEmbeddedCommand()
 
 ### See Also
 
-* class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
-* interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
+* interface [IBinaryReader](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

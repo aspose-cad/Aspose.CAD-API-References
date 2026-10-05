@@ -1,10 +1,13 @@
 ---
-title: AppInfoData.AppInfoVersion
-second_title: Aspose.CAD for .NET API Reference
-description: AppInfoData property. The application information version ODA writes 2.7.2.0
+title: "AppInfoData.AppInfoVersion"
+linktitle: "AppInfoVersion"
+articleTitle: "AppInfoVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AppInfoData property. The application information version ODA writes \"2.7.2.0\""
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.dwg.appinfo/appinfodata/appinfoversion/
+url: "/net/aspose.cad.fileformats.cad.dwg.appinfo/appinfodata/appinfoversion/"
+product_version: "26.9"
 ---
 ## AppInfoData.AppInfoVersion property
 
@@ -16,8 +19,7 @@ public string AppInfoVersion { get; set; }
 
 ### See Also
 
-* class [AppInfoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AppInfo](../../../aspose.cad.fileformats.cad.dwg.appinfo/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AppInfoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AppInfo](../../../aspose.cad.fileformats.cad.dwg.appinfo/)
+* assembly [Aspose.CAD](../../../)
 

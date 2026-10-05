@@ -1,10 +1,13 @@
 ---
-title: ColorTranslator.ToOle
-second_title: Aspose.CAD for .NET API Reference
-description: ColorTranslator method. Translates OLE color to color
+title: "ColorTranslator.ToOle"
+linktitle: "ToOle"
+articleTitle: "ToOle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColorTranslator method. Translates OLE color to color."
 type: docs
 weight: 50
-url: /net/aspose.cad/colortranslator/toole/
+url: "/net/aspose.cad/colortranslator/toole/"
+product_version: "26.9"
 ---
 ## ColorTranslator.ToOle method
 
@@ -24,9 +27,8 @@ The OLE color.
 
 ### See Also
 
-* struct [Color](../../color/)
-* class [ColorTranslator](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../color/)
+* class [ColorTranslator](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,21 +1,25 @@
 ---
-title: StepBsplineSurface.Udegree
-second_title: Aspose.CAD for .NET API Reference
-description: StepBsplineSurface property. 
+title: "StepBSplineSurface.UDegree"
+linktitle: "UDegree"
+articleTitle: "UDegree"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepBSplineSurface property."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.stp.items/stepbsplinesurface/udegree/
+weight: 40
+url: "/net/aspose.cad.fileformats.stp.items/stepbsplinesurface/udegree/"
+product_version: "26.9"
 ---
-## StepBsplineSurface.Udegree property
+## StepBSplineSurface.UDegree property
+
+
 
 ```csharp
-public int Udegree { get; set; }
+public int UDegree { get; set; }
 ```
 
 ### See Also
 
-* class [StepBsplineSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepBSplineSurface](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

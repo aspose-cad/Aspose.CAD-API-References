@@ -1,14 +1,19 @@
 ---
-title: DracoImage.Height
-second_title: Aspose.CAD for .NET API Reference
-description: DracoImage property. Gets the height of the image. Calculated as the difference between maximum and minimum values of the Y coordinate amongst all vertices. Minimal allowed height is 1
+title: "DracoImage.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DracoImage property. Gets the height of the image. Calculated as the difference between maximum and minimum values of the Y coordinate amongst all vertices. ..."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.draco/dracoimage/height/
+url: "/net/aspose.cad.fileformats.draco/dracoimage/height/"
+product_version: "26.9"
 ---
 ## DracoImage.Height property
 
-Gets the height of the image. Calculated as the difference between maximum and minimum values of the Y coordinate amongst all vertices. Minimal allowed height is 1.
+Gets the height of the image.
+ Calculated as the difference between maximum and minimum values of the Y coordinate amongst all vertices.
+ Minimal allowed height is 1.
 
 ```csharp
 public override int Height { get; }
@@ -31,8 +36,7 @@ using (DracoImage drcImage = (DracoImage)Image.Load(fileName))
 
 ### See Also
 
-* class [DracoImage](../)
-* namespace [Aspose.CAD.FileFormats.Draco](../../../aspose.cad.fileformats.draco/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DracoImage](../)
+* namespace [Aspose.CAD.FileFormats.Draco](../../../aspose.cad.fileformats.draco/)
+* assembly [Aspose.CAD](../../../)
 

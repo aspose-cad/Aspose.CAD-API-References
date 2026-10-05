@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.Read
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer method. Reads bytes to fill the specified bytes buffer
+title: "StreamContainer.Read"
+linktitle: "Read"
+articleTitle: "Read"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer method. Reads bytes to fill the specified bytes buffer."
 type: docs
-weight: 110
-url: /net/aspose.cad/streamcontainer/read/
+weight: 70
+url: "/net/aspose.cad/streamcontainer/read/"
+product_version: "26.9"
 ---
 ## Read(byte[]) {#read}
 
@@ -24,13 +27,13 @@ The number of bytes read. This value can be less than the number of bytes in the
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Read(byte[], int, int) {#read_1}
+## Read(byte[], int, int) {#read_1}
 
 Reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read.
 
@@ -50,8 +53,7 @@ The total number of bytes read into the buffer. This can be less than the number
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

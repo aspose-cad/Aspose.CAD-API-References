@@ -1,10 +1,13 @@
 ---
-title: LoadOptions.IgnoreErrors
-second_title: Aspose.CAD for .NET API Reference
-description: LoadOptions property. Whether to ignore load errors
+title: "LoadOptions.IgnoreErrors"
+linktitle: "IgnoreErrors"
+articleTitle: "IgnoreErrors"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LoadOptions property. Whether to ignore load errors."
 type: docs
-weight: 70
-url: /net/aspose.cad/loadoptions/ignoreerrors/
+weight: 90
+url: "/net/aspose.cad/loadoptions/ignoreerrors/"
+product_version: "26.9"
 ---
 ## LoadOptions.IgnoreErrors property
 
@@ -16,8 +19,7 @@ public bool IgnoreErrors { get; set; }
 
 ### See Also
 
-* class [LoadOptions](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [LoadOptions](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

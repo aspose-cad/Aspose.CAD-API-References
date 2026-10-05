@@ -1,10 +1,13 @@
 ---
-title: CadRevolvedSurface.EndDraftDistance
-second_title: Aspose.CAD for .NET API Reference
-description: CadRevolvedSurface property. Gets or sets the end draft distance
+title: "CadRevolvedSurface.EndDraftDistance"
+linktitle: "EndDraftDistance"
+articleTitle: "EndDraftDistance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRevolvedSurface property. Gets or sets the end draft distance."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/enddraftdistance/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/enddraftdistance/"
+product_version: "26.9"
 ---
 ## CadRevolvedSurface.EndDraftDistance property
 
@@ -16,8 +19,7 @@ public double EndDraftDistance { get; set; }
 
 ### See Also
 
-* class [CadRevolvedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRevolvedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

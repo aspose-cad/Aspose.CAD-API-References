@@ -1,10 +1,14 @@
 ---
-title: Class PdfDocumentInfo
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Pdf.PdfDocumentInfo class. This class represents set of metadata for document description
+title: "PdfDocumentInfo Class"
+linktitle: "PdfDocumentInfo"
+articleTitle: "PdfDocumentInfo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Pdf.PdfDocumentInfo class. This class represents set of metadata for document description."
 type: docs
-weight: 33900
-url: /net/aspose.cad.fileformats.pdf/pdfdocumentinfo/
+weight: 20
+url: "/net/aspose.cad.fileformats.pdf/pdfdocumentinfo/"
+keywords: "PdfDocumentInfo, Aspose.CAD.FileFormats.Pdf, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## PdfDocumentInfo class
 
@@ -24,14 +28,13 @@ public class PdfDocumentInfo
 
 | Name | Description |
 | --- | --- |
-| [Author](../../aspose.cad.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | Gets or sets author of the document. |
-| [Keywords](../../aspose.cad.fileformats.pdf/pdfdocumentinfo/keywords/) { get; set; } | Gets or sets keywords of the document. |
-| [Subject](../../aspose.cad.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | Gets or sets subject of the document. |
-| [Title](../../aspose.cad.fileformats.pdf/pdfdocumentinfo/title/) { get; set; } | Gets or sets title of the document. |
+| [Author](../../aspose.cad.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | Gets or sets author of the document. |
+| [Keywords](../../aspose.cad.fileformats.pdf/pdfdocumentinfo/keywords/) { get; set; } | Gets or sets keywords of the document. |
+| [Subject](../../aspose.cad.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | Gets or sets subject of the document. |
+| [Title](../../aspose.cad.fileformats.pdf/pdfdocumentinfo/title/) { get; set; } | Gets or sets title of the document. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Pdf](../../aspose.cad.fileformats.pdf/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Pdf](../../aspose.cad.fileformats.pdf/)
+* assembly [Aspose.CAD](../../)
 

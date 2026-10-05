@@ -1,12 +1,17 @@
 ---
-title: IClearTextWriter.Write
-second_title: Aspose.CAD for .NET API Reference
-description: IClearTextWriter method. 
+title: "IClearTextWriter.Write"
+linktitle: "Write"
+articleTitle: "Write"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IClearTextWriter method."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cgm/icleartextwriter/write/
+url: "/net/aspose.cad.fileformats.cgm/icleartextwriter/write/"
+product_version: "26.9"
 ---
 ## IClearTextWriter.Write method
+
+
 
 ```csharp
 public void Write(string text)
@@ -14,8 +19,7 @@ public void Write(string text)
 
 ### See Also
 
-* interface [IClearTextWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IClearTextWriter](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

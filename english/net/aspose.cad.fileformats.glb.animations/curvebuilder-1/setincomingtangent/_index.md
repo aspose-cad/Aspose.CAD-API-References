@@ -1,12 +1,15 @@
 ---
-title: CurveBuilder1.SetIncomingTangent
-second_title: Aspose.CAD for .NET API Reference
-description: CurveBuilder method. Sets the incoming tangent to an existing point
+title: "CurveBuilder<T>.SetIncomingTangent"
+linktitle: "SetIncomingTangent"
+articleTitle: "SetIncomingTangent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CurveBuilder method. Sets the incoming tangent to an existing point."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.glb.animations/curvebuilder-1/setincomingtangent/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb.animations/curvebuilder-1/setincomingtangent/"
+product_version: "26.9"
 ---
-## CurveBuilder&lt;T&gt;.SetIncomingTangent method
+## CurveBuilder<T>.SetIncomingTangent method
 
 Sets the incoming tangent to an existing point.
 
@@ -21,8 +24,7 @@ public void SetIncomingTangent(float offset, T tangent)
 
 ### See Also
 
-* class [CurveBuilder&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CurveBuilder&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: CharacterSpacing.ReadFromBinary
-second_title: Aspose.CAD for .NET API Reference
-description: CharacterSpacing method. 
+title: "CharacterSpacing.ReadFromBinary"
+linktitle: "ReadFromBinary"
+articleTitle: "ReadFromBinary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CharacterSpacing method."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cgm.commands/characterspacing/readfrombinary/
+url: "/net/aspose.cad.fileformats.cgm.commands/characterspacing/readfrombinary/"
+product_version: "26.9"
 ---
 ## CharacterSpacing.ReadFromBinary method
+
+
 
 ```csharp
 public override void ReadFromBinary(IBinaryReader reader)
@@ -14,9 +19,8 @@ public override void ReadFromBinary(IBinaryReader reader)
 
 ### See Also
 
-* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
-* class [CharacterSpacing](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
+* class [CharacterSpacing](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

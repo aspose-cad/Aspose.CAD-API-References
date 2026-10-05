@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.CF2
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace handles CF2 related file formats processing
+title: "Aspose.CAD.FileFormats.CF2"
+linktitle: "Aspose.CAD.FileFormats.CF2"
+articleTitle: "Aspose.CAD.FileFormats.CF2"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace handles CF2 related file formats processing."
 type: docs
-weight: 450
-url: /net/aspose.cad.fileformats.cf2/
+weight: 10
+url: "/net/aspose.cad.fileformats.cf2/"
+keywords: "Aspose.CAD.FileFormats.CF2, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace handles CF2 related file formats processing.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -17,9 +25,9 @@ The namespace handles CF2 related file formats processing.
 | [CF2GeometryElement](./cf2geometryelement/) | The basic of the geometry elements |
 | [CF2Image](./cf2image/) | CF2 image class |
 | [CF2Line](./cf2line/) | The line |
+| [CF2LineTypeDefinition](./cf2linetypedefinition/) | The line type definition |
 | [CF2LinearElement](./cf2linearelement/) | The basic of the linear elements |
 | [CF2LinesOutputDescribing](./cf2linesoutputdescribing/) | Description of the line types output |
-| [CF2LineTypeDefinition](./cf2linetypedefinition/) | The line type definition |
 | [CF2Main](./cf2main/) | The Main section of the CF2 format |
 | [CF2Order](./cf2order/) | The Order section of the CF2 format |
 | [CF2OrderOutputDescribing](./cf2orderoutputdescribing/) | Description of the order section output |
@@ -31,6 +39,7 @@ The namespace handles CF2 related file formats processing.
 | [CF2Sub](./cf2sub/) | The Sub section of the CF2 format |
 | [CF2SubInsert](./cf2subinsert/) | The insert of the Sub element |
 | [CF2Text](./cf2text/) | The Text |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -40,5 +49,4 @@ The namespace handles CF2 related file formats processing.
 | [CF2LineTypes](./cf2linetypes/) | CF2 line types |
 | [CF2SystemCoordinate](./cf2systemcoordinate/) | The type of coordinate system. |
 | [CF2TypeDElement](./cf2typedelement/) | CF2 type of drawn elements |
-
 

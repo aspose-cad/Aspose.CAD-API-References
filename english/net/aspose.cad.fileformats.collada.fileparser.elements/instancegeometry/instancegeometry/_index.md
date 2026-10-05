@@ -1,10 +1,13 @@
 ---
-title: InstanceGeometry.InstanceGeometry
-second_title: Aspose.CAD for .NET API Reference
-description: InstanceGeometry constructor. The default constructor
+title: "InstanceGeometry.InstanceGeometry"
+linktitle: "InstanceGeometry"
+articleTitle: "InstanceGeometry"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "InstanceGeometry constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancegeometry/instancegeometry/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/instancegeometry/instancegeometry/"
+product_version: "26.9"
 ---
 ## InstanceGeometry constructor
 
@@ -16,8 +19,7 @@ public InstanceGeometry()
 
 ### See Also
 
-* class [InstanceGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InstanceGeometry](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

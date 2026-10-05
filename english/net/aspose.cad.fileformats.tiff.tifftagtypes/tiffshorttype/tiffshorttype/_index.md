@@ -1,10 +1,13 @@
 ---
-title: TiffShortType.TiffShortType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffShortType constructor. Initializes a new instance of the TiffShortType class
+title: "TiffShortType.TiffShortType"
+linktitle: "TiffShortType"
+articleTitle: "TiffShortType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffShortType constructor. Initializes a new instance of the TiffShortType class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffshorttype/tiffshorttype/
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffshorttype/tiffshorttype/"
+product_version: "26.9"
 ---
 ## TiffShortType(TiffTags) {#constructor}
 
@@ -20,10 +23,10 @@ public TiffShortType(TiffTags tagId)
 
 ### See Also
 
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffShortType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffShortType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public TiffShortType(ushort tagId)
 
 ### See Also
 
-* class [TiffShortType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffShortType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

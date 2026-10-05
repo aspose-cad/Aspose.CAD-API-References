@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSAreaInformation
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the GPS area information
+title: "ExifData.GPSAreaInformation"
+linktitle: "GPSAreaInformation"
+articleTitle: "GPSAreaInformation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the GPS area information."
 type: docs
-weight: 380
-url: /net/aspose.cad.exif/exifdata/gpsareainformation/
+weight: 400
+url: "/net/aspose.cad.exif/exifdata/gpsareainformation/"
+product_version: "26.9"
 ---
 ## ExifData.GPSAreaInformation property
 
@@ -20,8 +23,7 @@ The GPS area information.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

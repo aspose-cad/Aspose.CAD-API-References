@@ -1,10 +1,13 @@
 ---
-title: CadPlotSettings.PlotLayoutFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadPlotSettings property. Gets or sets the plot layout flag
+title: "CadPlotSettings.PlotLayoutFlag"
+linktitle: "PlotLayoutFlag"
+articleTitle: "PlotLayoutFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPlotSettings property. Gets or sets the plot layout flag."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotlayoutflag/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotlayoutflag/"
+product_version: "26.9"
 ---
 ## CadPlotSettings.PlotLayoutFlag property
 
@@ -20,9 +23,8 @@ The plot layout flag.
 
 ### See Also
 
-* enum [CadPlotLayoutFlag](../../../aspose.cad.fileformats.cad.cadconsts/cadplotlayoutflag/)
-* class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadPlotLayoutFlag](../../../aspose.cad.fileformats.cad.cadconsts/cadplotlayoutflag/)
+* class [CadPlotSettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Node.Node
-second_title: Aspose.CAD for .NET API Reference
-description: Node constructor. Initializes a new instance of the Node class
+title: "Node.Node"
+linktitle: "Node"
+articleTitle: "Node"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Node constructor. Initializes a new instance of the Node class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/node/node/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/node/node/"
+product_version: "26.9"
 ---
 ## Node constructor
 
@@ -16,8 +19,7 @@ public Node()
 
 ### See Also
 
-* class [Node](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

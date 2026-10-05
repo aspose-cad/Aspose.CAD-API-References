@@ -1,10 +1,13 @@
 ---
-title: Matrix.TransformPoints
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix method. Applies the geometric transform represented by this Matrix to a specified array of points
+title: "Matrix.TransformPoints"
+linktitle: "TransformPoints"
+articleTitle: "TransformPoints"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix method. Applies the geometric transform represented by this Matrix to a specified array of points."
 type: docs
-weight: 180
-url: /net/aspose.cad/matrix/transformpoints/
+weight: 90
+url: "/net/aspose.cad/matrix/transformpoints/"
+product_version: "26.9"
 ---
 ## Matrix.TransformPoints method
 
@@ -20,9 +23,8 @@ public void TransformPoints(PointF[] points)
 
 ### See Also
 
-* struct [PointF](../../pointf/)
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [PointF](../../pointf/)
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

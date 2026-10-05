@@ -1,10 +1,13 @@
 ---
-title: CadBlockEntity.XRefPathName
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockEntity property. Gets or sets the XRef path
+title: "CadBlockEntity.XRefPathName"
+linktitle: "XRefPathName"
+articleTitle: "XRefPathName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockEntity property. Gets or sets the XRef path."
 type: docs
-weight: 310
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/xrefpathname/
+weight: 210
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/xrefpathname/"
+product_version: "26.9"
 ---
 ## CadBlockEntity.XRefPathName property
 
@@ -20,8 +23,7 @@ The XRef path.
 
 ### See Also
 
-* class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

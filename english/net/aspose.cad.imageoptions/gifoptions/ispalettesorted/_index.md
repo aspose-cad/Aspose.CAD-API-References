@@ -1,10 +1,13 @@
 ---
-title: GifOptions.IsPaletteSorted
-second_title: Aspose.CAD for .NET API Reference
-description: GifOptions property. Gets or sets a value indicating whether palette entries are sorted
+title: "GifOptions.IsPaletteSorted"
+linktitle: "IsPaletteSorted"
+articleTitle: "IsPaletteSorted"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GifOptions property. Gets or sets a value indicating whether palette entries are sorted."
 type: docs
 weight: 70
-url: /net/aspose.cad.imageoptions/gifoptions/ispalettesorted/
+url: "/net/aspose.cad.imageoptions/gifoptions/ispalettesorted/"
+product_version: "26.9"
 ---
 ## GifOptions.IsPaletteSorted property
 
@@ -20,8 +23,7 @@ public bool IsPaletteSorted { get; set; }
 
 ### See Also
 
-* class [GifOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GifOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

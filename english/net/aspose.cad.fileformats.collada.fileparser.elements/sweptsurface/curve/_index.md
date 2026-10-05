@@ -1,14 +1,18 @@
 ---
-title: SweptSurface.Curve
-second_title: Aspose.CAD for .NET API Reference
-description: SweptSurface property. Gets or sets the curve. Describes the base curve
+title: "SweptSurface.Curve"
+linktitle: "Curve"
+articleTitle: "Curve"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SweptSurface property. Gets or sets the curve. Describes the base curve."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/curve/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/curve/"
+product_version: "26.9"
 ---
 ## SweptSurface.Curve property
 
-Gets or sets the curve. Describes the base curve.
+Gets or sets the curve.
+ Describes the base curve.
 
 ```csharp
 public Curve Curve { get; set; }
@@ -16,9 +20,8 @@ public Curve Curve { get; set; }
 
 ### See Also
 
-* class [Curve](../../curve/)
-* class [SweptSurface](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Curve](../../curve/)
+* class [SweptSurface](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

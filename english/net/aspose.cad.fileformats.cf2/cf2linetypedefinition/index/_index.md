@@ -1,10 +1,13 @@
 ---
-title: CF2LineTypeDefinition.Index
-second_title: Aspose.CAD for .NET API Reference
-description: CF2LineTypeDefinition property. The index
+title: "CF2LineTypeDefinition.Index"
+linktitle: "Index"
+articleTitle: "Index"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2LineTypeDefinition property. The index"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cf2/cf2linetypedefinition/index/
+url: "/net/aspose.cad.fileformats.cf2/cf2linetypedefinition/index/"
+product_version: "26.9"
 ---
 ## CF2LineTypeDefinition.Index property
 
@@ -16,8 +19,7 @@ public int Index { get; set; }
 
 ### See Also
 
-* class [CF2LineTypeDefinition](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2LineTypeDefinition](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.AlignSpace
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the align space
+title: "CadMLeaderStyle.AlignSpace"
+linktitle: "AlignSpace"
+articleTitle: "AlignSpace"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the align space."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/alignspace/
+weight: 300
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/alignspace/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.AlignSpace property
 
@@ -20,8 +23,7 @@ The align space.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

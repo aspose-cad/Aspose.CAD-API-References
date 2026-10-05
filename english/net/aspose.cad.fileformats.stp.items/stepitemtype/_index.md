@@ -1,10 +1,13 @@
 ---
-title: Enum StepItemType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Stp.Items.StepItemType enum. ItemType RepresentationItem enum for STP file
+title: "StepItemType Enum"
+linktitle: "StepItemType"
+articleTitle: "StepItemType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Stp.Items.StepItemType enum. ItemType RepresentationItem enum for STP file."
 type: docs
-weight: 34740
-url: /net/aspose.cad.fileformats.stp.items/stepitemtype/
+weight: 560
+url: "/net/aspose.cad.fileformats.stp.items/stepitemtype/"
+product_version: "26.9"
 ---
 ## StepItemType enumeration
 
@@ -26,63 +29,77 @@ public enum StepItemType
 | Circle | `5` |  |
 | CoordinatesList | `6` |  |
 | CylindricalSurface | `7` |  |
-| Direction | `8` |  |
-| EdgeCurve | `9` |  |
-| EdgeLoop | `10` |  |
-| Ellipse | `11` |  |
-| Face | `12` |  |
+| SurfaceOfLinearExtrusion | `8` |  |
+| Direction | `9` |  |
+| EdgeCurve | `10` |  |
+| EdgeLoop | `11` |  |
+| Ellipse | `12` |  |
 | FaceBound | `13` |  |
 | FaceOuterBound | `14` |  |
 | FaceSurface | `15` |  |
 | FacetedBrep | `16` |  |
 | FacetedBrepShapeRepresentation | `17` |  |
-| Line | `18` |  |
-| OrientedEdge | `19` |  |
-| Plane | `20` |  |
-| Vector | `21` |  |
-| VertexPoint | `22` |  |
-| SurfaceCurve | `23` |  |
-| PCurve | `24` |  |
-| DefinitionalRepresentation | `25` |  |
-| ToroidalSurface | `26` |  |
-| BsplineSurface | `27` |  |
-| ConicalSurface | `28` |  |
-| SphericalSurface | `29` |  |
-| ValueRepresentationItem | `30` |  |
-| Representation | `31` |  |
-| ShapeRepresentationRelationship | `32` |  |
-| AdavncedBrepShapeRepresentation | `33` |  |
-| ManifoldSolidBrep | `34` |  |
-| ClosedShell | `35` |  |
-| ShapeDefinitionRepresentation | `36` |  |
-| ProductDefinitionShape | `37` |  |
-| ShapeRepresentation | `38` |  |
-| GeometricallyBoundedWireframeShapeRepresentation | `39` |  |
-| TessellatedShapeRepresentation | `40` |  |
-| TriangulatedSurfaceSet | `41` |  |
-| GeometricCurveSet | `42` |  |
-| PolyLoop | `43` |  |
-| Product | `44` |  |
-| ProductDefinition | `45` |  |
-| ProductDefinitionFormation | `46` |  |
-| TrimmedCurve | `47` |  |
-| StyledItem | `48` |  |
-| PresentationStyleAssignment | `49` |  |
-| SurfaceStyleUsage | `50` |  |
-| SurfaceSideStyle | `51` |  |
-| SurfaceStyleFillArea | `52` |  |
-| FillAreaStyle | `53` |  |
-| FillAreaStyleColour | `54` |  |
-| ColourRGB | `55` |  |
-| DraughtingPreDefinedColour | `56` |  |
-| RepresentationRelationship | `57` |  |
-| RepresentationRelationshipWithTransformation | `58` |  |
-| ComplexItem | `59` |  |
-| ItemDefinedTransformation | `60` |  |
+| ManifoldSurfaceShapeRepresentation | `18` |  |
+| ShellBasedSurfaceModel | `19` |  |
+| Line | `20` |  |
+| OrientedEdge | `21` |  |
+| Plane | `22` |  |
+| Vector | `23` |  |
+| VertexPoint | `24` |  |
+| VertexLoop | `25` |  |
+| SurfaceCurve | `26` |  |
+| PCurve | `27` |  |
+| DefinitionalRepresentation | `28` |  |
+| ToroidalSurface | `29` |  |
+| BSplineSurface | `30` |  |
+| BSplineSurfaceWithKnots | `31` |  |
+| RationalBSplineSurface | `32` |  |
+| ConicalSurface | `33` |  |
+| SphericalSurface | `34` |  |
+| BoundedSurface | `35` |  |
+| ValueRepresentationItem | `36` |  |
+| Representation | `37` |  |
+| ShapeRepresentationRelationship | `38` |  |
+| AdavncedBrepShapeRepresentation | `39` |  |
+| ManifoldSolidBrep | `40` |  |
+| ClosedShell | `41` |  |
+| OpenShell | `42` |  |
+| ShapeDefinitionRepresentation | `43` |  |
+| ProductDefinitionShape | `44` |  |
+| ShapeRepresentation | `45` |  |
+| GeometricallyBoundedWireframeShapeRepresentation | `46` |  |
+| TriangulatedSurfaceSet | `47` |  |
+| ComplexTriangulatedSurfaceSet | `48` |  |
+| TriangulatedFace | `49` |  |
+| ComplexTriangulatedFace | `50` |  |
+| TessellatedShell | `51` |  |
+| TessellatedShapeRepresentation | `52` |  |
+| GeometricCurveSet | `53` |  |
+| PolyLoop | `54` |  |
+| Product | `55` |  |
+| ProductDefinition | `56` |  |
+| ProductDefinitionFormation | `57` |  |
+| TrimmedCurve | `58` |  |
+| StyledItem | `59` |  |
+| PresentationStyleAssignment | `60` |  |
+| SurfaceStyleUsage | `61` |  |
+| SurfaceSideStyle | `62` |  |
+| SurfaceStyleFillArea | `63` |  |
+| FillAreaStyle | `64` |  |
+| FillAreaStyleColour | `65` |  |
+| ColourRGB | `66` |  |
+| DraughtingPreDefinedColour | `67` |  |
+| DraughtingPreDefinedCurveFont | `68` |  |
+| RepresentationRelationship | `69` |  |
+| RepresentationRelationshipWithTransformation | `70` |  |
+| ComplexItem | `71` |  |
+| ItemDefinedTransformation | `72` |  |
+| CompositeCurve | `73` |  |
+| CompositeCurveSegment | `74` |  |
+| CurveStyle | `75` |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../)
 

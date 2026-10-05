@@ -1,14 +1,20 @@
 ---
-title: Class FixedTransformer
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Scenes.FixedTransformer class. Represents the transform of a Content. Applies a fixed Matrix4x4 transform to the underlaying content
+title: "FixedTransformer Class"
+linktitle: "FixedTransformer"
+articleTitle: "FixedTransformer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Scenes.FixedTransformer class. Represents the transform of a Content. Applies a fixed Matrix4x4 transform to the underlaying content."
 type: docs
-weight: 11330
-url: /net/aspose.cad.fileformats.glb.scenes/fixedtransformer/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb.scenes/fixedtransformer/"
+keywords: "FixedTransformer, Aspose.CAD.FileFormats.GLB.Scenes, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## FixedTransformer class
 
-Represents the transform of a [`Content`](../instancebuilder/content/). Applies a fixed Matrix4x4 transform to the underlaying content.
+Represents the transform of a [`Content`](../instancebuilder/content/).
+
+ Applies a fixed `Matrix4x4` transform to the underlaying content.
 
 ```csharp
 public class FixedTransformer : ContentTransformer
@@ -18,29 +24,28 @@ public class FixedTransformer : ContentTransformer
 
 | Name | Description |
 | --- | --- |
-| [ChildTransform](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/childtransform/) { get; set; } |  |
-| override [Extras](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/extras/) { get; set; } |  |
-| [HasRenderableContent](../../aspose.cad.fileformats.glb.scenes/contenttransformer/hasrenderablecontent/) { get; } | Gets a value indicating whether Content implements IRenderableContent |
-| [Morphings](../../aspose.cad.fileformats.glb.scenes/contenttransformer/morphings/) { get; } |  |
-| override [Name](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/name/) { get; set; } |  |
-| [ParentNode](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/parentnode/) { get; } |  |
+| [ChildTransform](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/childtransform/) { get; set; } |  |
+| override [Extras](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/extras/) { get; set; } |  |
+| [HasRenderableContent](../../aspose.cad.fileformats.glb.scenes/contenttransformer/hasrenderablecontent/) { get; } | Gets a value indicating whether Content implements `IRenderableContent` |
+| [Morphings](../../aspose.cad.fileformats.glb.scenes/contenttransformer/morphings/) { get; } |  |
+| override [Name](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/name/) { get; set; } |  |
+| [ParentNode](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/parentnode/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [DeepClone](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/deepclone/)(DeepCloneContext) |  |
-| override [GetArmatureRoot](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/getarmatureroot/)() |  |
+| override [DeepClone](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/deepclone/)(DeepCloneContext) |  |
+| override [GetArmatureRoot](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/getarmatureroot/)() |  |
 | [GetCameraAsset](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getcameraasset/)() | It this [`ContentTransformer`](../contenttransformer/) contains a [`CameraBuilder`](../camerabuilder/) |
 | [GetLightAsset](../../aspose.cad.fileformats.glb.scenes/contenttransformer/getlightasset/)() | It this [`ContentTransformer`](../contenttransformer/) contains a [`LightBuilder`](../lightbuilder/) |
-| override [GetPoseWorldMatrix](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/getposeworldmatrix/)() |  |
+| override [GetPoseWorldMatrix](../../aspose.cad.fileformats.glb.scenes/fixedtransformer/getposeworldmatrix/)() |  |
 | [UseMorphing](../../aspose.cad.fileformats.glb.scenes/contenttransformer/usemorphing/)() |  |
 | [UseMorphing](../../aspose.cad.fileformats.glb.scenes/contenttransformer/usemorphing/)(string) |  |
 
 ### See Also
 
-* class [ContentTransformer](../contenttransformer/)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../)
-
+* class [ContentTransformer](../contenttransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../)
 

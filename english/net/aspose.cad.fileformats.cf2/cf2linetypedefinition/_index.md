@@ -1,10 +1,14 @@
 ---
-title: Class CF2LineTypeDefinition
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.CF2.CF2LineTypeDefinition class. The line type definition
+title: "CF2LineTypeDefinition Class"
+linktitle: "CF2LineTypeDefinition"
+articleTitle: "CF2LineTypeDefinition"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.CF2.CF2LineTypeDefinition class. The line type definition"
 type: docs
-weight: 890
-url: /net/aspose.cad.fileformats.cf2/cf2linetypedefinition/
+weight: 90
+url: "/net/aspose.cad.fileformats.cf2/cf2linetypedefinition/"
+keywords: "CF2LineTypeDefinition, Aspose.CAD.FileFormats.CF2, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CF2LineTypeDefinition class
 
@@ -24,13 +28,12 @@ public class CF2LineTypeDefinition
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.cad.fileformats.cf2/cf2linetypedefinition/index/) { get; set; } | The index |
-| [LineType](../../aspose.cad.fileformats.cf2/cf2linetypedefinition/linetype/) { get; set; } | The Line type |
-| [Parameters](../../aspose.cad.fileformats.cf2/cf2linetypedefinition/parameters/) { get; } | The parameters |
+| [Index](../../aspose.cad.fileformats.cf2/cf2linetypedefinition/index/) { get; set; } | The index |
+| [LineType](../../aspose.cad.fileformats.cf2/cf2linetypedefinition/linetype/) { get; set; } | The Line type |
+| [Parameters](../../aspose.cad.fileformats.cf2/cf2linetypedefinition/parameters/) { get; } | The parameters |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.CF2](../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../)
 

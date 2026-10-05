@@ -1,14 +1,18 @@
 ---
-title: Enum CadLayoutControlFlag
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadLayoutControlFlag enum. Flag to control. CadLayout
+title: "CadLayoutControlFlag Enum"
+linktitle: "CadLayoutControlFlag"
+articleTitle: "CadLayoutControlFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadLayoutControlFlag enum. Flag to control. CadLayout"
 type: docs
-weight: 1380
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadlayoutcontrolflag/
+weight: 230
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadlayoutcontrolflag/"
+product_version: "26.9"
 ---
 ## CadLayoutControlFlag enumeration
 
-Flag to control. [`CadLayout`](../../aspose.cad.fileformats.cad.cadobjects/cadlayout/)
+Flag to control.
+ [`CadLayout`](../../../aspose.cad.fileformats.cad.cadobjects/cadlayout/)
 
 ```csharp
 [Flags]
@@ -24,7 +28,6 @@ public enum CadLayoutControlFlag : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

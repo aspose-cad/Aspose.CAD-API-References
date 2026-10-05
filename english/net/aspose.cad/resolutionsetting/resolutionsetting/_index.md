@@ -1,10 +1,13 @@
 ---
-title: ResolutionSetting.ResolutionSetting
-second_title: Aspose.CAD for .NET API Reference
-description: ResolutionSetting constructor. Initializes a new instance of the ResolutionSetting class
+title: "ResolutionSetting.ResolutionSetting"
+linktitle: "ResolutionSetting"
+articleTitle: "ResolutionSetting"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ResolutionSetting constructor. Initializes a new instance of the ResolutionSetting class."
 type: docs
 weight: 10
-url: /net/aspose.cad/resolutionsetting/resolutionsetting/
+url: "/net/aspose.cad/resolutionsetting/resolutionsetting/"
+product_version: "26.9"
 ---
 ## ResolutionSetting() {#constructor}
 
@@ -16,13 +19,13 @@ public ResolutionSetting()
 
 ### See Also
 
-* class [ResolutionSetting](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [ResolutionSetting](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## ResolutionSetting(double, double) {#constructor_1}
+## ResolutionSetting(double, double) {#constructor_1}
 
 Initializes a new instance of the [`ResolutionSetting`](../) class.
 
@@ -37,8 +40,7 @@ public ResolutionSetting(double horizontalResolution, double verticalResolution)
 
 ### See Also
 
-* class [ResolutionSetting](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ResolutionSetting](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

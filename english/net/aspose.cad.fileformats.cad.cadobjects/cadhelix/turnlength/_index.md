@@ -1,10 +1,13 @@
 ---
-title: CadHelix.TurnLength
-second_title: Aspose.CAD for .NET API Reference
-description: CadHelix property. Gets or sets the turn length
+title: "CadHelix.TurnLength"
+linktitle: "TurnLength"
+articleTitle: "TurnLength"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHelix property. Gets or sets the turn length."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadhelix/turnlength/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadhelix/turnlength/"
+product_version: "26.9"
 ---
 ## CadHelix.TurnLength property
 
@@ -16,8 +19,7 @@ public double TurnLength { get; set; }
 
 ### See Also
 
-* class [CadHelix](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHelix](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

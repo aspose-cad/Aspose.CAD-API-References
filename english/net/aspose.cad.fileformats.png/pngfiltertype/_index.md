@@ -1,10 +1,13 @@
 ---
-title: Enum PngFilterType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Png.PngFilterType enum. The png filter type
+title: "PngFilterType Enum"
+linktitle: "PngFilterType"
+articleTitle: "PngFilterType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Png.PngFilterType enum. The png filter type."
 type: docs
-weight: 34080
-url: /net/aspose.cad.fileformats.png/pngfiltertype/
+weight: 30
+url: "/net/aspose.cad.fileformats.png/pngfiltertype/"
+product_version: "26.9"
 ---
 ## PngFilterType enumeration
 
@@ -27,7 +30,6 @@ public enum PngFilterType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Png](../../aspose.cad.fileformats.png/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Png](../../aspose.cad.fileformats.png/)
+* assembly [Aspose.CAD](../../)
 

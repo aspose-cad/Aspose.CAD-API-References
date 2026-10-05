@@ -1,10 +1,13 @@
 ---
-title: RasterImage.HasAlpha
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage property. Gets a value indicating whether this instance has alpha
+title: "RasterImage.HasAlpha"
+linktitle: "HasAlpha"
+articleTitle: "HasAlpha"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage property. Gets a value indicating whether this instance has alpha."
 type: docs
-weight: 20
-url: /net/aspose.cad/rasterimage/hasalpha/
+weight: 510
+url: "/net/aspose.cad/rasterimage/hasalpha/"
+product_version: "26.9"
 ---
 ## RasterImage.HasAlpha property
 
@@ -20,8 +23,7 @@ public virtual bool HasAlpha { get; }
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

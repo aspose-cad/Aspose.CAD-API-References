@@ -1,10 +1,13 @@
 ---
-title: CodePagesConvertHelper.GetIntCode
-second_title: Aspose.CAD for .NET API Reference
-description: CodePagesConvertHelper method. Gets integer code
+title: "CodePagesConvertHelper.GetIntCode"
+linktitle: "GetIntCode"
+articleTitle: "GetIntCode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CodePagesConvertHelper method. Gets integer code."
 type: docs
 weight: 20
-url: /net/aspose.cad/codepagesconverthelper/getintcode/
+url: "/net/aspose.cad/codepagesconverthelper/getintcode/"
+product_version: "26.9"
 ---
 ## CodePagesConvertHelper.GetIntCode method
 
@@ -30,9 +33,8 @@ Language encoding
 
 ### See Also
 
-* enum [CodePages](../../codepages/)
-* class [CodePagesConvertHelper](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CodePages](../../codepages/)
+* class [CodePagesConvertHelper](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: JpegOptions.RdOptSettings
-second_title: Aspose.CAD for .NET API Reference
-description: JpegOptions property. Gets or sets the RD optimizer settings
+title: "JpegOptions.RdOptSettings"
+linktitle: "RdOptSettings"
+articleTitle: "RdOptSettings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegOptions property. Gets or sets the RD optimizer settings."
 type: docs
-weight: 90
-url: /net/aspose.cad.imageoptions/jpegoptions/rdoptsettings/
+weight: 120
+url: "/net/aspose.cad.imageoptions/jpegoptions/rdoptsettings/"
+product_version: "26.9"
 ---
 ## JpegOptions.RdOptSettings property
 
@@ -20,9 +23,8 @@ The RD optimizer settings.
 
 ### See Also
 
-* class [RdOptimizerSettings](../../rdoptimizersettings/)
-* class [JpegOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RdOptimizerSettings](../../rdoptimizersettings/)
+* class [JpegOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

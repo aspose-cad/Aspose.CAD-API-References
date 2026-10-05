@@ -1,10 +1,13 @@
 ---
-title: CadSunStudy.ViewHardPointerId
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunStudy property. Gets or sets the view hard pointer identifier
+title: "CadSunStudy.ViewHardPointerId"
+linktitle: "ViewHardPointerId"
+articleTitle: "ViewHardPointerId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunStudy property. Gets or sets the view hard pointer identifier."
 type: docs
-weight: 240
-url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/viewhardpointerid/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/viewhardpointerid/"
+product_version: "26.9"
 ---
 ## CadSunStudy.ViewHardPointerId property
 
@@ -20,8 +23,7 @@ The view hard pointer identifier.
 
 ### See Also
 
-* class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunStudy](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
+* assembly [Aspose.CAD](../../../)
 

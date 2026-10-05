@@ -1,10 +1,13 @@
 ---
-title: ExifData.Make
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the manufacturer of the recording equipment
+title: "ExifData.Make"
+linktitle: "Make"
+articleTitle: "Make"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the manufacturer of the recording equipment."
 type: docs
-weight: 780
-url: /net/aspose.cad.exif/exifdata/make/
+weight: 70
+url: "/net/aspose.cad.exif/exifdata/make/"
+product_version: "26.9"
 ---
 ## ExifData.Make property
 
@@ -20,8 +23,7 @@ The manufacturer of the recording equipment.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

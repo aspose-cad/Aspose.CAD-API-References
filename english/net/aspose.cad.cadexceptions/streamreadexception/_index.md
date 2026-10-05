@@ -1,10 +1,14 @@
 ---
-title: Class StreamReadException
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.CadExceptions.StreamReadException class. The stream reading exception. Caused when stream reading failed due to incorrect offset and bytes count request
+title: "StreamReadException Class"
+linktitle: "StreamReadException"
+articleTitle: "StreamReadException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.CadExceptions.StreamReadException class. The stream reading exception. Caused when stream reading failed due to incorrect offset and bytes count r..."
 type: docs
-weight: 330
-url: /net/aspose.cad.cadexceptions/streamreadexception/
+weight: 120
+url: "/net/aspose.cad.cadexceptions/streamreadexception/"
+keywords: "StreamReadException, Aspose.CAD.CadExceptions, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## StreamReadException class
 
@@ -19,21 +23,20 @@ public class StreamReadException : FrameworkException
 | Name | Description |
 | --- | --- |
 | [StreamReadException](streamreadexception/#constructor)(string) | Initializes a new instance of the `StreamReadException` class. |
-| [StreamReadException](streamreadexception/#constructor_2)(string, Exception) | Initializes a new instance of the `StreamReadException` class. |
-| [StreamReadException](streamreadexception/#constructor_1)(string, int, int) | Initializes a new instance of the `StreamReadException` class. |
-| [StreamReadException](streamreadexception/#constructor_3)(string, Exception, int, int) | Initializes a new instance of the `StreamReadException` class. |
+| [StreamReadException](streamreadexception/#constructor_1)(string, Exception) | Initializes a new instance of the `StreamReadException` class. |
+| [StreamReadException](streamreadexception/#constructor_2)(string, int, int) | Initializes a new instance of the `StreamReadException` class. |
+| [StreamReadException](streamreadexception/#constructor_3)(string, Exception, int, int) | Initializes a new instance of the `StreamReadException` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ActualReadCount](../../aspose.cad.cadexceptions/streamreadexception/actualreadcount/) { get; } | Gets the actual read bytes count. |
-| [ExpectedReadCount](../../aspose.cad.cadexceptions/streamreadexception/expectedreadcount/) { get; } | Gets the expected read bytes count. |
+| [ActualReadCount](../../aspose.cad.cadexceptions/streamreadexception/actualreadcount/) { get; } | Gets the actual read bytes count. |
+| [ExpectedReadCount](../../aspose.cad.cadexceptions/streamreadexception/expectedreadcount/) { get; } | Gets the expected read bytes count. |
 
 ### See Also
 
-* class [FrameworkException](../frameworkexception/)
-* namespace [Aspose.CAD.CadExceptions](../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../)
-
+* class [FrameworkException](../frameworkexception/)
+* namespace [Aspose.CAD.CadExceptions](../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../)
 

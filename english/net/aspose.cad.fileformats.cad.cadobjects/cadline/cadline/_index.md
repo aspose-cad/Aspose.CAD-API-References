@@ -1,10 +1,13 @@
 ---
-title: CadLine.CadLine
-second_title: Aspose.CAD for .NET API Reference
-description: CadLine constructor. Initializes a new instance of the CadLine class
+title: "CadLine.CadLine"
+linktitle: "CadLine"
+articleTitle: "CadLine"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLine constructor. Initializes a new instance of the CadLine class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadline/cadline/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadline/cadline/"
+product_version: "26.9"
 ---
 ## CadLine() {#constructor}
 
@@ -16,13 +19,13 @@ public CadLine()
 
 ### See Also
 
-* class [CadLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
+* class [CadLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## CadLine(Cad3DPoint, Cad3DPoint) {#constructor_1}
+## CadLine(Cad3DPoint, Cad3DPoint) {#constructor_1}
 
 Initializes a new instance of the [`CadLine`](../) class.
 
@@ -43,9 +46,8 @@ public CadLine(Cad3DPoint firstPoint, Cad3DPoint secondPoint)
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

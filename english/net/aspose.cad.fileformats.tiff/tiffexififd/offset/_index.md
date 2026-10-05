@@ -1,10 +1,13 @@
 ---
-title: TiffExifIfd.Offset
-second_title: Aspose.CAD for .NET API Reference
-description: TiffExifIfd property. Gets or sets the pointer to EXIF IFD
+title: "TiffExifIfd.Offset"
+linktitle: "Offset"
+articleTitle: "Offset"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffExifIfd property. Gets or sets the pointer to EXIF IFD."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.tiff/tiffexififd/offset/
+weight: 40
+url: "/net/aspose.cad.fileformats.tiff/tiffexififd/offset/"
+product_version: "26.9"
 ---
 ## TiffExifIfd.Offset property
 
@@ -26,8 +29,7 @@ The pointer to EXIF IFD.
 
 ### See Also
 
-* class [TiffExifIfd](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffExifIfd](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

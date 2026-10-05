@@ -1,10 +1,13 @@
 ---
-title: JFIFData.DensityUnits
-second_title: Aspose.CAD for .NET API Reference
-description: JFIFData property. Gets or sets the density units
+title: "JFIFData.DensityUnits"
+linktitle: "DensityUnits"
+articleTitle: "DensityUnits"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JFIFData property. Gets or sets the density units."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.jpeg/jfifdata/densityunits/
+url: "/net/aspose.cad.fileformats.jpeg/jfifdata/densityunits/"
+product_version: "26.9"
 ---
 ## JFIFData.DensityUnits property
 
@@ -16,9 +19,8 @@ public JfifDensityUnits DensityUnits { get; set; }
 
 ### See Also
 
-* enum [JfifDensityUnits](../../jfifdensityunits/)
-* class [JFIFData](../)
-* namespace [Aspose.CAD.FileFormats.Jpeg](../../../aspose.cad.fileformats.jpeg/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [JfifDensityUnits](../../jfifdensityunits/)
+* class [JFIFData](../)
+* namespace [Aspose.CAD.FileFormats.Jpeg](../../../aspose.cad.fileformats.jpeg/)
+* assembly [Aspose.CAD](../../../)
 

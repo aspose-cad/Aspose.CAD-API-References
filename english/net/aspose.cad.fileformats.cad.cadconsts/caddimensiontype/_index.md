@@ -1,10 +1,13 @@
 ---
-title: Enum CadDimensionType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadDimensionType enum. Cad Dimension type enum
+title: "CadDimensionType Enum"
+linktitle: "CadDimensionType"
+articleTitle: "CadDimensionType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadDimensionType enum. Cad Dimension type enum"
 type: docs
-weight: 1240
-url: /net/aspose.cad.fileformats.cad.cadconsts/caddimensiontype/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadconsts/caddimensiontype/"
+product_version: "26.9"
 ---
 ## CadDimensionType enumeration
 
@@ -29,7 +32,6 @@ public enum CadDimensionType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

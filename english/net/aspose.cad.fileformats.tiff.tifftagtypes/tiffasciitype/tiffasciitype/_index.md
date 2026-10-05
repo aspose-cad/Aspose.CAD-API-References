@@ -1,10 +1,13 @@
 ---
-title: TiffASCIIType.TiffASCIIType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffASCIIType constructor. Initializes a new instance of the TiffASCIIType class
+title: "TiffASCIIType.TiffASCIIType"
+linktitle: "TiffASCIIType"
+articleTitle: "TiffASCIIType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffASCIIType constructor. Initializes a new instance of the TiffASCIIType class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/tiffasciitype/
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/tiffasciitype/"
+product_version: "26.9"
 ---
 ## TiffASCIIType(TiffTags) {#constructor}
 
@@ -20,10 +23,10 @@ public TiffASCIIType(TiffTags tagId)
 
 ### See Also
 
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffASCIIType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffASCIIType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public TiffASCIIType(ushort tagId)
 
 ### See Also
 
-* class [TiffASCIIType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffASCIIType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

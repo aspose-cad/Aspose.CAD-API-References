@@ -1,10 +1,13 @@
 ---
-title: Enum CadFillSetting
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadFillSetting enum. The Cad fill setting
+title: "CadFillSetting Enum"
+linktitle: "CadFillSetting"
+articleTitle: "CadFillSetting"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadFillSetting enum. The Cad fill setting."
 type: docs
-weight: 1300
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadfillsetting/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadfillsetting/"
+product_version: "26.9"
 ---
 ## CadFillSetting enumeration
 
@@ -26,7 +29,6 @@ public enum CadFillSetting
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

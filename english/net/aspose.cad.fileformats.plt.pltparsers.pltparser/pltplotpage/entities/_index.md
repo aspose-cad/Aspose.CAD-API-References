@@ -1,10 +1,13 @@
 ---
-title: PltPlotPage.Entities
-second_title: Aspose.CAD for .NET API Reference
-description: PltPlotPage property. Gets the collection of plot objects
+title: "PltPlotPage.Entities"
+linktitle: "Entities"
+articleTitle: "Entities"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PltPlotPage property. Gets the collection of plot objects"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser/pltplotpage/entities/
+url: "/net/aspose.cad.fileformats.plt.pltparsers.pltparser/pltplotpage/entities/"
+product_version: "26.9"
 ---
 ## PltPlotPage.Entities property
 
@@ -16,9 +19,8 @@ public PltPlotObject[] Entities { get; }
 
 ### See Also
 
-* class [PltPlotObject](../../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotobject/)
-* class [PltPlotPage](../)
-* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser](../../../aspose.cad.fileformats.plt.pltparsers.pltparser/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PltPlotObject](../../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotobject/)
+* class [PltPlotPage](../)
+* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser](../../../aspose.cad.fileformats.plt.pltparsers.pltparser/)
+* assembly [Aspose.CAD](../../../)
 

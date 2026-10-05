@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.CanWrite
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer property. Gets a value indicating whether stream supports writing
+title: "StreamContainer.CanWrite"
+linktitle: "CanWrite"
+articleTitle: "CanWrite"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer property. Gets a value indicating whether stream supports writing."
 type: docs
-weight: 40
-url: /net/aspose.cad/streamcontainer/canwrite/
+weight: 300
+url: "/net/aspose.cad/streamcontainer/canwrite/"
+product_version: "26.9"
 ---
 ## StreamContainer.CanWrite property
 
@@ -20,8 +23,7 @@ public virtual bool CanWrite { get; }
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

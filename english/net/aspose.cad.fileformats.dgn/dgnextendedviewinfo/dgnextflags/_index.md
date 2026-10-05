@@ -1,10 +1,13 @@
 ---
-title: DgnExtendedViewInfo.DgnExtFlags
-second_title: Aspose.CAD for .NET API Reference
-description: DgnExtendedViewInfo property. Gets extended flags
+title: "DgnExtendedViewInfo.DgnExtFlags"
+linktitle: "DgnExtFlags"
+articleTitle: "DgnExtFlags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnExtendedViewInfo property. Gets extended flags"
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.dgn/dgnextendedviewinfo/dgnextflags/
+weight: 20
+url: "/net/aspose.cad.fileformats.dgn/dgnextendedviewinfo/dgnextflags/"
+product_version: "26.9"
 ---
 ## DgnExtendedViewInfo.DgnExtFlags property
 
@@ -16,9 +19,8 @@ public DgnExtViewFlags DgnExtFlags { get; }
 
 ### See Also
 
-* class [DgnExtViewFlags](../../dgnextviewflags/)
-* class [DgnExtendedViewInfo](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnExtViewFlags](../../dgnextviewflags/)
+* class [DgnExtendedViewInfo](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

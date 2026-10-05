@@ -1,10 +1,13 @@
 ---
-title: Enum SmoothingMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.SmoothingMode enum. Specifies whether smoothing antialiasing is applied to lines and curves and the edges of filled areas
+title: "SmoothingMode Enum"
+linktitle: "SmoothingMode"
+articleTitle: "SmoothingMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.SmoothingMode enum. Specifies whether smoothing (antialiasing) is applied to lines and curves and the edges of filled areas."
 type: docs
-weight: 37230
-url: /net/aspose.cad/smoothingmode/
+weight: 840
+url: "/net/aspose.cad/smoothingmode/"
+product_version: "26.9"
 ---
 ## SmoothingMode enumeration
 
@@ -27,7 +30,6 @@ public enum SmoothingMode
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

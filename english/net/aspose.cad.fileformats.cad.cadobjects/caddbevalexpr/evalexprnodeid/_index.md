@@ -1,10 +1,13 @@
 ---
-title: CadDbEvalExpr.EvalExprNodeId
-second_title: Aspose.CAD for .NET API Reference
-description: CadDbEvalExpr property. The node ID
+title: "CadDbEvalExpr.EvalExprNodeId"
+linktitle: "EvalExprNodeId"
+articleTitle: "EvalExprNodeId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDbEvalExpr property. The node ID"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/evalexprnodeid/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/evalexprnodeid/"
+product_version: "26.9"
 ---
 ## CadDbEvalExpr.EvalExprNodeId property
 
@@ -16,8 +19,7 @@ public int EvalExprNodeId { get; set; }
 
 ### See Also
 
-* class [CadDbEvalExpr](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDbEvalExpr](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

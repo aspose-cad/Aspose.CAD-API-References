@@ -1,10 +1,13 @@
 ---
-title: CadAcadProxyEntity.GraphicsDataSizeAttribute160
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcadProxyEntity property. Gets or sets the graphics data size attribute160
+title: "CadAcadProxyEntity.GraphicsDataSizeAttribute160"
+linktitle: "GraphicsDataSizeAttribute160"
+articleTitle: "GraphicsDataSizeAttribute160"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcadProxyEntity property. Gets or sets the graphics data size attribute160."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/graphicsdatasizeattribute160/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/graphicsdatasizeattribute160/"
+product_version: "26.9"
 ---
 ## CadAcadProxyEntity.GraphicsDataSizeAttribute160 property
 
@@ -20,8 +23,7 @@ The graphics data size attribute160.
 
 ### See Also
 
-* class [CadAcadProxyEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcadProxyEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

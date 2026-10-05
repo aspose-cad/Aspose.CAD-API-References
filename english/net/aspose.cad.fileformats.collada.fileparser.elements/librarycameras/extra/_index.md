@@ -1,10 +1,13 @@
 ---
-title: LibraryCameras.Extra
-second_title: Aspose.CAD for .NET API Reference
-description: LibraryCameras property. Gets or sets the extra
+title: "LibraryCameras.Extra"
+linktitle: "Extra"
+articleTitle: "Extra"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LibraryCameras property. Gets or sets the extra."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/librarycameras/extra/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/librarycameras/extra/"
+product_version: "26.9"
 ---
 ## LibraryCameras.Extra property
 
@@ -16,9 +19,8 @@ public Extra[] Extra { get; set; }
 
 ### See Also
 
-* class [Extra](../../extra/)
-* class [LibraryCameras](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Extra](../../extra/)
+* class [LibraryCameras](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

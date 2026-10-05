@@ -1,10 +1,13 @@
 ---
-title: CadSweptSurface.PathTransformMatrix2
-second_title: Aspose.CAD for .NET API Reference
-description: CadSweptSurface property. Gets or sets the path transform matrix 2
+title: "CadSweptSurface.PathTransformMatrix2"
+linktitle: "PathTransformMatrix2"
+articleTitle: "PathTransformMatrix2"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSweptSurface property. Gets or sets the path transform matrix 2."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/pathtransformmatrix2/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/pathtransformmatrix2/"
+product_version: "26.9"
 ---
 ## CadSweptSurface.PathTransformMatrix2 property
 
@@ -16,8 +19,7 @@ public List<double> PathTransformMatrix2 { get; set; }
 
 ### See Also
 
-* class [CadSweptSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSweptSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

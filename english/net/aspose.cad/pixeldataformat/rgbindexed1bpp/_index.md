@@ -1,14 +1,19 @@
 ---
-title: PixelDataFormat.RgbIndexed1Bpp
-second_title: Aspose.CAD for .NET API Reference
-description: PixelDataFormat property. Gets the PixelDataFormat defined for indexed 1 bit per color. The indexed pixel data storage is intended to allow data storage and retrieval everywhere the color palette is used. Use with caution because may require conversion from one palette to another or from RGBA to indexed color model
+title: "PixelDataFormat.RgbIndexed1Bpp"
+linktitle: "RgbIndexed1Bpp"
+articleTitle: "RgbIndexed1Bpp"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PixelDataFormat property. Gets the PixelDataFormat defined for indexed 1 bit per color. The indexed pixel data storage is intended to allow data storage and ..."
 type: docs
-weight: 90
-url: /net/aspose.cad/pixeldataformat/rgbindexed1bpp/
+weight: 130
+url: "/net/aspose.cad/pixeldataformat/rgbindexed1bpp/"
+product_version: "26.9"
 ---
 ## PixelDataFormat.RgbIndexed1Bpp property
 
-Gets the [`PixelDataFormat`](../) defined for indexed 1 bit per color. The indexed pixel data storage is intended to allow data storage and retrieval everywhere the color palette is used. Use with caution, because may require conversion from one palette to another or from RGBA to indexed color model.
+Gets the [`PixelDataFormat`](../) defined for indexed 1 bit per color.
+ The indexed pixel data storage is intended to allow data storage and retrieval everywhere the color palette is used.
+ Use with caution, because may require conversion from one palette to another or from RGBA to indexed color model.
 
 ```csharp
 public static PixelDataFormat RgbIndexed1Bpp { get; }
@@ -20,8 +25,7 @@ The [`PixelDataFormat`](../) defined for indexed 1 bit per color.
 
 ### See Also
 
-* class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PixelDataFormat](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

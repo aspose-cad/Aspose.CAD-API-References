@@ -1,14 +1,17 @@
 ---
-title: GlbData.ParseGLB
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Parses a GlbData instance from a Byte array representing a GLB file
+title: "GlbData.ParseGLB"
+linktitle: "ParseGLB"
+articleTitle: "ParseGLB"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Parses a GlbData instance from a Byte array representing a GLB file"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb/glbdata/parseglb/
+weight: 280
+url: "/net/aspose.cad.fileformats.glb/glbdata/parseglb/"
+product_version: "26.9"
 ---
 ## GlbData.ParseGLB method
 
-Parses a [`GlbData`](../) instance from a Byte array representing a GLB file
+Parses a [`GlbData`](../) instance from a `Byte` array representing a GLB file
 
 ```csharp
 public static GlbData ParseGLB(ArraySegment<byte> glb, ReadSettings settings = null)
@@ -25,9 +28,8 @@ A [`GlbData`](../) instance.
 
 ### See Also
 
-* class [ReadSettings](../../readsettings/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GlbData](../)
+* class [ReadSettings](../../readsettings/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

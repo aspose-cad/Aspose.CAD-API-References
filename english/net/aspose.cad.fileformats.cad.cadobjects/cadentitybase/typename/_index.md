@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets the name of the type
+title: "CadEntityBase.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets the name of the type."
 type: docs
-weight: 320
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/typename/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/typename/"
+product_version: "26.9"
 ---
 ## CadEntityBase.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

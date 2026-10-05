@@ -1,10 +1,13 @@
 ---
-title: Cad2LineAngularDimension.AngularArcDefinitionPoint
-second_title: Aspose.CAD for .NET API Reference
-description: Cad2LineAngularDimension property. Gets or sets the angular arc definition point
+title: "Cad2LineAngularDimension.AngularArcDefinitionPoint"
+linktitle: "AngularArcDefinitionPoint"
+articleTitle: "AngularArcDefinitionPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad2LineAngularDimension property. Gets or sets the angular arc definition point."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/angulararcdefinitionpoint/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad2lineangulardimension/angulararcdefinitionpoint/"
+product_version: "26.9"
 ---
 ## Cad2LineAngularDimension.AngularArcDefinitionPoint property
 
@@ -20,9 +23,8 @@ The angular arc definition point.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [Cad2LineAngularDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [Cad2LineAngularDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

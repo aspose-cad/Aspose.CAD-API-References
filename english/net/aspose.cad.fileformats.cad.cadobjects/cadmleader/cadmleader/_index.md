@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.CadMLeader
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader constructor. Initializes a new instance of the CadMLeader class
+title: "CadMLeader.CadMLeader"
+linktitle: "CadMLeader"
+articleTitle: "CadMLeader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader constructor. Initializes a new instance of the CadMLeader class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/cadmleader/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/cadmleader/"
+product_version: "26.9"
 ---
 ## CadMLeader constructor
 
@@ -16,8 +19,7 @@ public CadMLeader()
 
 ### See Also
 
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

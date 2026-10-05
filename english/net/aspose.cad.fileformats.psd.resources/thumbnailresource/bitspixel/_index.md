@@ -1,10 +1,13 @@
 ---
-title: ThumbnailResource.BitsPixel
-second_title: Aspose.CAD for .NET API Reference
-description: ThumbnailResource property. Gets or sets the bits pixel
+title: "ThumbnailResource.BitsPixel"
+linktitle: "BitsPixel"
+articleTitle: "BitsPixel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThumbnailResource property. Gets or sets the bits pixel."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.psd.resources/thumbnailresource/bitspixel/
+weight: 90
+url: "/net/aspose.cad.fileformats.psd.resources/thumbnailresource/bitspixel/"
+product_version: "26.9"
 ---
 ## ThumbnailResource.BitsPixel property
 
@@ -20,8 +23,7 @@ The thumbnail bits pixel.
 
 ### See Also
 
-* class [ThumbnailResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThumbnailResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

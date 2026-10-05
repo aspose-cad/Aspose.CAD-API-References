@@ -1,10 +1,13 @@
 ---
-title: CadDimensionBase.StyleName
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionBase property. Gets or sets the style name
+title: "CadDimensionBase.StyleName"
+linktitle: "StyleName"
+articleTitle: "StyleName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionBase property. Gets or sets the style name."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/stylename/
+weight: 210
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/stylename/"
+product_version: "26.9"
 ---
 ## CadDimensionBase.StyleName property
 
@@ -16,8 +19,7 @@ public string StyleName { get; set; }
 
 ### See Also
 
-* class [CadDimensionBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

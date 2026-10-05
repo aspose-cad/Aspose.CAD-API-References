@@ -1,10 +1,13 @@
 ---
-title: Render.Extra
-second_title: Aspose.CAD for .NET API Reference
-description: Render property. Gets or sets the extra
+title: "Render.Extra"
+linktitle: "Extra"
+articleTitle: "Extra"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Render property. Gets or sets the extra."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/render/extra/
+weight: 40
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/render/extra/"
+product_version: "26.9"
 ---
 ## Render.Extra property
 
@@ -16,9 +19,8 @@ public Extra[] Extra { get; set; }
 
 ### See Also
 
-* class [Extra](../../extra/)
-* class [Render](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Extra](../../extra/)
+* class [Render](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

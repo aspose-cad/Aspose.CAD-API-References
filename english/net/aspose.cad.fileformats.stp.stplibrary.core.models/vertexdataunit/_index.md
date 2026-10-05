@@ -1,10 +1,14 @@
 ---
-title: Class VertexDataUnit
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models.VertexDataUnit class. The coordinates of the vertices triangle facets
+title: "VertexDataUnit Class"
+linktitle: "VertexDataUnit"
+articleTitle: "VertexDataUnit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models.VertexDataUnit class. The coordinates of the vertices triangle facets."
 type: docs
-weight: 35270
-url: /net/aspose.cad.fileformats.stp.stplibrary.core.models/vertexdataunit/
+weight: 50
+url: "/net/aspose.cad.fileformats.stp.stplibrary.core.models/vertexdataunit/"
+keywords: "VertexDataUnit, Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## VertexDataUnit class
 
@@ -22,7 +26,6 @@ public class VertexDataUnit
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../aspose.cad.fileformats.stp.stplibrary.core.models/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../aspose.cad.fileformats.stp.stplibrary.core.models/)
+* assembly [Aspose.CAD](../../)
 

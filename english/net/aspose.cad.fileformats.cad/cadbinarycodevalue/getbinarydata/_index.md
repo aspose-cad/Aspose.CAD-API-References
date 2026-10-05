@@ -1,10 +1,13 @@
 ---
-title: CadBinaryCodeValue.GetBinaryData
-second_title: Aspose.CAD for .NET API Reference
-description: CadBinaryCodeValue method. Gets the binary data
+title: "CadBinaryCodeValue.GetBinaryData"
+linktitle: "GetBinaryData"
+articleTitle: "GetBinaryData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBinaryCodeValue method. Gets the binary data."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad/cadbinarycodevalue/getbinarydata/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad/cadbinarycodevalue/getbinarydata/"
+product_version: "26.9"
 ---
 ## CadBinaryCodeValue.GetBinaryData method
 
@@ -20,8 +23,7 @@ Byte array from hexadecimal data.
 
 ### See Also
 
-* class [CadBinaryCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBinaryCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

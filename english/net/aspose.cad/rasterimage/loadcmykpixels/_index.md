@@ -1,10 +1,13 @@
 ---
-title: RasterImage.LoadCmykPixels
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Loads pixels in CMYK format
+title: "RasterImage.LoadCmykPixels"
+linktitle: "LoadCmykPixels"
+articleTitle: "LoadCmykPixels"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Loads pixels in CMYK format."
 type: docs
-weight: 300
-url: /net/aspose.cad/rasterimage/loadcmykpixels/
+weight: 310
+url: "/net/aspose.cad/rasterimage/loadcmykpixels/"
+product_version: "26.9"
 ---
 ## RasterImage.LoadCmykPixels method
 
@@ -24,10 +27,9 @@ The loaded CMYK pixels array.
 
 ### See Also
 
-* struct [CmykColor](../../cmykcolor/)
-* struct [Rectangle](../../rectangle/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [CmykColor](../../cmykcolor/)
+* struct [Rectangle](../../rectangle/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

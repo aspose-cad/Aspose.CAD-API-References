@@ -1,10 +1,14 @@
 ---
-title: Class GeneralizedTextPathMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.GeneralizedTextPathMode class. Class3 ElementId18
+title: "GeneralizedTextPathMode Class"
+linktitle: "GeneralizedTextPathMode"
+articleTitle: "GeneralizedTextPathMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.GeneralizedTextPathMode class. Class=3, ElementId=18"
 type: docs
-weight: 5790
-url: /net/aspose.cad.fileformats.cgm.commands/generalizedtextpathmode/
+weight: 1060
+url: "/net/aspose.cad.fileformats.cgm.commands/generalizedtextpathmode/"
+keywords: "GeneralizedTextPathMode, Aspose.CAD.FileFormats.Cgm.Commands, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## GeneralizedTextPathMode class
 
@@ -18,36 +22,35 @@ public class GeneralizedTextPathMode : Command
 
 | Name | Description |
 | --- | --- |
-| [GeneralizedTextPathMode](generalizedtextpathmode/#constructor)(CgmFile) |  |
-| [GeneralizedTextPathMode](generalizedtextpathmode/#constructor_1)(CgmFile, TextPathMode) |  |
+| [GeneralizedTextPathMode](generalizedtextpathmode/#constructor)(CgmFile) | Initializes a new instance of the GeneralizedTextPathMode class. |
+| [GeneralizedTextPathMode](generalizedtextpathmode/#constructor_1)(CgmFile, TextPathMode) | Initializes a new instance of the GeneralizedTextPathMode class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
-| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
-| [Mode](../../aspose.cad.fileformats.cgm.commands/generalizedtextpathmode/mode/) { get; set; } |  |
+| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
+| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
+| [Mode](../../aspose.cad.fileformats.cgm.commands/generalizedtextpathmode/mode/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/generalizedtextpathmode/readfrombinary/)(IBinaryReader) |  |
-| override [ToString](../../aspose.cad.fileformats.cgm.commands/command/tostring/)() |  |
-| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/generalizedtextpathmode/writeasbinary/)(IBinaryWriter) |  |
-| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/generalizedtextpathmode/writeascleartext/)(IClearTextWriter) |  |
+| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/generalizedtextpathmode/readfrombinary/)(IBinaryReader) |  |
+| override [ToString](../../aspose.cad.fileformats.cgm.commands/command/tostring/)() |  |
+| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/generalizedtextpathmode/writeasbinary/)(IBinaryWriter) |  |
+| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/generalizedtextpathmode/writeascleartext/)(IClearTextWriter) |  |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-| enum [TextPathMode](../../aspose.cad.fileformats.cgm.commands/generalizedtextpathmode.textpathmode) |  |
+| enum [TextPathMode](../../aspose.cad.fileformats.cgm.commands/generalizedtextpathmode.textpathmode) |  |
 
 ### See Also
 
-* class [Command](../command/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [Command](../command/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

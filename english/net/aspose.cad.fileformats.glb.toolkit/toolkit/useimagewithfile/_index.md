@@ -1,10 +1,13 @@
 ---
-title: Toolkit.UseImageWithFile
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. Creates or reuses an GlbImage with the file set by filePath
+title: "Toolkit.UseImageWithFile"
+linktitle: "UseImageWithFile"
+articleTitle: "UseImageWithFile"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method. Creates or reuses an GlbImage with the file set by filePath"
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/useimagewithfile/
+weight: 410
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/useimagewithfile/"
+product_version: "26.9"
 ---
 ## Toolkit.UseImageWithFile method
 
@@ -25,10 +28,9 @@ A [`GlbImage`](../../../aspose.cad.fileformats.glb/glbimage/) instance.
 
 ### See Also
 
-* class [ImageGlb](../../../aspose.cad.fileformats.glb/imageglb/)
-* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ImageGlb](../../../aspose.cad.fileformats.glb/imageglb/)
+* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum EnumFxOpaque
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxOpaque enum. The enumerator FX opaque
+title: "EnumFxOpaque Enum"
+linktitle: "EnumFxOpaque"
+articleTitle: "EnumFxOpaque"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxOpaque enum. The enumerator FX opaque."
 type: docs
-weight: 7640
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumfxopaque/
+weight: 320
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/enumfxopaque/"
+product_version: "26.9"
 ---
 ## EnumFxOpaque enumeration
 
@@ -25,7 +28,6 @@ public enum EnumFxOpaque
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

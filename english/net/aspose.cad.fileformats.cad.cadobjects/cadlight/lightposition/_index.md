@@ -1,10 +1,13 @@
 ---
-title: CadLight.LightPosition
-second_title: Aspose.CAD for .NET API Reference
-description: CadLight property. Gets or sets the light position
+title: "CadLight.LightPosition"
+linktitle: "LightPosition"
+articleTitle: "LightPosition"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLight property. Gets or sets the light position."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/lightposition/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlight/lightposition/"
+product_version: "26.9"
 ---
 ## CadLight.LightPosition property
 
@@ -20,9 +23,8 @@ The light position.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadLight](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadLight](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

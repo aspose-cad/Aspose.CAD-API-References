@@ -1,10 +1,14 @@
 ---
-title: Class CadSize
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.CadSize class. The Cad size
+title: "CadSize Class"
+linktitle: "CadSize"
+articleTitle: "CadSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadSize class. The Cad size"
 type: docs
-weight: 3270
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsize/
+weight: 1220
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsize/"
+keywords: "CadSize, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadSize class
 
@@ -18,25 +22,24 @@ public class CadSize
 
 | Name | Description |
 | --- | --- |
-| [CadSize](cadsize/)(double, double) | Initializes a new instance of the `CadSize` class. |
+| [CadSize](cadsize/)(double, double) | Initializes a new instance of the `CadSize` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Height](../../aspose.cad.fileformats.cad.cadobjects/cadsize/height/) { get; set; } | Gets or sets the height. |
-| [Width](../../aspose.cad.fileformats.cad.cadobjects/cadsize/width/) { get; set; } | Gets or sets the Width. |
+| [Height](../../aspose.cad.fileformats.cad.cadobjects/cadsize/height/) { get; set; } | Gets or sets the height. |
+| [Width](../../aspose.cad.fileformats.cad.cadobjects/cadsize/width/) { get; set; } | Gets or sets the Width. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.cad.fileformats.cad.cadobjects/cadsize/tostring/)() | Returns a String that represents this instance. |
+| override [ToString](../../aspose.cad.fileformats.cad.cadobjects/cadsize/tostring/)() | Returns a String that represents this instance. |
 | [Truncate](../../aspose.cad.fileformats.cad.cadobjects/cadsize/truncate/)() | Gets the point. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
 

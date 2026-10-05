@@ -1,14 +1,18 @@
 ---
-title: GlbData.UseTextureSampler
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates or reuses a TextureSampler instance at LogicalTextureSamplers
+title: "GlbData.UseTextureSampler"
+linktitle: "UseTextureSampler"
+articleTitle: "UseTextureSampler"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Creates or reuses a TextureSampler instance at LogicalTextureSamplers."
 type: docs
-weight: 540
-url: /net/aspose.cad.fileformats.glb/glbdata/usetexturesampler/
+weight: 340
+url: "/net/aspose.cad.fileformats.glb/glbdata/usetexturesampler/"
+product_version: "26.9"
 ---
 ## GlbData.UseTextureSampler method
 
-Creates or reuses a [`TextureSampler`](../../texturesampler/) instance at [`LogicalTextureSamplers`](../logicaltexturesamplers/).
+Creates or reuses a [`TextureSampler`](../../texturesampler/) instance
+ at [`LogicalTextureSamplers`](../logicaltexturesamplers/).
 
 ```csharp
 public TextureSampler UseTextureSampler(TextureWrapMode ws, TextureWrapMode wt, 
@@ -28,12 +32,11 @@ A [`TextureSampler`](../../texturesampler/) instance, or null if all the argumen
 
 ### See Also
 
-* class [TextureSampler](../../texturesampler/)
-* enum [TextureWrapMode](../../texturewrapmode/)
-* enum [TextureMipMapFilter](../../texturemipmapfilter/)
-* enum [TextureInterpolationFilter](../../textureinterpolationfilter/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TextureSampler](../../texturesampler/)
+* enum [TextureWrapMode](../../texturewrapmode/)
+* enum [TextureMipMapFilter](../../texturemipmapfilter/)
+* enum [TextureInterpolationFilter](../../textureinterpolationfilter/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

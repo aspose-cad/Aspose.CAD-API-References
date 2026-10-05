@@ -1,12 +1,17 @@
 ---
-title: Enum RestrictedTextType.Type
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.RestrictedTextTypeType enum. 
+title: "RestrictedTextType.Type Enum"
+linktitle: "RestrictedTextType.Type"
+articleTitle: "RestrictedTextType.Type"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.RestrictedTextType.Type enum."
 type: docs
-weight: 6550
-url: /net/aspose.cad.fileformats.cgm.commands/restrictedtexttype.type/
+weight: 1830
+url: "/net/aspose.cad.fileformats.cgm.commands/restrictedtexttype.type/"
+product_version: "26.9"
 ---
 ## RestrictedTextType.Type enumeration
+
+
 
 ```csharp
 public enum Type
@@ -25,8 +30,7 @@ public enum Type
 
 ### See Also
 
-* class [RestrictedTextType](../restrictedtexttype/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [RestrictedTextType](../restrictedtexttype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

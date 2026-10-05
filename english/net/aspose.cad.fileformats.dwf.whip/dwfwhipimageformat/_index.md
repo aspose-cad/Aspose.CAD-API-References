@@ -1,10 +1,13 @@
 ---
-title: Enum DwfWhipImageFormat
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.DwfWhipImageFormat enum. Represents image format
+title: "DwfWhipImageFormat Enum"
+linktitle: "DwfWhipImageFormat"
+articleTitle: "DwfWhipImageFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.DwfWhipImageFormat enum. Represents image format"
 type: docs
-weight: 9640
-url: /net/aspose.cad.fileformats.dwf.whip/dwfwhipimageformat/
+weight: 30
+url: "/net/aspose.cad.fileformats.dwf.whip/dwfwhipimageformat/"
+product_version: "26.9"
 ---
 ## DwfWhipImageFormat enumeration
 
@@ -18,6 +21,7 @@ public enum DwfWhipImageFormat
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Undefined | `0` | The undefined. |
 | BitonalMapped | `2` | The bitonal mapped |
 | Group3XMapped | `3` | The group3 x mapped |
 | Indexed | `4` | The indexed |
@@ -28,7 +32,6 @@ public enum DwfWhipImageFormat
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip](../../aspose.cad.fileformats.dwf.whip/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip](../../aspose.cad.fileformats.dwf.whip/)
+* assembly [Aspose.CAD](../../)
 

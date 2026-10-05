@@ -1,10 +1,13 @@
 ---
-title: Matrix.op_Inequality
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix method. Implements the operator 
+title: "Matrix.op_Inequality"
+linktitle: "op_Inequality"
+articleTitle: "op_Inequality"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix method. Implements the operator !=."
 type: docs
-weight: 310
-url: /net/aspose.cad/matrix/op_inequality/
+weight: 70
+url: "/net/aspose.cad/matrix/op_inequality/"
+product_version: "26.9"
 ---
 ## Matrix Inequality operator
 
@@ -25,8 +28,7 @@ The result of the operator.
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

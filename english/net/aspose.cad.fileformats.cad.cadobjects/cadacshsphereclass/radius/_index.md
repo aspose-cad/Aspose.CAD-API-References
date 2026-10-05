@@ -1,10 +1,13 @@
 ---
-title: CadAcshSphereClass.Radius
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcshSphereClass property. The radius
+title: "CadAcshSphereClass.Radius"
+linktitle: "Radius"
+articleTitle: "Radius"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcshSphereClass property. The radius"
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshsphereclass/radius/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshsphereclass/radius/"
+product_version: "26.9"
 ---
 ## CadAcshSphereClass.Radius property
 
@@ -16,8 +19,7 @@ public double Radius { get; set; }
 
 ### See Also
 
-* class [CadAcshSphereClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcshSphereClass](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

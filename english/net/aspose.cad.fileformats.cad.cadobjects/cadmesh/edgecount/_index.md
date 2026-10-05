@@ -1,10 +1,13 @@
 ---
-title: CadMesh.EdgeCount
-second_title: Aspose.CAD for .NET API Reference
-description: CadMesh property. Gets or sets edge count
+title: "CadMesh.EdgeCount"
+linktitle: "EdgeCount"
+articleTitle: "EdgeCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMesh property. Gets or sets edge count"
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmesh/edgecount/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmesh/edgecount/"
+product_version: "26.9"
 ---
 ## CadMesh.EdgeCount property
 
@@ -16,8 +19,7 @@ public int EdgeCount { get; set; }
 
 ### See Also
 
-* class [CadMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IntRange.GetArrayOneItemFromIndex
-second_title: Aspose.CAD for .NET API Reference
-description: IntRange method. Returns one item array from specified index
+title: "IntRange.GetArrayOneItemFromIndex"
+linktitle: "GetArrayOneItemFromIndex"
+articleTitle: "GetArrayOneItemFromIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IntRange method. Returns one item array from specified index"
 type: docs
-weight: 30
-url: /net/aspose.cad/intrange/getarrayoneitemfromindex/
+weight: 40
+url: "/net/aspose.cad/intrange/getarrayoneitemfromindex/"
+product_version: "26.9"
 ---
 ## IntRange.GetArrayOneItemFromIndex method
 
@@ -20,7 +23,7 @@ public int[] GetArrayOneItemFromIndex(int index)
 
 ### Return Value
 
-The array of Int32
+The array of `Int32`
 
 ### Exceptions
 
@@ -30,8 +33,7 @@ The array of Int32
 
 ### See Also
 
-* class [IntRange](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IntRange](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

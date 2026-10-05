@@ -1,10 +1,13 @@
 ---
-title: Enum ExifFlash
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifFlash enum. Flash mode
+title: "ExifFlash Enum"
+linktitle: "ExifFlash"
+articleTitle: "ExifFlash"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifFlash enum. Flash mode."
 type: docs
-weight: 590
-url: /net/aspose.cad.exif.enums/exifflash/
+weight: 80
+url: "/net/aspose.cad.exif.enums/exifflash/"
+product_version: "26.9"
 ---
 ## ExifFlash enumeration
 
@@ -35,7 +38,6 @@ public enum ExifFlash
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

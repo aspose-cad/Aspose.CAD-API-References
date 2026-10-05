@@ -1,10 +1,13 @@
 ---
-title: CadSymbolTableGroupCodes.SubClass
-second_title: Aspose.CAD for .NET API Reference
-description: CadSymbolTableGroupCodes property. Gets or sets the sub class parameter
+title: "CadSymbolTableGroupCodes.SubClass"
+linktitle: "SubClass"
+articleTitle: "SubClass"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSymbolTableGroupCodes property. Gets or sets the sub class parameter."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/subclass/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/subclass/"
+product_version: "26.9"
 ---
 ## CadSymbolTableGroupCodes.SubClass property
 
@@ -20,8 +23,7 @@ The sub class parameter.
 
 ### See Also
 
-* class [CadSymbolTableGroupCodes](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSymbolTableGroupCodes](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

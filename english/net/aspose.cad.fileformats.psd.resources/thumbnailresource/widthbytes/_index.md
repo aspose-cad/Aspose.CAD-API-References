@@ -1,10 +1,13 @@
 ---
-title: ThumbnailResource.WidthBytes
-second_title: Aspose.CAD for .NET API Reference
-description: ThumbnailResource property. Gets the row width in bytes
+title: "ThumbnailResource.WidthBytes"
+linktitle: "WidthBytes"
+articleTitle: "WidthBytes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThumbnailResource property. Gets the row width in bytes."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.psd.resources/thumbnailresource/widthbytes/
+weight: 60
+url: "/net/aspose.cad.fileformats.psd.resources/thumbnailresource/widthbytes/"
+product_version: "26.9"
 ---
 ## ThumbnailResource.WidthBytes property
 
@@ -20,8 +23,7 @@ The row width in bytes.
 
 ### See Also
 
-* class [ThumbnailResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThumbnailResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

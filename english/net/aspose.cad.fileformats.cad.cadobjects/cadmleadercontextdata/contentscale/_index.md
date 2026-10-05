@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.ContentScale
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets the content scale
+title: "CadMLeaderContextData.ContentScale"
+linktitle: "ContentScale"
+articleTitle: "ContentScale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets the content scale."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/contentscale/
+weight: 330
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/contentscale/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.ContentScale property
 
@@ -20,8 +23,7 @@ The scale of content.
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TiffSRational.ValueD
-second_title: Aspose.CAD for .NET API Reference
-description: TiffSRational property. Gets the double value
+title: "TiffSRational.ValueD"
+linktitle: "ValueD"
+articleTitle: "ValueD"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffSRational property. Gets the double value."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.tiff/tiffsrational/valued/
+weight: 140
+url: "/net/aspose.cad.fileformats.tiff/tiffsrational/valued/"
+product_version: "26.9"
 ---
 ## TiffSRational.ValueD property
 
@@ -20,8 +23,7 @@ The double value.
 
 ### See Also
 
-* class [TiffSRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffSRational](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

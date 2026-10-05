@@ -1,10 +1,13 @@
 ---
-title: CadDictionaryWithDefault.CadDictionaryWithDefault
-second_title: Aspose.CAD for .NET API Reference
-description: CadDictionaryWithDefault constructor. Initializes a new instance of the CadDictionaryWithDefault class
+title: "CadDictionaryWithDefault.CadDictionaryWithDefault"
+linktitle: "CadDictionaryWithDefault"
+articleTitle: "CadDictionaryWithDefault"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDictionaryWithDefault constructor. Initializes a new instance of the CadDictionaryWithDefault class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/caddictionarywithdefault/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/caddictionarywithdefault/"
+product_version: "26.9"
 ---
 ## CadDictionaryWithDefault constructor
 
@@ -16,8 +19,7 @@ public CadDictionaryWithDefault()
 
 ### See Also
 
-* class [CadDictionaryWithDefault](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDictionaryWithDefault](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
+* assembly [Aspose.CAD](../../../)
 

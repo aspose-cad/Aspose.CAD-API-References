@@ -1,10 +1,13 @@
 ---
-title: CadFieldData.FieldDataKeyString
-second_title: Aspose.CAD for .NET API Reference
-description: CadFieldData property. Gets or sets the area parameters
+title: "CadFieldData.FieldDataKeyString"
+linktitle: "FieldDataKeyString"
+articleTitle: "FieldDataKeyString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadFieldData property. Gets or sets the area parameters."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/fielddatakeystring/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/fielddatakeystring/"
+product_version: "26.9"
 ---
 ## CadFieldData.FieldDataKeyString property
 
@@ -16,8 +19,7 @@ public string FieldDataKeyString { get; set; }
 
 ### See Also
 
-* class [CadFieldData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadFieldData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
+* assembly [Aspose.CAD](../../../)
 

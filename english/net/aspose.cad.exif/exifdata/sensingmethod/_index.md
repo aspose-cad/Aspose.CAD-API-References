@@ -1,10 +1,13 @@
 ---
-title: ExifData.SensingMethod
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the sensing method
+title: "ExifData.SensingMethod"
+linktitle: "SensingMethod"
+articleTitle: "SensingMethod"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the sensing method."
 type: docs
-weight: 940
-url: /net/aspose.cad.exif/exifdata/sensingmethod/
+weight: 950
+url: "/net/aspose.cad.exif/exifdata/sensingmethod/"
+product_version: "26.9"
 ---
 ## ExifData.SensingMethod property
 
@@ -20,9 +23,8 @@ The sensing method.
 
 ### See Also
 
-* enum [ExifSensingMethod](../../../aspose.cad.exif.enums/exifsensingmethod/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ExifSensingMethod](../../../aspose.cad.exif.enums/exifsensingmethod/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

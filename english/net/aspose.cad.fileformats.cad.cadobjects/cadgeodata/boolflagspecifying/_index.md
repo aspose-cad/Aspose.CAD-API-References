@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.BoolFlagSpecifying
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the bool flag specifying
+title: "CadGeoData.BoolFlagSpecifying"
+linktitle: "BoolFlagSpecifying"
+articleTitle: "BoolFlagSpecifying"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the bool flag specifying."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/boolflagspecifying/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/boolflagspecifying/"
+product_version: "26.9"
 ---
 ## CadGeoData.BoolFlagSpecifying property
 
@@ -20,8 +23,7 @@ The bool flag specifying.
 
 ### See Also
 
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

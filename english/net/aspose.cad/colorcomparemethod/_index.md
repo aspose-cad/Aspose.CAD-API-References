@@ -1,10 +1,13 @@
 ---
-title: Enum ColorCompareMethod
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ColorCompareMethod enum. Color comparison method to adjust to nearest neighbor
+title: "ColorCompareMethod Enum"
+linktitle: "ColorCompareMethod"
+articleTitle: "ColorCompareMethod"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ColorCompareMethod enum. Color comparison method to adjust to nearest neighbor"
 type: docs
-weight: 410
-url: /net/aspose.cad/colorcomparemethod/
+weight: 120
+url: "/net/aspose.cad/colorcomparemethod/"
+product_version: "26.9"
 ---
 ## ColorCompareMethod enumeration
 
@@ -22,7 +25,6 @@ public enum ColorCompareMethod
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

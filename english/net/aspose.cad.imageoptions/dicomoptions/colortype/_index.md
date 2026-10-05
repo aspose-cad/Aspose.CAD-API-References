@@ -1,17 +1,20 @@
 ---
-title: DicomOptions.ColorType
-second_title: Aspose.CAD for .NET API Reference
-description: DicomOptions property. Gets or sets the type of the color
+title: "DicomOptions.ColorType"
+linktitle: "ColorType"
+articleTitle: "ColorType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DicomOptions property. Gets or sets the type of the color."
 type: docs
-weight: 20
-url: /net/aspose.cad.imageoptions/dicomoptions/colortype/
+weight: 40
+url: "/net/aspose.cad.imageoptions/dicomoptions/colortype/"
+product_version: "26.9"
 ---
 ## DicomOptions.ColorType property
 
 Gets or sets the type of the color.
 
 ```csharp
-public #=zT653yFxcSv_yowumQ_PMjtYim3PuUHf$EwT3LNY= ColorType { get; set; }
+public ColorType ColorType { get; set; }
 ```
 
 ### Property Value
@@ -20,8 +23,8 @@ The type of the color.
 
 ### See Also
 
-* class [DicomOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ColorType](../../../aspose.cad.fileformats.dicom/colortype/)
+* class [DicomOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

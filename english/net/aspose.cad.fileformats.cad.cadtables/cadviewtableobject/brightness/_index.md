@@ -1,10 +1,13 @@
 ---
-title: CadViewTableObject.Brightness
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewTableObject property. Gets or sets the brightness
+title: "CadViewTableObject.Brightness"
+linktitle: "Brightness"
+articleTitle: "Brightness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewTableObject property. Gets or sets the brightness."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/brightness/
+weight: 300
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/brightness/"
+product_version: "26.9"
 ---
 ## CadViewTableObject.Brightness property
 
@@ -20,8 +23,7 @@ The brightness.
 
 ### See Also
 
-* class [CadViewTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

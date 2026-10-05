@@ -1,10 +1,13 @@
 ---
-title: CadPlotSettings.PlotPaperSize
-second_title: Aspose.CAD for .NET API Reference
-description: CadPlotSettings property. Gets or sets the size of the plot paper
+title: "CadPlotSettings.PlotPaperSize"
+linktitle: "PlotPaperSize"
+articleTitle: "PlotPaperSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPlotSettings property. Gets or sets the size of the plot paper."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotpapersize/
+weight: 190
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotpapersize/"
+product_version: "26.9"
 ---
 ## CadPlotSettings.PlotPaperSize property
 
@@ -20,9 +23,8 @@ The size of the plot paper.
 
 ### See Also
 
-* class [CadSize](../../cadsize/)
-* class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSize](../../cadsize/)
+* class [CadPlotSettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

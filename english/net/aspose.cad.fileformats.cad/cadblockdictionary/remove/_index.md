@@ -1,10 +1,13 @@
 ---
-title: CadBlockDictionary.Remove
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockDictionary method. Removes the CadBlockEntity with the specified key
+title: "CadBlockDictionary.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockDictionary method. Removes the CadBlockEntity with the specified key."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad/cadblockdictionary/remove/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad/cadblockdictionary/remove/"
+product_version: "26.9"
 ---
 ## CadBlockDictionary.Remove method
 
@@ -24,8 +27,7 @@ True if the element is successfully removed; otherwise, false. This method also 
 
 ### See Also
 
-* class [CadBlockDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: NodeBuilder.HasAnimations
-second_title: Aspose.CAD for .NET API Reference
-description: NodeBuilder property. Gets a value indicating whether this NodeBuilder has animations
+title: "NodeBuilder.HasAnimations"
+linktitle: "HasAnimations"
+articleTitle: "HasAnimations"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NodeBuilder property. Gets a value indicating whether this NodeBuilder has animations."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.glb.scenes/nodebuilder/hasanimations/
+weight: 320
+url: "/net/aspose.cad.fileformats.glb.scenes/nodebuilder/hasanimations/"
+product_version: "26.9"
 ---
 ## NodeBuilder.HasAnimations property
 
@@ -16,8 +19,7 @@ public bool HasAnimations { get; }
 
 ### See Also
 
-* class [NodeBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NodeBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

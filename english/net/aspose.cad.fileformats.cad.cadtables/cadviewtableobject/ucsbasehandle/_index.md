@@ -1,10 +1,13 @@
 ---
-title: CadViewTableObject.UcsBaseHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewTableObject property. Gets or sets the ucs base handle
+title: "CadViewTableObject.UcsBaseHandle"
+linktitle: "UcsBaseHandle"
+articleTitle: "UcsBaseHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewTableObject property. Gets or sets the ucs base handle."
 type: docs
-weight: 210
-url: /net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucsbasehandle/
+weight: 270
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucsbasehandle/"
+product_version: "26.9"
 ---
 ## CadViewTableObject.UcsBaseHandle property
 
@@ -20,8 +23,7 @@ The ucs base handle.
 
 ### See Also
 
-* class [CadViewTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

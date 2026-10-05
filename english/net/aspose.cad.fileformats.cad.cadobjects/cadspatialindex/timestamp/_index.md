@@ -1,10 +1,13 @@
 ---
-title: CadSpatialIndex.Timestamp
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpatialIndex property. Gets or sets the timestamp
+title: "CadSpatialIndex.Timestamp"
+linktitle: "Timestamp"
+articleTitle: "Timestamp"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpatialIndex property. Gets or sets the timestamp."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspatialindex/timestamp/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspatialindex/timestamp/"
+product_version: "26.9"
 ---
 ## CadSpatialIndex.Timestamp property
 
@@ -20,8 +23,7 @@ The timestamp.
 
 ### See Also
 
-* class [CadSpatialIndex](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSpatialIndex](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ThreeDSImage.HasMaterials
-second_title: Aspose.CAD for .NET API Reference
-description: ThreeDSImage property. Gets a value indicating whether object has materials
+title: "ThreeDSImage.HasMaterials"
+linktitle: "HasMaterials"
+articleTitle: "HasMaterials"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThreeDSImage property. Gets a value indicating whether object has materials."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.threeds/threedsimage/hasmaterials/
+weight: 110
+url: "/net/aspose.cad.fileformats.threeds/threedsimage/hasmaterials/"
+product_version: "26.9"
 ---
 ## ThreeDSImage.HasMaterials property
 
@@ -16,8 +19,7 @@ public bool HasMaterials { get; }
 
 ### See Also
 
-* class [ThreeDSImage](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThreeDSImage](../)
+* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
+* assembly [Aspose.CAD](../../../)
 

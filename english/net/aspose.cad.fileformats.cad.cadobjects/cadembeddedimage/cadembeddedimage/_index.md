@@ -1,10 +1,13 @@
 ---
-title: CadEmbeddedImage.CadEmbeddedImage
-second_title: Aspose.CAD for .NET API Reference
-description: CadEmbeddedImage constructor. Initializes a new instance of the CadRasterImage class
+title: "CadEmbeddedImage.CadEmbeddedImage"
+linktitle: "CadEmbeddedImage"
+articleTitle: "CadEmbeddedImage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEmbeddedImage constructor. Initializes a new instance of the CadRasterImage class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadembeddedimage/cadembeddedimage/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadembeddedimage/cadembeddedimage/"
+product_version: "26.9"
 ---
 ## CadEmbeddedImage constructor
 
@@ -31,10 +34,9 @@ public CadEmbeddedImage(CadRasterImageDef imageDef, Cad3DPoint insertionPoint, C
 
 ### See Also
 
-* class [CadRasterImageDef](../../cadrasterimagedef/)
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadEmbeddedImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImageDef](../../cadrasterimagedef/)
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadEmbeddedImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

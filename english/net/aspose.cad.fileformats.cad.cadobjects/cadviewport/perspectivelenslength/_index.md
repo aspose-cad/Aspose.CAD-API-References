@@ -1,10 +1,13 @@
 ---
-title: CadViewport.PerspectiveLensLength
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the perspective lens length
+title: "CadViewport.PerspectiveLensLength"
+linktitle: "PerspectiveLensLength"
+articleTitle: "PerspectiveLensLength"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the perspective lens length."
 type: docs
 weight: 230
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/perspectivelenslength/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/perspectivelenslength/"
+product_version: "26.9"
 ---
 ## CadViewport.PerspectiveLensLength property
 
@@ -16,8 +19,7 @@ public double PerspectiveLensLength { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: FxCommonFloatOrParameterParameter.Reference
-second_title: Aspose.CAD for .NET API Reference
-description: FxCommonFloatOrParameterParameter property. Gets or sets the reference
+title: "FxCommonFloatOrParameterParameter.Reference"
+linktitle: "Reference"
+articleTitle: "Reference"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FxCommonFloatOrParameterParameter property. Gets or sets the reference."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterparameter/reference/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterparameter/reference/"
+product_version: "26.9"
 ---
 ## FxCommonFloatOrParameterParameter.Reference property
 
@@ -16,8 +19,7 @@ public string Reference { get; set; }
 
 ### See Also
 
-* class [FxCommonFloatOrParameterParameter](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonFloatOrParameterParameter](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

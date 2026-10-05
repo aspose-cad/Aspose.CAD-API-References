@@ -1,10 +1,13 @@
 ---
-title: CadSectionGeometrySettings.LinetypeScale
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionGeometrySettings property. Gets or sets the linetype scale
+title: "CadSectionGeometrySettings.LinetypeScale"
+linktitle: "LinetypeScale"
+articleTitle: "LinetypeScale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionGeometrySettings property. Gets or sets the linetype scale."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/linetypescale/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/linetypescale/"
+product_version: "26.9"
 ---
 ## CadSectionGeometrySettings.LinetypeScale property
 
@@ -20,8 +23,7 @@ The linetype scale.
 
 ### See Also
 
-* class [CadSectionGeometrySettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionGeometrySettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

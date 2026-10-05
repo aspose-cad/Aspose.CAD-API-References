@@ -1,10 +1,13 @@
 ---
-title: Enum RenderErrorCode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.RenderErrorCode enum. Represents possible missing sections in CAD file
+title: "RenderErrorCode Enum"
+linktitle: "RenderErrorCode"
+articleTitle: "RenderErrorCode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.RenderErrorCode enum. Represents possible missing sections in CAD file"
 type: docs
-weight: 36680
-url: /net/aspose.cad.imageoptions/rendererrorcode/
+weight: 460
+url: "/net/aspose.cad.imageoptions/rendererrorcode/"
+product_version: "26.9"
 ---
 ## RenderErrorCode enumeration
 
@@ -29,7 +32,6 @@ public enum RenderErrorCode
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../)
 

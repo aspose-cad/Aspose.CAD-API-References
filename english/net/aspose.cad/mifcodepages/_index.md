@@ -1,10 +1,13 @@
 ---
-title: Enum MifCodePages
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.MifCodePages enum. Code pages used in MIF symbols
+title: "MifCodePages Enum"
+linktitle: "MifCodePages"
+articleTitle: "MifCodePages"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.MifCodePages enum. Code pages used in MIF symbols"
 type: docs
-weight: 37000
-url: /net/aspose.cad/mifcodepages/
+weight: 640
+url: "/net/aspose.cad/mifcodepages/"
+product_version: "26.9"
 ---
 ## MifCodePages enumeration
 
@@ -27,7 +30,6 @@ public enum MifCodePages
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

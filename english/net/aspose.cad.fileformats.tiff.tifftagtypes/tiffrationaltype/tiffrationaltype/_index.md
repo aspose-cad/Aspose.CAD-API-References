@@ -1,10 +1,13 @@
 ---
-title: TiffRationalType.TiffRationalType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffRationalType constructor. Initializes a new instance of the TiffRationalType class
+title: "TiffRationalType.TiffRationalType"
+linktitle: "TiffRationalType"
+articleTitle: "TiffRationalType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffRationalType constructor. Initializes a new instance of the TiffRationalType class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffrationaltype/tiffrationaltype/
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffrationaltype/tiffrationaltype/"
+product_version: "26.9"
 ---
 ## TiffRationalType(TiffTags) {#constructor}
 
@@ -20,10 +23,10 @@ public TiffRationalType(TiffTags tagId)
 
 ### See Also
 
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffRationalType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffRationalType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public TiffRationalType(ushort tagId)
 
 ### See Also
 
-* class [TiffRationalType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRationalType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

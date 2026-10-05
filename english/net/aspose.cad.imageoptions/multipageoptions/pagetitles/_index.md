@@ -1,10 +1,13 @@
 ---
-title: MultiPageOptions.PageTitles
-second_title: Aspose.CAD for .NET API Reference
-description: MultiPageOptions property. Gets or sets the page titles
+title: "MultiPageOptions.PageTitles"
+linktitle: "PageTitles"
+articleTitle: "PageTitles"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MultiPageOptions property. Gets or sets the page titles."
 type: docs
-weight: 70
-url: /net/aspose.cad.imageoptions/multipageoptions/pagetitles/
+weight: 140
+url: "/net/aspose.cad.imageoptions/multipageoptions/pagetitles/"
+product_version: "26.9"
 ---
 ## MultiPageOptions.PageTitles property
 
@@ -20,8 +23,7 @@ The page titles.
 
 ### See Also
 
-* class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

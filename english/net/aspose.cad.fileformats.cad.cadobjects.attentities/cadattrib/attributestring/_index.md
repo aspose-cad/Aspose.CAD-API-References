@@ -1,10 +1,13 @@
 ---
-title: CadAttrib.AttributeString
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttrib property. Gets or sets the attribute string
+title: "CadAttrib.AttributeString"
+linktitle: "AttributeString"
+articleTitle: "AttributeString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttrib property. Gets or sets the attribute string."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/attributestring/
+weight: 260
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/attributestring/"
+product_version: "26.9"
 ---
 ## CadAttrib.AttributeString property
 
@@ -16,8 +19,7 @@ public string AttributeString { get; set; }
 
 ### See Also
 
-* class [CadAttrib](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAttrib](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

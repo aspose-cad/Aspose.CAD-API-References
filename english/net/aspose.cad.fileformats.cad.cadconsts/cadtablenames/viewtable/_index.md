@@ -1,10 +1,13 @@
 ---
-title: CadTableNames.ViewTable
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableNames field. views table
+title: "CadTableNames.ViewTable"
+linktitle: "ViewTable"
+articleTitle: "ViewTable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableNames field. views table."
 type: docs
 weight: 260
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/viewtable/
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/viewtable/"
+product_version: "26.9"
 ---
 ## CadTableNames.ViewTable field
 
@@ -16,8 +19,7 @@ public const string ViewTable;
 
 ### See Also
 
-* class [CadTableNames](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableNames](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

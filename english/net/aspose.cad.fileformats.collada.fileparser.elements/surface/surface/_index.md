@@ -1,10 +1,13 @@
 ---
-title: Surface.Surface
-second_title: Aspose.CAD for .NET API Reference
-description: Surface constructor. The default constructor
+title: "Surface.Surface"
+linktitle: "Surface"
+articleTitle: "Surface"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Surface constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/surface/surface/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/surface/surface/"
+product_version: "26.9"
 ---
 ## Surface constructor
 
@@ -16,8 +19,7 @@ public Surface()
 
 ### See Also
 
-* class [Surface](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Surface](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IntArray.IntArray
-second_title: Aspose.CAD for .NET API Reference
-description: IntArray constructor. Initializes a new instance of the IntArray class
+title: "IntArray.IntArray"
+linktitle: "IntArray"
+articleTitle: "IntArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IntArray constructor. Initializes a new instance of the IntArray class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/intarray/intarray/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/intarray/intarray/"
+product_version: "26.9"
 ---
 ## IntArray constructor
 
@@ -16,8 +19,7 @@ public IntArray()
 
 ### See Also
 
-* class [IntArray](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IntArray](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

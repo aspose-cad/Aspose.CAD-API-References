@@ -1,10 +1,13 @@
 ---
-title: VertexDataUnit.op_Inequality
-second_title: Aspose.CAD for .NET API Reference
-description: VertexDataUnit method. Overloading the inequality operator
+title: "VertexDataUnit.op_Inequality"
+linktitle: "op_Inequality"
+articleTitle: "op_Inequality"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "VertexDataUnit method. Overloading the inequality operator."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.stl.stlobjects/vertexdataunit/op_inequality/
+weight: 30
+url: "/net/aspose.cad.fileformats.stl.stlobjects/vertexdataunit/op_inequality/"
+product_version: "26.9"
 ---
 ## VertexDataUnit Inequality operator
 
@@ -25,8 +28,7 @@ The value indicating whether instances are not equal.
 
 ### See Also
 
-* class [VertexDataUnit](../)
-* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [VertexDataUnit](../)
+* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
+* assembly [Aspose.CAD](../../../)
 

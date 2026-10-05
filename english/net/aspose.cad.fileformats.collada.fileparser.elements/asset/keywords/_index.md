@@ -1,14 +1,19 @@
 ---
-title: Asset.Keywords
-second_title: Aspose.CAD for .NET API Reference
-description: Asset property. Gets or sets the keywords. The keywords element contains a list of words used as search criteria for the parent element. There may be only one keywords element
+title: "Asset.Keywords"
+linktitle: "Keywords"
+articleTitle: "Keywords"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Asset property. Gets or sets the keywords. The keywords element contains a list of words used as search criteria for the parent element. There may be only on..."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/asset/keywords/
+weight: 30
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/asset/keywords/"
+product_version: "26.9"
 ---
 ## Asset.Keywords property
 
-Gets or sets the keywords. The keywords element contains a list of words used as search criteria for the parent element. There may be only one keywords element.
+Gets or sets the keywords.
+ The keywords element contains a list of words used as search criteria for the parent element.
+ There may be only one keywords element.
 
 ```csharp
 public string Keywords { get; set; }
@@ -16,8 +21,7 @@ public string Keywords { get; set; }
 
 ### See Also
 
-* class [Asset](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Asset](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

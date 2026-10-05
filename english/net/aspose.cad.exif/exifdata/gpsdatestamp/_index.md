@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSDateStamp
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the GPS character string recording date and time information relative to UTC Coordinated Universal Time
+title: "ExifData.GPSDateStamp"
+linktitle: "GPSDateStamp"
+articleTitle: "GPSDateStamp"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the GPS character string recording date and time information relative to UTC (Coordinated Universal Time)."
 type: docs
-weight: 390
-url: /net/aspose.cad.exif/exifdata/gpsdatestamp/
+weight: 530
+url: "/net/aspose.cad.exif/exifdata/gpsdatestamp/"
+product_version: "26.9"
 ---
 ## ExifData.GPSDateStamp property
 
@@ -20,8 +23,7 @@ The GPS character string recording date and time information relative to UTC (Co
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

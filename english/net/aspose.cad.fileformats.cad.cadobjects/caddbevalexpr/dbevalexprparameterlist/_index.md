@@ -1,10 +1,13 @@
 ---
-title: CadDbEvalExpr.DbEvalExprParameterList
-second_title: Aspose.CAD for .NET API Reference
-description: CadDbEvalExpr property. Gets or sets the database eval expr parameter list
+title: "CadDbEvalExpr.DbEvalExprParameterList"
+linktitle: "DbEvalExprParameterList"
+articleTitle: "DbEvalExprParameterList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDbEvalExpr property. Gets or sets the database eval expr parameter list."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/dbevalexprparameterlist/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddbevalexpr/dbevalexprparameterlist/"
+product_version: "26.9"
 ---
 ## CadDbEvalExpr.DbEvalExprParameterList property
 
@@ -20,9 +23,8 @@ The database eval expr parameter list.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadDbEvalExpr](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadDbEvalExpr](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TiffIfdType.Values
-second_title: Aspose.CAD for .NET API Reference
-description: TiffIfdType property. Gets or sets the values
+title: "TiffIfdType.Values"
+linktitle: "Values"
+articleTitle: "Values"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffIfdType property. Gets or sets the values."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffifdtype/values/
+weight: 40
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffifdtype/values/"
+product_version: "26.9"
 ---
 ## TiffIfdType.Values property
 
@@ -20,8 +23,7 @@ The values.
 
 ### See Also
 
-* class [TiffIfdType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffIfdType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

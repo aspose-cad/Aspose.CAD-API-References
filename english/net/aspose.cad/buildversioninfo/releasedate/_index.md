@@ -1,10 +1,13 @@
 ---
-title: BuildVersionInfo.ReleaseDate
-second_title: Aspose.CAD for .NET API Reference
-description: BuildVersionInfo field. The product release date
+title: "BuildVersionInfo.ReleaseDate"
+linktitle: "ReleaseDate"
+articleTitle: "ReleaseDate"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BuildVersionInfo field. The product release date."
 type: docs
 weight: 60
-url: /net/aspose.cad/buildversioninfo/releasedate/
+url: "/net/aspose.cad/buildversioninfo/releasedate/"
+product_version: "26.9"
 ---
 ## BuildVersionInfo.ReleaseDate field
 
@@ -16,8 +19,7 @@ public static readonly DateTime ReleaseDate;
 
 ### See Also
 
-* class [BuildVersionInfo](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BuildVersionInfo](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

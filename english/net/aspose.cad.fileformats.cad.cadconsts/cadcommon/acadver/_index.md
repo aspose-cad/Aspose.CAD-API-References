@@ -1,10 +1,13 @@
 ---
-title: CadCommon.ACADVER
-second_title: Aspose.CAD for .NET API Reference
-description: CadCommon field. Version of file format
+title: "CadCommon.ACADVER"
+linktitle: "ACADVER"
+articleTitle: "ACADVER"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCommon field. Version of file format"
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadcommon/acadver/
+weight: 270
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadcommon/acadver/"
+product_version: "26.9"
 ---
 ## CadCommon.ACADVER field
 
@@ -16,8 +19,7 @@ public const string ACADVER;
 
 ### See Also
 
-* class [CadCommon](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCommon](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

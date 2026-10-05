@@ -1,10 +1,13 @@
 ---
-title: Interface ICadBoundaryPathEntity
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.ICadBoundaryPathEntity interface. The Cad boundary path entity interface
+title: "ICadBoundaryPathEntity Interface"
+linktitle: "ICadBoundaryPathEntity"
+articleTitle: "ICadBoundaryPathEntity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.ICadBoundaryPathEntity interface. The Cad boundary path entity interface."
 type: docs
-weight: 3740
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/icadboundarypathentity/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/icadboundarypathentity/"
+product_version: "26.9"
 ---
 ## ICadBoundaryPathEntity interface
 
@@ -22,7 +25,6 @@ public interface ICadBoundaryPathEntity
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../)
 

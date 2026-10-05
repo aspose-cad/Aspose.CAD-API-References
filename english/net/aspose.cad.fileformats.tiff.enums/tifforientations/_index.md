@@ -1,14 +1,19 @@
 ---
-title: Enum TiffOrientations
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffOrientations enum. Image orientation. Possible values for ORIENTATION tag
+title: "TiffOrientations Enum"
+linktitle: "TiffOrientations"
+articleTitle: "TiffOrientations"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffOrientations enum. Image orientation. Possible values for ORIENTATION tag."
 type: docs
-weight: 35470
-url: /net/aspose.cad.fileformats.tiff.enums/tifforientations/
+weight: 110
+url: "/net/aspose.cad.fileformats.tiff.enums/tifforientations/"
+product_version: "26.9"
 ---
 ## TiffOrientations enumeration
 
-Image orientation. Possible values for ORIENTATION tag.
+Image orientation.
+
+ Possible values for ORIENTATION tag.
 
 ```csharp
 public enum TiffOrientations : ushort
@@ -29,7 +34,6 @@ public enum TiffOrientations : ushort
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

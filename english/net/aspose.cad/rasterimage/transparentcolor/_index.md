@@ -1,10 +1,13 @@
 ---
-title: RasterImage.TransparentColor
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage property. Gets the image transparent color
+title: "RasterImage.TransparentColor"
+linktitle: "TransparentColor"
+articleTitle: "TransparentColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage property. Gets the image transparent color."
 type: docs
-weight: 120
-url: /net/aspose.cad/rasterimage/transparentcolor/
+weight: 520
+url: "/net/aspose.cad/rasterimage/transparentcolor/"
+product_version: "26.9"
 ---
 ## RasterImage.TransparentColor property
 
@@ -16,9 +19,8 @@ public virtual Color TransparentColor { get; set; }
 
 ### See Also
 
-* struct [Color](../../color/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../color/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

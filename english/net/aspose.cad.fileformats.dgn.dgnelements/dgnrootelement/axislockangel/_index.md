@@ -1,10 +1,13 @@
 ---
-title: DgnRootElement.AxisLockAngel
-second_title: Aspose.CAD for .NET API Reference
-description: DgnRootElement property. Gets axis lock angel
+title: "DgnRootElement.AxisLockAngel"
+linktitle: "AxisLockAngel"
+articleTitle: "AxisLockAngel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnRootElement property. Gets axis lock angel"
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/axislockangel/
+weight: 40
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/axislockangel/"
+product_version: "26.9"
 ---
 ## DgnRootElement.AxisLockAngel property
 
@@ -16,8 +19,7 @@ public double AxisLockAngel { get; }
 
 ### See Also
 
-* class [DgnRootElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnRootElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.AssocViewPortHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets of the associated view port handle
+title: "CadEntityBase.AssocViewPortHandle"
+linktitle: "AssocViewPortHandle"
+articleTitle: "AssocViewPortHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets of the associated view port handle."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/
+weight: 330
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/"
+product_version: "26.9"
 ---
 ## CadEntityBase.AssocViewPortHandle property
 
@@ -20,8 +23,7 @@ The the associated view port handle value.
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

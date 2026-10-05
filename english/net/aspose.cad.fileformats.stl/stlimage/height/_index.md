@@ -1,10 +1,13 @@
 ---
-title: StlImage.Height
-second_title: Aspose.CAD for .NET API Reference
-description: StlImage property. Gets the image height
+title: "StlImage.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StlImage property. Gets the image height."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.stl/stlimage/height/
+weight: 60
+url: "/net/aspose.cad.fileformats.stl/stlimage/height/"
+product_version: "26.9"
 ---
 ## StlImage.Height property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's height: " + drawing.Height);
 
 ### See Also
 
-* class [StlImage](../)
-* namespace [Aspose.CAD.FileFormats.Stl](../../../aspose.cad.fileformats.stl/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StlImage](../)
+* namespace [Aspose.CAD.FileFormats.Stl](../../../aspose.cad.fileformats.stl/)
+* assembly [Aspose.CAD](../../../)
 

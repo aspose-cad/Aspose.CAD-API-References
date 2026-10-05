@@ -1,10 +1,13 @@
 ---
-title: ExifData.ISOSpeed
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets ISO speed
+title: "ExifData.ISOSpeed"
+linktitle: "ISOSpeed"
+articleTitle: "ISOSpeed"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets ISO speed"
 type: docs
-weight: 700
-url: /net/aspose.cad.exif/exifdata/isospeed/
+weight: 710
+url: "/net/aspose.cad.exif/exifdata/isospeed/"
+product_version: "26.9"
 ---
 ## ExifData.ISOSpeed property
 
@@ -20,8 +23,7 @@ The ISO speed.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

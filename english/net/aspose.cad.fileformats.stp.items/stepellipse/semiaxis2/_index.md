@@ -1,12 +1,17 @@
 ---
-title: StepEllipse.SemiAxis2
-second_title: Aspose.CAD for .NET API Reference
-description: StepEllipse property. 
+title: "StepEllipse.SemiAxis2"
+linktitle: "SemiAxis2"
+articleTitle: "SemiAxis2"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepEllipse property."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.stp.items/stepellipse/semiaxis2/
+url: "/net/aspose.cad.fileformats.stp.items/stepellipse/semiaxis2/"
+product_version: "26.9"
 ---
 ## StepEllipse.SemiAxis2 property
+
+
 
 ```csharp
 public double SemiAxis2 { get; set; }
@@ -14,8 +19,7 @@ public double SemiAxis2 { get; set; }
 
 ### See Also
 
-* class [StepEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepEllipse](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

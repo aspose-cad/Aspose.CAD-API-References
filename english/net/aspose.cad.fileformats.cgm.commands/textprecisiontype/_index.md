@@ -1,12 +1,17 @@
 ---
-title: Enum TextPrecisionType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.TextPrecisionType enum. 
+title: "TextPrecisionType Enum"
+linktitle: "TextPrecisionType"
+articleTitle: "TextPrecisionType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.TextPrecisionType enum."
 type: docs
-weight: 6820
-url: /net/aspose.cad.fileformats.cgm.commands/textprecisiontype/
+weight: 2080
+url: "/net/aspose.cad.fileformats.cgm.commands/textprecisiontype/"
+product_version: "26.9"
 ---
 ## TextPrecisionType enumeration
+
+
 
 ```csharp
 public enum TextPrecisionType
@@ -22,7 +27,6 @@ public enum TextPrecisionType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

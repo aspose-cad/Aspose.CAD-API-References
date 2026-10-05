@@ -1,10 +1,13 @@
 ---
-title: RuntimeOptions.IsolateMemory
-second_title: Aspose.CAD for .NET API Reference
-description: RuntimeOptions property. True if we want to copy buffers data instead of sharing it
+title: "RuntimeOptions.IsolateMemory"
+linktitle: "IsolateMemory"
+articleTitle: "IsolateMemory"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RuntimeOptions property. True if we want to copy buffers data instead of sharing it."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb.runtime/runtimeoptions/isolatememory/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb.runtime/runtimeoptions/isolatememory/"
+product_version: "26.9"
 ---
 ## RuntimeOptions.IsolateMemory property
 
@@ -16,12 +19,12 @@ public bool IsolateMemory { get; set; }
 
 ## Remarks
 
-If we want to create a runtime representation of the model, so the garbage collector will release the source model, we have to set this to true, so we will not use any reference to the source model.
+If we want to create a runtime representation of the model, so the garbage collector will release the source model,
+ we have to set this to true, so we will not use any reference to the source model.
 
 ### See Also
 
-* class [RuntimeOptions](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RuntimeOptions](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
+* assembly [Aspose.CAD](../../../)
 

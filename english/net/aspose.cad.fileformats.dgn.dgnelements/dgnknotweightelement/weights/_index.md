@@ -1,10 +1,13 @@
 ---
-title: DgnKnotWeightElement.Weights
-second_title: Aspose.CAD for .NET API Reference
-description: DgnKnotWeightElement property. Gets or sets weights of knot
+title: "DgnKnotWeightElement.Weights"
+linktitle: "Weights"
+articleTitle: "Weights"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnKnotWeightElement property. Gets or sets weights of knot"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/weights/
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/weights/"
+product_version: "26.9"
 ---
 ## DgnKnotWeightElement.Weights property
 
@@ -16,8 +19,7 @@ public float[] Weights { get; }
 
 ### See Also
 
-* class [DgnKnotWeightElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnKnotWeightElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

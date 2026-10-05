@@ -1,10 +1,13 @@
 ---
-title: CadSunStudy.VisualStyleId
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunStudy property. Gets or sets the visual style identifier
+title: "CadSunStudy.VisualStyleId"
+linktitle: "VisualStyleId"
+articleTitle: "VisualStyleId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunStudy property. Gets or sets the visual style identifier."
 type: docs
-weight: 280
-url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/visualstyleid/
+weight: 190
+url: "/net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/visualstyleid/"
+product_version: "26.9"
 ---
 ## CadSunStudy.VisualStyleId property
 
@@ -20,8 +23,7 @@ The visual style identifier.
 
 ### See Also
 
-* class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunStudy](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
+* assembly [Aspose.CAD](../../../)
 

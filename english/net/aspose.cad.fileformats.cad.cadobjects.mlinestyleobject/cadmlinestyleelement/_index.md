@@ -1,10 +1,14 @@
 ---
-title: Class CadMLineStyleElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject.CadMLineStyleElement class. The CadMLineStyleElement data
+title: "CadMLineStyleElement Class"
+linktitle: "CadMLineStyleElement"
+articleTitle: "CadMLineStyleElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject.CadMLineStyleElement class. The CadMLineStyleElement data"
 type: docs
-weight: 3790
-url: /net/aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/"
+keywords: "CadMLineStyleElement, Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadMLineStyleElement class
 
@@ -24,13 +28,12 @@ public class CadMLineStyleElement
 
 | Name | Description |
 | --- | --- |
-| [ElementColor](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/elementcolor/) { get; set; } | Gets or sets the color of the element. |
-| [ElementLinetype](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/elementlinetype/) { get; set; } | Gets or sets the element linetype. |
-| [ElementOffset](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/elementoffset/) { get; set; } | Gets or sets the element offset. |
+| [ElementColor](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/elementcolor/) { get; set; } | Gets or sets the color of the element. |
+| [ElementLinetype](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/elementlinetype/) { get; set; } | Gets or sets the element linetype. |
+| [ElementOffset](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/cadmlinestyleelement/elementoffset/) { get; set; } | Gets or sets the element offset. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject](../../aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/)
+* assembly [Aspose.CAD](../../)
 

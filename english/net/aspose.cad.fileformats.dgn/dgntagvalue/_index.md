@@ -1,10 +1,14 @@
 ---
-title: Class DgnTagValue
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnTagValue class. DgnTagValue class
+title: "DgnTagValue Class"
+linktitle: "DgnTagValue"
+articleTitle: "DgnTagValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnTagValue class. DgnTagValue class"
 type: docs
-weight: 9170
-url: /net/aspose.cad.fileformats.dgn/dgntagvalue/
+weight: 190
+url: "/net/aspose.cad.fileformats.dgn/dgntagvalue/"
+keywords: "DgnTagValue, Aspose.CAD.FileFormats.Dgn, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnTagValue class
 
@@ -18,20 +22,19 @@ public class DgnTagValue
 
 | Name | Description |
 | --- | --- |
-| [DgnTagValue](dgntagvalue/)(ushort, byte[], int) | Initializes a new instance of the `DgnTagValue` class. |
+| [DgnTagValue](dgntagvalue/)(ushort, byte[], int) | Initializes a new instance of the `DgnTagValue` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FloatValue](../../aspose.cad.fileformats.dgn/dgntagvalue/floatvalue/) { get; set; } | Gets or sets the float value. |
-| [IntegerValue](../../aspose.cad.fileformats.dgn/dgntagvalue/integervalue/) { get; set; } | Gets or sets the integer value. |
-| [StringValue](../../aspose.cad.fileformats.dgn/dgntagvalue/stringvalue/) { get; set; } | Gets or sets the string value. |
-| [Type](../../aspose.cad.fileformats.dgn/dgntagvalue/type/) { get; set; } | Gets or sets tag type |
+| [FloatValue](../../aspose.cad.fileformats.dgn/dgntagvalue/floatvalue/) { get; set; } | Gets or sets the float value. |
+| [IntegerValue](../../aspose.cad.fileformats.dgn/dgntagvalue/integervalue/) { get; set; } | Gets or sets the integer value. |
+| [StringValue](../../aspose.cad.fileformats.dgn/dgntagvalue/stringvalue/) { get; set; } | Gets or sets the string value. |
+| [Type](../../aspose.cad.fileformats.dgn/dgntagvalue/type/) { get; set; } | Gets or sets tag type |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../)
 

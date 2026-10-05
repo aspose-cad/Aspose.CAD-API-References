@@ -1,0 +1,25 @@
+---
+title: "IfcFireSuppressionTerminal4.IfcFireSuppressionTerminal4"
+linktitle: "IfcFireSuppressionTerminal4"
+articleTitle: "IfcFireSuppressionTerminal4"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcFireSuppressionTerminal4 constructor. The default constructor."
+type: docs
+weight: 10
+url: "/net/aspose.cad.fileformats.ifc.ifc4.entities/ifcfiresuppressionterminal4/ifcfiresuppressionterminal4/"
+product_version: "26.9"
+---
+## IfcFireSuppressionTerminal4 constructor
+
+The default constructor.
+
+```csharp
+public IfcFireSuppressionTerminal4()
+```
+
+### See Also
+
+* class [IfcFireSuppressionTerminal4](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
+* assembly [Aspose.CAD](../../../)
+

@@ -1,10 +1,13 @@
 ---
-title: CadHatch.IgnoredBoundaries
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the ignored boundaries
+title: "CadHatch.IgnoredBoundaries"
+linktitle: "IgnoredBoundaries"
+articleTitle: "IgnoredBoundaries"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the ignored boundaries."
 type: docs
 weight: 210
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/ignoredboundaries/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/ignoredboundaries/"
+product_version: "26.9"
 ---
 ## CadHatch.IgnoredBoundaries property
 
@@ -16,8 +19,7 @@ public int IgnoredBoundaries { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

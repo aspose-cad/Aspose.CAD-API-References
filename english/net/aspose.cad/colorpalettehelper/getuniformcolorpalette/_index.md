@@ -1,10 +1,13 @@
 ---
-title: ColorPaletteHelper.GetUniformColorPalette
-second_title: Aspose.CAD for .NET API Reference
-description: ColorPaletteHelper method. Get uniform 256 color palette
+title: "ColorPaletteHelper.GetUniformColorPalette"
+linktitle: "GetUniformColorPalette"
+articleTitle: "GetUniformColorPalette"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColorPaletteHelper method. Get uniform 256 color palette."
 type: docs
-weight: 80
-url: /net/aspose.cad/colorpalettehelper/getuniformcolorpalette/
+weight: 70
+url: "/net/aspose.cad/colorpalettehelper/getuniformcolorpalette/"
+product_version: "26.9"
 ---
 ## ColorPaletteHelper.GetUniformColorPalette method
 
@@ -24,10 +27,9 @@ The [`ColorPalette`](../../colorpalette/).
 
 ### See Also
 
-* class [ColorPalette](../../colorpalette/)
-* class [RasterImage](../../rasterimage/)
-* class [ColorPaletteHelper](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ColorPalette](../../colorpalette/)
+* class [RasterImage](../../rasterimage/)
+* class [ColorPaletteHelper](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

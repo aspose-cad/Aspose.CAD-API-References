@@ -1,10 +1,14 @@
 ---
-title: Class IfcCollection2DT
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Ifc.IfcCollection2D1T class. IfcCollection2D
+title: "IfcCollection2D<T> Class"
+linktitle: "IfcCollection2D<T>"
+articleTitle: "IfcCollection2D<T>"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Ifc.IfcCollection2D class. IfcCollection2D"
 type: docs
-weight: 33520
-url: /net/aspose.cad.fileformats.ifc/ifccollection2d-1/
+weight: 60
+url: "/net/aspose.cad.fileformats.ifc/ifccollection2d-1/"
+keywords: "IfcCollection2D<T>, Aspose.CAD.FileFormats.Ifc, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## IfcCollection2D&lt;T&gt; class
 
@@ -24,28 +28,29 @@ public class IfcCollection2D<T> : IfcCollection<IfcCollection<T>>
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.cad.fileformats.ifc/ifccollection-1/count/) { get; } |  |
-| [Item](../../aspose.cad.fileformats.ifc/ifccollection-1/item/) { get; set; } |  |
-| [TypeOfT](../../aspose.cad.fileformats.ifc/ifccollection/typeoft/) { get; } | Gets or sets the type of items in the collection. |
+| [Count](../../aspose.cad.fileformats.ifc/ifccollection-1/count/) { get; } |  |
+| [Item](../../aspose.cad.fileformats.ifc/ifccollection-1/item/) { get; set; } |  |
+| [TypeOfT](../../aspose.cad.fileformats.ifc/ifccollection/typeoft/) { get; } | Gets or sets the type of items in the collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.cad.fileformats.ifc/ifccollection-1/add/)(IfcCollection&lt;T&gt;) |  |
-| [Contains](../../aspose.cad.fileformats.ifc/ifccollection-1/contains/)(IfcCollection&lt;T&gt;) |  |
-| [FirstOrDefault](../../aspose.cad.fileformats.ifc/ifccollection-1/firstordefault/)() |  |
-| [FirstOrDefault](../../aspose.cad.fileformats.ifc/ifccollection-1/firstordefault/)(IfcPredicate&lt;IfcCollection&lt;T&gt;&gt;) |  |
-| [GetEnumerator](../../aspose.cad.fileformats.ifc/ifccollection-1/getenumerator/)() |  |
-| [Select&lt;TOut&gt;](../../aspose.cad.fileformats.ifc/ifccollection-1/select/)(IfcSelect&lt;IfcCollection&lt;T&gt;, TOut&gt;) |  |
-| [ToList](../../aspose.cad.fileformats.ifc/ifccollection-1/tolist/)() |  |
-| override [TryAddItemAsObject](../../aspose.cad.fileformats.ifc/ifccollection2d-1/tryadditemasobject/)(object) | Tries the add item as object. |
-| [Where](../../aspose.cad.fileformats.ifc/ifccollection-1/where/)(IfcPredicate&lt;IfcCollection&lt;T&gt;&gt;) |  |
+| [Add](../../aspose.cad.fileformats.ifc/ifccollection-1/add/)(T) |  |
+| [Contains](../../aspose.cad.fileformats.ifc/ifccollection-1/contains/)(T) |  |
+| [FirstOrDefault](../../aspose.cad.fileformats.ifc/ifccollection-1/firstordefault/)() | Firsts the or default item from the collection. |
+| [FirstOrDefault](../../aspose.cad.fileformats.ifc/ifccollection-1/firstordefault/)(IfcPredicate&lt;T&gt;) | Firsts the or default item from the collection that satisfy the predicate. |
+| [GetEnumerator](../../aspose.cad.fileformats.ifc/ifccollection-1/getenumerator/)() | Returns an enumerator that iterates through the collection. |
+| [Remove](../../aspose.cad.fileformats.ifc/ifccollection-1/remove/)(T) |  |
+| [Select&lt;TOut&gt;](../../aspose.cad.fileformats.ifc/ifccollection-1/select/)(IfcSelectPredicate&lt;T, T&gt;) | Selects the specified select. |
+| [ToList](../../aspose.cad.fileformats.ifc/ifccollection-1/tolist/)() | To the list. |
+| override [TryAddItemAsObject](../../aspose.cad.fileformats.ifc/ifccollection2d-1/tryadditemasobject/)(object) | Tries the add item as object. |
+| [Where](../../aspose.cad.fileformats.ifc/ifccollection-1/where/)(IfcPredicate&lt;T&gt;) | Wheres the specified predicate. |
 
 ### See Also
 
-* class [IfcCollection&lt;T&gt;](../ifccollection-1/)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../)
-
+* class [IfcCollection&lt;T&gt;](../ifccollection-1/)
+* class [IfcCollection](../ifccollection/)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../)
 

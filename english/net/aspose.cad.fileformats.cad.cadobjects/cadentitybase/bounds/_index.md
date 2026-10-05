@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.Bounds
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Minimal and maximal points of entity. Filled after GetBounds is called for CadImage
+title: "CadEntityBase.Bounds"
+linktitle: "Bounds"
+articleTitle: "Bounds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Minimal and maximal points of entity. Filled after GetBounds is called for CadImage."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/
+weight: 220
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/"
+product_version: "26.9"
 ---
 ## CadEntityBase.Bounds property
 
@@ -16,9 +19,8 @@ public List<Cad3DPoint> Bounds { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

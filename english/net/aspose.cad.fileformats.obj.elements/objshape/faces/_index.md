@@ -1,10 +1,13 @@
 ---
-title: ObjShape.Faces
-second_title: Aspose.CAD for .NET API Reference
-description: ObjShape property. Gets or sets the faces
+title: "ObjShape.Faces"
+linktitle: "Faces"
+articleTitle: "Faces"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjShape property. Gets or sets the faces."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.obj.elements/objshape/faces/
+weight: 30
+url: "/net/aspose.cad.fileformats.obj.elements/objshape/faces/"
+product_version: "26.9"
 ---
 ## ObjShape.Faces property
 
@@ -20,9 +23,8 @@ The faces.
 
 ### See Also
 
-* class [ObjFace](../../objface/)
-* class [ObjShape](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjFace](../../objface/)
+* class [ObjShape](../)
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
+* assembly [Aspose.CAD](../../../)
 

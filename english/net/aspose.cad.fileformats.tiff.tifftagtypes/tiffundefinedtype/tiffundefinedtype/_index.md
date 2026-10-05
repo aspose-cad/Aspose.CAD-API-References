@@ -1,10 +1,13 @@
 ---
-title: TiffUndefinedType.TiffUndefinedType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffUndefinedType constructor. Initializes a new instance of the TiffUndefinedType class
+title: "TiffUndefinedType.TiffUndefinedType"
+linktitle: "TiffUndefinedType"
+articleTitle: "TiffUndefinedType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffUndefinedType constructor. Initializes a new instance of the TiffUndefinedType class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/tiffundefinedtype/
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/tiffundefinedtype/"
+product_version: "26.9"
 ---
 ## TiffUndefinedType(TiffTags) {#constructor}
 
@@ -20,10 +23,10 @@ public TiffUndefinedType(TiffTags tagId)
 
 ### See Also
 
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffUndefinedType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffUndefinedType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public TiffUndefinedType(ushort tagId)
 
 ### See Also
 
-* class [TiffUndefinedType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffUndefinedType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Interface IIgesDrawable
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Iges.Drawables.IIgesDrawable interface. Parent Interface for Simple geometric representation of an entity or its part
+title: "IIgesDrawable Interface"
+linktitle: "IIgesDrawable"
+articleTitle: "IIgesDrawable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Iges.Drawables.IIgesDrawable interface. Parent Interface for Simple geometric representation of an entity or its part"
 type: docs
-weight: 33630
-url: /net/aspose.cad.fileformats.iges.drawables/iigesdrawable/
+weight: 40
+url: "/net/aspose.cad.fileformats.iges.drawables/iigesdrawable/"
+product_version: "26.9"
 ---
 ## IIgesDrawable interface
 
@@ -18,9 +21,9 @@ public interface IIgesDrawable
 
 | Name | Description |
 | --- | --- |
-| [AllPoints](../../aspose.cad.fileformats.iges.drawables/iigesdrawable/allpoints/) { get; } | Array of all points defining geometry |
-| [EntityUID](../../aspose.cad.fileformats.iges.drawables/iigesdrawable/entityuid/) { get; set; } | Unique identifier (line number) of entity that created this entity |
-| [Properties](../../aspose.cad.fileformats.iges.drawables/iigesdrawable/properties/) { get; } | Non-geometric properties of geometric representation |
+| [AllPoints](../../aspose.cad.fileformats.iges.drawables/iigesdrawable/allpoints/) { get; } | Array of all points defining geometry |
+| [EntityUID](../../aspose.cad.fileformats.iges.drawables/iigesdrawable/entityuid/) { get; set; } | Unique identifier (line number) of entity that created this entity |
+| [Properties](../../aspose.cad.fileformats.iges.drawables/iigesdrawable/properties/) { get; } | Non-geometric properties of geometric representation |
 
 ## Methods
 
@@ -31,7 +34,6 @@ public interface IIgesDrawable
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../)
 

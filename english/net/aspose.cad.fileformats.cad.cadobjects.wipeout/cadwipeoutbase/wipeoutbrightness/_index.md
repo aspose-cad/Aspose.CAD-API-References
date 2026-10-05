@@ -1,10 +1,13 @@
 ---
-title: CadWipeoutBase.WipeoutBrightness
-second_title: Aspose.CAD for .NET API Reference
-description: CadWipeoutBase property. Gets or sets the wipeout brightness
+title: "CadWipeoutBase.WipeoutBrightness"
+linktitle: "WipeoutBrightness"
+articleTitle: "WipeoutBrightness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadWipeoutBase property. Gets or sets the wipeout brightness."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/wipeoutbrightness/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/wipeoutbrightness/"
+product_version: "26.9"
 ---
 ## CadWipeoutBase.WipeoutBrightness property
 
@@ -20,8 +23,7 @@ The wipeout brightness.
 
 ### See Also
 
-* class [CadWipeoutBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadWipeoutBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
+* assembly [Aspose.CAD](../../../)
 

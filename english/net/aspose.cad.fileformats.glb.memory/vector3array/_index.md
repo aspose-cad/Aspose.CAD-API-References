@@ -1,14 +1,17 @@
 ---
-title: Struct Vector3Array
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.Vector3Array struct. Wraps an encoded ArraySegment and exposes it as an IList
+title: "Vector3Array Struct"
+linktitle: "Vector3Array"
+articleTitle: "Vector3Array"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Memory.Vector3Array struct. Wraps an encoded ArraySegment and exposes it as an IList."
 type: docs
-weight: 11060
-url: /net/aspose.cad.fileformats.glb.memory/vector3array/
+weight: 150
+url: "/net/aspose.cad.fileformats.glb.memory/vector3array/"
+product_version: "26.9"
 ---
-## Vector3Array structure
+## Vector3Array struct
 
-Wraps an encoded ArraySegment and exposes it as an IList.
+Wraps an encoded `ArraySegment` and exposes it as an `IList`.
 
 ```csharp
 public struct Vector3Array : IList<Vector3>, IReadOnlyList<Vector3>
@@ -18,29 +21,27 @@ public struct Vector3Array : IList<Vector3>, IReadOnlyList<Vector3>
 
 | Name | Description |
 | --- | --- |
-| [Vector3Array](vector3array/#constructor)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) | Initializes a new instance of the `Vector3Array` struct. |
-| [Vector3Array](vector3array/#constructor_1)(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) | Initializes a new instance of the `Vector3Array` struct. |
+| [Vector3Array](vector3array/)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) | Initializes a new instance of the `Vector3Array` struct. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.cad.fileformats.glb.memory/vector3array/count/) { get; } |  |
-| [Item](../../aspose.cad.fileformats.glb.memory/vector3array/item/) { get; set; } |  |
+| Count { get; } |  |
+| Item { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Contains](../../aspose.cad.fileformats.glb.memory/vector3array/contains/)(Vector3) |  |
-| [CopyTo](../../aspose.cad.fileformats.glb.memory/vector3array/copyto/)(Vector3[], int) |  |
-| [Fill](../../aspose.cad.fileformats.glb.memory/vector3array/fill/)(IEnumerable&lt;Vector3&gt;, int) |  |
-| [GetEnumerator](../../aspose.cad.fileformats.glb.memory/vector3array/getenumerator/)() |  |
-| [IndexOf](../../aspose.cad.fileformats.glb.memory/vector3array/indexof/)(Vector3) |  |
+| Contains(Vector3) |  |
+| CopyTo(Vector3[], int) |  |
+| Fill(IEnumerable&lt;Vector3&gt;, int) |  |
+| GetEnumerator() |  |
+| IndexOf(Vector3) |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
+* assembly [Aspose.CAD](../../)
 

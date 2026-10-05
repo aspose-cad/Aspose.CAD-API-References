@@ -1,10 +1,13 @@
 ---
-title: CgmOptions.CgmOptions
-second_title: Aspose.CAD for .NET API Reference
-description: CgmOptions constructor. The default constructor
+title: "CgmOptions.CgmOptions"
+linktitle: "CgmOptions"
+articleTitle: "CgmOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/cgmoptions/cgmoptions/
+url: "/net/aspose.cad.imageoptions/cgmoptions/cgmoptions/"
+product_version: "26.9"
 ---
 ## CgmOptions constructor
 
@@ -16,8 +19,7 @@ public CgmOptions()
 
 ### See Also
 
-* class [CgmOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

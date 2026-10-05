@@ -1,14 +1,17 @@
 ---
-title: Struct IntegerArray
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.IntegerArray struct. Wraps an encoded ArraySegment and exposes it as an IList
+title: "IntegerArray Struct"
+linktitle: "IntegerArray"
+articleTitle: "IntegerArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Memory.IntegerArray struct. Wraps an encoded ArraySegment and exposes it as an IList."
 type: docs
-weight: 10940
-url: /net/aspose.cad.fileformats.glb.memory/integerarray/
+weight: 30
+url: "/net/aspose.cad.fileformats.glb.memory/integerarray/"
+product_version: "26.9"
 ---
-## IntegerArray structure
+## IntegerArray struct
 
-Wraps an encoded ArraySegment and exposes it as an IList.
+Wraps an encoded `ArraySegment` and exposes it as an `IList`.
 
 ```csharp
 public struct IntegerArray : IList<uint>, IReadOnlyList<uint>
@@ -18,30 +21,28 @@ public struct IntegerArray : IList<uint>, IReadOnlyList<uint>
 
 | Name | Description |
 | --- | --- |
-| [IntegerArray](integerarray/#constructor)(ArraySegment&lt;byte&gt;, IndexEncodingType) | Initializes a new instance of the `IntegerArray` struct. |
-| [IntegerArray](integerarray/#constructor_1)(ArraySegment&lt;byte&gt;, int, int, IndexEncodingType) | Initializes a new instance of the `IntegerArray` struct. |
+| [IntegerArray](integerarray/)(ArraySegment&lt;byte&gt;, IndexEncodingType) | Initializes a new instance of the `IntegerArray` struct. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.cad.fileformats.glb.memory/integerarray/count/) { get; } | Gets the number of elements in the range delimited by the `IntegerArray` |
-| [Item](../../aspose.cad.fileformats.glb.memory/integerarray/item/) { get; set; } |  |
+| Count { get; } | Gets the number of elements in the range delimited by the `IntegerArray` |
+| Item { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Contains](../../aspose.cad.fileformats.glb.memory/integerarray/contains/)(uint) |  |
-| [CopyTo](../../aspose.cad.fileformats.glb.memory/integerarray/copyto/)(uint[], int) |  |
-| [Fill](../../aspose.cad.fileformats.glb.memory/integerarray/fill/#fill)(IEnumerable&lt;int&gt;, int) |  |
-| [Fill](../../aspose.cad.fileformats.glb.memory/integerarray/fill/#fill_1)(IEnumerable&lt;uint&gt;, int) |  |
-| [GetEnumerator](../../aspose.cad.fileformats.glb.memory/integerarray/getenumerator/)() |  |
-| [IndexOf](../../aspose.cad.fileformats.glb.memory/integerarray/indexof/)(uint) |  |
+| Contains(uint) |  |
+| CopyTo(uint[], int) |  |
+| Fill(IEnumerable&lt;int&gt;, int) |  |
+| Fill(IEnumerable&lt;uint&gt;, int) |  |
+| GetEnumerator() |  |
+| IndexOf(uint) |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
+* assembly [Aspose.CAD](../../)
 

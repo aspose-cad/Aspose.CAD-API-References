@@ -1,12 +1,17 @@
 ---
-title: PatternTable.WriteAsBinary
-second_title: Aspose.CAD for .NET API Reference
-description: PatternTable method. 
+title: "PatternTable.WriteAsBinary"
+linktitle: "WriteAsBinary"
+articleTitle: "WriteAsBinary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PatternTable method."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cgm.commands/patterntable/writeasbinary/
+weight: 40
+url: "/net/aspose.cad.fileformats.cgm.commands/patterntable/writeasbinary/"
+product_version: "26.9"
 ---
 ## PatternTable.WriteAsBinary method
+
+
 
 ```csharp
 public override void WriteAsBinary(IBinaryWriter writer)
@@ -14,9 +19,8 @@ public override void WriteAsBinary(IBinaryWriter writer)
 
 ### See Also
 
-* interface [IBinaryWriter](../../../aspose.cad.fileformats.cgm/ibinarywriter/)
-* class [PatternTable](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBinaryWriter](../../../aspose.cad.fileformats.cgm/ibinarywriter/)
+* class [PatternTable](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

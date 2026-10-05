@@ -1,10 +1,13 @@
 ---
-title: ExifData.SubsecTimeOriginal
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the fractions of seconds for the DateTimeOriginal tag
+title: "ExifData.SubsecTimeOriginal"
+linktitle: "SubsecTimeOriginal"
+articleTitle: "SubsecTimeOriginal"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the fractions of seconds for the DateTimeOriginal tag."
 type: docs
-weight: 1070
-url: /net/aspose.cad.exif/exifdata/subsectimeoriginal/
+weight: 1080
+url: "/net/aspose.cad.exif/exifdata/subsectimeoriginal/"
+product_version: "26.9"
 ---
 ## ExifData.SubsecTimeOriginal property
 
@@ -20,8 +23,7 @@ The fractions of seconds for the DateTimeOriginal tag.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FontStyle enum. Specifies style information applied to text
+title: "FontStyle Enum"
+linktitle: "FontStyle"
+articleTitle: "FontStyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FontStyle enum. Specifies style information applied to text."
 type: docs
-weight: 35980
-url: /net/aspose.cad/fontstyle/
+weight: 290
+url: "/net/aspose.cad/fontstyle/"
+product_version: "26.9"
 ---
 ## FontStyle enumeration
 
@@ -27,7 +30,6 @@ public enum FontStyle
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

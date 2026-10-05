@@ -1,17 +1,20 @@
 ---
-title: RasterCachedImage.IsCached
-second_title: Aspose.CAD for .NET API Reference
-description: RasterCachedImage property. Gets a value indicating whether image data is cached currently
+title: "RasterCachedImage.IsCached"
+linktitle: "IsCached"
+articleTitle: "IsCached"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterCachedImage property. Gets a value indicating whether image data is cached currently."
 type: docs
-weight: 10
-url: /net/aspose.cad/rastercachedimage/iscached/
+weight: 150
+url: "/net/aspose.cad/rastercachedimage/iscached/"
+product_version: "26.9"
 ---
 ## RasterCachedImage.IsCached property
 
 Gets a value indicating whether image data is cached currently.
 
 ```csharp
-public bool IsCached { get; }
+public sealed override bool IsCached { get; }
 ```
 
 ### Property Value
@@ -20,8 +23,7 @@ public bool IsCached { get; }
 
 ### See Also
 
-* class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterCachedImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

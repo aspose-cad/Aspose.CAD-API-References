@@ -1,10 +1,13 @@
 ---
-title: ProfileCommon.Asset
-second_title: Aspose.CAD for .NET API Reference
-description: ProfileCommon property. Gets or sets the asset
+title: "ProfileCommon.Asset"
+linktitle: "Asset"
+articleTitle: "Asset"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ProfileCommon property. Gets or sets the asset."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/profilecommon/asset/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/profilecommon/asset/"
+product_version: "26.9"
 ---
 ## ProfileCommon.Asset property
 
@@ -16,9 +19,8 @@ public Asset Asset { get; set; }
 
 ### See Also
 
-* class [Asset](../../asset/)
-* class [ProfileCommon](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Asset](../../asset/)
+* class [ProfileCommon](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

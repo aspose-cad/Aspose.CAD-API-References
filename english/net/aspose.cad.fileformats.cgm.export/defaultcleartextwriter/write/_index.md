@@ -1,12 +1,17 @@
 ---
-title: DefaultClearTextWriter.Write
-second_title: Aspose.CAD for .NET API Reference
-description: DefaultClearTextWriter method. 
+title: "DefaultClearTextWriter.Write"
+linktitle: "Write"
+articleTitle: "Write"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DefaultClearTextWriter method."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cgm.export/defaultcleartextwriter/write/
+url: "/net/aspose.cad.fileformats.cgm.export/defaultcleartextwriter/write/"
+product_version: "26.9"
 ---
 ## DefaultClearTextWriter.Write method
+
+
 
 ```csharp
 public void Write(string text)
@@ -14,8 +19,7 @@ public void Write(string text)
 
 ### See Also
 
-* class [DefaultClearTextWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DefaultClearTextWriter](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
+* assembly [Aspose.CAD](../../../)
 

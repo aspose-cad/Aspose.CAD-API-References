@@ -1,10 +1,13 @@
 ---
-title: CadBinaryParameter.Data
-second_title: Aspose.CAD for .NET API Reference
-description: CadBinaryParameter property. Gets or sets the value
+title: "CadBinaryParameter.Data"
+linktitle: "Data"
+articleTitle: "Data"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBinaryParameter property. Gets or sets the value."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadparameters/cadbinaryparameter/data/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadparameters/cadbinaryparameter/data/"
+product_version: "26.9"
 ---
 ## CadBinaryParameter.Data property
 
@@ -20,8 +23,7 @@ The value of the parameter.
 
 ### See Also
 
-* class [CadBinaryParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBinaryParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PixelDataFormat.Grayscale
-second_title: Aspose.CAD for .NET API Reference
-description: PixelDataFormat property. Gets the PixelDataFormat defined for 8 bits per pixel with 8 bits representing grayscale intensity in the 0255 interval
+title: "PixelDataFormat.Grayscale"
+linktitle: "Grayscale"
+articleTitle: "Grayscale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PixelDataFormat property. Gets the PixelDataFormat defined for 8 bits per pixel with 8 bits representing grayscale intensity in the 0-255 interval."
 type: docs
-weight: 20
-url: /net/aspose.cad/pixeldataformat/grayscale/
+weight: 150
+url: "/net/aspose.cad/pixeldataformat/grayscale/"
+product_version: "26.9"
 ---
 ## PixelDataFormat.Grayscale property
 
@@ -20,8 +23,7 @@ The [`PixelDataFormat`](../) defined for 8 bits per pixel with 8 bits representi
 
 ### See Also
 
-* class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PixelDataFormat](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

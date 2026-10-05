@@ -1,10 +1,13 @@
 ---
-title: CameraBuilder.ZNear
-second_title: Aspose.CAD for .NET API Reference
-description: CameraBuilder property. Gets or sets the near plane distance in the Z axis
+title: "CameraBuilder.ZNear"
+linktitle: "ZNear"
+articleTitle: "ZNear"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CameraBuilder property. Gets or sets the near plane distance in the Z axis."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb.scenes/camerabuilder/znear/
+weight: 30
+url: "/net/aspose.cad.fileformats.glb.scenes/camerabuilder/znear/"
+product_version: "26.9"
 ---
 ## CameraBuilder.ZNear property
 
@@ -16,8 +19,7 @@ public float ZNear { get; set; }
 
 ### See Also
 
-* class [CameraBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CameraBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

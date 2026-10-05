@@ -1,10 +1,13 @@
 ---
-title: ICommandFactory.CreateCommand
-second_title: Aspose.CAD for .NET API Reference
-description: ICommandFactory method. Create a new command instance
+title: "ICommandFactory.CreateCommand"
+linktitle: "CreateCommand"
+articleTitle: "CreateCommand"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ICommandFactory method. Create a new command instance"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.import/icommandfactory/createcommand/
+url: "/net/aspose.cad.fileformats.cgm.import/icommandfactory/createcommand/"
+product_version: "26.9"
 ---
 ## ICommandFactory.CreateCommand method
 
@@ -22,10 +25,9 @@ public Command CreateCommand(int elementId, int elementClass, CgmFile container)
 
 ### See Also
 
-* class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* interface [ICommandFactory](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../../aspose.cad.fileformats.cgm.import/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* interface [ICommandFactory](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../../aspose.cad.fileformats.cgm.import/)
+* assembly [Aspose.CAD](../../../)
 

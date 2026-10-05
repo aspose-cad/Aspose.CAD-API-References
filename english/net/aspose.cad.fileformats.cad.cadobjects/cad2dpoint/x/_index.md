@@ -1,10 +1,13 @@
 ---
-title: Cad2DPoint.X
-second_title: Aspose.CAD for .NET API Reference
-description: Cad2DPoint property. Gets or sets the x
+title: "Cad2DPoint.X"
+linktitle: "X"
+articleTitle: "X"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad2DPoint property. Gets or sets the x."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/x/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad2dpoint/x/"
+product_version: "26.9"
 ---
 ## Cad2DPoint.X property
 
@@ -16,8 +19,7 @@ public double X { get; set; }
 
 ### See Also
 
-* class [Cad2DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IntRange.GetRange
-second_title: Aspose.CAD for .NET API Reference
-description: IntRange method. Gets the count range of int elements starting at start
+title: "IntRange.GetRange"
+linktitle: "GetRange"
+articleTitle: "GetRange"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IntRange method. Gets the count range of int elements starting at start"
 type: docs
-weight: 40
-url: /net/aspose.cad/intrange/getrange/
+weight: 50
+url: "/net/aspose.cad/intrange/getrange/"
+product_version: "26.9"
 ---
 ## IntRange.GetRange method
 
@@ -32,8 +35,7 @@ Array of items
 
 ### See Also
 
-* class [IntRange](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IntRange](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

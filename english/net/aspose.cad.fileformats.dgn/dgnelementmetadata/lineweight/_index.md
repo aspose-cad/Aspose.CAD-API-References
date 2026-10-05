@@ -1,10 +1,13 @@
 ---
-title: DgnElementMetadata.LineWeight
-second_title: Aspose.CAD for .NET API Reference
-description: DgnElementMetadata property. Gets or sets Line weight
+title: "DgnElementMetadata.LineWeight"
+linktitle: "LineWeight"
+articleTitle: "LineWeight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnElementMetadata property. Gets or sets Line weight"
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.dgn/dgnelementmetadata/lineweight/
+url: "/net/aspose.cad.fileformats.dgn/dgnelementmetadata/lineweight/"
+product_version: "26.9"
 ---
 ## DgnElementMetadata.LineWeight property
 
@@ -16,8 +19,7 @@ public byte LineWeight { get; set; }
 
 ### See Also
 
-* class [DgnElementMetadata](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementMetadata](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

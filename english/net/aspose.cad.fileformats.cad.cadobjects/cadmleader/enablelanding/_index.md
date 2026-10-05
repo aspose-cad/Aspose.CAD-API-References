@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.EnableLanding
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader property. Gets or sets a value indicating whether enable landing
+title: "CadMLeader.EnableLanding"
+linktitle: "EnableLanding"
+articleTitle: "EnableLanding"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader property. Gets or sets a value indicating whether [enable landing]."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/enablelanding/
+weight: 280
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/enablelanding/"
+product_version: "26.9"
 ---
 ## CadMLeader.EnableLanding property
 
@@ -20,8 +23,7 @@ public bool EnableLanding { get; set; }
 
 ### See Also
 
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

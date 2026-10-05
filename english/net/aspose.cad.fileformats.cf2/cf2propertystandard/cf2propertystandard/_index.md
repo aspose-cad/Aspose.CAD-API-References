@@ -1,10 +1,13 @@
 ---
-title: CF2PropertyStandard.CF2PropertyStandard
-second_title: Aspose.CAD for .NET API Reference
-description: CF2PropertyStandard constructor. Initializes a new instance of the CF2PropertyStandard class
+title: "CF2PropertyStandard.CF2PropertyStandard"
+linktitle: "CF2PropertyStandard"
+articleTitle: "CF2PropertyStandard"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2PropertyStandard constructor. Initializes a new instance of the CF2PropertyStandard class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cf2/cf2propertystandard/cf2propertystandard/
+url: "/net/aspose.cad.fileformats.cf2/cf2propertystandard/cf2propertystandard/"
+product_version: "26.9"
 ---
 ## CF2PropertyStandard constructor
 
@@ -16,8 +19,7 @@ public CF2PropertyStandard(int indexName, string containt)
 
 ### See Also
 
-* class [CF2PropertyStandard](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2PropertyStandard](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

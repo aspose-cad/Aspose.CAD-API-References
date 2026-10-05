@@ -1,10 +1,13 @@
 ---
-title: ExifData.SubjectDistance
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the subject distance
+title: "ExifData.SubjectDistance"
+linktitle: "SubjectDistance"
+articleTitle: "SubjectDistance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the subject distance."
 type: docs
-weight: 1020
-url: /net/aspose.cad.exif/exifdata/subjectdistance/
+weight: 1030
+url: "/net/aspose.cad.exif/exifdata/subjectdistance/"
+product_version: "26.9"
 ---
 ## ExifData.SubjectDistance property
 
@@ -20,9 +23,8 @@ The subject distance.
 
 ### See Also
 
-* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadXrecordObject.CadXrecordObject
-second_title: Aspose.CAD for .NET API Reference
-description: CadXrecordObject constructor. Initializes a new instance of the CadXrecordObject class
+title: "CadXrecordObject.CadXrecordObject"
+linktitle: "CadXrecordObject"
+articleTitle: "CadXrecordObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadXrecordObject constructor. Initializes a new instance of the CadXrecordObject class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/cadxrecordobject/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadxrecordobject/cadxrecordobject/"
+product_version: "26.9"
 ---
 ## CadXrecordObject constructor
 
@@ -16,8 +19,7 @@ public CadXrecordObject()
 
 ### See Also
 
-* class [CadXrecordObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadXrecordObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

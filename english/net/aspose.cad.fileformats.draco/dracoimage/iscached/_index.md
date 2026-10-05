@@ -1,10 +1,13 @@
 ---
-title: DracoImage.IsCached
-second_title: Aspose.CAD for .NET API Reference
-description: DracoImage property. Gets a value indicating whether objects data is cached currently and no data reading is required
+title: "DracoImage.IsCached"
+linktitle: "IsCached"
+articleTitle: "IsCached"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DracoImage property. Gets a value indicating whether object's data is cached currently and no data reading is required."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.draco/dracoimage/iscached/
+url: "/net/aspose.cad.fileformats.draco/dracoimage/iscached/"
+product_version: "26.9"
 ---
 ## DracoImage.IsCached property
 
@@ -20,8 +23,7 @@ public override bool IsCached { get; }
 
 ### See Also
 
-* class [DracoImage](../)
-* namespace [Aspose.CAD.FileFormats.Draco](../../../aspose.cad.fileformats.draco/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DracoImage](../)
+* namespace [Aspose.CAD.FileFormats.Draco](../../../aspose.cad.fileformats.draco/)
+* assembly [Aspose.CAD](../../../)
 

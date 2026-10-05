@@ -1,10 +1,13 @@
 ---
-title: CadHatch.ReservedForFutureValues
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the reserved for future
+title: "CadHatch.ReservedForFutureValues"
+linktitle: "ReservedForFutureValues"
+articleTitle: "ReservedForFutureValues"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the reserved for future."
 type: docs
-weight: 300
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/reservedforfuturevalues/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/reservedforfuturevalues/"
+product_version: "26.9"
 ---
 ## CadHatch.ReservedForFutureValues property
 
@@ -20,9 +23,8 @@ The reserved for future.
 
 ### See Also
 
-* class [CadReservedForFutureValues](../../cadreservedforfuturevalues/)
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadReservedForFutureValues](../../cadreservedforfuturevalues/)
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

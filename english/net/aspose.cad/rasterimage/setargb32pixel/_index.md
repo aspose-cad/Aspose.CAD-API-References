@@ -1,10 +1,13 @@
 ---
-title: RasterImage.SetArgb32Pixel
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Sets an image 32bit ARGB pixel for the specified position
+title: "RasterImage.SetArgb32Pixel"
+linktitle: "SetArgb32Pixel"
+articleTitle: "SetArgb32Pixel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Sets an image 32-bit ARGB pixel for the specified position."
 type: docs
-weight: 430
-url: /net/aspose.cad/rasterimage/setargb32pixel/
+weight: 210
+url: "/net/aspose.cad/rasterimage/setargb32pixel/"
+product_version: "26.9"
 ---
 ## RasterImage.SetArgb32Pixel method
 
@@ -22,8 +25,7 @@ public void SetArgb32Pixel(int x, int y, int argb32Color)
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

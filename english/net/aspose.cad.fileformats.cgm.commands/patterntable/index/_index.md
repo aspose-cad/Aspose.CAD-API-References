@@ -1,12 +1,17 @@
 ---
-title: PatternTable.Index
-second_title: Aspose.CAD for .NET API Reference
-description: PatternTable property. 
+title: "PatternTable.Index"
+linktitle: "Index"
+articleTitle: "Index"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PatternTable property."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cgm.commands/patterntable/index/
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm.commands/patterntable/index/"
+product_version: "26.9"
 ---
 ## PatternTable.Index property
+
+
 
 ```csharp
 public int Index { get; set; }
@@ -14,8 +19,7 @@ public int Index { get; set; }
 
 ### See Also
 
-* class [PatternTable](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PatternTable](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

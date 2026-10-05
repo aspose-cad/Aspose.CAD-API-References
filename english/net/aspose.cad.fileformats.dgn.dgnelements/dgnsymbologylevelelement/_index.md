@@ -1,10 +1,14 @@
 ---
-title: Class DgnSymbologyLevelElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSymbologyLevelElement class. Represents Symbology element
+title: "DgnSymbologyLevelElement Class"
+linktitle: "DgnSymbologyLevelElement"
+articleTitle: "DgnSymbologyLevelElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSymbologyLevelElement class. Represents Symbology element"
 type: docs
-weight: 9010
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsymbologylevelelement/
+weight: 290
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsymbologylevelelement/"
+keywords: "DgnSymbologyLevelElement, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnSymbologyLevelElement class
 
@@ -18,14 +22,13 @@ public class DgnSymbologyLevelElement : DgnElementBase
 
 | Name | Description |
 | --- | --- |
-| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
 
 ### See Also
 
-* class [DgnElementBase](../dgnelementbase/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* class [DgnElementBase](../dgnelementbase/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CgmFile.IntegerPrecision
-second_title: Aspose.CAD for .NET API Reference
-description: CgmFile property. Gets or sets the current reading integer Precision
+title: "CgmFile.IntegerPrecision"
+linktitle: "IntegerPrecision"
+articleTitle: "IntegerPrecision"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmFile property. Gets or sets the current reading integer Precision"
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cgm/cgmfile/integerprecision/
+weight: 230
+url: "/net/aspose.cad.fileformats.cgm/cgmfile/integerprecision/"
+product_version: "26.9"
 ---
 ## CgmFile.IntegerPrecision property
 
@@ -16,8 +19,7 @@ public int IntegerPrecision { get; set; }
 
 ### See Also
 
-* class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

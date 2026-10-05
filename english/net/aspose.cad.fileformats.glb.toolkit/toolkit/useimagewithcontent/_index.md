@@ -1,10 +1,13 @@
 ---
-title: Toolkit.UseImageWithContent
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. Creates or reuses an GlbImage with the image content set by image
+title: "Toolkit.UseImageWithContent"
+linktitle: "UseImageWithContent"
+articleTitle: "UseImageWithContent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method. Creates or reuses an GlbImage with the image content set by image"
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/useimagewithcontent/
+weight: 420
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/useimagewithcontent/"
+product_version: "26.9"
 ---
 ## Toolkit.UseImageWithContent method
 
@@ -25,11 +28,10 @@ A [`GlbImage`](../../../aspose.cad.fileformats.glb/glbimage/) instance.
 
 ### See Also
 
-* class [ImageGlb](../../../aspose.cad.fileformats.glb/imageglb/)
-* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
-* struct [MemoryImage](../../../aspose.cad.fileformats.glb.memory/memoryimage/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ImageGlb](../../../aspose.cad.fileformats.glb/imageglb/)
+* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
+* struct [MemoryImage](../../../aspose.cad.fileformats.glb.memory/memoryimage/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

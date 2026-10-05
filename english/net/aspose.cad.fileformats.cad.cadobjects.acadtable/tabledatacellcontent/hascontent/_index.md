@@ -1,10 +1,13 @@
 ---
-title: TableDataCellContent.HasContent
-second_title: Aspose.CAD for .NET API Reference
-description: TableDataCellContent property. The content format overrides flag
+title: "TableDataCellContent.HasContent"
+linktitle: "HasContent"
+articleTitle: "HasContent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableDataCellContent property. The content format overrides flag"
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatacellcontent/hascontent/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatacellcontent/hascontent/"
+product_version: "26.9"
 ---
 ## TableDataCellContent.HasContent property
 
@@ -16,8 +19,7 @@ public short HasContent { get; set; }
 
 ### See Also
 
-* class [TableDataCellContent](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableDataCellContent](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

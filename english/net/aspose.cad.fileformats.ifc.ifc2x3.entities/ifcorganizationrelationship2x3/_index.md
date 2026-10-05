@@ -1,0 +1,51 @@
+---
+title: "IfcOrganizationRelationship2X3 Class"
+linktitle: "IfcOrganizationRelationship2X3"
+articleTitle: "IfcOrganizationRelationship2X3"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities.IfcOrganizationRelationship2X3 class. IfcOrganizationRelationship"
+type: docs
+weight: 3410
+url: "/net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship2x3/"
+keywords: "IfcOrganizationRelationship2X3, Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
+---
+## IfcOrganizationRelationship2X3 class
+
+IfcOrganizationRelationship
+
+```csharp
+public class IfcOrganizationRelationship2X3 : IfcEntityBase
+```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [IfcOrganizationRelationship2X3](ifcorganizationrelationship2x3/)() | The default constructor. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship2x3/description/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Gets the entity label. Each entity has its label, which is unique and represents it in the file |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship2x3/name/) { get; set; } |  |
+| [RelatedOrganizations](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship2x3/relatedorganizations/) { get; set; } |  |
+| [RelatingOrganization](../../aspose.cad.fileformats.ifc.ifc2x3.entities/ifcorganizationrelationship2x3/relatingorganization/) { get; set; } |  |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Determines whether the specified is equal to this instance. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Returns a hash code for this instance. |
+
+### See Also
+
+* class [IfcEntityBase](../../aspose.cad.fileformats.ifc/ifcentitybase/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
+* assembly [Aspose.CAD](../../)
+

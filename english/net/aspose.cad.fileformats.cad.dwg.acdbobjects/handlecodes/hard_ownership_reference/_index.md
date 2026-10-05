@@ -1,14 +1,18 @@
 ---
-title: HandleCodes.HARD_OWNERSHIP_REFERENCE
-second_title: Aspose.CAD for .NET API Reference
-description: HandleCodes field. Hard ownership reference the owner needs the owned object. The owned object cannot exist by itself. Code  3
+title: "HandleCodes.HARD_OWNERSHIP_REFERENCE"
+linktitle: "HARD_OWNERSHIP_REFERENCE"
+articleTitle: "HARD_OWNERSHIP_REFERENCE"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "HandleCodes field. Hard ownership reference: the owner needs the owned object. The owned object cannot exist by itself. Code - 3"
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/hard_ownership_reference/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/hard_ownership_reference/"
+product_version: "26.9"
 ---
 ## HandleCodes.HARD_OWNERSHIP_REFERENCE field
 
-Hard ownership reference: the owner needs the owned object. The owned object cannot exist by itself. Code - 3
+Hard ownership reference: the owner needs the owned object. The owned object cannot exist
+ by itself. Code - 3
 
 ```csharp
 public const int HARD_OWNERSHIP_REFERENCE;
@@ -16,8 +20,7 @@ public const int HARD_OWNERSHIP_REFERENCE;
 
 ### See Also
 
-* class [HandleCodes](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](../../../aspose.cad.fileformats.cad.dwg.acdbobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [HandleCodes](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](../../../aspose.cad.fileformats.cad.dwg.acdbobjects/)
+* assembly [Aspose.CAD](../../../)
 

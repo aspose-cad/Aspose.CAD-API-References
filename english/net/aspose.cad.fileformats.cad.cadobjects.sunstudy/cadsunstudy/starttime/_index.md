@@ -1,10 +1,13 @@
 ---
-title: CadSunStudy.StartTime
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunStudy property. Gets or sets the start time
+title: "CadSunStudy.StartTime"
+linktitle: "StartTime"
+articleTitle: "StartTime"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunStudy property. Gets or sets the start time."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/starttime/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/starttime/"
+product_version: "26.9"
 ---
 ## CadSunStudy.StartTime property
 
@@ -20,8 +23,7 @@ The start time.
 
 ### See Also
 
-* class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunStudy](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
+* assembly [Aspose.CAD](../../../)
 

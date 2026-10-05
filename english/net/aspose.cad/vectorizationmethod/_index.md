@@ -1,10 +1,13 @@
 ---
-title: Enum VectorizationMethod
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.VectorizationMethod enum. Pixel matching rule for validation
+title: "VectorizationMethod Enum"
+linktitle: "VectorizationMethod"
+articleTitle: "VectorizationMethod"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.VectorizationMethod enum. Pixel matching rule for validation"
 type: docs
-weight: 37410
-url: /net/aspose.cad/vectorizationmethod/
+weight: 960
+url: "/net/aspose.cad/vectorizationmethod/"
+product_version: "26.9"
 ---
 ## VectorizationMethod enumeration
 
@@ -26,7 +29,6 @@ public enum VectorizationMethod
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

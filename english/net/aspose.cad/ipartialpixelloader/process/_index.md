@@ -1,10 +1,13 @@
 ---
-title: IPartialPixelLoader.Process
-second_title: Aspose.CAD for .NET API Reference
-description: IPartialPixelLoader method. Processes the loaded pixels
+title: "IPartialPixelLoader.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IPartialPixelLoader method. Processes the loaded pixels."
 type: docs
 weight: 10
-url: /net/aspose.cad/ipartialpixelloader/process/
+url: "/net/aspose.cad/ipartialpixelloader/process/"
+product_version: "26.9"
 ---
 ## IPartialPixelLoader.Process method
 
@@ -23,11 +26,10 @@ public void Process(Rectangle pixelsRectangle, Color[] pixels, Point start, Poin
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* struct [Color](../../color/)
-* struct [Point](../../point/)
-* interface [IPartialPixelLoader](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* struct [Color](../../color/)
+* struct [Point](../../point/)
+* interface [IPartialPixelLoader](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DgnCircle.Radius
-second_title: Aspose.CAD for .NET API Reference
-description: DgnCircle property. Gets radius of circle
+title: "DgnCircle.Radius"
+linktitle: "Radius"
+articleTitle: "Radius"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnCircle property. Gets radius of circle"
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.dgn/dgncircle/radius/
+url: "/net/aspose.cad.fileformats.dgn/dgncircle/radius/"
+product_version: "26.9"
 ---
 ## DgnCircle.Radius property
 
@@ -20,8 +23,7 @@ The radius.
 
 ### See Also
 
-* class [DgnCircle](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnCircle](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

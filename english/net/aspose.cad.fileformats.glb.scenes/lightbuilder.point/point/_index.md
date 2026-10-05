@@ -1,12 +1,15 @@
 ---
-title: LightBuilder.Point.Point
-second_title: Aspose.CAD for .NET API Reference
-description: Point constructor. The default constructor
+title: "LightBuilder.Point.Point"
+linktitle: "LightBuilder.Point"
+articleTitle: "LightBuilder.Point"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.glb.scenes/lightbuilder.point/point/
+url: "/net/aspose.cad.fileformats.glb.scenes/lightbuilder.point/point/"
+product_version: "26.9"
 ---
-## LightBuilder.Point constructor
+## Point constructor
 
 The default constructor.
 
@@ -16,8 +19,7 @@ public Point()
 
 ### See Also
 
-* class [Point](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

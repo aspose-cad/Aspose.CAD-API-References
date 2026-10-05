@@ -1,10 +1,14 @@
 ---
-title: Class CadOle2Frame
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.CadOle2Frame class. The Cad OLE2FRAME
+title: "CadOle2Frame Class"
+linktitle: "CadOle2Frame"
+articleTitle: "CadOle2Frame"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadOle2Frame class. The Cad OLE2FRAME."
 type: docs
-weight: 3070
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/
+weight: 1010
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/"
+keywords: "CadOle2Frame, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadOle2Frame class
 
@@ -24,63 +28,66 @@ public class CadOle2Frame : CadEntityBase
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
-| [Area](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/area/) { get; } | Gets the area of the entity. |
-| [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/) { get; } | Gets or sets of the associated view port handle. |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
-| [BinaryData](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/binarydata/) { get; set; } | Gets or sets the binary data. |
-| [BinaryDataLength1](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/binarydatalength1/) { get; set; } | Gets or sets the binary data length1. |
-| [BinaryDataLength2](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/binarydatalength2/) { get; set; } | Gets or sets the binary data length2. |
-| [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
-| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
-| [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
-| [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
-| [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |
-| [ColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorvalue/) { get; set; } | Gets or sets the true color value (RGB) of the entity. |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
-| [Extents](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/extents/) { get; set; } | The extents |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
-| [Hyperlink](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/hyperlink/) { get; set; } | Gets or sets a hyperlink to an entity and displays the hyperlink name or description (if one is specified). |
-| virtual [Id](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/id/) { get; set; } | Gets the identifier. |
-| [IsAssocViewPortHandleSet](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/isassocviewporthandleset/) { get; } | Gets a value indicating whether associated view port handle is set. |
-| [IsByLayer](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/isbylayer/) { get; set; } | Gets or sets a value indicating that the entity has linetype set by layer. |
-| [IsNoLinks](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/isnolinks/) { get; set; } | Gets or sets a value indicating that the entity has no links. |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
-| [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layername/) { get; set; } | Gets or sets the name of the layer the entity belongs to. |
-| [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/) { get; set; } | Gets or sets the name of the layout tab. |
-| [Length](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/length/) { get; } | Gets the length of the entity. |
-| [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | Gets or sets the linetype scale factor of the entity. |
-| [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | Gets or sets the name of the line type based on the [`LType`](../cadentitybase/ltype/) value. |
-| [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/) { get; set; } | Gets or sets the line weight for the entity. |
-| [LowerLeftCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/lowerleftcorner/) { get; set; } | Gets or sets the lower left corner. |
-| [LowerRightCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/lowerrightcorner/) { get; set; } | Gets or sets the lower right corner. |
-| [LType](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/ltype/) { get; set; } | Gets or sets a value the current linetype of the entity. |
-| [Material](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/material/) { get; set; } | Gets or sets the material. |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
-| [OleDataEnd](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/oledataend/) { get; set; } | Gets or sets the OLE data end. |
-| [OleObjectType](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/oleobjecttype/) { get; set; } | Gets or sets the OLE object typet. |
-| [PlotStyle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyle/) { get; set; } | Gets or sets the plot style. Gets or sets the plot style handle. |
-| [PlotStyleFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyleflag/) { get; set; } | Gets or sets a value the current plot style of the entity |
-| [ProxyBytesCount](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/proxybytescount/) { get; set; } | Gets or sets the proxy bytes count. |
-| [ProxyData](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/proxydata/) { get; set; } | Gets or sets the proxy data. |
-| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
-| [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/shadowmode/) { get; set; } | Gets or sets the shadow mode. |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
-| [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/) { get; set; } | Gets or sets a value indicating which space the entity belongs to. |
-| override [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
-| [TileModeDescriptor](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/tilemodedescriptor/) { get; set; } | Gets or sets the tile mode descriptor. |
-| [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/transparency/) { get; set; } | Gets or sets the transparency value for the entity. |
-| override [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/typename/) { get; } | Gets the name of the type. |
-| [Unknown1](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/unknown1/) { get; set; } | The unknown byte |
-| [UpperLeftCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/upperleftcorner/) { get; set; } | Gets or sets the upper left corner. |
-| [UpperRightCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/upperrightcorner/) { get; set; } | Gets or sets the upper right corner. |
-| [VersionNumber](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/versionnumber/) { get; set; } | Gets or sets the version number. |
-| virtual [Visible](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/visible/) { get; set; } | Gets or sets a value indicating whether this [`CadEntityBase`](../cadentitybase/) is visible. |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
-| [XDirMissingFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/xdirmissingflag/) { get; set; } | Gets or sets a value indicating that no XDictionary handle is stored for this entity. |
+| [AnnotationScales](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/annotationscales/) { get; } | Gets the annotation scales the entity is bound to. |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Area](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/area/) { get; } | Gets the area of the entity. |
+| [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/) { get; } | Gets or sets of the associated view port handle. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [BinaryData](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/binarydata/) { get; set; } | Gets or sets the binary data. |
+| [BinaryDataLength1](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/binarydatalength1/) { get; set; } | Gets or sets the binary data length1. |
+| [BinaryDataLength2](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/binarydatalength2/) { get; set; } | Gets or sets the binary data length2. |
+| [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | Minimal and maximal points of entity. Filled after GetBounds is called for CadImage. |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | Gets or sets the child entities that make up the current entity. |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
+| [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | Gets or sets the color handle. |
+| [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | Gets or sets the color id (ACI color) of the entity. |
+| [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | Gets or sets the name of the color. |
+| [ColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorvalue/) { get; set; } | Gets or sets the true color value (RGB) of the entity. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [Entmode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/entmode/) { get; set; } | Gets or sets the entity mode |
+| [Extents](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/extents/) { get; set; } | The extents |
+| [GroupHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/grouphandle/) { get; set; } | The group handle |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [Hyperlink](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/hyperlink/) { get; set; } | Gets or sets a hyperlink to an entity and displays the hyperlink name or description (if one is specified). |
+| virtual [Id](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/id/) { get; set; } | Gets the identifier. |
+| [IsAssocViewPortHandleSet](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/isassocviewporthandleset/) { get; } | Gets a value indicating whether associated view port handle is set. |
+| [IsByLayer](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/isbylayer/) { get; set; } | Gets or sets a value indicating that the entity has linetype set by layer. |
+| [IsNoLinks](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/isnolinks/) { get; set; } | Gets or sets a value indicating that the entity has no links. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [LType](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/ltype/) { get; set; } | Gets or sets a value the current linetype of the entity. |
+| [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layername/) { get; set; } | Gets or sets the name of the layer the entity belongs to. |
+| [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/) { get; set; } | Gets or sets the name of the layout tab. |
+| [Length](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/length/) { get; } | Gets the length of the entity. |
+| [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | Gets or sets the linetype scale factor of the entity. |
+| [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | Gets or sets the name of the line type based on the [`LType`](../cadentitybase/ltype/) value. |
+| [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/) { get; set; } | Gets or sets the line weight for the entity. |
+| [LowerLeftCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/lowerleftcorner/) { get; set; } | Gets or sets the lower left corner. |
+| [LowerRightCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/lowerrightcorner/) { get; set; } | Gets or sets the lower right corner. |
+| [Material](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/material/) { get; set; } | Gets or sets the material. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [OleDataEnd](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/oledataend/) { get; set; } | Gets or sets the OLE data end. |
+| [OleObjectType](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/oleobjecttype/) { get; set; } | Gets or sets the OLE object typet. |
+| [PlotStyle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyle/) { get; set; } | Gets or sets the plot style. Gets or sets the plot style handle. |
+| [PlotStyleFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyleflag/) { get; set; } | Gets or sets a value the current plot style of the entity |
+| [ProxyBytesCount](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/proxybytescount/) { get; set; } | Gets or sets the proxy bytes count. |
+| [ProxyData](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/proxydata/) { get; set; } | Gets or sets the proxy data. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
+| [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/shadowmode/) { get; set; } | Gets or sets the shadow mode. |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/) { get; set; } | Gets or sets a value indicating which space the entity belongs to. |
+| override [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| [TileModeDescriptor](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/tilemodedescriptor/) { get; set; } | Gets or sets the tile mode descriptor. |
+| [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/transparency/) { get; set; } | Gets or sets the transparency value for the entity. |
+| override [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/typename/) { get; } | Gets the name of the type. |
+| [Unknown1](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/unknown1/) { get; set; } | The unknown byte |
+| [UpperLeftCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/upperleftcorner/) { get; set; } | Gets or sets the upper left corner. |
+| [UpperRightCorner](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/upperrightcorner/) { get; set; } | Gets or sets the upper right corner. |
+| [VersionNumber](../../aspose.cad.fileformats.cad.cadobjects/cadole2frame/versionnumber/) { get; set; } | Gets or sets the version number. |
+| virtual [Visible](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/visible/) { get; set; } | Gets or sets a value indicating whether this [`CadEntityBase`](../cadentitybase/) is visible. |
+| [XDirMissingFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/xdirmissingflag/) { get; set; } | Gets or sets a value indicating that no XDictionary handle is stored for this entity. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods
 
@@ -91,8 +98,7 @@ public class CadOle2Frame : CadEntityBase
 
 ### See Also
 
-* class [CadEntityBase](../cadentitybase/)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../)
-
+* class [CadEntityBase](../cadentitybase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
 

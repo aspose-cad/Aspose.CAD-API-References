@@ -1,10 +1,13 @@
 ---
-title: CadVportList.AddRange
-second_title: Aspose.CAD for .NET API Reference
-description: CadVportList method. Adds the range of the objects to container
+title: "CadVportList.AddRange"
+linktitle: "AddRange"
+articleTitle: "AddRange"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVportList method. Adds the range of the objects to container."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad/cadvportlist/addrange/
+url: "/net/aspose.cad.fileformats.cad/cadvportlist/addrange/"
+product_version: "26.9"
 ---
 ## CadVportList.AddRange method
 
@@ -20,9 +23,8 @@ public void AddRange(CadVportTableObject[] objects)
 
 ### See Also
 
-* class [CadVportTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/)
-* class [CadVportList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVportTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadvporttableobject/)
+* class [CadVportList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

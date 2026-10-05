@@ -1,10 +1,13 @@
 ---
-title: Ellipse.Ellipse
-second_title: Aspose.CAD for .NET API Reference
-description: Ellipse constructor. The default constructor
+title: "Ellipse.Ellipse"
+linktitle: "Ellipse"
+articleTitle: "Ellipse"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Ellipse constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/ellipse/ellipse/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/ellipse/ellipse/"
+product_version: "26.9"
 ---
 ## Ellipse constructor
 
@@ -16,8 +19,7 @@ public Ellipse()
 
 ### See Also
 
-* class [Ellipse](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Ellipse](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class XmpException
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.CadExceptions.XmpException class. The exception that is thrown when XMP has invalid structure
+title: "XmpException Class"
+linktitle: "XmpException"
+articleTitle: "XmpException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.CadExceptions.XmpException class. The exception that is thrown when XMP has invalid structure."
 type: docs
-weight: 340
-url: /net/aspose.cad.cadexceptions/xmpexception/
+weight: 130
+url: "/net/aspose.cad.cadexceptions/xmpexception/"
+keywords: "XmpException, Aspose.CAD.CadExceptions, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## XmpException class
 
@@ -20,12 +24,11 @@ public class XmpException : FrameworkException
 | --- | --- |
 | [XmpException](xmpexception/#constructor)() | Initializes a new instance of the `XmpException` class. |
 | [XmpException](xmpexception/#constructor_1)(string) | Initializes a new instance of the `XmpException` class. |
-| [XmpException](xmpexception/#constructor_2)(string, Exception) | Initializes a new instance of the `XmpException` class. |
+| [XmpException](xmpexception/#constructor_2)(string, Exception) | Initializes a new instance of the `XmpException` class. |
 
 ### See Also
 
-* class [FrameworkException](../frameworkexception/)
-* namespace [Aspose.CAD.CadExceptions](../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../)
-
+* class [FrameworkException](../frameworkexception/)
+* namespace [Aspose.CAD.CadExceptions](../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../)
 

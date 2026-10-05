@@ -1,10 +1,13 @@
 ---
-title: ColladaImage.IsCached
-second_title: Aspose.CAD for .NET API Reference
-description: ColladaImage property. Gets a value indicating whether objects data is cached currently and no data reading is required
+title: "ColladaImage.IsCached"
+linktitle: "IsCached"
+articleTitle: "IsCached"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColladaImage property. Gets a value indicating whether object's data is cached currently and no data reading is required."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada/colladaimage/iscached/
+url: "/net/aspose.cad.fileformats.collada/colladaimage/iscached/"
+product_version: "26.9"
 ---
 ## ColladaImage.IsCached property
 
@@ -20,8 +23,7 @@ public override bool IsCached { get; }
 
 ### See Also
 
-* class [ColladaImage](../)
-* namespace [Aspose.CAD.FileFormats.Collada](../../../aspose.cad.fileformats.collada/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ColladaImage](../)
+* namespace [Aspose.CAD.FileFormats.Collada](../../../aspose.cad.fileformats.collada/)
+* assembly [Aspose.CAD](../../../)
 

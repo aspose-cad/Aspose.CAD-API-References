@@ -1,10 +1,13 @@
 ---
-title: CadBoolParameter.Init
-second_title: Aspose.CAD for .NET API Reference
-description: CadBoolParameter method. Initialize the specified value
+title: "CadBoolParameter.Init"
+linktitle: "Init"
+articleTitle: "Init"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBoolParameter method. Initialize the specified value."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadparameters/cadboolparameter/init/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadparameters/cadboolparameter/init/"
+product_version: "26.9"
 ---
 ## CadBoolParameter.Init method
 
@@ -20,9 +23,8 @@ public override void Init(CadCodeValue value)
 
 ### See Also
 
-* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
-* class [CadBoolParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
+* class [CadBoolParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
+* assembly [Aspose.CAD](../../../)
 

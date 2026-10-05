@@ -1,12 +1,15 @@
 ---
-title: GlbData.SaveGLTF
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Writes this GlbData to a file in GLTF format
+title: "GlbData.SaveGLTF"
+linktitle: "SaveGLTF"
+articleTitle: "SaveGLTF"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Writes this GlbData to a file in GLTF format."
 type: docs
-weight: 470
-url: /net/aspose.cad.fileformats.glb/glbdata/savegltf/
+weight: 410
+url: "/net/aspose.cad.fileformats.glb/glbdata/savegltf/"
+product_version: "26.9"
 ---
-## SaveGLTF(string, WriteSettings) {#savegltf_1}
+## SaveGLTF(string, WriteSettings) {#savegltf}
 
 Writes this [`GlbData`](../) to a file in GLTF format.
 
@@ -25,14 +28,16 @@ Satellite files like buffers and images are also saved with the file name format
 
 ### See Also
 
-* class [WriteSettings](../../writesettings/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
+* class [WriteSettings](../../writesettings/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## SaveGLTF(Stream, Stream, Stream, string, WriteSettings) {#savegltf}
+## SaveGLTF(Stream, Stream, Stream, string, WriteSettings) {#savegltf_1}
+
+
 
 ```csharp
 public void SaveGLTF(Stream stream, Stream gltfStream, Stream binStream, string name, 
@@ -41,9 +46,8 @@ public void SaveGLTF(Stream stream, Stream gltfStream, Stream binStream, string 
 
 ### See Also
 
-* class [WriteSettings](../../writesettings/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [WriteSettings](../../writesettings/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

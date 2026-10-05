@@ -1,10 +1,13 @@
 ---
-title: CadSectionGeometrySettings.EdgeTransparency
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionGeometrySettings property. Gets or sets the edge transparency
+title: "CadSectionGeometrySettings.EdgeTransparency"
+linktitle: "EdgeTransparency"
+articleTitle: "EdgeTransparency"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionGeometrySettings property. Gets or sets the edge transparency."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/edgetransparency/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/edgetransparency/"
+product_version: "26.9"
 ---
 ## CadSectionGeometrySettings.EdgeTransparency property
 
@@ -20,8 +23,7 @@ The edge transparency.
 
 ### See Also
 
-* class [CadSectionGeometrySettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionGeometrySettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

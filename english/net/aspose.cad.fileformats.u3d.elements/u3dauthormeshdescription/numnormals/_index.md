@@ -1,12 +1,17 @@
 ---
-title: U3dAuthorMeshDescription.NumNormals
-second_title: Aspose.CAD for .NET API Reference
-description: U3dAuthorMeshDescription field. 
+title: "U3dAuthorMeshDescription.NumNormals"
+linktitle: "NumNormals"
+articleTitle: "NumNormals"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "U3dAuthorMeshDescription field. Number of position"
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormeshdescription/numnormals/
+weight: 50
+url: "/net/aspose.cad.fileformats.u3d.elements/u3dauthormeshdescription/numnormals/"
+product_version: "26.9"
 ---
 ## U3dAuthorMeshDescription.NumNormals field
+
+Number of position
 
 ```csharp
 public uint NumNormals;
@@ -14,8 +19,7 @@ public uint NumNormals;
 
 ### See Also
 
-* class [U3dAuthorMeshDescription](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [U3dAuthorMeshDescription](../)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
+* assembly [Aspose.CAD](../../../)
 

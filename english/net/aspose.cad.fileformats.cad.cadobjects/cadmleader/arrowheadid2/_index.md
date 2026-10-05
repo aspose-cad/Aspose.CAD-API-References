@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.ArrowHeadId2
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader property. Gets or sets the arrow head id2
+title: "CadMLeader.ArrowHeadId2"
+linktitle: "ArrowHeadId2"
+articleTitle: "ArrowHeadId2"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader property. Gets or sets the arrow head id2."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/arrowheadid2/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/arrowheadid2/"
+product_version: "26.9"
 ---
 ## CadMLeader.ArrowHeadId2 property
 
@@ -20,8 +23,7 @@ The arrow head id2.
 
 ### See Also
 
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

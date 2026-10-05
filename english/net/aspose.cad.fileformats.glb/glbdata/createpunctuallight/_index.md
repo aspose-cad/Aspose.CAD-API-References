@@ -1,14 +1,18 @@
 ---
-title: GlbData.CreatePunctualLight
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a new PunctualLight instance and adds it to LogicalPunctualLights
+title: "GlbData.CreatePunctualLight"
+linktitle: "CreatePunctualLight"
+articleTitle: "CreatePunctualLight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Creates a new PunctualLight instance and adds it to LogicalPunctualLights."
 type: docs
-weight: 360
-url: /net/aspose.cad.fileformats.glb/glbdata/createpunctuallight/
+weight: 230
+url: "/net/aspose.cad.fileformats.glb/glbdata/createpunctuallight/"
+product_version: "26.9"
 ---
 ## CreatePunctualLight(PunctualLightType) {#createpunctuallight}
 
-Creates a new [`PunctualLight`](../../punctuallight/) instance and adds it to [`LogicalPunctualLights`](../logicalpunctuallights/).
+Creates a new [`PunctualLight`](../../punctuallight/) instance and
+ adds it to [`LogicalPunctualLights`](../logicalpunctuallights/).
 
 ```csharp
 public PunctualLight CreatePunctualLight(PunctualLightType lightType)
@@ -24,17 +28,18 @@ A [`PunctualLight`](../../punctuallight/) instance.
 
 ### See Also
 
-* class [PunctualLight](../../punctuallight/)
-* enum [PunctualLightType](../../punctuallighttype/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
+* class [PunctualLight](../../punctuallight/)
+* enum [PunctualLightType](../../punctuallighttype/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## CreatePunctualLight(string, PunctualLightType) {#createpunctuallight_1}
+## CreatePunctualLight(string, PunctualLightType) {#createpunctuallight_1}
 
-Creates a new [`PunctualLight`](../../punctuallight/) instance. and adds it to [`LogicalPunctualLights`](../logicalpunctuallights/).
+Creates a new [`PunctualLight`](../../punctuallight/) instance.
+ and adds it to [`LogicalPunctualLights`](../logicalpunctuallights/).
 
 ```csharp
 public PunctualLight CreatePunctualLight(string name, PunctualLightType lightType)
@@ -51,10 +56,9 @@ A [`PunctualLight`](../../punctuallight/) instance.
 
 ### See Also
 
-* class [PunctualLight](../../punctuallight/)
-* enum [PunctualLightType](../../punctuallighttype/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PunctualLight](../../punctuallight/)
+* enum [PunctualLightType](../../punctuallighttype/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

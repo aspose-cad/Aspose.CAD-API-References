@@ -1,10 +1,13 @@
 ---
-title: CadLineTypesDictionary.Item
-second_title: Aspose.CAD for .NET API Reference
-description: CadLineTypesDictionary property. Gets or sets the CadLineTypeTableObject with the specified key
+title: "CadLineTypesDictionary.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLineTypesDictionary property. Gets or sets the CadLineTypeTableObject with the specified key."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad/cadlinetypesdictionary/item/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad/cadlinetypesdictionary/item/"
+product_version: "26.9"
 ---
 ## CadLineTypesDictionary indexer
 
@@ -28,9 +31,8 @@ The [`CadLineTypeTableObject`](../../../aspose.cad.fileformats.cad.cadtables/cad
 
 ### See Also
 
-* class [CadLineTypeTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/)
-* class [CadLineTypesDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLineTypeTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/)
+* class [CadLineTypesDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

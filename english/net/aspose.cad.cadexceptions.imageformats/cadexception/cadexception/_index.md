@@ -1,10 +1,13 @@
 ---
-title: CadException.CadException
-second_title: Aspose.CAD for .NET API Reference
-description: CadException constructor. Initializes a new instance of the CadException class
+title: "CadException.CadException"
+linktitle: "CadException"
+articleTitle: "CadException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadException constructor. Initializes a new instance of the CadException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.imageformats/cadexception/cadexception/
+url: "/net/aspose.cad.cadexceptions.imageformats/cadexception/cadexception/"
+product_version: "26.9"
 ---
 ## CadException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public CadException(string message)
 
 ### See Also
 
-* class [CadException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
+* class [CadException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## CadException(string, Exception) {#constructor_1}
+## CadException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`CadException`](../) class.
 
@@ -41,8 +44,7 @@ public CadException(string message, Exception innerException)
 
 ### See Also
 
-* class [CadException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,33 +1,15 @@
 ---
-title: RasterImage.WriteScanLine
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Writes the whole scan line to the specified scan line index
+title: "RasterImage.WriteScanLine"
+linktitle: "WriteScanLine"
+articleTitle: "WriteScanLine"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Writes the whole scan line to the specified scan line index."
 type: docs
-weight: 470
-url: /net/aspose.cad/rasterimage/writescanline/
+weight: 250
+url: "/net/aspose.cad/rasterimage/writescanline/"
+product_version: "26.9"
 ---
-## WriteScanLine(int, int[]) {#writescanline_1}
-
-Writes the whole scan line to the specified scan line index.
-
-```csharp
-public void WriteScanLine(int scanLineIndex, int[] pixels)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| scanLineIndex | Int32 | Zero based index of the scan line. |
-| pixels | Int32[] | The pixel colors array as ARGB to write. |
-
-### See Also
-
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## WriteScanLine(int, Color[]) {#writescanline}
+## WriteScanLine(int, Color[]) {#writescanline}
 
 Writes the whole scan line to the specified scan line index.
 
@@ -42,9 +24,29 @@ public void WriteScanLine(int scanLineIndex, Color[] pixels)
 
 ### See Also
 
-* struct [Color](../../color/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* struct [Color](../../color/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
+---
+
+## WriteScanLine(int, int[]) {#writescanline_1}
+
+Writes the whole scan line to the specified scan line index.
+
+```csharp
+public void WriteScanLine(int scanLineIndex, int[] pixels)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| scanLineIndex | Int32 | Zero based index of the scan line. |
+| pixels | Int32[] | The pixel colors array as ARGB to write. |
+
+### See Also
+
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

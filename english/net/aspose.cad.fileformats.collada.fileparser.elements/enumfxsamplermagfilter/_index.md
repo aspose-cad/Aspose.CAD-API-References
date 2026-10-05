@@ -1,10 +1,13 @@
 ---
-title: Enum EnumFxSamplerMagFilter
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxSamplerMagFilter enum. The enumeration FX sampler mag filter
+title: "EnumFxSamplerMagFilter Enum"
+linktitle: "EnumFxSamplerMagFilter"
+articleTitle: "EnumFxSamplerMagFilter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxSamplerMagFilter enum. The enumeration FX sampler mag filter."
 type: docs
-weight: 7650
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplermagfilter/
+weight: 330
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplermagfilter/"
+product_version: "26.9"
 ---
 ## EnumFxSamplerMagFilter enumeration
 
@@ -23,7 +26,6 @@ public enum EnumFxSamplerMagFilter
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

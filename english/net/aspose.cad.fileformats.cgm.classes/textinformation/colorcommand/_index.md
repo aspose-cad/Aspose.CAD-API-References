@@ -1,10 +1,13 @@
 ---
-title: TextInformation.ColorCommand
-second_title: Aspose.CAD for .NET API Reference
-description: TextInformation property. Gets or sets the color command
+title: "TextInformation.ColorCommand"
+linktitle: "ColorCommand"
+articleTitle: "ColorCommand"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TextInformation property. Gets or sets the color command."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cgm.classes/textinformation/colorcommand/
+weight: 30
+url: "/net/aspose.cad.fileformats.cgm.classes/textinformation/colorcommand/"
+product_version: "26.9"
 ---
 ## TextInformation.ColorCommand property
 
@@ -20,9 +23,8 @@ The color command.
 
 ### See Also
 
-* class [TextColour](../../../aspose.cad.fileformats.cgm.commands/textcolour/)
-* class [TextInformation](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TextColour](../../../aspose.cad.fileformats.cgm.commands/textcolour/)
+* class [TextInformation](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../../)
 

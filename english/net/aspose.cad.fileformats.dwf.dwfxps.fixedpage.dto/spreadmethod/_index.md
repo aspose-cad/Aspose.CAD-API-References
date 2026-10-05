@@ -1,14 +1,18 @@
 ---
-title: Enum SpreadMethod
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.SpreadMethod enum. The spread method. Describes how the brush should fill the content area outside of the primary initial gradient area
+title: "SpreadMethod Enum"
+linktitle: "SpreadMethod"
+articleTitle: "SpreadMethod"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.SpreadMethod enum. The spread method. Describes how the brush should fill the content area outside of the pri..."
 type: docs
-weight: 9540
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/spreadmethod/
+weight: 300
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/spreadmethod/"
+product_version: "26.9"
 ---
 ## SpreadMethod enumeration
 
-The spread method. Describes how the brush should fill the content area outside of the primary, initial gradient area.
+The spread method.
+ Describes how the brush should fill the content area outside of the primary, initial gradient area.
 
 ```csharp
 public enum SpreadMethod
@@ -24,7 +28,6 @@ public enum SpreadMethod
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

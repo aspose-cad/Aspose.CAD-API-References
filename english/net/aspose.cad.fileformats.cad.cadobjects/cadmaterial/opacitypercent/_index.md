@@ -1,10 +1,13 @@
 ---
-title: CadMaterial.OpacityPercent
-second_title: Aspose.CAD for .NET API Reference
-description: CadMaterial property. Gets or sets the opacity percent
+title: "CadMaterial.OpacityPercent"
+linktitle: "OpacityPercent"
+articleTitle: "OpacityPercent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMaterial property. Gets or sets the opacity percent."
 type: docs
-weight: 660
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitypercent/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitypercent/"
+product_version: "26.9"
 ---
 ## CadMaterial.OpacityPercent property
 
@@ -20,8 +23,7 @@ The opacity percent.
 
 ### See Also
 
-* class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMaterial](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

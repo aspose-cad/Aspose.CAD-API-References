@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Collada.FileParser.Elements
-second_title: Aspose.CAD for .NET API Reference
-description: A parser for processing the elements of a Collada file
+title: "Aspose.CAD.FileFormats.Collada.FileParser.Elements"
+linktitle: "Aspose.CAD.FileFormats.Collada.FileParser.Elements"
+articleTitle: "Aspose.CAD.FileFormats.Collada.FileParser.Elements"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "A parser for processing the elements of a Collada file."
 type: docs
-weight: 540
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/
+weight: 10
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/"
+keywords: "Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
-A parser for processing the elements of a Collada file.
+## Overview
+
+A parser for processing the elements of a [Collada](./collada/) file.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -75,6 +83,7 @@ A parser for processing the elements of a Collada file.
 | [LibraryEffects](./libraryeffects/) | The library effects. The library_effects element declares a module of effect elements. |
 | [LibraryGeometries](./librarygeometries/) | The library geometries. The library_geometries element declares a module of geometry elements. |
 | [LibraryMaterials](./librarymaterials/) | The library materials. The library_materials element declares a module of material elements. |
+| [LibraryNodes](./librarynodes/) | The library nodes. Provides a library in which to place node elements. |
 | [LibraryVisualScenes](./libraryvisualscenes/) | The library of visual scenes. The library_visual_scenes element declares a module of visual_scene elements. |
 | [Line](./line/) | The line. |
 | [Lines](./lines/) | The lines. The lines element provides the information needed to bind vertex attributes together and then organize those vertices into individual lines. Each line described by the mesh has two vertices. The first line is formed from first and second vertices. The second line is formed from the third and fourth vertices and so on. |
@@ -135,6 +144,7 @@ A parser for processing the elements of a Collada file.
 | [Vertices](./vertices/) | The vertices. The vertices element declares the attributes and identity of mesh-vertices. The vertices element describes mesh-vertices in a mesh geometry. The mesh-vertices represent the position(identity) of the vertices comprising the mesh and other vertex attributes that are invariant to tessellation. |
 | [VisualScene](./visualscene/) | The visual scene. The visual_scene element declares the base of the visual_scene hierarchy or scene graph. The scene contains elements that comprise much of the visual and transformational information content as created by the authoring tools. |
 | [Wires](./wires/) | The wires. Wires are a combination of one or more edges. A closed wire can limit a face. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -150,5 +160,4 @@ A parser for processing the elements of a Collada file.
 | [EnumOrthograthicItems](./enumorthograthicitems/) | The enumeration ORTHOGRATHIC items. |
 | [EnumPerspectiveItems](./enumperspectiveitems/) | The enumeration Perspective items. |
 | [EnumUpAxis](./enumupaxis/) | The up axis enumeration. An enumerated type specifying the acceptable up-axis values. |
-
 

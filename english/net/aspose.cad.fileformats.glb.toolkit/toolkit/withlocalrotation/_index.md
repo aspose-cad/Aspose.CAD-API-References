@@ -1,12 +1,17 @@
 ---
-title: Toolkit.WithLocalRotation
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. 
+title: "Toolkit.WithLocalRotation"
+linktitle: "WithLocalRotation"
+articleTitle: "WithLocalRotation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method."
 type: docs
-weight: 320
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withlocalrotation/
+weight: 30
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withlocalrotation/"
+product_version: "26.9"
 ---
 ## Toolkit.WithLocalRotation method
+
+
 
 ```csharp
 public static Node WithLocalRotation(this Node node, Quaternion rotation)
@@ -14,9 +19,8 @@ public static Node WithLocalRotation(this Node node, Quaternion rotation)
 
 ### See Also
 
-* class [Node](../../../aspose.cad.fileformats.glb/node/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../../../aspose.cad.fileformats.glb/node/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

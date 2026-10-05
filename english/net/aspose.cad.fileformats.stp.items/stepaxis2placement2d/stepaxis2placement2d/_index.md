@@ -1,12 +1,17 @@
 ---
-title: StepAxis2Placement2D.StepAxis2Placement2D
-second_title: Aspose.CAD for .NET API Reference
-description: StepAxis2Placement2D constructor. 
+title: "StepAxis2Placement2D.StepAxis2Placement2D"
+linktitle: "StepAxis2Placement2D"
+articleTitle: "StepAxis2Placement2D"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepAxis2Placement2D constructor. Initializes a new instance of the StepAxis2Placement2D class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stp.items/stepaxis2placement2d/stepaxis2placement2d/
+url: "/net/aspose.cad.fileformats.stp.items/stepaxis2placement2d/stepaxis2placement2d/"
+product_version: "26.9"
 ---
 ## StepAxis2Placement2D constructor
+
+Initializes a new instance of the StepAxis2Placement2D class.
 
 ```csharp
 public StepAxis2Placement2D(string label, StepCartesianPoint location, StepDirection direction)
@@ -14,10 +19,9 @@ public StepAxis2Placement2D(string label, StepCartesianPoint location, StepDirec
 
 ### See Also
 
-* class [StepCartesianPoint](../../stepcartesianpoint/)
-* class [StepDirection](../../stepdirection/)
-* class [StepAxis2Placement2D](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepCartesianPoint](../../stepcartesianpoint/)
+* class [StepDirection](../../stepdirection/)
+* class [StepAxis2Placement2D](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

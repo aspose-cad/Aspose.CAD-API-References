@@ -1,10 +1,13 @@
 ---
-title: Polygon.GetTransformedDrawable
-second_title: Aspose.CAD for .NET API Reference
-description: Polygon method. Creates a new drawable using provided points and nongeometric properties of current drawable
+title: "Polygon.GetTransformedDrawable"
+linktitle: "GetTransformedDrawable"
+articleTitle: "GetTransformedDrawable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Polygon method. Creates a new drawable using provided points and non-geometric properties of current drawable"
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.iges.drawables/polygon/gettransformeddrawable/
+url: "/net/aspose.cad.fileformats.iges.drawables/polygon/gettransformeddrawable/"
+product_version: "26.9"
 ---
 ## Polygon.GetTransformedDrawable method
 
@@ -24,10 +27,9 @@ New drawable with new geometry and current non-geometric properties
 
 ### See Also
 
-* interface [IIgesDrawable](../../iigesdrawable/)
-* class [Point3D](../../../aspose.cad.primitives/point3d/)
-* class [Polygon](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IIgesDrawable](../../iigesdrawable/)
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
+* class [Polygon](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

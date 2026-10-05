@@ -1,10 +1,13 @@
 ---
-title: XmpResouce.XmpResouce
-second_title: Aspose.CAD for .NET API Reference
-description: XmpResouce constructor. Initializes a new instance of the GridAndGuidesResouce class
+title: "XmpResouce.XmpResouce"
+linktitle: "XmpResouce"
+articleTitle: "XmpResouce"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "XmpResouce constructor. Initializes a new instance of the GridAndGuidesResouce class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.psd.resources/xmpresouce/xmpresouce/
+url: "/net/aspose.cad.fileformats.psd.resources/xmpresouce/xmpresouce/"
+product_version: "26.9"
 ---
 ## XmpResouce constructor
 
@@ -16,8 +19,7 @@ public XmpResouce()
 
 ### See Also
 
-* class [XmpResouce](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [XmpResouce](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

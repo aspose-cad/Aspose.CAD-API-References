@@ -1,10 +1,13 @@
 ---
-title: CadMesh.VertexIndices
-second_title: Aspose.CAD for .NET API Reference
-description: CadMesh property. Gets or sets vertex indices
+title: "CadMesh.VertexIndices"
+linktitle: "VertexIndices"
+articleTitle: "VertexIndices"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMesh property. Gets or sets vertex indices"
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmesh/vertexindices/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmesh/vertexindices/"
+product_version: "26.9"
 ---
 ## CadMesh.VertexIndices property
 
@@ -16,8 +19,7 @@ public List<int> VertexIndices { get; set; }
 
 ### See Also
 
-* class [CadMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

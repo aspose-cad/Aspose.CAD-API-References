@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Cgm.Classes
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains entities of CGM classes
+title: "Aspose.CAD.FileFormats.Cgm.Classes"
+linktitle: "Aspose.CAD.FileFormats.Cgm.Classes"
+articleTitle: "Aspose.CAD.FileFormats.Cgm.Classes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains entities of CGM classes."
 type: docs
-weight: 470
-url: /net/aspose.cad.fileformats.cgm.classes/
+weight: 10
+url: "/net/aspose.cad.fileformats.cgm.classes/"
+keywords: "Aspose.CAD.FileFormats.Cgm.Classes, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains entities of CGM classes.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -20,10 +28,10 @@ The namespace contains entities of CGM classes.
 | [TextInformation](./textinformation/) | Information bundle of text elements |
 | [VC](./vc/) | Represents the abstract VC parameter type |
 | [ViewportPoint](./viewportpoint/) | The abstract parameter type VC is a single value; a viewport point, VP, is an ordered pair of VC |
+
 ## Structures
 
 | Structure | Description |
 | --- | --- |
 | [CgmRectangle](./cgmrectangle/) |  |
-
 

@@ -1,10 +1,13 @@
 ---
-title: PsdImageResourceException.Resource
-second_title: Aspose.CAD for .NET API Reference
-description: PsdImageResourceException property. Gets the psd resource which caused this exception
+title: "PsdImageResourceException.Resource"
+linktitle: "Resource"
+articleTitle: "Resource"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PsdImageResourceException property. Gets the psd resource which caused this exception."
 type: docs
-weight: 20
-url: /net/aspose.cad.cadexceptions.imageformats/psdimageresourceexception/resource/
+weight: 30
+url: "/net/aspose.cad.cadexceptions.imageformats/psdimageresourceexception/resource/"
+product_version: "26.9"
 ---
 ## PsdImageResourceException.Resource property
 
@@ -20,9 +23,8 @@ The resource.
 
 ### See Also
 
-* class [ResourceBlock](../../../aspose.cad.fileformats.psd/resourceblock/)
-* class [PsdImageResourceException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ResourceBlock](../../../aspose.cad.fileformats.psd/resourceblock/)
+* class [PsdImageResourceException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 

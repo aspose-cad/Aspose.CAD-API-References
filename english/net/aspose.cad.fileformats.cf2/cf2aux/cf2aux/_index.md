@@ -1,10 +1,13 @@
 ---
-title: CF2Aux.CF2Aux
-second_title: Aspose.CAD for .NET API Reference
-description: CF2Aux constructor. The default constructor
+title: "CF2Aux.CF2Aux"
+linktitle: "CF2Aux"
+articleTitle: "CF2Aux"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2Aux constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cf2/cf2aux/cf2aux/
+url: "/net/aspose.cad.fileformats.cf2/cf2aux/cf2aux/"
+product_version: "26.9"
 ---
 ## CF2Aux constructor
 
@@ -16,8 +19,7 @@ public CF2Aux()
 
 ### See Also
 
-* class [CF2Aux](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2Aux](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

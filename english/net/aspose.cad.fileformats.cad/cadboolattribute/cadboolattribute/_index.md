@@ -1,10 +1,13 @@
 ---
-title: CadBoolAttribute.CadBoolAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: CadBoolAttribute constructor. Initializes a new instance of the CadBoolAttribute class
+title: "CadBoolAttribute.CadBoolAttribute"
+linktitle: "CadBoolAttribute"
+articleTitle: "CadBoolAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBoolAttribute constructor. Initializes a new instance of the CadBoolAttribute class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadboolattribute/cadboolattribute/
+url: "/net/aspose.cad.fileformats.cad/cadboolattribute/cadboolattribute/"
+product_version: "26.9"
 ---
 ## CadBoolAttribute constructor
 
@@ -23,10 +26,9 @@ public CadBoolAttribute(CadEntityAttribute attribute, CadParameterType parameter
 
 ### See Also
 
-* enum [CadEntityAttribute](../../cadentityattribute/)
-* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
-* class [CadBoolAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
+* class [CadBoolAttribute](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

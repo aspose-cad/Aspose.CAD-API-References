@@ -1,10 +1,13 @@
 ---
-title: CadMText.ExtrusionDirection
-second_title: Aspose.CAD for .NET API Reference
-description: CadMText property. Gets or sets the extrusion direction
+title: "CadMText.ExtrusionDirection"
+linktitle: "ExtrusionDirection"
+articleTitle: "ExtrusionDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMText property. Gets or sets the extrusion direction."
 type: docs
-weight: 380
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/extrusiondirection/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmtext/extrusiondirection/"
+product_version: "26.9"
 ---
 ## CadMText.ExtrusionDirection property
 
@@ -16,9 +19,8 @@ public override Cad3DPoint ExtrusionDirection { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

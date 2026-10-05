@@ -1,10 +1,13 @@
 ---
-title: FbxImage.IsCached
-second_title: Aspose.CAD for .NET API Reference
-description: FbxImage property. Gets a value indicating whether objects data is cached currently and no data readig is required
+title: "FbxImage.IsCached"
+linktitle: "IsCached"
+articleTitle: "IsCached"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FbxImage property. Gets a value indicating whether object's data is cached currently and no data readig is required."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.fbx/fbximage/iscached/
+weight: 100
+url: "/net/aspose.cad.fileformats.fbx/fbximage/iscached/"
+product_version: "26.9"
 ---
 ## FbxImage.IsCached property
 
@@ -20,8 +23,7 @@ public override bool IsCached { get; }
 
 ### See Also
 
-* class [FbxImage](../)
-* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FbxImage](../)
+* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
+* assembly [Aspose.CAD](../../../)
 

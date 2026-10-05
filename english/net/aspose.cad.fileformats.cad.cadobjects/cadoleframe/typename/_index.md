@@ -1,10 +1,13 @@
 ---
-title: CadOleFrame.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadOleFrame property. Gets the name of the type
+title: "CadOleFrame.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadOleFrame property. Gets the name of the type."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadoleframe/typename/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadoleframe/typename/"
+product_version: "26.9"
 ---
 ## CadOleFrame.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadOleFrame](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadOleFrame](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

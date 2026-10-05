@@ -1,12 +1,17 @@
 ---
-title: Toolkit.WithInstanceAccessor
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. 
+title: "Toolkit.WithInstanceAccessor"
+linktitle: "WithInstanceAccessor"
+articleTitle: "WithInstanceAccessor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method."
 type: docs
-weight: 280
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withinstanceaccessor/
+weight: 240
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withinstanceaccessor/"
+product_version: "26.9"
 ---
 ## Toolkit.WithInstanceAccessor&lt;T&gt; method
+
+
 
 ```csharp
 public static MeshGpuInstancing WithInstanceAccessor<T>(this MeshGpuInstancing instancing, 
@@ -16,9 +21,8 @@ public static MeshGpuInstancing WithInstanceAccessor<T>(this MeshGpuInstancing i
 
 ### See Also
 
-* class [MeshGpuInstancing](../../../aspose.cad.fileformats.glb/meshgpuinstancing/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MeshGpuInstancing](../../../aspose.cad.fileformats.glb/meshgpuinstancing/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

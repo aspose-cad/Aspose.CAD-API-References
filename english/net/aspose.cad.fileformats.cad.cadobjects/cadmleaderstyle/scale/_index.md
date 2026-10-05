@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.Scale
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the scale
+title: "CadMLeaderStyle.Scale"
+linktitle: "Scale"
+articleTitle: "Scale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the scale."
 type: docs
-weight: 350
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/scale/
+weight: 400
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/scale/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.Scale property
 
@@ -20,8 +23,7 @@ The scale.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

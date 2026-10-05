@@ -1,10 +1,13 @@
 ---
-title: DwfWhipLineJoinStyle.Style
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipLineJoinStyle property. Gets line join style
+title: "DwfWhipLineJoinStyle.Style"
+linktitle: "Style"
+articleTitle: "Style"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipLineJoinStyle property. Gets line join style"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinejoinstyle/style/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinejoinstyle/style/"
+product_version: "26.9"
 ---
 ## DwfWhipLineJoinStyle.Style property
 
@@ -16,9 +19,8 @@ public DwfWhipJoinstyleID Style { get; }
 
 ### See Also
 
-* enum [DwfWhipJoinstyleID](../../dwfwhipjoinstyleid/)
-* class [DwfWhipLineJoinStyle](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [DwfWhipJoinstyleID](../../dwfwhipjoinstyleid/)
+* class [DwfWhipLineJoinStyle](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../../)
 

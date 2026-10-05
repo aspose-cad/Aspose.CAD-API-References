@@ -1,10 +1,13 @@
 ---
-title: Enum TiffExpectedFormat
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffExpectedFormat enum. The expected tiff file format
+title: "TiffExpectedFormat Enum"
+linktitle: "TiffExpectedFormat"
+articleTitle: "TiffExpectedFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffExpectedFormat enum. The expected tiff file format."
 type: docs
-weight: 35430
-url: /net/aspose.cad.fileformats.tiff.enums/tiffexpectedformat/
+weight: 70
+url: "/net/aspose.cad.fileformats.tiff.enums/tiffexpectedformat/"
+product_version: "26.9"
 ---
 ## TiffExpectedFormat enumeration
 
@@ -37,7 +40,6 @@ public enum TiffExpectedFormat
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

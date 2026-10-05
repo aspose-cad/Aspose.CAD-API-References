@@ -1,10 +1,13 @@
 ---
-title: HandleCodes.HANDLE_MINUS_OFFSET_REFERENCE
-second_title: Aspose.CAD for .NET API Reference
-description: HandleCodes field. The handle minus offset reference. Code  12 0xC
+title: "HandleCodes.HANDLE_MINUS_OFFSET_REFERENCE"
+linktitle: "HANDLE_MINUS_OFFSET_REFERENCE"
+articleTitle: "HANDLE_MINUS_OFFSET_REFERENCE"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "HandleCodes field. The handle minus offset reference. Code - 12 (0xC)"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/handle_minus_offset_reference/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/handle_minus_offset_reference/"
+product_version: "26.9"
 ---
 ## HandleCodes.HANDLE_MINUS_OFFSET_REFERENCE field
 
@@ -16,8 +19,7 @@ public const int HANDLE_MINUS_OFFSET_REFERENCE;
 
 ### See Also
 
-* class [HandleCodes](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](../../../aspose.cad.fileformats.cad.dwg.acdbobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [HandleCodes](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](../../../aspose.cad.fileformats.cad.dwg.acdbobjects/)
+* assembly [Aspose.CAD](../../../)
 

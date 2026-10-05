@@ -1,10 +1,13 @@
 ---
-title: CadSectionManager.SectionsNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionManager property. Gets or sets the sections number
+title: "CadSectionManager.SectionsNumber"
+linktitle: "SectionsNumber"
+articleTitle: "SectionsNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionManager property. Gets or sets the sections number."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/sectionsnumber/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectionmanager/sectionsnumber/"
+product_version: "26.9"
 ---
 ## CadSectionManager.SectionsNumber property
 
@@ -20,8 +23,7 @@ The sections number.
 
 ### See Also
 
-* class [CadSectionManager](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionManager](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

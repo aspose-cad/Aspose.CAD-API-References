@@ -1,10 +1,13 @@
 ---
-title: IfcImageException.IfcImageException
-second_title: Aspose.CAD for .NET API Reference
-description: IfcImageException constructor. Initializes a new instance of the IfcImageException class
+title: "IfcImageException.IfcImageException"
+linktitle: "IfcImageException"
+articleTitle: "IfcImageException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcImageException constructor. Initializes a new instance of the IfcImageException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.imageformats/ifcimageexception/ifcimageexception/
+url: "/net/aspose.cad.cadexceptions.imageformats/ifcimageexception/ifcimageexception/"
+product_version: "26.9"
 ---
 ## IfcImageException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public IfcImageException(string message)
 
 ### See Also
 
-* class [IfcImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
+* class [IfcImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## IfcImageException(string, Exception) {#constructor_1}
+## IfcImageException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`IfcImageException`](../) class.
 
@@ -41,8 +44,7 @@ public IfcImageException(string message, Exception innerException)
 
 ### See Also
 
-* class [IfcImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 

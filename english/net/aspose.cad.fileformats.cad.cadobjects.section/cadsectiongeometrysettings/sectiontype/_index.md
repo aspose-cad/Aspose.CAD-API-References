@@ -1,10 +1,13 @@
 ---
-title: CadSectionGeometrySettings.SectionType
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionGeometrySettings property. Gets or sets the type of the section
+title: "CadSectionGeometrySettings.SectionType"
+linktitle: "SectionType"
+articleTitle: "SectionType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionGeometrySettings property. Gets or sets the type of the section."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/sectiontype/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/sectiontype/"
+product_version: "26.9"
 ---
 ## CadSectionGeometrySettings.SectionType property
 
@@ -20,8 +23,7 @@ The type of the section.
 
 ### See Also
 
-* class [CadSectionGeometrySettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionGeometrySettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

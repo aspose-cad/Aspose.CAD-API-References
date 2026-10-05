@@ -1,10 +1,13 @@
 ---
-title: Enum MatrixOrder
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.MatrixOrder enum. Specifies the order for matrix transform operations
+title: "MatrixOrder Enum"
+linktitle: "MatrixOrder"
+articleTitle: "MatrixOrder"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.MatrixOrder enum. Specifies the order for matrix transform operations."
 type: docs
-weight: 36960
-url: /net/aspose.cad/matrixorder/
+weight: 610
+url: "/net/aspose.cad/matrixorder/"
+product_version: "26.9"
 ---
 ## MatrixOrder enumeration
 
@@ -23,7 +26,6 @@ public enum MatrixOrder
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

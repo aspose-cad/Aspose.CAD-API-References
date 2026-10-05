@@ -1,10 +1,13 @@
 ---
-title: GlbData.ApplyBasisTransform
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Applies a world transform to all the scenes of the model
+title: "GlbData.ApplyBasisTransform"
+linktitle: "ApplyBasisTransform"
+articleTitle: "ApplyBasisTransform"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Applies a world transform to all the scenes of the model."
 type: docs
-weight: 260
-url: /net/aspose.cad.fileformats.glb/glbdata/applybasistransform/
+weight: 220
+url: "/net/aspose.cad.fileformats.glb/glbdata/applybasistransform/"
+product_version: "26.9"
 ---
 ## GlbData.ApplyBasisTransform method
 
@@ -21,12 +24,15 @@ public void ApplyBasisTransform(Matrix4x4 basisTransform, string basisNodeName =
 
 ## Remarks
 
-This method is appropiate to apply a general axis or scale change to the whole model. Animations are preserved by encapsulating animated nodes inside a master basis transform node. Meanwhile, unanimated nodes are transformed directly. If the determinant of *basisTransform* is negative, the face culling should be flipped when rendering.
+This method is appropiate to apply a general axis or scale change to the whole model.
+ Animations are preserved by encapsulating animated nodes inside a master basis transform node.
+ Meanwhile, unanimated nodes are transformed directly.
+ If the determinant of *basisTransform* is negative, the face culling should be
+ flipped when rendering.
 
 ### See Also
 
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

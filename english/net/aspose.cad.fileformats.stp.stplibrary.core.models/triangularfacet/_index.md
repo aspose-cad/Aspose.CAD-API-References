@@ -1,10 +1,14 @@
 ---
-title: Class TriangularFacet
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models.TriangularFacet class. Triangular facet of the surface
+title: "TriangularFacet Class"
+linktitle: "TriangularFacet"
+articleTitle: "TriangularFacet"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models.TriangularFacet class. Triangular facet of the surface."
 type: docs
-weight: 35260
-url: /net/aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/
+weight: 40
+url: "/net/aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/"
+keywords: "TriangularFacet, Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## TriangularFacet class
 
@@ -24,15 +28,14 @@ public class TriangularFacet
 
 | Name | Description |
 | --- | --- |
-| [ColorData](../../aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/colordata/) { get; set; } | Gets or sets the surface color. |
-| [Normal](../../aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/normal/) { get; set; } | Gets or sets the surface normal to the triangular facet. |
-| [Vertex1](../../aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/vertex1/) { get; set; } | Gets or sets the coordinates of the first vertex. |
-| [Vertex2](../../aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/vertex2/) { get; set; } | Gets or sets the coordinates of the second vertex. |
-| [Vertex3](../../aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/vertex3/) { get; set; } | Gets or sets the coordinates of the third vertex. |
+| [ColorData](../../aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/colordata/) { get; set; } | Gets or sets the surface color. |
+| [Normal](../../aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/normal/) { get; set; } | Gets or sets the surface normal to the triangular facet. |
+| [Vertex1](../../aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/vertex1/) { get; set; } | Gets or sets the coordinates of the first vertex. |
+| [Vertex2](../../aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/vertex2/) { get; set; } | Gets or sets the coordinates of the second vertex. |
+| [Vertex3](../../aspose.cad.fileformats.stp.stplibrary.core.models/triangularfacet/vertex3/) { get; set; } | Gets or sets the coordinates of the third vertex. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../aspose.cad.fileformats.stp.stplibrary.core.models/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../aspose.cad.fileformats.stp.stplibrary.core.models/)
+* assembly [Aspose.CAD](../../)
 

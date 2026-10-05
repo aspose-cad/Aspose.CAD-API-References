@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.NorthDirectionVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the north direction vector
+title: "CadGeoData.NorthDirectionVector"
+linktitle: "NorthDirectionVector"
+articleTitle: "NorthDirectionVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the north direction vector."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/northdirectionvector/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/northdirectionvector/"
+product_version: "26.9"
 ---
 ## CadGeoData.NorthDirectionVector property
 
@@ -20,9 +23,8 @@ The north direction vector.
 
 ### See Also
 
-* class [Cad2DPoint](../../cad2dpoint/)
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../cad2dpoint/)
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

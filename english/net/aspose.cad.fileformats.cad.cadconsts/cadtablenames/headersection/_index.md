@@ -1,10 +1,13 @@
 ---
-title: CadTableNames.HeaderSection
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableNames field. header section
+title: "CadTableNames.HeaderSection"
+linktitle: "HeaderSection"
+articleTitle: "HeaderSection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableNames field. header section."
 type: docs
 weight: 160
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/headersection/
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/headersection/"
+product_version: "26.9"
 ---
 ## CadTableNames.HeaderSection field
 
@@ -16,8 +19,7 @@ public const string HeaderSection;
 
 ### See Also
 
-* class [CadTableNames](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableNames](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

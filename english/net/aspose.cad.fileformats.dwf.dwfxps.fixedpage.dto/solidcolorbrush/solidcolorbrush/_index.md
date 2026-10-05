@@ -1,10 +1,13 @@
 ---
-title: SolidColorBrush.SolidColorBrush
-second_title: Aspose.CAD for .NET API Reference
-description: SolidColorBrush constructor. Initializes a new instance of the SolidColorBrush class
+title: "SolidColorBrush.SolidColorBrush"
+linktitle: "SolidColorBrush"
+articleTitle: "SolidColorBrush"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SolidColorBrush constructor. Initializes a new instance of the SolidColorBrush class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/solidcolorbrush/solidcolorbrush/
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/solidcolorbrush/solidcolorbrush/"
+product_version: "26.9"
 ---
 ## SolidColorBrush constructor
 
@@ -16,8 +19,7 @@ public SolidColorBrush()
 
 ### See Also
 
-* class [SolidColorBrush](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SolidColorBrush](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

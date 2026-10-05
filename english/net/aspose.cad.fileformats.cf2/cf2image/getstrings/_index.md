@@ -1,10 +1,13 @@
 ---
-title: CF2Image.GetStrings
-second_title: Aspose.CAD for .NET API Reference
-description: CF2Image method. Gets all string values from image
+title: "CF2Image.GetStrings"
+linktitle: "GetStrings"
+articleTitle: "GetStrings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2Image method. Gets all string values from image."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.cf2/cf2image/getstrings/
+weight: 50
+url: "/net/aspose.cad.fileformats.cf2/cf2image/getstrings/"
+product_version: "26.9"
 ---
 ## CF2Image.GetStrings method
 
@@ -20,8 +23,7 @@ The array with string values.
 
 ### See Also
 
-* class [CF2Image](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2Image](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class CadEdgeBoundaryPath
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadEdgeBoundaryPath class. The Cad edge boundary path
+title: "CadEdgeBoundaryPath Class"
+linktitle: "CadEdgeBoundaryPath"
+articleTitle: "CadEdgeBoundaryPath"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadEdgeBoundaryPath class. The Cad edge boundary path."
 type: docs
-weight: 3670
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/"
+keywords: "CadEdgeBoundaryPath, Aspose.CAD.FileFormats.Cad.CadObjects.Hatch, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadEdgeBoundaryPath class
 
@@ -24,14 +28,13 @@ public class CadEdgeBoundaryPath : ICadBoundaryPath
 
 | Name | Description |
 | --- | --- |
-| [EdgeTypes](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/edgetypes/) { get; set; } | Gets or sets the edge types. |
-| [NumberOfEdges](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/numberofedges/) { get; set; } | Gets or sets the number of edges. |
-| [Objects](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/objects/) { get; set; } | Gets or sets the objects. |
+| [EdgeTypes](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/edgetypes/) { get; set; } | Gets or sets the edge types. |
+| [NumberOfEdges](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/numberofedges/) { get; set; } | Gets or sets the number of edges. |
+| [Objects](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadedgeboundarypath/objects/) { get; set; } | Gets or sets the objects. |
 
 ### See Also
 
-* interface [ICadBoundaryPath](../icadboundarypath/)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../)
-
+* interface [ICadBoundaryPath](../icadboundarypath/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../)
 

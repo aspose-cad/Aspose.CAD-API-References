@@ -1,10 +1,13 @@
 ---
-title: Enum TiffThresholds
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffThresholds enum. Thresholding used on data
+title: "TiffThresholds Enum"
+linktitle: "TiffThresholds"
+articleTitle: "TiffThresholds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffThresholds enum. Thresholding used on data."
 type: docs
-weight: 35540
-url: /net/aspose.cad.fileformats.tiff.enums/tiffthresholds/
+weight: 180
+url: "/net/aspose.cad.fileformats.tiff.enums/tiffthresholds/"
+product_version: "26.9"
 ---
 ## TiffThresholds enumeration
 
@@ -24,7 +27,6 @@ public enum TiffThresholds : ushort
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

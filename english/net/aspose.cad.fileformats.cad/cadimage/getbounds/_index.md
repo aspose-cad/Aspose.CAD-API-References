@@ -1,10 +1,13 @@
 ---
-title: CadImage.GetBounds
-second_title: Aspose.CAD for .NET API Reference
-description: CadImage method. Fills Bounds property contain minimum and maximum point of entity for all entities
+title: "CadImage.GetBounds"
+linktitle: "GetBounds"
+articleTitle: "GetBounds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadImage method. Fills Bounds property (contain minimum and maximum point of entity) for all entities."
 type: docs
-weight: 350
-url: /net/aspose.cad.fileformats.cad/cadimage/getbounds/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad/cadimage/getbounds/"
+product_version: "26.9"
 ---
 ## GetBounds() {#getbounds}
 
@@ -16,9 +19,9 @@ public void GetBounds()
 
 ### See Also
 
-* class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [CadImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -32,9 +35,8 @@ public void GetBounds(CadEntityBase entity)
 
 ### See Also
 
-* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
-* class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/)
+* class [CadImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

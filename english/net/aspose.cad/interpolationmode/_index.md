@@ -1,14 +1,17 @@
 ---
-title: Enum InterpolationMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.InterpolationMode enum. The InterpolationMode enumeration specifies the algorithm that is used when images are scaled or rotated
+title: "InterpolationMode Enum"
+linktitle: "InterpolationMode"
+articleTitle: "InterpolationMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.InterpolationMode enum. The InterpolationMode enumeration specifies the algorithm that is used when images are scaled or rotated."
 type: docs
-weight: 36900
-url: /net/aspose.cad/interpolationmode/
+weight: 550
+url: "/net/aspose.cad/interpolationmode/"
+product_version: "26.9"
 ---
 ## InterpolationMode enumeration
 
-The `InterpolationMode` enumeration specifies the algorithm that is used when images are scaled or rotated.
+The [`InterpolationMode`](../../../aspose.cad/interpolationmode/) enumeration specifies the algorithm that is used when images are scaled or rotated.
 
 ```csharp
 public enum InterpolationMode
@@ -30,7 +33,6 @@ public enum InterpolationMode
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

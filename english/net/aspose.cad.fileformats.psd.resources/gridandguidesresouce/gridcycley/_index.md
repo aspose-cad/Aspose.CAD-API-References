@@ -1,10 +1,13 @@
 ---
-title: GridAndGuidesResouce.GridCycleY
-second_title: Aspose.CAD for .NET API Reference
-description: GridAndGuidesResouce property. Gets or sets the vertical grid cycle. The default is 576
+title: "GridAndGuidesResouce.GridCycleY"
+linktitle: "GridCycleY"
+articleTitle: "GridCycleY"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GridAndGuidesResouce property. Gets or sets the vertical grid cycle. The default is 576."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.psd.resources/gridandguidesresouce/gridcycley/
+weight: 50
+url: "/net/aspose.cad.fileformats.psd.resources/gridandguidesresouce/gridcycley/"
+product_version: "26.9"
 ---
 ## GridAndGuidesResouce.GridCycleY property
 
@@ -20,8 +23,7 @@ The vertical grid cycle.
 
 ### See Also
 
-* class [GridAndGuidesResouce](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GridAndGuidesResouce](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

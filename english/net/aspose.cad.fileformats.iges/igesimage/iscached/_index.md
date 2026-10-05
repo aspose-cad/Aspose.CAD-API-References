@@ -1,10 +1,13 @@
 ---
-title: IgesImage.IsCached
-second_title: Aspose.CAD for .NET API Reference
-description: IgesImage property. Gets a value indicating whether objects data is cached currently and no data readig is required
+title: "IgesImage.IsCached"
+linktitle: "IsCached"
+articleTitle: "IsCached"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IgesImage property. Gets a value indicating whether object's data is cached currently and no data readig is required."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.iges/igesimage/iscached/
+weight: 80
+url: "/net/aspose.cad.fileformats.iges/igesimage/iscached/"
+product_version: "26.9"
 ---
 ## IgesImage.IsCached property
 
@@ -20,8 +23,7 @@ public override bool IsCached { get; }
 
 ### See Also
 
-* class [IgesImage](../)
-* namespace [Aspose.CAD.FileFormats.Iges](../../../aspose.cad.fileformats.iges/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IgesImage](../)
+* namespace [Aspose.CAD.FileFormats.Iges](../../../aspose.cad.fileformats.iges/)
+* assembly [Aspose.CAD](../../../)
 

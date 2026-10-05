@@ -1,10 +1,13 @@
 ---
-title: DwfWhipPolyline.DwfWhipPolyline
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipPolyline constructor. The default constructor
+title: "DwfWhipPolyline.DwfWhipPolyline"
+linktitle: "DwfWhipPolyline"
+articleTitle: "DwfWhipPolyline"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipPolyline constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolyline/dwfwhippolyline/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippolyline/dwfwhippolyline/"
+product_version: "26.9"
 ---
 ## DwfWhipPolyline constructor
 
@@ -16,8 +19,7 @@ public DwfWhipPolyline()
 
 ### See Also
 
-* class [DwfWhipPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipPolyline](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
+* assembly [Aspose.CAD](../../../)
 

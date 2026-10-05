@@ -1,14 +1,18 @@
 ---
-title: RadialGradientBrush.RadiusY
-second_title: Aspose.CAD for .NET API Reference
-description: RadialGradientBrush property. Gets or sets the radius y. Specifies the radius in the y dimension of the ellipse which defines the radial gradient
+title: "RadialGradientBrush.RadiusY"
+linktitle: "RadiusY"
+articleTitle: "RadiusY"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RadialGradientBrush property. Gets or sets the radius y. Specifies the radius in the y dimension of the ellipse which defines the radial gradient."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/radialgradientbrush/radiusy/
+weight: 120
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/radialgradientbrush/radiusy/"
+product_version: "26.9"
 ---
 ## RadialGradientBrush.RadiusY property
 
-Gets or sets the radius y. Specifies the radius in the y dimension of the ellipse which defines the radial gradient.
+Gets or sets the radius y.
+ Specifies the radius in the y dimension of the ellipse which defines the radial gradient.
 
 ```csharp
 public double RadiusY { get; set; }
@@ -16,8 +20,7 @@ public double RadiusY { get; set; }
 
 ### See Also
 
-* class [RadialGradientBrush](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RadialGradientBrush](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

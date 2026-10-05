@@ -1,10 +1,14 @@
 ---
-title: Class TiffTagFactory
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.InstanceFactory.TiffTagFactory class. Tag factory class
+title: "TiffTagFactory Class"
+linktitle: "TiffTagFactory"
+articleTitle: "TiffTagFactory"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.InstanceFactory.TiffTagFactory class. Tag factory class"
 type: docs
-weight: 35580
-url: /net/aspose.cad.fileformats.tiff.instancefactory/tifftagfactory/
+weight: 30
+url: "/net/aspose.cad.fileformats.tiff.instancefactory/tifftagfactory/"
+keywords: "TiffTagFactory, Aspose.CAD.FileFormats.Tiff.InstanceFactory, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## TiffTagFactory class
 
@@ -18,11 +22,10 @@ public static class TiffTagFactory
 
 | Name | Description |
 | --- | --- |
-| static [CreateInstance](../../aspose.cad.fileformats.tiff.instancefactory/tifftagfactory/createinstance/)(ushort, ushort) | Creates a new data type instance. |
+| static [CreateInstance](../../aspose.cad.fileformats.tiff.instancefactory/tifftagfactory/createinstance/)(ushort, ushort) | Creates a new data type instance. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.InstanceFactory](../../aspose.cad.fileformats.tiff.instancefactory/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.InstanceFactory](../../aspose.cad.fileformats.tiff.instancefactory/)
+* assembly [Aspose.CAD](../../)
 

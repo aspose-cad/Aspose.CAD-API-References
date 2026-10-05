@@ -1,10 +1,13 @@
 ---
-title: CF2Image.MinPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CF2Image property. Gets the min point
+title: "CF2Image.MinPoint"
+linktitle: "MinPoint"
+articleTitle: "MinPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2Image property. Gets the min point."
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.cf2/cf2image/minpoint/
+url: "/net/aspose.cad.fileformats.cf2/cf2image/minpoint/"
+product_version: "26.9"
 ---
 ## CF2Image.MinPoint property
 
@@ -16,9 +19,8 @@ public Cad3DPoint MinPoint { get; }
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [CF2Image](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [CF2Image](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

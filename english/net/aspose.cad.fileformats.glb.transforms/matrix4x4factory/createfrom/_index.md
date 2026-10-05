@@ -1,14 +1,17 @@
 ---
-title: Matrix4x4Factory.CreateFrom
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix4x4Factory method. Evaluates a Matrix4x4 transform based on the available parameters
+title: "Matrix4x4Factory.CreateFrom"
+linktitle: "CreateFrom"
+articleTitle: "CreateFrom"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix4x4Factory method. Evaluates a Matrix4x4 transform based on the available parameters."
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.glb.transforms/matrix4x4factory/createfrom/
+weight: 50
+url: "/net/aspose.cad.fileformats.glb.transforms/matrix4x4factory/createfrom/"
+product_version: "26.9"
 ---
 ## Matrix4x4Factory.CreateFrom method
 
-Evaluates a Matrix4x4 transform based on the available parameters.
+Evaluates a `Matrix4x4` transform based on the available parameters.
 
 ```csharp
 public static Matrix4x4 CreateFrom(Matrix4x4? transform, Vector3? scale, Quaternion? rotation, 
@@ -24,12 +27,11 @@ public static Matrix4x4 CreateFrom(Matrix4x4? transform, Vector3? scale, Quatern
 
 ### Return Value
 
-A Matrix4x4 transform.
+A `Matrix4x4` transform.
 
 ### See Also
 
-* class [Matrix4x4Factory](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix4x4Factory](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
+* assembly [Aspose.CAD](../../../)
 

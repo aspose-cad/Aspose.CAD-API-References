@@ -1,10 +1,13 @@
 ---
-title: CadBinaryCodeValue.Equals
-second_title: Aspose.CAD for .NET API Reference
-description: CadBinaryCodeValue method. Determines whether the specified CadCodeValue is equal to this instance
+title: "CadBinaryCodeValue.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBinaryCodeValue method. Determines whether the specified CadCodeValue, is equal to this instance."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad/cadbinarycodevalue/equals/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad/cadbinarycodevalue/equals/"
+product_version: "26.9"
 ---
 ## CadBinaryCodeValue.Equals method
 
@@ -24,9 +27,8 @@ public override bool Equals(CadCodeValue obj)
 
 ### See Also
 
-* class [CadCodeValue](../../cadcodevalue/)
-* class [CadBinaryCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../../cadcodevalue/)
+* class [CadBinaryCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

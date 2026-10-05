@@ -1,12 +1,17 @@
 ---
-title: Enum SegmentControlElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Elements.SegmentControlElement enum. 
+title: "SegmentControlElement Enum"
+linktitle: "SegmentControlElement"
+articleTitle: "SegmentControlElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Elements.SegmentControlElement enum."
 type: docs
-weight: 7120
-url: /net/aspose.cad.fileformats.cgm.elements/segmentcontrolelement/
+weight: 180
+url: "/net/aspose.cad.fileformats.cgm.elements/segmentcontrolelement/"
+product_version: "26.9"
 ---
 ## SegmentControlElement enumeration
+
+
 
 ```csharp
 public enum SegmentControlElement
@@ -26,7 +31,6 @@ public enum SegmentControlElement
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadPolylineBase.VerticesFollowFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolylineBase property. Gets or sets vertices follow flag
+title: "CadPolylineBase.VerticesFollowFlag"
+linktitle: "VerticesFollowFlag"
+articleTitle: "VerticesFollowFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolylineBase property. Gets or sets vertices follow flag."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolylinebase/verticesfollowflag/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolylinebase/verticesfollowflag/"
+product_version: "26.9"
 ---
 ## CadPolylineBase.VerticesFollowFlag property
 
@@ -16,8 +19,7 @@ public short VerticesFollowFlag { get; set; }
 
 ### See Also
 
-* class [CadPolylineBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolylineBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

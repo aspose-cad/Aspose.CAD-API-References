@@ -1,10 +1,13 @@
 ---
-title: ResourceBlock.Signature
-second_title: Aspose.CAD for .NET API Reference
-description: ResourceBlock property. Gets the resource signature. Should be always 8BIM
+title: "ResourceBlock.Signature"
+linktitle: "Signature"
+articleTitle: "Signature"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ResourceBlock property. Gets the resource signature. Should be always '8BIM'."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.psd/resourceblock/signature/
+weight: 30
+url: "/net/aspose.cad.fileformats.psd/resourceblock/signature/"
+product_version: "26.9"
 ---
 ## ResourceBlock.Signature property
 
@@ -20,8 +23,7 @@ The resource signature.
 
 ### See Also
 
-* class [ResourceBlock](../)
-* namespace [Aspose.CAD.FileFormats.Psd](../../../aspose.cad.fileformats.psd/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ResourceBlock](../)
+* namespace [Aspose.CAD.FileFormats.Psd](../../../aspose.cad.fileformats.psd/)
+* assembly [Aspose.CAD](../../../)
 

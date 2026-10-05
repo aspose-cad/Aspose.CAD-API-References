@@ -1,10 +1,13 @@
 ---
-title: Matrix4x4Factory.NormalizeMatrix
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix4x4Factory method. Normalizes the axis of the given matrix to make it orthogonal
+title: "Matrix4x4Factory.NormalizeMatrix"
+linktitle: "NormalizeMatrix"
+articleTitle: "NormalizeMatrix"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix4x4Factory method. Normalizes the axis of the given matrix, to make it orthogonal."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.glb.transforms/matrix4x4factory/normalizematrix/
+weight: 80
+url: "/net/aspose.cad.fileformats.glb.transforms/matrix4x4factory/normalizematrix/"
+product_version: "26.9"
 ---
 ## Matrix4x4Factory.NormalizeMatrix method
 
@@ -20,8 +23,7 @@ public static void NormalizeMatrix(ref Matrix4x4 xform)
 
 ### See Also
 
-* class [Matrix4x4Factory](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix4x4Factory](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../../aspose.cad.fileformats.glb.transforms/)
+* assembly [Aspose.CAD](../../../)
 

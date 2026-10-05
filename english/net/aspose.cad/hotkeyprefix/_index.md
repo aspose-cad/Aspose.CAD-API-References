@@ -1,10 +1,13 @@
 ---
-title: Enum HotkeyPrefix
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.HotkeyPrefix enum. Specifies the type of display for hotkey prefixes that relate to text
+title: "HotkeyPrefix Enum"
+linktitle: "HotkeyPrefix"
+articleTitle: "HotkeyPrefix"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.HotkeyPrefix enum. Specifies the type of display for hot-key prefixes that relate to text."
 type: docs
-weight: 36000
-url: /net/aspose.cad/hotkeyprefix/
+weight: 310
+url: "/net/aspose.cad/hotkeyprefix/"
+product_version: "26.9"
 ---
 ## HotkeyPrefix enumeration
 
@@ -24,7 +27,6 @@ public enum HotkeyPrefix
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum CadEntityAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadEntityAttribute enum. Entities enum
+title: "CadEntityAttribute Enum"
+linktitle: "CadEntityAttribute"
+articleTitle: "CadEntityAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadEntityAttribute enum. Entities enum"
 type: docs
-weight: 1630
-url: /net/aspose.cad.fileformats.cad/cadentityattribute/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad/cadentityattribute/"
+product_version: "26.9"
 ---
 ## CadEntityAttribute enumeration
 
@@ -327,7 +330,6 @@ public enum CadEntityAttribute
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../)
 

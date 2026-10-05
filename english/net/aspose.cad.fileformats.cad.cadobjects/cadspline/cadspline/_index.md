@@ -1,10 +1,13 @@
 ---
-title: CadSpline.CadSpline
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpline constructor. Initializes a new instance of the CadSpline class
+title: "CadSpline.CadSpline"
+linktitle: "CadSpline"
+articleTitle: "CadSpline"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpline constructor. Initializes a new instance of the CadSpline class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspline/cadspline/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspline/cadspline/"
+product_version: "26.9"
 ---
 ## CadSpline constructor
 
@@ -16,8 +19,7 @@ public CadSpline()
 
 ### See Also
 
-* class [CadSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

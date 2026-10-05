@@ -1,10 +1,13 @@
 ---
-title: Enum StringAlignment
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.StringAlignment enum. Specifies the alignment of a text string relative to its layout rectangle
+title: "StringAlignment Enum"
+linktitle: "StringAlignment"
+articleTitle: "StringAlignment"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.StringAlignment enum. Specifies the alignment of a text string relative to its layout rectangle."
 type: docs
-weight: 37300
-url: /net/aspose.cad/stringalignment/
+weight: 870
+url: "/net/aspose.cad/stringalignment/"
+product_version: "26.9"
 ---
 ## StringAlignment enumeration
 
@@ -24,7 +27,6 @@ public enum StringAlignment
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class DgnExtendedViewInfo
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnExtendedViewInfo class. Represents view info
+title: "DgnExtendedViewInfo Class"
+linktitle: "DgnExtendedViewInfo"
+articleTitle: "DgnExtendedViewInfo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnExtendedViewInfo class. Represents view info"
 type: docs
-weight: 9080
-url: /net/aspose.cad.fileformats.dgn/dgnextendedviewinfo/
+weight: 100
+url: "/net/aspose.cad.fileformats.dgn/dgnextendedviewinfo/"
+keywords: "DgnExtendedViewInfo, Aspose.CAD.FileFormats.Dgn, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnExtendedViewInfo class
 
@@ -24,14 +28,13 @@ public class DgnExtendedViewInfo
 
 | Name | Description |
 | --- | --- |
-| [ClassMask](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/classmask/) { get; } | Gets class masks |
-| [DgnExtFlags](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/dgnextflags/) { get; } | Gets extended flags |
-| [Perspective](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/perspective/) { get; } | Gets perspective disappearing point |
-| [Unused](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/unused/) { get; } | Gets unused area reserved for future use |
+| [ClassMask](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/classmask/) { get; } | Gets class masks |
+| [DgnExtFlags](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/dgnextflags/) { get; } | Gets extended flags |
+| [Perspective](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/perspective/) { get; } | Gets perspective disappearing point |
+| [Unused](../../aspose.cad.fileformats.dgn/dgnextendedviewinfo/unused/) { get; } | Gets unused area reserved for future use |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadRasterImage.ClassVersion
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImage property. Gets or sets the class version
+title: "CadRasterImage.ClassVersion"
+linktitle: "ClassVersion"
+articleTitle: "ClassVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImage property. Gets or sets the class version."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/classversion/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/classversion/"
+product_version: "26.9"
 ---
 ## CadRasterImage.ClassVersion property
 
@@ -20,8 +23,7 @@ The class version.
 
 ### See Also
 
-* class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

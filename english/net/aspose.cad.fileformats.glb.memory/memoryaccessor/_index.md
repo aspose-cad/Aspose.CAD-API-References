@@ -1,14 +1,18 @@
 ---
-title: Class MemoryAccessor
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.MemoryAccessor class. Wraps a ArraySegment decoding it and exposing its content as arrays of different types
+title: "MemoryAccessor Class"
+linktitle: "MemoryAccessor"
+articleTitle: "MemoryAccessor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Memory.MemoryAccessor class. Wraps a ArraySegment decoding it and exposing its content as arrays of different types."
 type: docs
-weight: 11000
-url: /net/aspose.cad.fileformats.glb.memory/memoryaccessor/
+weight: 90
+url: "/net/aspose.cad.fileformats.glb.memory/memoryaccessor/"
+keywords: "MemoryAccessor, Aspose.CAD.FileFormats.GLB.Memory, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## MemoryAccessor class
 
-Wraps a ArraySegment decoding it and exposing its content as arrays of different types.
+Wraps a `ArraySegment` decoding it and exposing its content as arrays of different types.
 
 ```csharp
 public sealed class MemoryAccessor
@@ -18,7 +22,7 @@ public sealed class MemoryAccessor
 
 | Name | Description |
 | --- | --- |
-| [Data](../../aspose.cad.fileformats.glb.memory/memoryaccessor/data/) { get; } |  |
+| [Data](../../aspose.cad.fileformats.glb.memory/memoryaccessor/data/) { get; } |  |
 
 ## Methods
 
@@ -33,19 +37,15 @@ public sealed class MemoryAccessor
 | [AsVector3Array](../../aspose.cad.fileformats.glb.memory/memoryaccessor/asvector3array/)() |  |
 | [AsVector4Array](../../aspose.cad.fileformats.glb.memory/memoryaccessor/asvector4array/)() |  |
 | [GetItemsAsRawBytes](../../aspose.cad.fileformats.glb.memory/memoryaccessor/getitemsasrawbytes/)() |  |
-| static [HaveOverlappingBuffers](../../aspose.cad.fileformats.glb.memory/memoryaccessor/haveoverlappingbuffers/#haveoverlappingbuffers_1)(IEnumerable&lt;MemoryAccessor&gt;) |  |
-| static [HaveOverlappingBuffers](../../aspose.cad.fileformats.glb.memory/memoryaccessor/haveoverlappingbuffers/#haveoverlappingbuffers)(MemoryAccessor, MemoryAccessor) |  |
-| static [SanitizeVertexAttributes](../../aspose.cad.fileformats.glb.memory/memoryaccessor/sanitizevertexattributes/)(MemoryAccessor[]) |  |
-| static [SanitizeWeightsSum](../../aspose.cad.fileformats.glb.memory/memoryaccessor/sanitizeweightssum/)(MemoryAccessor, MemoryAccessor) |  |
-| static [VerifyAccessorBounds](../../aspose.cad.fileformats.glb.memory/memoryaccessor/verifyaccessorbounds/)(MemoryAccessor, IReadOnlyList&lt;double&gt;, IReadOnlyList&lt;double&gt;) |  |
-| static [VerifyVertexIndices](../../aspose.cad.fileformats.glb.memory/memoryaccessor/verifyvertexindices/)(MemoryAccessor, uint) |  |
-| static [VerifyWeightsSum](../../aspose.cad.fileformats.glb.memory/memoryaccessor/verifyweightssum/)(MemoryAccessor, MemoryAccessor) |  |
-| static [_GetValue&lt;T&gt;](../../aspose.cad.fileformats.glb.memory/memoryaccessor/_getvalue/)(byte[], int) |  |
-| static [_SetValue&lt;T&gt;](../../aspose.cad.fileformats.glb.memory/memoryaccessor/_setvalue/)(byte[], int, T) |  |
+| static [SanitizeWeightsSum](../../aspose.cad.fileformats.glb.memory/memoryaccessor/sanitizeweightssum/)(MemoryAccessor, MemoryAccessor) |  |
+| static [VerifyAccessorBounds](../../aspose.cad.fileformats.glb.memory/memoryaccessor/verifyaccessorbounds/)(MemoryAccessor, IReadOnlyList&lt;double&gt;, IReadOnlyList&lt;double&gt;) |  |
+| static [VerifyVertexIndices](../../aspose.cad.fileformats.glb.memory/memoryaccessor/verifyvertexindices/)(MemoryAccessor, uint) |  |
+| static [VerifyWeightsSum](../../aspose.cad.fileformats.glb.memory/memoryaccessor/verifyweightssum/)(MemoryAccessor, MemoryAccessor) |  |
+| static [_GetValue&lt;T&gt;](../../aspose.cad.fileformats.glb.memory/memoryaccessor/_getvalue/)(byte[], int) |  |
+| static [_SetValue&lt;T&gt;](../../aspose.cad.fileformats.glb.memory/memoryaccessor/_setvalue/)(byte[], int, T) |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
+* assembly [Aspose.CAD](../../)
 

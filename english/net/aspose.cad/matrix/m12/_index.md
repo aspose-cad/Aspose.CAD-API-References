@@ -1,10 +1,13 @@
 ---
-title: Matrix.M12
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix property. Gets the matrix element at first row second column. Represents shear along Y axis
+title: "Matrix.M12"
+linktitle: "M12"
+articleTitle: "M12"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix property. Gets the matrix element at first row second column. Represents shear along Y axis."
 type: docs
-weight: 40
-url: /net/aspose.cad/matrix/m12/
+weight: 260
+url: "/net/aspose.cad/matrix/m12/"
+product_version: "26.9"
 ---
 ## Matrix.M12 property
 
@@ -16,8 +19,7 @@ public float M12 { get; }
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

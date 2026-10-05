@@ -1,10 +1,13 @@
 ---
-title: CadRasterImage.CadRasterImage
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImage constructor. Initializes a new instance of the CadRasterImage class
+title: "CadRasterImage.CadRasterImage"
+linktitle: "CadRasterImage"
+articleTitle: "CadRasterImage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImage constructor. Initializes a new instance of the CadRasterImage class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/cadrasterimage/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/cadrasterimage/"
+product_version: "26.9"
 ---
 ## CadRasterImage() {#constructor}
 
@@ -16,13 +19,13 @@ public CadRasterImage()
 
 ### See Also
 
-* class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
+* class [CadRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## CadRasterImage(CadRasterImageDef, Cad3DPoint, Cad3DPoint, Cad3DPoint) {#constructor_1}
+## CadRasterImage(CadRasterImageDef, Cad3DPoint, Cad3DPoint, Cad3DPoint) {#constructor_1}
 
 Initializes a new instance of the [`CadRasterImage`](../) class.
 
@@ -47,10 +50,9 @@ public CadRasterImage(CadRasterImageDef imageDef, Cad3DPoint insertionPoint, Cad
 
 ### See Also
 
-* class [CadRasterImageDef](../../cadrasterimagedef/)
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImageDef](../../cadrasterimagedef/)
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

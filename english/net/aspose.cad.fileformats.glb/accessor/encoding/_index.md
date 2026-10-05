@@ -1,10 +1,13 @@
 ---
-title: Accessor.Encoding
-second_title: Aspose.CAD for .NET API Reference
-description: Accessor property. Gets the EncodingType of an item
+title: "Accessor.Encoding"
+linktitle: "Encoding"
+articleTitle: "Encoding"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Accessor property. Gets the EncodingType of an item."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.glb/accessor/encoding/
+weight: 250
+url: "/net/aspose.cad.fileformats.glb/accessor/encoding/"
+product_version: "26.9"
 ---
 ## Accessor.Encoding property
 
@@ -16,9 +19,8 @@ public EncodingType Encoding { get; }
 
 ### See Also
 
-* enum [EncodingType](../../encodingtype/)
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [EncodingType](../../encodingtype/)
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

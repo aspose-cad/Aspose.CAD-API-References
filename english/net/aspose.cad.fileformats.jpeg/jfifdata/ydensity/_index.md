@@ -1,10 +1,13 @@
 ---
-title: JFIFData.YDensity
-second_title: Aspose.CAD for .NET API Reference
-description: JFIFData property. Gets or sets the y density
+title: "JFIFData.YDensity"
+linktitle: "YDensity"
+articleTitle: "YDensity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JFIFData property. Gets or sets the y density."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.jpeg/jfifdata/ydensity/
+url: "/net/aspose.cad.fileformats.jpeg/jfifdata/ydensity/"
+product_version: "26.9"
 ---
 ## JFIFData.YDensity property
 
@@ -16,8 +19,7 @@ public short YDensity { get; set; }
 
 ### See Also
 
-* class [JFIFData](../)
-* namespace [Aspose.CAD.FileFormats.Jpeg](../../../aspose.cad.fileformats.jpeg/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JFIFData](../)
+* namespace [Aspose.CAD.FileFormats.Jpeg](../../../aspose.cad.fileformats.jpeg/)
+* assembly [Aspose.CAD](../../../)
 

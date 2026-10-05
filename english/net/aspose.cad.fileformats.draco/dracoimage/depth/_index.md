@@ -1,14 +1,19 @@
 ---
-title: DracoImage.Depth
-second_title: Aspose.CAD for .NET API Reference
-description: DracoImage property. Gets the depth of the image. Calculated as the difference between maximum and minimum values of the Z coordinate amongst all vertices. Minimal allowed depth is 0
+title: "DracoImage.Depth"
+linktitle: "Depth"
+articleTitle: "Depth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DracoImage property. Gets the depth of the image. Calculated as the difference between maximum and minimum values of the Z coordinate amongst all vertices. M..."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.draco/dracoimage/depth/
+weight: 50
+url: "/net/aspose.cad.fileformats.draco/dracoimage/depth/"
+product_version: "26.9"
 ---
 ## DracoImage.Depth property
 
-Gets the depth of the image. Calculated as the difference between maximum and minimum values of the Z coordinate amongst all vertices. Minimal allowed depth is 0.
+Gets the depth of the image.
+ Calculated as the difference between maximum and minimum values of the Z coordinate amongst all vertices.
+ Minimal allowed depth is 0.
 
 ```csharp
 public override int Depth { get; }
@@ -31,8 +36,7 @@ using (DracoImage drcImage = (DracoImage)Image.Load(fileName))
 
 ### See Also
 
-* class [DracoImage](../)
-* namespace [Aspose.CAD.FileFormats.Draco](../../../aspose.cad.fileformats.draco/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DracoImage](../)
+* namespace [Aspose.CAD.FileFormats.Draco](../../../aspose.cad.fileformats.draco/)
+* assembly [Aspose.CAD](../../../)
 

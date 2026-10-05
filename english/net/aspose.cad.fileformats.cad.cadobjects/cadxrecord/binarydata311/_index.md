@@ -1,10 +1,13 @@
 ---
-title: CadXRecord.BinaryData311
-second_title: Aspose.CAD for .NET API Reference
-description: CadXRecord property. Gets or sets the binary data 311
+title: "CadXRecord.BinaryData311"
+linktitle: "BinaryData311"
+articleTitle: "BinaryData311"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadXRecord property. Gets or sets the binary data 311."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadxrecord/binarydata311/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadxrecord/binarydata311/"
+product_version: "26.9"
 ---
 ## CadXRecord.BinaryData311 property
 
@@ -20,8 +23,7 @@ The binary data 311.
 
 ### See Also
 
-* class [CadXRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadXRecord](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

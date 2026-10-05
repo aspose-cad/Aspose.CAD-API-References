@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.TextStringInCell
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the text string in cell
+title: "CadTableCell.TextStringInCell"
+linktitle: "TextStringInCell"
+articleTitle: "TextStringInCell"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the text string in cell."
 type: docs
-weight: 400
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/textstringincell/
+weight: 430
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/textstringincell/"
+product_version: "26.9"
 ---
 ## CadTableCell.TextStringInCell property
 
@@ -20,8 +23,7 @@ The text string in cell.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

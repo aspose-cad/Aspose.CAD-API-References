@@ -1,10 +1,13 @@
 ---
-title: PngOptions.ColorType
-second_title: Aspose.CAD for .NET API Reference
-description: PngOptions property. Gets or sets the type of the color
+title: "PngOptions.ColorType"
+linktitle: "ColorType"
+articleTitle: "ColorType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PngOptions property. Gets or sets the type of the color."
 type: docs
-weight: 30
-url: /net/aspose.cad.imageoptions/pngoptions/colortype/
+weight: 50
+url: "/net/aspose.cad.imageoptions/pngoptions/colortype/"
+product_version: "26.9"
 ---
 ## PngOptions.ColorType property
 
@@ -20,9 +23,8 @@ The type of the color.
 
 ### See Also
 
-* enum [PngColorType](../../../aspose.cad.fileformats.png/pngcolortype/)
-* class [PngOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [PngColorType](../../../aspose.cad.fileformats.png/pngcolortype/)
+* class [PngOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

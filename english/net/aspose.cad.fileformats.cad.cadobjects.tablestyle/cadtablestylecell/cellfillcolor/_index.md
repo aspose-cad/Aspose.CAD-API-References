@@ -1,10 +1,13 @@
 ---
-title: CadTableStyleCell.CellFillColor
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableStyleCell property. Gets or sets the color of the cell fill
+title: "CadTableStyleCell.CellFillColor"
+linktitle: "CellFillColor"
+articleTitle: "CellFillColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableStyleCell property. Gets or sets the color of the cell fill."
 type: docs
 weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/cellfillcolor/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/cellfillcolor/"
+product_version: "26.9"
 ---
 ## CadTableStyleCell.CellFillColor property
 
@@ -20,8 +23,7 @@ The color of the cell fill.
 
 ### See Also
 
-* class [CadTableStyleCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableStyleCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

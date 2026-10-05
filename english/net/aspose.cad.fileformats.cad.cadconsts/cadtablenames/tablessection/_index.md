@@ -1,10 +1,13 @@
 ---
-title: CadTableNames.TablesSection
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableNames field. tables section name
+title: "CadTableNames.TablesSection"
+linktitle: "TablesSection"
+articleTitle: "TablesSection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableNames field. tables section name."
 type: docs
 weight: 210
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/tablessection/
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/tablessection/"
+product_version: "26.9"
 ---
 ## CadTableNames.TablesSection field
 
@@ -16,8 +19,7 @@ public const string TablesSection;
 
 ### See Also
 
-* class [CadTableNames](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableNames](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

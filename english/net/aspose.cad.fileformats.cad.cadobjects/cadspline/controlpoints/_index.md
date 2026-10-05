@@ -1,10 +1,13 @@
 ---
-title: CadSpline.ControlPoints
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpline property. Gets or sets the control points
+title: "CadSpline.ControlPoints"
+linktitle: "ControlPoints"
+articleTitle: "ControlPoints"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpline property. Gets or sets the control points."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspline/controlpoints/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspline/controlpoints/"
+product_version: "26.9"
 ---
 ## CadSpline.ControlPoints property
 
@@ -20,9 +23,8 @@ The control points.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

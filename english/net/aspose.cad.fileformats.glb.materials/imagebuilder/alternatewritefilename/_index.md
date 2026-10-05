@@ -1,10 +1,13 @@
 ---
-title: ImageBuilder.AlternateWriteFileName
-second_title: Aspose.CAD for .NET API Reference
-description: ImageBuilder property. When set to a FileName or a relative File Path it will be used to write the texture
+title: "ImageBuilder.AlternateWriteFileName"
+linktitle: "AlternateWriteFileName"
+articleTitle: "AlternateWriteFileName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageBuilder property. When set to a FileName or a relative File Path, it will be used to write the texture."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.glb.materials/imagebuilder/alternatewritefilename/
+weight: 120
+url: "/net/aspose.cad.fileformats.glb.materials/imagebuilder/alternatewritefilename/"
+product_version: "26.9"
 ---
 ## ImageBuilder.AlternateWriteFileName property
 
@@ -17,13 +20,15 @@ public string AlternateWriteFileName { get; set; }
 ## Remarks
 
 When null, the default file name will be used.
+ 
+ 
 
-if not sure about the image extension, using ".*" as extension will replace the extension with the appropiate one before writing.
+ if not sure about the image extension, using ".*" as extension will replace
+ the extension with the appropiate one before writing.
 
 ### See Also
 
-* class [ImageBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ImageBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

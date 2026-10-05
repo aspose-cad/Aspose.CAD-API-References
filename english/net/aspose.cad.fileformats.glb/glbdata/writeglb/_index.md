@@ -1,14 +1,17 @@
 ---
-title: GlbData.WriteGLB
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Writes this GlbData to a Byte array in GLB format
+title: "GlbData.WriteGLB"
+linktitle: "WriteGLB"
+articleTitle: "WriteGLB"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Writes this GlbData to a Byte array in GLB format."
 type: docs
-weight: 550
-url: /net/aspose.cad.fileformats.glb/glbdata/writeglb/
+weight: 440
+url: "/net/aspose.cad.fileformats.glb/glbdata/writeglb/"
+product_version: "26.9"
 ---
 ## WriteGLB(WriteSettings) {#writeglb}
 
-Writes this [`GlbData`](../) to a Byte array in GLB format.
+Writes this [`GlbData`](../) to a `Byte` array in GLB format.
 
 ```csharp
 public ArraySegment<byte> WriteGLB(WriteSettings settings = null)
@@ -20,20 +23,20 @@ public ArraySegment<byte> WriteGLB(WriteSettings settings = null)
 
 ### Return Value
 
-A Byte array containing a GLB file.
+A `Byte` array containing a GLB file.
 
 ### See Also
 
-* class [WriteSettings](../../writesettings/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
+* class [WriteSettings](../../writesettings/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## WriteGLB(Stream, WriteSettings) {#writeglb_1}
+## WriteGLB(Stream, WriteSettings) {#writeglb_1}
 
-Writes this [`GlbData`](../) to a Stream in GLB format.
+Writes this [`GlbData`](../) to a `Stream` in GLB format.
 
 ```csharp
 public void WriteGLB(Stream stream, WriteSettings settings = null)
@@ -46,9 +49,8 @@ public void WriteGLB(Stream stream, WriteSettings settings = null)
 
 ### See Also
 
-* class [WriteSettings](../../writesettings/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [WriteSettings](../../writesettings/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

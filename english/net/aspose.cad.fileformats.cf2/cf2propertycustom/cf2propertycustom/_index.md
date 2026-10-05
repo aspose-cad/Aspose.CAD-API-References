@@ -1,10 +1,13 @@
 ---
-title: CF2PropertyCustom.CF2PropertyCustom
-second_title: Aspose.CAD for .NET API Reference
-description: CF2PropertyCustom constructor. Initializes a new instance of the CF2PropertyCustom class
+title: "CF2PropertyCustom.CF2PropertyCustom"
+linktitle: "CF2PropertyCustom"
+articleTitle: "CF2PropertyCustom"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2PropertyCustom constructor. Initializes a new instance of the CF2PropertyCustom class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cf2/cf2propertycustom/cf2propertycustom/
+url: "/net/aspose.cad.fileformats.cf2/cf2propertycustom/cf2propertycustom/"
+product_version: "26.9"
 ---
 ## CF2PropertyCustom constructor
 
@@ -16,8 +19,7 @@ public CF2PropertyCustom(string name, string containt)
 
 ### See Also
 
-* class [CF2PropertyCustom](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2PropertyCustom](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

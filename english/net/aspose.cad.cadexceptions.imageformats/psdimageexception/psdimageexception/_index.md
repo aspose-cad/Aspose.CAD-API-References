@@ -1,10 +1,13 @@
 ---
-title: PsdImageException.PsdImageException
-second_title: Aspose.CAD for .NET API Reference
-description: PsdImageException constructor. Initializes a new instance of the PsdImageException class
+title: "PsdImageException.PsdImageException"
+linktitle: "PsdImageException"
+articleTitle: "PsdImageException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PsdImageException constructor. Initializes a new instance of the PsdImageException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.imageformats/psdimageexception/psdimageexception/
+url: "/net/aspose.cad.cadexceptions.imageformats/psdimageexception/psdimageexception/"
+product_version: "26.9"
 ---
 ## PsdImageException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public PsdImageException(string message)
 
 ### See Also
 
-* class [PsdImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
+* class [PsdImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## PsdImageException(string, Exception) {#constructor_1}
+## PsdImageException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`PsdImageException`](../) class.
 
@@ -41,8 +44,7 @@ public PsdImageException(string message, Exception innerException)
 
 ### See Also
 
-* class [PsdImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PsdImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 

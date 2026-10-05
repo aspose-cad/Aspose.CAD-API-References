@@ -1,10 +1,13 @@
 ---
-title: CadSunStudy.SheetSubsetName
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunStudy property. Gets or sets the name of the sheet subset
+title: "CadSunStudy.SheetSubsetName"
+linktitle: "SheetSubsetName"
+articleTitle: "SheetSubsetName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunStudy property. Gets or sets the name of the sheet subset."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/sheetsubsetname/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/sheetsubsetname/"
+product_version: "26.9"
 ---
 ## CadSunStudy.SheetSubsetName property
 
@@ -20,8 +23,7 @@ The name of the sheet subset.
 
 ### See Also
 
-* class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunStudy](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
+* assembly [Aspose.CAD](../../../)
 

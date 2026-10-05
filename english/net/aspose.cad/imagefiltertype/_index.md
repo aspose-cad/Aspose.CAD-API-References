@@ -1,10 +1,13 @@
 ---
-title: Enum ImageFilterType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageFilterType enum. Image filters to use
+title: "ImageFilterType Enum"
+linktitle: "ImageFilterType"
+articleTitle: "ImageFilterType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageFilterType enum. Image filters to use"
 type: docs
-weight: 36200
-url: /net/aspose.cad/imagefiltertype/
+weight: 520
+url: "/net/aspose.cad/imagefiltertype/"
+product_version: "26.9"
 ---
 ## ImageFilterType enumeration
 
@@ -24,7 +27,6 @@ public enum ImageFilterType
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

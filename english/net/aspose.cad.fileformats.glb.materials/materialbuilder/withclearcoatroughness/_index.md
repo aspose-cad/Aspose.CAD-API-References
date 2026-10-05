@@ -1,12 +1,17 @@
 ---
-title: MaterialBuilder.WithClearCoatRoughness
-second_title: Aspose.CAD for .NET API Reference
-description: MaterialBuilder method. 
+title: "MaterialBuilder.WithClearCoatRoughness"
+linktitle: "WithClearCoatRoughness"
+articleTitle: "WithClearCoatRoughness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MaterialBuilder method."
 type: docs
-weight: 200
-url: /net/aspose.cad.fileformats.glb.materials/materialbuilder/withclearcoatroughness/
+weight: 320
+url: "/net/aspose.cad.fileformats.glb.materials/materialbuilder/withclearcoatroughness/"
+product_version: "26.9"
 ---
 ## MaterialBuilder.WithClearCoatRoughness method
+
+
 
 ```csharp
 public MaterialBuilder WithClearCoatRoughness(ImageBuilder imageFile, float roughness)
@@ -14,9 +19,8 @@ public MaterialBuilder WithClearCoatRoughness(ImageBuilder imageFile, float roug
 
 ### See Also
 
-* class [ImageBuilder](../../imagebuilder/)
-* class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MaterialBuilder](../)
+* class [ImageBuilder](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

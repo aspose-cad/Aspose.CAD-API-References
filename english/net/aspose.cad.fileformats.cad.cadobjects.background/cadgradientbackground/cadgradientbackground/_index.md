@@ -1,10 +1,13 @@
 ---
-title: CadGradientBackground.CadGradientBackground
-second_title: Aspose.CAD for .NET API Reference
-description: CadGradientBackground constructor. The default constructor
+title: "CadGradientBackground.CadGradientBackground"
+linktitle: "CadGradientBackground"
+articleTitle: "CadGradientBackground"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGradientBackground constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.background/cadgradientbackground/cadgradientbackground/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.background/cadgradientbackground/cadgradientbackground/"
+product_version: "26.9"
 ---
 ## CadGradientBackground constructor
 
@@ -16,8 +19,7 @@ public CadGradientBackground()
 
 ### See Also
 
-* class [CadGradientBackground](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Background](../../../aspose.cad.fileformats.cad.cadobjects.background/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGradientBackground](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Background](../../../aspose.cad.fileformats.cad.cadobjects.background/)
+* assembly [Aspose.CAD](../../../)
 

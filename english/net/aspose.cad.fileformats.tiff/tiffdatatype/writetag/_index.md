@@ -1,10 +1,13 @@
 ---
-title: TiffDataType.WriteTag
-second_title: Aspose.CAD for .NET API Reference
-description: TiffDataType method. Writes the tag data
+title: "TiffDataType.WriteTag"
+linktitle: "WriteTag"
+articleTitle: "WriteTag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffDataType method. Writes the tag data."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.tiff/tiffdatatype/writetag/
+weight: 50
+url: "/net/aspose.cad.fileformats.tiff/tiffdatatype/writetag/"
+product_version: "26.9"
 ---
 ## TiffDataType.WriteTag method
 
@@ -27,9 +30,8 @@ public void WriteTag(TiffStreamWriter dataStream, long additionalDataOffset)
 
 ### See Also
 
-* class [TiffStreamWriter](../../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/)
-* class [TiffDataType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamWriter](../../../aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/)
+* class [TiffDataType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

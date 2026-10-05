@@ -1,10 +1,13 @@
 ---
-title: Orient.Orient
-second_title: Aspose.CAD for .NET API Reference
-description: Orient constructor. The default constructor
+title: "Orient.Orient"
+linktitle: "Orient"
+articleTitle: "Orient"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Orient constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/orient/orient/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/orient/orient/"
+product_version: "26.9"
 ---
 ## Orient constructor
 
@@ -16,8 +19,7 @@ public Orient()
 
 ### See Also
 
-* class [Orient](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Orient](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: CadMLeaderStyleObject.Attribute141
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyleObject property. 
+title: "CadMLeaderStyleObject.Attribute141"
+linktitle: "Attribute141"
+articleTitle: "Attribute141"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyleObject property."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/attribute141/
+weight: 380
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/attribute141/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyleObject.Attribute141 property
+
+
 
 ```csharp
 public double? Attribute141 { get; set; }
@@ -14,8 +19,7 @@ public double? Attribute141 { get; set; }
 
 ### See Also
 
-* class [CadMLeaderStyleObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyleObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

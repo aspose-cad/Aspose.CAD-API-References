@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSLongitudeRef
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the GPS longitude is east or west longitude
+title: "ExifData.GPSLongitudeRef"
+linktitle: "GPSLongitudeRef"
+articleTitle: "GPSLongitudeRef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the GPS longitude is east or west longitude."
 type: docs
-weight: 550
-url: /net/aspose.cad.exif/exifdata/gpslongituderef/
+weight: 570
+url: "/net/aspose.cad.exif/exifdata/gpslongituderef/"
+product_version: "26.9"
 ---
 ## ExifData.GPSLongitudeRef property
 
@@ -20,8 +23,7 @@ The GPS longitude is east or west longitude.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

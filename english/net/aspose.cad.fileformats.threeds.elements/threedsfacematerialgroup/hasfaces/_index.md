@@ -1,12 +1,17 @@
 ---
-title: ThreeDSFaceMaterialGroup.HasFaces
-second_title: Aspose.CAD for .NET API Reference
-description: ThreeDSFaceMaterialGroup property. 
+title: "ThreeDSFaceMaterialGroup.HasFaces"
+linktitle: "HasFaces"
+articleTitle: "HasFaces"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThreeDSFaceMaterialGroup property."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.threeds.elements/threedsfacematerialgroup/hasfaces/
+url: "/net/aspose.cad.fileformats.threeds.elements/threedsfacematerialgroup/hasfaces/"
+product_version: "26.9"
 ---
 ## ThreeDSFaceMaterialGroup.HasFaces property
+
+
 
 ```csharp
 public bool HasFaces { get; }
@@ -14,8 +19,7 @@ public bool HasFaces { get; }
 
 ### See Also
 
-* class [ThreeDSFaceMaterialGroup](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThreeDSFaceMaterialGroup](../)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
+* assembly [Aspose.CAD](../../../)
 

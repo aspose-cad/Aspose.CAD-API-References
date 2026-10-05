@@ -1,10 +1,13 @@
 ---
-title: CadHatch.NumberOfPatternDefinitions
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the number of pattern definitions
+title: "CadHatch.NumberOfPatternDefinitions"
+linktitle: "NumberOfPatternDefinitions"
+articleTitle: "NumberOfPatternDefinitions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the number of pattern definitions."
 type: docs
 weight: 230
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/numberofpatterndefinitions/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/numberofpatterndefinitions/"
+product_version: "26.9"
 ---
 ## CadHatch.NumberOfPatternDefinitions property
 
@@ -16,8 +19,7 @@ public short NumberOfPatternDefinitions { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

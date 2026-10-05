@@ -1,10 +1,13 @@
 ---
-title: ExifData.FileSource
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the file source type
+title: "ExifData.FileSource"
+linktitle: "FileSource"
+articleTitle: "FileSource"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the file source type."
 type: docs
-weight: 240
-url: /net/aspose.cad.exif/exifdata/filesource/
+weight: 290
+url: "/net/aspose.cad.exif/exifdata/filesource/"
+product_version: "26.9"
 ---
 ## ExifData.FileSource property
 
@@ -20,9 +23,8 @@ The file source type.
 
 ### See Also
 
-* enum [ExifFileSource](../../../aspose.cad.exif.enums/exiffilesource/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ExifFileSource](../../../aspose.cad.exif.enums/exiffilesource/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

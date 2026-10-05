@@ -1,10 +1,13 @@
 ---
-title: CadDimensionDictionary.ContainsKey
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionDictionary method. Determines whether CadDimensionStyleTable contained within this dictionary
+title: "CadDimensionDictionary.ContainsKey"
+linktitle: "ContainsKey"
+articleTitle: "ContainsKey"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionDictionary method. Determines whether CadDimensionStyleTable contained within this dictionary."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad/caddimensiondictionary/containskey/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad/caddimensiondictionary/containskey/"
+product_version: "26.9"
 ---
 ## CadDimensionDictionary.ContainsKey method
 
@@ -24,8 +27,7 @@ True if the current dictionary contains an element with the key; otherwise, fals
 
 ### See Also
 
-* class [CadDimensionDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

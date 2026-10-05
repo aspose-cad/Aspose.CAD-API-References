@@ -1,14 +1,23 @@
 ---
-title: Matrix.TypeQuadrantRotation
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix field. This flag bit indicates that the transform defined by this object performs a quadrant rotation by some multiple of 90 degrees in addition to the conversions indicated by other flag bits. A rotation changes the angles of vectors by the same amount regardless of the original direction of the vector and without changing the length of the vector. This flag bit is mutually exclusive with the TypeGeneralRotation flag
+title: "Matrix.TypeQuadrantRotation"
+linktitle: "TypeQuadrantRotation"
+articleTitle: "TypeQuadrantRotation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix field. This flag bit indicates that the transform defined by this object performs a quadrant rotation by some multiple of 90 degrees in addition to th..."
 type: docs
-weight: 270
-url: /net/aspose.cad/matrix/typequadrantrotation/
+weight: 370
+url: "/net/aspose.cad/matrix/typequadrantrotation/"
+product_version: "26.9"
 ---
 ## Matrix.TypeQuadrantRotation field
 
-This flag bit indicates that the transform defined by this object performs a quadrant rotation by some multiple of 90 degrees in addition to the conversions indicated by other flag bits. A rotation changes the angles of vectors by the same amount regardless of the original direction of the vector and without changing the length of the vector. This flag bit is mutually exclusive with the TypeGeneralRotation flag.
+This flag bit indicates that the transform defined by this object
+ performs a quadrant rotation by some multiple of 90 degrees in
+ addition to the conversions indicated by other flag bits.
+ A rotation changes the angles of vectors by the same amount
+ regardless of the original direction of the vector and without
+ changing the length of the vector.
+ This flag bit is mutually exclusive with the TypeGeneralRotation flag.
 
 ```csharp
 public const int TypeQuadrantRotation;
@@ -16,8 +25,7 @@ public const int TypeQuadrantRotation;
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

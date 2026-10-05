@@ -1,10 +1,13 @@
 ---
-title: MaterialBuilder.WithShader
-second_title: Aspose.CAD for .NET API Reference
-description: MaterialBuilder method. Sets ShaderStyle
+title: "MaterialBuilder.WithShader"
+linktitle: "WithShader"
+articleTitle: "WithShader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MaterialBuilder method. Sets ShaderStyle."
 type: docs
-weight: 320
-url: /net/aspose.cad.fileformats.glb.materials/materialbuilder/withshader/
+weight: 120
+url: "/net/aspose.cad.fileformats.glb.materials/materialbuilder/withshader/"
+product_version: "26.9"
 ---
 ## MaterialBuilder.WithShader method
 
@@ -24,8 +27,7 @@ This [`MaterialBuilder`](../).
 
 ### See Also
 
-* class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MaterialBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

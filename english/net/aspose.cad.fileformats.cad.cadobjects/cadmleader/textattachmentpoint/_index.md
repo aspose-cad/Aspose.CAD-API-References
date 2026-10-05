@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.TextAttachmentPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader property. Gets or sets the text attachment point
+title: "CadMLeader.TextAttachmentPoint"
+linktitle: "TextAttachmentPoint"
+articleTitle: "TextAttachmentPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader property. Gets or sets the text attachment point."
 type: docs
-weight: 320
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/textattachmentpoint/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/textattachmentpoint/"
+product_version: "26.9"
 ---
 ## CadMLeader.TextAttachmentPoint property
 
@@ -20,8 +23,7 @@ The text attachment point.
 
 ### See Also
 
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Node.GetLocalTransform
-second_title: Aspose.CAD for .NET API Reference
-description: Node method. Gets the local transform of this node in a given animation at a given time
+title: "Node.GetLocalTransform"
+linktitle: "GetLocalTransform"
+articleTitle: "GetLocalTransform"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Node method. Gets the local transform of this node in a given animation at a given time."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.glb/node/getlocaltransform/
+weight: 40
+url: "/net/aspose.cad.fileformats.glb/node/getlocaltransform/"
+product_version: "26.9"
 ---
 ## Node.GetLocalTransform method
 
@@ -29,10 +32,9 @@ This is a convenience method, but it's slow, it's better to cache [`GetCurveSamp
 
 ### See Also
 
-* struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
-* class [Animation](../../animation/)
-* class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [AffineTransform](../../../aspose.cad.fileformats.glb.transforms/affinetransform/)
+* class [Animation](../../animation/)
+* class [Node](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

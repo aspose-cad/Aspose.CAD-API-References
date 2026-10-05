@@ -1,10 +1,13 @@
 ---
-title: Point3D.Copy
-second_title: Aspose.CAD for .NET API Reference
-description: Point3D method. Creates copy of current point
+title: "Point3D.Copy"
+linktitle: "Copy"
+articleTitle: "Copy"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point3D method. Creates copy of current point"
 type: docs
-weight: 90
-url: /net/aspose.cad.primitives/point3d/copy/
+weight: 210
+url: "/net/aspose.cad.primitives/point3d/copy/"
+product_version: "26.9"
 ---
 ## Point3D.Copy method
 
@@ -20,8 +23,7 @@ Copy of a point
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

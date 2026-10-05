@@ -1,10 +1,13 @@
 ---
-title: Enum CadGroupCodeTypes
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadGroupCodeTypes enum. Cad group code value types
+title: "CadGroupCodeTypes Enum"
+linktitle: "CadGroupCodeTypes"
+articleTitle: "CadGroupCodeTypes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadGroupCodeTypes enum. Cad group code value types"
 type: docs
-weight: 1320
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadgroupcodetypes/
+weight: 170
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadgroupcodetypes/"
+product_version: "26.9"
 ---
 ## CadGroupCodeTypes enumeration
 
@@ -38,7 +41,6 @@ public enum CadGroupCodeTypes
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

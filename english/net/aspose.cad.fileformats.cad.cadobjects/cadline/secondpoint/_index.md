@@ -1,10 +1,13 @@
 ---
-title: CadLine.SecondPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadLine property. Gets or sets the second Point
+title: "CadLine.SecondPoint"
+linktitle: "SecondPoint"
+articleTitle: "SecondPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLine property. Gets or sets the second Point."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadline/secondpoint/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadline/secondpoint/"
+product_version: "26.9"
 ---
 ## CadLine.SecondPoint property
 
@@ -20,9 +23,8 @@ The Second Point.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

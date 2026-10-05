@@ -1,10 +1,13 @@
 ---
-title: Enum StringFormatFlags
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.StringFormatFlags enum. Specifies the display and layout information for text strings
+title: "StringFormatFlags Enum"
+linktitle: "StringFormatFlags"
+articleTitle: "StringFormatFlags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.StringFormatFlags enum. Specifies the display and layout information for text strings."
 type: docs
-weight: 37320
-url: /net/aspose.cad/stringformatflags/
+weight: 890
+url: "/net/aspose.cad/stringformatflags/"
+product_version: "26.9"
 ---
 ## StringFormatFlags enumeration
 
@@ -31,7 +34,6 @@ public enum StringFormatFlags
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

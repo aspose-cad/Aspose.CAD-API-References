@@ -1,10 +1,14 @@
 ---
-title: Class IfcHeader
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Ifc.Header.IfcHeader class. IfcHeader
+title: "IfcHeader Class"
+linktitle: "IfcHeader"
+articleTitle: "IfcHeader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Ifc.Header.IfcHeader class. IfcHeader"
 type: docs
-weight: 11920
-url: /net/aspose.cad.fileformats.ifc.header/ifcheader/
+weight: 60
+url: "/net/aspose.cad.fileformats.ifc.header/ifcheader/"
+keywords: "IfcHeader, Aspose.CAD.FileFormats.Ifc.Header, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## IfcHeader class
 
@@ -18,19 +22,18 @@ public class IfcHeader
 
 | Name | Description |
 | --- | --- |
-| [IfcHeader](ifcheader/)(List&lt;IIfcHeaderItem&gt;) |  |
+| [IfcHeader](ifcheader/)(List&lt;IIfcHeaderItem&gt;) | Initializes a new instance of the IfcHeader class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.cad.fileformats.ifc.header/ifcheader/description/) { get; set; } | Gets or sets the description property for IFC. |
-| [Name](../../aspose.cad.fileformats.ifc.header/ifcheader/name/) { get; set; } | Gets or sets the name property for IFC. |
-| [Schema](../../aspose.cad.fileformats.ifc.header/ifcheader/schema/) { get; set; } | Gets or sets the schema property for IFC. |
+| [Description](../../aspose.cad.fileformats.ifc.header/ifcheader/description/) { get; set; } | Gets or sets the description property for IFC. |
+| [Name](../../aspose.cad.fileformats.ifc.header/ifcheader/name/) { get; set; } | Gets or sets the name property for IFC. |
+| [Schema](../../aspose.cad.fileformats.ifc.header/ifcheader/schema/) { get; set; } | Gets or sets the schema property for IFC. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../aspose.cad.fileformats.ifc.header/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../aspose.cad.fileformats.ifc.header/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadLwPolyline.Coordinates
-second_title: Aspose.CAD for .NET API Reference
-description: CadLwPolyline property. Gets or sets the coordinates
+title: "CadLwPolyline.Coordinates"
+linktitle: "Coordinates"
+articleTitle: "Coordinates"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLwPolyline property. Gets or sets the coordinates."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlwpolyline/coordinates/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlwpolyline/coordinates/"
+product_version: "26.9"
 ---
 ## CadLwPolyline.Coordinates property
 
@@ -20,9 +23,8 @@ The coordinates.
 
 ### See Also
 
-* class [Cad2DPoint](../../cad2dpoint/)
-* class [CadLwPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../cad2dpoint/)
+* class [CadLwPolyline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IRasterImageRawDataLoader.LoadRawData
-second_title: Aspose.CAD for .NET API Reference
-description: IRasterImageRawDataLoader method. Loads raw data
+title: "IRasterImageRawDataLoader.LoadRawData"
+linktitle: "LoadRawData"
+articleTitle: "LoadRawData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IRasterImageRawDataLoader method. Loads raw data."
 type: docs
-weight: 30
-url: /net/aspose.cad/irasterimagerawdataloader/loadrawdata/
+weight: 10
+url: "/net/aspose.cad/irasterimagerawdataloader/loadrawdata/"
+product_version: "26.9"
 ---
 ## IRasterImageRawDataLoader.LoadRawData method
 
@@ -23,11 +26,10 @@ public void LoadRawData(Rectangle rectangle, RawDataSettings rawDataSettings,
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* class [RawDataSettings](../../rawdatasettings/)
-* interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
-* interface [IRasterImageRawDataLoader](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* class [RawDataSettings](../../rawdatasettings/)
+* interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
+* interface [IRasterImageRawDataLoader](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

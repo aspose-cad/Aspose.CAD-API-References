@@ -1,14 +1,18 @@
 ---
-title: Canvas.CanvasResources
-second_title: Aspose.CAD for .NET API Reference
-description: Canvas property. Gets or sets the canvas resources. Contains the resource dictionary for the Canvas element
+title: "Canvas.CanvasResources"
+linktitle: "CanvasResources"
+articleTitle: "CanvasResources"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Canvas property. Gets or sets the canvas resources. Contains the resource dictionary for the Canvas element."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/canvas/canvasresources/
+weight: 20
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/canvas/canvasresources/"
+product_version: "26.9"
 ---
 ## Canvas.CanvasResources property
 
-Gets or sets the canvas resources. Contains the resource dictionary for the Canvas element.
+Gets or sets the canvas resources.
+ Contains the resource dictionary for the Canvas element.
 
 ```csharp
 public Resources CanvasResources { get; set; }
@@ -16,9 +20,8 @@ public Resources CanvasResources { get; set; }
 
 ### See Also
 
-* class [Resources](../../resources/)
-* class [Canvas](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Resources](../../resources/)
+* class [Canvas](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

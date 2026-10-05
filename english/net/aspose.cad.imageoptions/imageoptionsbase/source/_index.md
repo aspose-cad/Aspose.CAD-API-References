@@ -1,10 +1,13 @@
 ---
-title: ImageOptionsBase.Source
-second_title: Aspose.CAD for .NET API Reference
-description: ImageOptionsBase property. Gets or sets the source to create image in
+title: "ImageOptionsBase.Source"
+linktitle: "Source"
+articleTitle: "Source"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageOptionsBase property. Gets or sets the source to create image in."
 type: docs
-weight: 80
-url: /net/aspose.cad.imageoptions/imageoptionsbase/source/
+weight: 60
+url: "/net/aspose.cad.imageoptions/imageoptionsbase/source/"
+product_version: "26.9"
 ---
 ## ImageOptionsBase.Source property
 
@@ -20,9 +23,8 @@ The source to create image in.
 
 ### See Also
 
-* class [Source](../../../aspose.cad/source/)
-* class [ImageOptionsBase](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Source](../../../aspose.cad/source/)
+* class [ImageOptionsBase](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

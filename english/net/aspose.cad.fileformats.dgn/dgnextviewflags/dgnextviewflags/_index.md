@@ -1,10 +1,13 @@
 ---
-title: DgnExtViewFlags.DgnExtViewFlags
-second_title: Aspose.CAD for .NET API Reference
-description: DgnExtViewFlags constructor. The default constructor
+title: "DgnExtViewFlags.DgnExtViewFlags"
+linktitle: "DgnExtViewFlags"
+articleTitle: "DgnExtViewFlags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnExtViewFlags constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn/dgnextviewflags/dgnextviewflags/
+url: "/net/aspose.cad.fileformats.dgn/dgnextviewflags/dgnextviewflags/"
+product_version: "26.9"
 ---
 ## DgnExtViewFlags constructor
 
@@ -16,8 +19,7 @@ public DgnExtViewFlags()
 
 ### See Also
 
-* class [DgnExtViewFlags](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnExtViewFlags](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

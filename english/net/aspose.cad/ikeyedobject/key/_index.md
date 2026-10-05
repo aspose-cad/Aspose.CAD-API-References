@@ -1,10 +1,13 @@
 ---
-title: IKeyedObject.Key
-second_title: Aspose.CAD for .NET API Reference
-description: IKeyedObject property. Gets the object key
+title: "IKeyedObject.Key"
+linktitle: "Key"
+articleTitle: "Key"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IKeyedObject property. Gets the object key."
 type: docs
 weight: 10
-url: /net/aspose.cad/ikeyedobject/key/
+url: "/net/aspose.cad/ikeyedobject/key/"
+product_version: "26.9"
 ---
 ## IKeyedObject.Key property
 
@@ -20,8 +23,7 @@ The object key.
 
 ### See Also
 
-* interface [IKeyedObject](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IKeyedObject](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: BaseBuilder.Extras
-second_title: Aspose.CAD for .NET API Reference
-description: BaseBuilder property. Gets or sets the custom data of this object
+title: "BaseBuilder.Extras"
+linktitle: "Extras"
+articleTitle: "Extras"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BaseBuilder property. Gets or sets the custom data of this object."
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.glb.geometry/basebuilder/extras/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb.geometry/basebuilder/extras/"
+product_version: "26.9"
 ---
 ## BaseBuilder.Extras property
 
@@ -16,9 +19,8 @@ public JsonContent Extras { get; set; }
 
 ### See Also
 
-* struct [JsonContent](../../../aspose.cad.fileformats.glb.io/jsoncontent/)
-* class [BaseBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [JsonContent](../../../aspose.cad.fileformats.glb.io/jsoncontent/)
+* class [BaseBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Geometry](../../../aspose.cad.fileformats.glb.geometry/)
+* assembly [Aspose.CAD](../../../)
 

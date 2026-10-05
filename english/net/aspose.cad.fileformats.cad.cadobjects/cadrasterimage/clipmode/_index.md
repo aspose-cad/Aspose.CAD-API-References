@@ -1,10 +1,13 @@
 ---
-title: CadRasterImage.ClipMode
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImage property. Gets or sets a value indicating whether clip mode
+title: "CadRasterImage.ClipMode"
+linktitle: "ClipMode"
+articleTitle: "ClipMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImage property. Gets or sets a value indicating whether [clip mode]."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/clipmode/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/clipmode/"
+product_version: "26.9"
 ---
 ## CadRasterImage.ClipMode property
 
@@ -20,8 +23,7 @@ public bool ClipMode { get; set; }
 
 ### See Also
 
-* class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

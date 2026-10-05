@@ -1,10 +1,13 @@
 ---
-title: RasterImage.Rotate
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Rotate image around the center
+title: "RasterImage.Rotate"
+linktitle: "Rotate"
+articleTitle: "Rotate"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Rotate image around the center."
 type: docs
-weight: 380
-url: /net/aspose.cad/rasterimage/rotate/
+weight: 140
+url: "/net/aspose.cad/rasterimage/rotate/"
+product_version: "26.9"
 ---
 ## RasterImage.Rotate method
 
@@ -22,9 +25,8 @@ public abstract void Rotate(float angle, bool resizeProportionally, Color backgr
 
 ### See Also
 
-* struct [Color](../../color/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../color/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

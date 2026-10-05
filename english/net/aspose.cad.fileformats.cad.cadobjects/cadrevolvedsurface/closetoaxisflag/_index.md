@@ -1,10 +1,13 @@
 ---
-title: CadRevolvedSurface.CloseToAxisFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadRevolvedSurface property. Gets or sets a value indicating whether close to axis flag
+title: "CadRevolvedSurface.CloseToAxisFlag"
+linktitle: "CloseToAxisFlag"
+articleTitle: "CloseToAxisFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRevolvedSurface property. Gets or sets a value indicating whether close to axis flag."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/closetoaxisflag/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrevolvedsurface/closetoaxisflag/"
+product_version: "26.9"
 ---
 ## CadRevolvedSurface.CloseToAxisFlag property
 
@@ -16,8 +19,7 @@ public bool CloseToAxisFlag { get; set; }
 
 ### See Also
 
-* class [CadRevolvedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRevolvedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

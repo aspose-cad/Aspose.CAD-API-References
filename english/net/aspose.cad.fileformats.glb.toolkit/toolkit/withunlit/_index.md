@@ -1,10 +1,13 @@
 ---
-title: Toolkit.WithUnlit
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. Initializes this Material instance with Unlit attributes
+title: "Toolkit.WithUnlit"
+linktitle: "WithUnlit"
+articleTitle: "WithUnlit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method. Initializes this Material instance with Unlit attributes."
 type: docs
-weight: 510
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withunlit/
+weight: 400
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withunlit/"
+product_version: "26.9"
 ---
 ## Toolkit.WithUnlit method
 
@@ -24,9 +27,8 @@ This [`Material`](../../../aspose.cad.fileformats.glb/material/) instance.
 
 ### See Also
 
-* class [Material](../../../aspose.cad.fileformats.glb/material/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

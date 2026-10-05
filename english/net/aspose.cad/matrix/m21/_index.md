@@ -1,10 +1,13 @@
 ---
-title: Matrix.M21
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix property. Gets the matrix element at second row first column. Represents shear along X axis
+title: "Matrix.M21"
+linktitle: "M21"
+articleTitle: "M21"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix property. Gets the matrix element at second row first column. Represents shear along X axis."
 type: docs
-weight: 50
-url: /net/aspose.cad/matrix/m21/
+weight: 270
+url: "/net/aspose.cad/matrix/m21/"
+product_version: "26.9"
 ---
 ## Matrix.M21 property
 
@@ -16,8 +19,7 @@ public float M21 { get; }
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

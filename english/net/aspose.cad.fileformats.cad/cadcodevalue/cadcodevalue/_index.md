@@ -1,10 +1,13 @@
 ---
-title: CadCodeValue.CadCodeValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadCodeValue constructor. Initializes a new instance of the CadCodeValue class
+title: "CadCodeValue.CadCodeValue"
+linktitle: "CadCodeValue"
+articleTitle: "CadCodeValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCodeValue constructor. Initializes a new instance of the CadCodeValue class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadcodevalue/cadcodevalue/
+url: "/net/aspose.cad.fileformats.cad/cadcodevalue/cadcodevalue/"
+product_version: "26.9"
 ---
 ## CadCodeValue constructor
 
@@ -21,8 +24,7 @@ public CadCodeValue(int code, string value)
 
 ### See Also
 
-* class [CadCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

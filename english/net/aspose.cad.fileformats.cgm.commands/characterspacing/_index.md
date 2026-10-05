@@ -1,12 +1,18 @@
 ---
-title: Class CharacterSpacing
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterSpacing class. 
+title: "CharacterSpacing Class"
+linktitle: "CharacterSpacing"
+articleTitle: "CharacterSpacing"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.CharacterSpacing class."
 type: docs
-weight: 5120
-url: /net/aspose.cad.fileformats.cgm.commands/characterspacing/
+weight: 390
+url: "/net/aspose.cad.fileformats.cgm.commands/characterspacing/"
+keywords: "CharacterSpacing, Aspose.CAD.FileFormats.Cgm.Commands, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CharacterSpacing class
+
+
 
 ```csharp
 public class CharacterSpacing : Command
@@ -16,30 +22,29 @@ public class CharacterSpacing : Command
 
 | Name | Description |
 | --- | --- |
-| [CharacterSpacing](characterspacing/#constructor)(CgmFile) |  |
-| [CharacterSpacing](characterspacing/#constructor_1)(CgmFile, double) |  |
+| [CharacterSpacing](characterspacing/#constructor)(CgmFile) | Initializes a new instance of the CharacterSpacing class. |
+| [CharacterSpacing](characterspacing/#constructor_1)(CgmFile, double) | Initializes a new instance of the CharacterSpacing class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
-| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
-| [Space](../../aspose.cad.fileformats.cgm.commands/characterspacing/space/) { get; } |  |
+| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
+| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
+| [Space](../../aspose.cad.fileformats.cgm.commands/characterspacing/space/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/characterspacing/readfrombinary/)(IBinaryReader) |  |
-| override [ToString](../../aspose.cad.fileformats.cgm.commands/characterspacing/tostring/)() |  |
-| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/characterspacing/writeasbinary/)(IBinaryWriter) |  |
-| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/characterspacing/writeascleartext/)(IClearTextWriter) |  |
+| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/characterspacing/readfrombinary/)(IBinaryReader) |  |
+| override [ToString](../../aspose.cad.fileformats.cgm.commands/characterspacing/tostring/)() |  |
+| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/characterspacing/writeasbinary/)(IBinaryWriter) |  |
+| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/characterspacing/writeascleartext/)(IClearTextWriter) |  |
 
 ### See Also
 
-* class [Command](../command/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [Command](../command/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadExtrudedSurface.BankFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadExtrudedSurface property. Gets or sets the bank flag
+title: "CadExtrudedSurface.BankFlag"
+linktitle: "BankFlag"
+articleTitle: "BankFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadExtrudedSurface property. Gets or sets the bank flag."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/bankflag/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/bankflag/"
+product_version: "26.9"
 ---
 ## CadExtrudedSurface.BankFlag property
 
@@ -20,8 +23,7 @@ The bank flag.
 
 ### See Also
 
-* class [CadExtrudedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadExtrudedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

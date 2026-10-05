@@ -1,10 +1,13 @@
 ---
-title: CadMText.AttachmentPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadMText property. Gets or sets the attachment point
+title: "CadMText.AttachmentPoint"
+linktitle: "AttachmentPoint"
+articleTitle: "AttachmentPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMText property. Gets or sets the attachment point."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/attachmentpoint/
+weight: 270
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmtext/attachmentpoint/"
+product_version: "26.9"
 ---
 ## CadMText.AttachmentPoint property
 
@@ -20,9 +23,8 @@ The attachment point.
 
 ### See Also
 
-* enum [CadAttachmentPoint](../../../aspose.cad.fileformats.cad.cadconsts/cadattachmentpoint/)
-* class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadAttachmentPoint](../../../aspose.cad.fileformats.cad.cadconsts/cadattachmentpoint/)
+* class [CadMText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

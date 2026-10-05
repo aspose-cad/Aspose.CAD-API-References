@@ -1,10 +1,13 @@
 ---
-title: WmfOptions.BitsPerPixel
-second_title: Aspose.CAD for .NET API Reference
-description: WmfOptions property. Gets or sets the image bits per pixel count
+title: "WmfOptions.BitsPerPixel"
+linktitle: "BitsPerPixel"
+articleTitle: "BitsPerPixel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "WmfOptions property. Gets or sets the image bits per pixel count."
 type: docs
-weight: 20
-url: /net/aspose.cad.imageoptions/wmfoptions/bitsperpixel/
+weight: 40
+url: "/net/aspose.cad.imageoptions/wmfoptions/bitsperpixel/"
+product_version: "26.9"
 ---
 ## WmfOptions.BitsPerPixel property
 
@@ -20,8 +23,7 @@ The image bits per pixel count.
 
 ### See Also
 
-* class [WmfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [WmfOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

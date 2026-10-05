@@ -1,12 +1,17 @@
 ---
-title: Enum PictureDirectory.Type
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.PictureDirectoryType enum. 
+title: "PictureDirectory.Type Enum"
+linktitle: "PictureDirectory.Type"
+articleTitle: "PictureDirectory.Type"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.PictureDirectory.Type enum."
 type: docs
-weight: 6390
-url: /net/aspose.cad.fileformats.cgm.commands/picturedirectory.type/
+weight: 1670
+url: "/net/aspose.cad.fileformats.cgm.commands/picturedirectory.type/"
+product_version: "26.9"
 ---
 ## PictureDirectory.Type enumeration
+
+
 
 ```csharp
 public enum Type
@@ -22,8 +27,7 @@ public enum Type
 
 ### See Also
 
-* class [PictureDirectory](../picturedirectory/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [PictureDirectory](../picturedirectory/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

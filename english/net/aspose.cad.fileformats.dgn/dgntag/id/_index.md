@@ -1,10 +1,13 @@
 ---
-title: DgnTag.Id
-second_title: Aspose.CAD for .NET API Reference
-description: DgnTag property. Gets or sets tag id
+title: "DgnTag.Id"
+linktitle: "Id"
+articleTitle: "Id"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnTag property. Gets or sets tag id"
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.dgn/dgntag/id/
+url: "/net/aspose.cad.fileformats.dgn/dgntag/id/"
+product_version: "26.9"
 ---
 ## DgnTag.Id property
 
@@ -16,8 +19,7 @@ public ushort Id { get; set; }
 
 ### See Also
 
-* class [DgnTag](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnTag](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

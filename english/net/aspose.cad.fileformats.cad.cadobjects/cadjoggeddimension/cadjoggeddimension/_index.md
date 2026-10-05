@@ -1,10 +1,13 @@
 ---
-title: CadJoggedDimension.CadJoggedDimension
-second_title: Aspose.CAD for .NET API Reference
-description: CadJoggedDimension constructor. Initializes a new instance of the CadJoggedDimension class
+title: "CadJoggedDimension.CadJoggedDimension"
+linktitle: "CadJoggedDimension"
+articleTitle: "CadJoggedDimension"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadJoggedDimension constructor. Initializes a new instance of the CadJoggedDimension class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadjoggeddimension/cadjoggeddimension/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadjoggeddimension/cadjoggeddimension/"
+product_version: "26.9"
 ---
 ## CadJoggedDimension constructor
 
@@ -16,8 +19,7 @@ public CadJoggedDimension()
 
 ### See Also
 
-* class [CadJoggedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadJoggedDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

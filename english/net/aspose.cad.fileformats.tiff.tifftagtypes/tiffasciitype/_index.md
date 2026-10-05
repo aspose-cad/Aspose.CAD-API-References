@@ -1,10 +1,14 @@
 ---
-title: Class TiffASCIIType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.TiffTagTypes.TiffASCIIType class. The tiff ascii type
+title: "TiffASCIIType Class"
+linktitle: "TiffASCIIType"
+articleTitle: "TiffASCIIType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.TiffTagTypes.TiffASCIIType class. The tiff ascii type."
 type: docs
-weight: 35630
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/
+weight: 20
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/"
+keywords: "TiffASCIIType, Aspose.CAD.FileFormats.Tiff.TiffTagTypes, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## TiffASCIIType class
 
@@ -25,30 +29,30 @@ public sealed class TiffASCIIType : TiffDataType
 
 | Name | Description |
 | --- | --- |
-| [AlignedDataSize](../../aspose.cad.fileformats.tiff/tiffdatatype/aligneddatasize/) { get; } | Gets the additional data size in bytes (in case the 12 bytes is not enough to fit the tag data). |
-| override [Count](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/count/) { get; } | Gets the count of elements. |
-| override [DataSize](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/datasize/) { get; } | Gets the additional data size in bytes (in case the 12 bytes is not enough to fit the tag data). |
-| [Id](../../aspose.cad.fileformats.tiff/tiffdatatype/id/) { get; } | Gets tag id integer representation. |
-| [IsValid](../../aspose.cad.fileformats.tiff/tiffdatatype/isvalid/) { get; } | Gets a value indicating whether tag data is valid. The valid tag contains data which may be preserved. The invalid tag cannot be stored. |
-| [TagId](../../aspose.cad.fileformats.tiff/tiffdatatype/tagid/) { get; } | Gets the tag id. |
-| override [TagType](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/tagtype/) { get; } | Gets the tag type. |
-| [Text](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/text/) { get; set; } | Gets or sets the text. |
-| override [Value](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/value/) { get; set; } | Gets or sets the value this data type contains. |
+| [AlignedDataSize](../../aspose.cad.fileformats.tiff/tiffdatatype/aligneddatasize/) { get; } | Gets the additional data size in bytes (in case the 12 bytes is not enough to fit the tag data). |
+| override [Count](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/count/) { get; } | Gets the count of elements. |
+| override [DataSize](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/datasize/) { get; } | Gets the additional data size in bytes (in case the 12 bytes is not enough to fit the tag data). |
+| [Id](../../aspose.cad.fileformats.tiff/tiffdatatype/id/) { get; } | Gets tag id integer representation. |
+| [IsValid](../../aspose.cad.fileformats.tiff/tiffdatatype/isvalid/) { get; } | Gets a value indicating whether tag data is valid. The valid tag contains data which may be preserved. The invalid tag cannot be stored. |
+| [TagId](../../aspose.cad.fileformats.tiff/tiffdatatype/tagid/) { get; } | Gets the tag id. |
+| override [TagType](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/tagtype/) { get; } | Gets the tag type. |
+| [Text](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/text/) { get; set; } | Gets or sets the text. |
+| override [Value](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/value/) { get; set; } | Gets or sets the value this data type contains. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [CompareTo](../../aspose.cad.fileformats.tiff/tiffdatatype/compareto/)(object) | Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance precedes, follows, or occurs in the same position in the sort order as the other object. |
-| virtual [DeepClone](../../aspose.cad.fileformats.tiff/tiffdatatype/deepclone/)() | Performs a deep clone of this instance. |
-| override [ToString](../../aspose.cad.fileformats.tiff/tiffdatatype/tostring/)() | Returns a String that represents this instance. |
-| override [WriteAdditionalData](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/writeadditionaldata/)(TiffStreamWriter) | Writes the additional tag data. |
-| [WriteTag](../../aspose.cad.fileformats.tiff/tiffdatatype/writetag/)(TiffStreamWriter, long) | Writes the tag data. |
+| virtual [DeepClone](../../aspose.cad.fileformats.tiff/tiffdatatype/deepclone/)() | Performs a deep clone of this instance. |
+| [GetAlignedDataSize](../../aspose.cad.fileformats.tiff/tiffdatatype/getaligneddatasize/)(byte) | Gets the data size aligned in 4-byte (int) or 8-byte (long) boundary. |
+| override [ToString](../../aspose.cad.fileformats.tiff/tiffdatatype/tostring/)() | Returns a String that represents this instance. |
+| override [WriteAdditionalData](../../aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/writeadditionaldata/)(TiffStreamWriter) | Writes the additional tag data. |
+| [WriteTag](../../aspose.cad.fileformats.tiff/tiffdatatype/writetag/)(TiffStreamWriter, long) | Writes the tag data. |
 
 ### See Also
 
-* class [TiffDataType](../../aspose.cad.fileformats.tiff/tiffdatatype/)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../)
-
+* class [TiffDataType](../../aspose.cad.fileformats.tiff/tiffdatatype/)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadLeader.Coordinates
-second_title: Aspose.CAD for .NET API Reference
-description: CadLeader property. Gets or sets the coordinates
+title: "CadLeader.Coordinates"
+linktitle: "Coordinates"
+articleTitle: "Coordinates"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLeader property. Gets or sets the coordinates."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadleader/coordinates/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadleader/coordinates/"
+product_version: "26.9"
 ---
 ## CadLeader.Coordinates property
 
@@ -20,9 +23,8 @@ The coordinates.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

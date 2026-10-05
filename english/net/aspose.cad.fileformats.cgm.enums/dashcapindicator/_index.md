@@ -1,12 +1,17 @@
 ---
-title: Enum DashCapIndicator
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Enums.DashCapIndicator enum. 
+title: "DashCapIndicator Enum"
+linktitle: "DashCapIndicator"
+articleTitle: "DashCapIndicator"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Enums.DashCapIndicator enum."
 type: docs
-weight: 7180
-url: /net/aspose.cad.fileformats.cgm.enums/dashcapindicator/
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm.enums/dashcapindicator/"
+product_version: "26.9"
 ---
 ## DashCapIndicator enumeration
+
+
 
 ```csharp
 public enum DashCapIndicator
@@ -22,7 +27,6 @@ public enum DashCapIndicator
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: RevHistoryData.Val4
-second_title: Aspose.CAD for .NET API Reference
-description: RevHistoryData property. Gets or sets the val4
+title: "RevHistoryData.Val4"
+linktitle: "Val4"
+articleTitle: "Val4"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RevHistoryData property. Gets or sets the val4."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/val4/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/val4/"
+product_version: "26.9"
 ---
 ## RevHistoryData.Val4 property
 
@@ -20,8 +23,7 @@ The val4.
 
 ### See Also
 
-* class [RevHistoryData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](../../../aspose.cad.fileformats.cad.dwg.revhistory/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RevHistoryData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](../../../aspose.cad.fileformats.cad.dwg.revhistory/)
+* assembly [Aspose.CAD](../../../)
 

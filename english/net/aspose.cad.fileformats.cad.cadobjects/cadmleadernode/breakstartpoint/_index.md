@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderNode.BreakStartPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderNode property. Gets or sets the break start point
+title: "CadMLeaderNode.BreakStartPoint"
+linktitle: "BreakStartPoint"
+articleTitle: "BreakStartPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderNode property. Gets or sets the break start point."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/breakstartpoint/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/breakstartpoint/"
+product_version: "26.9"
 ---
 ## CadMLeaderNode.BreakStartPoint property
 
@@ -20,9 +23,8 @@ The break start point.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMLeaderNode](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMLeaderNode](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

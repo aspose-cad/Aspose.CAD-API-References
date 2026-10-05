@@ -1,10 +1,13 @@
 ---
-title: IfcFileName.Timestamp
-second_title: Aspose.CAD for .NET API Reference
-description: IfcFileName property. Gets or sets the timestamp
+title: "IfcFileName.Timestamp"
+linktitle: "Timestamp"
+articleTitle: "Timestamp"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcFileName property. Gets or sets the timestamp."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.ifc.header/ifcfilename/timestamp/
+weight: 30
+url: "/net/aspose.cad.fileformats.ifc.header/ifcfilename/timestamp/"
+product_version: "26.9"
 ---
 ## IfcFileName.Timestamp property
 
@@ -27,8 +30,7 @@ var timeStamp = fileName.TimeStamp
 
 ### See Also
 
-* class [IfcFileName](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcFileName](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
+* assembly [Aspose.CAD](../../../)
 

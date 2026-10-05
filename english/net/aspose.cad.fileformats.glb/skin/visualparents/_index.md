@@ -1,10 +1,13 @@
 ---
-title: Skin.VisualParents
-second_title: Aspose.CAD for .NET API Reference
-description: Skin property. Gets a collection of Node instances using this Skin
+title: "Skin.VisualParents"
+linktitle: "VisualParents"
+articleTitle: "VisualParents"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Skin property. Gets a collection of Node instances using this Skin."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.glb/skin/visualparents/
+weight: 40
+url: "/net/aspose.cad.fileformats.glb/skin/visualparents/"
+product_version: "26.9"
 ---
 ## Skin.VisualParents property
 
@@ -16,9 +19,8 @@ public IEnumerable<Node> VisualParents { get; }
 
 ### See Also
 
-* class [Node](../../node/)
-* class [Skin](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../../node/)
+* class [Skin](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

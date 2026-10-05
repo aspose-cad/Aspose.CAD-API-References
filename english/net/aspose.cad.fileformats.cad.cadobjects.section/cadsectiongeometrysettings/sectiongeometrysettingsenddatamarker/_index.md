@@ -1,10 +1,13 @@
 ---
-title: CadSectionGeometrySettings.SectionGeometrySettingsEndDataMarker
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionGeometrySettings property. Gets or sets the section geometry settings end data marker
+title: "CadSectionGeometrySettings.SectionGeometrySettingsEndDataMarker"
+linktitle: "SectionGeometrySettingsEndDataMarker"
+articleTitle: "SectionGeometrySettingsEndDataMarker"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionGeometrySettings property. Gets or sets the section geometry settings end data marker."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/sectiongeometrysettingsenddatamarker/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/sectiongeometrysettingsenddatamarker/"
+product_version: "26.9"
 ---
 ## CadSectionGeometrySettings.SectionGeometrySettingsEndDataMarker property
 
@@ -20,8 +23,7 @@ The section geometry settings end data marker.
 
 ### See Also
 
-* class [CadSectionGeometrySettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionGeometrySettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

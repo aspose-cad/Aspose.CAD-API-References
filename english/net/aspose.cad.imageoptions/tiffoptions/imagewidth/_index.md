@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.ImageWidth
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the image width
+title: "TiffOptions.ImageWidth"
+linktitle: "ImageWidth"
+articleTitle: "ImageWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the image width."
 type: docs
-weight: 180
-url: /net/aspose.cad.imageoptions/tiffoptions/imagewidth/
+weight: 620
+url: "/net/aspose.cad.imageoptions/tiffoptions/imagewidth/"
+product_version: "26.9"
 ---
 ## TiffOptions.ImageWidth property
 
@@ -20,8 +23,7 @@ The image width.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

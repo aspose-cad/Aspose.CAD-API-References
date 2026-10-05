@@ -1,10 +1,13 @@
 ---
-title: NonGenericDictionary.NonGenericDictionary
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericDictionary constructor. Initializes a new instance of the NonGenericDictionary class
+title: "NonGenericDictionary.NonGenericDictionary"
+linktitle: "NonGenericDictionary"
+articleTitle: "NonGenericDictionary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericDictionary constructor. Initializes a new instance of the NonGenericDictionary class."
 type: docs
 weight: 10
-url: /net/aspose.cad/nongenericdictionary/nongenericdictionary/
+url: "/net/aspose.cad/nongenericdictionary/nongenericdictionary/"
+product_version: "26.9"
 ---
 ## NonGenericDictionary constructor
 
@@ -20,8 +23,7 @@ public NonGenericDictionary(IDictionary dictionary)
 
 ### See Also
 
-* class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericDictionary](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

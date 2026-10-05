@@ -1,10 +1,13 @@
 ---
-title: CadSeqend.CadSeqend
-second_title: Aspose.CAD for .NET API Reference
-description: CadSeqend constructor. The default constructor
+title: "CadSeqend.CadSeqend"
+linktitle: "CadSeqend"
+articleTitle: "CadSeqend"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSeqend constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadseqend/cadseqend/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadseqend/cadseqend/"
+product_version: "26.9"
 ---
 ## CadSeqend constructor
 
@@ -16,8 +19,7 @@ public CadSeqend()
 
 ### See Also
 
-* class [CadSeqend](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSeqend](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

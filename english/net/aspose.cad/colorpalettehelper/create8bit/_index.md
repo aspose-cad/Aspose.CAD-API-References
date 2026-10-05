@@ -1,10 +1,13 @@
 ---
-title: ColorPaletteHelper.Create8Bit
-second_title: Aspose.CAD for .NET API Reference
-description: ColorPaletteHelper method. Creates the 8 bit color palette
+title: "ColorPaletteHelper.Create8Bit"
+linktitle: "Create8Bit"
+articleTitle: "Create8Bit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColorPaletteHelper method. Creates the 8 bit color palette."
 type: docs
-weight: 30
-url: /net/aspose.cad/colorpalettehelper/create8bit/
+weight: 40
+url: "/net/aspose.cad/colorpalettehelper/create8bit/"
+product_version: "26.9"
 ---
 ## ColorPaletteHelper.Create8Bit method
 
@@ -20,9 +23,8 @@ The 8 bit color palette.
 
 ### See Also
 
-* interface [IColorPalette](../../icolorpalette/)
-* class [ColorPaletteHelper](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IColorPalette](../../icolorpalette/)
+* class [ColorPaletteHelper](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

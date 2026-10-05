@@ -1,14 +1,18 @@
 ---
-title: TechniqueHint.Reference
-second_title: Aspose.CAD for .NET API Reference
-description: TechniqueHint property. Gets or sets the reference. A reference to the technique to use for the specified platform
+title: "TechniqueHint.Reference"
+linktitle: "Reference"
+articleTitle: "Reference"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TechniqueHint property. Gets or sets the reference. A reference to the technique to use for the specified platform."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniquehint/reference/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/techniquehint/reference/"
+product_version: "26.9"
 ---
 ## TechniqueHint.Reference property
 
-Gets or sets the reference. A reference to the technique to use for the specified platform.
+Gets or sets the reference.
+ A reference to the technique to use for the specified platform.
 
 ```csharp
 public string Reference { get; set; }
@@ -16,8 +20,7 @@ public string Reference { get; set; }
 
 ### See Also
 
-* class [TechniqueHint](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TechniqueHint](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

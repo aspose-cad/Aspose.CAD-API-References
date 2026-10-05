@@ -1,10 +1,13 @@
 ---
-title: BezierCurve.BezierCurve
-second_title: Aspose.CAD for .NET API Reference
-description: BezierCurve constructor. The default constructor
+title: "BezierCurve.BezierCurve"
+linktitle: "BezierCurve"
+articleTitle: "BezierCurve"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BezierCurve constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.classes/beziercurve/beziercurve/
+url: "/net/aspose.cad.fileformats.cgm.classes/beziercurve/beziercurve/"
+product_version: "26.9"
 ---
 ## BezierCurve constructor
 
@@ -16,8 +19,7 @@ public BezierCurve()
 
 ### See Also
 
-* class [BezierCurve](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BezierCurve](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../../)
 

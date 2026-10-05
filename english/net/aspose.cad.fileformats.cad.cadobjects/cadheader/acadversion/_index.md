@@ -1,10 +1,13 @@
 ---
-title: CadHeader.AcadVersion
-second_title: Aspose.CAD for .NET API Reference
-description: CadHeader property. Gets the acad version
+title: "CadHeader.AcadVersion"
+linktitle: "AcadVersion"
+articleTitle: "AcadVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHeader property. Gets the acad version."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadheader/acadversion/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadheader/acadversion/"
+product_version: "26.9"
 ---
 ## CadHeader.AcadVersion property
 
@@ -20,9 +23,8 @@ The acad version.
 
 ### See Also
 
-* enum [CadAcadVersion](../../../aspose.cad.fileformats.cad.cadconsts/cadacadversion/)
-* class [CadHeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadAcadVersion](../../../aspose.cad.fileformats.cad.cadconsts/cadacadversion/)
+* class [CadHeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

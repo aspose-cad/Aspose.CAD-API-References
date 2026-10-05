@@ -1,10 +1,13 @@
 ---
-title: CgmFile.GetFigureItemTexts
-second_title: Aspose.CAD for .NET API Reference
-description: CgmFile method. Gets all texts of the figure items
+title: "CgmFile.GetFigureItemTexts"
+linktitle: "GetFigureItemTexts"
+articleTitle: "GetFigureItemTexts"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmFile method. Gets all texts of the figure items."
 type: docs
-weight: 290
-url: /net/aspose.cad.fileformats.cgm/cgmfile/getfigureitemtexts/
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm/cgmfile/getfigureitemtexts/"
+product_version: "26.9"
 ---
 ## CgmFile.GetFigureItemTexts method
 
@@ -16,8 +19,7 @@ public List<string> GetFigureItemTexts(bool ignoreColor)
 
 ### See Also
 
-* class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

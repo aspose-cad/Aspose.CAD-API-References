@@ -1,10 +1,13 @@
 ---
-title: DwfWhipObject.DwfWhipObject
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipObject constructor. The default constructor
+title: "DwfWhipObject.DwfWhipObject"
+linktitle: "DwfWhipObject"
+articleTitle: "DwfWhipObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipObject constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/dwfwhipobject/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/dwfwhipobject/"
+product_version: "26.9"
 ---
 ## DwfWhipObject constructor
 
@@ -16,8 +19,7 @@ public DwfWhipObject()
 
 ### See Also
 
-* class [DwfWhipObject](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipObject](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../../)
 

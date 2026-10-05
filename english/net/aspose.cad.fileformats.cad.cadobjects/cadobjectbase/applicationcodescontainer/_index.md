@@ -1,10 +1,13 @@
 ---
-title: CadObjectBase.ApplicationCodesContainer
-second_title: Aspose.CAD for .NET API Reference
-description: CadObjectBase property. Gets or sets the application defined codes container
+title: "CadObjectBase.ApplicationCodesContainer"
+linktitle: "ApplicationCodesContainer"
+articleTitle: "ApplicationCodesContainer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadObjectBase property. Gets or sets the application defined codes container."
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/"
+product_version: "26.9"
 ---
 ## CadObjectBase.ApplicationCodesContainer property
 
@@ -20,9 +23,8 @@ The application defined codes container.
 
 ### See Also
 
-* class [CadApplicationCodesContainer](../../cadapplicationcodescontainer/)
-* class [CadObjectBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadApplicationCodesContainer](../../cadapplicationcodescontainer/)
+* class [CadObjectBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

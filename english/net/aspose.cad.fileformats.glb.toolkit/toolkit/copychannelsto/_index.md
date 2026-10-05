@@ -1,12 +1,17 @@
 ---
-title: Toolkit.CopyChannelsTo
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. 
+title: "Toolkit.CopyChannelsTo"
+linktitle: "CopyChannelsTo"
+articleTitle: "CopyChannelsTo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method."
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/copychannelsto/
+weight: 480
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/copychannelsto/"
+product_version: "26.9"
 ---
-## CopyChannelsTo(this Material, MaterialBuilder, params string[]) {#copychannelsto}
+## CopyChannelsTo(this Material, MaterialBuilder, params string[]) {#copychannelsto}
+
+
 
 ```csharp
 public static void CopyChannelsTo(this Material srcMaterial, MaterialBuilder dstMaterial, 
@@ -15,15 +20,17 @@ public static void CopyChannelsTo(this Material srcMaterial, MaterialBuilder dst
 
 ### See Also
 
-* class [Material](../../../aspose.cad.fileformats.glb/material/)
-* class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## CopyChannelsTo(this MaterialBuilder, Material, params string[]) {#copychannelsto_1}
+## CopyChannelsTo(this MaterialBuilder, Material, params string[]) {#copychannelsto_1}
+
+
 
 ```csharp
 public static void CopyChannelsTo(this MaterialBuilder srcMaterial, Material dstMaterial, 
@@ -32,10 +39,9 @@ public static void CopyChannelsTo(this MaterialBuilder srcMaterial, Material dst
 
 ### See Also
 
-* class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
-* class [Material](../../../aspose.cad.fileformats.glb/material/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MaterialBuilder](../../../aspose.cad.fileformats.glb.materials/materialbuilder/)
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

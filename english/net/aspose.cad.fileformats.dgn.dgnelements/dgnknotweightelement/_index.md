@@ -1,10 +1,14 @@
 ---
-title: Class DgnKnotWeightElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnKnotWeightElement class. Knot weight element
+title: "DgnKnotWeightElement Class"
+linktitle: "DgnKnotWeightElement"
+articleTitle: "DgnKnotWeightElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnKnotWeightElement class. Knot weight element"
 type: docs
-weight: 8890
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/
+weight: 170
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/"
+keywords: "DgnKnotWeightElement, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnKnotWeightElement class
 
@@ -18,15 +22,14 @@ public abstract class DgnKnotWeightElement : DgnElementBase
 
 | Name | Description |
 | --- | --- |
-| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
-| [Weights](../../aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/weights/) { get; } | Gets or sets weights of knot |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
+| [Weights](../../aspose.cad.fileformats.dgn.dgnelements/dgnknotweightelement/weights/) { get; } | Gets or sets weights of knot |
 
 ### See Also
 
-* class [DgnElementBase](../dgnelementbase/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* class [DgnElementBase](../dgnelementbase/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

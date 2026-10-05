@@ -1,17 +1,20 @@
 ---
-title: PunctualLight.SetColor
-second_title: Aspose.CAD for .NET API Reference
-description: PunctualLight method. Defines the light color intensity and range for the current PunctualLight
+title: "PunctualLight.SetColor"
+linktitle: "SetColor"
+articleTitle: "SetColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PunctualLight method. Defines the light color, intensity and range for the current PunctualLight."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.glb/punctuallight/setcolor/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb/punctuallight/setcolor/"
+product_version: "26.9"
 ---
 ## PunctualLight.SetColor method
 
 Defines the light color, intensity and range for the current [`PunctualLight`](../).
 
 ```csharp
-public void SetColor(Vector3 color, float intensity = 1, float range = Infinity)
+public void SetColor(Vector3 color, float intensity = 1.0, float range = inf)
 ```
 
 | Parameter | Type | Description |
@@ -22,8 +25,7 @@ public void SetColor(Vector3 color, float intensity = 1, float range = Infinity)
 
 ### See Also
 
-* class [PunctualLight](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PunctualLight](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

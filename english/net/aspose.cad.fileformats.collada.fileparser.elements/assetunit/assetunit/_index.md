@@ -1,10 +1,13 @@
 ---
-title: AssetUnit.AssetUnit
-second_title: Aspose.CAD for .NET API Reference
-description: AssetUnit constructor. Initializes a new instance of the AssetUnit class
+title: "AssetUnit.AssetUnit"
+linktitle: "AssetUnit"
+articleTitle: "AssetUnit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AssetUnit constructor. Initializes a new instance of the AssetUnit class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/assetunit/assetunit/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/assetunit/assetunit/"
+product_version: "26.9"
 ---
 ## AssetUnit constructor
 
@@ -16,8 +19,7 @@ public AssetUnit()
 
 ### See Also
 
-* class [AssetUnit](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AssetUnit](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

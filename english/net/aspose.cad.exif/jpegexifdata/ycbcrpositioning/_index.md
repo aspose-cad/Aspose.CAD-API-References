@@ -1,10 +1,13 @@
 ---
-title: JpegExifData.YCbCrPositioning
-second_title: Aspose.CAD for .NET API Reference
-description: JpegExifData property. Gets or sets the position of chrominance components in relation to the luminance component
+title: "JpegExifData.YCbCrPositioning"
+linktitle: "YCbCrPositioning"
+articleTitle: "YCbCrPositioning"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegExifData property. Gets or sets the position of chrominance components in relation to the luminance component."
 type: docs
-weight: 230
-url: /net/aspose.cad.exif/jpegexifdata/ycbcrpositioning/
+weight: 260
+url: "/net/aspose.cad.exif/jpegexifdata/ycbcrpositioning/"
+product_version: "26.9"
 ---
 ## JpegExifData.YCbCrPositioning property
 
@@ -20,9 +23,8 @@ The position of chrominance components in relation to the luminance component.
 
 ### See Also
 
-* enum [ExifYCbCrPositioning](../../../aspose.cad.exif.enums/exifycbcrpositioning/)
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ExifYCbCrPositioning](../../../aspose.cad.exif.enums/exifycbcrpositioning/)
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: SymbolLibraryList.SymbolLibraryList
-second_title: Aspose.CAD for .NET API Reference
-description: SymbolLibraryList constructor. 
+title: "SymbolLibraryList.SymbolLibraryList"
+linktitle: "SymbolLibraryList"
+articleTitle: "SymbolLibraryList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SymbolLibraryList constructor. Initializes a new instance of the SymbolLibraryList class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.commands/symbollibrarylist/symbollibrarylist/
+url: "/net/aspose.cad.fileformats.cgm.commands/symbollibrarylist/symbollibrarylist/"
+product_version: "26.9"
 ---
 ## SymbolLibraryList(CgmFile) {#constructor}
+
+Initializes a new instance of the SymbolLibraryList class.
 
 ```csharp
 public SymbolLibraryList(CgmFile container)
@@ -14,14 +19,16 @@ public SymbolLibraryList(CgmFile container)
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [SymbolLibraryList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [SymbolLibraryList](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## SymbolLibraryList(CgmFile, string[]) {#constructor_1}
+## SymbolLibraryList(CgmFile, string[]) {#constructor_1}
+
+Initializes a new instance of the SymbolLibraryList class.
 
 ```csharp
 public SymbolLibraryList(CgmFile container, string[] names)
@@ -29,9 +36,8 @@ public SymbolLibraryList(CgmFile container, string[] names)
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [SymbolLibraryList](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [SymbolLibraryList](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

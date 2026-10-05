@@ -1,10 +1,13 @@
 ---
-title: Skew.Skew
-second_title: Aspose.CAD for .NET API Reference
-description: Skew constructor. The default constructor
+title: "Skew.Skew"
+linktitle: "Skew"
+articleTitle: "Skew"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Skew constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/skew/skew/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/skew/skew/"
+product_version: "26.9"
 ---
 ## Skew constructor
 
@@ -16,8 +19,7 @@ public Skew()
 
 ### See Also
 
-* class [Skew](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Skew](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

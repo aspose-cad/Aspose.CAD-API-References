@@ -1,10 +1,13 @@
 ---
-title: ExifData.LightSource
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the light source
+title: "ExifData.LightSource"
+linktitle: "LightSource"
+articleTitle: "LightSource"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the light source."
 type: docs
-weight: 770
-url: /net/aspose.cad.exif/exifdata/lightsource/
+weight: 800
+url: "/net/aspose.cad.exif/exifdata/lightsource/"
+product_version: "26.9"
 ---
 ## ExifData.LightSource property
 
@@ -20,9 +23,8 @@ The light source.
 
 ### See Also
 
-* enum [ExifLightSource](../../../aspose.cad.exif.enums/exiflightsource/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ExifLightSource](../../../aspose.cad.exif.enums/exiflightsource/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

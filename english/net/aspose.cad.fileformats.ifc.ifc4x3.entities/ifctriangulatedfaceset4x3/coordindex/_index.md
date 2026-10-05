@@ -1,0 +1,27 @@
+---
+title: "IfcTriangulatedFaceSet4X3.CoordIndex"
+linktitle: "CoordIndex"
+articleTitle: "CoordIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcTriangulatedFaceSet4X3 property."
+type: docs
+weight: 40
+url: "/net/aspose.cad.fileformats.ifc.ifc4x3.entities/ifctriangulatedfaceset4x3/coordindex/"
+product_version: "26.9"
+---
+## IfcTriangulatedFaceSet4X3.CoordIndex property
+
+
+
+```csharp
+public IfcCollection2D<IfcPositiveInteger4X3> CoordIndex { get; set; }
+```
+
+### See Also
+
+* class [IfcCollection2D&lt;T&gt;](../../../aspose.cad.fileformats.ifc/ifccollection2d-1/)
+* class [IfcPositiveInteger4X3](../../../aspose.cad.fileformats.ifc.ifc4x3.types/ifcpositiveinteger4x3/)
+* class [IfcTriangulatedFaceSet4X3](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4X3.Entities](../../../aspose.cad.fileformats.ifc.ifc4x3.entities/)
+* assembly [Aspose.CAD](../../../)
+

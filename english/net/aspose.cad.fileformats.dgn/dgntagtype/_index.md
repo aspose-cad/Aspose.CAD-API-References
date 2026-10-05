@@ -1,10 +1,13 @@
 ---
-title: Enum DgnTagType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnTagType enum. Represents dgn tag type
+title: "DgnTagType Enum"
+linktitle: "DgnTagType"
+articleTitle: "DgnTagType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnTagType enum. Represents dgn tag type"
 type: docs
-weight: 9160
-url: /net/aspose.cad.fileformats.dgn/dgntagtype/
+weight: 180
+url: "/net/aspose.cad.fileformats.dgn/dgntagtype/"
+product_version: "26.9"
 ---
 ## DgnTagType enumeration
 
@@ -24,7 +27,6 @@ public enum DgnTagType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../)
 

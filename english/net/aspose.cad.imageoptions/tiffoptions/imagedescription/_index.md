@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.ImageDescription
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the image description
+title: "TiffOptions.ImageDescription"
+linktitle: "ImageDescription"
+articleTitle: "ImageDescription"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the image description."
 type: docs
-weight: 160
-url: /net/aspose.cad.imageoptions/tiffoptions/imagedescription/
+weight: 300
+url: "/net/aspose.cad.imageoptions/tiffoptions/imagedescription/"
+product_version: "26.9"
 ---
 ## TiffOptions.ImageDescription property
 
@@ -20,8 +23,7 @@ The image description.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

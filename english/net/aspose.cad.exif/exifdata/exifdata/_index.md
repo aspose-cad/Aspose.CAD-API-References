@@ -1,10 +1,13 @@
 ---
-title: ExifData.ExifData
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData constructor. Initializes a new instance of the ExifData class
+title: "ExifData.ExifData"
+linktitle: "ExifData"
+articleTitle: "ExifData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData constructor. Initializes a new instance of the ExifData class."
 type: docs
 weight: 10
-url: /net/aspose.cad.exif/exifdata/exifdata/
+url: "/net/aspose.cad.exif/exifdata/exifdata/"
+product_version: "26.9"
 ---
 ## ExifData() {#constructor}
 
@@ -16,9 +19,9 @@ public ExifData()
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,14 +39,14 @@ public ExifData(TiffDataType[] exifdata)
 
 ### See Also
 
-* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
+* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## ExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
+## ExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
 Initializes a new instance of the [`ExifData`](../) class with data from array.
 
@@ -59,9 +62,8 @@ public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType
 
 ### See Also
 
-* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

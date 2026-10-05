@@ -1,10 +1,13 @@
 ---
-title: CadLeader.HorizontalDirection
-second_title: Aspose.CAD for .NET API Reference
-description: CadLeader property. Gets or sets the horizontal direction
+title: "CadLeader.HorizontalDirection"
+linktitle: "HorizontalDirection"
+articleTitle: "HorizontalDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLeader property. Gets or sets the horizontal direction."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadleader/horizontaldirection/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadleader/horizontaldirection/"
+product_version: "26.9"
 ---
 ## CadLeader.HorizontalDirection property
 
@@ -20,9 +23,8 @@ The horizontal direction.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

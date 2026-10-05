@@ -1,10 +1,13 @@
 ---
-title: CadSingleValueProperty.Attribute
-second_title: Aspose.CAD for .NET API Reference
-description: CadSingleValueProperty property. Gets or sets property attribute
+title: "CadSingleValueProperty.Attribute"
+linktitle: "Attribute"
+articleTitle: "Attribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSingleValueProperty property. Gets or sets property attribute."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad/cadsinglevalueproperty/attribute/
+url: "/net/aspose.cad.fileformats.cad/cadsinglevalueproperty/attribute/"
+product_version: "26.9"
 ---
 ## CadSingleValueProperty.Attribute property
 
@@ -20,9 +23,8 @@ The property attribute.
 
 ### See Also
 
-* enum [CadEntityAttribute](../../cadentityattribute/)
-* class [CadSingleValueProperty](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* class [CadSingleValueProperty](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DgnExtendedViewInfo.ClassMask
-second_title: Aspose.CAD for .NET API Reference
-description: DgnExtendedViewInfo property. Gets class masks
+title: "DgnExtendedViewInfo.ClassMask"
+linktitle: "ClassMask"
+articleTitle: "ClassMask"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnExtendedViewInfo property. Gets class masks"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dgn/dgnextendedviewinfo/classmask/
+weight: 30
+url: "/net/aspose.cad.fileformats.dgn/dgnextendedviewinfo/classmask/"
+product_version: "26.9"
 ---
 ## DgnExtendedViewInfo.ClassMask property
 
@@ -16,8 +19,7 @@ public short ClassMask { get; }
 
 ### See Also
 
-* class [DgnExtendedViewInfo](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnExtendedViewInfo](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace handles Dwf whip objects processing
+title: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font"
+linktitle: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font"
+articleTitle: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace handles Dwf whip objects processing."
 type: docs
-weight: 660
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/
+weight: 10
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service.font/"
+keywords: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace handles Dwf whip objects processing.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -22,5 +30,4 @@ The namespace handles Dwf whip objects processing.
 | [DwfWhipOptionFontStyle](./dwfwhipoptionfontstyle/) | Represents Font option font style |
 | [DwfWhipOptionFontWidthScale](./dwfwhipoptionfontwidthscale/) | Represents font option width scale |
 | [DwfWhipOptionPitch](./dwfwhipoptionpitch/) | Represents Font option pitch |
-
 

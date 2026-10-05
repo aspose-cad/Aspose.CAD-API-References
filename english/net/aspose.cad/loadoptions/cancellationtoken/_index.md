@@ -1,10 +1,13 @@
 ---
-title: LoadOptions.CancellationToken
-second_title: Aspose.CAD for .NET API Reference
-description: LoadOptions property. Token that can be used to interrupt export operation
+title: "LoadOptions.CancellationToken"
+linktitle: "CancellationToken"
+articleTitle: "CancellationToken"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LoadOptions property. Token that can be used to interrupt export operation"
 type: docs
-weight: 20
-url: /net/aspose.cad/loadoptions/cancellationtoken/
+weight: 120
+url: "/net/aspose.cad/loadoptions/cancellationtoken/"
+product_version: "26.9"
 ---
 ## LoadOptions.CancellationToken property
 
@@ -16,8 +19,7 @@ public CancellationToken CancellationToken { get; set; }
 
 ### See Also
 
-* class [LoadOptions](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [LoadOptions](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadFieldData.BinaryDataBufferSize
-second_title: Aspose.CAD for .NET API Reference
-description: CadFieldData property. Gets or sets the size of the binary data buffer
+title: "CadFieldData.BinaryDataBufferSize"
+linktitle: "BinaryDataBufferSize"
+articleTitle: "BinaryDataBufferSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadFieldData property. Gets or sets the size of the binary data buffer."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/binarydatabuffersize/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects.field/cadfielddata/binarydatabuffersize/"
+product_version: "26.9"
 ---
 ## CadFieldData.BinaryDataBufferSize property
 
@@ -20,8 +23,7 @@ The size of the binary data buffer.
 
 ### See Also
 
-* class [CadFieldData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadFieldData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
+* assembly [Aspose.CAD](../../../)
 

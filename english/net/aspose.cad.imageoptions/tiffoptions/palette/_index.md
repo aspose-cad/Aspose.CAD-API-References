@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.Palette
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the color palette
+title: "TiffOptions.Palette"
+linktitle: "Palette"
+articleTitle: "Palette"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the color palette."
 type: docs
-weight: 270
-url: /net/aspose.cad.imageoptions/tiffoptions/palette/
+weight: 230
+url: "/net/aspose.cad.imageoptions/tiffoptions/palette/"
+product_version: "26.9"
 ---
 ## TiffOptions.Palette property
 
@@ -20,9 +23,8 @@ The color palette.
 
 ### See Also
 
-* interface [IColorPalette](../../../aspose.cad/icolorpalette/)
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IColorPalette](../../../aspose.cad/icolorpalette/)
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

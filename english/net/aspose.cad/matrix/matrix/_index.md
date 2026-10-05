@@ -1,10 +1,13 @@
 ---
-title: Matrix.Matrix
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix constructor. Initializes a new instance of the Matrix class as the identity matrix
+title: "Matrix.Matrix"
+linktitle: "Matrix"
+articleTitle: "Matrix"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix constructor. Initializes a new instance of the Matrix class as the identity matrix."
 type: docs
 weight: 10
-url: /net/aspose.cad/matrix/matrix/
+url: "/net/aspose.cad/matrix/matrix/"
+product_version: "26.9"
 ---
 ## Matrix() {#constructor}
 
@@ -16,13 +19,59 @@ public Matrix()
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Matrix(float, float, float, float, float, float) {#constructor_3}
+## Matrix(Rectangle, Point[]) {#constructor_1}
+
+Initializes a new instance of the [`Matrix`](../) class to the geometric transform defined by the specified rectangle and array of points.
+
+```csharp
+public Matrix(Rectangle rect, Point[] plgpts)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | Rectangle | A [`Rectangle`](../../../aspose.cad/rectangle/) structure that represents the rectangle to be transformed. |
+| plgpts | Point[] | An array of three [`Point`](../../../aspose.cad/point/) structures that represents the points of a parallelogram to which the upper-left, upper-right, and lower-left corners of the rectangle is to be transformed. The lower-right corner of the parallelogram is implied by the first three corners. |
+
+### See Also
+
+* struct [Rectangle](../../rectangle/)
+* struct [Point](../../point/)
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## Matrix(RectangleF, PointF[]) {#constructor_2}
+
+Initializes a new instance of the [`Matrix`](../) class to the geometric transform defined by the specified rectangle and array of points.
+
+```csharp
+public Matrix(RectangleF rect, PointF[] plgpts)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | RectangleF | A [`RectangleF`](../../../aspose.cad/rectanglef/) structure that represents the rectangle to be transformed. |
+| plgpts | PointF[] | An array of three [`PointF`](../../../aspose.cad/pointf/) structures that represents the points of a parallelogram to which the upper-left, upper-right, and lower-left corners of the rectangle is to be transformed. The lower-right corner of the parallelogram is implied by the first three corners. |
+
+### See Also
+
+* struct [RectangleF](../../rectanglef/)
+* struct [PointF](../../pointf/)
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## Matrix(float, float, float, float, float, float) {#constructor_3}
 
 Initializes a new instance of the [`Matrix`](../) class.
 
@@ -41,54 +90,7 @@ public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## Matrix(RectangleF, PointF[]) {#constructor_2}
-
-Initializes a new instance of the [`Matrix`](../) class to the geometric transform defined by the specified rectangle and array of points.
-
-```csharp
-public Matrix(RectangleF rect, PointF[] plgpts)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | RectangleF | A [`RectangleF`](../../rectanglef/) structure that represents the rectangle to be transformed. |
-| plgpts | PointF[] | An array of three [`PointF`](../../pointf/) structures that represents the points of a parallelogram to which the upper-left, upper-right, and lower-left corners of the rectangle is to be transformed. The lower-right corner of the parallelogram is implied by the first three corners. |
-
-### See Also
-
-* struct [RectangleF](../../rectanglef/)
-* struct [PointF](../../pointf/)
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## Matrix(Rectangle, Point[]) {#constructor_1}
-
-Initializes a new instance of the [`Matrix`](../) class to the geometric transform defined by the specified rectangle and array of points.
-
-```csharp
-public Matrix(Rectangle rect, Point[] plgpts)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | Rectangle | A [`Rectangle`](../../rectangle/) structure that represents the rectangle to be transformed. |
-| plgpts | Point[] | An array of three [`Point`](../../point/) structures that represents the points of a parallelogram to which the upper-left, upper-right, and lower-left corners of the rectangle is to be transformed. The lower-right corner of the parallelogram is implied by the first three corners. |
-
-### See Also
-
-* struct [Rectangle](../../rectangle/)
-* struct [Point](../../point/)
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

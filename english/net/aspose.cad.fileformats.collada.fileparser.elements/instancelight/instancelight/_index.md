@@ -1,10 +1,13 @@
 ---
-title: InstanceLight.InstanceLight
-second_title: Aspose.CAD for .NET API Reference
-description: InstanceLight constructor. The default constructor
+title: "InstanceLight.InstanceLight"
+linktitle: "InstanceLight"
+articleTitle: "InstanceLight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "InstanceLight constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancelight/instancelight/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/instancelight/instancelight/"
+product_version: "26.9"
 ---
 ## InstanceLight constructor
 
@@ -16,8 +19,7 @@ public InstanceLight()
 
 ### See Also
 
-* class [InstanceLight](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InstanceLight](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

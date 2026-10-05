@@ -1,10 +1,13 @@
 ---
-title: BmpImageException.BmpImageException
-second_title: Aspose.CAD for .NET API Reference
-description: BmpImageException constructor. Initializes a new instance of the BmpImageException class
+title: "BmpImageException.BmpImageException"
+linktitle: "BmpImageException"
+articleTitle: "BmpImageException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BmpImageException constructor. Initializes a new instance of the BmpImageException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.imageformats/bmpimageexception/bmpimageexception/
+url: "/net/aspose.cad.cadexceptions.imageformats/bmpimageexception/bmpimageexception/"
+product_version: "26.9"
 ---
 ## BmpImageException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public BmpImageException(string message)
 
 ### See Also
 
-* class [BmpImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
+* class [BmpImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## BmpImageException(string, Exception) {#constructor_1}
+## BmpImageException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`BmpImageException`](../) class.
 
@@ -41,8 +44,7 @@ public BmpImageException(string message, Exception innerException)
 
 ### See Also
 
-* class [BmpImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BmpImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 

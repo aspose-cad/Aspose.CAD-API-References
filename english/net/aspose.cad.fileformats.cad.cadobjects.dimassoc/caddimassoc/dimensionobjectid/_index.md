@@ -1,10 +1,13 @@
 ---
-title: CadDimAssoc.DimensionObjectId
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimAssoc property. Gets or sets the dimension object identifier
+title: "CadDimAssoc.DimensionObjectId"
+linktitle: "DimensionObjectId"
+articleTitle: "DimensionObjectId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimAssoc property. Gets or sets the dimension object identifier."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/dimensionobjectid/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dimassoc/caddimassoc/dimensionobjectid/"
+product_version: "26.9"
 ---
 ## CadDimAssoc.DimensionObjectId property
 
@@ -20,8 +23,7 @@ The dimension object identifier.
 
 ### See Also
 
-* class [CadDimAssoc](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../../aspose.cad.fileformats.cad.cadobjects.dimassoc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimAssoc](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../../aspose.cad.fileformats.cad.cadobjects.dimassoc/)
+* assembly [Aspose.CAD](../../../)
 

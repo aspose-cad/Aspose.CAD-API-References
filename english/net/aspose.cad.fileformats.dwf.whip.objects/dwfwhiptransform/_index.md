@@ -1,10 +1,14 @@
 ---
-title: Class DwfWhipTransform
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfWhipTransform class. Represents transform of scene
+title: "DwfWhipTransform Class"
+linktitle: "DwfWhipTransform"
+articleTitle: "DwfWhipTransform"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfWhipTransform class. Represents transform of scene"
 type: docs
-weight: 9930
-url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/
+weight: 80
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/"
+keywords: "DwfWhipTransform, Aspose.CAD.FileFormats.Dwf.Whip.Objects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DwfWhipTransform class
 
@@ -19,16 +23,16 @@ public class DwfWhipTransform
 | Name | Description |
 | --- | --- |
 | [DwfWhipTransform](dwfwhiptransform/#constructor)() | Initializes a new instance of the `DwfWhipTransform` class |
-| [DwfWhipTransform](dwfwhiptransform/#constructor_1)(DwfWhipLogicalPoint, double, double, long) | Initializes a new instance of the `DwfWhipTransform` class |
+| [DwfWhipTransform](dwfwhiptransform/#constructor_1)(DwfWhipLogicalPoint, double, double, long) | Initializes a new instance of the `DwfWhipTransform` class |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Rotation](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/rotation/) { get; set; } | Gets or sets rotation angle |
-| [Translate](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/translate/) { get; set; } | Gets or sets translate |
-| [XScale](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/xscale/) { get; set; } | Gets or sets scale by x axis |
-| [YScale](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/yscale/) { get; set; } | Gets or sets scale by y axis |
+| [Rotation](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/rotation/) { get; set; } | Gets or sets rotation angle |
+| [Translate](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/translate/) { get; set; } | Gets or sets translate |
+| [XScale](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/xscale/) { get; set; } | Gets or sets scale by x axis |
+| [YScale](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiptransform/yscale/) { get; set; } | Gets or sets scale by y axis |
 
 ## Methods
 
@@ -38,7 +42,6 @@ public class DwfWhipTransform
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../)
 

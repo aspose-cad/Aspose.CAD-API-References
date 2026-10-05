@@ -1,12 +1,15 @@
 ---
-title: Struct ColorRGB
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Iges.CommonDefinitions.ColorRGB struct. Structure that defines RGB color
+title: "ColorRGB Struct"
+linktitle: "ColorRGB"
+articleTitle: "ColorRGB"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Iges.CommonDefinitions.ColorRGB struct. Structure that defines RGB color"
 type: docs
-weight: 33600
-url: /net/aspose.cad.fileformats.iges.commondefinitions/colorrgb/
+weight: 20
+url: "/net/aspose.cad.fileformats.iges.commondefinitions/colorrgb/"
+product_version: "26.9"
 ---
-## ColorRGB structure
+## ColorRGB struct
 
 Structure that defines RGB color
 
@@ -18,19 +21,18 @@ public struct ColorRGB
 
 | Name | Description |
 | --- | --- |
-| [ColorRGB](colorrgb/)(byte, byte, byte) | Constructor for ColorRGB from separate R,G and B |
+| [ColorRGB](colorrgb/)(byte, byte, byte) | Constructor for ColorRGB from separate R,G and B |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| readonly [Blue](../../aspose.cad.fileformats.iges.commondefinitions/colorrgb/blue/) | B component |
-| readonly [Green](../../aspose.cad.fileformats.iges.commondefinitions/colorrgb/green/) | G component |
-| readonly [Red](../../aspose.cad.fileformats.iges.commondefinitions/colorrgb/red/) | R component |
+| Blue | B component |
+| Green | G component |
+| Red | R component |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Iges.CommonDefinitions](../../aspose.cad.fileformats.iges.commondefinitions/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Iges.CommonDefinitions](../../aspose.cad.fileformats.iges.commondefinitions/)
+* assembly [Aspose.CAD](../../)
 

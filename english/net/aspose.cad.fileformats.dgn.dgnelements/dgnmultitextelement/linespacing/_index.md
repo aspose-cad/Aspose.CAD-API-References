@@ -1,10 +1,13 @@
 ---
-title: DgnMultiTextElement.LineSpacing
-second_title: Aspose.CAD for .NET API Reference
-description: DgnMultiTextElement property. Gets line spacing
+title: "DgnMultiTextElement.LineSpacing"
+linktitle: "LineSpacing"
+articleTitle: "LineSpacing"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnMultiTextElement property. Gets line spacing"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/linespacing/
+weight: 40
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/linespacing/"
+product_version: "26.9"
 ---
 ## DgnMultiTextElement.LineSpacing property
 
@@ -16,8 +19,7 @@ public int LineSpacing { get; }
 
 ### See Also
 
-* class [DgnMultiTextElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnMultiTextElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

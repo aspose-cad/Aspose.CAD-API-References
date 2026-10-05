@@ -1,10 +1,13 @@
 ---
-title: GltfImageBase.Depth
-second_title: Aspose.CAD for .NET API Reference
-description: GltfImageBase property. Gets the image depth
+title: "GltfImageBase.Depth"
+linktitle: "Depth"
+articleTitle: "Depth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GltfImageBase property. Gets the image depth."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.glb/gltfimagebase/depth/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb/gltfimagebase/depth/"
+product_version: "26.9"
 ---
 ## GltfImageBase.Depth property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's depth: " + drawing.Depth);
 
 ### See Also
 
-* class [GltfImageBase](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GltfImageBase](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

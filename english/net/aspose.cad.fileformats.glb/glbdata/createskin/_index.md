@@ -1,14 +1,18 @@
 ---
-title: GlbData.CreateSkin
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates a new Skin instance and adds it to LogicalSkins
+title: "GlbData.CreateSkin"
+linktitle: "CreateSkin"
+articleTitle: "CreateSkin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Creates a new Skin instance and adds it to LogicalSkins."
 type: docs
-weight: 370
-url: /net/aspose.cad.fileformats.glb/glbdata/createskin/
+weight: 330
+url: "/net/aspose.cad.fileformats.glb/glbdata/createskin/"
+product_version: "26.9"
 ---
 ## GlbData.CreateSkin method
 
-Creates a new [`Skin`](../../skin/) instance and adds it to [`LogicalSkins`](../logicalskins/).
+Creates a new [`Skin`](../../skin/) instance
+ and adds it to [`LogicalSkins`](../logicalskins/).
 
 ```csharp
 public Skin CreateSkin(string name = null)
@@ -24,9 +28,8 @@ A [`Skin`](../../skin/) instance.
 
 ### See Also
 
-* class [Skin](../../skin/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Skin](../../skin/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

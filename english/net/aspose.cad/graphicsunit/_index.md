@@ -1,10 +1,13 @@
 ---
-title: Enum GraphicsUnit
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.GraphicsUnit enum. Specifies the unit of measure for the given data
+title: "GraphicsUnit Enum"
+linktitle: "GraphicsUnit"
+articleTitle: "GraphicsUnit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.GraphicsUnit enum. Specifies the unit of measure for the given data."
 type: docs
-weight: 35990
-url: /net/aspose.cad/graphicsunit/
+weight: 300
+url: "/net/aspose.cad/graphicsunit/"
+product_version: "26.9"
 ---
 ## GraphicsUnit enumeration
 
@@ -28,7 +31,6 @@ public enum GraphicsUnit
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

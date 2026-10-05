@@ -1,10 +1,13 @@
 ---
-title: TiffIfdType.TiffIfdType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffIfdType constructor. Initializes a new instance of the TiffIfdType class
+title: "TiffIfdType.TiffIfdType"
+linktitle: "TiffIfdType"
+articleTitle: "TiffIfdType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffIfdType constructor. Initializes a new instance of the TiffIfdType class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffifdtype/tiffifdtype/
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffifdtype/tiffifdtype/"
+product_version: "26.9"
 ---
 ## TiffIfdType(TiffTags) {#constructor}
 
@@ -20,10 +23,10 @@ public TiffIfdType(TiffTags tagId)
 
 ### See Also
 
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffIfdType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffIfdType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public TiffIfdType(ushort tagId)
 
 ### See Also
 
-* class [TiffIfdType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffIfdType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

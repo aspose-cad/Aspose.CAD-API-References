@@ -1,10 +1,14 @@
 ---
-title: Class TiffExifIfd
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.TiffExifIfd class. The TIFF Exif image file directory class
+title: "TiffExifIfd Class"
+linktitle: "TiffExifIfd"
+articleTitle: "TiffExifIfd"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.TiffExifIfd class. The TIFF Exif image file directory class."
 type: docs
-weight: 35600
-url: /net/aspose.cad.fileformats.tiff/tiffexififd/
+weight: 30
+url: "/net/aspose.cad.fileformats.tiff/tiffexififd/"
+keywords: "TiffExifIfd, Aspose.CAD.FileFormats.Tiff, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## TiffExifIfd class
 
@@ -25,16 +29,17 @@ public class TiffExifIfd
 
 | Name | Description |
 | --- | --- |
-| [HasValue](../../aspose.cad.fileformats.tiff/tiffexififd/hasvalue/) { get; } | Gets a value indicating whether this instance has value. |
-| [Offset](../../aspose.cad.fileformats.tiff/tiffexififd/offset/) { get; set; } | Gets or sets the pointer to EXIF IFD. |
+| [HasValue](../../aspose.cad.fileformats.tiff/tiffexififd/hasvalue/) { get; } | Gets a value indicating whether this instance has value. |
+| [Offset](../../aspose.cad.fileformats.tiff/tiffexififd/offset/) { get; set; } | Gets or sets the pointer to EXIF IFD. |
 
 ## Remarks
 
-Incapsulates a pointer to the Exif IFD. Interoperability, Exif IFD has the same structure as that of the IFD specified in TIFF. ordinarily, however, it does not contain image data as in the case of TIFF. See http://www.exiv2.org/tags.html and http://www.awaresystems.be/imaging/tiff/tifftags/exififd.html for more details.
+Incapsulates a pointer to the Exif IFD. Interoperability, Exif IFD has the same structure as that of 
+ the IFD specified in TIFF. ordinarily, however, it does not contain image data as in the case of TIFF.
+ See http://www.exiv2.org/tags.html and http://www.awaresystems.be/imaging/tiff/tifftags/exififd.html for more details.
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff](../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff](../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Cad3DFace.EdgesVisible
-second_title: Aspose.CAD for .NET API Reference
-description: Cad3DFace property. Gets or sets the visibility of edges
+title: "Cad3DFace.EdgesVisible"
+linktitle: "EdgesVisible"
+articleTitle: "EdgesVisible"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad3DFace property. Gets or sets the visibility of edges."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dface/edgesvisible/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad3dface/edgesvisible/"
+product_version: "26.9"
 ---
 ## Cad3DFace.EdgesVisible property
 
@@ -16,12 +19,16 @@ public short EdgesVisible { get; set; }
 
 ### Property Value
 
-The edges visible. Invisible edge flags: 1 = First edge is invisible 2 = Second edge is invisible 4 = Third edge is invisible 8 = Fourth edge is invisible
+The edges visible.
+ Invisible edge flags:
+ 1 = First edge is invisible
+ 2 = Second edge is invisible
+ 4 = Third edge is invisible
+ 8 = Fourth edge is invisible
 
 ### See Also
 
-* class [Cad3DFace](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DFace](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: EllipseElement.ReadFromBinary
-second_title: Aspose.CAD for .NET API Reference
-description: EllipseElement method. 
+title: "EllipseElement.ReadFromBinary"
+linktitle: "ReadFromBinary"
+articleTitle: "ReadFromBinary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "EllipseElement method."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cgm.commands/ellipseelement/readfrombinary/
+weight: 40
+url: "/net/aspose.cad.fileformats.cgm.commands/ellipseelement/readfrombinary/"
+product_version: "26.9"
 ---
 ## EllipseElement.ReadFromBinary method
+
+
 
 ```csharp
 public override void ReadFromBinary(IBinaryReader reader)
@@ -14,9 +19,8 @@ public override void ReadFromBinary(IBinaryReader reader)
 
 ### See Also
 
-* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
-* class [EllipseElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
+* class [EllipseElement](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

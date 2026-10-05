@@ -1,14 +1,18 @@
 ---
-title: Enum CadPlotPaperUnits
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotPaperUnits enum. Plot paper units. CadPlotSettings
+title: "CadPlotPaperUnits Enum"
+linktitle: "CadPlotPaperUnits"
+articleTitle: "CadPlotPaperUnits"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotPaperUnits enum. Plot paper units. CadPlotSettings"
 type: docs
-weight: 1490
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadplotpaperunits/
+weight: 430
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadplotpaperunits/"
+product_version: "26.9"
 ---
 ## CadPlotPaperUnits enumeration
 
-Plot paper units. [`CadPlotSettings`](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
+Plot paper units.
+ [`CadPlotSettings`](../../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
 
 ```csharp
 public enum CadPlotPaperUnits : short
@@ -24,7 +28,6 @@ public enum CadPlotPaperUnits : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

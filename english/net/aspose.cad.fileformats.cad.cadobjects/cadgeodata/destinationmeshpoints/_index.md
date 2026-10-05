@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.DestinationMeshPoints
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the destination mesh points
+title: "CadGeoData.DestinationMeshPoints"
+linktitle: "DestinationMeshPoints"
+articleTitle: "DestinationMeshPoints"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the destination mesh points."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/destinationmeshpoints/
+weight: 250
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/destinationmeshpoints/"
+product_version: "26.9"
 ---
 ## CadGeoData.DestinationMeshPoints property
 
@@ -20,9 +23,8 @@ The destination mesh points.
 
 ### See Also
 
-* class [Cad2DPoint](../../cad2dpoint/)
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../cad2dpoint/)
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

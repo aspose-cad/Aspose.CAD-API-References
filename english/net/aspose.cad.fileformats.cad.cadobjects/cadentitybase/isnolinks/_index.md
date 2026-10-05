@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.IsNoLinks
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets a value indicating that the entity has no links
+title: "CadEntityBase.IsNoLinks"
+linktitle: "IsNoLinks"
+articleTitle: "IsNoLinks"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets a value indicating that the entity has no links."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/isnolinks/
+weight: 300
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/isnolinks/"
+product_version: "26.9"
 ---
 ## CadEntityBase.IsNoLinks property
 
@@ -20,12 +23,11 @@ public bool IsNoLinks { get; set; }
 
 ## Remarks
 
-For versions AC1018 and later, this value is always true (links are not used).
+For versions `AC1018` and later, this value is always true (links are not used).
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ParametricCurves.ParametricCurves
-second_title: Aspose.CAD for .NET API Reference
-description: ParametricCurves constructor. The default constructor
+title: "ParametricCurves.ParametricCurves"
+linktitle: "ParametricCurves"
+articleTitle: "ParametricCurves"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ParametricCurves constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/parametriccurves/parametriccurves/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/parametriccurves/parametriccurves/"
+product_version: "26.9"
 ---
 ## ParametricCurves constructor
 
@@ -16,8 +19,7 @@ public ParametricCurves()
 
 ### See Also
 
-* class [ParametricCurves](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ParametricCurves](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

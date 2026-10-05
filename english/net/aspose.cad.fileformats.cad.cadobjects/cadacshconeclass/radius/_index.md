@@ -1,10 +1,13 @@
 ---
-title: CadAcshConeClass.Radius
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcshConeClass property. The radius
+title: "CadAcshConeClass.Radius"
+linktitle: "Radius"
+articleTitle: "Radius"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcshConeClass property. The radius"
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshconeclass/radius/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshconeclass/radius/"
+product_version: "26.9"
 ---
 ## CadAcshConeClass.Radius property
 
@@ -16,8 +19,7 @@ public double Radius { get; set; }
 
 ### See Also
 
-* class [CadAcshConeClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcshConeClass](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

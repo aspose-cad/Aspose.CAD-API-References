@@ -1,10 +1,13 @@
 ---
-title: CadXdata.DataList
-second_title: Aspose.CAD for .NET API Reference
-description: CadXdata property. Gets or sets the data list
+title: "CadXdata.DataList"
+linktitle: "DataList"
+articleTitle: "DataList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadXdata property. Gets or sets the data list."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadxdata/datalist/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadxdata/datalist/"
+product_version: "26.9"
 ---
 ## CadXdata.DataList property
 
@@ -20,9 +23,8 @@ The data list.
 
 ### See Also
 
-* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
-* class [CadXdata](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
+* class [CadXdata](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadMaterial.FinalGatherMode
-second_title: Aspose.CAD for .NET API Reference
-description: CadMaterial property. Gets or sets the final gather mode
+title: "CadMaterial.FinalGatherMode"
+linktitle: "FinalGatherMode"
+articleTitle: "FinalGatherMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMaterial property. Gets or sets the final gather mode."
 type: docs
-weight: 320
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/finalgathermode/
+weight: 340
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/finalgathermode/"
+product_version: "26.9"
 ---
 ## CadMaterial.FinalGatherMode property
 
@@ -20,8 +23,7 @@ The final gather mode.
 
 ### See Also
 
-* class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMaterial](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: Toolkit.ToSceneBuilder
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. 
+title: "Toolkit.ToSceneBuilder"
+linktitle: "ToSceneBuilder"
+articleTitle: "ToSceneBuilder"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method."
 type: docs
 weight: 130
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/toscenebuilder/
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/toscenebuilder/"
+product_version: "26.9"
 ---
 ## Toolkit.ToSceneBuilder method
+
+
 
 ```csharp
 public static SceneBuilder ToSceneBuilder(this Scene srcScene)
@@ -14,10 +19,9 @@ public static SceneBuilder ToSceneBuilder(this Scene srcScene)
 
 ### See Also
 
-* class [SceneBuilder](../../../aspose.cad.fileformats.glb.scenes/scenebuilder/)
-* class [Scene](../../../aspose.cad.fileformats.glb/scene/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SceneBuilder](../../../aspose.cad.fileformats.glb.scenes/scenebuilder/)
+* class [Scene](../../../aspose.cad.fileformats.glb/scene/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

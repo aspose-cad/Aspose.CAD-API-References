@@ -1,14 +1,17 @@
 ---
-title: Enum ColorMatrixFlag
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ColorMatrixFlag enum. Specifies the types of images and colors that will be affected by the color and grayscale adjustment settings of an ImageAttributes
+title: "ColorMatrixFlag Enum"
+linktitle: "ColorMatrixFlag"
+articleTitle: "ColorMatrixFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ColorMatrixFlag enum. Specifies the types of images and colors that will be affected by the color and grayscale adjustment settings of an !:ImageA..."
 type: docs
-weight: 420
-url: /net/aspose.cad/colormatrixflag/
+weight: 130
+url: "/net/aspose.cad/colormatrixflag/"
+product_version: "26.9"
 ---
 ## ColorMatrixFlag enumeration
 
-Specifies the types of images and colors that will be affected by the color and grayscale adjustment settings of an !:ImageAttributes.
+Specifies the types of images and colors that will be affected by the color and grayscale adjustment settings of an `!:ImageAttributes`.
 
 ```csharp
 public enum ColorMatrixFlag
@@ -24,7 +27,6 @@ public enum ColorMatrixFlag
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

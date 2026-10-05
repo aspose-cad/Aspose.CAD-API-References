@@ -1,10 +1,13 @@
 ---
-title: CadTableNames.BlockRecordTable
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableNames field. block records
+title: "CadTableNames.BlockRecordTable"
+linktitle: "BlockRecordTable"
+articleTitle: "BlockRecordTable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableNames field. block records."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/blockrecordtable/
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/blockrecordtable/"
+product_version: "26.9"
 ---
 ## CadTableNames.BlockRecordTable field
 
@@ -16,8 +19,7 @@ public const string BlockRecordTable;
 
 ### See Also
 
-* class [CadTableNames](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableNames](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

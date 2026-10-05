@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains Cad Hatch entities and their elements
+title: "Aspose.CAD.FileFormats.Cad.CadObjects.Hatch"
+linktitle: "Aspose.CAD.FileFormats.Cad.CadObjects.Hatch"
+articleTitle: "Aspose.CAD.FileFormats.Cad.CadObjects.Hatch"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains Cad Hatch entities and their elements."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/
+weight: 10
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/"
+keywords: "Aspose.CAD.FileFormats.Cad.CadObjects.Hatch, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains Cad Hatch entities and their elements.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -22,11 +30,11 @@ The namespace contains Cad Hatch entities and their elements.
 | [CadHatchPatternData](./cadhatchpatterndata/) | Cad hatch pattern class |
 | [CadPolylineBoundaryPath](./cadpolylineboundarypath/) | The Cad polyline boundary path. |
 | [CadReservedForFutureValues](./cadreservedforfuturevalues/) | The reserved for future values |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [ICadBoundaryPath](./icadboundarypath/) | The Cad boundary path. |
 | [ICadBoundaryPathEntity](./icadboundarypathentity/) | The Cad boundary path entity interface. |
-
 

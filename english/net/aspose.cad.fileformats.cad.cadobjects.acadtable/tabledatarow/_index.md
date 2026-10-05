@@ -1,10 +1,14 @@
 ---
-title: Class TableDataRow
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable.TableDataRow class. The cad linked table row data
+title: "TableDataRow Class"
+linktitle: "TableDataRow"
+articleTitle: "TableDataRow"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable.TableDataRow class. The cad linked table row data"
 type: docs
-weight: 1800
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/"
+keywords: "TableDataRow, Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## TableDataRow class
 
@@ -24,16 +28,15 @@ public class TableDataRow
 
 | Name | Description |
 | --- | --- |
-| [Cells](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/cells/) { get; set; } | The linked table cells data |
-| [CellStyle](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/cellstyle/) { get; set; } | The row cell style data |
-| [CustomData](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/customdata/) { get; set; } | The custom data |
-| [CustomDataCollection](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/customdatacollection/) { get; set; } | The row custom data collection |
-| [Height](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/height/) { get; set; } | The row height |
-| [StyleId](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/styleid/) { get; set; } | The row style id |
+| [CellStyle](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/cellstyle/) { get; set; } | The row cell style data |
+| [Cells](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/cells/) { get; set; } | The linked table cells data |
+| [CustomData](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/customdata/) { get; set; } | The custom data |
+| [CustomDataCollection](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/customdatacollection/) { get; set; } | The row custom data collection |
+| [Height](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/height/) { get; set; } | The row height |
+| [StyleId](../../aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatarow/styleid/) { get; set; } | The row style id |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../)
 

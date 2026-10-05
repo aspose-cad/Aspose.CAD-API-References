@@ -1,10 +1,13 @@
 ---
-title: Enum DwfMergeType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfMergeType enum. The DWF merge type
+title: "DwfMergeType Enum"
+linktitle: "DwfMergeType"
+articleTitle: "DwfMergeType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfMergeType enum. The DWF merge type."
 type: docs
-weight: 9240
-url: /net/aspose.cad.fileformats.dwf/dwfmergetype/
+weight: 60
+url: "/net/aspose.cad.fileformats.dwf/dwfmergetype/"
+product_version: "26.9"
 ---
 ## DwfMergeType enumeration
 
@@ -24,7 +27,6 @@ public enum DwfMergeType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf](../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf](../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../)
 

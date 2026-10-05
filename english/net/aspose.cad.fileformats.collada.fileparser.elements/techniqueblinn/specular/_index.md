@@ -1,14 +1,18 @@
 ---
-title: TechniqueBlinn.Specular
-second_title: Aspose.CAD for .NET API Reference
-description: TechniqueBlinn property. Gets or sets the specular. Declares the color of light specular reflected from the surface of this object
+title: "TechniqueBlinn.Specular"
+linktitle: "Specular"
+articleTitle: "Specular"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TechniqueBlinn property. Gets or sets the specular. Declares the color of light specular reflected from the surface of this object."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniqueblinn/specular/
+weight: 50
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/techniqueblinn/specular/"
+product_version: "26.9"
 ---
 ## TechniqueBlinn.Specular property
 
-Gets or sets the specular. Declares the color of light specular reflected from the surface of this object.
+Gets or sets the specular.
+ Declares the color of light specular reflected from the surface of this object.
 
 ```csharp
 public FxCommonColorOrTexture Specular { get; set; }
@@ -16,9 +20,8 @@ public FxCommonColorOrTexture Specular { get; set; }
 
 ### See Also
 
-* class [FxCommonColorOrTexture](../../fxcommoncolorortexture/)
-* class [TechniqueBlinn](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonColorOrTexture](../../fxcommoncolorortexture/)
+* class [TechniqueBlinn](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: AppendText.Text
-second_title: Aspose.CAD for .NET API Reference
-description: AppendText property. 
+title: "AppendText.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AppendText property."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cgm.commands/appendtext/text/
+weight: 70
+url: "/net/aspose.cad.fileformats.cgm.commands/appendtext/text/"
+product_version: "26.9"
 ---
 ## AppendText.Text property
+
+
 
 ```csharp
 public string Text { get; }
@@ -14,8 +19,7 @@ public string Text { get; }
 
 ### See Also
 
-* class [AppendText](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AppendText](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

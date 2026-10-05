@@ -1,10 +1,13 @@
 ---
-title: CadCommon.REVERSE_WFPREC3DD_HEADER_VARIABLE
-second_title: Aspose.CAD for .NET API Reference
-description: CadCommon field. The reverse WFPREC3DD header variable
+title: "CadCommon.REVERSE_WFPREC3DD_HEADER_VARIABLE"
+linktitle: "REVERSE_WFPREC3DD_HEADER_VARIABLE"
+articleTitle: "REVERSE_WFPREC3DD_HEADER_VARIABLE"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCommon field. The reverse WFPREC3DD header variable"
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadcommon/reverse_wfprec3dd_header_variable/
+weight: 250
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadcommon/reverse_wfprec3dd_header_variable/"
+product_version: "26.9"
 ---
 ## CadCommon.REVERSE_WFPREC3DD_HEADER_VARIABLE field
 
@@ -16,8 +19,7 @@ public const string REVERSE_WFPREC3DD_HEADER_VARIABLE;
 
 ### See Also
 
-* class [CadCommon](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCommon](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

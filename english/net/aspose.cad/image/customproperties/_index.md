@@ -1,17 +1,20 @@
 ---
-title: Image.CustomProperties
-second_title: Aspose.CAD for .NET API Reference
-description: Image property. Gets or sets the custom properties
+title: "Image.CustomProperties"
+linktitle: "CustomProperties"
+articleTitle: "CustomProperties"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image property. Gets or sets the custom properties."
 type: docs
-weight: 50
-url: /net/aspose.cad/image/customproperties/
+weight: 260
+url: "/net/aspose.cad/image/customproperties/"
+product_version: "26.9"
 ---
 ## Image.CustomProperties property
 
 Gets or sets the custom properties.
 
 ```csharp
-public virtual Dictionary<string, string> CustomProperties { get; }
+public virtual IReadOnlyDictionary<string, string> CustomProperties { get; }
 ```
 
 ### Property Value
@@ -26,8 +29,7 @@ The custom data.
 
 ### See Also
 
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

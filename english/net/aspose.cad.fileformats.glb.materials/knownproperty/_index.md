@@ -1,14 +1,17 @@
 ---
-title: Enum KnownProperty
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Materials.KnownProperty enum. Enumeration of channel properties used in Parameters
+title: "KnownProperty Enum"
+linktitle: "KnownProperty"
+articleTitle: "KnownProperty"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Materials.KnownProperty enum. Enumeration of channel properties used in Parameters"
 type: docs
-weight: 10870
-url: /net/aspose.cad.fileformats.glb.materials/knownproperty/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb.materials/knownproperty/"
+product_version: "26.9"
 ---
 ## KnownProperty enumeration
 
-Enumeration of channel properties used in [`Parameters`](../channelbuilder/parameters/)
+Enumeration of channel properties used in `Parameters`
 
 ```csharp
 public enum KnownProperty
@@ -39,11 +42,10 @@ public enum KnownProperty
 
 ## Remarks
 
-This enumeration must match MaterialParameterKey
+This enumeration must match `MaterialParameterKey`
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../)
 

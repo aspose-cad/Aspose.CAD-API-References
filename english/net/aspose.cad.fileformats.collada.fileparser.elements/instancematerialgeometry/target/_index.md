@@ -1,14 +1,18 @@
 ---
-title: InstanceMaterialGeometry.Target
-second_title: Aspose.CAD for .NET API Reference
-description: InstanceMaterialGeometry property. Gets or sets the target. The target attribute specifies the URL of the location of the object to instantiate
+title: "InstanceMaterialGeometry.Target"
+linktitle: "Target"
+articleTitle: "Target"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "InstanceMaterialGeometry property. Gets or sets the target. The target attribute specifies the URL of the location of the object to instantiate."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/target/
+weight: 60
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/target/"
+product_version: "26.9"
 ---
 ## InstanceMaterialGeometry.Target property
 
-Gets or sets the target. The target attribute specifies the URL of the location of the object to instantiate.
+Gets or sets the target.
+ The target attribute specifies the URL of the location of the object to instantiate.
 
 ```csharp
 public string Target { get; set; }
@@ -16,8 +20,7 @@ public string Target { get; set; }
 
 ### See Also
 
-* class [InstanceMaterialGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InstanceMaterialGeometry](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

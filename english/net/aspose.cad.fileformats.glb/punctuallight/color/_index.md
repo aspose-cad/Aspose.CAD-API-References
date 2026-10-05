@@ -1,10 +1,13 @@
 ---
-title: PunctualLight.Color
-second_title: Aspose.CAD for .NET API Reference
-description: PunctualLight property. Gets or sets the RGB value for lights color in linear space
+title: "PunctualLight.Color"
+linktitle: "Color"
+articleTitle: "Color"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PunctualLight property. Gets or sets the RGB value for light's color in linear space."
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.glb/punctuallight/color/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb/punctuallight/color/"
+product_version: "26.9"
 ---
 ## PunctualLight.Color property
 
@@ -16,8 +19,7 @@ public Vector3 Color { get; set; }
 
 ### See Also
 
-* class [PunctualLight](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PunctualLight](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

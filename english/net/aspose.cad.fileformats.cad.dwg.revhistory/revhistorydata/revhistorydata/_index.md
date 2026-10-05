@@ -1,10 +1,13 @@
 ---
-title: RevHistoryData.RevHistoryData
-second_title: Aspose.CAD for .NET API Reference
-description: RevHistoryData constructor. The default constructor
+title: "RevHistoryData.RevHistoryData"
+linktitle: "RevHistoryData"
+articleTitle: "RevHistoryData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RevHistoryData constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/revhistorydata/
+url: "/net/aspose.cad.fileformats.cad.dwg.revhistory/revhistorydata/revhistorydata/"
+product_version: "26.9"
 ---
 ## RevHistoryData constructor
 
@@ -16,8 +19,7 @@ public RevHistoryData()
 
 ### See Also
 
-* class [RevHistoryData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](../../../aspose.cad.fileformats.cad.dwg.revhistory/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RevHistoryData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](../../../aspose.cad.fileformats.cad.dwg.revhistory/)
+* assembly [Aspose.CAD](../../../)
 

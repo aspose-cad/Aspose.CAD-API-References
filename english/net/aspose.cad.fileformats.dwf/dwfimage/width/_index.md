@@ -1,14 +1,19 @@
 ---
-title: DwfImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: DwfImage property. Gets the image width. Defines the Xaxis distance between the leftmost point of all graphic objects in the image and their rightmost point. The distance is measured in units corresponding to the value of the property UnitType
+title: "DwfImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfImage property. Gets the image width. Defines the X-axis distance between the leftmost point of all graphic objects in the image and their rightmost point..."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.dwf/dwfimage/width/
+weight: 120
+url: "/net/aspose.cad.fileformats.dwf/dwfimage/width/"
+product_version: "26.9"
 ---
 ## DwfImage.Width property
 
-Gets the image width. Defines the X-axis distance between the leftmost point of all graphic objects in the image and their rightmost point. The distance is measured in units corresponding to the value of the property [`UnitType`](../../../aspose.cad/image/unittype/)
+Gets the image width.
+ Defines the X-axis distance between the leftmost point of all graphic objects in the image and their rightmost point.
+ The distance is measured in units corresponding to the value of the property [`UnitType`](../../../aspose.cad/image/unittype/)
 
 ```csharp
 public override int Width { get; }
@@ -41,8 +46,7 @@ using (DwfImage image = (DwfImage) Image.Load(inStream))
 
 ### See Also
 
-* class [DwfImage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfImage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

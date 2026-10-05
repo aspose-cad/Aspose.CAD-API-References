@@ -1,10 +1,13 @@
 ---
-title: CadSunObject.CadSunObject
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunObject constructor. Initializes a new instance of the CadSunObject class
+title: "CadSunObject.CadSunObject"
+linktitle: "CadSunObject"
+articleTitle: "CadSunObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunObject constructor. Initializes a new instance of the CadSunObject class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsunobject/cadsunobject/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsunobject/cadsunobject/"
+product_version: "26.9"
 ---
 ## CadSunObject constructor
 
@@ -16,8 +19,7 @@ public CadSunObject()
 
 ### See Also
 
-* class [CadSunObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

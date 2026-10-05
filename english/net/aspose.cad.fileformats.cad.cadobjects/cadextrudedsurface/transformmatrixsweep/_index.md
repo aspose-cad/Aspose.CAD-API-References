@@ -1,10 +1,13 @@
 ---
-title: CadExtrudedSurface.TransformMatrixSweep
-second_title: Aspose.CAD for .NET API Reference
-description: CadExtrudedSurface property. Gets or sets sweep of transform matrix
+title: "CadExtrudedSurface.TransformMatrixSweep"
+linktitle: "TransformMatrixSweep"
+articleTitle: "TransformMatrixSweep"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadExtrudedSurface property. Gets or sets sweep of transform matrix."
 type: docs
 weight: 210
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/transformmatrixsweep/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/transformmatrixsweep/"
+product_version: "26.9"
 ---
 ## CadExtrudedSurface.TransformMatrixSweep property
 
@@ -16,8 +19,7 @@ public List<double> TransformMatrixSweep { get; set; }
 
 ### See Also
 
-* class [CadExtrudedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadExtrudedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

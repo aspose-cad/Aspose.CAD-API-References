@@ -1,10 +1,13 @@
 ---
-title: CadAcDbBlockRepresentationData.CadAcDbBlockRepresentationData
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcDbBlockRepresentationData constructor. Initializes a new instance of the CadAcDbBlockRepresentationData class
+title: "CadAcDbBlockRepresentationData.CadAcDbBlockRepresentationData"
+linktitle: "CadAcDbBlockRepresentationData"
+articleTitle: "CadAcDbBlockRepresentationData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcDbBlockRepresentationData constructor. Initializes a new instance of the CadAcDbBlockRepresentationData class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacdbblockrepresentationdata/cadacdbblockrepresentationdata/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacdbblockrepresentationdata/cadacdbblockrepresentationdata/"
+product_version: "26.9"
 ---
 ## CadAcDbBlockRepresentationData constructor
 
@@ -16,8 +19,7 @@ public CadAcDbBlockRepresentationData()
 
 ### See Also
 
-* class [CadAcDbBlockRepresentationData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcDbBlockRepresentationData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

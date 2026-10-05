@@ -1,10 +1,13 @@
 ---
-title: CadUcsList.AddRange
-second_title: Aspose.CAD for .NET API Reference
-description: CadUcsList method. Adds the range of the objects to container
+title: "CadUcsList.AddRange"
+linktitle: "AddRange"
+articleTitle: "AddRange"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadUcsList method. Adds the range of the objects to container."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad/caducslist/addrange/
+url: "/net/aspose.cad.fileformats.cad/caducslist/addrange/"
+product_version: "26.9"
 ---
 ## CadUcsList.AddRange method
 
@@ -20,9 +23,8 @@ public void AddRange(CadUcsTableObject[] objects)
 
 ### See Also
 
-* class [CadUcsTableObject](../../../aspose.cad.fileformats.cad.cadtables/caducstableobject/)
-* class [CadUcsList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadUcsTableObject](../../../aspose.cad.fileformats.cad.cadtables/caducstableobject/)
+* class [CadUcsList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

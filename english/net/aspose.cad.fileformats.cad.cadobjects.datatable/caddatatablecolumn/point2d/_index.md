@@ -1,10 +1,13 @@
 ---
-title: CadDataTableColumn.Point2D
-second_title: Aspose.CAD for .NET API Reference
-description: CadDataTableColumn property. Gets or sets the point 2d
+title: "CadDataTableColumn.Point2D"
+linktitle: "Point2D"
+articleTitle: "Point2D"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDataTableColumn property. Gets or sets the point 2d."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/point2d/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/point2d/"
+product_version: "26.9"
 ---
 ## CadDataTableColumn.Point2D property
 
@@ -20,9 +23,8 @@ The point 2d.
 
 ### See Also
 
-* class [Cad2DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/)
-* class [CadDataTableColumn](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/)
+* class [CadDataTableColumn](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
+* assembly [Aspose.CAD](../../../)
 

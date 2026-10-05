@@ -1,10 +1,13 @@
 ---
-title: RasterImage.SetResolution
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Sets the resolution for this RasterImage
+title: "RasterImage.SetResolution"
+linktitle: "SetResolution"
+articleTitle: "SetResolution"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Sets the resolution for this RasterImage."
 type: docs
-weight: 460
-url: /net/aspose.cad/rasterimage/setresolution/
+weight: 370
+url: "/net/aspose.cad/rasterimage/setresolution/"
+product_version: "26.9"
 ---
 ## RasterImage.SetResolution method
 
@@ -16,13 +19,12 @@ public virtual void SetResolution(double dpiX, double dpiY)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dpiX | Double | The horizontal resolution, in dots per inch, of the [`RasterImage`](../). |
-| dpiY | Double | The vertical resolution, in dots per inch, of the [`RasterImage`](../). |
+| dpiX | Double | The horizontal resolution, in dots per inch, of the `RasterImage`. |
+| dpiY | Double | The vertical resolution, in dots per inch, of the `RasterImage`. |
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

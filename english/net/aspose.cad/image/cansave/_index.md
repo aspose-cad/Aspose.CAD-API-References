@@ -1,10 +1,13 @@
 ---
-title: Image.CanSave
-second_title: Aspose.CAD for .NET API Reference
-description: Image method. Determines whether image can be saved to the specified file format represented by the passed save options
+title: "Image.CanSave"
+linktitle: "CanSave"
+articleTitle: "CanSave"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image method. Determines whether image can be saved to the specified file format represented by the passed save options."
 type: docs
-weight: 140
-url: /net/aspose.cad/image/cansave/
+weight: 130
+url: "/net/aspose.cad/image/cansave/"
+product_version: "26.9"
 ---
 ## Image.CanSave method
 
@@ -38,9 +41,8 @@ using (var image = Aspose.CAD.Image.Load("fileName.dwg"))
 
 ### See Also
 
-* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ImageOptionsBase](../../../aspose.cad.imageoptions/imageoptionsbase/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

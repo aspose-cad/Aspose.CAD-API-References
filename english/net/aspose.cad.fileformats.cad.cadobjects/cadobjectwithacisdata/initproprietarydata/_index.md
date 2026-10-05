@@ -1,10 +1,13 @@
 ---
-title: CadObjectWithAcisData.InitProprietaryData
-second_title: Aspose.CAD for .NET API Reference
-description: CadObjectWithAcisData method. Initializes the proprietary data
+title: "CadObjectWithAcisData.InitProprietaryData"
+linktitle: "InitProprietaryData"
+articleTitle: "InitProprietaryData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadObjectWithAcisData method. Initializes the proprietary data."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectwithacisdata/initproprietarydata/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadobjectwithacisdata/initproprietarydata/"
+product_version: "26.9"
 ---
 ## CadObjectWithAcisData.InitProprietaryData method
 
@@ -21,9 +24,8 @@ public void InitProprietaryData(CadEntityAttribute attr, string data)
 
 ### See Also
 
-* enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
-* class [CadObjectWithAcisData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
+* class [CadObjectWithAcisData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

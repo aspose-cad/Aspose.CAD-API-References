@@ -1,14 +1,17 @@
 ---
-title: NonGenericList.Add
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericList method. Adds an item to the IList
+title: "NonGenericList.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericList method. Adds an item to the IList."
 type: docs
-weight: 80
-url: /net/aspose.cad/nongenericlist/add/
+weight: 20
+url: "/net/aspose.cad/nongenericlist/add/"
+product_version: "26.9"
 ---
 ## NonGenericList.Add method
 
-Adds an item to the IList.
+Adds an item to the `IList`.
 
 ```csharp
 public int Add(object value)
@@ -24,8 +27,7 @@ The position into which the new element was inserted.
 
 ### See Also
 
-* class [NonGenericList](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericList](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

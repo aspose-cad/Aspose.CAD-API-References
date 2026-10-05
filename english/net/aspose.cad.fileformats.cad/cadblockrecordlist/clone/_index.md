@@ -1,10 +1,13 @@
 ---
-title: CadBlockRecordList.Clone
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockRecordList method. The clone
+title: "CadBlockRecordList.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockRecordList method. The clone."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad/cadblockrecordlist/clone/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad/cadblockrecordlist/clone/"
+product_version: "26.9"
 ---
 ## CadBlockRecordList.Clone method
 
@@ -16,12 +19,11 @@ public object Clone()
 
 ### Return Value
 
-The Object.
+The `Object`.
 
 ### See Also
 
-* class [CadBlockRecordList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockRecordList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

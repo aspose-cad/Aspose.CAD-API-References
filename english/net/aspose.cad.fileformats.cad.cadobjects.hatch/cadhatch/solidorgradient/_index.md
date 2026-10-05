@@ -1,10 +1,13 @@
 ---
-title: CadHatch.SolidOrGradient
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the solid or gradient
+title: "CadHatch.SolidOrGradient"
+linktitle: "SolidOrGradient"
+articleTitle: "SolidOrGradient"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the solid or gradient."
 type: docs
-weight: 330
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/solidorgradient/
+weight: 340
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/solidorgradient/"
+product_version: "26.9"
 ---
 ## CadHatch.SolidOrGradient property
 
@@ -16,8 +19,7 @@ public int SolidOrGradient { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

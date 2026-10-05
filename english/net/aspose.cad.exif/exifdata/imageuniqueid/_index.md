@@ -1,10 +1,13 @@
 ---
-title: ExifData.ImageUniqueID
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the image unique identifier
+title: "ExifData.ImageUniqueID"
+linktitle: "ImageUniqueID"
+articleTitle: "ImageUniqueID"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the image unique identifier."
 type: docs
-weight: 680
-url: /net/aspose.cad.exif/exifdata/imageuniqueid/
+weight: 750
+url: "/net/aspose.cad.exif/exifdata/imageuniqueid/"
+product_version: "26.9"
 ---
 ## ExifData.ImageUniqueID property
 
@@ -20,8 +23,7 @@ The image unique identifier.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

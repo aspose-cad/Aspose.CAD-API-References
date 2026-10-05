@@ -1,10 +1,13 @@
 ---
-title: CadExtrudedSurface.DraftAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadExtrudedSurface property. Gets or sets the draft angle
+title: "CadExtrudedSurface.DraftAngle"
+linktitle: "DraftAngle"
+articleTitle: "DraftAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadExtrudedSurface property. Gets or sets the draft angle."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/draftangle/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/draftangle/"
+product_version: "26.9"
 ---
 ## CadExtrudedSurface.DraftAngle property
 
@@ -16,8 +19,7 @@ public double DraftAngle { get; set; }
 
 ### See Also
 
-* class [CadExtrudedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadExtrudedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

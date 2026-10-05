@@ -1,10 +1,13 @@
 ---
-title: CadBoundaryPathSpline.KnotValues
-second_title: Aspose.CAD for .NET API Reference
-description: CadBoundaryPathSpline property. Gets or sets the knot values
+title: "CadBoundaryPathSpline.KnotValues"
+linktitle: "KnotValues"
+articleTitle: "KnotValues"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBoundaryPathSpline property. Gets or sets the knot values."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/knotvalues/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathspline/knotvalues/"
+product_version: "26.9"
 ---
 ## CadBoundaryPathSpline.KnotValues property
 
@@ -20,8 +23,7 @@ The knot values.
 
 ### See Also
 
-* class [CadBoundaryPathSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBoundaryPathSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

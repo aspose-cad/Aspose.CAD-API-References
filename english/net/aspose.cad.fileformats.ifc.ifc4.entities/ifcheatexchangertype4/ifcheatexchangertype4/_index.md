@@ -1,0 +1,25 @@
+---
+title: "IfcHeatExchangerType4.IfcHeatExchangerType4"
+linktitle: "IfcHeatExchangerType4"
+articleTitle: "IfcHeatExchangerType4"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcHeatExchangerType4 constructor. The default constructor."
+type: docs
+weight: 10
+url: "/net/aspose.cad.fileformats.ifc.ifc4.entities/ifcheatexchangertype4/ifcheatexchangertype4/"
+product_version: "26.9"
+---
+## IfcHeatExchangerType4 constructor
+
+The default constructor.
+
+```csharp
+public IfcHeatExchangerType4()
+```
+
+### See Also
+
+* class [IfcHeatExchangerType4](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
+* assembly [Aspose.CAD](../../../)
+

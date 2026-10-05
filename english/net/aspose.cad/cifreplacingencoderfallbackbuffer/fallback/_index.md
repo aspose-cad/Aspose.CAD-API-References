@@ -1,12 +1,15 @@
 ---
-title: CifReplacingEncoderFallbackBuffer.Fallback
-second_title: Aspose.CAD for .NET API Reference
-description: CifReplacingEncoderFallbackBuffer method. Called when a singlechar character out of output codepage is encountered
+title: "CifReplacingEncoderFallbackBuffer.Fallback"
+linktitle: "Fallback"
+articleTitle: "Fallback"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CifReplacingEncoderFallbackBuffer method. Called when a single-char character out of output codepage is encountered"
 type: docs
-weight: 30
-url: /net/aspose.cad/cifreplacingencoderfallbackbuffer/fallback/
+weight: 20
+url: "/net/aspose.cad/cifreplacingencoderfallbackbuffer/fallback/"
+product_version: "26.9"
 ---
-## Fallback(char, int) {#fallback_1}
+## Fallback(char, int) {#fallback}
 
 Called when a single-char character out of output codepage is encountered
 
@@ -25,13 +28,13 @@ True if we do replace, false if not
 
 ### See Also
 
-* class [CifReplacingEncoderFallbackBuffer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [CifReplacingEncoderFallbackBuffer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Fallback(char, char, int) {#fallback}
+## Fallback(char, char, int) {#fallback_1}
 
 Called when a surrogate pair of characters out of output codepage is encountered
 
@@ -51,8 +54,7 @@ True if we do replace, false if not
 
 ### See Also
 
-* class [CifReplacingEncoderFallbackBuffer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CifReplacingEncoderFallbackBuffer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

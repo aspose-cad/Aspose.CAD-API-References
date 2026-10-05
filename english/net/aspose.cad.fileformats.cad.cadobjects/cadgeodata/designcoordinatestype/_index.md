@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.DesignCoordinatesType
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the type of the design coordinates
+title: "CadGeoData.DesignCoordinatesType"
+linktitle: "DesignCoordinatesType"
+articleTitle: "DesignCoordinatesType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the type of the design coordinates."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/designcoordinatestype/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/designcoordinatestype/"
+product_version: "26.9"
 ---
 ## CadGeoData.DesignCoordinatesType property
 
@@ -20,8 +23,7 @@ The type of the design coordinates.
 
 ### See Also
 
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadBlock2PtParameters.Attribute281
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlock2PtParameters property. Gets or sets the attribute 281
+title: "CadBlock2PtParameters.Attribute281"
+linktitle: "Attribute281"
+articleTitle: "Attribute281"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlock2PtParameters property. Gets or sets the attribute 281."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblock2ptparameters/attribute281/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblock2ptparameters/attribute281/"
+product_version: "26.9"
 ---
 ## CadBlock2PtParameters.Attribute281 property
 
@@ -20,8 +23,7 @@ The attribute 281.
 
 ### See Also
 
-* class [CadBlock2PtParameters](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlock2PtParameters](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

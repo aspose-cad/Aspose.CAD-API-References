@@ -1,10 +1,13 @@
 ---
-title: TiffSRational.TiffSRational
-second_title: Aspose.CAD for .NET API Reference
-description: TiffSRational constructor. Initializes a new instance of the TiffSRational class
+title: "TiffSRational.TiffSRational"
+linktitle: "TiffSRational"
+articleTitle: "TiffSRational"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffSRational constructor. Initializes a new instance of the TiffSRational class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff/tiffsrational/tiffsrational/
+url: "/net/aspose.cad.fileformats.tiff/tiffsrational/tiffsrational/"
+product_version: "26.9"
 ---
 ## TiffSRational() {#constructor}
 
@@ -16,15 +19,17 @@ public TiffSRational()
 
 ### See Also
 
-* class [TiffSRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
+* class [TiffSRational](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
 ## TiffSRational(int) {#constructor_1}
 
 Initializes a new instance of the [`TiffRational`](../../tiffrational/) class.
+
+The nominator will be used as the value specified and denominator will be equal 1.
 
 ```csharp
 public TiffSRational(int value)
@@ -34,19 +39,15 @@ public TiffSRational(int value)
 | --- | --- | --- |
 | value | Int32 | The nominator value. |
 
-## Remarks
-
-The nominator will be used as the value specified and denominator will be equal 1.
-
 ### See Also
 
-* class [TiffSRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
+* class [TiffSRational](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## TiffSRational(int, int) {#constructor_2}
+## TiffSRational(int, int) {#constructor_2}
 
 Initializes a new instance of the [`TiffSRational`](../) class.
 
@@ -61,8 +62,7 @@ public TiffSRational(int nominator, int denominator)
 
 ### See Also
 
-* class [TiffSRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffSRational](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadWipeoutBase.ImageSizeInPixels
-second_title: Aspose.CAD for .NET API Reference
-description: CadWipeoutBase property. Gets or sets the image size in pixels
+title: "CadWipeoutBase.ImageSizeInPixels"
+linktitle: "ImageSizeInPixels"
+articleTitle: "ImageSizeInPixels"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadWipeoutBase property. Gets or sets the image size in pixels."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/imagesizeinpixels/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/imagesizeinpixels/"
+product_version: "26.9"
 ---
 ## CadWipeoutBase.ImageSizeInPixels property
 
@@ -16,9 +19,8 @@ public virtual Cad2DPoint ImageSizeInPixels { get; set; }
 
 ### See Also
 
-* class [Cad2DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/)
-* class [CadWipeoutBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/)
+* class [CadWipeoutBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
+* assembly [Aspose.CAD](../../../)
 

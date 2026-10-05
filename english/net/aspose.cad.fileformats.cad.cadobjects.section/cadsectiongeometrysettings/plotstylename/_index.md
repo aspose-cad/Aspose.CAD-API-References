@@ -1,10 +1,13 @@
 ---
-title: CadSectionGeometrySettings.PlotstyleName
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionGeometrySettings property. Gets or sets the name of the plotstyle
+title: "CadSectionGeometrySettings.PlotstyleName"
+linktitle: "PlotstyleName"
+articleTitle: "PlotstyleName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionGeometrySettings property. Gets or sets the name of the plotstyle."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/plotstylename/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/plotstylename/"
+product_version: "26.9"
 ---
 ## CadSectionGeometrySettings.PlotstyleName property
 
@@ -20,8 +23,7 @@ The name of the plotstyle.
 
 ### See Also
 
-* class [CadSectionGeometrySettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionGeometrySettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

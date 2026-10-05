@@ -1,10 +1,14 @@
 ---
-title: Class DgnElementMetadata
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElementMetadata class. Represents summary of a file element was read
+title: "DgnElementMetadata Class"
+linktitle: "DgnElementMetadata"
+articleTitle: "DgnElementMetadata"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElementMetadata class. Represents summary of a file element was read"
 type: docs
-weight: 8700
-url: /net/aspose.cad.fileformats.dgn/dgnelementmetadata/
+weight: 40
+url: "/net/aspose.cad.fileformats.dgn/dgnelementmetadata/"
+keywords: "DgnElementMetadata, Aspose.CAD.FileFormats.Dgn, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnElementMetadata class
 
@@ -24,17 +28,16 @@ public class DgnElementMetadata
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.cad.fileformats.dgn/dgnelementmetadata/color/) { get; set; } | Gets or sets Color corresponding to Color index |
-| [IsDeleted](../../aspose.cad.fileformats.dgn/dgnelementmetadata/isdeleted/) { get; set; } | Gets or sets a value indicating whether a file element was deleted |
-| [IsPartOfCompound](../../aspose.cad.fileformats.dgn/dgnelementmetadata/ispartofcompound/) { get; set; } | Gets or sets a value indicating whether a file element is a part of compound element |
-| [LineStyle](../../aspose.cad.fileformats.dgn/dgnelementmetadata/linestyle/) { get; set; } | Gets or sets Line style |
-| [LineWeight](../../aspose.cad.fileformats.dgn/dgnelementmetadata/lineweight/) { get; set; } | Gets or sets Line weight |
-| [Properties](../../aspose.cad.fileformats.dgn/dgnelementmetadata/properties/) { get; } | Gets or sets properties |
-| [Type](../../aspose.cad.fileformats.dgn/dgnelementmetadata/type/) { get; set; } | Gets or sets the Type of a file element |
+| [Color](../../aspose.cad.fileformats.dgn/dgnelementmetadata/color/) { get; set; } | Gets or sets Color corresponding to Color index |
+| [IsDeleted](../../aspose.cad.fileformats.dgn/dgnelementmetadata/isdeleted/) { get; set; } | Gets or sets a value indicating whether a file element was deleted |
+| [IsPartOfCompound](../../aspose.cad.fileformats.dgn/dgnelementmetadata/ispartofcompound/) { get; set; } | Gets or sets a value indicating whether a file element is a part of compound element |
+| [LineStyle](../../aspose.cad.fileformats.dgn/dgnelementmetadata/linestyle/) { get; set; } | Gets or sets Line style |
+| [LineWeight](../../aspose.cad.fileformats.dgn/dgnelementmetadata/lineweight/) { get; set; } | Gets or sets Line weight |
+| [Properties](../../aspose.cad.fileformats.dgn/dgnelementmetadata/properties/) { get; } | Gets or sets properties |
+| [Type](../../aspose.cad.fileformats.dgn/dgnelementmetadata/type/) { get; set; } | Gets or sets the Type of a file element |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../)
 

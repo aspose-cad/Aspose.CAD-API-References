@@ -1,10 +1,13 @@
 ---
-title: CadSizeAttribute.Height
-second_title: Aspose.CAD for .NET API Reference
-description: CadSizeAttribute property. Gets or sets height
+title: "CadSizeAttribute.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSizeAttribute property. Gets or sets height."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad/cadsizeattribute/height/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad/cadsizeattribute/height/"
+product_version: "26.9"
 ---
 ## CadSizeAttribute.Height property
 
@@ -20,9 +23,8 @@ The height.
 
 ### See Also
 
-* enum [CadEntityAttribute](../../cadentityattribute/)
-* class [CadSizeAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* class [CadSizeAttribute](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

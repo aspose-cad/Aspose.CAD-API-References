@@ -1,10 +1,13 @@
 ---
-title: MultiPageOptions.OutputLayersNames
-second_title: Aspose.CAD for .NET API Reference
-description: MultiPageOptions property. Gets or sets the output layers namesWorks if export format supports layers naming for example for Psd
+title: "MultiPageOptions.OutputLayersNames"
+linktitle: "OutputLayersNames"
+articleTitle: "OutputLayersNames"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MultiPageOptions property. Gets or sets the output layers names(Works if export format supports layers naming, for example for Psd)"
 type: docs
-weight: 50
-url: /net/aspose.cad.imageoptions/multipageoptions/outputlayersnames/
+weight: 170
+url: "/net/aspose.cad.imageoptions/multipageoptions/outputlayersnames/"
+product_version: "26.9"
 ---
 ## MultiPageOptions.OutputLayersNames property
 
@@ -20,8 +23,7 @@ The output layers names.
 
 ### See Also
 
-* class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

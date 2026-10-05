@@ -1,10 +1,13 @@
 ---
-title: CadSection.IndicatorColor411
-second_title: Aspose.CAD for .NET API Reference
-description: CadSection property. Gets or sets the indicator color411
+title: "CadSection.IndicatorColor411"
+linktitle: "IndicatorColor411"
+articleTitle: "IndicatorColor411"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSection property. Gets or sets the indicator color411."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsection/indicatorcolor411/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsection/indicatorcolor411/"
+product_version: "26.9"
 ---
 ## CadSection.IndicatorColor411 property
 
@@ -20,8 +23,7 @@ The indicator color411.
 
 ### See Also
 
-* class [CadSection](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSection](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadAttrib.MultiText
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttrib property. Gets or sets the multi text
+title: "CadAttrib.MultiText"
+linktitle: "MultiText"
+articleTitle: "MultiText"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttrib property. Gets or sets the multi text."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/multitext/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/multitext/"
+product_version: "26.9"
 ---
 ## CadAttrib.MultiText property
 
@@ -20,9 +23,8 @@ The multi text.
 
 ### See Also
 
-* class [CadMText](../../../aspose.cad.fileformats.cad.cadobjects/cadmtext/)
-* class [CadAttrib](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMText](../../../aspose.cad.fileformats.cad.cadobjects/cadmtext/)
+* class [CadAttrib](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

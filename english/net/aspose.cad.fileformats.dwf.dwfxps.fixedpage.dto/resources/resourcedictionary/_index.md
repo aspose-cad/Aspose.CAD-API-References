@@ -1,14 +1,19 @@
 ---
-title: Resources.ResourceDictionary
-second_title: Aspose.CAD for .NET API Reference
-description: Resources property. Gets or sets the resource dictionary. The FixedPage.Resources and Canvas.Resources property elements contain exactly one ResourceDictionary element. A resource dictionary contains resource definition element entries
+title: "Resources.ResourceDictionary"
+linktitle: "ResourceDictionary"
+articleTitle: "ResourceDictionary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Resources property. Gets or sets the resource dictionary. The FixedPage.Resources and Canvas.Resources property elements contain exactly one ResourceDictiona..."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resources/resourcedictionary/
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resources/resourcedictionary/"
+product_version: "26.9"
 ---
 ## Resources.ResourceDictionary property
 
-Gets or sets the resource dictionary. The FixedPage.Resources and Canvas.Resources property elements contain exactly one ResourceDictionary element. A resource dictionary contains resource definition element entries.
+Gets or sets the resource dictionary.
+ The FixedPage.Resources and Canvas.Resources property elements contain exactly one ResourceDictionary element.
+ A resource dictionary contains resource definition element entries.
 
 ```csharp
 public ResourceDictionary ResourceDictionary { get; set; }
@@ -16,9 +21,8 @@ public ResourceDictionary ResourceDictionary { get; set; }
 
 ### See Also
 
-* class [ResourceDictionary](../../resourcedictionary/)
-* class [Resources](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ResourceDictionary](../../resourcedictionary/)
+* class [Resources](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

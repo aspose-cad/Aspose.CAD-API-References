@@ -1,10 +1,13 @@
 ---
-title: Material.Unlit
-second_title: Aspose.CAD for .NET API Reference
-description: Material property. Gets a value indicating whether this Material instance has Unlit extension
+title: "Material.Unlit"
+linktitle: "Unlit"
+articleTitle: "Unlit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Material property. Gets a value indicating whether this Material instance has Unlit extension."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.glb/material/unlit/
+weight: 80
+url: "/net/aspose.cad.fileformats.glb/material/unlit/"
+product_version: "26.9"
 ---
 ## Material.Unlit property
 
@@ -16,8 +19,7 @@ public bool Unlit { get; }
 
 ### See Also
 
-* class [Material](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Material](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadPolyFaceMesh.SurfaceNDensity
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolyFaceMesh property. Gets or sets the surface N density
+title: "CadPolyFaceMesh.SurfaceNDensity"
+linktitle: "SurfaceNDensity"
+articleTitle: "SurfaceNDensity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolyFaceMesh property. Gets or sets the surface N density."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyfacemesh/surfacendensity/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyfacemesh/surfacendensity/"
+product_version: "26.9"
 ---
 ## CadPolyFaceMesh.SurfaceNDensity property
 
@@ -20,8 +23,7 @@ The surface N density.
 
 ### See Also
 
-* class [CadPolyFaceMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolyFaceMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Cache.MaxDiskSpaceForCache
-second_title: Aspose.CAD for .NET API Reference
-description: Cache property. Gets or sets the maximum available disk space for cache. The value specified is megabytes count
+title: "Cache.MaxDiskSpaceForCache"
+linktitle: "MaxDiskSpaceForCache"
+articleTitle: "MaxDiskSpaceForCache"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cache property. Gets or sets the maximum available disk space for cache. The value specified is megabytes count."
 type: docs
-weight: 60
-url: /net/aspose.cad/cache/maxdiskspaceforcache/
+weight: 70
+url: "/net/aspose.cad/cache/maxdiskspaceforcache/"
+product_version: "26.9"
 ---
 ## Cache.MaxDiskSpaceForCache property
 
@@ -24,8 +27,7 @@ Value of 0 will consume all available memory and serves as no upper limit.
 
 ### See Also
 
-* class [Cache](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cache](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

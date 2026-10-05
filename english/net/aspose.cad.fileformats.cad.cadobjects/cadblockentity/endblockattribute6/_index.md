@@ -1,10 +1,13 @@
 ---
-title: CadBlockEntity.EndBlockAttribute6
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockEntity property. Gets or sets the end block attribute 6
+title: "CadBlockEntity.EndBlockAttribute6"
+linktitle: "EndBlockAttribute6"
+articleTitle: "EndBlockAttribute6"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockEntity property. Gets or sets the end block attribute 6."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute6/
+weight: 260
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute6/"
+product_version: "26.9"
 ---
 ## CadBlockEntity.EndBlockAttribute6 property
 
@@ -20,8 +23,7 @@ The end block attribute 6.
 
 ### See Also
 
-* class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

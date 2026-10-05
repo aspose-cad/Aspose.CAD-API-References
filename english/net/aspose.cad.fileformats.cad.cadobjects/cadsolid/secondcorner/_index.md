@@ -1,10 +1,13 @@
 ---
-title: CadSolid.SecondCorner
-second_title: Aspose.CAD for .NET API Reference
-description: CadSolid property. Gets or sets the second corner
+title: "CadSolid.SecondCorner"
+linktitle: "SecondCorner"
+articleTitle: "SecondCorner"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSolid property. Gets or sets the second corner."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsolid/secondcorner/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsolid/secondcorner/"
+product_version: "26.9"
 ---
 ## CadSolid.SecondCorner property
 
@@ -20,9 +23,8 @@ The second corner.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadSolid](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadSolid](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

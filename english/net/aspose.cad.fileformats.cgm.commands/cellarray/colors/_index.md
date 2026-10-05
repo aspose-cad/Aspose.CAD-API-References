@@ -1,10 +1,13 @@
 ---
-title: CellArray.Colors
-second_title: Aspose.CAD for .NET API Reference
-description: CellArray property. either the colors are filled or the colorIndexes depending on the color selection mode
+title: "CellArray.Colors"
+linktitle: "Colors"
+articleTitle: "Colors"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CellArray property. either the colors are filled or the colorIndexes depending on the color selection mode"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cgm.commands/cellarray/colors/
+weight: 140
+url: "/net/aspose.cad.fileformats.cgm.commands/cellarray/colors/"
+product_version: "26.9"
 ---
 ## CellArray.Colors property
 
@@ -16,9 +19,8 @@ public CgmColor[] Colors { get; }
 
 ### See Also
 
-* class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
-* class [CellArray](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
+* class [CellArray](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

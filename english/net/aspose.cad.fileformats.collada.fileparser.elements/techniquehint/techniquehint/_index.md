@@ -1,10 +1,13 @@
 ---
-title: TechniqueHint.TechniqueHint
-second_title: Aspose.CAD for .NET API Reference
-description: TechniqueHint constructor. The default constructor
+title: "TechniqueHint.TechniqueHint"
+linktitle: "TechniqueHint"
+articleTitle: "TechniqueHint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TechniqueHint constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniquehint/techniquehint/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/techniquehint/techniquehint/"
+product_version: "26.9"
 ---
 ## TechniqueHint constructor
 
@@ -16,8 +19,7 @@ public TechniqueHint()
 
 ### See Also
 
-* class [TechniqueHint](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TechniqueHint](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

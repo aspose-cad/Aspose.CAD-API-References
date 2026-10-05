@@ -1,10 +1,13 @@
 ---
-title: CF2Line.EndPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CF2Line property. The end point
+title: "CF2Line.EndPoint"
+linktitle: "EndPoint"
+articleTitle: "EndPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2Line property. The end point"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cf2/cf2line/endpoint/
+url: "/net/aspose.cad.fileformats.cf2/cf2line/endpoint/"
+product_version: "26.9"
 ---
 ## CF2Line.EndPoint property
 
@@ -16,9 +19,8 @@ public PointF EndPoint { get; set; }
 
 ### See Also
 
-* struct [PointF](../../../aspose.cad/pointf/)
-* class [CF2Line](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [PointF](../../../aspose.cad/pointf/)
+* class [CF2Line](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

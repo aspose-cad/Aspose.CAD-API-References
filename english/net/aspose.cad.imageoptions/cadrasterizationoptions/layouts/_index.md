@@ -1,10 +1,13 @@
 ---
-title: CadRasterizationOptions.Layouts
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterizationOptions property. Gets or sets the layoutName
+title: "CadRasterizationOptions.Layouts"
+linktitle: "Layouts"
+articleTitle: "Layouts"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterizationOptions property. Gets or sets the layoutName."
 type: docs
-weight: 80
-url: /net/aspose.cad.imageoptions/cadrasterizationoptions/layouts/
+weight: 70
+url: "/net/aspose.cad.imageoptions/cadrasterizationoptions/layouts/"
+product_version: "26.9"
 ---
 ## CadRasterizationOptions.Layouts property
 
@@ -20,8 +23,7 @@ The specific layout name or null for use Model. Model is also a layout.
 
 ### See Also
 
-* class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterizationOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

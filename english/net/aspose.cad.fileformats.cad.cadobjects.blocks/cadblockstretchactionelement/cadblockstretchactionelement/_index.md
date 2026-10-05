@@ -1,10 +1,13 @@
 ---
-title: CadBlockStretchActionElement.CadBlockStretchActionElement
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockStretchActionElement constructor. Initializes a new instance of the CadBlockStretchActionElement class
+title: "CadBlockStretchActionElement.CadBlockStretchActionElement"
+linktitle: "CadBlockStretchActionElement"
+articleTitle: "CadBlockStretchActionElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockStretchActionElement constructor. Initializes a new instance of the CadBlockStretchActionElement class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchactionelement/cadblockstretchactionelement/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchactionelement/cadblockstretchactionelement/"
+product_version: "26.9"
 ---
 ## CadBlockStretchActionElement constructor
 
@@ -16,8 +19,7 @@ public CadBlockStretchActionElement()
 
 ### See Also
 
-* class [CadBlockStretchActionElement](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockStretchActionElement](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

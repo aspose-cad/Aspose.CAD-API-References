@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.TextAlignmentType
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the type of the text alignment
+title: "CadMLeaderStyle.TextAlignmentType"
+linktitle: "TextAlignmentType"
+articleTitle: "TextAlignmentType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the type of the text alignment."
 type: docs
-weight: 380
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/textalignmenttype/
+weight: 240
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/textalignmenttype/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.TextAlignmentType property
 
@@ -20,8 +23,7 @@ The type of the text alignment.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

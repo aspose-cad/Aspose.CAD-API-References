@@ -1,12 +1,17 @@
 ---
-title: U3dAuthorLineSetDescription.Copy
-second_title: Aspose.CAD for .NET API Reference
-description: U3dAuthorLineSetDescription method. 
+title: "U3dAuthorLineSetDescription.Copy"
+linktitle: "Copy"
+articleTitle: "Copy"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "U3dAuthorLineSetDescription method."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.u3d.elements/u3dauthorlinesetdescription/copy/
+weight: 20
+url: "/net/aspose.cad.fileformats.u3d.elements/u3dauthorlinesetdescription/copy/"
+product_version: "26.9"
 ---
 ## U3dAuthorLineSetDescription.Copy method
+
+
 
 ```csharp
 public U3dAuthorLineSetDescription Copy()
@@ -14,8 +19,7 @@ public U3dAuthorLineSetDescription Copy()
 
 ### See Also
 
-* class [U3dAuthorLineSetDescription](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [U3dAuthorLineSetDescription](../)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
+* assembly [Aspose.CAD](../../../)
 

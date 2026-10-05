@@ -1,10 +1,13 @@
 ---
-title: DgnQuaternion.Y
-second_title: Aspose.CAD for .NET API Reference
-description: DgnQuaternion property. Gets the y
+title: "DgnQuaternion.Y"
+linktitle: "Y"
+articleTitle: "Y"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnQuaternion property. Gets the y."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/y/
+url: "/net/aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/y/"
+product_version: "26.9"
 ---
 ## DgnQuaternion.Y property
 
@@ -20,8 +23,7 @@ The y value.
 
 ### See Also
 
-* class [DgnQuaternion](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnQuaternion](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
+* assembly [Aspose.CAD](../../../)
 

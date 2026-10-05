@@ -1,14 +1,18 @@
 ---
-title: NonGenericDictionary.Add
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericDictionary method. Adds an element with the provided key and value to the IDictionary object
+title: "NonGenericDictionary.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericDictionary method. Adds an element with the provided key and value to the IDictionary object."
 type: docs
-weight: 100
-url: /net/aspose.cad/nongenericdictionary/add/
+weight: 40
+url: "/net/aspose.cad/nongenericdictionary/add/"
+product_version: "26.9"
 ---
 ## NonGenericDictionary.Add method
 
-Adds an element with the provided key and value to the IDictionary object.
+Adds an element with the provided key and value to the 
+ `IDictionary` object.
 
 ```csharp
 public void Add(object key, object value)
@@ -21,8 +25,7 @@ public void Add(object key, object value)
 
 ### See Also
 
-* class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericDictionary](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

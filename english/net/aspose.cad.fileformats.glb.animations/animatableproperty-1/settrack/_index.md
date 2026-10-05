@@ -1,12 +1,15 @@
 ---
-title: AnimatableProperty1.SetTrack
-second_title: Aspose.CAD for .NET API Reference
-description: AnimatableProperty method. Assigns an animation curve to a given track
+title: "AnimatableProperty<T>.SetTrack"
+linktitle: "SetTrack"
+articleTitle: "SetTrack"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AnimatableProperty method. Assigns an animation curve to a given track."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.glb.animations/animatableproperty-1/settrack/
+weight: 40
+url: "/net/aspose.cad.fileformats.glb.animations/animatableproperty-1/settrack/"
+product_version: "26.9"
 ---
-## AnimatableProperty&lt;T&gt;.SetTrack method
+## AnimatableProperty<T>.SetTrack method
 
 Assigns an animation curve to a given track.
 
@@ -17,13 +20,12 @@ public void SetTrack(string track, ICurveSampler<T> curve)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | track | String | The name of the track. |
-| curve | ICurveSampler`1 | A [`ICurveSampler`](../../icurvesampler-1/) instance which also implements IConvertibleCurve, or null to remove a track. |
+| curve | ICurveSampler`1 | A `ICurveSampler` instance which also implements `IConvertibleCurve`, or null to remove a track. |
 
 ### See Also
 
-* interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
-* class [AnimatableProperty&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [ICurveSampler&lt;T&gt;](../../icurvesampler-1/)
+* class [AnimatableProperty&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
 

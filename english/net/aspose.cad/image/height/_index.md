@@ -1,10 +1,13 @@
 ---
-title: Image.Height
-second_title: Aspose.CAD for .NET API Reference
-description: Image property. Gets the image height
+title: "Image.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image property. Gets the image height."
 type: docs
-weight: 70
-url: /net/aspose.cad/image/height/
+weight: 210
+url: "/net/aspose.cad/image/height/"
+product_version: "26.9"
 ---
 ## Image.Height property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's height: " + drawing.Height);
 
 ### See Also
 
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

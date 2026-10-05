@@ -1,10 +1,13 @@
 ---
-title: Enum ExifSubjectDistanceRange
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifSubjectDistanceRange enum. exif subject distance range enum
+title: "ExifSubjectDistanceRange Enum"
+linktitle: "ExifSubjectDistanceRange"
+articleTitle: "ExifSubjectDistanceRange"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifSubjectDistanceRange enum. exif subject distance range enum."
 type: docs
-weight: 680
-url: /net/aspose.cad.exif.enums/exifsubjectdistancerange/
+weight: 170
+url: "/net/aspose.cad.exif.enums/exifsubjectdistancerange/"
+product_version: "26.9"
 ---
 ## ExifSubjectDistanceRange enumeration
 
@@ -25,7 +28,6 @@ public enum ExifSubjectDistanceRange
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadBlockPointParameter.BlockPointParameterList
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockPointParameter property. Gets or sets the block point parameter list
+title: "CadBlockPointParameter.BlockPointParameterList"
+linktitle: "BlockPointParameterList"
+articleTitle: "BlockPointParameterList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockPointParameter property. Gets or sets the block point parameter list."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockpointparameter/blockpointparameterlist/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockpointparameter/blockpointparameterlist/"
+product_version: "26.9"
 ---
 ## CadBlockPointParameter.BlockPointParameterList property
 
@@ -20,9 +23,8 @@ The block point parameter list.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadBlockPointParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadBlockPointParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

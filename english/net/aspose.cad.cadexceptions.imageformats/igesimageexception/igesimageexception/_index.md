@@ -1,10 +1,13 @@
 ---
-title: IgesImageException.IgesImageException
-second_title: Aspose.CAD for .NET API Reference
-description: IgesImageException constructor. Initializes a new instance of the IgesImageException class
+title: "IgesImageException.IgesImageException"
+linktitle: "IgesImageException"
+articleTitle: "IgesImageException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IgesImageException constructor. Initializes a new instance of the IgesImageException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.imageformats/igesimageexception/igesimageexception/
+url: "/net/aspose.cad.cadexceptions.imageformats/igesimageexception/igesimageexception/"
+product_version: "26.9"
 ---
 ## IgesImageException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public IgesImageException(string message)
 
 ### See Also
 
-* class [IgesImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
+* class [IgesImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## IgesImageException(string, Exception) {#constructor_1}
+## IgesImageException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`IgesImageException`](../) class.
 
@@ -41,8 +44,7 @@ public IgesImageException(string message, Exception innerException)
 
 ### See Also
 
-* class [IgesImageException](../)
-* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IgesImageException](../)
+* namespace [Aspose.CAD.CadExceptions.ImageFormats](../../../aspose.cad.cadexceptions.imageformats/)
+* assembly [Aspose.CAD](../../../)
 

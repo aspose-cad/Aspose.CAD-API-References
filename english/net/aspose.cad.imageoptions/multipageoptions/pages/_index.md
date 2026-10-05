@@ -1,10 +1,13 @@
 ---
-title: MultiPageOptions.Pages
-second_title: Aspose.CAD for .NET API Reference
-description: MultiPageOptions property. Gets or sets the pages
+title: "MultiPageOptions.Pages"
+linktitle: "Pages"
+articleTitle: "Pages"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MultiPageOptions property. Gets or sets the pages."
 type: docs
-weight: 60
-url: /net/aspose.cad.imageoptions/multipageoptions/pages/
+weight: 130
+url: "/net/aspose.cad.imageoptions/multipageoptions/pages/"
+product_version: "26.9"
 ---
 ## MultiPageOptions.Pages property
 
@@ -20,8 +23,7 @@ The pages.
 
 ### See Also
 
-* class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

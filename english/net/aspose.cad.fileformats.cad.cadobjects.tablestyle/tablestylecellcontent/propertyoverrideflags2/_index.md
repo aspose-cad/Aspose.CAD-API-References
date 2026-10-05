@@ -1,10 +1,13 @@
 ---
-title: TableStyleCellContent.PropertyOverrideFlags2
-second_title: Aspose.CAD for .NET API Reference
-description: TableStyleCellContent property. The Property Override Flags2
+title: "TableStyleCellContent.PropertyOverrideFlags2"
+linktitle: "PropertyOverrideFlags2"
+articleTitle: "PropertyOverrideFlags2"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableStyleCellContent property. The Property Override Flags2"
 type: docs
-weight: 200
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/propertyoverrideflags2/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/propertyoverrideflags2/"
+product_version: "26.9"
 ---
 ## TableStyleCellContent.PropertyOverrideFlags2 property
 
@@ -16,8 +19,7 @@ public int PropertyOverrideFlags2 { get; set; }
 
 ### See Also
 
-* class [TableStyleCellContent](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableStyleCellContent](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

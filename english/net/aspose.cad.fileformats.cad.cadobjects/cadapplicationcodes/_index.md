@@ -1,10 +1,14 @@
 ---
-title: Class CadApplicationCodes
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.CadApplicationCodes class. The Cad Application Defined Codes
+title: "CadApplicationCodes Class"
+linktitle: "CadApplicationCodes"
+articleTitle: "CadApplicationCodes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadApplicationCodes class. The Cad Application Defined Codes"
 type: docs
-weight: 2380
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/
+weight: 280
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/"
+keywords: "CadApplicationCodes, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadApplicationCodes class
 
@@ -24,12 +28,11 @@ public class CadApplicationCodes
 
 | Name | Description |
 | --- | --- |
-| [CodesList](../../aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/codeslist/) { get; set; } | Gets or sets the data list. |
-| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/name/) { get; } | Gets the name. |
+| [CodesList](../../aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/codeslist/) { get; set; } | Gets or sets the data list. |
+| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadapplicationcodes/name/) { get; } | Gets the name. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
 

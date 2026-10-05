@@ -1,10 +1,13 @@
 ---
-title: RasterImage.SetPixel
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Sets an image pixel for the specified position
+title: "RasterImage.SetPixel"
+linktitle: "SetPixel"
+articleTitle: "SetPixel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Sets an image pixel for the specified position."
 type: docs
-weight: 450
-url: /net/aspose.cad/rasterimage/setpixel/
+weight: 220
+url: "/net/aspose.cad/rasterimage/setpixel/"
+product_version: "26.9"
 ---
 ## RasterImage.SetPixel method
 
@@ -22,9 +25,8 @@ public void SetPixel(int x, int y, Color color)
 
 ### See Also
 
-* struct [Color](../../color/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../color/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

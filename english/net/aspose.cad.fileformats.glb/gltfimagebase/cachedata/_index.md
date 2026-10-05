@@ -1,12 +1,17 @@
 ---
-title: GltfImageBase.CacheData
-second_title: Aspose.CAD for .NET API Reference
-description: GltfImageBase method. 
+title: "GltfImageBase.CacheData"
+linktitle: "CacheData"
+articleTitle: "CacheData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GltfImageBase method."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.glb/gltfimagebase/cachedata/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb/gltfimagebase/cachedata/"
+product_version: "26.9"
 ---
 ## GltfImageBase.CacheData method
+
+
 
 ```csharp
 public override void CacheData()
@@ -14,8 +19,7 @@ public override void CacheData()
 
 ### See Also
 
-* class [GltfImageBase](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GltfImageBase](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

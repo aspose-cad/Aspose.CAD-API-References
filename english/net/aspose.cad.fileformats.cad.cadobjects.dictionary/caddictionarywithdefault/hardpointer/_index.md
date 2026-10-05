@@ -1,10 +1,13 @@
 ---
-title: CadDictionaryWithDefault.HardPointer
-second_title: Aspose.CAD for .NET API Reference
-description: CadDictionaryWithDefault property. Gets or sets the hard pointer
+title: "CadDictionaryWithDefault.HardPointer"
+linktitle: "HardPointer"
+articleTitle: "HardPointer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDictionaryWithDefault property. Gets or sets the hard pointer."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/hardpointer/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/hardpointer/"
+product_version: "26.9"
 ---
 ## CadDictionaryWithDefault.HardPointer property
 
@@ -20,8 +23,7 @@ The hard pointer.
 
 ### See Also
 
-* class [CadDictionaryWithDefault](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDictionaryWithDefault](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
+* assembly [Aspose.CAD](../../../)
 

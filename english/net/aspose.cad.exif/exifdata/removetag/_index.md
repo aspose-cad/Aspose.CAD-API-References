@@ -1,10 +1,13 @@
 ---
-title: ExifData.RemoveTag
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData method. Remove tag from container
+title: "ExifData.RemoveTag"
+linktitle: "RemoveTag"
+articleTitle: "RemoveTag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData method. Remove tag from container"
 type: docs
-weight: 1110
-url: /net/aspose.cad.exif/exifdata/removetag/
+weight: 40
+url: "/net/aspose.cad.exif/exifdata/removetag/"
+product_version: "26.9"
 ---
 ## RemoveTag(ExifProperties) {#removetag}
 
@@ -20,10 +23,10 @@ public void RemoveTag(ExifProperties tag)
 
 ### See Also
 
-* enum [ExifProperties](../../exifproperties/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
+* enum [ExifProperties](../../exifproperties/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public void RemoveTag(ushort tagId)
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

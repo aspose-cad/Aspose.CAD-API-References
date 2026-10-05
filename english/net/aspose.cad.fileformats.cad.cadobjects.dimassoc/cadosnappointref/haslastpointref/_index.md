@@ -1,10 +1,13 @@
 ---
-title: CadOsnapPointRef.HasLastPointRef
-second_title: Aspose.CAD for .NET API Reference
-description: CadOsnapPointRef property. Gets or sets the has last point reference
+title: "CadOsnapPointRef.HasLastPointRef"
+linktitle: "HasLastPointRef"
+articleTitle: "HasLastPointRef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadOsnapPointRef property. Gets or sets the has last point reference."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/haslastpointref/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dimassoc/cadosnappointref/haslastpointref/"
+product_version: "26.9"
 ---
 ## CadOsnapPointRef.HasLastPointRef property
 
@@ -20,8 +23,7 @@ The has last point reference.
 
 ### See Also
 
-* class [CadOsnapPointRef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../../aspose.cad.fileformats.cad.cadobjects.dimassoc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadOsnapPointRef](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](../../../aspose.cad.fileformats.cad.cadobjects.dimassoc/)
+* assembly [Aspose.CAD](../../../)
 

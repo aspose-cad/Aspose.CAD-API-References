@@ -1,10 +1,13 @@
 ---
-title: CodePagesConvertHelper.GetCode
-second_title: Aspose.CAD for .NET API Reference
-description: CodePagesConvertHelper method. Gets the code
+title: "CodePagesConvertHelper.GetCode"
+linktitle: "GetCode"
+articleTitle: "GetCode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CodePagesConvertHelper method. Gets the code."
 type: docs
 weight: 10
-url: /net/aspose.cad/codepagesconverthelper/getcode/
+url: "/net/aspose.cad/codepagesconverthelper/getcode/"
+product_version: "26.9"
 ---
 ## CodePagesConvertHelper.GetCode method
 
@@ -30,9 +33,8 @@ Language encoding
 
 ### See Also
 
-* enum [CodePages](../../codepages/)
-* class [CodePagesConvertHelper](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CodePages](../../codepages/)
+* class [CodePagesConvertHelper](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

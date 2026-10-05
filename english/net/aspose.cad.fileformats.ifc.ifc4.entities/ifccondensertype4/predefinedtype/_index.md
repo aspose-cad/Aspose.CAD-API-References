@@ -1,0 +1,26 @@
+---
+title: "IfcCondenserType4.PredefinedType"
+linktitle: "PredefinedType"
+articleTitle: "PredefinedType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcCondenserType4 property."
+type: docs
+weight: 20
+url: "/net/aspose.cad.fileformats.ifc.ifc4.entities/ifccondensertype4/predefinedtype/"
+product_version: "26.9"
+---
+## IfcCondenserType4.PredefinedType property
+
+
+
+```csharp
+public IfcCondenserTypeEnum4? PredefinedType { get; set; }
+```
+
+### See Also
+
+* enum [IfcCondenserTypeEnum4](../../../aspose.cad.fileformats.ifc.ifc4.types/ifccondensertypeenum4/)
+* class [IfcCondenserType4](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
+* assembly [Aspose.CAD](../../../)
+

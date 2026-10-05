@@ -1,10 +1,13 @@
 ---
-title: CadTableStyleCell.ColorValue6
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableStyleCell property. Gets or sets the color value6
+title: "CadTableStyleCell.ColorValue6"
+linktitle: "ColorValue6"
+articleTitle: "ColorValue6"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableStyleCell property. Gets or sets the color value6."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/colorvalue6/
+weight: 280
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/colorvalue6/"
+product_version: "26.9"
 ---
 ## CadTableStyleCell.ColorValue6 property
 
@@ -20,8 +23,7 @@ The color value6.
 
 ### See Also
 
-* class [CadTableStyleCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableStyleCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

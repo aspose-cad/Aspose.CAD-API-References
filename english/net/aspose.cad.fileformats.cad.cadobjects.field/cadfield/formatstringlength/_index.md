@@ -1,10 +1,13 @@
 ---
-title: CadField.FormatStringLength
-second_title: Aspose.CAD for .NET API Reference
-description: CadField property. Gets or sets the length of the format string
+title: "CadField.FormatStringLength"
+linktitle: "FormatStringLength"
+articleTitle: "FormatStringLength"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadField property. Gets or sets the length of the format string."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/formatstringlength/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/formatstringlength/"
+product_version: "26.9"
 ---
 ## CadField.FormatStringLength property
 
@@ -20,8 +23,7 @@ The length of the format string.
 
 ### See Also
 
-* class [CadField](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadField](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
+* assembly [Aspose.CAD](../../../)
 

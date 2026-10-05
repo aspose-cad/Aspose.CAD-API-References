@@ -1,10 +1,13 @@
 ---
-title: ExifData.SubjectLocation
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the subject location
+title: "ExifData.SubjectLocation"
+linktitle: "SubjectLocation"
+articleTitle: "SubjectLocation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the subject location."
 type: docs
-weight: 1040
-url: /net/aspose.cad.exif/exifdata/subjectlocation/
+weight: 1050
+url: "/net/aspose.cad.exif/exifdata/subjectlocation/"
+product_version: "26.9"
 ---
 ## ExifData.SubjectLocation property
 
@@ -20,8 +23,7 @@ The subject location.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

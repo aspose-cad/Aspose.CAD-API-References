@@ -1,10 +1,13 @@
 ---
-title: RasterImage.SetPalette
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Sets the image palette
+title: "RasterImage.SetPalette"
+linktitle: "SetPalette"
+articleTitle: "SetPalette"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Sets the image palette."
 type: docs
-weight: 440
-url: /net/aspose.cad/rasterimage/setpalette/
+weight: 380
+url: "/net/aspose.cad/rasterimage/setpalette/"
+product_version: "26.9"
 ---
 ## RasterImage.SetPalette method
 
@@ -21,9 +24,8 @@ public virtual void SetPalette(IColorPalette palette, bool updateColors)
 
 ### See Also
 
-* interface [IColorPalette](../../icolorpalette/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IColorPalette](../../icolorpalette/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

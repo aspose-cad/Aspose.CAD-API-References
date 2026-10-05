@@ -1,10 +1,13 @@
 ---
-title: IRasterImageRawDataLoader.RawDataSettings
-second_title: Aspose.CAD for .NET API Reference
-description: IRasterImageRawDataLoader property. Gets the current raw data settings. Note when using these settings the data loads without conversion
+title: "IRasterImageRawDataLoader.RawDataSettings"
+linktitle: "RawDataSettings"
+articleTitle: "RawDataSettings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IRasterImageRawDataLoader property. Gets the current raw data settings. Note when using these settings the data loads without conversion."
 type: docs
-weight: 20
-url: /net/aspose.cad/irasterimagerawdataloader/rawdatasettings/
+weight: 30
+url: "/net/aspose.cad/irasterimagerawdataloader/rawdatasettings/"
+product_version: "26.9"
 ---
 ## IRasterImageRawDataLoader.RawDataSettings property
 
@@ -20,9 +23,8 @@ The current raw data settings.
 
 ### See Also
 
-* class [RawDataSettings](../../rawdatasettings/)
-* interface [IRasterImageRawDataLoader](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RawDataSettings](../../rawdatasettings/)
+* interface [IRasterImageRawDataLoader](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

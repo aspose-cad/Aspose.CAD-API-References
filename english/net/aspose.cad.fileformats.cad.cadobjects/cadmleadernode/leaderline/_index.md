@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderNode.LeaderLine
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderNode property. Gets or sets last leader line point
+title: "CadMLeaderNode.LeaderLine"
+linktitle: "LeaderLine"
+articleTitle: "LeaderLine"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderNode property. Gets or sets last leader line point."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/leaderline/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/leaderline/"
+product_version: "26.9"
 ---
 ## CadMLeaderNode.LeaderLine property
 
@@ -20,9 +23,8 @@ The last leader line point.
 
 ### See Also
 
-* class [CadMLeaderLine](../../cadmleaderline/)
-* class [CadMLeaderNode](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderLine](../../cadmleaderline/)
+* class [CadMLeaderNode](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: Enum HatchIndex.HatchType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.HatchIndexHatchType enum. 
+title: "HatchIndex.HatchType Enum"
+linktitle: "HatchIndex.HatchType"
+articleTitle: "HatchIndex.HatchType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.HatchIndex.HatchType enum."
 type: docs
-weight: 5850
-url: /net/aspose.cad.fileformats.cgm.commands/hatchindex.hatchtype/
+weight: 1120
+url: "/net/aspose.cad.fileformats.cgm.commands/hatchindex.hatchtype/"
+product_version: "26.9"
 ---
 ## HatchIndex.HatchType enumeration
+
+
 
 ```csharp
 public enum HatchType
@@ -25,8 +30,7 @@ public enum HatchType
 
 ### See Also
 
-* class [HatchIndex](../hatchindex/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [HatchIndex](../hatchindex/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

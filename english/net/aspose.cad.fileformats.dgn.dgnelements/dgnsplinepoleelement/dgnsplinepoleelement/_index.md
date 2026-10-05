@@ -1,10 +1,13 @@
 ---
-title: DgnSplinePoleElement.DgnSplinePoleElement
-second_title: Aspose.CAD for .NET API Reference
-description: DgnSplinePoleElement constructor. Initializes a new instance of the DgnSplinePoleElement class
+title: "DgnSplinePoleElement.DgnSplinePoleElement"
+linktitle: "DgnSplinePoleElement"
+articleTitle: "DgnSplinePoleElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnSplinePoleElement constructor. Initializes a new instance of the DgnSplinePoleElement class"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/dgnsplinepoleelement/
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsplinepoleelement/dgnsplinepoleelement/"
+product_version: "26.9"
 ---
 ## DgnSplinePoleElement constructor
 
@@ -21,8 +24,7 @@ public DgnSplinePoleElement(byte[] rawData, bool is3DElementExpected)
 
 ### See Also
 
-* class [DgnSplinePoleElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnSplinePoleElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

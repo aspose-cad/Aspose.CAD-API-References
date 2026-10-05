@@ -1,10 +1,13 @@
 ---
-title: Enum ResizeType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ResizeType enum. Specifies the resize type
+title: "ResizeType Enum"
+linktitle: "ResizeType"
+articleTitle: "ResizeType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ResizeType enum. Specifies the resize type."
 type: docs
-weight: 37170
-url: /net/aspose.cad/resizetype/
+weight: 780
+url: "/net/aspose.cad/resizetype/"
+product_version: "26.9"
 ---
 ## ResizeType enumeration
 
@@ -31,7 +34,6 @@ public enum ResizeType
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

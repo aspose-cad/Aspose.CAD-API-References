@@ -1,10 +1,13 @@
 ---
-title: CadMaterial.ReflectanceScale
-second_title: Aspose.CAD for .NET API Reference
-description: CadMaterial property. Gets or sets the reflectance scale
+title: "CadMaterial.ReflectanceScale"
+linktitle: "ReflectanceScale"
+articleTitle: "ReflectanceScale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMaterial property. Gets or sets the reflectance scale."
 type: docs
-weight: 670
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectancescale/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectancescale/"
+product_version: "26.9"
 ---
 ## CadMaterial.ReflectanceScale property
 
@@ -20,8 +23,7 @@ The reflectance scale.
 
 ### See Also
 
-* class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMaterial](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

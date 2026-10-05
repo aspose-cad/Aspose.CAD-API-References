@@ -1,10 +1,13 @@
 ---
-title: Point3D.op_Equality
-second_title: Aspose.CAD for .NET API Reference
-description: Point3D method. Allows to compare 3D points
+title: "Point3D.op_Equality"
+linktitle: "op_Equality"
+articleTitle: "op_Equality"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point3D method. Allows to compare 3D points."
 type: docs
-weight: 180
-url: /net/aspose.cad.primitives/point3d/op_equality/
+weight: 110
+url: "/net/aspose.cad.primitives/point3d/op_equality/"
+product_version: "26.9"
 ---
 ## Point3D Equality operator
 
@@ -25,8 +28,7 @@ True if points are equal.
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

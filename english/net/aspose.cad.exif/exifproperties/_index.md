@@ -1,10 +1,13 @@
 ---
-title: Enum ExifProperties
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.ExifProperties enum. Exif tags list
+title: "ExifProperties Enum"
+linktitle: "ExifProperties"
+articleTitle: "ExifProperties"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.ExifProperties enum. Exif tags list"
 type: docs
-weight: 730
-url: /net/aspose.cad.exif/exifproperties/
+weight: 30
+url: "/net/aspose.cad.exif/exifproperties/"
+product_version: "26.9"
 ---
 ## ExifProperties enumeration
 
@@ -153,7 +156,6 @@ public enum ExifProperties : ushort
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif](../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif](../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadDimensionDictionary.CadSymbolTableGroupCodes
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionDictionary property. Gets or sets the cad symbol table group codes
+title: "CadDimensionDictionary.CadSymbolTableGroupCodes"
+linktitle: "CadSymbolTableGroupCodes"
+articleTitle: "CadSymbolTableGroupCodes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionDictionary property. Gets or sets the cad symbol table group codes."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad/caddimensiondictionary/cadsymboltablegroupcodes/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad/caddimensiondictionary/cadsymboltablegroupcodes/"
+product_version: "26.9"
 ---
 ## CadDimensionDictionary.CadSymbolTableGroupCodes property
 
@@ -20,9 +23,8 @@ The cad symbol table group codes.
 
 ### See Also
 
-* class [CadSymbolTableGroupCodes](../../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/)
-* class [CadDimensionDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSymbolTableGroupCodes](../../../aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/)
+* class [CadDimensionDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

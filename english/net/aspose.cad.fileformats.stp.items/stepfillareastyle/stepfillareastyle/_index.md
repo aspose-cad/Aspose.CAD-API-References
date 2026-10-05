@@ -1,10 +1,13 @@
 ---
-title: StepFillAreaStyle.StepFillAreaStyle
-second_title: Aspose.CAD for .NET API Reference
-description: StepFillAreaStyle constructor. The default constructor
+title: "StepFillAreaStyle.StepFillAreaStyle"
+linktitle: "StepFillAreaStyle"
+articleTitle: "StepFillAreaStyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepFillAreaStyle constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stp.items/stepfillareastyle/stepfillareastyle/
+url: "/net/aspose.cad.fileformats.stp.items/stepfillareastyle/stepfillareastyle/"
+product_version: "26.9"
 ---
 ## StepFillAreaStyle() {#constructor}
 
@@ -16,13 +19,15 @@ public StepFillAreaStyle()
 
 ### See Also
 
-* class [StepFillAreaStyle](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
+* class [StepFillAreaStyle](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## StepFillAreaStyle(string, List&lt;StepRepresentationItem&gt;) {#constructor_1}
+## StepFillAreaStyle(string, List&lt;StepRepresentationItem&gt;) {#constructor_1}
+
+Initializes a new instance of the StepFillAreaStyle class.
 
 ```csharp
 public StepFillAreaStyle(string name, List<StepRepresentationItem> fillStyles)
@@ -30,9 +35,8 @@ public StepFillAreaStyle(string name, List<StepRepresentationItem> fillStyles)
 
 ### See Also
 
-* class [StepRepresentationItem](../../steprepresentationitem/)
-* class [StepFillAreaStyle](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepRepresentationItem](../../steprepresentationitem/)
+* class [StepFillAreaStyle](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

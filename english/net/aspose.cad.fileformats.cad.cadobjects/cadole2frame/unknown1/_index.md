@@ -1,10 +1,13 @@
 ---
-title: CadOle2Frame.Unknown1
-second_title: Aspose.CAD for .NET API Reference
-description: CadOle2Frame property. The unknown byte
+title: "CadOle2Frame.Unknown1"
+linktitle: "Unknown1"
+articleTitle: "Unknown1"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadOle2Frame property. The unknown byte"
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/unknown1/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/unknown1/"
+product_version: "26.9"
 ---
 ## CadOle2Frame.Unknown1 property
 
@@ -16,8 +19,7 @@ public byte Unknown1 { get; set; }
 
 ### See Also
 
-* class [CadOle2Frame](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadOle2Frame](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

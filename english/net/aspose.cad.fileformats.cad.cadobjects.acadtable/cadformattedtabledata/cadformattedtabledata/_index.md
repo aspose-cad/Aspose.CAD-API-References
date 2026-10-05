@@ -1,10 +1,13 @@
 ---
-title: CadFormattedTableData.CadFormattedTableData
-second_title: Aspose.CAD for .NET API Reference
-description: CadFormattedTableData constructor. Initializes a new instance of the CadFormattedTableData class
+title: "CadFormattedTableData.CadFormattedTableData"
+linktitle: "CadFormattedTableData"
+articleTitle: "CadFormattedTableData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadFormattedTableData constructor. Initializes a new instance of the CadFormattedTableData class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadformattedtabledata/cadformattedtabledata/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadformattedtabledata/cadformattedtabledata/"
+product_version: "26.9"
 ---
 ## CadFormattedTableData constructor
 
@@ -16,8 +19,7 @@ public CadFormattedTableData()
 
 ### See Also
 
-* class [CadFormattedTableData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadFormattedTableData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

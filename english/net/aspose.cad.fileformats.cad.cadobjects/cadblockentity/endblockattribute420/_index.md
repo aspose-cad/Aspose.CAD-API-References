@@ -1,10 +1,13 @@
 ---
-title: CadBlockEntity.EndBlockAttribute420
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockEntity property. Gets or sets the block attribute 420
+title: "CadBlockEntity.EndBlockAttribute420"
+linktitle: "EndBlockAttribute420"
+articleTitle: "EndBlockAttribute420"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockEntity property. Gets or sets the block attribute 420."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute420/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute420/"
+product_version: "26.9"
 ---
 ## CadBlockEntity.EndBlockAttribute420 property
 
@@ -20,8 +23,7 @@ The block attribute 420.
 
 ### See Also
 
-* class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

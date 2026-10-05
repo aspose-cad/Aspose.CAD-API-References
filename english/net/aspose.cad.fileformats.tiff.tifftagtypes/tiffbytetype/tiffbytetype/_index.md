@@ -1,10 +1,13 @@
 ---
-title: TiffByteType.TiffByteType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffByteType constructor. Initializes a new instance of the TiffByteType class
+title: "TiffByteType.TiffByteType"
+linktitle: "TiffByteType"
+articleTitle: "TiffByteType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffByteType constructor. Initializes a new instance of the TiffByteType class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffbytetype/tiffbytetype/
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffbytetype/tiffbytetype/"
+product_version: "26.9"
 ---
 ## TiffByteType(TiffTags) {#constructor}
 
@@ -20,10 +23,10 @@ public TiffByteType(TiffTags tagId)
 
 ### See Also
 
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffByteType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffByteType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public TiffByteType(ushort tagId)
 
 ### See Also
 
-* class [TiffByteType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffByteType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

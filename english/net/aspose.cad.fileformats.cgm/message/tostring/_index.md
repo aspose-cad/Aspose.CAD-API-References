@@ -1,12 +1,17 @@
 ---
-title: Message.ToString
-second_title: Aspose.CAD for .NET API Reference
-description: Message method. 
+title: "Message.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Message method."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cgm/message/tostring/
+weight: 20
+url: "/net/aspose.cad.fileformats.cgm/message/tostring/"
+product_version: "26.9"
 ---
 ## Message.ToString method
+
+
 
 ```csharp
 public override string ToString()
@@ -14,8 +19,7 @@ public override string ToString()
 
 ### See Also
 
-* class [Message](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Message](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

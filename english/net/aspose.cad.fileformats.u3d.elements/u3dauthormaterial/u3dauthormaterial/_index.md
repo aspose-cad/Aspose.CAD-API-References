@@ -1,10 +1,13 @@
 ---
-title: U3dAuthorMaterial.U3dAuthorMaterial
-second_title: Aspose.CAD for .NET API Reference
-description: U3dAuthorMaterial constructor. The default constructor
+title: "U3dAuthorMaterial.U3dAuthorMaterial"
+linktitle: "U3dAuthorMaterial"
+articleTitle: "U3dAuthorMaterial"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "U3dAuthorMaterial constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/u3dauthormaterial/
+url: "/net/aspose.cad.fileformats.u3d.elements/u3dauthormaterial/u3dauthormaterial/"
+product_version: "26.9"
 ---
 ## U3dAuthorMaterial constructor
 
@@ -16,8 +19,7 @@ public U3dAuthorMaterial()
 
 ### See Also
 
-* class [U3dAuthorMaterial](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [U3dAuthorMaterial](../)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
+* assembly [Aspose.CAD](../../../)
 

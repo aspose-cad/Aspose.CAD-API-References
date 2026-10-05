@@ -1,10 +1,13 @@
 ---
-title: CadViewport.ShadePlotMode
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the shade plot mode
+title: "CadViewport.ShadePlotMode"
+linktitle: "ShadePlotMode"
+articleTitle: "ShadePlotMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the shade plot mode."
 type: docs
 weight: 290
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/shadeplotmode/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/shadeplotmode/"
+product_version: "26.9"
 ---
 ## CadViewport.ShadePlotMode property
 
@@ -16,8 +19,7 @@ public short ShadePlotMode { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

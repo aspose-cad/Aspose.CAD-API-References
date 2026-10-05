@@ -1,10 +1,14 @@
 ---
-title: Class CadXdata
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.CadXdata class. The Cad xdata
+title: "CadXdata Class"
+linktitle: "CadXdata"
+articleTitle: "CadXdata"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadXdata class. The Cad xdata."
 type: docs
-weight: 3520
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadxdata/
+weight: 1470
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadxdata/"
+keywords: "CadXdata, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadXdata class
 
@@ -24,18 +28,17 @@ public class CadXdata
 
 | Name | Description |
 | --- | --- |
-| [DataList](../../aspose.cad.fileformats.cad.cadobjects/cadxdata/datalist/) { get; set; } | Gets or sets the data list. |
-| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadxdata/name/) { get; set; } | Gets or sets the name. |
+| [DataList](../../aspose.cad.fileformats.cad.cadobjects/cadxdata/datalist/) { get; set; } | Gets or sets the data list. |
+| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadxdata/name/) { get; set; } | Gets or sets the name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [GetFirstValue](../../aspose.cad.fileformats.cad.cadobjects/cadxdata/getfirstvalue/)(CadXdata, CadEntityAttribute) | Get first occurrence of an attribute from XData |
+| static [GetFirstValue](../../aspose.cad.fileformats.cad.cadobjects/cadxdata/getfirstvalue/)(CadXdata, CadEntityAttribute) | Get first occurrence of an attribute from XData |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
 

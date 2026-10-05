@@ -1,10 +1,13 @@
 ---
-title: CadRasterImageDef.ImageSizeU
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImageDef property. Gets or sets image size U
+title: "CadRasterImageDef.ImageSizeU"
+linktitle: "ImageSizeU"
+articleTitle: "ImageSizeU"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImageDef property. Gets or sets image size U."
 type: docs
 weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imagesizeu/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imagesizeu/"
+product_version: "26.9"
 ---
 ## CadRasterImageDef.ImageSizeU property
 
@@ -16,8 +19,7 @@ public double ImageSizeU { get; set; }
 
 ### See Also
 
-* class [CadRasterImageDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImageDef](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

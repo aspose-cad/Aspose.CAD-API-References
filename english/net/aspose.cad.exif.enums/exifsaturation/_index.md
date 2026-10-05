@@ -1,10 +1,13 @@
 ---
-title: Enum ExifSaturation
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifSaturation enum. exif saturation enum
+title: "ExifSaturation Enum"
+linktitle: "ExifSaturation"
+articleTitle: "ExifSaturation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifSaturation enum. exif saturation enum."
 type: docs
-weight: 650
-url: /net/aspose.cad.exif.enums/exifsaturation/
+weight: 140
+url: "/net/aspose.cad.exif.enums/exifsaturation/"
+product_version: "26.9"
 ---
 ## ExifSaturation enumeration
 
@@ -24,7 +27,6 @@ public enum ExifSaturation
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

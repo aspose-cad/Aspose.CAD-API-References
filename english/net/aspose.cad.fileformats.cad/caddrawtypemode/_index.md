@@ -1,10 +1,13 @@
 ---
-title: Enum CadDrawTypeMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadDrawTypeMode enum. Represents possible modes for colorization of objects
+title: "CadDrawTypeMode Enum"
+linktitle: "CadDrawTypeMode"
+articleTitle: "CadDrawTypeMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadDrawTypeMode enum. Represents possible modes for colorization of objects."
 type: docs
-weight: 1620
-url: /net/aspose.cad.fileformats.cad/caddrawtypemode/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad/caddrawtypemode/"
+product_version: "26.9"
 ---
 ## CadDrawTypeMode enumeration
 
@@ -23,7 +26,6 @@ public enum CadDrawTypeMode
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../)
 

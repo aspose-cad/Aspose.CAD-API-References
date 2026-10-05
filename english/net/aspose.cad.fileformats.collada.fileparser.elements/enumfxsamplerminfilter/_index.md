@@ -1,10 +1,13 @@
 ---
-title: Enum EnumFxSamplerMinFilter
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxSamplerMinFilter enum. The enumeration FX sampler min filter
+title: "EnumFxSamplerMinFilter Enum"
+linktitle: "EnumFxSamplerMinFilter"
+articleTitle: "EnumFxSamplerMinFilter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxSamplerMinFilter enum. The enumeration FX sampler min filter."
 type: docs
-weight: 7660
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplerminfilter/
+weight: 340
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplerminfilter/"
+product_version: "26.9"
 ---
 ## EnumFxSamplerMinFilter enumeration
 
@@ -24,7 +27,6 @@ public enum EnumFxSamplerMinFilter
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

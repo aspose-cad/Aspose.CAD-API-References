@@ -1,10 +1,13 @@
 ---
-title: CadDataTable.ColumnsNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadDataTable property. Gets or sets the columns number
+title: "CadDataTable.ColumnsNumber"
+linktitle: "ColumnsNumber"
+articleTitle: "ColumnsNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDataTable property. Gets or sets the columns number."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/columnsnumber/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/columnsnumber/"
+product_version: "26.9"
 ---
 ## CadDataTable.ColumnsNumber property
 
@@ -20,8 +23,7 @@ The columns number.
 
 ### See Also
 
-* class [CadDataTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDataTable](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
+* assembly [Aspose.CAD](../../../)
 

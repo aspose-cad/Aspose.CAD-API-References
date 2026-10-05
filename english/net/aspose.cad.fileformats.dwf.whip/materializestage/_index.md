@@ -1,10 +1,13 @@
 ---
-title: Enum MaterializeStage
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.MaterializeStage enum. Represents materialization stage
+title: "MaterializeStage Enum"
+linktitle: "MaterializeStage"
+articleTitle: "MaterializeStage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.MaterializeStage enum. Represents materialization stage"
 type: docs
-weight: 9660
-url: /net/aspose.cad.fileformats.dwf.whip/materializestage/
+weight: 50
+url: "/net/aspose.cad.fileformats.dwf.whip/materializestage/"
+product_version: "26.9"
 ---
 ## MaterializeStage enumeration
 
@@ -24,7 +27,6 @@ public enum MaterializeStage
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip](../../aspose.cad.fileformats.dwf.whip/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip](../../aspose.cad.fileformats.dwf.whip/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.StripOffsets
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the strip offsets
+title: "TiffOptions.StripOffsets"
+linktitle: "StripOffsets"
+articleTitle: "StripOffsets"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the strip offsets."
 type: docs
-weight: 420
-url: /net/aspose.cad.imageoptions/tiffoptions/stripoffsets/
+weight: 490
+url: "/net/aspose.cad.imageoptions/tiffoptions/stripoffsets/"
+product_version: "26.9"
 ---
 ## TiffOptions.StripOffsets property
 
@@ -20,8 +23,7 @@ The strip offsets.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

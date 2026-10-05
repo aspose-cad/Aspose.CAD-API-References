@@ -1,10 +1,13 @@
 ---
-title: JpegExifData.SerializeExifData
-second_title: Aspose.CAD for .NET API Reference
-description: JpegExifData method. Serializes the EXIF data. Writes the tags values and contents. The most influencing size tag is Thumbnail tag contents
+title: "JpegExifData.SerializeExifData"
+linktitle: "SerializeExifData"
+articleTitle: "SerializeExifData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegExifData method. Serializes the EXIF data. Writes the tags values and contents. The most influencing size tag is Thumbnail tag contents."
 type: docs
-weight: 260
-url: /net/aspose.cad.exif/jpegexifdata/serializeexifdata/
+weight: 40
+url: "/net/aspose.cad.exif/jpegexifdata/serializeexifdata/"
+product_version: "26.9"
 ---
 ## JpegExifData.SerializeExifData method
 
@@ -20,12 +23,12 @@ The serialized EXIF data.
 
 ## Remarks
 
-The overall segment size must be less than or equal to MaxExifSegmentSize bytes in order to produce correct jpeg image. Hint: try to reduce the thumbnail size or change its compression in case you have too big EXIF section size.
+The overall segment size must be less than or equal to MaxExifSegmentSize bytes in order to produce correct jpeg image.
+ Hint: try to reduce the thumbnail size or change its compression in case you have too big EXIF section size.
 
 ### See Also
 
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

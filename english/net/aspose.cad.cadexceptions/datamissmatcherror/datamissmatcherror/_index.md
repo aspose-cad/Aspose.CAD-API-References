@@ -1,10 +1,13 @@
 ---
-title: DataMissmatchError.DataMissmatchError
-second_title: Aspose.CAD for .NET API Reference
-description: DataMissmatchError constructor. Initializes a new instance of the DataMissmatchError class
+title: "DataMissmatchError.DataMissmatchError"
+linktitle: "DataMissmatchError"
+articleTitle: "DataMissmatchError"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DataMissmatchError constructor. Initializes a new instance of the DataMissmatchError class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions/datamissmatcherror/datamissmatcherror/
+url: "/net/aspose.cad.cadexceptions/datamissmatcherror/datamissmatcherror/"
+product_version: "26.9"
 ---
 ## DataMissmatchError constructor
 
@@ -20,8 +23,7 @@ public DataMissmatchError(string message)
 
 ### See Also
 
-* class [DataMissmatchError](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DataMissmatchError](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 

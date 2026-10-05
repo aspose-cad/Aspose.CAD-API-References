@@ -1,10 +1,13 @@
 ---
-title: GridAndGuidesResouce.DataSize
-second_title: Aspose.CAD for .NET API Reference
-description: GridAndGuidesResouce property. Gets the resource data size in bytes
+title: "GridAndGuidesResouce.DataSize"
+linktitle: "DataSize"
+articleTitle: "DataSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GridAndGuidesResouce property. Gets the resource data size in bytes."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.psd.resources/gridandguidesresouce/datasize/
+weight: 60
+url: "/net/aspose.cad.fileformats.psd.resources/gridandguidesresouce/datasize/"
+product_version: "26.9"
 ---
 ## GridAndGuidesResouce.DataSize property
 
@@ -20,8 +23,7 @@ The resource data size.
 
 ### See Also
 
-* class [GridAndGuidesResouce](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GridAndGuidesResouce](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

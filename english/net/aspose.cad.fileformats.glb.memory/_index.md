@@ -1,18 +1,27 @@
 ---
-title: Aspose.CAD.FileFormats.GLB.Memory
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains entities of GLB memories
+title: "Aspose.CAD.FileFormats.GLB.Memory"
+linktitle: "Aspose.CAD.FileFormats.GLB.Memory"
+articleTitle: "Aspose.CAD.FileFormats.GLB.Memory"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains entities of GLB memories."
 type: docs
-weight: 760
-url: /net/aspose.cad.fileformats.glb.memory/
+weight: 10
+url: "/net/aspose.cad.fileformats.glb.memory/"
+keywords: "Aspose.CAD.FileFormats.GLB.Memory, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains entities of GLB memories.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
 | Class | Description |
 | --- | --- |
 | [MemoryAccessor](./memoryaccessor/) | Wraps a ArraySegment decoding it and exposing its content as arrays of different types. |
+
 ## Structures
 
 | Structure | Description |
@@ -31,5 +40,4 @@ The namespace contains entities of GLB memories.
 | [Vector2Array](./vector2array/) | Wraps an encoded ArraySegment and exposes it as an IList. |
 | [Vector3Array](./vector3array/) | Wraps an encoded ArraySegment and exposes it as an IList. |
 | [Vector4Array](./vector4array/) | Wraps an encoded ArraySegment and exposes it as an IList. |
-
 

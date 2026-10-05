@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.LeaderLineWeight
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader property. Gets or sets the leader line weight
+title: "CadMLeader.LeaderLineWeight"
+linktitle: "LeaderLineWeight"
+articleTitle: "LeaderLineWeight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader property. Gets or sets the leader line weight."
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/leaderlineweight/
+weight: 270
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/leaderlineweight/"
+product_version: "26.9"
 ---
 ## CadMLeader.LeaderLineWeight property
 
@@ -20,8 +23,7 @@ The leader line weight.
 
 ### See Also
 
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

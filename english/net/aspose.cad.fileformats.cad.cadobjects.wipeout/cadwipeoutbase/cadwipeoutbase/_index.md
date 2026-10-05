@@ -1,10 +1,13 @@
 ---
-title: CadWipeoutBase.CadWipeoutBase
-second_title: Aspose.CAD for .NET API Reference
-description: CadWipeoutBase constructor. Initializes a new instance of the CadWipeoutBase class
+title: "CadWipeoutBase.CadWipeoutBase"
+linktitle: "CadWipeoutBase"
+articleTitle: "CadWipeoutBase"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadWipeoutBase constructor. Initializes a new instance of the CadWipeoutBase class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/cadwipeoutbase/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/cadwipeoutbase/"
+product_version: "26.9"
 ---
 ## CadWipeoutBase constructor
 
@@ -16,8 +19,7 @@ public CadWipeoutBase()
 
 ### See Also
 
-* class [CadWipeoutBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadWipeoutBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
+* assembly [Aspose.CAD](../../../)
 

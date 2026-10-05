@@ -1,12 +1,17 @@
 ---
-title: AnnotationEntityBuilder.WithDirection
-second_title: Aspose.CAD for .NET API Reference
-description: AnnotationEntityBuilder method. 
+title: "AnnotationEntityBuilder.WithDirection"
+linktitle: "WithDirection"
+articleTitle: "WithDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AnnotationEntityBuilder method."
 type: docs
-weight: 40
-url: /net/aspose.cad.annotations/annotationentitybuilder/withdirection/
+weight: 90
+url: "/net/aspose.cad.annotations/annotationentitybuilder/withdirection/"
+product_version: "26.9"
 ---
 ## AnnotationEntityBuilder.WithDirection method
+
+
 
 ```csharp
 public AnnotationEntityBuilder WithDirection(AnnotationDirection annotationDirection)
@@ -14,9 +19,8 @@ public AnnotationEntityBuilder WithDirection(AnnotationDirection annotationDirec
 
 ### See Also
 
-* enum [AnnotationDirection](../../annotationdirection/)
-* class [AnnotationEntityBuilder](../)
-* namespace [Aspose.CAD.Annotations](../../../aspose.cad.annotations/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AnnotationEntityBuilder](../)
+* enum [AnnotationDirection](../../annotationdirection/)
+* namespace [Aspose.CAD.Annotations](../../../aspose.cad.annotations/)
+* assembly [Aspose.CAD](../../../)
 

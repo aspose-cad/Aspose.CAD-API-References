@@ -1,10 +1,13 @@
 ---
-title: CadLight.Status
-second_title: Aspose.CAD for .NET API Reference
-description: CadLight property. Gets or sets a value indicating whether this CadLight is status
+title: "CadLight.Status"
+linktitle: "Status"
+articleTitle: "Status"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLight property. Gets or sets a value indicating whether this CadLight is status."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/status/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlight/status/"
+product_version: "26.9"
 ---
 ## CadLight.Status property
 
@@ -20,8 +23,7 @@ public bool Status { get; set; }
 
 ### See Also
 
-* class [CadLight](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLight](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,21 @@
 ---
-title: Class AssetUnit
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.AssetUnit class. The asset unit. The unit element contains descriptive information about unit of measure. It has attributes for the name of the unit and the measurement with respect to the meter. The unit element may appear zero or one time
+title: "AssetUnit Class"
+linktitle: "AssetUnit"
+articleTitle: "AssetUnit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.AssetUnit class. The asset unit. The unit element contains descriptive information about unit of measure. ..."
 type: docs
-weight: 7370
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/assetunit/
+weight: 50
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/assetunit/"
+keywords: "AssetUnit, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## AssetUnit class
 
-The asset unit. The unit element contains descriptive information about unit of measure. It has attributes for the name of the unit and the measurement with respect to the meter. The unit element may appear zero or one time.
+The asset unit.
+ The unit element contains descriptive information about unit of measure.
+ It has attributes for the name of the unit and the measurement with respect to the meter.
+ The unit element may appear zero or one time.
 
 ```csharp
 public class AssetUnit : ColladaElement
@@ -24,13 +31,12 @@ public class AssetUnit : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Meter](../../aspose.cad.fileformats.collada.fileparser.elements/assetunit/meter/) { get; set; } | Gets or sets the meter. The meter attribute specifies the measurement with respect to the meter. The default value for the meter attribute is "1.0". |
-| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/assetunit/name/) { get; set; } | Gets or sets the name. The name attribute specifies the name of the unit. The default value for the name attribute is "meter". |
+| [Meter](../../aspose.cad.fileformats.collada.fileparser.elements/assetunit/meter/) { get; set; } | Gets or sets the meter. The meter attribute specifies the measurement with respect to the meter. The default value for the meter attribute is "1.0". |
+| [Name](../../aspose.cad.fileformats.collada.fileparser.elements/assetunit/name/) { get; set; } | Gets or sets the name. The name attribute specifies the name of the unit. The default value for the name attribute is "meter". |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

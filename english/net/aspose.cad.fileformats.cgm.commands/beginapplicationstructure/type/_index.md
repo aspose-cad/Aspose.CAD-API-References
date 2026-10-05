@@ -1,12 +1,17 @@
 ---
-title: BeginApplicationStructure.Type
-second_title: Aspose.CAD for .NET API Reference
-description: BeginApplicationStructure property. 
+title: "BeginApplicationStructure.Type"
+linktitle: "Type"
+articleTitle: "Type"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BeginApplicationStructure property."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cgm.commands/beginapplicationstructure/type/
+weight: 80
+url: "/net/aspose.cad.fileformats.cgm.commands/beginapplicationstructure/type/"
+product_version: "26.9"
 ---
 ## BeginApplicationStructure.Type property
+
+
 
 ```csharp
 public string Type { get; }
@@ -14,8 +19,7 @@ public string Type { get; }
 
 ### See Also
 
-* class [BeginApplicationStructure](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BeginApplicationStructure](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

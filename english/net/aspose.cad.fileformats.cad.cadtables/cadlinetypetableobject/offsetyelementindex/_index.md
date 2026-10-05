@@ -1,10 +1,13 @@
 ---
-title: CadLineTypeTableObject.OffsetYElementIndex
-second_title: Aspose.CAD for .NET API Reference
-description: CadLineTypeTableObject property. Gets or sets the index of the offset y element
+title: "CadLineTypeTableObject.OffsetYElementIndex"
+linktitle: "OffsetYElementIndex"
+articleTitle: "OffsetYElementIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLineTypeTableObject property. Gets or sets the index of the offset y element."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsetyelementindex/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/offsetyelementindex/"
+product_version: "26.9"
 ---
 ## CadLineTypeTableObject.OffsetYElementIndex property
 
@@ -20,8 +23,7 @@ The index of the offset y element.
 
 ### See Also
 
-* class [CadLineTypeTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLineTypeTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

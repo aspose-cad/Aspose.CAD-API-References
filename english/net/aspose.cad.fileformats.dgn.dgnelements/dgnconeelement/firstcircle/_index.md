@@ -1,10 +1,13 @@
 ---
-title: DgnConeElement.FirstCircle
-second_title: Aspose.CAD for .NET API Reference
-description: DgnConeElement property. Gets first circle
+title: "DgnConeElement.FirstCircle"
+linktitle: "FirstCircle"
+articleTitle: "FirstCircle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnConeElement property. Gets first circle"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/firstcircle/
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnconeelement/firstcircle/"
+product_version: "26.9"
 ---
 ## DgnConeElement.FirstCircle property
 
@@ -16,9 +19,8 @@ public DgnCircle FirstCircle { get; }
 
 ### See Also
 
-* class [DgnCircle](../../../aspose.cad.fileformats.dgn/dgncircle/)
-* class [DgnConeElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnCircle](../../../aspose.cad.fileformats.dgn/dgncircle/)
+* class [DgnConeElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

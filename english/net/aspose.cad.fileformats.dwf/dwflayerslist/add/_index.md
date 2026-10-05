@@ -1,10 +1,13 @@
 ---
-title: DwfLayersList.Add
-second_title: Aspose.CAD for .NET API Reference
-description: DwfLayersList method. Adds an item to the DwfLayersList
+title: "DwfLayersList.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfLayersList method. Adds an item to the DwfLayersList"
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.dwf/dwflayerslist/add/
+weight: 60
+url: "/net/aspose.cad.fileformats.dwf/dwflayerslist/add/"
+product_version: "26.9"
 ---
 ## DwfLayersList.Add method
 
@@ -20,9 +23,8 @@ public void Add(DwfWhipLayer item)
 
 ### See Also
 
-* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
-* class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
+* class [DwfLayersList](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

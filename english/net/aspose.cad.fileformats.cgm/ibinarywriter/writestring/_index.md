@@ -1,12 +1,17 @@
 ---
-title: IBinaryWriter.WriteString
-second_title: Aspose.CAD for .NET API Reference
-description: IBinaryWriter method. 
+title: "IBinaryWriter.WriteString"
+linktitle: "WriteString"
+articleTitle: "WriteString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IBinaryWriter method."
 type: docs
-weight: 200
-url: /net/aspose.cad.fileformats.cgm/ibinarywriter/writestring/
+weight: 10
+url: "/net/aspose.cad.fileformats.cgm/ibinarywriter/writestring/"
+product_version: "26.9"
 ---
 ## IBinaryWriter.WriteString method
+
+
 
 ```csharp
 public void WriteString(string data)
@@ -14,8 +19,7 @@ public void WriteString(string data)
 
 ### See Also
 
-* interface [IBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBinaryWriter](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

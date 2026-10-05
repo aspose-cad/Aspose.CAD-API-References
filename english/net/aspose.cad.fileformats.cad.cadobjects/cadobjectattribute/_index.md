@@ -1,10 +1,14 @@
 ---
-title: Class CadObjectAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.CadObjectAttribute class. CadObjectAttribute
+title: "CadObjectAttribute Class"
+linktitle: "CadObjectAttribute"
+articleTitle: "CadObjectAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadObjectAttribute class. CadObjectAttribute"
 type: docs
-weight: 3030
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/
+weight: 970
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/"
+keywords: "CadObjectAttribute, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadObjectAttribute class
 
@@ -24,14 +28,14 @@ public class CadObjectAttribute : CadObjectBase
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
-| [AttributeValues](../../aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/attributevalues/) { get; set; } | Gets or sets the attribute values. |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
-| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/name/) { get; set; } | Gets or sets the name. |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [AttributeValues](../../aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/attributevalues/) { get; set; } | Gets or sets the attribute values. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/name/) { get; set; } | Gets or sets the name. |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods
 
@@ -42,8 +46,7 @@ public class CadObjectAttribute : CadObjectBase
 
 ### See Also
 
-* class [CadObjectBase](../cadobjectbase/)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../)
-
+* class [CadObjectBase](../cadobjectbase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadLineTypeTableObject.StyleReference
-second_title: Aspose.CAD for .NET API Reference
-description: CadLineTypeTableObject property. Gets or sets the style reference
+title: "CadLineTypeTableObject.StyleReference"
+linktitle: "StyleReference"
+articleTitle: "StyleReference"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLineTypeTableObject property. Gets or sets the style reference."
 type: docs
 weight: 180
-url: /net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/stylereference/
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadlinetypetableobject/stylereference/"
+product_version: "26.9"
 ---
 ## CadLineTypeTableObject.StyleReference property
 
@@ -20,8 +23,7 @@ The style reference.
 
 ### See Also
 
-* class [CadLineTypeTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLineTypeTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

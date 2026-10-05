@@ -1,10 +1,13 @@
 ---
-title: CadAttDef.Clone
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttDef method. Clones current object
+title: "CadAttDef.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttDef method. Clones current object"
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/clone/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/clone/"
+product_version: "26.9"
 ---
 ## CadAttDef.Clone method
 
@@ -20,8 +23,7 @@ Clone of current object
 
 ### See Also
 
-* class [CadAttDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAttDef](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

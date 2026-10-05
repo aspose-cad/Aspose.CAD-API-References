@@ -1,10 +1,13 @@
 ---
-title: Effect.ProfileBridge
-second_title: Aspose.CAD for .NET API Reference
-description: Effect property. Gets or sets the profile bridge
+title: "Effect.ProfileBridge"
+linktitle: "ProfileBridge"
+articleTitle: "ProfileBridge"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Effect property. Gets or sets the profile bridge."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/effect/profilebridge/
+weight: 60
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/effect/profilebridge/"
+product_version: "26.9"
 ---
 ## Effect.ProfileBridge property
 
@@ -16,9 +19,8 @@ public ProfileBridge[] ProfileBridge { get; set; }
 
 ### See Also
 
-* class [ProfileBridge](../../profilebridge/)
-* class [Effect](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ProfileBridge](../../profilebridge/)
+* class [Effect](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

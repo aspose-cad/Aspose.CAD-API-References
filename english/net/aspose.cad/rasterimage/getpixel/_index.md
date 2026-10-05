@@ -1,10 +1,13 @@
 ---
-title: RasterImage.GetPixel
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Gets an image pixel
+title: "RasterImage.GetPixel"
+linktitle: "GetPixel"
+articleTitle: "GetPixel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Gets an image pixel."
 type: docs
-weight: 270
-url: /net/aspose.cad/rasterimage/getpixel/
+weight: 200
+url: "/net/aspose.cad/rasterimage/getpixel/"
+product_version: "26.9"
 ---
 ## RasterImage.GetPixel method
 
@@ -25,9 +28,8 @@ The pixel color for the specified location.
 
 ### See Also
 
-* struct [Color](../../color/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../color/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

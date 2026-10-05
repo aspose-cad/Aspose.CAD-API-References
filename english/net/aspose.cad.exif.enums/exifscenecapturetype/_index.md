@@ -1,10 +1,13 @@
 ---
-title: Enum ExifSceneCaptureType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifSceneCaptureType enum. exif scene capture type enum
+title: "ExifSceneCaptureType Enum"
+linktitle: "ExifSceneCaptureType"
+articleTitle: "ExifSceneCaptureType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifSceneCaptureType enum. exif scene capture type enum."
 type: docs
-weight: 660
-url: /net/aspose.cad.exif.enums/exifscenecapturetype/
+weight: 150
+url: "/net/aspose.cad.exif.enums/exifscenecapturetype/"
+product_version: "26.9"
 ---
 ## ExifSceneCaptureType enumeration
 
@@ -25,7 +28,6 @@ public enum ExifSceneCaptureType
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

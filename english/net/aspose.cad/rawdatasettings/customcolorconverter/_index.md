@@ -1,10 +1,13 @@
 ---
-title: RawDataSettings.CustomColorConverter
-second_title: Aspose.CAD for .NET API Reference
-description: RawDataSettings property. Gets or sets the custom color converter
+title: "RawDataSettings.CustomColorConverter"
+linktitle: "CustomColorConverter"
+articleTitle: "CustomColorConverter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RawDataSettings property. Gets or sets the custom color converter"
 type: docs
-weight: 30
-url: /net/aspose.cad/rawdatasettings/customcolorconverter/
+weight: 60
+url: "/net/aspose.cad/rawdatasettings/customcolorconverter/"
+product_version: "26.9"
 ---
 ## RawDataSettings.CustomColorConverter property
 
@@ -20,9 +23,8 @@ The custom color converter
 
 ### See Also
 
-* interface [IColorConverter](../../icolorconverter/)
-* class [RawDataSettings](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IColorConverter](../../icolorconverter/)
+* class [RawDataSettings](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

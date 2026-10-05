@@ -1,10 +1,13 @@
 ---
-title: RasterImage.LoadArgb32Pixels
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Loads 32bit ARGB pixels
+title: "RasterImage.LoadArgb32Pixels"
+linktitle: "LoadArgb32Pixels"
+articleTitle: "LoadArgb32Pixels"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Loads 32-bit ARGB pixels."
 type: docs
 weight: 290
-url: /net/aspose.cad/rasterimage/loadargb32pixels/
+url: "/net/aspose.cad/rasterimage/loadargb32pixels/"
+product_version: "26.9"
 ---
 ## RasterImage.LoadArgb32Pixels method
 
@@ -24,9 +27,8 @@ The loaded 32-bit ARGB pixels array.
 
 ### See Also
 
-* struct [Rectangle](../../rectangle/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Rectangle](../../rectangle/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

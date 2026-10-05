@@ -1,10 +1,13 @@
 ---
-title: ObjImage.IsCached
-second_title: Aspose.CAD for .NET API Reference
-description: ObjImage property. Gets a value indicating whether objects data is cached currently and no data reading is required
+title: "ObjImage.IsCached"
+linktitle: "IsCached"
+articleTitle: "IsCached"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjImage property. Gets a value indicating whether object's data is cached currently and no data reading is required."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.obj/objimage/iscached/
+weight: 80
+url: "/net/aspose.cad.fileformats.obj/objimage/iscached/"
+product_version: "26.9"
 ---
 ## ObjImage.IsCached property
 
@@ -20,8 +23,7 @@ public override bool IsCached { get; }
 
 ### See Also
 
-* class [ObjImage](../)
-* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjImage](../)
+* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DwfWhipPointSet.DwfWhipPointSet
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipPointSet constructor. The default constructor
+title: "DwfWhipPointSet.DwfWhipPointSet"
+linktitle: "DwfWhipPointSet"
+articleTitle: "DwfWhipPointSet"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipPointSet constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippointset/dwfwhippointset/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippointset/dwfwhippointset/"
+product_version: "26.9"
 ---
 ## DwfWhipPointSet constructor
 
@@ -16,8 +19,7 @@ public DwfWhipPointSet()
 
 ### See Also
 
-* class [DwfWhipPointSet](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipPointSet](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
+* assembly [Aspose.CAD](../../../)
 

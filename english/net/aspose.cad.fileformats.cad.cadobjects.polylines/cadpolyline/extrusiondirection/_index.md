@@ -1,10 +1,13 @@
 ---
-title: CadPolyline.ExtrusionDirection
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolyline property. Gets or sets the extrusion direction
+title: "CadPolyline.ExtrusionDirection"
+linktitle: "ExtrusionDirection"
+articleTitle: "ExtrusionDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolyline property. Gets or sets the extrusion direction."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline/extrusiondirection/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline/extrusiondirection/"
+product_version: "26.9"
 ---
 ## CadPolyline.ExtrusionDirection property
 
@@ -16,9 +19,8 @@ public override Cad3DPoint ExtrusionDirection { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [CadPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [CadPolyline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

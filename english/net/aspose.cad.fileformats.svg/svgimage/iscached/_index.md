@@ -1,10 +1,13 @@
 ---
-title: SvgImage.IsCached
-second_title: Aspose.CAD for .NET API Reference
-description: SvgImage property. Gets wether image is cached
+title: "SvgImage.IsCached"
+linktitle: "IsCached"
+articleTitle: "IsCached"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SvgImage property. Gets wether image is cached"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.svg/svgimage/iscached/
+weight: 50
+url: "/net/aspose.cad.fileformats.svg/svgimage/iscached/"
+product_version: "26.9"
 ---
 ## SvgImage.IsCached property
 
@@ -16,8 +19,7 @@ public override bool IsCached { get; }
 
 ### See Also
 
-* class [SvgImage](../)
-* namespace [Aspose.CAD.FileFormats.Svg](../../../aspose.cad.fileformats.svg/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SvgImage](../)
+* namespace [Aspose.CAD.FileFormats.Svg](../../../aspose.cad.fileformats.svg/)
+* assembly [Aspose.CAD](../../../)
 

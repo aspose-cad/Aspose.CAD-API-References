@@ -1,10 +1,13 @@
 ---
-title: Enum EnumFxSamplerMipFilter
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxSamplerMipFilter enum. The enumeration FX sampler MIP filter
+title: "EnumFxSamplerMipFilter Enum"
+linktitle: "EnumFxSamplerMipFilter"
+articleTitle: "EnumFxSamplerMipFilter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxSamplerMipFilter enum. The enumeration FX sampler MIP filter."
 type: docs
-weight: 7670
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplermipfilter/
+weight: 350
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplermipfilter/"
+product_version: "26.9"
 ---
 ## EnumFxSamplerMipFilter enumeration
 
@@ -24,7 +27,6 @@ public enum EnumFxSamplerMipFilter
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

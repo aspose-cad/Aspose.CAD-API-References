@@ -1,12 +1,17 @@
 ---
-title: ExtraProperties.GetExtension
-second_title: Aspose.CAD for .NET API Reference
-description: ExtraProperties method. 
+title: "ExtraProperties.GetExtension"
+linktitle: "GetExtension"
+articleTitle: "GetExtension"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExtraProperties method."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.glb/extraproperties/getextension/
+weight: 10
+url: "/net/aspose.cad.fileformats.glb/extraproperties/getextension/"
+product_version: "26.9"
 ---
 ## ExtraProperties.GetExtension&lt;T&gt; method
+
+
 
 ```csharp
 public T GetExtension<T>()
@@ -15,9 +20,7 @@ public T GetExtension<T>()
 
 ### See Also
 
-* class [JsonSerializable](../../../aspose.cad.fileformats.glb.io/jsonserializable/)
-* class [ExtraProperties](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExtraProperties](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

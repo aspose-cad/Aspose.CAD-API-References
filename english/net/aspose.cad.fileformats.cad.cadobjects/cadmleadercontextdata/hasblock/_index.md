@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.HasBlock
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets a value indicating whether this instance has block
+title: "CadMLeaderContextData.HasBlock"
+linktitle: "HasBlock"
+articleTitle: "HasBlock"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets a value indicating whether this instance has block."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/hasblock/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/hasblock/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.HasBlock property
 
@@ -20,8 +23,7 @@ public bool HasBlock { get; set; }
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

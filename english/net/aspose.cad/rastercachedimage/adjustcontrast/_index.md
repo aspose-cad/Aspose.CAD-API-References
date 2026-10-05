@@ -1,10 +1,13 @@
 ---
-title: RasterCachedImage.AdjustContrast
-second_title: Aspose.CAD for .NET API Reference
-description: RasterCachedImage method. Image contrasting
+title: "RasterCachedImage.AdjustContrast"
+linktitle: "AdjustContrast"
+articleTitle: "AdjustContrast"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterCachedImage method. Image contrasting"
 type: docs
-weight: 30
-url: /net/aspose.cad/rastercachedimage/adjustcontrast/
+weight: 120
+url: "/net/aspose.cad/rastercachedimage/adjustcontrast/"
+product_version: "26.9"
 ---
 ## RasterCachedImage.AdjustContrast method
 
@@ -20,8 +23,7 @@ public override void AdjustContrast(float contrast)
 
 ### See Also
 
-* class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterCachedImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

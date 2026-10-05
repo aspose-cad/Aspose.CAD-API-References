@@ -1,10 +1,13 @@
 ---
-title: IPsdColorPalette.RawEntriesCount
-second_title: Aspose.CAD for .NET API Reference
-description: IPsdColorPalette property. Gets the raw color palette entries count
+title: "IPsdColorPalette.RawEntriesCount"
+linktitle: "RawEntriesCount"
+articleTitle: "RawEntriesCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IPsdColorPalette property. Gets the raw color palette entries count."
 type: docs
-weight: 30
-url: /net/aspose.cad/ipsdcolorpalette/rawentriescount/
+weight: 50
+url: "/net/aspose.cad/ipsdcolorpalette/rawentriescount/"
+product_version: "26.9"
 ---
 ## IPsdColorPalette.RawEntriesCount property
 
@@ -20,8 +23,7 @@ The raw color palette entries count.
 
 ### See Also
 
-* interface [IPsdColorPalette](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IPsdColorPalette](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

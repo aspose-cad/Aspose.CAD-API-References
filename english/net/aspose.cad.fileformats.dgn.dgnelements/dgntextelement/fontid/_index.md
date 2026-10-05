@@ -1,10 +1,13 @@
 ---
-title: DgnTextElement.FontId
-second_title: Aspose.CAD for .NET API Reference
-description: DgnTextElement property. Gets or sets font id
+title: "DgnTextElement.FontId"
+linktitle: "FontId"
+articleTitle: "FontId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnTextElement property. Gets or sets font id"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntextelement/fontid/
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgntextelement/fontid/"
+product_version: "26.9"
 ---
 ## DgnTextElement.FontId property
 
@@ -16,8 +19,7 @@ public int FontId { get; }
 
 ### See Also
 
-* class [DgnTextElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnTextElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

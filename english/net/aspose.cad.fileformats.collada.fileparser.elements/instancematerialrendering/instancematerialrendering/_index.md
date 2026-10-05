@@ -1,10 +1,13 @@
 ---
-title: InstanceMaterialRendering.InstanceMaterialRendering
-second_title: Aspose.CAD for .NET API Reference
-description: InstanceMaterialRendering constructor. The default constructor
+title: "InstanceMaterialRendering.InstanceMaterialRendering"
+linktitle: "InstanceMaterialRendering"
+articleTitle: "InstanceMaterialRendering"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "InstanceMaterialRendering constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancematerialrendering/instancematerialrendering/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/instancematerialrendering/instancematerialrendering/"
+product_version: "26.9"
 ---
 ## InstanceMaterialRendering constructor
 
@@ -16,8 +19,7 @@ public InstanceMaterialRendering()
 
 ### See Also
 
-* class [InstanceMaterialRendering](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InstanceMaterialRendering](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

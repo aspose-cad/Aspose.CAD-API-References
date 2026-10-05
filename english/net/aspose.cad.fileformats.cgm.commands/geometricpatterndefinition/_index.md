@@ -1,12 +1,18 @@
 ---
-title: Class GeometricPatternDefinition
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.GeometricPatternDefinition class. 
+title: "GeometricPatternDefinition Class"
+linktitle: "GeometricPatternDefinition"
+articleTitle: "GeometricPatternDefinition"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.GeometricPatternDefinition class. Class=2, Element=19"
 type: docs
-weight: 5820
-url: /net/aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/
+weight: 1090
+url: "/net/aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/"
+keywords: "GeometricPatternDefinition, Aspose.CAD.FileFormats.Cgm.Commands, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## GeometricPatternDefinition class
+
+Class=2, Element=19
 
 ```csharp
 public class GeometricPatternDefinition : Command
@@ -16,28 +22,28 @@ public class GeometricPatternDefinition : Command
 
 | Name | Description |
 | --- | --- |
-| [GeometricPatternDefinition](geometricpatterndefinition/#constructor)(CgmFile) |  |
-| [GeometricPatternDefinition](geometricpatterndefinition/#constructor_1)(CgmFile, int, int, CgmPoint, CgmPoint) |  |
+| [GeometricPatternDefinition](geometricpatterndefinition/#constructor)(CgmFile) | Initializes a new instance of the GeometricPatternDefinition class. |
+| [GeometricPatternDefinition](geometricpatterndefinition/#constructor_1)(CgmFile, int, int, CgmPoint, CgmPoint) | Initializes a new instance of the GeometricPatternDefinition class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
-| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
-| [FirstCorner](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/firstcorner/) { get; set; } |  |
-| [Identifier](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/identifier/) { get; set; } |  |
-| [PatternIndex](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/patternindex/) { get; set; } |  |
-| [SecondCorner](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/secondcorner/) { get; set; } |  |
+| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
+| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
+| [FirstCorner](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/firstcorner/) { get; set; } |  |
+| [Identifier](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/identifier/) { get; set; } |  |
+| [PatternIndex](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/patternindex/) { get; set; } |  |
+| [SecondCorner](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/secondcorner/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/readfrombinary/)(IBinaryReader) |  |
-| override [ToString](../../aspose.cad.fileformats.cgm.commands/command/tostring/)() |  |
-| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/writeasbinary/)(IBinaryWriter) |  |
-| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/writeascleartext/)(IClearTextWriter) |  |
+| override [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/readfrombinary/)(IBinaryReader) |  |
+| override [ToString](../../aspose.cad.fileformats.cgm.commands/command/tostring/)() |  |
+| override [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/writeasbinary/)(IBinaryWriter) |  |
+| override [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/geometricpatterndefinition/writeascleartext/)(IClearTextWriter) |  |
 
 ## Remarks
 
@@ -45,8 +51,7 @@ Class=2, Element=19
 
 ### See Also
 
-* class [Command](../command/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [Command](../command/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,12 +1,17 @@
 ---
-title: Enum SegmentHighlighting.Highlighting
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.SegmentHighlightingHighlighting enum. 
+title: "SegmentHighlighting.Highlighting Enum"
+linktitle: "SegmentHighlighting.Highlighting"
+articleTitle: "SegmentHighlighting.Highlighting"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.SegmentHighlighting.Highlighting enum."
 type: docs
-weight: 6610
-url: /net/aspose.cad.fileformats.cgm.commands/segmenthighlighting.highlighting/
+weight: 1890
+url: "/net/aspose.cad.fileformats.cgm.commands/segmenthighlighting.highlighting/"
+product_version: "26.9"
 ---
 ## SegmentHighlighting.Highlighting enumeration
+
+
 
 ```csharp
 public enum Highlighting
@@ -21,8 +26,7 @@ public enum Highlighting
 
 ### See Also
 
-* class [SegmentHighlighting](../segmenthighlighting/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [SegmentHighlighting](../segmenthighlighting/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

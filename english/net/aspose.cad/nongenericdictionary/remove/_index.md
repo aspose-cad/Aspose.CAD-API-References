@@ -1,14 +1,18 @@
 ---
-title: NonGenericDictionary.Remove
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericDictionary method. Removes the element with the specified key from the IDictionary object
+title: "NonGenericDictionary.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericDictionary method. Removes the element with the specified key from the IDictionary object."
 type: docs
-weight: 150
-url: /net/aspose.cad/nongenericdictionary/remove/
+weight: 20
+url: "/net/aspose.cad/nongenericdictionary/remove/"
+product_version: "26.9"
 ---
 ## NonGenericDictionary.Remove method
 
-Removes the element with the specified key from the IDictionary object.
+Removes the element with the specified key from the 
+ `IDictionary` object.
 
 ```csharp
 public void Remove(object key)
@@ -20,8 +24,7 @@ public void Remove(object key)
 
 ### See Also
 
-* class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericDictionary](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

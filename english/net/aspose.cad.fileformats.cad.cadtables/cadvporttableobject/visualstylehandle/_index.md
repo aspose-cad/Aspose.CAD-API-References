@@ -1,10 +1,13 @@
 ---
-title: CadVportTableObject.VisualStyleHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadVportTableObject property. Gets or sets the visual style handle
+title: "CadVportTableObject.VisualStyleHandle"
+linktitle: "VisualStyleHandle"
+articleTitle: "VisualStyleHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVportTableObject property. Gets or sets the visual style handle."
 type: docs
-weight: 500
-url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/visualstylehandle/
+weight: 430
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/visualstylehandle/"
+product_version: "26.9"
 ---
 ## CadVportTableObject.VisualStyleHandle property
 
@@ -20,8 +23,7 @@ The visual style handle.
 
 ### See Also
 
-* class [CadVportTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVportTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

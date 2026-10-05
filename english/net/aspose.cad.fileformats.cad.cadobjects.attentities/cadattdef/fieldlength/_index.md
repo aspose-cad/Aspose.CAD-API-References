@@ -1,10 +1,13 @@
 ---
-title: CadAttDef.FieldLength
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttDef property. Gets or sets the field length
+title: "CadAttDef.FieldLength"
+linktitle: "FieldLength"
+articleTitle: "FieldLength"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttDef property. Gets or sets the field length."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/fieldlength/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/fieldlength/"
+product_version: "26.9"
 ---
 ## CadAttDef.FieldLength property
 
@@ -16,8 +19,7 @@ public short FieldLength { get; set; }
 
 ### See Also
 
-* class [CadAttDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAttDef](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

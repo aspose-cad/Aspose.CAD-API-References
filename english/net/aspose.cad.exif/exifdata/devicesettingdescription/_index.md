@@ -1,10 +1,13 @@
 ---
-title: ExifData.DeviceSettingDescription
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets device settings description
+title: "ExifData.DeviceSettingDescription"
+linktitle: "DeviceSettingDescription"
+articleTitle: "DeviceSettingDescription"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets device settings description"
 type: docs
-weight: 150
-url: /net/aspose.cad.exif/exifdata/devicesettingdescription/
+weight: 200
+url: "/net/aspose.cad.exif/exifdata/devicesettingdescription/"
+product_version: "26.9"
 ---
 ## ExifData.DeviceSettingDescription property
 
@@ -20,8 +23,7 @@ The device setting description.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

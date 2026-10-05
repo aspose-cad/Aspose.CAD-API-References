@@ -1,10 +1,13 @@
 ---
-title: RdOptimizerSettings.BppScale
-second_title: Aspose.CAD for .NET API Reference
-description: RdOptimizerSettings property. Gets or sets the BPP bits per pixel scale factor
+title: "RdOptimizerSettings.BppScale"
+linktitle: "BppScale"
+articleTitle: "BppScale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RdOptimizerSettings property. Gets or sets the BPP (bits per pixel) scale factor."
 type: docs
-weight: 40
-url: /net/aspose.cad.imageoptions/rdoptimizersettings/bppscale/
+weight: 30
+url: "/net/aspose.cad.imageoptions/rdoptimizersettings/bppscale/"
+product_version: "26.9"
 ---
 ## RdOptimizerSettings.BppScale property
 
@@ -20,8 +23,7 @@ The BPP scale.
 
 ### See Also
 
-* class [RdOptimizerSettings](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RdOptimizerSettings](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

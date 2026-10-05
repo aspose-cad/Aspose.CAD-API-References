@@ -1,12 +1,35 @@
 ---
-title: IntRange.IntRange
-second_title: Aspose.CAD for .NET API Reference
-description: IntRange constructor. Initializes a new instance of the IntRange class
+title: "IntRange.IntRange"
+linktitle: "IntRange"
+articleTitle: "IntRange"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IntRange constructor. Initializes a new instance of the IntRange class."
 type: docs
 weight: 10
-url: /net/aspose.cad/intrange/intrange/
+url: "/net/aspose.cad/intrange/intrange/"
+product_version: "26.9"
 ---
-## IntRange(int, int) {#constructor}
+## IntRange(int[]) {#constructor}
+
+Initializes a new instance of the [`IntRange`](../) class.
+
+```csharp
+public IntRange(int[] range)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| range | Int32[] | The range. |
+
+### See Also
+
+* class [IntRange](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## IntRange(int, int) {#constructor_1}
 
 Initializes a new instance of the [`IntRange`](../) class.
 
@@ -21,13 +44,13 @@ public IntRange(int start, int count)
 
 ### See Also
 
-* class [IntRange](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [IntRange](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## IntRange(int, int, int) {#constructor_1}
+## IntRange(int, int, int) {#constructor_2}
 
 Initializes a new instance of the [`IntRange`](../) class.
 
@@ -43,28 +66,7 @@ public IntRange(int start, int count, int delta)
 
 ### See Also
 
-* class [IntRange](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## IntRange(int[]) {#constructor_2}
-
-Initializes a new instance of the [`IntRange`](../) class.
-
-```csharp
-public IntRange(int[] range)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| range | Int32[] | The range. |
-
-### See Also
-
-* class [IntRange](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IntRange](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

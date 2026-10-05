@@ -1,10 +1,13 @@
 ---
-title: CadTableStyle.Flags
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableStyle property. Gets or sets the flags
+title: "CadTableStyle.Flags"
+linktitle: "Flags"
+articleTitle: "Flags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableStyle property. Gets or sets the flags."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestyle/flags/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestyle/flags/"
+product_version: "26.9"
 ---
 ## CadTableStyle.Flags property
 
@@ -20,8 +23,7 @@ The flags.
 
 ### See Also
 
-* class [CadTableStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

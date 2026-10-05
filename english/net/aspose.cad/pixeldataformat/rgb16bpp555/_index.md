@@ -1,10 +1,13 @@
 ---
-title: PixelDataFormat.Rgb16Bpp555
-second_title: Aspose.CAD for .NET API Reference
-description: PixelDataFormat property. Gets the PixelDataFormat defined for 16 bits per pixel with 5 bits for each of the red green and blue alpha is not defined
+title: "PixelDataFormat.Rgb16Bpp555"
+linktitle: "Rgb16Bpp555"
+articleTitle: "Rgb16Bpp555"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PixelDataFormat property. Gets the PixelDataFormat defined for 16 bits per pixel with 5 bits for each of the red, green and blue, alpha is not defined."
 type: docs
-weight: 40
-url: /net/aspose.cad/pixeldataformat/rgb16bpp555/
+weight: 90
+url: "/net/aspose.cad/pixeldataformat/rgb16bpp555/"
+product_version: "26.9"
 ---
 ## PixelDataFormat.Rgb16Bpp555 property
 
@@ -20,8 +23,7 @@ The [`PixelDataFormat`](../) defined for 16 bits per pixel with 5 bits for each 
 
 ### See Also
 
-* class [PixelDataFormat](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PixelDataFormat](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

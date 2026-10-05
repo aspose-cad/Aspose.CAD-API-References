@@ -1,12 +1,17 @@
 ---
-title: RectangleElement.RectangleElement
-second_title: Aspose.CAD for .NET API Reference
-description: RectangleElement constructor. 
+title: "RectangleElement.RectangleElement"
+linktitle: "RectangleElement"
+articleTitle: "RectangleElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RectangleElement constructor. Initializes a new instance of the RectangleElement class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.commands/rectangleelement/rectangleelement/
+url: "/net/aspose.cad.fileformats.cgm.commands/rectangleelement/rectangleelement/"
+product_version: "26.9"
 ---
 ## RectangleElement(CgmFile) {#constructor}
+
+Initializes a new instance of the RectangleElement class.
 
 ```csharp
 public RectangleElement(CgmFile container)
@@ -14,14 +19,16 @@ public RectangleElement(CgmFile container)
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [RectangleElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [RectangleElement](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## RectangleElement(CgmFile, CgmPoint, CgmPoint) {#constructor_1}
+## RectangleElement(CgmFile, CgmPoint, CgmPoint) {#constructor_1}
+
+Initializes a new instance of the RectangleElement class.
 
 ```csharp
 public RectangleElement(CgmFile container, CgmPoint firstCorner, CgmPoint secondCorner)
@@ -29,10 +36,9 @@ public RectangleElement(CgmFile container, CgmPoint firstCorner, CgmPoint second
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
-* class [RectangleElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
+* class [RectangleElement](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

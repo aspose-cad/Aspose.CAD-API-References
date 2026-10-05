@@ -1,10 +1,13 @@
 ---
-title: StpImage.StpImage
-second_title: Aspose.CAD for .NET API Reference
-description: StpImage constructor. The default constructor
+title: "StpImage.StpImage"
+linktitle: "StpImage"
+articleTitle: "StpImage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StpImage constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stp/stpimage/stpimage/
+url: "/net/aspose.cad.fileformats.stp/stpimage/stpimage/"
+product_version: "26.9"
 ---
 ## StpImage constructor
 
@@ -16,8 +19,7 @@ public StpImage()
 
 ### See Also
 
-* class [StpImage](../)
-* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StpImage](../)
+* namespace [Aspose.CAD.FileFormats.Stp](../../../aspose.cad.fileformats.stp/)
+* assembly [Aspose.CAD](../../../)
 

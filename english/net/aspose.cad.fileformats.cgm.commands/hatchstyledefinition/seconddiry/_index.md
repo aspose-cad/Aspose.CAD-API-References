@@ -1,12 +1,17 @@
 ---
-title: HatchStyleDefinition.SecondDirY
-second_title: Aspose.CAD for .NET API Reference
-description: HatchStyleDefinition property. 
+title: "HatchStyleDefinition.SecondDirY"
+linktitle: "SecondDirY"
+articleTitle: "SecondDirY"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "HatchStyleDefinition property."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cgm.commands/hatchstyledefinition/seconddiry/
+weight: 110
+url: "/net/aspose.cad.fileformats.cgm.commands/hatchstyledefinition/seconddiry/"
+product_version: "26.9"
 ---
 ## HatchStyleDefinition.SecondDirY property
+
+
 
 ```csharp
 public double SecondDirY { get; set; }
@@ -14,8 +19,7 @@ public double SecondDirY { get; set; }
 
 ### See Also
 
-* class [HatchStyleDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [HatchStyleDefinition](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

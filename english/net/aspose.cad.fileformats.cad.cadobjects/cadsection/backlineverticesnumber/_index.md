@@ -1,10 +1,13 @@
 ---
-title: CadSection.BackLineVerticesNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadSection property. Gets or sets the back line vertices number
+title: "CadSection.BackLineVerticesNumber"
+linktitle: "BackLineVerticesNumber"
+articleTitle: "BackLineVerticesNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSection property. Gets or sets the back line vertices number."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsection/backlineverticesnumber/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsection/backlineverticesnumber/"
+product_version: "26.9"
 ---
 ## CadSection.BackLineVerticesNumber property
 
@@ -20,8 +23,7 @@ The back line vertices number.
 
 ### See Also
 
-* class [CadSection](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSection](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

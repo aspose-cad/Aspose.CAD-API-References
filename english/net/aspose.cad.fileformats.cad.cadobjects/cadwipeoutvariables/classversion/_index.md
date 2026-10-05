@@ -1,10 +1,13 @@
 ---
-title: CadWipeoutVariables.ClassVersion
-second_title: Aspose.CAD for .NET API Reference
-description: CadWipeoutVariables property. Gets or sets the class version
+title: "CadWipeoutVariables.ClassVersion"
+linktitle: "ClassVersion"
+articleTitle: "ClassVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadWipeoutVariables property. Gets or sets the class version."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadwipeoutvariables/classversion/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadwipeoutvariables/classversion/"
+product_version: "26.9"
 ---
 ## CadWipeoutVariables.ClassVersion property
 
@@ -20,8 +23,7 @@ The class version.
 
 ### See Also
 
-* class [CadWipeoutVariables](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadWipeoutVariables](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

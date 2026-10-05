@@ -1,14 +1,18 @@
 ---
-title: LibraryMaterials.Material
-second_title: Aspose.CAD for .NET API Reference
-description: LibraryMaterials property. Gets or sets the material. There must be at least one material element
+title: "LibraryMaterials.Material"
+linktitle: "Material"
+articleTitle: "Material"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LibraryMaterials property. Gets or sets the material. There must be at least one material element."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/librarymaterials/material/
+weight: 30
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/librarymaterials/material/"
+product_version: "26.9"
 ---
 ## LibraryMaterials.Material property
 
-Gets or sets the material. There must be at least one material element.
+Gets or sets the material.
+ There must be at least one material element.
 
 ```csharp
 public Material[] Material { get; set; }
@@ -16,9 +20,8 @@ public Material[] Material { get; set; }
 
 ### See Also
 
-* class [Material](../../material/)
-* class [LibraryMaterials](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Material](../../material/)
+* class [LibraryMaterials](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

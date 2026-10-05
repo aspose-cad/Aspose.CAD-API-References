@@ -1,10 +1,13 @@
 ---
-title: Enum EnumPerspectiveItems
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumPerspectiveItems enum. The enumeration Perspective items
+title: "EnumPerspectiveItems Enum"
+linktitle: "EnumPerspectiveItems"
+articleTitle: "EnumPerspectiveItems"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumPerspectiveItems enum. The enumeration Perspective items."
 type: docs
-weight: 7710
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumperspectiveitems/
+weight: 390
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/enumperspectiveitems/"
+product_version: "26.9"
 ---
 ## EnumPerspectiveItems enumeration
 
@@ -24,7 +27,6 @@ public enum EnumPerspectiveItems
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

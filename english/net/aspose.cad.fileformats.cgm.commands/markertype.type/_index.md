@@ -1,12 +1,17 @@
 ---
-title: Enum MarkerType.Type
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.MarkerTypeType enum. 
+title: "MarkerType.Type Enum"
+linktitle: "MarkerType.Type"
+articleTitle: "MarkerType.Type"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.MarkerType.Type enum."
 type: docs
-weight: 6170
-url: /net/aspose.cad.fileformats.cgm.commands/markertype.type/
+weight: 1450
+url: "/net/aspose.cad.fileformats.cgm.commands/markertype.type/"
+product_version: "26.9"
 ---
 ## MarkerType.Type enumeration
+
+
 
 ```csharp
 public enum Type
@@ -24,8 +29,7 @@ public enum Type
 
 ### See Also
 
-* class [MarkerType](../markertype/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [MarkerType](../markertype/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

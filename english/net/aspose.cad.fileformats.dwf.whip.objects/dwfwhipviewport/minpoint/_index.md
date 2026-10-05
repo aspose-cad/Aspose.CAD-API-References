@@ -1,10 +1,13 @@
 ---
-title: DwfWhipViewPort.MinPoint
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipViewPort property. Gets the min point of object
+title: "DwfWhipViewPort.MinPoint"
+linktitle: "MinPoint"
+articleTitle: "MinPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipViewPort property. Gets the min point of object."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhipviewport/minpoint/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/dwfwhipviewport/minpoint/"
+product_version: "26.9"
 ---
 ## DwfWhipViewPort.MinPoint property
 
@@ -20,9 +23,8 @@ Min point of object.
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [DwfWhipViewPort](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [DwfWhipViewPort](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../../)
 

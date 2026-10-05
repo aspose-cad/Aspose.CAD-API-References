@@ -1,14 +1,18 @@
 ---
-title: Interface IVisualNodeContainer
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.IVisualNodeContainer interface. Represents an abstract interface for a visual hierarchy. Implemented by Node and Scene
+title: "IVisualNodeContainer Interface"
+linktitle: "IVisualNodeContainer"
+articleTitle: "IVisualNodeContainer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.IVisualNodeContainer interface. Represents an abstract interface for a visual hierarchy. Implemented by Node and Scene."
 type: docs
-weight: 10750
-url: /net/aspose.cad.fileformats.glb/ivisualnodecontainer/
+weight: 270
+url: "/net/aspose.cad.fileformats.glb/ivisualnodecontainer/"
+product_version: "26.9"
 ---
 ## IVisualNodeContainer interface
 
-Represents an abstract interface for a visual hierarchy. Implemented by [`Node`](../node/) and [`Scene`](../scene/).
+Represents an abstract interface for a visual hierarchy.
+ Implemented by [`Node`](../node/) and [`Scene`](../scene/).
 
 ```csharp
 public interface IVisualNodeContainer
@@ -18,7 +22,7 @@ public interface IVisualNodeContainer
 
 | Name | Description |
 | --- | --- |
-| [VisualChildren](../../aspose.cad.fileformats.glb/ivisualnodecontainer/visualchildren/) { get; } |  |
+| [VisualChildren](../../aspose.cad.fileformats.glb/ivisualnodecontainer/visualchildren/) { get; } |  |
 
 ## Methods
 
@@ -28,7 +32,6 @@ public interface IVisualNodeContainer
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

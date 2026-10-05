@@ -1,10 +1,13 @@
 ---
-title: ReadSettings.JsonPreprocessor
-second_title: Aspose.CAD for .NET API Reference
-description: ReadSettings property. Gets or sets the callback used to preprocess the json text before parsing it
+title: "ReadSettings.JsonPreprocessor"
+linktitle: "JsonPreprocessor"
+articleTitle: "JsonPreprocessor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ReadSettings property. Gets or sets the callback used to preprocess the json text before parsing it."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.glb/readsettings/jsonpreprocessor/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb/readsettings/jsonpreprocessor/"
+product_version: "26.9"
 ---
 ## ReadSettings.JsonPreprocessor property
 
@@ -16,9 +19,8 @@ public JsonFilterCallback JsonPreprocessor { get; set; }
 
 ### See Also
 
-* delegate [JsonFilterCallback](../../jsonfiltercallback/)
-* class [ReadSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* delegate [JsonFilterCallback](../../jsonfiltercallback/)
+* class [ReadSettings](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadSunStudy.TextStyleId
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunStudy property. Gets or sets the text style identifier
+title: "CadSunStudy.TextStyleId"
+linktitle: "TextStyleId"
+articleTitle: "TextStyleId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunStudy property. Gets or sets the text style identifier."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/textstyleid/
+weight: 270
+url: "/net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/textstyleid/"
+product_version: "26.9"
 ---
 ## CadSunStudy.TextStyleId property
 
@@ -20,8 +23,7 @@ The text style identifier.
 
 ### See Also
 
-* class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunStudy](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
+* assembly [Aspose.CAD](../../../)
 

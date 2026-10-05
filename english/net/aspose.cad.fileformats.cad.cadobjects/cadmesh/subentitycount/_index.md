@@ -1,10 +1,13 @@
 ---
-title: CadMesh.SubEntityCount
-second_title: Aspose.CAD for .NET API Reference
-description: CadMesh property. Gets or sets the sub entity count
+title: "CadMesh.SubEntityCount"
+linktitle: "SubEntityCount"
+articleTitle: "SubEntityCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMesh property. Gets or sets the sub entity count."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmesh/subentitycount/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmesh/subentitycount/"
+product_version: "26.9"
 ---
 ## CadMesh.SubEntityCount property
 
@@ -20,8 +23,7 @@ The sub entity count.
 
 ### See Also
 
-* class [CadMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

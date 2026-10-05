@@ -1,10 +1,13 @@
 ---
-title: RasterImage.RawDataSettings
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage property. Gets the current raw data settings. Note when using these settings the data loads without conversion
+title: "RasterImage.RawDataSettings"
+linktitle: "RawDataSettings"
+articleTitle: "RawDataSettings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage property. Gets the current raw data settings. Note when using these settings the data loads without conversion."
 type: docs
-weight: 80
-url: /net/aspose.cad/rasterimage/rawdatasettings/
+weight: 430
+url: "/net/aspose.cad/rasterimage/rawdatasettings/"
+product_version: "26.9"
 ---
 ## RasterImage.RawDataSettings property
 
@@ -20,9 +23,8 @@ The current raw data settings.
 
 ### See Also
 
-* class [RawDataSettings](../../rawdatasettings/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RawDataSettings](../../rawdatasettings/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadBlockActionWithBasePt.Attribute92
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockActionWithBasePt property. Gets or sets the attribute 92
+title: "CadBlockActionWithBasePt.Attribute92"
+linktitle: "Attribute92"
+articleTitle: "Attribute92"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockActionWithBasePt property. Gets or sets the attribute 92."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/attribute92/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockactionwithbasept/attribute92/"
+product_version: "26.9"
 ---
 ## CadBlockActionWithBasePt.Attribute92 property
 
@@ -20,8 +23,7 @@ The attribute 92.
 
 ### See Also
 
-* class [CadBlockActionWithBasePt](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockActionWithBasePt](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

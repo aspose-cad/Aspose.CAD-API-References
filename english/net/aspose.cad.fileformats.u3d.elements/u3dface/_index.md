@@ -1,12 +1,17 @@
 ---
-title: Struct U3dFace
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.U3d.Elements.U3dFace struct. 
+title: "U3dFace Struct"
+linktitle: "U3dFace"
+articleTitle: "U3dFace"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.U3d.Elements.U3dFace struct."
 type: docs
-weight: 35910
-url: /net/aspose.cad.fileformats.u3d.elements/u3dface/
+weight: 110
+url: "/net/aspose.cad.fileformats.u3d.elements/u3dface/"
+product_version: "26.9"
 ---
-## U3dFace structure
+## U3dFace struct
+
+
 
 ```csharp
 public struct U3dFace
@@ -16,16 +21,15 @@ public struct U3dFace
 
 | Name | Description |
 | --- | --- |
-| [DiffuseColors](../../aspose.cad.fileformats.u3d.elements/u3dface/diffusecolors/) |  |
-| [Normals](../../aspose.cad.fileformats.u3d.elements/u3dface/normals/) |  |
-| [Positions](../../aspose.cad.fileformats.u3d.elements/u3dface/positions/) |  |
-| [shadingID](../../aspose.cad.fileformats.u3d.elements/u3dface/shadingid/) |  |
-| [SpecularColors](../../aspose.cad.fileformats.u3d.elements/u3dface/specularcolors/) |  |
-| [TexCoords](../../aspose.cad.fileformats.u3d.elements/u3dface/texcoords/) |  |
+| DiffuseColors |  |
+| Normals |  |
+| Positions |  |
+| ShadingId |  |
+| SpecularColors |  |
+| TexCoords |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../aspose.cad.fileformats.u3d.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../aspose.cad.fileformats.u3d.elements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadRasterizationOptions.ShxCodePages
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterizationOptions property. Gets or sets the SHX sources
+title: "CadRasterizationOptions.ShxCodePages"
+linktitle: "ShxCodePages"
+articleTitle: "ShxCodePages"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterizationOptions property. Gets or sets the SHX sources."
 type: docs
-weight: 160
-url: /net/aspose.cad.imageoptions/cadrasterizationoptions/shxcodepages/
+weight: 180
+url: "/net/aspose.cad.imageoptions/cadrasterizationoptions/shxcodepages/"
+product_version: "26.9"
 ---
 ## CadRasterizationOptions.ShxCodePages property
 
@@ -20,9 +23,8 @@ The SHX sources.
 
 ### See Also
 
-* class [ShxCodePage](../../../aspose.cad.fileformats.shx/shxcodepage/)
-* class [CadRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ShxCodePage](../../../aspose.cad.fileformats.shx/shxcodepage/)
+* class [CadRasterizationOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,18 @@
 ---
-title: DracoImage.CacheData
-second_title: Aspose.CAD for .NET API Reference
-description: DracoImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer. Not implemented
+title: "DracoImage.CacheData"
+linktitle: "CacheData"
+articleTitle: "CacheData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DracoImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer. Not implemented."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.draco/dracoimage/cachedata/
+weight: 10
+url: "/net/aspose.cad.fileformats.draco/dracoimage/cachedata/"
+product_version: "26.9"
 ---
 ## DracoImage.CacheData method
 
-Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamContainer`](../../../aspose.cad/datastreamsupporter/datastreamcontainer/). Not implemented.
+Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamContainer`](../../../aspose.cad/datastreamsupporter/datastreamcontainer/).
+ Not implemented.
 
 ```csharp
 public override void CacheData()
@@ -22,8 +26,7 @@ public override void CacheData()
 
 ### See Also
 
-* class [DracoImage](../)
-* namespace [Aspose.CAD.FileFormats.Draco](../../../aspose.cad.fileformats.draco/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DracoImage](../)
+* namespace [Aspose.CAD.FileFormats.Draco](../../../aspose.cad.fileformats.draco/)
+* assembly [Aspose.CAD](../../../)
 

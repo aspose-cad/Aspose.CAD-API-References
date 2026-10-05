@@ -1,14 +1,18 @@
 ---
-title: IfcEntityBase.op_Inequality
-second_title: Aspose.CAD for .NET API Reference
-description: IfcEntityBase method. Implements the operator . Used to compare two entities to does not equal
+title: "IfcEntityBase.op_Inequality"
+linktitle: "op_Inequality"
+articleTitle: "op_Inequality"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcEntityBase method. Implements the operator !=. Used to compare two entities to does not equal"
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.ifc/ifcentitybase/op_inequality/
+weight: 40
+url: "/net/aspose.cad.fileformats.ifc/ifcentitybase/op_inequality/"
+product_version: "26.9"
 ---
 ## IfcEntityBase Inequality operator
 
-Implements the operator !=. Used to compare two entities to does not equal
+Implements the operator !=.
+ Used to compare two entities to does not equal
 
 ```csharp
 public static bool operator !=(IfcEntityBase left, IfcEntityBase right)
@@ -25,8 +29,7 @@ The result of the operator.
 
 ### See Also
 
-* class [IfcEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

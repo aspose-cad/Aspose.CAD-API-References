@@ -1,12 +1,36 @@
 ---
-title: Matrix.Translate
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix method. Applies the specified translation vector to this Matrix in the specified order
+title: "Matrix.Translate"
+linktitle: "Translate"
+articleTitle: "Translate"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix method. Applies the specified translation vector to this Matrix in the specified order."
 type: docs
-weight: 190
-url: /net/aspose.cad/matrix/translate/
+weight: 120
+url: "/net/aspose.cad/matrix/translate/"
+product_version: "26.9"
 ---
-## Translate(float, float, MatrixOrder) {#translate_1}
+## Translate(float, float) {#translate}
+
+Applies the specified translation vector to this [`Matrix`](../) using (default) Prepend order.
+
+```csharp
+public void Translate(float tx, float ty)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| tx | Single | The tx. The tx. The tx. |
+| ty | Single | The ty. The ty. The ty. |
+
+### See Also
+
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## Translate(float, float, MatrixOrder) {#translate_1}
 
 Applies the specified translation vector to this Matrix in the specified order.
 
@@ -22,30 +46,8 @@ public void Translate(float offsetX, float offsetY, MatrixOrder order)
 
 ### See Also
 
-* enum [MatrixOrder](../../matrixorder/)
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## Translate(float, float) {#translate}
-
-Applies the specified translation vector to this [`Matrix`](../) using (default) Prepend order.
-
-```csharp
-public void Translate(float tx, float ty)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| tx | Single | The tx. The tx. The tx. |
-| ty | Single | The ty. The ty. The ty. |
-
-### See Also
-
-* class [Matrix](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [MatrixOrder](../../matrixorder/)
+* class [Matrix](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

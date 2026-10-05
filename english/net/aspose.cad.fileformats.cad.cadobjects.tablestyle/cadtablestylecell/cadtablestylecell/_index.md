@@ -1,10 +1,13 @@
 ---
-title: CadTableStyleCell.CadTableStyleCell
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableStyleCell constructor. Initializes a new instance of the CadTableStyleCell class
+title: "CadTableStyleCell.CadTableStyleCell"
+linktitle: "CadTableStyleCell"
+articleTitle: "CadTableStyleCell"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableStyleCell constructor. Initializes a new instance of the CadTableStyleCell class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/cadtablestylecell/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestylecell/cadtablestylecell/"
+product_version: "26.9"
 ---
 ## CadTableStyleCell constructor
 
@@ -16,8 +19,7 @@ public CadTableStyleCell()
 
 ### See Also
 
-* class [CadTableStyleCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableStyleCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

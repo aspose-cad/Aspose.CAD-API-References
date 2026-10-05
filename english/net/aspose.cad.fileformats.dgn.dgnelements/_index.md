@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Dgn.DgnElements
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains Dgn elements
+title: "Aspose.CAD.FileFormats.Dgn.DgnElements"
+linktitle: "Aspose.CAD.FileFormats.Dgn.DgnElements"
+articleTitle: "Aspose.CAD.FileFormats.Dgn.DgnElements"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains Dgn elements."
 type: docs
-weight: 560
-url: /net/aspose.cad.fileformats.dgn.dgnelements/
+weight: 10
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/"
+keywords: "Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains Dgn elements.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -43,10 +51,10 @@ The namespace contains Dgn elements.
 | [DgnTagSetElement](./dgntagsetelement/) | Represents 'Tag Set Definition' element |
 | [DgnTagValueElement](./dgntagvalueelement/) | Represents 'Tag Value' element |
 | [DgnTextElement](./dgntextelement/) | Represents text element |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [ICompositeDgnElement](./icompositedgnelement/) | Represents composite elements (like cell header) |
-
 

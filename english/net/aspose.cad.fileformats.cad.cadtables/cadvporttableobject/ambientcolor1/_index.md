@@ -1,10 +1,13 @@
 ---
-title: CadVportTableObject.AmbientColor1
-second_title: Aspose.CAD for .NET API Reference
-description: CadVportTableObject property. Gets or sets the ambient color1
+title: "CadVportTableObject.AmbientColor1"
+linktitle: "AmbientColor1"
+articleTitle: "AmbientColor1"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVportTableObject property. Gets or sets the ambient color1."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/ambientcolor1/
+weight: 480
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/ambientcolor1/"
+product_version: "26.9"
 ---
 ## CadVportTableObject.AmbientColor1 property
 
@@ -20,8 +23,7 @@ The ambient color1.
 
 ### See Also
 
-* class [CadVportTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVportTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

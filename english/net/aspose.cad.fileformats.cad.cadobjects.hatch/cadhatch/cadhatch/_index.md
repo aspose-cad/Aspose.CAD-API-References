@@ -1,10 +1,13 @@
 ---
-title: CadHatch.CadHatch
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch constructor. The default constructor
+title: "CadHatch.CadHatch"
+linktitle: "CadHatch"
+articleTitle: "CadHatch"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/cadhatch/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/cadhatch/"
+product_version: "26.9"
 ---
 ## CadHatch constructor
 
@@ -16,8 +19,7 @@ public CadHatch()
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

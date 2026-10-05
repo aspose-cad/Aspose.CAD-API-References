@@ -1,10 +1,13 @@
 ---
-title: CadLineTypesDictionary.Remove
-second_title: Aspose.CAD for .NET API Reference
-description: CadLineTypesDictionary method. Removes the CadLineTypeTableObject with the specified key
+title: "CadLineTypesDictionary.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLineTypesDictionary method. Removes the CadLineTypeTableObject with the specified key."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad/cadlinetypesdictionary/remove/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad/cadlinetypesdictionary/remove/"
+product_version: "26.9"
 ---
 ## CadLineTypesDictionary.Remove method
 
@@ -24,8 +27,7 @@ True if the element is successfully removed; otherwise, false. This method also 
 
 ### See Also
 
-* class [CadLineTypesDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLineTypesDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

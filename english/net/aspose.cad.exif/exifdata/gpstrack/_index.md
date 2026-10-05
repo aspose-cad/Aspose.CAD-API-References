@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSTrack
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets direction of GPS receiver movement
+title: "ExifData.GPSTrack"
+linktitle: "GPSTrack"
+articleTitle: "GPSTrack"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets direction of GPS receiver movement."
 type: docs
-weight: 650
-url: /net/aspose.cad.exif/exifdata/gpstrack/
+weight: 660
+url: "/net/aspose.cad.exif/exifdata/gpstrack/"
+product_version: "26.9"
 ---
 ## ExifData.GPSTrack property
 
@@ -20,8 +23,7 @@ The direction of GPS receiver movement.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

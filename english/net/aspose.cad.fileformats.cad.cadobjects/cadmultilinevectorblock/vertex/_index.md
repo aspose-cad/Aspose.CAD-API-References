@@ -1,10 +1,13 @@
 ---
-title: CadMultiLineVectorBlock.Vertex
-second_title: Aspose.CAD for .NET API Reference
-description: CadMultiLineVectorBlock property. Gets or sets the vertex
+title: "CadMultiLineVectorBlock.Vertex"
+linktitle: "Vertex"
+articleTitle: "Vertex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMultiLineVectorBlock property. Gets or sets the vertex."
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/vertex/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmultilinevectorblock/vertex/"
+product_version: "26.9"
 ---
 ## CadMultiLineVectorBlock.Vertex property
 
@@ -16,9 +19,8 @@ public Cad3DPoint Vertex { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMultiLineVectorBlock](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMultiLineVectorBlock](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

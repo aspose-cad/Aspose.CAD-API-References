@@ -1,10 +1,13 @@
 ---
-title: CadWipeoutRasterImage.CadWipeoutRasterImage
-second_title: Aspose.CAD for .NET API Reference
-description: CadWipeoutRasterImage constructor. Initializes a new instance of the CadWipeoutRasterImage class
+title: "CadWipeoutRasterImage.CadWipeoutRasterImage"
+linktitle: "CadWipeoutRasterImage"
+articleTitle: "CadWipeoutRasterImage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadWipeoutRasterImage constructor. Initializes a new instance of the CadWipeoutRasterImage class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/cadwipeoutrasterimage/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/cadwipeoutrasterimage/"
+product_version: "26.9"
 ---
 ## CadWipeoutRasterImage constructor
 
@@ -16,8 +19,7 @@ public CadWipeoutRasterImage()
 
 ### See Also
 
-* class [CadWipeoutRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadWipeoutRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
+* assembly [Aspose.CAD](../../../)
 

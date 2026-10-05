@@ -1,10 +1,13 @@
 ---
-title: CadHatch.HatchAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the hatch angle
+title: "CadHatch.HatchAngle"
+linktitle: "HatchAngle"
+articleTitle: "HatchAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the hatch angle."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatchangle/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatchangle/"
+product_version: "26.9"
 ---
 ## CadHatch.HatchAngle property
 
@@ -16,8 +19,7 @@ public double HatchAngle { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

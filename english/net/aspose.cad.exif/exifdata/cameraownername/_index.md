@@ -1,10 +1,13 @@
 ---
-title: ExifData.CameraOwnerName
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets camera owner name
+title: "ExifData.CameraOwnerName"
+linktitle: "CameraOwnerName"
+articleTitle: "CameraOwnerName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets camera owner name"
 type: docs
-weight: 50
-url: /net/aspose.cad.exif/exifdata/cameraownername/
+weight: 120
+url: "/net/aspose.cad.exif/exifdata/cameraownername/"
+product_version: "26.9"
 ---
 ## ExifData.CameraOwnerName property
 
@@ -20,8 +23,7 @@ The name of the camera owner.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

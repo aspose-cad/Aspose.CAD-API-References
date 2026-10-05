@@ -1,10 +1,13 @@
 ---
-title: DwfWhipGouraudPolytriangle.DwfWhipGouraudPolytriangle
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipGouraudPolytriangle constructor. The default constructor
+title: "DwfWhipGouraudPolytriangle.DwfWhipGouraudPolytriangle"
+linktitle: "DwfWhipGouraudPolytriangle"
+articleTitle: "DwfWhipGouraudPolytriangle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipGouraudPolytriangle constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipgouraudpolytriangle/dwfwhipgouraudpolytriangle/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipgouraudpolytriangle/dwfwhipgouraudpolytriangle/"
+product_version: "26.9"
 ---
 ## DwfWhipGouraudPolytriangle constructor
 
@@ -16,8 +19,7 @@ public DwfWhipGouraudPolytriangle()
 
 ### See Also
 
-* class [DwfWhipGouraudPolytriangle](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipGouraudPolytriangle](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
+* assembly [Aspose.CAD](../../../)
 

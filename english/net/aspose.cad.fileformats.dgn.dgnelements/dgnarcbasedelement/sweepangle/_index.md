@@ -1,10 +1,13 @@
 ---
-title: DgnArcBasedElement.SweepAngle
-second_title: Aspose.CAD for .NET API Reference
-description: DgnArcBasedElement property. Gets or sets Sweep angle degrees
+title: "DgnArcBasedElement.SweepAngle"
+linktitle: "SweepAngle"
+articleTitle: "SweepAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnArcBasedElement property. Gets or sets Sweep angle (degrees)"
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/sweepangle/
+weight: 60
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnarcbasedelement/sweepangle/"
+product_version: "26.9"
 ---
 ## DgnArcBasedElement.SweepAngle property
 
@@ -16,8 +19,7 @@ public double SweepAngle { get; }
 
 ### See Also
 
-* class [DgnArcBasedElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnArcBasedElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadSection.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadSection property. Gets the name of the type
+title: "CadSection.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSection property. Gets the name of the type."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsection/typename/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsection/typename/"
+product_version: "26.9"
 ---
 ## CadSection.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadSection](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadSection](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum ExifGainControl
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifGainControl enum. exif gain control enum
+title: "ExifGainControl Enum"
+linktitle: "ExifGainControl"
+articleTitle: "ExifGainControl"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifGainControl enum. exif gain control enum."
 type: docs
-weight: 610
-url: /net/aspose.cad.exif.enums/exifgaincontrol/
+weight: 100
+url: "/net/aspose.cad.exif.enums/exifgaincontrol/"
+product_version: "26.9"
 ---
 ## ExifGainControl enumeration
 
@@ -26,7 +29,6 @@ public enum ExifGainControl
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

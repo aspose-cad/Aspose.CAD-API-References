@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderNode.DoglegVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderNode property. Gets or sets the dogleg vector
+title: "CadMLeaderNode.DoglegVector"
+linktitle: "DoglegVector"
+articleTitle: "DoglegVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderNode property. Gets or sets the dogleg vector."
 type: docs
 weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/doglegvector/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/doglegvector/"
+product_version: "26.9"
 ---
 ## CadMLeaderNode.DoglegVector property
 
@@ -20,9 +23,8 @@ The dogleg vector.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMLeaderNode](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMLeaderNode](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

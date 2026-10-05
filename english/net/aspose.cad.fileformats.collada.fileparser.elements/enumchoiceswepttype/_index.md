@@ -1,10 +1,13 @@
 ---
-title: Enum EnumChoiceSweptType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumChoiceSweptType enum. The enumeration for choice swept type
+title: "EnumChoiceSweptType Enum"
+linktitle: "EnumChoiceSweptType"
+articleTitle: "EnumChoiceSweptType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumChoiceSweptType enum. The enumeration for choice swept type."
 type: docs
-weight: 7630
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumchoiceswepttype/
+weight: 310
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/enumchoiceswepttype/"
+product_version: "26.9"
 ---
 ## EnumChoiceSweptType enumeration
 
@@ -24,7 +27,6 @@ public enum EnumChoiceSweptType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

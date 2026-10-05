@@ -1,14 +1,22 @@
 ---
-title: LightBuilder.Intensity
-second_title: Aspose.CAD for .NET API Reference
-description: LightBuilder property. Gets or sets the Brightness of light in. The units that this is defined in depend on the type of light. Point and spot lights use luminous intensity in candela lm/sr while directional lights use illuminance in lux lm/m2
+title: "LightBuilder.Intensity"
+linktitle: "Intensity"
+articleTitle: "Intensity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LightBuilder property. Gets or sets the Brightness of light in. The units that this is defined in depend on the type of light. Point and spot lights use lumi..."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.glb.scenes/lightbuilder/intensity/
+weight: 40
+url: "/net/aspose.cad.fileformats.glb.scenes/lightbuilder/intensity/"
+product_version: "26.9"
 ---
 ## LightBuilder.Intensity property
 
-Gets or sets the Brightness of light in. The units that this is defined in depend on the type of light. Point and spot lights use luminous intensity in candela (lm/sr) while directional lights use illuminance in lux (lm/m2)
+Gets or sets the Brightness of light in.
+
+ The units that this is defined in depend on the type of light.
+
+ Point and spot lights use luminous intensity in candela (lm/sr)
+ while directional lights use illuminance in lux (lm/m2)
 
 ```csharp
 public float Intensity { get; set; }
@@ -16,8 +24,7 @@ public float Intensity { get; set; }
 
 ### See Also
 
-* class [LightBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [LightBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

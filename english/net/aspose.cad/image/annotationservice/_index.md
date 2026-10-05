@@ -1,10 +1,13 @@
 ---
-title: Image.AnnotationService
-second_title: Aspose.CAD for .NET API Reference
-description: Image property. Gets the annotation service
+title: "Image.AnnotationService"
+linktitle: "AnnotationService"
+articleTitle: "AnnotationService"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image property. Gets the annotation service."
 type: docs
-weight: 20
-url: /net/aspose.cad/image/annotationservice/
+weight: 290
+url: "/net/aspose.cad/image/annotationservice/"
+product_version: "26.9"
 ---
 ## Image.AnnotationService property
 
@@ -20,9 +23,8 @@ The annotation service.
 
 ### See Also
 
-* interface [IAnnotationService](../../../aspose.cad.annotations/iannotationservice/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IAnnotationService](../../../aspose.cad.annotations/iannotationservice/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

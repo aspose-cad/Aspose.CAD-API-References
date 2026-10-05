@@ -1,10 +1,13 @@
 ---
-title: CadTableGeometry.CadTableGeometry
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableGeometry constructor. Initializes a new instance of the CadTableGeometry class
+title: "CadTableGeometry.CadTableGeometry"
+linktitle: "CadTableGeometry"
+articleTitle: "CadTableGeometry"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableGeometry constructor. Initializes a new instance of the CadTableGeometry class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/cadtablegeometry/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/cadtablegeometry/"
+product_version: "26.9"
 ---
 ## CadTableGeometry constructor
 
@@ -16,8 +19,7 @@ public CadTableGeometry()
 
 ### See Also
 
-* class [CadTableGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableGeometry](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

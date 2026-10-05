@@ -1,10 +1,13 @@
 ---
-title: CadXLine.CadXLine
-second_title: Aspose.CAD for .NET API Reference
-description: CadXLine constructor. Initializes a new instance of the CadXLine class
+title: "CadXLine.CadXLine"
+linktitle: "CadXLine"
+articleTitle: "CadXLine"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadXLine constructor. Initializes a new instance of the CadXLine class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadxline/cadxline/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadxline/cadxline/"
+product_version: "26.9"
 ---
 ## CadXLine constructor
 
@@ -27,9 +30,8 @@ public CadXLine(Cad3DPoint firstPoint, Cad3DPoint unitDirectionVector)
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadXLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadXLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

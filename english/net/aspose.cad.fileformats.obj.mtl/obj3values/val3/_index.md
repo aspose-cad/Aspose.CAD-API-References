@@ -1,10 +1,13 @@
 ---
-title: Obj3Values.Val3
-second_title: Aspose.CAD for .NET API Reference
-description: Obj3Values property. Gets or sets the val3
+title: "Obj3Values.Val3"
+linktitle: "Val3"
+articleTitle: "Val3"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Obj3Values property. Gets or sets the val3."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.obj.mtl/obj3values/val3/
+weight: 30
+url: "/net/aspose.cad.fileformats.obj.mtl/obj3values/val3/"
+product_version: "26.9"
 ---
 ## Obj3Values.Val3 property
 
@@ -20,8 +23,7 @@ The val3.
 
 ### See Also
 
-* class [Obj3Values](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Obj3Values](../)
+* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
+* assembly [Aspose.CAD](../../../)
 

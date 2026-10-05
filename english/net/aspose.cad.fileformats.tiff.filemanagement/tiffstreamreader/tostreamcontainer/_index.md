@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ToStreamContainer
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Converts the underlying data to the stream container
+title: "TiffStreamReader.ToStreamContainer"
+linktitle: "ToStreamContainer"
+articleTitle: "ToStreamContainer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Converts the underlying data to the stream container."
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer/
+weight: 270
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ToStreamContainer method
 
@@ -24,9 +27,8 @@ The [`StreamContainer`](../../../aspose.cad/streamcontainer/) with converted dat
 
 ### See Also
 
-* class [StreamContainer](../../../aspose.cad/streamcontainer/)
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../../../aspose.cad/streamcontainer/)
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

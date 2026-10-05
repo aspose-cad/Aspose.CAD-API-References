@@ -1,10 +1,13 @@
 ---
-title: Obj2Values.Obj2Values
-second_title: Aspose.CAD for .NET API Reference
-description: Obj2Values constructor. Initializes a new instance of the Obj2Values class
+title: "Obj2Values.Obj2Values"
+linktitle: "Obj2Values"
+articleTitle: "Obj2Values"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Obj2Values constructor. Initializes a new instance of the Obj2Values class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.obj.mtl/obj2values/obj2values/
+url: "/net/aspose.cad.fileformats.obj.mtl/obj2values/obj2values/"
+product_version: "26.9"
 ---
 ## Obj2Values() {#constructor}
 
@@ -16,13 +19,13 @@ public Obj2Values()
 
 ### See Also
 
-* class [Obj2Values](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
-* assembly [Aspose.CAD](../../../)
+* class [Obj2Values](../)
+* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Obj2Values(double, double) {#constructor_1}
+## Obj2Values(double, double) {#constructor_1}
 
 Initializes a new instance of the [`Obj2Values`](../) class.
 
@@ -37,8 +40,7 @@ public Obj2Values(double val1, double val2)
 
 ### See Also
 
-* class [Obj2Values](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Obj2Values](../)
+* namespace [Aspose.CAD.FileFormats.Obj.Mtl](../../../aspose.cad.fileformats.obj.mtl/)
+* assembly [Aspose.CAD](../../../)
 

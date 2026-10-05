@@ -1,10 +1,13 @@
 ---
-title: IgesDrawableBase.GetNewPropsDrawable
-second_title: Aspose.CAD for .NET API Reference
-description: IgesDrawableBase method. Creates a new drawable using geometry of current drawable and provided nongeometric properties
+title: "IgesDrawableBase.GetNewPropsDrawable"
+linktitle: "GetNewPropsDrawable"
+articleTitle: "GetNewPropsDrawable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IgesDrawableBase method. Creates a new drawable using geometry of current drawable and provided non-geometric properties"
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.iges.drawables/igesdrawablebase/getnewpropsdrawable/
+weight: 20
+url: "/net/aspose.cad.fileformats.iges.drawables/igesdrawablebase/getnewpropsdrawable/"
+product_version: "26.9"
 ---
 ## IgesDrawableBase.GetNewPropsDrawable method
 
@@ -24,10 +27,9 @@ New drawable with current geometry and new non-geometric properties
 
 ### See Also
 
-* interface [IIgesDrawable](../../iigesdrawable/)
-* interface [IDrawableProperties](../../idrawableproperties/)
-* class [IgesDrawableBase](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IIgesDrawable](../../iigesdrawable/)
+* interface [IDrawableProperties](../../idrawableproperties/)
+* class [IgesDrawableBase](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

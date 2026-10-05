@@ -1,10 +1,13 @@
 ---
-title: Point3D.Spherical
-second_title: Aspose.CAD for .NET API Reference
-description: Point3D method. Get point in spherical coordinates
+title: "Point3D.Spherical"
+linktitle: "Spherical"
+articleTitle: "Spherical"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point3D method. Get point in spherical coordinates"
 type: docs
-weight: 50
-url: /net/aspose.cad.primitives/point3d/spherical/
+weight: 70
+url: "/net/aspose.cad.primitives/point3d/spherical/"
+product_version: "26.9"
 ---
 ## Point3D.Spherical method
 
@@ -26,8 +29,7 @@ Spherical coordinates point
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

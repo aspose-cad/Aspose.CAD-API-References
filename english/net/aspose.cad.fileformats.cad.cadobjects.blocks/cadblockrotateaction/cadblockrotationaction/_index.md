@@ -1,10 +1,13 @@
 ---
-title: CadBlockRotateAction.CadBlockRotationAction
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockRotateAction property. Gets or sets the cad block rotation action
+title: "CadBlockRotateAction.CadBlockRotationAction"
+linktitle: "CadBlockRotationAction"
+articleTitle: "CadBlockRotationAction"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockRotateAction property. Gets or sets the cad block rotation action."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockrotateaction/cadblockrotationaction/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockrotateaction/cadblockrotationaction/"
+product_version: "26.9"
 ---
 ## CadBlockRotateAction.CadBlockRotationAction property
 
@@ -20,9 +23,8 @@ The cad block rotation action.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadBlockRotateAction](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadBlockRotateAction](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

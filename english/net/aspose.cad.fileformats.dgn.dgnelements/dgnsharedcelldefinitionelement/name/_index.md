@@ -1,10 +1,13 @@
 ---
-title: DgnSharedCellDefinitionElement.Name
-second_title: Aspose.CAD for .NET API Reference
-description: DgnSharedCellDefinitionElement property. Gets the name
+title: "DgnSharedCellDefinitionElement.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnSharedCellDefinitionElement property. Gets the name."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/name/
+weight: 30
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcelldefinitionelement/name/"
+product_version: "26.9"
 ---
 ## DgnSharedCellDefinitionElement.Name property
 
@@ -20,8 +23,7 @@ The name.
 
 ### See Also
 
-* class [DgnSharedCellDefinitionElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnSharedCellDefinitionElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

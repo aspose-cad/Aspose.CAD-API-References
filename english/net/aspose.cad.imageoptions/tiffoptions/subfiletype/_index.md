@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.SubFileType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets a general indication of the kind of data contained in this subfile
+title: "TiffOptions.SubFileType"
+linktitle: "SubFileType"
+articleTitle: "SubFileType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets a general indication of the kind of data contained in this subfile."
 type: docs
-weight: 430
-url: /net/aspose.cad.imageoptions/tiffoptions/subfiletype/
+weight: 500
+url: "/net/aspose.cad.imageoptions/tiffoptions/subfiletype/"
+product_version: "26.9"
 ---
 ## TiffOptions.SubFileType property
 
@@ -20,9 +23,8 @@ The general indication of the kind of data contained in this subfile.
 
 ### See Also
 
-* enum [TiffNewSubFileTypes](../../../aspose.cad.fileformats.tiff.enums/tiffnewsubfiletypes/)
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [TiffNewSubFileTypes](../../../aspose.cad.fileformats.tiff.enums/tiffnewsubfiletypes/)
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

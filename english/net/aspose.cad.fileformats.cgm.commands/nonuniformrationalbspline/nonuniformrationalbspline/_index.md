@@ -1,12 +1,17 @@
 ---
-title: NonUniformRationalBSpline.NonUniformRationalBSpline
-second_title: Aspose.CAD for .NET API Reference
-description: NonUniformRationalBSpline constructor. 
+title: "NonUniformRationalBSpline.NonUniformRationalBSpline"
+linktitle: "NonUniformRationalBSpline"
+articleTitle: "NonUniformRationalBSpline"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonUniformRationalBSpline constructor. Initializes a new instance of the NonUniformRationalBSpline class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.commands/nonuniformrationalbspline/nonuniformrationalbspline/
+url: "/net/aspose.cad.fileformats.cgm.commands/nonuniformrationalbspline/nonuniformrationalbspline/"
+product_version: "26.9"
 ---
 ## NonUniformRationalBSpline(CgmFile) {#constructor}
+
+Initializes a new instance of the NonUniformRationalBSpline class.
 
 ```csharp
 public NonUniformRationalBSpline(CgmFile container)
@@ -14,14 +19,16 @@ public NonUniformRationalBSpline(CgmFile container)
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [NonUniformRationalBSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [NonUniformRationalBSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## NonUniformRationalBSpline(CgmFile, int, IEnumerable&lt;CgmPoint&gt;, IEnumerable&lt;double&gt;, double, double, IEnumerable&lt;double&gt;) {#constructor_1}
+## NonUniformRationalBSpline(CgmFile, int, IEnumerable&lt;CgmPoint&gt;, IEnumerable&lt;double&gt;, double, double, IEnumerable&lt;double&gt;) {#constructor_1}
+
+Initializes a new instance of the NonUniformRationalBSpline class.
 
 ```csharp
 public NonUniformRationalBSpline(CgmFile container, int splineOrder, IEnumerable<CgmPoint> points, 
@@ -30,10 +37,9 @@ public NonUniformRationalBSpline(CgmFile container, int splineOrder, IEnumerable
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
-* class [NonUniformRationalBSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
+* class [NonUniformRationalBSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

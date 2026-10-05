@@ -1,10 +1,13 @@
 ---
-title: CadMultiLine.Justification
-second_title: Aspose.CAD for .NET API Reference
-description: CadMultiLine property. Gets or sets the justification 0  Top 1  Zero 2  Bottom
+title: "CadMultiLine.Justification"
+linktitle: "Justification"
+articleTitle: "Justification"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMultiLine property. Gets or sets the justification: 0 = Top; 1 = Zero; 2 = Bottom"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmultiline/justification/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmultiline/justification/"
+product_version: "26.9"
 ---
 ## CadMultiLine.Justification property
 
@@ -16,8 +19,7 @@ public short Justification { get; set; }
 
 ### See Also
 
-* class [CadMultiLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMultiLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: ExtraProperties.SetExtension
-second_title: Aspose.CAD for .NET API Reference
-description: ExtraProperties method. 
+title: "ExtraProperties.SetExtension"
+linktitle: "SetExtension"
+articleTitle: "SetExtension"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExtraProperties method."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.glb/extraproperties/setextension/
+weight: 30
+url: "/net/aspose.cad.fileformats.glb/extraproperties/setextension/"
+product_version: "26.9"
 ---
 ## ExtraProperties.SetExtension&lt;T&gt; method
+
+
 
 ```csharp
 public void SetExtension<T>(T value)
@@ -15,9 +20,7 @@ public void SetExtension<T>(T value)
 
 ### See Also
 
-* class [JsonSerializable](../../../aspose.cad.fileformats.glb.io/jsonserializable/)
-* class [ExtraProperties](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExtraProperties](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

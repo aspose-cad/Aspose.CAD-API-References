@@ -1,10 +1,13 @@
 ---
-title: RawDataSettings.ColorPalette
-second_title: Aspose.CAD for .NET API Reference
-description: RawDataSettings property. Gets or sets the color palette
+title: "RawDataSettings.ColorPalette"
+linktitle: "ColorPalette"
+articleTitle: "ColorPalette"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RawDataSettings property. Gets or sets the color palette"
 type: docs
-weight: 20
-url: /net/aspose.cad/rawdatasettings/colorpalette/
+weight: 30
+url: "/net/aspose.cad/rawdatasettings/colorpalette/"
+product_version: "26.9"
 ---
 ## RawDataSettings.ColorPalette property
 
@@ -20,9 +23,8 @@ The color palette
 
 ### See Also
 
-* interface [IColorPalette](../../icolorpalette/)
-* class [RawDataSettings](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IColorPalette](../../icolorpalette/)
+* class [RawDataSettings](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

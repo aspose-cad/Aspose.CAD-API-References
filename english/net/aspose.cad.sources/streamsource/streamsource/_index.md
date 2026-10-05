@@ -1,10 +1,13 @@
 ---
-title: StreamSource.StreamSource
-second_title: Aspose.CAD for .NET API Reference
-description: StreamSource constructor. Initializes a new instance of the StreamSource class
+title: "StreamSource.StreamSource"
+linktitle: "StreamSource"
+articleTitle: "StreamSource"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamSource constructor. Initializes a new instance of the StreamSource class."
 type: docs
 weight: 10
-url: /net/aspose.cad.sources/streamsource/streamsource/
+url: "/net/aspose.cad.sources/streamsource/streamsource/"
+product_version: "26.9"
 ---
 ## StreamSource(Stream) {#constructor}
 
@@ -20,13 +23,13 @@ public StreamSource(Stream stream)
 
 ### See Also
 
-* class [StreamSource](../)
-* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
-* assembly [Aspose.CAD](../../../)
+* class [StreamSource](../)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## StreamSource(Stream, bool) {#constructor_1}
+## StreamSource(Stream, bool) {#constructor_1}
 
 Initializes a new instance of the [`StreamSource`](../) class.
 
@@ -41,8 +44,7 @@ public StreamSource(Stream stream, bool disposeStream)
 
 ### See Also
 
-* class [StreamSource](../)
-* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamSource](../)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
+* assembly [Aspose.CAD](../../../)
 

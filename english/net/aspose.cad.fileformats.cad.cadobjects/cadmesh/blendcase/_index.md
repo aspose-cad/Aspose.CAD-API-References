@@ -1,10 +1,13 @@
 ---
-title: CadMesh.BlendCase
-second_title: Aspose.CAD for .NET API Reference
-description: CadMesh property. Gets or sets blend case
+title: "CadMesh.BlendCase"
+linktitle: "BlendCase"
+articleTitle: "BlendCase"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMesh property. Gets or sets blend case"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmesh/blendcase/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmesh/blendcase/"
+product_version: "26.9"
 ---
 ## CadMesh.BlendCase property
 
@@ -16,8 +19,7 @@ public short BlendCase { get; set; }
 
 ### See Also
 
-* class [CadMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

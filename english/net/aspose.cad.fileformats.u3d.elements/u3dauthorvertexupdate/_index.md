@@ -1,14 +1,18 @@
 ---
-title: Struct U3dAuthorVertexUpdate
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorVertexUpdate struct. The structure containing information on how vertex data is added to or removed from a mesh during mesh resolution changes
+title: "U3dAuthorVertexUpdate Struct"
+linktitle: "U3dAuthorVertexUpdate"
+articleTitle: "U3dAuthorVertexUpdate"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.U3d.Elements.U3dAuthorVertexUpdate struct. The structure containing information on how vertex data is added to or removed from a mesh ..."
 type: docs
-weight: 35890
-url: /net/aspose.cad.fileformats.u3d.elements/u3dauthorvertexupdate/
+weight: 80
+url: "/net/aspose.cad.fileformats.u3d.elements/u3dauthorvertexupdate/"
+product_version: "26.9"
 ---
-## U3dAuthorVertexUpdate structure
+## U3dAuthorVertexUpdate struct
 
-The structure containing information on how vertex data is added to or removed from a mesh during mesh resolution changes.
+The structure containing information on how vertex data is added to or
+ removed from a mesh during mesh resolution changes.
 
 ```csharp
 public struct U3dAuthorVertexUpdate
@@ -18,17 +22,15 @@ public struct U3dAuthorVertexUpdate
 
 | Name | Description |
 | --- | --- |
-| [FaceUpdates](../../aspose.cad.fileformats.u3d.elements/u3dauthorvertexupdate/faceupdates/) |  |
-| [NumFaceUpdates](../../aspose.cad.fileformats.u3d.elements/u3dauthorvertexupdate/numfaceupdates/) |  |
-| [NumNewDiffuseColors](../../aspose.cad.fileformats.u3d.elements/u3dauthorvertexupdate/numnewdiffusecolors/) |  |
-| [NumNewFaces](../../aspose.cad.fileformats.u3d.elements/u3dauthorvertexupdate/numnewfaces/) |  |
-| [NumNewNormals](../../aspose.cad.fileformats.u3d.elements/u3dauthorvertexupdate/numnewnormals/) |  |
-| [NumNewSpecularColors](../../aspose.cad.fileformats.u3d.elements/u3dauthorvertexupdate/numnewspecularcolors/) |  |
-| [NumNewTexCoords](../../aspose.cad.fileformats.u3d.elements/u3dauthorvertexupdate/numnewtexcoords/) |  |
+| NumFaceUpdates |  |
+| NumNewDiffuseColors |  |
+| NumNewFaces |  |
+| NumNewNormals |  |
+| NumNewSpecularColors |  |
+| NumNewTexCoords |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../aspose.cad.fileformats.u3d.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../aspose.cad.fileformats.u3d.elements/)
+* assembly [Aspose.CAD](../../)
 

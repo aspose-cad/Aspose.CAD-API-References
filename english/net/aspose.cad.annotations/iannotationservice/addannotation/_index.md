@@ -1,10 +1,13 @@
 ---
-title: IAnnotationService.AddAnnotation
-second_title: Aspose.CAD for .NET API Reference
-description: IAnnotationService method. Adds the annotation
+title: "IAnnotationService.AddAnnotation"
+linktitle: "AddAnnotation"
+articleTitle: "AddAnnotation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IAnnotationService method. Adds the annotation."
 type: docs
-weight: 10
-url: /net/aspose.cad.annotations/iannotationservice/addannotation/
+weight: 20
+url: "/net/aspose.cad.annotations/iannotationservice/addannotation/"
+product_version: "26.9"
 ---
 ## IAnnotationService.AddAnnotation method
 
@@ -14,16 +17,14 @@ Adds the annotation.
 public void AddAnnotation(AnnotationEntity annotation)
 ```
 
-| Parameter | Description |
-| --- | --- |
-| image | The image. |
-| annotation | The annotation. |
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotation | AnnotationEntity | The annotation. |
 
 ### See Also
 
-* class [AnnotationEntity](../../annotationentity/)
-* interface [IAnnotationService](../)
-* namespace [Aspose.CAD.Annotations](../../../aspose.cad.annotations/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AnnotationEntity](../../annotationentity/)
+* interface [IAnnotationService](../)
+* namespace [Aspose.CAD.Annotations](../../../aspose.cad.annotations/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DgnCircle.Center
-second_title: Aspose.CAD for .NET API Reference
-description: DgnCircle property. Gets center point of circle
+title: "DgnCircle.Center"
+linktitle: "Center"
+articleTitle: "Center"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnCircle property. Gets center point of circle"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.dgn/dgncircle/center/
+url: "/net/aspose.cad.fileformats.dgn/dgncircle/center/"
+product_version: "26.9"
 ---
 ## DgnCircle.Center property
 
@@ -20,9 +23,8 @@ The center.
 
 ### See Also
 
-* class [DgnPoint](../../dgnpoint/)
-* class [DgnCircle](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnPoint](../../dgnpoint/)
+* class [DgnCircle](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadHeader.PropertiesSummaryInfoWrapper
-second_title: Aspose.CAD for .NET API Reference
-description: CadHeader property. Gets the summary information wrapper for HeaderProperties
+title: "CadHeader.PropertiesSummaryInfoWrapper"
+linktitle: "PropertiesSummaryInfoWrapper"
+articleTitle: "PropertiesSummaryInfoWrapper"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHeader property. Gets the summary information wrapper for HeaderProperties."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadheader/propertiessummaryinfowrapper/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadheader/propertiessummaryinfowrapper/"
+product_version: "26.9"
 ---
 ## CadHeader.PropertiesSummaryInfoWrapper property
 
@@ -20,9 +23,8 @@ The summary information wrapper for [`HeaderProperties`](../headerproperties/).
 
 ### See Also
 
-* class [SummaryInfoWrapper](../../cadheader.summaryinfowrapper/)
-* class [CadHeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoWrapper](../../cadheader.summaryinfowrapper/)
+* class [CadHeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

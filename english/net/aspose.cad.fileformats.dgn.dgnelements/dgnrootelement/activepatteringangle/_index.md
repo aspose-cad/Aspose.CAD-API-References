@@ -1,10 +1,13 @@
 ---
-title: DgnRootElement.ActivePatteringAngle
-second_title: Aspose.CAD for .NET API Reference
-description: DgnRootElement property. Gets active pattering angle
+title: "DgnRootElement.ActivePatteringAngle"
+linktitle: "ActivePatteringAngle"
+articleTitle: "ActivePatteringAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnRootElement property. Gets active pattering angle"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/activepatteringangle/
+weight: 100
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnrootelement/activepatteringangle/"
+product_version: "26.9"
 ---
 ## DgnRootElement.ActivePatteringAngle property
 
@@ -16,8 +19,7 @@ public double ActivePatteringAngle { get; }
 
 ### See Also
 
-* class [DgnRootElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnRootElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadTolerance.CadTolerance
-second_title: Aspose.CAD for .NET API Reference
-description: CadTolerance constructor. Initializes a new instance of the CadTolerance class
+title: "CadTolerance.CadTolerance"
+linktitle: "CadTolerance"
+articleTitle: "CadTolerance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTolerance constructor. Initializes a new instance of the CadTolerance class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadtolerance/cadtolerance/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadtolerance/cadtolerance/"
+product_version: "26.9"
 ---
 ## CadTolerance constructor
 
@@ -16,8 +19,7 @@ public CadTolerance()
 
 ### See Also
 
-* class [CadTolerance](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTolerance](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

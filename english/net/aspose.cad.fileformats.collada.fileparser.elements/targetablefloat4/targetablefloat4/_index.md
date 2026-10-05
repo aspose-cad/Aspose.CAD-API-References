@@ -1,10 +1,13 @@
 ---
-title: TargetableFloat4.TargetableFloat4
-second_title: Aspose.CAD for .NET API Reference
-description: TargetableFloat4 constructor. The default constructor
+title: "TargetableFloat4.TargetableFloat4"
+linktitle: "TargetableFloat4"
+articleTitle: "TargetableFloat4"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TargetableFloat4 constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/targetablefloat4/targetablefloat4/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/targetablefloat4/targetablefloat4/"
+product_version: "26.9"
 ---
 ## TargetableFloat4 constructor
 
@@ -16,8 +19,7 @@ public TargetableFloat4()
 
 ### See Also
 
-* class [TargetableFloat4](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TargetableFloat4](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

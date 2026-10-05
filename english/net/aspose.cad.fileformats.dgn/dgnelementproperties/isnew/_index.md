@@ -1,10 +1,13 @@
 ---
-title: DgnElementProperties.IsNew
-second_title: Aspose.CAD for .NET API Reference
-description: DgnElementProperties property. Gets a value indicating whether element is new
+title: "DgnElementProperties.IsNew"
+linktitle: "IsNew"
+articleTitle: "IsNew"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnElementProperties property. Gets a value indicating whether element is new"
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.dgn/dgnelementproperties/isnew/
+weight: 30
+url: "/net/aspose.cad.fileformats.dgn/dgnelementproperties/isnew/"
+product_version: "26.9"
 ---
 ## DgnElementProperties.IsNew property
 
@@ -16,8 +19,7 @@ public bool IsNew { get; }
 
 ### See Also
 
-* class [DgnElementProperties](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementProperties](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

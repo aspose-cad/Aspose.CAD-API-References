@@ -1,10 +1,13 @@
 ---
-title: GlbOptions.GlbOptions
-second_title: Aspose.CAD for .NET API Reference
-description: GlbOptions constructor. The default constructor
+title: "GlbOptions.GlbOptions"
+linktitle: "GlbOptions"
+articleTitle: "GlbOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/glboptions/glboptions/
+url: "/net/aspose.cad.imageoptions/glboptions/glboptions/"
+product_version: "26.9"
 ---
 ## GlbOptions constructor
 
@@ -16,8 +19,7 @@ public GlbOptions()
 
 ### See Also
 
-* class [GlbOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GlbOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

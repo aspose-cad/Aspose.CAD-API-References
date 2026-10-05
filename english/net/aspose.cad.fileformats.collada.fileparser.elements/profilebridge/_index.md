@@ -1,14 +1,19 @@
 ---
-title: Class ProfileBridge
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.ProfileBridge class. The profile bridge. Bridge COLLADA FX to an external FX framework such as NVIDIAs CgFX or Microsofts Direct3D FX
+title: "ProfileBridge Class"
+linktitle: "ProfileBridge"
+articleTitle: "ProfileBridge"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.ProfileBridge class. The profile bridge. Bridge COLLADA FX to an external FX framework such as NVIDIA's Cg..."
 type: docs
-weight: 8300
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/profilebridge/
+weight: 990
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/profilebridge/"
+keywords: "ProfileBridge, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ProfileBridge class
 
-The profile bridge. Bridge COLLADA FX to an external FX framework such as NVIDIA's CgFX or Microsoft's Direct3D FX
+The profile bridge.
+ Bridge COLLADA FX to an external FX framework such as NVIDIA's CgFX or Microsoft's Direct3D FX
 
 ```csharp
 public class ProfileBridge : ColladaElement
@@ -24,16 +29,15 @@ public class ProfileBridge : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/asset/) { get; set; } | Gets or sets the asset. |
-| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/extra/) { get; set; } | Gets or sets the extra. |
-| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/id/) { get; set; } | Gets or sets the id. |
-| [Platform](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/platform/) { get; set; } | Gets or sets the platform. The type of platform. This is a vendor-defined character string that indicates the platform or capability target for the technique. Optional |
-| [Url](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/url/) { get; set; } | Gets or sets the url. The url to the file which we are bridging too. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/asset/) { get; set; } | Gets or sets the asset. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/extra/) { get; set; } | Gets or sets the extra. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/id/) { get; set; } | Gets or sets the id. |
+| [Platform](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/platform/) { get; set; } | Gets or sets the platform. The type of platform. This is a vendor-defined character string that indicates the platform or capability target for the technique. Optional |
+| [Url](../../aspose.cad.fileformats.collada.fileparser.elements/profilebridge/url/) { get; set; } | Gets or sets the url. The url to the file which we are bridging too. |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

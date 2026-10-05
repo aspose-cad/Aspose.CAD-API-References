@@ -1,10 +1,13 @@
 ---
-title: CadAcadProxyEntity.ObjectId350
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcadProxyEntity property. Gets or sets the object id 350
+title: "CadAcadProxyEntity.ObjectId350"
+linktitle: "ObjectId350"
+articleTitle: "ObjectId350"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcadProxyEntity property. Gets or sets the object id 350."
 type: docs
 weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/objectid350/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/objectid350/"
+product_version: "26.9"
 ---
 ## CadAcadProxyEntity.ObjectId350 property
 
@@ -20,8 +23,7 @@ The object id 350.
 
 ### See Also
 
-* class [CadAcadProxyEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcadProxyEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

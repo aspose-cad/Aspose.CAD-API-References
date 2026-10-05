@@ -1,10 +1,13 @@
 ---
-title: CadExtrudedSurface.BinaryDataSize
-second_title: Aspose.CAD for .NET API Reference
-description: CadExtrudedSurface property. Gets or sets the size of the binary data
+title: "CadExtrudedSurface.BinaryDataSize"
+linktitle: "BinaryDataSize"
+articleTitle: "BinaryDataSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadExtrudedSurface property. Gets or sets the size of the binary data."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/binarydatasize/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/binarydatasize/"
+product_version: "26.9"
 ---
 ## CadExtrudedSurface.BinaryDataSize property
 
@@ -20,8 +23,7 @@ The size of the binary data.
 
 ### See Also
 
-* class [CadExtrudedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadExtrudedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

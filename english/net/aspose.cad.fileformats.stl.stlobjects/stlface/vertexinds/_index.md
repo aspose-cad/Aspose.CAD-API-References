@@ -1,10 +1,13 @@
 ---
-title: StlFace.VertexInds
-second_title: Aspose.CAD for .NET API Reference
-description: StlFace property. Gets or sets the normal indexes collection
+title: "StlFace.VertexInds"
+linktitle: "VertexInds"
+articleTitle: "VertexInds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StlFace property. Gets or sets the normal indexes collection."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.stl.stlobjects/stlface/vertexinds/
+url: "/net/aspose.cad.fileformats.stl.stlobjects/stlface/vertexinds/"
+product_version: "26.9"
 ---
 ## StlFace.VertexInds property
 
@@ -16,8 +19,7 @@ public List<int> VertexInds { get; set; }
 
 ### See Also
 
-* class [StlFace](../)
-* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StlFace](../)
+* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
+* assembly [Aspose.CAD](../../../)
 

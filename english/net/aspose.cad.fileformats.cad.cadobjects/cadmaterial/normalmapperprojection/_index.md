@@ -1,10 +1,13 @@
 ---
-title: CadMaterial.NormalMapperProjection
-second_title: Aspose.CAD for .NET API Reference
-description: CadMaterial property. Gets or sets the normal mapper projection
+title: "CadMaterial.NormalMapperProjection"
+linktitle: "NormalMapperProjection"
+articleTitle: "NormalMapperProjection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMaterial property. Gets or sets the normal mapper projection."
 type: docs
-weight: 530
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapperprojection/
+weight: 280
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapperprojection/"
+product_version: "26.9"
 ---
 ## CadMaterial.NormalMapperProjection property
 
@@ -20,8 +23,7 @@ The normal mapper projection.
 
 ### See Also
 
-* class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMaterial](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

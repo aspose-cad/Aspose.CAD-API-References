@@ -1,10 +1,13 @@
 ---
-title: DracoOptions.DracoOptions
-second_title: Aspose.CAD for .NET API Reference
-description: DracoOptions constructor. The default constructor
+title: "DracoOptions.DracoOptions"
+linktitle: "DracoOptions"
+articleTitle: "DracoOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DracoOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/dracooptions/dracooptions/
+url: "/net/aspose.cad.imageoptions/dracooptions/dracooptions/"
+product_version: "26.9"
 ---
 ## DracoOptions constructor
 
@@ -16,8 +19,7 @@ public DracoOptions()
 
 ### See Also
 
-* class [DracoOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DracoOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SurfaceCurves.Extra
-second_title: Aspose.CAD for .NET API Reference
-description: SurfaceCurves property. Gets or sets the extra
+title: "SurfaceCurves.Extra"
+linktitle: "Extra"
+articleTitle: "Extra"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SurfaceCurves property. Gets or sets the extra."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/surfacecurves/extra/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/surfacecurves/extra/"
+product_version: "26.9"
 ---
 ## SurfaceCurves.Extra property
 
@@ -16,9 +19,8 @@ public Extra[] Extra { get; set; }
 
 ### See Also
 
-* class [Extra](../../extra/)
-* class [SurfaceCurves](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Extra](../../extra/)
+* class [SurfaceCurves](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

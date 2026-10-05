@@ -1,10 +1,13 @@
 ---
-title: Enum CadAttachmentType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadAttachmentType enum. Cad attachment point type
+title: "CadAttachmentType Enum"
+linktitle: "CadAttachmentType"
+articleTitle: "CadAttachmentType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadAttachmentType enum. Cad attachment point type"
 type: docs
-weight: 1210
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadattachmenttype/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadattachmenttype/"
+product_version: "26.9"
 ---
 ## CadAttachmentType enumeration
 
@@ -30,7 +33,6 @@ public enum CadAttachmentType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadBody.CadBody
-second_title: Aspose.CAD for .NET API Reference
-description: CadBody constructor. The default constructor
+title: "CadBody.CadBody"
+linktitle: "CadBody"
+articleTitle: "CadBody"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBody constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadbody/cadbody/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadbody/cadbody/"
+product_version: "26.9"
 ---
 ## CadBody constructor
 
@@ -16,8 +19,7 @@ public CadBody()
 
 ### See Also
 
-* class [CadBody](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBody](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

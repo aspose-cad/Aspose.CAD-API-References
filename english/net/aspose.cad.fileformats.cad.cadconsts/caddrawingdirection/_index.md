@@ -1,10 +1,13 @@
 ---
-title: Enum CadDrawingDirection
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadDrawingDirection enum. The Cad drawing direction
+title: "CadDrawingDirection Enum"
+linktitle: "CadDrawingDirection"
+articleTitle: "CadDrawingDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadDrawingDirection enum. The Cad drawing direction."
 type: docs
-weight: 1250
-url: /net/aspose.cad.fileformats.cad.cadconsts/caddrawingdirection/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadconsts/caddrawingdirection/"
+product_version: "26.9"
 ---
 ## CadDrawingDirection enumeration
 
@@ -24,7 +27,6 @@ public enum CadDrawingDirection
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

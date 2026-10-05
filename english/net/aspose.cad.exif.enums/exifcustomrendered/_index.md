@@ -1,10 +1,13 @@
 ---
-title: Enum ExifCustomRendered
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifCustomRendered enum. exif custom rendered enum
+title: "ExifCustomRendered Enum"
+linktitle: "ExifCustomRendered"
+articleTitle: "ExifCustomRendered"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifCustomRendered enum. exif custom rendered enum."
 type: docs
-weight: 550
-url: /net/aspose.cad.exif.enums/exifcustomrendered/
+weight: 40
+url: "/net/aspose.cad.exif.enums/exifcustomrendered/"
+product_version: "26.9"
 ---
 ## ExifCustomRendered enumeration
 
@@ -23,7 +26,6 @@ public enum ExifCustomRendered
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

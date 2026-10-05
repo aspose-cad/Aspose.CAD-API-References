@@ -1,10 +1,14 @@
 ---
-title: Class CadDataTable
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.DataTable.CadDataTable class. Class describing DATATABLE object
+title: "CadDataTable Class"
+linktitle: "CadDataTable"
+articleTitle: "CadDataTable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.DataTable.CadDataTable class. Class describing DATATABLE object."
 type: docs
-weight: 3540
-url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/"
+keywords: "CadDataTable, Aspose.CAD.FileFormats.Cad.CadObjects.DataTable, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadDataTable class
 
@@ -24,30 +28,30 @@ public class CadDataTable : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
-| [ColumnsNumber](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/columnsnumber/) { get; set; } | Gets or sets the columns number. |
-| [DataTableColumns](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/datatablecolumns/) { get; set; } | Gets or sets the data table columns. |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
-| [HardPointerIds](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/hardpointerids/) { get; set; } | Gets or sets the hard pointer ids. |
-| [HardPointerOwnerships](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/hardpointerownerships/) { get; set; } | Gets or sets the hard pointer ownerships. |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
-| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
-| [SoftPointerIdsHandle](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointeridshandle/) { get; set; } | Gets or sets the soft pointer ids handle. |
-| [SoftPointerIdsHandleToObjectValues](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointeridshandletoobjectvalues/) { get; set; } | Gets or sets the soft pointer ids handle to object values. |
-| [SoftPointerOwnserships](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointerownserships/) { get; set; } | Gets or sets the soft pointer ownserships. |
-| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
-| [TableName](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/tablename/) { get; set; } | Gets or sets the name of the table. |
-| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
-| [ValidRowsNumber](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/validrowsnumber/) { get; set; } | Gets or sets the valid rows number. |
-| [Version](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/version/) { get; set; } | Gets or sets the version. |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
+| [ColumnsNumber](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/columnsnumber/) { get; set; } | Gets or sets the columns number. |
+| [DataTableColumns](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/datatablecolumns/) { get; set; } | Gets or sets the data table columns. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [HardPointerIds](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/hardpointerids/) { get; set; } | Gets or sets the hard pointer ids. |
+| [HardPointerOwnerships](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/hardpointerownerships/) { get; set; } | Gets or sets the hard pointer ownerships. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| [SoftPointerIdsHandle](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointeridshandle/) { get; set; } | Gets or sets the soft pointer ids handle. |
+| [SoftPointerIdsHandleToObjectValues](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointeridshandletoobjectvalues/) { get; set; } | Gets or sets the soft pointer ids handle to object values. |
+| [SoftPointerOwnserships](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/softpointerownserships/) { get; set; } | Gets or sets the soft pointer ownserships. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| [TableName](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/tablename/) { get; set; } | Gets or sets the name of the table. |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
+| [ValidRowsNumber](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/validrowsnumber/) { get; set; } | Gets or sets the valid rows number. |
+| [Version](../../aspose.cad.fileformats.cad.cadobjects.datatable/caddatatable/version/) { get; set; } | Gets or sets the version. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods
 
@@ -58,8 +62,7 @@ public class CadDataTable : CadBaseObject
 
 ### See Also
 
-* class [CadBaseObject](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../aspose.cad.fileformats.cad.cadobjects.datatable/)
-* assembly [Aspose.CAD](../../)
-
+* class [CadBaseObject](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../aspose.cad.fileformats.cad.cadobjects.datatable/)
+* assembly [Aspose.CAD](../../)
 

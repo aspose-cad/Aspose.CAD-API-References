@@ -1,10 +1,13 @@
 ---
-title: Enum DgnSurface3DType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnSurface3DType enum. Represents 3d surface type
+title: "DgnSurface3DType Enum"
+linktitle: "DgnSurface3DType"
+articleTitle: "DgnSurface3DType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnSurface3DType enum. Represents 3d surface type"
 type: docs
-weight: 9130
-url: /net/aspose.cad.fileformats.dgn/dgnsurface3dtype/
+weight: 150
+url: "/net/aspose.cad.fileformats.dgn/dgnsurface3dtype/"
+product_version: "26.9"
 ---
 ## DgnSurface3DType enumeration
 
@@ -23,7 +26,6 @@ public enum DgnSurface3DType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../)
 

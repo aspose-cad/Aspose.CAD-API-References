@@ -1,10 +1,13 @@
 ---
-title: DgnImage.Tags
-second_title: Aspose.CAD for .NET API Reference
-description: DgnImage property. Gets the tags
+title: "DgnImage.Tags"
+linktitle: "Tags"
+articleTitle: "Tags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnImage property. Gets the tags."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.dgn/dgnimage/tags/
+weight: 130
+url: "/net/aspose.cad.fileformats.dgn/dgnimage/tags/"
+product_version: "26.9"
 ---
 ## DgnImage.Tags property
 
@@ -16,9 +19,8 @@ public DgnElementBase[] Tags { get; }
 
 ### See Also
 
-* class [DgnElementBase](../../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/)
-* class [DgnImage](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementBase](../../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/)
+* class [DgnImage](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

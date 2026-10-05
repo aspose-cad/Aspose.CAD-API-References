@@ -1,10 +1,14 @@
 ---
-title: Class ColorDataUnit
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models.ColorDataUnit class. Customize the color of the surface
+title: "ColorDataUnit Class"
+linktitle: "ColorDataUnit"
+articleTitle: "ColorDataUnit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models.ColorDataUnit class. Customize the color of the surface."
 type: docs
-weight: 35240
-url: /net/aspose.cad.fileformats.stp.stplibrary.core.models/colordataunit/
+weight: 20
+url: "/net/aspose.cad.fileformats.stp.stplibrary.core.models/colordataunit/"
+keywords: "ColorDataUnit, Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ColorDataUnit class
 
@@ -22,7 +26,6 @@ public class ColorDataUnit
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../aspose.cad.fileformats.stp.stplibrary.core.models/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](../../aspose.cad.fileformats.stp.stplibrary.core.models/)
+* assembly [Aspose.CAD](../../)
 

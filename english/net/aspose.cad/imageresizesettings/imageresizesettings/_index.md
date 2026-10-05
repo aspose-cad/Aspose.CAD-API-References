@@ -1,10 +1,13 @@
 ---
-title: ImageResizeSettings.ImageResizeSettings
-second_title: Aspose.CAD for .NET API Reference
-description: ImageResizeSettings constructor. Initializes a new instance of the ImageResizeSettings class
+title: "ImageResizeSettings.ImageResizeSettings"
+linktitle: "ImageResizeSettings"
+articleTitle: "ImageResizeSettings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageResizeSettings constructor. Initializes a new instance of the ImageResizeSettings class."
 type: docs
 weight: 10
-url: /net/aspose.cad/imageresizesettings/imageresizesettings/
+url: "/net/aspose.cad/imageresizesettings/imageresizesettings/"
+product_version: "26.9"
 ---
 ## ImageResizeSettings constructor
 
@@ -16,8 +19,7 @@ public ImageResizeSettings()
 
 ### See Also
 
-* class [ImageResizeSettings](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ImageResizeSettings](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

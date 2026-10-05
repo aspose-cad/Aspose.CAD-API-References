@@ -1,12 +1,17 @@
 ---
-title: ColourSelectionMode.ReadFromBinary
-second_title: Aspose.CAD for .NET API Reference
-description: ColourSelectionMode method. 
+title: "ColourSelectionMode.ReadFromBinary"
+linktitle: "ReadFromBinary"
+articleTitle: "ReadFromBinary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColourSelectionMode method."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cgm.commands/colourselectionmode/readfrombinary/
+url: "/net/aspose.cad.fileformats.cgm.commands/colourselectionmode/readfrombinary/"
+product_version: "26.9"
 ---
 ## ColourSelectionMode.ReadFromBinary method
+
+
 
 ```csharp
 public override void ReadFromBinary(IBinaryReader reader)
@@ -14,9 +19,8 @@ public override void ReadFromBinary(IBinaryReader reader)
 
 ### See Also
 
-* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
-* class [ColourSelectionMode](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
+* class [ColourSelectionMode](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

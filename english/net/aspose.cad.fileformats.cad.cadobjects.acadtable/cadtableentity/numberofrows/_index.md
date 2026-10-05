@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.NumberOfRows
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. Gets or sets the number of rows
+title: "CadTableEntity.NumberOfRows"
+linktitle: "NumberOfRows"
+articleTitle: "NumberOfRows"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. Gets or sets the number of rows."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/numberofrows/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/numberofrows/"
+product_version: "26.9"
 ---
 ## CadTableEntity.NumberOfRows property
 
@@ -16,8 +19,7 @@ public int NumberOfRows { get; set; }
 
 ### See Also
 
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

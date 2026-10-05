@@ -1,10 +1,13 @@
 ---
-title: CadBlockRecordList.GetBlockByLayoutHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockRecordList method. Gets block table by layout handle
+title: "CadBlockRecordList.GetBlockByLayoutHandle"
+linktitle: "GetBlockByLayoutHandle"
+articleTitle: "GetBlockByLayoutHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockRecordList method. Gets block table by layout handle"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad/cadblockrecordlist/getblockbylayouthandle/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad/cadblockrecordlist/getblockbylayouthandle/"
+product_version: "26.9"
 ---
 ## CadBlockRecordList.GetBlockByLayoutHandle method
 
@@ -24,9 +27,8 @@ The [`CadBlockTableObject`](../../../aspose.cad.fileformats.cad.cadtables/cadblo
 
 ### See Also
 
-* class [CadBlockTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/)
-* class [CadBlockRecordList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockTableObject](../../../aspose.cad.fileformats.cad.cadtables/cadblocktableobject/)
+* class [CadBlockRecordList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: JpegExifData.YResolution
-second_title: Aspose.CAD for .NET API Reference
-description: JpegExifData property. Gets or sets the y resolution
+title: "JpegExifData.YResolution"
+linktitle: "YResolution"
+articleTitle: "YResolution"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegExifData property. Gets or sets the y resolution."
 type: docs
-weight: 250
-url: /net/aspose.cad.exif/jpegexifdata/yresolution/
+weight: 280
+url: "/net/aspose.cad.exif/jpegexifdata/yresolution/"
+product_version: "26.9"
 ---
 ## JpegExifData.YResolution property
 
@@ -20,9 +23,8 @@ The y resolution.
 
 ### See Also
 
-* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

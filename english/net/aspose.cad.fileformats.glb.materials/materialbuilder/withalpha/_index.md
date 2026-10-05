@@ -1,12 +1,17 @@
 ---
-title: MaterialBuilder.WithAlpha
-second_title: Aspose.CAD for .NET API Reference
-description: MaterialBuilder method. 
+title: "MaterialBuilder.WithAlpha"
+linktitle: "WithAlpha"
+articleTitle: "WithAlpha"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MaterialBuilder method."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.glb.materials/materialbuilder/withalpha/
+weight: 150
+url: "/net/aspose.cad.fileformats.glb.materials/materialbuilder/withalpha/"
+product_version: "26.9"
 ---
 ## MaterialBuilder.WithAlpha method
+
+
 
 ```csharp
 public MaterialBuilder WithAlpha(AlphaMode alphaMode = AlphaMode.OPAQUE, float alphaCutoff = 0.5)
@@ -14,9 +19,8 @@ public MaterialBuilder WithAlpha(AlphaMode alphaMode = AlphaMode.OPAQUE, float a
 
 ### See Also
 
-* enum [AlphaMode](../../alphamode/)
-* class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MaterialBuilder](../)
+* enum [AlphaMode](../../alphamode/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

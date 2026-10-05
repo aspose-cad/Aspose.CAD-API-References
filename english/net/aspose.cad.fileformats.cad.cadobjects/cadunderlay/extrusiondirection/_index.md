@@ -1,10 +1,13 @@
 ---
-title: CadUnderlay.ExtrusionDirection
-second_title: Aspose.CAD for .NET API Reference
-description: CadUnderlay property. Gets or sets the extrusion direction
+title: "CadUnderlay.ExtrusionDirection"
+linktitle: "ExtrusionDirection"
+articleTitle: "ExtrusionDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadUnderlay property. Gets or sets the extrusion direction."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadunderlay/extrusiondirection/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadunderlay/extrusiondirection/"
+product_version: "26.9"
 ---
 ## CadUnderlay.ExtrusionDirection property
 
@@ -16,9 +19,8 @@ public override Cad3DPoint ExtrusionDirection { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadUnderlay](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadUnderlay](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

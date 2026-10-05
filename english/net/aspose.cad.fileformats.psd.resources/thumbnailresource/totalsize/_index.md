@@ -1,10 +1,13 @@
 ---
-title: ThumbnailResource.TotalSize
-second_title: Aspose.CAD for .NET API Reference
-description: ThumbnailResource property. Gets the total data size
+title: "ThumbnailResource.TotalSize"
+linktitle: "TotalSize"
+articleTitle: "TotalSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThumbnailResource property. Gets the total data size."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.psd.resources/thumbnailresource/totalsize/
+weight: 70
+url: "/net/aspose.cad.fileformats.psd.resources/thumbnailresource/totalsize/"
+product_version: "26.9"
 ---
 ## ThumbnailResource.TotalSize property
 
@@ -20,8 +23,7 @@ The total data size.
 
 ### See Also
 
-* class [ThumbnailResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThumbnailResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

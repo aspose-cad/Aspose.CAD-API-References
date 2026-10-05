@@ -1,10 +1,13 @@
 ---
-title: Enum CustomFontFolderOptions
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.CustomFontFolderOptions enum. Options for custom font folder specification
+title: "CustomFontFolderOptions Enum"
+linktitle: "CustomFontFolderOptions"
+articleTitle: "CustomFontFolderOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.CustomFontFolderOptions enum. Options for custom font folder specification."
 type: docs
-weight: 470
-url: /net/aspose.cad/customfontfolderoptions/
+weight: 190
+url: "/net/aspose.cad/customfontfolderoptions/"
+product_version: "26.9"
 ---
 ## CustomFontFolderOptions enumeration
 
@@ -25,7 +28,6 @@ public enum CustomFontFolderOptions
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

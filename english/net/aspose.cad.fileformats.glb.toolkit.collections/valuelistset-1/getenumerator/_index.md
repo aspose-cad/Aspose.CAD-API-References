@@ -1,12 +1,17 @@
 ---
-title: ValueListSet1.GetEnumerator
-second_title: Aspose.CAD for .NET API Reference
-description: ValueListSet method. 
+title: "ValueListSet<T>.GetEnumerator"
+linktitle: "GetEnumerator"
+articleTitle: "GetEnumerator"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ValueListSet method."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.glb.toolkit.collections/valuelistset-1/getenumerator/
+weight: 110
+url: "/net/aspose.cad.fileformats.glb.toolkit.collections/valuelistset-1/getenumerator/"
+product_version: "26.9"
 ---
-## ValueListSet&lt;T&gt;.GetEnumerator method
+## ValueListSet<T>.GetEnumerator method
+
+
 
 ```csharp
 public IEnumerator<T> GetEnumerator()
@@ -14,8 +19,7 @@ public IEnumerator<T> GetEnumerator()
 
 ### See Also
 
-* class [ValueListSet&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../../aspose.cad.fileformats.glb.toolkit.collections/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ValueListSet&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](../../../aspose.cad.fileformats.glb.toolkit.collections/)
+* assembly [Aspose.CAD](../../../)
 

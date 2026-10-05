@@ -1,14 +1,20 @@
 ---
-title: CadDimensionBase.BlockTranslationVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionBase property. Gets or sets the block translation vector. It was gotten from the old version CadDimensionBaseR12 because we have cases when block translation vector appears in new version CadDimensionBase
+title: "CadDimensionBase.BlockTranslationVector"
+linktitle: "BlockTranslationVector"
+articleTitle: "BlockTranslationVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionBase property. Gets or sets the block translation vector. It was gotten from the old version CadDimensionBaseR12, because we have cases when bloc..."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/blocktranslationvector/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/blocktranslationvector/"
+product_version: "26.9"
 ---
 ## CadDimensionBase.BlockTranslationVector property
 
-Gets or sets the block translation vector. It was gotten from the old version CadDimensionBaseR12, because we have cases when block translation vector appears in new version CadDimensionBase
+Gets or sets the block translation vector.
+ It was gotten from the old version CadDimensionBaseR12,
+ because we have cases when block translation vector appears in
+ new version CadDimensionBase
 
 ```csharp
 public Cad3DPoint BlockTranslationVector { get; set; }
@@ -16,9 +22,8 @@ public Cad3DPoint BlockTranslationVector { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadDimensionBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadDimensionBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

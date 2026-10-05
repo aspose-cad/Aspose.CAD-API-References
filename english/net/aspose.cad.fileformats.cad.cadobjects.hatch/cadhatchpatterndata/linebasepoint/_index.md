@@ -1,10 +1,13 @@
 ---
-title: CadHatchPatternData.LineBasePoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatchPatternData property. Gets or sets the line base point
+title: "CadHatchPatternData.LineBasePoint"
+linktitle: "LineBasePoint"
+articleTitle: "LineBasePoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatchPatternData property. Gets or sets the line base point."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/linebasepoint/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatchpatterndata/linebasepoint/"
+product_version: "26.9"
 ---
 ## CadHatchPatternData.LineBasePoint property
 
@@ -20,9 +23,8 @@ The line base point.
 
 ### See Also
 
-* class [Cad2DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/)
-* class [CadHatchPatternData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad2DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad2dpoint/)
+* class [CadHatchPatternData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

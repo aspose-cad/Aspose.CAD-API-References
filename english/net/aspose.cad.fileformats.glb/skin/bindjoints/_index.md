@@ -1,12 +1,17 @@
 ---
-title: Skin.BindJoints
-second_title: Aspose.CAD for .NET API Reference
-description: Skin method. 
+title: "Skin.BindJoints"
+linktitle: "BindJoints"
+articleTitle: "BindJoints"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Skin method."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb/skin/bindjoints/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb/skin/bindjoints/"
+product_version: "26.9"
 ---
-## BindJoints(params Node[]) {#bindjoints}
+## BindJoints(params Node[]) {#bindjoints}
+
+
 
 ```csharp
 public void BindJoints(params Node[] joints)
@@ -14,14 +19,14 @@ public void BindJoints(params Node[] joints)
 
 ### See Also
 
-* class [Node](../../node/)
-* class [Skin](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
+* class [Node](../../node/)
+* class [Skin](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## BindJoints(Matrix4x4, params Node[]) {#bindjoints_1}
+## BindJoints(Matrix4x4, params Node[]) {#bindjoints_1}
 
 Binds a bone armature of [`Node`](../../node/) to the associated skinned mesh.
 
@@ -40,9 +45,8 @@ This method uses the [`WorldMatrix`](../../node/worldmatrix/) value of each join
 
 ### See Also
 
-* class [Node](../../node/)
-* class [Skin](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../../node/)
+* class [Skin](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

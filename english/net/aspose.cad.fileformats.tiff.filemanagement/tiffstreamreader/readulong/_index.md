@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ReadULong
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Read unsigned integer value from the stream
+title: "TiffStreamReader.ReadULong"
+linktitle: "ReadULong"
+articleTitle: "ReadULong"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Read unsigned integer value from the stream."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readulong/
+weight: 230
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readulong/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ReadULong method
 
@@ -24,8 +27,7 @@ An unsigned integer value.
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

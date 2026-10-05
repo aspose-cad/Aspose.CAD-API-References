@@ -1,10 +1,13 @@
 ---
-title: DwfLayersList.Contains
-second_title: Aspose.CAD for .NET API Reference
-description: DwfLayersList method. Determines whether the DwfLayersList contains a specific value
+title: "DwfLayersList.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfLayersList method. Determines whether the DwfLayersList contains a specific value."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.dwf/dwflayerslist/contains/
+weight: 80
+url: "/net/aspose.cad.fileformats.dwf/dwflayerslist/contains/"
+product_version: "26.9"
 ---
 ## DwfLayersList.Contains method
 
@@ -24,9 +27,8 @@ true if item is found in the collection otherwise false
 
 ### See Also
 
-* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
-* class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
+* class [DwfLayersList](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

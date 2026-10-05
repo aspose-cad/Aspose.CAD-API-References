@@ -1,10 +1,13 @@
 ---
-title: CadBoundaryPathCircularEllipse.StartAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadBoundaryPathCircularEllipse property. Gets or sets Start angle
+title: "CadBoundaryPathCircularEllipse.StartAngle"
+linktitle: "StartAngle"
+articleTitle: "StartAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBoundaryPathCircularEllipse property. Gets or sets Start angle."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/startangle/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcircularellipse/startangle/"
+product_version: "26.9"
 ---
 ## CadBoundaryPathCircularEllipse.StartAngle property
 
@@ -20,8 +23,7 @@ The Start angle
 
 ### See Also
 
-* class [CadBoundaryPathCircularEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBoundaryPathCircularEllipse](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class MeshPrimitive
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.MeshPrimitive class. Geometry to be rendered with the given material
+title: "MeshPrimitive Class"
+linktitle: "MeshPrimitive"
+articleTitle: "MeshPrimitive"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.MeshPrimitive class. Geometry to be rendered with the given material."
 type: docs
-weight: 11100
-url: /net/aspose.cad.fileformats.glb/meshprimitive/
+weight: 370
+url: "/net/aspose.cad.fileformats.glb/meshprimitive/"
+keywords: "MeshPrimitive, Aspose.CAD.FileFormats.GLB, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## MeshPrimitive class
 
@@ -18,21 +22,21 @@ public sealed class MeshPrimitive : ExtraProperties, IChildOf<Mesh>
 
 | Name | Description |
 | --- | --- |
-| [DrawPrimitiveType](../../aspose.cad.fileformats.glb/meshprimitive/drawprimitivetype/) { get; set; } |  |
-| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
-| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
-| [IndexAccessor](../../aspose.cad.fileformats.glb/meshprimitive/indexaccessor/) { get; set; } |  |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/meshprimitive/logicalindex/) { get; } | Gets the zero-based index of this `MeshPrimitive` at [`Primitives`](../mesh/primitives/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/meshprimitive/logicalparent/) { get; } | Gets the [`Mesh`](../mesh/) instance that owns this `MeshPrimitive` instance. |
-| [Material](../../aspose.cad.fileformats.glb/meshprimitive/material/) { get; set; } | Gets or sets the [`Material`](./material/) instance, or null. |
-| [MorphTargetsCount](../../aspose.cad.fileformats.glb/meshprimitive/morphtargetscount/) { get; } |  |
-| [VertexAccessors](../../aspose.cad.fileformats.glb/meshprimitive/vertexaccessors/) { get; } |  |
+| [DrawPrimitiveType](../../aspose.cad.fileformats.glb/meshprimitive/drawprimitivetype/) { get; set; } |  |
+| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
+| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
+| [IndexAccessor](../../aspose.cad.fileformats.glb/meshprimitive/indexaccessor/) { get; set; } |  |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/meshprimitive/logicalindex/) { get; } | Gets the zero-based index of this `MeshPrimitive` at [`Primitives`](../mesh/primitives/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/meshprimitive/logicalparent/) { get; } | Gets the [`Mesh`](../mesh/) instance that owns this `MeshPrimitive` instance. |
+| [Material](../../aspose.cad.fileformats.glb/meshprimitive/material/) { get; set; } | Gets or sets the [`Material`](./material/) instance, or null. |
+| [MorphTargetsCount](../../aspose.cad.fileformats.glb/meshprimitive/morphtargetscount/) { get; } |  |
+| [VertexAccessors](../../aspose.cad.fileformats.glb/meshprimitive/vertexaccessors/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetBufferViews](../../aspose.cad.fileformats.glb/meshprimitive/getbufferviews/)(bool, bool, bool) |  |
+| [GetBufferViews](../../aspose.cad.fileformats.glb/meshprimitive/getbufferviews/)(bool, bool, bool) |  |
 | [GetExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/getextension/)() |  |
 | [GetIndexAccessor](../../aspose.cad.fileformats.glb/meshprimitive/getindexaccessor/)() |  |
 | [GetIndices](../../aspose.cad.fileformats.glb/meshprimitive/getindices/)() | Gets the raw list of indices of this primitive. |
@@ -45,16 +49,15 @@ public sealed class MeshPrimitive : ExtraProperties, IChildOf<Mesh>
 | [RemoveExtensions&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/removeextensions/)(T) |  |
 | [SetExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/setextension/)(T) |  |
 | [SetIndexAccessor](../../aspose.cad.fileformats.glb/meshprimitive/setindexaccessor/)(Accessor) |  |
-| [SetMorphTargetAccessors](../../aspose.cad.fileformats.glb/meshprimitive/setmorphtargetaccessors/)(int, IReadOnlyDictionary&lt;string, Accessor&gt;) |  |
-| [SetVertexAccessor](../../aspose.cad.fileformats.glb/meshprimitive/setvertexaccessor/)(string, Accessor) |  |
+| [SetMorphTargetAccessors](../../aspose.cad.fileformats.glb/meshprimitive/setmorphtargetaccessors/)(int, IReadOnlyDictionary&lt;string, Accessor&gt;) |  |
+| [SetVertexAccessor](../../aspose.cad.fileformats.glb/meshprimitive/setvertexaccessor/)(string, Accessor) |  |
 | [UseExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/useextension/)() |  |
 
 ### See Also
 
-* class [ExtraProperties](../extraproperties/)
-* interface [IChildOf&lt;TParent&gt;](../../aspose.cad.fileformats.glb.collections/ichildof-1/)
-* class [Mesh](../mesh/)
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* class [ExtraProperties](../extraproperties/)
+* interface [IChildOf&lt;TParent&gt;](../../aspose.cad.fileformats.glb.collections/ichildof-1/)
+* class [Mesh](../mesh/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

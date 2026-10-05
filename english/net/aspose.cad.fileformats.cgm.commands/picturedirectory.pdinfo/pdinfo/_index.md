@@ -1,12 +1,15 @@
 ---
-title: PictureDirectory.PDInfo.PDInfo
-second_title: Aspose.CAD for .NET API Reference
-description: PDInfo constructor. The default constructor
+title: "PictureDirectory.PDInfo.PDInfo"
+linktitle: "PictureDirectory.PDInfo"
+articleTitle: "PictureDirectory.PDInfo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PDInfo constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.commands/picturedirectory.pdinfo/pdinfo/
+url: "/net/aspose.cad.fileformats.cgm.commands/picturedirectory.pdinfo/pdinfo/"
+product_version: "26.9"
 ---
-## PictureDirectory.PDInfo constructor
+## PDInfo constructor
 
 The default constructor.
 
@@ -16,8 +19,7 @@ public PDInfo()
 
 ### See Also
 
-* class [PDInfo](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PDInfo](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

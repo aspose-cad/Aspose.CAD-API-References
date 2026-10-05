@@ -1,10 +1,13 @@
 ---
-title: MultiPageOptions.MergeLayers
-second_title: Aspose.CAD for .NET API Reference
-description: MultiPageOptions property. Gets or sets a value indicating whether merege layers
+title: "MultiPageOptions.MergeLayers"
+linktitle: "MergeLayers"
+articleTitle: "MergeLayers"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MultiPageOptions property. Gets or sets a value indicating whether [merege layers]."
 type: docs
-weight: 30
-url: /net/aspose.cad.imageoptions/multipageoptions/mergelayers/
+weight: 180
+url: "/net/aspose.cad.imageoptions/multipageoptions/mergelayers/"
+product_version: "26.9"
 ---
 ## MultiPageOptions.MergeLayers property
 
@@ -20,8 +23,7 @@ public bool MergeLayers { get; set; }
 
 ### See Also
 
-* class [MultiPageOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

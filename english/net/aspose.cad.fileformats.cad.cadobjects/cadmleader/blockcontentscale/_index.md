@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.BlockContentScale
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader property. Gets or sets the block content scale
+title: "CadMLeader.BlockContentScale"
+linktitle: "BlockContentScale"
+articleTitle: "BlockContentScale"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader property. Gets or sets the block content scale."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/blockcontentscale/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/blockcontentscale/"
+product_version: "26.9"
 ---
 ## CadMLeader.BlockContentScale property
 
@@ -20,9 +23,8 @@ The block content scale.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

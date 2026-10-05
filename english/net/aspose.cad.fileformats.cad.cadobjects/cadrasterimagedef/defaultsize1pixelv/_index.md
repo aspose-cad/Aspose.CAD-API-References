@@ -1,10 +1,13 @@
 ---
-title: CadRasterImageDef.DefaultSize1PixelV
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImageDef property. Gets or sets default size on one pixel V
+title: "CadRasterImageDef.DefaultSize1PixelV"
+linktitle: "DefaultSize1PixelV"
+articleTitle: "DefaultSize1PixelV"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImageDef property. Gets or sets default size on one pixel V."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/defaultsize1pixelv/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/defaultsize1pixelv/"
+product_version: "26.9"
 ---
 ## CadRasterImageDef.DefaultSize1PixelV property
 
@@ -16,8 +19,7 @@ public double? DefaultSize1PixelV { get; set; }
 
 ### See Also
 
-* class [CadRasterImageDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImageDef](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

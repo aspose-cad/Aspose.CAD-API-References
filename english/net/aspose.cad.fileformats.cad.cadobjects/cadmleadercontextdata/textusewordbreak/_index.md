@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.TextUseWordBreak
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets a value indicating whether text use word break
+title: "CadMLeaderContextData.TextUseWordBreak"
+linktitle: "TextUseWordBreak"
+articleTitle: "TextUseWordBreak"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets a value indicating whether [text use word break]."
 type: docs
-weight: 460
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textusewordbreak/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textusewordbreak/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.TextUseWordBreak property
 
@@ -20,8 +23,7 @@ public bool TextUseWordBreak { get; set; }
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

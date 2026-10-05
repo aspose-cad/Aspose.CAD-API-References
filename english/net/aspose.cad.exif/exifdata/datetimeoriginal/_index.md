@@ -1,10 +1,13 @@
 ---
-title: ExifData.DateTimeOriginal
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the date time original
+title: "ExifData.DateTimeOriginal"
+linktitle: "DateTimeOriginal"
+articleTitle: "DateTimeOriginal"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the date time original."
 type: docs
-weight: 140
-url: /net/aspose.cad.exif/exifdata/datetimeoriginal/
+weight: 190
+url: "/net/aspose.cad.exif/exifdata/datetimeoriginal/"
+product_version: "26.9"
 ---
 ## ExifData.DateTimeOriginal property
 
@@ -20,8 +23,7 @@ The date time original.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

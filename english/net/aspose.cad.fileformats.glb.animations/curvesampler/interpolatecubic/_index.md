@@ -1,42 +1,17 @@
 ---
-title: CurveSampler.InterpolateCubic
-second_title: Aspose.CAD for .NET API Reference
-description: CurveSampler method. 
+title: "CurveSampler.InterpolateCubic"
+linktitle: "InterpolateCubic"
+articleTitle: "InterpolateCubic"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CurveSampler method."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.glb.animations/curvesampler/interpolatecubic/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb.animations/curvesampler/interpolatecubic/"
+product_version: "26.9"
 ---
-## InterpolateCubic(Vector3, Vector3, Vector3, Vector3, float) {#interpolatecubic_2}
+## InterpolateCubic(IReadOnlyList&lt;float&gt;, IReadOnlyList&lt;float&gt;, IReadOnlyList&lt;float&gt;, IReadOnlyList&lt;float&gt;, float) {#interpolatecubic}
 
-```csharp
-public static Vector3 InterpolateCubic(Vector3 start, Vector3 outgoingTangent, Vector3 end, 
-    Vector3 incomingTangent, float amount)
-```
 
-### See Also
-
-* class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## InterpolateCubic(Quaternion, Quaternion, Quaternion, Quaternion, float) {#interpolatecubic_1}
-
-```csharp
-public static Quaternion InterpolateCubic(Quaternion start, Quaternion outgoingTangent, 
-    Quaternion end, Quaternion incomingTangent, float amount)
-```
-
-### See Also
-
-* class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## InterpolateCubic(IReadOnlyList&lt;float&gt;, IReadOnlyList&lt;float&gt;, IReadOnlyList&lt;float&gt;, IReadOnlyList&lt;float&gt;, float) {#interpolatecubic}
 
 ```csharp
 public static float[] InterpolateCubic(IReadOnlyList<float> start, 
@@ -46,8 +21,41 @@ public static float[] InterpolateCubic(IReadOnlyList<float> start,
 
 ### See Also
 
-* class [CurveSampler](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../../)
+* class [CurveSampler](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
 
+---
+
+## InterpolateCubic(Quaternion, Quaternion, Quaternion, Quaternion, float) {#interpolatecubic_1}
+
+
+
+```csharp
+public static Quaternion InterpolateCubic(Quaternion start, Quaternion outgoingTangent, 
+    Quaternion end, Quaternion incomingTangent, float amount)
+```
+
+### See Also
+
+* class [CurveSampler](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## InterpolateCubic(Vector3, Vector3, Vector3, Vector3, float) {#interpolatecubic_2}
+
+
+
+```csharp
+public static Vector3 InterpolateCubic(Vector3 start, Vector3 outgoingTangent, Vector3 end, 
+    Vector3 incomingTangent, float amount)
+```
+
+### See Also
+
+* class [CurveSampler](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
 

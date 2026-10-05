@@ -1,10 +1,13 @@
 ---
-title: Enum CadClassTypeName
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.CadClassTypeName enum. The Cad class type names
+title: "CadClassTypeName Enum"
+linktitle: "CadClassTypeName"
+articleTitle: "CadClassTypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadClassTypeName enum. The Cad class type names."
 type: docs
-weight: 2540
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadclasstypename/
+weight: 440
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadclasstypename/"
+product_version: "26.9"
 ---
 ## CadClassTypeName enumeration
 
@@ -44,7 +47,6 @@ public enum CadClassTypeName
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
 

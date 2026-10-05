@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.CadMLeaderContextData
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData constructor. Initializes a new instance of the CadMLeaderContextData class
+title: "CadMLeaderContextData.CadMLeaderContextData"
+linktitle: "CadMLeaderContextData"
+articleTitle: "CadMLeaderContextData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData constructor. Initializes a new instance of the CadMLeaderContextData class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/cadmleadercontextdata/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/cadmleadercontextdata/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData constructor
 
@@ -16,8 +19,7 @@ public CadMLeaderContextData()
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

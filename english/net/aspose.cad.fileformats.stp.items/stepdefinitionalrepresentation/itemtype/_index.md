@@ -1,12 +1,17 @@
 ---
-title: StepDefinitionalRepresentation.ItemType
-second_title: Aspose.CAD for .NET API Reference
-description: StepDefinitionalRepresentation property. 
+title: "StepDefinitionalRepresentation.ItemType"
+linktitle: "ItemType"
+articleTitle: "ItemType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepDefinitionalRepresentation property."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/itemtype/
+url: "/net/aspose.cad.fileformats.stp.items/stepdefinitionalrepresentation/itemtype/"
+product_version: "26.9"
 ---
 ## StepDefinitionalRepresentation.ItemType property
+
+
 
 ```csharp
 public override StepItemType ItemType { get; }
@@ -14,9 +19,8 @@ public override StepItemType ItemType { get; }
 
 ### See Also
 
-* enum [StepItemType](../../stepitemtype/)
-* class [StepDefinitionalRepresentation](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [StepItemType](../../stepitemtype/)
+* class [StepDefinitionalRepresentation](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

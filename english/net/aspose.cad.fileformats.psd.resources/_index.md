@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Psd.Resources
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains Psd related resource elements
+title: "Aspose.CAD.FileFormats.Psd.Resources"
+linktitle: "Aspose.CAD.FileFormats.Psd.Resources"
+articleTitle: "Aspose.CAD.FileFormats.Psd.Resources"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains Psd related resource elements."
 type: docs
-weight: 1070
-url: /net/aspose.cad.fileformats.psd.resources/
+weight: 10
+url: "/net/aspose.cad.fileformats.psd.resources/"
+keywords: "Aspose.CAD.FileFormats.Psd.Resources, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains Psd related resource elements.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -18,5 +26,4 @@ The namespace contains Psd related resource elements.
 | [TransparencyIndexResource](./transparencyindexresource/) | The transparency index resource block. |
 | [UnknownResource](./unknownresource/) | The unknown resource. When a resource block is not recognized then this resource block is created. |
 | [XmpResouce](./xmpresouce/) | Represents the XMP metadata resource. |
-
 

@@ -1,10 +1,13 @@
 ---
-title: DwfWhipViewPort.DwfWhipViewPort
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipViewPort constructor. Initializes a new instance of the DwfWhipViewPort class
+title: "DwfWhipViewPort.DwfWhipViewPort"
+linktitle: "DwfWhipViewPort"
+articleTitle: "DwfWhipViewPort"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipViewPort constructor. Initializes a new instance of the DwfWhipViewPort class"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhipviewport/dwfwhipviewport/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/dwfwhipviewport/dwfwhipviewport/"
+product_version: "26.9"
 ---
 ## DwfWhipViewPort() {#constructor}
 
@@ -16,9 +19,9 @@ public DwfWhipViewPort()
 
 ### See Also
 
-* class [DwfWhipViewPort](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../../)
+* class [DwfWhipViewPort](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,9 +39,8 @@ public DwfWhipViewPort(DwfWhipLogicalPoint[] points)
 
 ### See Also
 
-* class [DwfWhipLogicalPoint](../../dwfwhiplogicalpoint/)
-* class [DwfWhipViewPort](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLogicalPoint](../../dwfwhiplogicalpoint/)
+* class [DwfWhipViewPort](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../../)
 

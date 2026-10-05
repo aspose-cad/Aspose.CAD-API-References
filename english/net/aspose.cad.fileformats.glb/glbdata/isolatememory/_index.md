@@ -1,10 +1,13 @@
 ---
-title: GlbData.IsolateMemory
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Refreshes all internal memory buffers
+title: "GlbData.IsolateMemory"
+linktitle: "IsolateMemory"
+articleTitle: "IsolateMemory"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Refreshes all internal memory buffers."
 type: docs
-weight: 410
-url: /net/aspose.cad.fileformats.glb/glbdata/isolatememory/
+weight: 90
+url: "/net/aspose.cad.fileformats.glb/glbdata/isolatememory/"
+product_version: "26.9"
 ---
 ## GlbData.IsolateMemory method
 
@@ -16,12 +19,16 @@ public void IsolateMemory()
 
 ## Remarks
 
-[`Buffer`](../../buffer/) instances can be created using external Byte arrays, which can potentially be shared with other instances. Editing these arrays directly can lead to data corruption. This method refreshes all internal memory buffers, by copying the data into newly allocated buffers. This ensures that at this point, all memory buffers are not shared and of exclusive use of this [`GlbData`](../) instance.
+[`Buffer`](../../buffer/) instances can be created using external `Byte` arrays, which
+ can potentially be shared with other instances. Editing these arrays directly can lead to data
+ corruption.
+ This method refreshes all internal memory buffers, by copying the data into newly allocated
+ buffers. This ensures that at this point, all memory buffers are not shared and of exclusive
+ use of this [`GlbData`](../) instance.
 
 ### See Also
 
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

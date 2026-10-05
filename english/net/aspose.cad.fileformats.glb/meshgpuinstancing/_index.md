@@ -1,10 +1,14 @@
 ---
-title: Class MeshGpuInstancing
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.MeshGpuInstancing class. glTF extension defines instance attributes for a node with a mesh
+title: "MeshGpuInstancing Class"
+linktitle: "MeshGpuInstancing"
+articleTitle: "MeshGpuInstancing"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.MeshGpuInstancing class. glTF extension defines instance attributes for a node with a mesh."
 type: docs
-weight: 11090
-url: /net/aspose.cad.fileformats.glb/meshgpuinstancing/
+weight: 360
+url: "/net/aspose.cad.fileformats.glb/meshgpuinstancing/"
+keywords: "MeshGpuInstancing, Aspose.CAD.FileFormats.GLB, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## MeshGpuInstancing class
 
@@ -18,13 +22,13 @@ public class MeshGpuInstancing : ExtraProperties
 
 | Name | Description |
 | --- | --- |
-| [Accessors](../../aspose.cad.fileformats.glb/meshgpuinstancing/accessors/) { get; } |  |
-| [Count](../../aspose.cad.fileformats.glb/meshgpuinstancing/count/) { get; } | Gets a value indicating the number of instances to draw. |
-| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
-| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
-| [LocalTransforms](../../aspose.cad.fileformats.glb/meshgpuinstancing/localtransforms/) { get; } |  |
-| [LogicalParent](../../aspose.cad.fileformats.glb/meshgpuinstancing/logicalparent/) { get; } |  |
-| [VisualParent](../../aspose.cad.fileformats.glb/meshgpuinstancing/visualparent/) { get; } |  |
+| [Accessors](../../aspose.cad.fileformats.glb/meshgpuinstancing/accessors/) { get; } |  |
+| [Count](../../aspose.cad.fileformats.glb/meshgpuinstancing/count/) { get; } | Gets a value indicating the number of instances to draw. |
+| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
+| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
+| [LocalTransforms](../../aspose.cad.fileformats.glb/meshgpuinstancing/localtransforms/) { get; } |  |
+| [LogicalParent](../../aspose.cad.fileformats.glb/meshgpuinstancing/logicalparent/) { get; } |  |
+| [VisualParent](../../aspose.cad.fileformats.glb/meshgpuinstancing/visualparent/) { get; } |  |
 
 ## Methods
 
@@ -38,14 +42,13 @@ public class MeshGpuInstancing : ExtraProperties
 | [GetWorldMatrix](../../aspose.cad.fileformats.glb/meshgpuinstancing/getworldmatrix/)(int) |  |
 | [RemoveExtensions&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/removeextensions/)() |  |
 | [RemoveExtensions&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/removeextensions/)(T) |  |
-| [SetAccessor](../../aspose.cad.fileformats.glb/meshgpuinstancing/setaccessor/)(string, Accessor) |  |
+| [SetAccessor](../../aspose.cad.fileformats.glb/meshgpuinstancing/setaccessor/)(string, Accessor) |  |
 | [SetExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/setextension/)(T) |  |
 | [UseExtension&lt;T&gt;](../../aspose.cad.fileformats.glb/extraproperties/useextension/)() |  |
 
 ### See Also
 
-* class [ExtraProperties](../extraproperties/)
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* class [ExtraProperties](../extraproperties/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

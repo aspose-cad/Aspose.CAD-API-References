@@ -1,10 +1,13 @@
 ---
-title: CadDataTableColumn.ColumnType
-second_title: Aspose.CAD for .NET API Reference
-description: CadDataTableColumn property. Gets or sets the type of the column
+title: "CadDataTableColumn.ColumnType"
+linktitle: "ColumnType"
+articleTitle: "ColumnType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDataTableColumn property. Gets or sets the type of the column."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/columntype/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/columntype/"
+product_version: "26.9"
 ---
 ## CadDataTableColumn.ColumnType property
 
@@ -20,8 +23,7 @@ The type of the column.
 
 ### See Also
 
-* class [CadDataTableColumn](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDataTableColumn](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
+* assembly [Aspose.CAD](../../../)
 

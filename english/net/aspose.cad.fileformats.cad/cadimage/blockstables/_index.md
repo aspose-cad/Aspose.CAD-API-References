@@ -1,10 +1,13 @@
 ---
-title: CadImage.BlocksTables
-second_title: Aspose.CAD for .NET API Reference
-description: CadImage property. Gets or sets the blocks tables
+title: "CadImage.BlocksTables"
+linktitle: "BlocksTables"
+articleTitle: "BlocksTables"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadImage property. Gets or sets the blocks tables."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad/cadimage/blockstables/
+weight: 250
+url: "/net/aspose.cad.fileformats.cad/cadimage/blockstables/"
+product_version: "26.9"
 ---
 ## CadImage.BlocksTables property
 
@@ -20,9 +23,8 @@ The blocks tables.
 
 ### See Also
 
-* class [CadBlockRecordList](../../cadblockrecordlist/)
-* class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockRecordList](../../cadblockrecordlist/)
+* class [CadImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

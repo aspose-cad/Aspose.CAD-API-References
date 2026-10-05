@@ -1,10 +1,13 @@
 ---
-title: SweptSurface.SweptSurface
-second_title: Aspose.CAD for .NET API Reference
-description: SweptSurface constructor. The default constructor
+title: "SweptSurface.SweptSurface"
+linktitle: "SweptSurface"
+articleTitle: "SweptSurface"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SweptSurface constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/sweptsurface/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/sweptsurface/"
+product_version: "26.9"
 ---
 ## SweptSurface constructor
 
@@ -16,8 +19,7 @@ public SweptSurface()
 
 ### See Also
 
-* class [SweptSurface](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SweptSurface](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

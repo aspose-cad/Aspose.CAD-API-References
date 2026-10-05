@@ -1,10 +1,14 @@
 ---
-title: Class CadRasterImageDef
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.CadRasterImageDef class. The Cad aster image definition object
+title: "CadRasterImageDef Class"
+linktitle: "CadRasterImageDef"
+articleTitle: "CadRasterImageDef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadRasterImageDef class. The Cad aster image definition object."
 type: docs
-weight: 3170
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/
+weight: 1110
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/"
+keywords: "CadRasterImageDef, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadRasterImageDef class
 
@@ -19,35 +23,35 @@ public class CadRasterImageDef : CadBaseObject
 | Name | Description |
 | --- | --- |
 | [CadRasterImageDef](cadrasterimagedef/#constructor)() | Initializes a new instance of the `CadRasterImageDef` class. |
-| [CadRasterImageDef](cadrasterimagedef/#constructor_1)(string, int, int) | Initializes a new instance of the `CadRasterImageDef` class. |
+| [CadRasterImageDef](cadrasterimagedef/#constructor_1)(string, int, int) | Initializes a new instance of the `CadRasterImageDef` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
-| [ClassVersion](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/classversion/) { get; set; } | Gets or sets the class version. |
-| [DefaultSize1PixelU](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/defaultsize1pixelu/) { get; set; } | Gets or sets default size on one pixel U. |
-| [DefaultSize1PixelV](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/defaultsize1pixelv/) { get; set; } | Gets or sets default size on one pixel V. |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
-| [FileName](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/filename/) { get; set; } | Gets or sets name of a file. |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
-| [ImageIsLoadedFlag](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imageisloadedflag/) { get; set; } | Gets or sets the image is loaded flag. |
-| [ImageSizeU](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imagesizeu/) { get; set; } | Gets or sets image size U. |
-| [ImageSizeV](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imagesizev/) { get; set; } | Gets or sets image size V. |
-| [IsLoaded](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/isloaded/) { get; set; } | Gets or sets a value indicating image is loaded. |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
-| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
-| [ResolutionUnits](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/resolutionunits/) { get; set; } | Gets or sets resolution units. |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
-| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
-| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
+| [ClassVersion](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/classversion/) { get; set; } | Gets or sets the class version. |
+| [DefaultSize1PixelU](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/defaultsize1pixelu/) { get; set; } | Gets or sets default size on one pixel U. |
+| [DefaultSize1PixelV](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/defaultsize1pixelv/) { get; set; } | Gets or sets default size on one pixel V. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [FileName](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/filename/) { get; set; } | Gets or sets name of a file. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [ImageIsLoadedFlag](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imageisloadedflag/) { get; set; } | Gets or sets the image is loaded flag. |
+| [ImageSizeU](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imagesizeu/) { get; set; } | Gets or sets image size U. |
+| [ImageSizeV](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/imagesizev/) { get; set; } | Gets or sets image size V. |
+| [IsLoaded](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/isloaded/) { get; set; } | Gets or sets a value indicating image is loaded. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
+| [ResolutionUnits](../../aspose.cad.fileformats.cad.cadobjects/cadrasterimagedef/resolutionunits/) { get; set; } | Gets or sets resolution units. |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods
 
@@ -58,8 +62,7 @@ public class CadRasterImageDef : CadBaseObject
 
 ### See Also
 
-* class [CadBaseObject](../cadbaseobject/)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../)
-
+* class [CadBaseObject](../cadbaseobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
 

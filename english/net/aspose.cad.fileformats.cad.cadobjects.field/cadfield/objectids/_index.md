@@ -1,10 +1,13 @@
 ---
-title: CadField.ObjectIds
-second_title: Aspose.CAD for .NET API Reference
-description: CadField property. Gets or sets the object ids
+title: "CadField.ObjectIds"
+linktitle: "ObjectIds"
+articleTitle: "ObjectIds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadField property. Gets or sets the object ids."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/objectids/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/objectids/"
+product_version: "26.9"
 ---
 ## CadField.ObjectIds property
 
@@ -20,8 +23,7 @@ The object ids.
 
 ### See Also
 
-* class [CadField](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadField](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
+* assembly [Aspose.CAD](../../../)
 

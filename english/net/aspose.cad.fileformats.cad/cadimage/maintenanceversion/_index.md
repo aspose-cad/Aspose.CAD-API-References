@@ -1,10 +1,13 @@
 ---
-title: CadImage.MaintenanceVersion
-second_title: Aspose.CAD for .NET API Reference
-description: CadImage property. Gets or sets the maintenance version
+title: "CadImage.MaintenanceVersion"
+linktitle: "MaintenanceVersion"
+articleTitle: "MaintenanceVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadImage property. Gets or sets the maintenance version."
 type: docs
-weight: 210
-url: /net/aspose.cad.fileformats.cad/cadimage/maintenanceversion/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad/cadimage/maintenanceversion/"
+product_version: "26.9"
 ---
 ## CadImage.MaintenanceVersion property
 
@@ -20,8 +23,7 @@ The maintenance version.
 
 ### See Also
 
-* class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

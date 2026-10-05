@@ -1,10 +1,13 @@
 ---
-title: CadViewport.SunHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the sun handle
+title: "CadViewport.SunHandle"
+linktitle: "SunHandle"
+articleTitle: "SunHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the sun handle."
 type: docs
 weight: 340
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/sunhandle/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/sunhandle/"
+product_version: "26.9"
 ---
 ## CadViewport.SunHandle property
 
@@ -16,8 +19,7 @@ public string SunHandle { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

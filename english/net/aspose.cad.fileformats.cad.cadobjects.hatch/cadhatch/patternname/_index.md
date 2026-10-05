@@ -1,10 +1,13 @@
 ---
-title: CadHatch.PatternName
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the pattern name
+title: "CadHatch.PatternName"
+linktitle: "PatternName"
+articleTitle: "PatternName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the pattern name."
 type: docs
-weight: 280
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/patternname/
+weight: 270
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/patternname/"
+product_version: "26.9"
 ---
 ## CadHatch.PatternName property
 
@@ -16,8 +19,7 @@ public string PatternName { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

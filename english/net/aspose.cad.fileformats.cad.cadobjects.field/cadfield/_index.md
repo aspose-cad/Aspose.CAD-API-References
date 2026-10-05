@@ -1,10 +1,14 @@
 ---
-title: Class CadField
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.Field.CadField class. Class describing FIELD object
+title: "CadField Class"
+linktitle: "CadField"
+articleTitle: "CadField"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.Field.CadField class. Class describing FIELD object."
 type: docs
-weight: 3610
-url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/"
+keywords: "CadField, Aspose.CAD.FileFormats.Cad.CadObjects.Field, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadField class
 
@@ -24,38 +28,38 @@ public class CadField : CadBaseObject
 
 | Name | Description |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
-| [Attribute300](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute300/) { get; set; } | Gets or sets the attribute 300. |
-| [Attribute91](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute91/) { get; set; } | Gets or sets the attribute 91. |
-| [Attribute92](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute92/) { get; set; } | Gets or sets the attribute 92. |
-| [Attribute94](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute94/) { get; set; } | Gets or sets the attribute 94. |
-| [Attribute95](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute95/) { get; set; } | Gets or sets the attribute 95. |
-| [Attribute96](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute96/) { get; set; } | Gets or sets the attribute 96. |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
-| [CadFieldData](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/cadfielddata/) { get; set; } | Gets or sets the cad field data. |
-| [ChildFieldIds](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/childfieldids/) { get; set; } | Gets or sets the child field ids. |
-| [ChildFieldsNumber](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/childfieldsnumber/) { get; set; } | Gets or sets the child fields number. |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
-| [DataSetInTheField](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/datasetinthefield/) { get; set; } | Gets or sets the data set in the field. |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
-| [EvaluatorId](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/evaluatorid/) { get; set; } | Gets or sets the evaluator identifier. |
-| [FieldCodeString](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/fieldcodestring/) { get; set; } | Gets or sets the field code string. |
-| [FieldCodeStringOverflow](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/fieldcodestringoverflow/) { get; set; } | Gets or sets the field code string overflow. |
-| [FormatString](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/formatstring/) { get; set; } | Gets or sets the format string. |
-| [FormatStringLength](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/formatstringlength/) { get; set; } | Gets or sets the length of the format string. |
-| [FormatStringOverflow](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/formatstringoverflow/) { get; set; } | Gets or sets the format string overflow. |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
-| [ObjectIds](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/objectids/) { get; set; } | Gets or sets the object ids. |
-| [ObjectIDsNumber](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/objectidsnumber/) { get; set; } | Gets or sets the object i ds number. |
-| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
-| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
-| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | Gets or sets the application defined codes container. |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | Gets or sets the attribute102 values. |
+| [Attribute300](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute300/) { get; set; } | Gets or sets the attribute 300. |
+| [Attribute91](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute91/) { get; set; } | Gets or sets the attribute 91. |
+| [Attribute92](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute92/) { get; set; } | Gets or sets the attribute 92. |
+| [Attribute94](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute94/) { get; set; } | Gets or sets the attribute 94. |
+| [Attribute95](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute95/) { get; set; } | Gets or sets the attribute 95. |
+| [Attribute96](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/attribute96/) { get; set; } | Gets or sets the attribute 96. |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | Gets or sets the attributes. |
+| [CadFieldData](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/cadfielddata/) { get; set; } | Gets or sets the cad field data. |
+| [ChildFieldIds](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/childfieldids/) { get; set; } | Gets or sets the child field ids. |
+| [ChildFieldsNumber](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/childfieldsnumber/) { get; set; } | Gets or sets the child fields number. |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | Gets or sets the child objects. |
+| [DataSetInTheField](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/datasetinthefield/) { get; set; } | Gets or sets the data set in the field. |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | Gets or sets the embedded objects container. |
+| [EvaluatorId](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/evaluatorid/) { get; set; } | Gets or sets the evaluator identifier. |
+| [FieldCodeString](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/fieldcodestring/) { get; set; } | Gets or sets the field code string. |
+| [FieldCodeStringOverflow](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/fieldcodestringoverflow/) { get; set; } | Gets or sets the field code string overflow. |
+| [FormatString](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/formatstring/) { get; set; } | Gets or sets the format string. |
+| [FormatStringLength](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/formatstringlength/) { get; set; } | Gets or sets the length of the format string. |
+| [FormatStringOverflow](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/formatstringoverflow/) { get; set; } | Gets or sets the format string overflow. |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | Gets or sets the hard owner. |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | Gets a value indicating whether soft owner is set. |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | The Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | Gets or sets the object handle. |
+| [ObjectIDsNumber](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/objectidsnumber/) { get; set; } | Gets or sets the object i ds number. |
+| [ObjectIds](../../aspose.cad.fileformats.cad.cadobjects.field/cadfield/objectids/) { get; set; } | Gets or sets the object ids. |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | Get or sets the reactors handle |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | Gets or sets the soft owner. |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | Gets or sets a value indicating that this entity has associated binary data in the data store. |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | Gets the name of the type. |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | Gets or sets the xdata container. |
 
 ## Methods
 
@@ -66,8 +70,7 @@ public class CadField : CadBaseObject
 
 ### See Also
 
-* class [CadBaseObject](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../aspose.cad.fileformats.cad.cadobjects.field/)
-* assembly [Aspose.CAD](../../)
-
+* class [CadBaseObject](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../aspose.cad.fileformats.cad.cadobjects.field/)
+* assembly [Aspose.CAD](../../)
 

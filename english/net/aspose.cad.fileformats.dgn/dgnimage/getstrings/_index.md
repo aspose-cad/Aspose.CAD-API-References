@@ -1,10 +1,13 @@
 ---
-title: DgnImage.GetStrings
-second_title: Aspose.CAD for .NET API Reference
-description: DgnImage method. Gets all string values from image
+title: "DgnImage.GetStrings"
+linktitle: "GetStrings"
+articleTitle: "GetStrings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnImage method. Gets all string values from image."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.dgn/dgnimage/getstrings/
+weight: 30
+url: "/net/aspose.cad.fileformats.dgn/dgnimage/getstrings/"
+product_version: "26.9"
 ---
 ## DgnImage.GetStrings method
 
@@ -20,8 +23,7 @@ The array with string values.
 
 ### See Also
 
-* class [DgnImage](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnImage](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

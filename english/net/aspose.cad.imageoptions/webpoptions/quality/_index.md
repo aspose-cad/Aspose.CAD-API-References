@@ -1,10 +1,13 @@
 ---
-title: WebPOptions.Quality
-second_title: Aspose.CAD for .NET API Reference
-description: WebPOptions property. Gets or sets the quality
+title: "WebPOptions.Quality"
+linktitle: "Quality"
+articleTitle: "Quality"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "WebPOptions property. Gets or sets the quality."
 type: docs
-weight: 50
-url: /net/aspose.cad.imageoptions/webpoptions/quality/
+weight: 40
+url: "/net/aspose.cad.imageoptions/webpoptions/quality/"
+product_version: "26.9"
 ---
 ## WebPOptions.Quality property
 
@@ -20,8 +23,7 @@ The quality.
 
 ### See Also
 
-* class [WebPOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [WebPOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

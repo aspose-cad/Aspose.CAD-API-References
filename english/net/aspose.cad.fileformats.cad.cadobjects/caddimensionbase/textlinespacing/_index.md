@@ -1,10 +1,13 @@
 ---
-title: CadDimensionBase.TextLineSpacing
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionBase property. Gets or sets the text line spacing
+title: "CadDimensionBase.TextLineSpacing"
+linktitle: "TextLineSpacing"
+articleTitle: "TextLineSpacing"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionBase property. Gets or sets the text line spacing."
 type: docs
-weight: 210
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/textlinespacing/
+weight: 230
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddimensionbase/textlinespacing/"
+product_version: "26.9"
 ---
 ## CadDimensionBase.TextLineSpacing property
 
@@ -16,8 +19,7 @@ public short? TextLineSpacing { get; set; }
 
 ### See Also
 
-* class [CadDimensionBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

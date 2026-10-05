@@ -1,10 +1,13 @@
 ---
-title: PdfDigitalSignatureDetailsCore.Reason
-second_title: Aspose.CAD for .NET API Reference
-description: PdfDigitalSignatureDetailsCore property. The reason of signing
+title: "PdfDigitalSignatureDetailsCore.Reason"
+linktitle: "Reason"
+articleTitle: "Reason"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PdfDigitalSignatureDetailsCore property. The reason of signing."
 type: docs
-weight: 40
-url: /net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/reason/
+weight: 20
+url: "/net/aspose.cad.imageoptions/pdfdigitalsignaturedetailscore/reason/"
+product_version: "26.9"
 ---
 ## PdfDigitalSignatureDetailsCore.Reason property
 
@@ -20,8 +23,7 @@ The reason.
 
 ### See Also
 
-* class [PdfDigitalSignatureDetailsCore](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PdfDigitalSignatureDetailsCore](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

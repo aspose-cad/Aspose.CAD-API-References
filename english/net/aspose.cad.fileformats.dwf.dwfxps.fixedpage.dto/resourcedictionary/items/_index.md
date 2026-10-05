@@ -1,14 +1,18 @@
 ---
-title: ResourceDictionary.Items
-second_title: Aspose.CAD for .NET API Reference
-description: ResourceDictionary property. Gets or sets the items. Defines a set of reusable resource definitions that can be used as property values in the fixed page markup
+title: "ResourceDictionary.Items"
+linktitle: "Items"
+articleTitle: "Items"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ResourceDictionary property. Gets or sets the items. Defines a set of reusable resource definitions that can be used as property values in the fixed page mar..."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resourcedictionary/items/
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/resourcedictionary/items/"
+product_version: "26.9"
 ---
 ## ResourceDictionary.Items property
 
-Gets or sets the items. Defines a set of reusable resource definitions that can be used as property values in the fixed page markup.
+Gets or sets the items.
+ Defines a set of reusable resource definitions that can be used as property values in the fixed page markup.
 
 ```csharp
 public object[] Items { get; set; }
@@ -16,8 +20,7 @@ public object[] Items { get; set; }
 
 ### See Also
 
-* class [ResourceDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ResourceDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

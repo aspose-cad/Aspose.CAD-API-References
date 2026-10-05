@@ -1,10 +1,13 @@
 ---
-title: CadObjectPtr.CadObjectPtr
-second_title: Aspose.CAD for .NET API Reference
-description: CadObjectPtr constructor. Initializes a new instance of the CadObjectPtr class
+title: "CadObjectPtr.CadObjectPtr"
+linktitle: "CadObjectPtr"
+articleTitle: "CadObjectPtr"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadObjectPtr constructor. Initializes a new instance of the CadObjectPtr class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectptr/cadobjectptr/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadobjectptr/cadobjectptr/"
+product_version: "26.9"
 ---
 ## CadObjectPtr constructor
 
@@ -16,8 +19,7 @@ public CadObjectPtr()
 
 ### See Also
 
-* class [CadObjectPtr](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadObjectPtr](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

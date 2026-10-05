@@ -1,10 +1,13 @@
 ---
-title: CadLwPolyline.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadLwPolyline property. Gets the name of the type
+title: "CadLwPolyline.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLwPolyline property. Gets the name of the type."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlwpolyline/typename/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlwpolyline/typename/"
+product_version: "26.9"
 ---
 ## CadLwPolyline.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadLwPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadLwPolyline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

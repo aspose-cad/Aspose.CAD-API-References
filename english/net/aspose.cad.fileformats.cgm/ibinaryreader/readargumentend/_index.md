@@ -1,12 +1,17 @@
 ---
-title: IBinaryReader.ReadArgumentEnd
-second_title: Aspose.CAD for .NET API Reference
-description: IBinaryReader method. 
+title: "IBinaryReader.ReadArgumentEnd"
+linktitle: "ReadArgumentEnd"
+articleTitle: "ReadArgumentEnd"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IBinaryReader method."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cgm/ibinaryreader/readargumentend/
+url: "/net/aspose.cad.fileformats.cgm/ibinaryreader/readargumentend/"
+product_version: "26.9"
 ---
 ## IBinaryReader.ReadArgumentEnd method
+
+
 
 ```csharp
 public int ReadArgumentEnd()
@@ -14,8 +19,7 @@ public int ReadArgumentEnd()
 
 ### See Also
 
-* interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBinaryReader](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

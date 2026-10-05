@@ -1,10 +1,13 @@
 ---
-title: Interface IPartialArgb32PixelLoader
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.IPartialArgb32PixelLoader interface. Conforms to the 32bit ARGB pixels loaded partially
+title: "IPartialArgb32PixelLoader Interface"
+linktitle: "IPartialArgb32PixelLoader"
+articleTitle: "IPartialArgb32PixelLoader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.IPartialArgb32PixelLoader interface. Conforms to the 32-bit ARGB pixels loaded partially."
 type: docs
-weight: 36120
-url: /net/aspose.cad/ipartialargb32pixelloader/
+weight: 440
+url: "/net/aspose.cad/ipartialargb32pixelloader/"
+product_version: "26.9"
 ---
 ## IPartialArgb32PixelLoader interface
 
@@ -18,11 +21,10 @@ public interface IPartialArgb32PixelLoader
 
 | Name | Description |
 | --- | --- |
-| [Process](../../aspose.cad/ipartialargb32pixelloader/process/)(Rectangle, int[], Point, Point) | Processes the loaded pixels. |
+| [Process](../../aspose.cad/ipartialargb32pixelloader/process/)(Rectangle, int[], Point, Point) | Processes the loaded pixels. |
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

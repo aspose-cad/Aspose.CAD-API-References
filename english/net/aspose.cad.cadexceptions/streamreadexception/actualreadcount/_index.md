@@ -1,10 +1,13 @@
 ---
-title: StreamReadException.ActualReadCount
-second_title: Aspose.CAD for .NET API Reference
-description: StreamReadException property. Gets the actual read bytes count
+title: "StreamReadException.ActualReadCount"
+linktitle: "ActualReadCount"
+articleTitle: "ActualReadCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamReadException property. Gets the actual read bytes count."
 type: docs
-weight: 20
-url: /net/aspose.cad.cadexceptions/streamreadexception/actualreadcount/
+weight: 60
+url: "/net/aspose.cad.cadexceptions/streamreadexception/actualreadcount/"
+product_version: "26.9"
 ---
 ## StreamReadException.ActualReadCount property
 
@@ -20,8 +23,7 @@ The actual read bytes count.
 
 ### See Also
 
-* class [StreamReadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamReadException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 

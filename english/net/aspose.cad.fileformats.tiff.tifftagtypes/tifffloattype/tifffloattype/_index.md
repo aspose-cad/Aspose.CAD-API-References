@@ -1,10 +1,13 @@
 ---
-title: TiffFloatType.TiffFloatType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffFloatType constructor. Initializes a new instance of the TiffFloatType class
+title: "TiffFloatType.TiffFloatType"
+linktitle: "TiffFloatType"
+articleTitle: "TiffFloatType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffFloatType constructor. Initializes a new instance of the TiffFloatType class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tifffloattype/tifffloattype/
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tifffloattype/tifffloattype/"
+product_version: "26.9"
 ---
 ## TiffFloatType(TiffTags) {#constructor}
 
@@ -20,10 +23,10 @@ public TiffFloatType(TiffTags tagId)
 
 ### See Also
 
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffFloatType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffFloatType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public TiffFloatType(ushort tagId)
 
 ### See Also
 
-* class [TiffFloatType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffFloatType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

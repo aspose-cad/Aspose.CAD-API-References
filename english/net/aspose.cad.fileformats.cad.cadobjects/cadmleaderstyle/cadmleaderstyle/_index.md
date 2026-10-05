@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.CadMLeaderStyle
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle constructor. The default constructor
+title: "CadMLeaderStyle.CadMLeaderStyle"
+linktitle: "CadMLeaderStyle"
+articleTitle: "CadMLeaderStyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/cadmleaderstyle/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/cadmleaderstyle/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle constructor
 
@@ -16,8 +19,7 @@ public CadMLeaderStyle()
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

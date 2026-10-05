@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Cad
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace handles Cad related file formats processing
+title: "Aspose.CAD.FileFormats.Cad"
+linktitle: "Aspose.CAD.FileFormats.Cad"
+articleTitle: "Aspose.CAD.FileFormats.Cad"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace handles Cad related file formats processing."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad/
+weight: 10
+url: "/net/aspose.cad.fileformats.cad/"
+keywords: "Aspose.CAD.FileFormats.Cad, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace handles Cad related file formats processing.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -42,6 +50,7 @@ The namespace handles Cad related file formats processing.
 | [CadVportList](./cadvportlist/) | The cad viewport dictionary The following group codes apply to VPORT symbol table entries. The VPORT table is unique: it may contain several entries with the same name (indicating a multiple-viewport configuration). The entries corresponding to the active viewport configuration all have the name *ACTIVE. The first such entry describes the current viewport. Since the name is not unique, we use List as a container |
 | [DwgImage](./dwgimage/) | Dwg image class |
 | [DxfImage](./dxfimage/) | Dxf image class |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -49,5 +58,4 @@ The namespace handles Cad related file formats processing.
 | [CadDrawTypeMode](./caddrawtypemode/) | Represents possible modes for colorization of objects. |
 | [CadEntityAttribute](./cadentityattribute/) | Entities enum |
 | [ScaleType](./scaletype/) | Represents possible modes for automatic scale of an image. |
-
 

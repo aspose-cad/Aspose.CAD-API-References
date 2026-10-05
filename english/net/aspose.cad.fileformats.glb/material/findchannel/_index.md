@@ -1,10 +1,13 @@
 ---
-title: Material.FindChannel
-second_title: Aspose.CAD for .NET API Reference
-description: Material method. Finds an instance of MaterialChannel
+title: "Material.FindChannel"
+linktitle: "FindChannel"
+articleTitle: "FindChannel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Material method. Finds an instance of MaterialChannel"
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.glb/material/findchannel/
+weight: 40
+url: "/net/aspose.cad.fileformats.glb/material/findchannel/"
+product_version: "26.9"
 ---
 ## Material.FindChannel method
 
@@ -16,7 +19,7 @@ public MaterialChannel? FindChannel(string channelKey)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| channelKey | String | The channel key. Currently, these values are used: - "Normal" - "Occlusion" - "Emissive" - When material is MaterialPBRMetallicRoughness: - "BaseColor" - "MetallicRoughness" - When material is MaterialPBRSpecularGlossiness: - "Diffuse" - "SpecularGlossiness" |
+| channelKey | String | The channel key. Currently, these values are used: - "Normal" - "Occlusion" - "Emissive" - When material is `MaterialPBRMetallicRoughness`: - "BaseColor" - "MetallicRoughness" - When material is `MaterialPBRSpecularGlossiness`: - "Diffuse" - "SpecularGlossiness" |
 
 ### Return Value
 
@@ -24,9 +27,8 @@ A [`MaterialChannel`](../../materialchannel/) structure. or null if it does not 
 
 ### See Also
 
-* struct [MaterialChannel](../../materialchannel/)
-* class [Material](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [MaterialChannel](../../materialchannel/)
+* class [Material](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

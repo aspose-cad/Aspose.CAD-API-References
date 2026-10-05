@@ -1,12 +1,17 @@
 ---
-title: Mesh.Primitives
-second_title: Aspose.CAD for .NET API Reference
-description: Mesh property. 
+title: "Mesh.Primitives"
+linktitle: "Primitives"
+articleTitle: "Primitives"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Mesh property."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.glb/mesh/primitives/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb/mesh/primitives/"
+product_version: "26.9"
 ---
 ## Mesh.Primitives property
+
+
 
 ```csharp
 public IReadOnlyList<MeshPrimitive> Primitives { get; }
@@ -14,9 +19,8 @@ public IReadOnlyList<MeshPrimitive> Primitives { get; }
 
 ### See Also
 
-* class [MeshPrimitive](../../meshprimitive/)
-* class [Mesh](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MeshPrimitive](../../meshprimitive/)
+* class [Mesh](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: Animation.CreateTranslationChannel
-second_title: Aspose.CAD for .NET API Reference
-description: Animation method. 
+title: "Animation.CreateTranslationChannel"
+linktitle: "CreateTranslationChannel"
+articleTitle: "CreateTranslationChannel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Animation method."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.glb/animation/createtranslationchannel/
+weight: 80
+url: "/net/aspose.cad.fileformats.glb/animation/createtranslationchannel/"
+product_version: "26.9"
 ---
 ## Animation.CreateTranslationChannel method
+
+
 
 ```csharp
 public void CreateTranslationChannel(Node node, IReadOnlyDictionary<float, Vector3> keyframes, 
@@ -15,9 +20,8 @@ public void CreateTranslationChannel(Node node, IReadOnlyDictionary<float, Vecto
 
 ### See Also
 
-* class [Node](../../node/)
-* class [Animation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../../node/)
+* class [Animation](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

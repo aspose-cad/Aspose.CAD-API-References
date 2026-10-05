@@ -1,10 +1,13 @@
 ---
-title: DgnElementDimension.YHigh
-second_title: Aspose.CAD for .NET API Reference
-description: DgnElementDimension property. Gets or sets hi value by Y axis
+title: "DgnElementDimension.YHigh"
+linktitle: "YHigh"
+articleTitle: "YHigh"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnElementDimension property. Gets or sets hi value by Y axis"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.dgn/dgnelementdimension/yhigh/
+weight: 60
+url: "/net/aspose.cad.fileformats.dgn/dgnelementdimension/yhigh/"
+product_version: "26.9"
 ---
 ## DgnElementDimension.YHigh property
 
@@ -16,8 +19,7 @@ public uint YHigh { get; set; }
 
 ### See Also
 
-* class [DgnElementDimension](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnElementDimension](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

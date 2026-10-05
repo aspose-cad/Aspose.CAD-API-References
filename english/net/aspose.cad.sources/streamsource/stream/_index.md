@@ -1,10 +1,13 @@
 ---
-title: StreamSource.Stream
-second_title: Aspose.CAD for .NET API Reference
-description: StreamSource property. Gets the stream
+title: "StreamSource.Stream"
+linktitle: "Stream"
+articleTitle: "Stream"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamSource property. Gets the stream."
 type: docs
-weight: 30
-url: /net/aspose.cad.sources/streamsource/stream/
+weight: 40
+url: "/net/aspose.cad.sources/streamsource/stream/"
+product_version: "26.9"
 ---
 ## StreamSource.Stream property
 
@@ -20,8 +23,7 @@ The source stream.
 
 ### See Also
 
-* class [StreamSource](../)
-* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamSource](../)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
+* assembly [Aspose.CAD](../../../)
 

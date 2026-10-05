@@ -1,10 +1,13 @@
 ---
-title: CadLayout.UcsOrigin
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayout property. Gets or sets the UCS origin
+title: "CadLayout.UcsOrigin"
+linktitle: "UcsOrigin"
+articleTitle: "UcsOrigin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayout property. Gets or sets the UCS origin."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucsorigin/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlayout/ucsorigin/"
+product_version: "26.9"
 ---
 ## CadLayout.UcsOrigin property
 
@@ -20,9 +23,8 @@ The UCS origin.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadLayout](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadLayout](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

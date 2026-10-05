@@ -1,10 +1,14 @@
 ---
-title: Class CadEmbeddedObject
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.CadEmbeddedObject class. The Cad embedded object
+title: "CadEmbeddedObject Class"
+linktitle: "CadEmbeddedObject"
+articleTitle: "CadEmbeddedObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadEmbeddedObject class. The Cad embedded object."
 type: docs
-weight: 2680
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadembeddedobject/
+weight: 580
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadembeddedobject/"
+keywords: "CadEmbeddedObject, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadEmbeddedObject class
 
@@ -24,7 +28,7 @@ public class CadEmbeddedObject
 
 | Name | Description |
 | --- | --- |
-| [DataList](../../aspose.cad.fileformats.cad.cadobjects/cadembeddedobject/datalist/) { get; set; } | Gets or sets the data list. |
+| [DataList](../../aspose.cad.fileformats.cad.cadobjects/cadembeddedobject/datalist/) { get; set; } | Gets or sets the data list. |
 
 ## Methods
 
@@ -34,7 +38,6 @@ public class CadEmbeddedObject
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
 

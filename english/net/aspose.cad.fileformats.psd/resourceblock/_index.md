@@ -1,10 +1,14 @@
 ---
-title: Class ResourceBlock
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Psd.ResourceBlock class. The resource block
+title: "ResourceBlock Class"
+linktitle: "ResourceBlock"
+articleTitle: "ResourceBlock"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Psd.ResourceBlock class. The resource block."
 type: docs
-weight: 34110
-url: /net/aspose.cad.fileformats.psd/resourceblock/
+weight: 40
+url: "/net/aspose.cad.fileformats.psd/resourceblock/"
+keywords: "ResourceBlock, Aspose.CAD.FileFormats.Psd, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ResourceBlock class
 
@@ -18,35 +22,34 @@ public abstract class ResourceBlock
 
 | Name | Description |
 | --- | --- |
-| abstract [DataSize](../../aspose.cad.fileformats.psd/resourceblock/datasize/) { get; } | Gets the resource data size in bytes. |
-| [ID](../../aspose.cad.fileformats.psd/resourceblock/id/) { get; set; } | Gets or sets the unique identifier for the resource. |
-| abstract [MinimalVersion](../../aspose.cad.fileformats.psd/resourceblock/minimalversion/) { get; } | Gets the minimal required PSD version. |
-| [Name](../../aspose.cad.fileformats.psd/resourceblock/name/) { get; set; } | Gets or sets the resource name. Pascal string, padded to make the size even (a null name consists of two bytes of 0). |
-| [Signature](../../aspose.cad.fileformats.psd/resourceblock/signature/) { get; } | Gets the resource signature. Should be always '8BIM'. |
-| [Size](../../aspose.cad.fileformats.psd/resourceblock/size/) { get; } | Gets the resource block size in bytes including its data. |
+| abstract [DataSize](../../aspose.cad.fileformats.psd/resourceblock/datasize/) { get; } | Gets the resource data size in bytes. |
+| [ID](../../aspose.cad.fileformats.psd/resourceblock/id/) { get; set; } | Gets or sets the unique identifier for the resource. |
+| abstract [MinimalVersion](../../aspose.cad.fileformats.psd/resourceblock/minimalversion/) { get; } | Gets the minimal required PSD version. |
+| [Name](../../aspose.cad.fileformats.psd/resourceblock/name/) { get; set; } | Gets or sets the resource name. Pascal string, padded to make the size even (a null name consists of two bytes of 0). |
+| [Signature](../../aspose.cad.fileformats.psd/resourceblock/signature/) { get; } | Gets the resource signature. Should be always '8BIM'. |
+| [Size](../../aspose.cad.fileformats.psd/resourceblock/size/) { get; } | Gets the resource block size in bytes including its data. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [Save](../../aspose.cad.fileformats.psd/resourceblock/save/)(StreamContainer) | Saves the resource block to the specified stream. |
-| virtual [ValidateValues](../../aspose.cad.fileformats.psd/resourceblock/validatevalues/)() | Validates the resource values. |
+| virtual [ValidateValues](../../aspose.cad.fileformats.psd/resourceblock/validatevalues/)() | Validates the resource values. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| const [ResouceBlockSignature](../../aspose.cad.fileformats.psd/resourceblock/resouceblocksignature/) | The resource signature. |
+| const [ResouceBlockSignature](../../aspose.cad.fileformats.psd/resourceblock/resouceblocksignature/) | The resource signature. |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-| enum [ResourceBlockState](../../aspose.cad.fileformats.psd/resourceblock.resourceblockstate) | Represents resource block state. |
+| enum [ResourceBlockState](../../aspose.cad.fileformats.psd/resourceblock.resourceblockstate) | Represents resource block state. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Psd](../../aspose.cad.fileformats.psd/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Psd](../../aspose.cad.fileformats.psd/)
+* assembly [Aspose.CAD](../../)
 

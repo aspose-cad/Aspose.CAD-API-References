@@ -1,14 +1,17 @@
 ---
-title: ContentTransformer.HasRenderableContent
-second_title: Aspose.CAD for .NET API Reference
-description: ContentTransformer property. Gets a value indicating whether Content implements IRenderableContent
+title: "ContentTransformer.HasRenderableContent"
+linktitle: "HasRenderableContent"
+articleTitle: "HasRenderableContent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ContentTransformer property. Gets a value indicating whether Content implements IRenderableContent"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.glb.scenes/contenttransformer/hasrenderablecontent/
+weight: 110
+url: "/net/aspose.cad.fileformats.glb.scenes/contenttransformer/hasrenderablecontent/"
+product_version: "26.9"
 ---
 ## ContentTransformer.HasRenderableContent property
 
-Gets a value indicating whether Content implements IRenderableContent
+Gets a value indicating whether `Content` implements `IRenderableContent`
 
 ```csharp
 public bool HasRenderableContent { get; }
@@ -16,8 +19,7 @@ public bool HasRenderableContent { get; }
 
 ### See Also
 
-* class [ContentTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ContentTransformer](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

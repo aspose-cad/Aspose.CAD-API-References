@@ -1,10 +1,13 @@
 ---
-title: CadField.CadFieldData
-second_title: Aspose.CAD for .NET API Reference
-description: CadField property. Gets or sets the cad field data
+title: "CadField.CadFieldData"
+linktitle: "CadFieldData"
+articleTitle: "CadFieldData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadField property. Gets or sets the cad field data."
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/cadfielddata/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/cadfielddata/"
+product_version: "26.9"
 ---
 ## CadField.CadFieldData property
 
@@ -20,9 +23,8 @@ The cad field data.
 
 ### See Also
 
-* class [CadFieldData](../../cadfielddata/)
-* class [CadField](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadFieldData](../../cadfielddata/)
+* class [CadField](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
+* assembly [Aspose.CAD](../../../)
 

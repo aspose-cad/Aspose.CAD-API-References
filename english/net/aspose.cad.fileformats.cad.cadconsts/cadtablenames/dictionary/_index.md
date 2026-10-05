@@ -1,10 +1,13 @@
 ---
-title: CadTableNames.Dictionary
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableNames field. dictionary
+title: "CadTableNames.Dictionary"
+linktitle: "Dictionary"
+articleTitle: "Dictionary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableNames field. dictionary"
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/dictionary/
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/dictionary/"
+product_version: "26.9"
 ---
 ## CadTableNames.Dictionary field
 
@@ -16,8 +19,7 @@ public const string Dictionary;
 
 ### See Also
 
-* class [CadTableNames](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableNames](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

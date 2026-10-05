@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.TextNormalDirection
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets text normal direction
+title: "CadMLeaderContextData.TextNormalDirection"
+linktitle: "TextNormalDirection"
+articleTitle: "TextNormalDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets text normal direction."
 type: docs
-weight: 420
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textnormaldirection/
+weight: 380
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textnormaldirection/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.TextNormalDirection property
 
@@ -20,9 +23,8 @@ The text normal direction point of context data.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

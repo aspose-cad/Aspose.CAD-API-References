@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.IsByLayer
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets a value indicating that the entity has linetype set by layer
+title: "CadEntityBase.IsByLayer"
+linktitle: "IsByLayer"
+articleTitle: "IsByLayer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets a value indicating that the entity has linetype set by layer."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/isbylayer/
+weight: 290
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/isbylayer/"
+product_version: "26.9"
 ---
 ## CadEntityBase.IsByLayer property
 
@@ -20,12 +23,11 @@ public bool IsByLayer { get; set; }
 
 ## Remarks
 
-This flag is always false, except for versions AC1012 and AC1014.
+This flag is always false, except for versions `AC1012` and `AC1014`.
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

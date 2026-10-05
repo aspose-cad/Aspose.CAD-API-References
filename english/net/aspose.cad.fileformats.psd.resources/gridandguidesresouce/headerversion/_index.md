@@ -1,10 +1,13 @@
 ---
-title: GridAndGuidesResouce.HeaderVersion
-second_title: Aspose.CAD for .NET API Reference
-description: GridAndGuidesResouce property. Gets or sets the header version. This value should be always 1
+title: "GridAndGuidesResouce.HeaderVersion"
+linktitle: "HeaderVersion"
+articleTitle: "HeaderVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GridAndGuidesResouce property. Gets or sets the header version. This value should be always 1."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.psd.resources/gridandguidesresouce/headerversion/
+weight: 30
+url: "/net/aspose.cad.fileformats.psd.resources/gridandguidesresouce/headerversion/"
+product_version: "26.9"
 ---
 ## GridAndGuidesResouce.HeaderVersion property
 
@@ -20,8 +23,7 @@ The header version.
 
 ### See Also
 
-* class [GridAndGuidesResouce](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GridAndGuidesResouce](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TiffDoubleType.TiffDoubleType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffDoubleType constructor. Initializes a new instance of the TiffDoubleType class
+title: "TiffDoubleType.TiffDoubleType"
+linktitle: "TiffDoubleType"
+articleTitle: "TiffDoubleType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffDoubleType constructor. Initializes a new instance of the TiffDoubleType class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffdoubletype/tiffdoubletype/
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffdoubletype/tiffdoubletype/"
+product_version: "26.9"
 ---
 ## TiffDoubleType(TiffTags) {#constructor}
 
@@ -20,10 +23,10 @@ public TiffDoubleType(TiffTags tagId)
 
 ### See Also
 
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffDoubleType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffDoubleType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public TiffDoubleType(ushort tagId)
 
 ### See Also
 
-* class [TiffDoubleType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDoubleType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

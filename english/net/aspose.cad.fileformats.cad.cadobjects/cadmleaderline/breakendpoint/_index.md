@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderLine.BreakEndPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderLine property. Gets or sets the break end point
+title: "CadMLeaderLine.BreakEndPoint"
+linktitle: "BreakEndPoint"
+articleTitle: "BreakEndPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderLine property. Gets or sets the break end point."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/breakendpoint/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/breakendpoint/"
+product_version: "26.9"
 ---
 ## CadMLeaderLine.BreakEndPoint property
 
@@ -20,9 +23,8 @@ The break end point.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMLeaderLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMLeaderLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

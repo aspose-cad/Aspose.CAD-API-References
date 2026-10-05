@@ -1,10 +1,13 @@
 ---
-title: Enum PdfCompliance
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.PdfCompliance enum. Specifies the PDF compliance level to output file
+title: "PdfCompliance Enum"
+linktitle: "PdfCompliance"
+articleTitle: "PdfCompliance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.PdfCompliance enum. Specifies the PDF compliance level to output file."
 type: docs
-weight: 36570
-url: /net/aspose.cad.imageoptions/pdfcompliance/
+weight: 350
+url: "/net/aspose.cad.imageoptions/pdfcompliance/"
+product_version: "26.9"
 ---
 ## PdfCompliance enumeration
 
@@ -24,7 +27,6 @@ public enum PdfCompliance
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../)
 

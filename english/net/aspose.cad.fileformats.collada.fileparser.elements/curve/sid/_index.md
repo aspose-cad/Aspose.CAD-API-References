@@ -1,10 +1,13 @@
 ---
-title: Curve.Sid
-second_title: Aspose.CAD for .NET API Reference
-description: Curve property. Gets or sets the sid
+title: "Curve.Sid"
+linktitle: "Sid"
+articleTitle: "Sid"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Curve property. Gets or sets the sid."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/curve/sid/
+weight: 50
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/curve/sid/"
+product_version: "26.9"
 ---
 ## Curve.Sid property
 
@@ -16,8 +19,7 @@ public string Sid { get; set; }
 
 ### See Also
 
-* class [Curve](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Curve](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

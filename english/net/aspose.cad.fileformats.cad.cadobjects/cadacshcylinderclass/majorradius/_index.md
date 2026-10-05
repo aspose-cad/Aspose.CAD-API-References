@@ -1,10 +1,13 @@
 ---
-title: CadAcshCylinderClass.MajorRadius
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcshCylinderClass property. The major radius
+title: "CadAcshCylinderClass.MajorRadius"
+linktitle: "MajorRadius"
+articleTitle: "MajorRadius"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcshCylinderClass property. The major radius"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshcylinderclass/majorradius/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshcylinderclass/majorradius/"
+product_version: "26.9"
 ---
 ## CadAcshCylinderClass.MajorRadius property
 
@@ -16,8 +19,7 @@ public double MajorRadius { get; set; }
 
 ### See Also
 
-* class [CadAcshCylinderClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcshCylinderClass](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

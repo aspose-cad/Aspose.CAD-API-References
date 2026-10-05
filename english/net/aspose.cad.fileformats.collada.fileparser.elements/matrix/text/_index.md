@@ -1,10 +1,13 @@
 ---
-title: Matrix.Text
-second_title: Aspose.CAD for .NET API Reference
-description: Matrix property. Gets or sets the value as float4x4 text
+title: "Matrix.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Matrix property. Gets or sets the value as float4x4 text."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/matrix/text/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/matrix/text/"
+product_version: "26.9"
 ---
 ## Matrix.Text property
 
@@ -16,8 +19,7 @@ public string Text { get; set; }
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

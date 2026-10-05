@@ -1,10 +1,13 @@
 ---
-title: CadUnderlay.Fade
-second_title: Aspose.CAD for .NET API Reference
-description: CadUnderlay property. Gets or sets the fade
+title: "CadUnderlay.Fade"
+linktitle: "Fade"
+articleTitle: "Fade"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadUnderlay property. Gets or sets the fade."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadunderlay/fade/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadunderlay/fade/"
+product_version: "26.9"
 ---
 ## CadUnderlay.Fade property
 
@@ -20,8 +23,7 @@ The fade.
 
 ### See Also
 
-* class [CadUnderlay](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadUnderlay](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

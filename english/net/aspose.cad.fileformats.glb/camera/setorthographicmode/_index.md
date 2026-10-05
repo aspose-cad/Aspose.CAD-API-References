@@ -1,10 +1,13 @@
 ---
-title: Camera.SetOrthographicMode
-second_title: Aspose.CAD for .NET API Reference
-description: Camera method. Configures this Camera to use Orthographic projection
+title: "Camera.SetOrthographicMode"
+linktitle: "SetOrthographicMode"
+articleTitle: "SetOrthographicMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Camera method. Configures this Camera to use Orthographic projection."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.glb/camera/setorthographicmode/
+weight: 10
+url: "/net/aspose.cad.fileformats.glb/camera/setorthographicmode/"
+product_version: "26.9"
 ---
 ## Camera.SetOrthographicMode method
 
@@ -23,8 +26,7 @@ public void SetOrthographicMode(float xmag, float ymag, float znear, float zfar)
 
 ### See Also
 
-* class [Camera](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Camera](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

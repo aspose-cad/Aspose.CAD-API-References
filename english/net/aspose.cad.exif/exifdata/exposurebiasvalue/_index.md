@@ -1,10 +1,13 @@
 ---
-title: ExifData.ExposureBiasValue
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the exposure bias value
+title: "ExifData.ExposureBiasValue"
+linktitle: "ExposureBiasValue"
+articleTitle: "ExposureBiasValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the exposure bias value."
 type: docs
-weight: 190
-url: /net/aspose.cad.exif/exifdata/exposurebiasvalue/
+weight: 230
+url: "/net/aspose.cad.exif/exifdata/exposurebiasvalue/"
+product_version: "26.9"
 ---
 ## ExifData.ExposureBiasValue property
 
@@ -20,9 +23,8 @@ The exposure bias value.
 
 ### See Also
 
-* class [TiffSRational](../../../aspose.cad.fileformats.tiff/tiffsrational/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffSRational](../../../aspose.cad.fileformats.tiff/tiffsrational/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

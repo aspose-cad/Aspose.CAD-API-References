@@ -1,10 +1,13 @@
 ---
-title: Interface ICompositeDgnElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.ICompositeDgnElement interface. Represents composite elements like cell header
+title: "ICompositeDgnElement Interface"
+linktitle: "ICompositeDgnElement"
+articleTitle: "ICompositeDgnElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.ICompositeDgnElement interface. Represents composite elements (like cell header)"
 type: docs
-weight: 9050
-url: /net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/
+weight: 330
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/icompositedgnelement/"
+product_version: "26.9"
 ---
 ## ICompositeDgnElement interface
 
@@ -22,8 +25,7 @@ public interface ICompositeDgnElement : IDrawingEntity
 
 ### See Also
 
-* interface [IDrawingEntity](../../aspose.cad/idrawingentity/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* interface [IDrawingEntity](../../aspose.cad/idrawingentity/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

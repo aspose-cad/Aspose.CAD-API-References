@@ -1,12 +1,17 @@
 ---
-title: Delegate UriResolver
-second_title: Aspose.CAD for .NET API Reference
-description: 
+title: "UriResolver Delegate"
+linktitle: "UriResolver"
+articleTitle: "UriResolver"
+second_title: "Aspose.CAD for .NET API Reference"
+description: ""
 type: docs
-weight: 11690
-url: /net/aspose.cad.fileformats.glb/uriresolver/
+weight: 550
+url: "/net/aspose.cad.fileformats.glb/uriresolver/"
+product_version: "26.9"
 ---
 ## UriResolver delegate
+
+
 
 ```csharp
 public delegate string UriResolver(string relativeUri);
@@ -14,7 +19,6 @@ public delegate string UriResolver(string relativeUri);
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

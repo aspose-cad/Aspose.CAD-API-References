@@ -1,10 +1,13 @@
 ---
-title: DgnTextElement.TextSize
-second_title: Aspose.CAD for .NET API Reference
-description: DgnTextElement property. Gets text size in UOR
+title: "DgnTextElement.TextSize"
+linktitle: "TextSize"
+articleTitle: "TextSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnTextElement property. Gets text size in UOR"
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntextelement/textsize/
+weight: 80
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgntextelement/textsize/"
+product_version: "26.9"
 ---
 ## DgnTextElement.TextSize property
 
@@ -16,9 +19,8 @@ public virtual SizeF TextSize { get; }
 
 ### See Also
 
-* struct [SizeF](../../../aspose.cad/sizef/)
-* class [DgnTextElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [SizeF](../../../aspose.cad/sizef/)
+* class [DgnTextElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

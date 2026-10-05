@@ -1,12 +1,15 @@
 ---
-title: IfcCollection1.GetEnumerator
-second_title: Aspose.CAD for .NET API Reference
-description: IfcCollection method. Returns an enumerator that iterates through the collection
+title: "IfcCollection<T>.GetEnumerator"
+linktitle: "GetEnumerator"
+articleTitle: "GetEnumerator"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcCollection method. Returns an enumerator that iterates through the collection."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.ifc/ifccollection-1/getenumerator/
+weight: 60
+url: "/net/aspose.cad.fileformats.ifc/ifccollection-1/getenumerator/"
+product_version: "26.9"
 ---
-## IfcCollection&lt;T&gt;.GetEnumerator method
+## IfcCollection<T>.GetEnumerator method
 
 Returns an enumerator that iterates through the collection.
 
@@ -20,8 +23,7 @@ A that can be used to iterate through the collection.
 
 ### See Also
 
-* class [IfcCollection&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcCollection&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

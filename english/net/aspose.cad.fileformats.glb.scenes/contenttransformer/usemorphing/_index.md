@@ -1,12 +1,17 @@
 ---
-title: ContentTransformer.UseMorphing
-second_title: Aspose.CAD for .NET API Reference
-description: ContentTransformer method. 
+title: "ContentTransformer.UseMorphing"
+linktitle: "UseMorphing"
+articleTitle: "UseMorphing"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ContentTransformer method."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.glb.scenes/contenttransformer/usemorphing/
+weight: 50
+url: "/net/aspose.cad.fileformats.glb.scenes/contenttransformer/usemorphing/"
+product_version: "26.9"
 ---
 ## UseMorphing() {#usemorphing}
+
+
 
 ```csharp
 public AnimatableProperty<ArraySegment<float>> UseMorphing()
@@ -14,14 +19,16 @@ public AnimatableProperty<ArraySegment<float>> UseMorphing()
 
 ### See Also
 
-* class [AnimatableProperty&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/animatableproperty-1/)
-* class [ContentTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
+* class [AnimatableProperty&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/animatableproperty-1/)
+* class [ContentTransformer](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
 ## UseMorphing(string) {#usemorphing_1}
+
+
 
 ```csharp
 public CurveBuilder<ArraySegment<float>> UseMorphing(string animationTrack)
@@ -29,9 +36,8 @@ public CurveBuilder<ArraySegment<float>> UseMorphing(string animationTrack)
 
 ### See Also
 
-* class [CurveBuilder&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/curvebuilder-1/)
-* class [ContentTransformer](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CurveBuilder&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/curvebuilder-1/)
+* class [ContentTransformer](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

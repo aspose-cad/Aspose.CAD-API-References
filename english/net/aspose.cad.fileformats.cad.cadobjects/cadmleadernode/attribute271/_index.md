@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderNode.Attribute271
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderNode property. Gets or sets the attribute 271
+title: "CadMLeaderNode.Attribute271"
+linktitle: "Attribute271"
+articleTitle: "Attribute271"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderNode property. Gets or sets the attribute 271."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/attribute271/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/attribute271/"
+product_version: "26.9"
 ---
 ## CadMLeaderNode.Attribute271 property
 
@@ -20,8 +23,7 @@ The attribute 271.
 
 ### See Also
 
-* class [CadMLeaderNode](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderNode](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

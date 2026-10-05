@@ -1,10 +1,13 @@
 ---
-title: CadUnderlay.CadUnderlay
-second_title: Aspose.CAD for .NET API Reference
-description: CadUnderlay constructor. Initializes a new instance of the CadUnderlay class
+title: "CadUnderlay.CadUnderlay"
+linktitle: "CadUnderlay"
+articleTitle: "CadUnderlay"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadUnderlay constructor. Initializes a new instance of the CadUnderlay class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadunderlay/cadunderlay/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadunderlay/cadunderlay/"
+product_version: "26.9"
 ---
 ## CadUnderlay constructor
 
@@ -16,8 +19,7 @@ public CadUnderlay()
 
 ### See Also
 
-* class [CadUnderlay](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadUnderlay](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

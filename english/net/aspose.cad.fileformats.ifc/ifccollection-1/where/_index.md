@@ -1,17 +1,20 @@
 ---
-title: IfcCollection1.Where
-second_title: Aspose.CAD for .NET API Reference
-description: IfcCollection method. Wheres the specified predicate
+title: "IfcCollection<T>.Where"
+linktitle: "Where"
+articleTitle: "Where"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcCollection method. Wheres the specified predicate."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.ifc/ifccollection-1/where/
+weight: 70
+url: "/net/aspose.cad.fileformats.ifc/ifccollection-1/where/"
+product_version: "26.9"
 ---
-## IfcCollection&lt;T&gt;.Where method
+## IfcCollection<T>.Where method
 
 Wheres the specified predicate.
 
 ```csharp
-public IfcCollection Where(IfcPredicate<T> predicate)
+public IfcCollection<T> Where(IfcPredicate<T> predicate)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,9 @@ public IfcCollection Where(IfcPredicate<T> predicate)
 
 ### See Also
 
-* delegate [IfcPredicate&lt;T&gt;](../../ifcpredicate-1/)
-* class [IfcCollection&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcCollection](../../ifccollection/)
+* delegate [IfcPredicate&lt;T&gt;](../../ifcpredicate-1/)
+* class [IfcCollection&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

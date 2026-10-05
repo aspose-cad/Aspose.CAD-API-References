@@ -1,10 +1,13 @@
 ---
-title: ExifData.SensitivityType
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the sensitivity type
+title: "ExifData.SensitivityType"
+linktitle: "SensitivityType"
+articleTitle: "SensitivityType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the sensitivity type."
 type: docs
-weight: 950
-url: /net/aspose.cad.exif/exifdata/sensitivitytype/
+weight: 960
+url: "/net/aspose.cad.exif/exifdata/sensitivitytype/"
+product_version: "26.9"
 ---
 ## ExifData.SensitivityType property
 
@@ -20,8 +23,7 @@ The type of the sensitivity.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: BmpOptions.BmpOptions
-second_title: Aspose.CAD for .NET API Reference
-description: BmpOptions constructor. Initializes a new instance of the BmpOptions class
+title: "BmpOptions.BmpOptions"
+linktitle: "BmpOptions"
+articleTitle: "BmpOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BmpOptions constructor. Initializes a new instance of the BmpOptions class."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/bmpoptions/bmpoptions/
+url: "/net/aspose.cad.imageoptions/bmpoptions/bmpoptions/"
+product_version: "26.9"
 ---
 ## BmpOptions() {#constructor}
 
@@ -16,9 +19,9 @@ public BmpOptions()
 
 ### See Also
 
-* class [BmpOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
+* class [BmpOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public BmpOptions(BmpOptions bmpOptions)
 
 ### See Also
 
-* class [BmpOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BmpOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

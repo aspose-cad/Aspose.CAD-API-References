@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.BitsPerSample
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the bits per sample
+title: "TiffOptions.BitsPerSample"
+linktitle: "BitsPerSample"
+articleTitle: "BitsPerSample"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the bits per sample."
 type: docs
-weight: 50
-url: /net/aspose.cad.imageoptions/tiffoptions/bitspersample/
+weight: 190
+url: "/net/aspose.cad.imageoptions/tiffoptions/bitspersample/"
+product_version: "26.9"
 ---
 ## TiffOptions.BitsPerSample property
 
@@ -24,8 +27,7 @@ When setting this value keep in mind that it will also set SamplesPerPixel value
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

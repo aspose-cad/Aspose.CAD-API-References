@@ -1,10 +1,13 @@
 ---
-title: CadFieldList.Attribute90
-second_title: Aspose.CAD for .NET API Reference
-description: CadFieldList property. Gets or sets the attribute90 list
+title: "CadFieldList.Attribute90"
+linktitle: "Attribute90"
+articleTitle: "Attribute90"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadFieldList property. Gets or sets the attribute90 list."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadfieldlist/attribute90/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadfieldlist/attribute90/"
+product_version: "26.9"
 ---
 ## CadFieldList.Attribute90 property
 
@@ -20,8 +23,7 @@ The attribute90 list.
 
 ### See Also
 
-* class [CadFieldList](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadFieldList](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

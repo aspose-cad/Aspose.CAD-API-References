@@ -1,10 +1,13 @@
 ---
-title: ArmatureInstance.SetAnimationFrame
-second_title: Aspose.CAD for .NET API Reference
-description: ArmatureInstance method. Sets the bone transforms from an animation frame
+title: "ArmatureInstance.SetAnimationFrame"
+linktitle: "SetAnimationFrame"
+articleTitle: "SetAnimationFrame"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ArmatureInstance method. Sets the bone transforms from an animation frame."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.glb.runtime/armatureinstance/setanimationframe/
+url: "/net/aspose.cad.fileformats.glb.runtime/armatureinstance/setanimationframe/"
+product_version: "26.9"
 ---
 ## ArmatureInstance.SetAnimationFrame method
 
@@ -22,8 +25,7 @@ public void SetAnimationFrame(int trackLogicalIndex, float time, bool looped = t
 
 ### See Also
 
-* class [ArmatureInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ArmatureInstance](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
+* assembly [Aspose.CAD](../../../)
 

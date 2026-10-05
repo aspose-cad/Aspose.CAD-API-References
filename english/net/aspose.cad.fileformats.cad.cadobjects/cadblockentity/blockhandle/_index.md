@@ -1,10 +1,13 @@
 ---
-title: CadBlockEntity.BlockHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockEntity property. Gets or sets the handle
+title: "CadBlockEntity.BlockHandle"
+linktitle: "BlockHandle"
+articleTitle: "BlockHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockEntity property. Gets or sets the handle."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockhandle/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockhandle/"
+product_version: "26.9"
 ---
 ## CadBlockEntity.BlockHandle property
 
@@ -16,8 +19,7 @@ public string BlockHandle { get; set; }
 
 ### See Also
 
-* class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

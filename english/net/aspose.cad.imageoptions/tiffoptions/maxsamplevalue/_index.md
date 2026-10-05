@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.MaxSampleValue
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the max sample value
+title: "TiffOptions.MaxSampleValue"
+linktitle: "MaxSampleValue"
+articleTitle: "MaxSampleValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the max sample value."
 type: docs
-weight: 220
-url: /net/aspose.cad.imageoptions/tiffoptions/maxsamplevalue/
+weight: 330
+url: "/net/aspose.cad.imageoptions/tiffoptions/maxsamplevalue/"
+product_version: "26.9"
 ---
 ## TiffOptions.MaxSampleValue property
 
@@ -27,8 +30,7 @@ The max sample value.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

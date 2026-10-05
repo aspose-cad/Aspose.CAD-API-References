@@ -1,10 +1,13 @@
 ---
-title: Enum TextOrientation
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Iges.Drawables.TextOrientation enum. Defines orientation of text
+title: "TextOrientation Enum"
+linktitle: "TextOrientation"
+articleTitle: "TextOrientation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Iges.Drawables.TextOrientation enum. Defines orientation of text"
 type: docs
-weight: 33700
-url: /net/aspose.cad.fileformats.iges.drawables/textorientation/
+weight: 110
+url: "/net/aspose.cad.fileformats.iges.drawables/textorientation/"
+product_version: "26.9"
 ---
 ## TextOrientation enumeration
 
@@ -23,7 +26,6 @@ public enum TextOrientation
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../)
 

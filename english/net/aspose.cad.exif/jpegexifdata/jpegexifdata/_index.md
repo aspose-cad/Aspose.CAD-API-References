@@ -1,10 +1,13 @@
 ---
-title: JpegExifData.JpegExifData
-second_title: Aspose.CAD for .NET API Reference
-description: JpegExifData constructor. Initializes a new instance of the JpegExifData class
+title: "JpegExifData.JpegExifData"
+linktitle: "JpegExifData"
+articleTitle: "JpegExifData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "JpegExifData constructor. Initializes a new instance of the JpegExifData class."
 type: docs
 weight: 10
-url: /net/aspose.cad.exif/jpegexifdata/jpegexifdata/
+url: "/net/aspose.cad.exif/jpegexifdata/jpegexifdata/"
+product_version: "26.9"
 ---
 ## JpegExifData() {#constructor}
 
@@ -16,9 +19,9 @@ public JpegExifData()
 
 ### See Also
 
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
@@ -36,14 +39,14 @@ public JpegExifData(TiffDataType[] exifdata)
 
 ### See Also
 
-* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
+* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## JpegExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
+## JpegExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
 Initializes a new instance of the [`JpegExifData`](../) class with data from array.
 
@@ -59,9 +62,8 @@ public JpegExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffData
 
 ### See Also
 
-* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
-* class [JpegExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDataType](../../../aspose.cad.fileformats.tiff/tiffdatatype/)
+* class [JpegExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

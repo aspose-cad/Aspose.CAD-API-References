@@ -1,10 +1,13 @@
 ---
-title: IClearTextWriter.Info
-second_title: Aspose.CAD for .NET API Reference
-description: IClearTextWriter method. Logs a info message
+title: "IClearTextWriter.Info"
+linktitle: "Info"
+articleTitle: "Info"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IClearTextWriter method. Logs a info message"
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.cgm/icleartextwriter/info/
+weight: 30
+url: "/net/aspose.cad.fileformats.cgm/icleartextwriter/info/"
+product_version: "26.9"
 ---
 ## IClearTextWriter.Info method
 
@@ -20,8 +23,7 @@ public void Info(string message)
 
 ### See Also
 
-* interface [IClearTextWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IClearTextWriter](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

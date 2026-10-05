@@ -1,10 +1,13 @@
 ---
-title: Point3D.CrossProduct
-second_title: Aspose.CAD for .NET API Reference
-description: Point3D method. Gets crossproduct of a points
+title: "Point3D.CrossProduct"
+linktitle: "CrossProduct"
+articleTitle: "CrossProduct"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point3D method. Gets cross-product of a points"
 type: docs
-weight: 30
-url: /net/aspose.cad.primitives/point3d/crossproduct/
+weight: 80
+url: "/net/aspose.cad.primitives/point3d/crossproduct/"
+product_version: "26.9"
 ---
 ## Point3D.CrossProduct method
 
@@ -25,8 +28,7 @@ Cross product point
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

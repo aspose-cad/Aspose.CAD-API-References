@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.HorizontalCellMargin
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. Gets or sets the horizontal cell margin
+title: "CadTableEntity.HorizontalCellMargin"
+linktitle: "HorizontalCellMargin"
+articleTitle: "HorizontalCellMargin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. Gets or sets the horizontal cell margin."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/horizontalcellmargin/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/horizontalcellmargin/"
+product_version: "26.9"
 ---
 ## CadTableEntity.HorizontalCellMargin property
 
@@ -20,8 +23,7 @@ The horizontal cell margin.
 
 ### See Also
 
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

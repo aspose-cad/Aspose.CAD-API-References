@@ -1,10 +1,13 @@
 ---
-title: Enum CameraType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.CameraType enum. Specifies if the camera uses a perspective or orthographic projection
+title: "CameraType Enum"
+linktitle: "CameraType"
+articleTitle: "CameraType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.CameraType enum. Specifies if the camera uses a perspective or orthographic projection."
 type: docs
-weight: 10330
-url: /net/aspose.cad.fileformats.glb/cameratype/
+weight: 140
+url: "/net/aspose.cad.fileformats.glb/cameratype/"
+product_version: "26.9"
 ---
 ## CameraType enumeration
 
@@ -23,7 +26,6 @@ public enum CameraType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

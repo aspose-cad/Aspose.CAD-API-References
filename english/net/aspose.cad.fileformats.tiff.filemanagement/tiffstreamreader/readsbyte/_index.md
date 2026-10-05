@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.ReadSByte
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Reads signed byte data from the stream
+title: "TiffStreamReader.ReadSByte"
+linktitle: "ReadSByte"
+articleTitle: "ReadSByte"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Reads signed byte data from the stream."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsbyte/
+weight: 150
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readsbyte/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.ReadSByte method
 
@@ -24,8 +27,7 @@ The signed byte value.
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

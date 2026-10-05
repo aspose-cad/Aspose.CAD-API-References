@@ -1,12 +1,17 @@
 ---
-title: StepEdgeLoop.ItemType
-second_title: Aspose.CAD for .NET API Reference
-description: StepEdgeLoop property. 
+title: "StepEdgeLoop.ItemType"
+linktitle: "ItemType"
+articleTitle: "ItemType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepEdgeLoop property."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.stp.items/stepedgeloop/itemtype/
+weight: 20
+url: "/net/aspose.cad.fileformats.stp.items/stepedgeloop/itemtype/"
+product_version: "26.9"
 ---
 ## StepEdgeLoop.ItemType property
+
+
 
 ```csharp
 public override StepItemType ItemType { get; }
@@ -14,9 +19,8 @@ public override StepItemType ItemType { get; }
 
 ### See Also
 
-* enum [StepItemType](../../stepitemtype/)
-* class [StepEdgeLoop](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [StepItemType](../../stepitemtype/)
+* class [StepEdgeLoop](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

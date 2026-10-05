@@ -1,10 +1,13 @@
 ---
-title: SvgOptions.SvgOptions
-second_title: Aspose.CAD for .NET API Reference
-description: SvgOptions constructor. The default constructor
+title: "SvgOptions.SvgOptions"
+linktitle: "SvgOptions"
+articleTitle: "SvgOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SvgOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/svgoptions/svgoptions/
+url: "/net/aspose.cad.imageoptions/svgoptions/svgoptions/"
+product_version: "26.9"
 ---
 ## SvgOptions constructor
 
@@ -16,8 +19,7 @@ public SvgOptions()
 
 ### See Also
 
-* class [SvgOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SvgOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

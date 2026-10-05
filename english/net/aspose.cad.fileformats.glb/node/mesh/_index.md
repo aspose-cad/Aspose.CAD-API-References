@@ -1,10 +1,13 @@
 ---
-title: Node.Mesh
-second_title: Aspose.CAD for .NET API Reference
-description: Node property. Gets or sets the Mesh of this Node
+title: "Node.Mesh"
+linktitle: "Mesh"
+articleTitle: "Mesh"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Node property. Gets or sets the Mesh of this Node."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.glb/node/mesh/
+weight: 210
+url: "/net/aspose.cad.fileformats.glb/node/mesh/"
+product_version: "26.9"
 ---
 ## Node.Mesh property
 
@@ -16,9 +19,8 @@ public Mesh Mesh { get; set; }
 
 ### See Also
 
-* class [Mesh](../../mesh/)
-* class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Mesh](../../mesh/)
+* class [Node](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

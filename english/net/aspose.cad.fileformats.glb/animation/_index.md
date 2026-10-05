@@ -1,10 +1,14 @@
 ---
-title: Class Animation
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Animation class. A keyframe animation
+title: "Animation Class"
+linktitle: "Animation"
+articleTitle: "Animation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Animation class. A keyframe animation."
 type: docs
-weight: 10200
-url: /net/aspose.cad.fileformats.glb/animation/
+weight: 50
+url: "/net/aspose.cad.fileformats.glb/animation/"
+keywords: "Animation, Aspose.CAD.FileFormats.GLB, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Animation class
 
@@ -18,23 +22,23 @@ public sealed class Animation : LogicalChildOfRoot
 
 | Name | Description |
 | --- | --- |
-| [Channels](../../aspose.cad.fileformats.glb/animation/channels/) { get; } |  |
-| [Duration](../../aspose.cad.fileformats.glb/animation/duration/) { get; } |  |
-| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
-| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
-| [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
+| [Channels](../../aspose.cad.fileformats.glb/animation/channels/) { get; } |  |
+| [Duration](../../aspose.cad.fileformats.glb/animation/duration/) { get; } |  |
+| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
+| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
+| [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CreateMorphChannel](../../aspose.cad.fileformats.glb/animation/createmorphchannel/#createmorphchannel)(Node, IReadOnlyDictionary&lt;float, SparseWeight8&gt;, int, bool) |  |
-| [CreateMorphChannel&lt;TWeights&gt;](../../aspose.cad.fileformats.glb/animation/createmorphchannel/#createmorphchannel_1)(Node, IReadOnlyDictionary&lt;float, TWeights&gt;, int, bool) |  |
-| [CreateRotationChannel](../../aspose.cad.fileformats.glb/animation/createrotationchannel/)(Node, IReadOnlyDictionary&lt;float, Quaternion&gt;, bool) |  |
-| [CreateScaleChannel](../../aspose.cad.fileformats.glb/animation/createscalechannel/)(Node, IReadOnlyDictionary&lt;float, Vector3&gt;, bool) |  |
-| [CreateTranslationChannel](../../aspose.cad.fileformats.glb/animation/createtranslationchannel/)(Node, IReadOnlyDictionary&lt;float, Vector3&gt;, bool) |  |
+| [CreateMorphChannel](../../aspose.cad.fileformats.glb/animation/createmorphchannel/#createmorphchannel)(Node, IReadOnlyDictionary&lt;float, SparseWeight8&gt;, int, bool) |  |
+| [CreateMorphChannel&lt;TWeights&gt;](../../aspose.cad.fileformats.glb/animation/createmorphchannel/#createmorphchannel_1)(Node, IReadOnlyDictionary&lt;float, TWeights&gt;, int, bool) |  |
+| [CreateRotationChannel](../../aspose.cad.fileformats.glb/animation/createrotationchannel/)(Node, IReadOnlyDictionary&lt;float, Quaternion&gt;, bool) |  |
+| [CreateScaleChannel](../../aspose.cad.fileformats.glb/animation/createscalechannel/)(Node, IReadOnlyDictionary&lt;float, Vector3&gt;, bool) |  |
+| [CreateTranslationChannel](../../aspose.cad.fileformats.glb/animation/createtranslationchannel/)(Node, IReadOnlyDictionary&lt;float, Vector3&gt;, bool) |  |
 | [FindChannels](../../aspose.cad.fileformats.glb/animation/findchannels/)(Node) |  |
 | [FindMorphChannel](../../aspose.cad.fileformats.glb/animation/findmorphchannel/)(Node) |  |
 | [FindRotationChannel](../../aspose.cad.fileformats.glb/animation/findrotationchannel/)(Node) |  |
@@ -48,8 +52,7 @@ public sealed class Animation : LogicalChildOfRoot
 
 ### See Also
 
-* class [LogicalChildOfRoot](../logicalchildofroot/)
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* class [LogicalChildOfRoot](../logicalchildofroot/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

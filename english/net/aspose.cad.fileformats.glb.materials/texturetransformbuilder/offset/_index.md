@@ -1,12 +1,17 @@
 ---
-title: TextureTransformBuilder.Offset
-second_title: Aspose.CAD for .NET API Reference
-description: TextureTransformBuilder property. 
+title: "TextureTransformBuilder.Offset"
+linktitle: "Offset"
+articleTitle: "Offset"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TextureTransformBuilder property."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.glb.materials/texturetransformbuilder/offset/
+url: "/net/aspose.cad.fileformats.glb.materials/texturetransformbuilder/offset/"
+product_version: "26.9"
 ---
 ## TextureTransformBuilder.Offset property
+
+
 
 ```csharp
 public Vector2 Offset { get; set; }
@@ -14,8 +19,7 @@ public Vector2 Offset { get; set; }
 
 ### See Also
 
-* class [TextureTransformBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TextureTransformBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

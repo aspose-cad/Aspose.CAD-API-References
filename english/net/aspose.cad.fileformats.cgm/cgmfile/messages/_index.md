@@ -1,10 +1,13 @@
 ---
-title: CgmFile.Messages
-second_title: Aspose.CAD for .NET API Reference
-description: CgmFile property. Any messages occured while reading or writing the file
+title: "CgmFile.Messages"
+linktitle: "Messages"
+articleTitle: "Messages"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmFile property. Any messages occured while reading or writing the file"
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cgm/cgmfile/messages/
+weight: 350
+url: "/net/aspose.cad.fileformats.cgm/cgmfile/messages/"
+product_version: "26.9"
 ---
 ## CgmFile.Messages property
 
@@ -16,9 +19,8 @@ public IEnumerable<Message> Messages { get; }
 
 ### See Also
 
-* class [Message](../../message/)
-* class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Message](../../message/)
+* class [CgmFile](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StreamReadException.StreamReadException
-second_title: Aspose.CAD for .NET API Reference
-description: StreamReadException constructor. Initializes a new instance of the StreamReadException class
+title: "StreamReadException.StreamReadException"
+linktitle: "StreamReadException"
+articleTitle: "StreamReadException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamReadException constructor. Initializes a new instance of the StreamReadException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions/streamreadexception/streamreadexception/
+url: "/net/aspose.cad.cadexceptions/streamreadexception/streamreadexception/"
+product_version: "26.9"
 ---
 ## StreamReadException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public StreamReadException(string message)
 
 ### See Also
 
-* class [StreamReadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
+* class [StreamReadException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## StreamReadException(string, Exception) {#constructor_2}
+## StreamReadException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`StreamReadException`](../) class.
 
@@ -41,13 +44,35 @@ public StreamReadException(string message, Exception innerException)
 
 ### See Also
 
-* class [StreamReadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
+* class [StreamReadException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## StreamReadException(string, Exception, int, int) {#constructor_3}
+## StreamReadException(string, int, int) {#constructor_2}
+
+Initializes a new instance of the [`StreamReadException`](../) class.
+
+```csharp
+public StreamReadException(string message, int expectedReadCount, int actualReadCount)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | The message. |
+| expectedReadCount | Int32 | The expected read count. |
+| actualReadCount | Int32 | The actual read count. |
+
+### See Also
+
+* class [StreamReadException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## StreamReadException(string, Exception, int, int) {#constructor_3}
 
 Initializes a new instance of the [`StreamReadException`](../) class.
 
@@ -65,30 +90,7 @@ public StreamReadException(string message, Exception innerException, int expecte
 
 ### See Also
 
-* class [StreamReadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## StreamReadException(string, int, int) {#constructor_1}
-
-Initializes a new instance of the [`StreamReadException`](../) class.
-
-```csharp
-public StreamReadException(string message, int expectedReadCount, int actualReadCount)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | String | The message. |
-| expectedReadCount | Int32 | The expected read count. |
-| actualReadCount | Int32 | The actual read count. |
-
-### See Also
-
-* class [StreamReadException](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamReadException](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 

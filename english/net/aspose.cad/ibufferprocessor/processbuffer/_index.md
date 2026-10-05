@@ -1,10 +1,13 @@
 ---
-title: IBufferProcessor.ProcessBuffer
-second_title: Aspose.CAD for .NET API Reference
-description: IBufferProcessor method. Processes the buffer
+title: "IBufferProcessor.ProcessBuffer"
+linktitle: "ProcessBuffer"
+articleTitle: "ProcessBuffer"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IBufferProcessor method. Processes the buffer."
 type: docs
 weight: 10
-url: /net/aspose.cad/ibufferprocessor/processbuffer/
+url: "/net/aspose.cad/ibufferprocessor/processbuffer/"
+product_version: "26.9"
 ---
 ## IBufferProcessor.ProcessBuffer method
 
@@ -21,8 +24,7 @@ public void ProcessBuffer(byte[] buffer, int bufferLength)
 
 ### See Also
 
-* interface [IBufferProcessor](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBufferProcessor](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

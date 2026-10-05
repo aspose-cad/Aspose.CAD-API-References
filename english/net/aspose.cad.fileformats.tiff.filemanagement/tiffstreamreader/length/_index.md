@@ -1,10 +1,13 @@
 ---
-title: TiffStreamReader.Length
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader property. Gets the reader length
+title: "TiffStreamReader.Length"
+linktitle: "Length"
+articleTitle: "Length"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader property. Gets the reader length."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/length/
+weight: 280
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/length/"
+product_version: "26.9"
 ---
 ## TiffStreamReader.Length property
 
@@ -20,8 +23,7 @@ The reader length.
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

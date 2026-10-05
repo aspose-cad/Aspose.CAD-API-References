@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.SyncRoot
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer property. Gets an object that can be used to synchronize access to the synchronized resource
+title: "StreamContainer.SyncRoot"
+linktitle: "SyncRoot"
+articleTitle: "SyncRoot"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer property. Gets an object that can be used to synchronize access to the synchronized resource."
 type: docs
-weight: 90
-url: /net/aspose.cad/streamcontainer/syncroot/
+weight: 230
+url: "/net/aspose.cad/streamcontainer/syncroot/"
+product_version: "26.9"
 ---
 ## StreamContainer.SyncRoot property
 
@@ -20,8 +23,7 @@ The object that can be used to synchronize access to the synchronized resource.
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

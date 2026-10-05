@@ -1,10 +1,13 @@
 ---
-title: CadViewport.TwistAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the twist angle
+title: "CadViewport.TwistAngle"
+linktitle: "TwistAngle"
+articleTitle: "TwistAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the twist angle."
 type: docs
 weight: 350
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/twistangle/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/twistangle/"
+product_version: "26.9"
 ---
 ## CadViewport.TwistAngle property
 
@@ -16,8 +19,7 @@ public double TwistAngle { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

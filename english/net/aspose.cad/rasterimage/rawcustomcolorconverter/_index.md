@@ -1,10 +1,13 @@
 ---
-title: RasterImage.RawCustomColorConverter
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage property. Gets or sets the custom color converter
+title: "RasterImage.RawCustomColorConverter"
+linktitle: "RawCustomColorConverter"
+articleTitle: "RawCustomColorConverter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage property. Gets or sets the custom color converter"
 type: docs
-weight: 60
-url: /net/aspose.cad/rasterimage/rawcustomcolorconverter/
+weight: 410
+url: "/net/aspose.cad/rasterimage/rawcustomcolorconverter/"
+product_version: "26.9"
 ---
 ## RasterImage.RawCustomColorConverter property
 
@@ -20,9 +23,8 @@ The custom color converter
 
 ### See Also
 
-* interface [IColorConverter](../../icolorconverter/)
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IColorConverter](../../icolorconverter/)
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

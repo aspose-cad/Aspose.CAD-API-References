@@ -1,10 +1,14 @@
 ---
-title: Class MifCodePageDecoder
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.MifCodePageDecoder class. Helps determine MIF codepage
+title: "MifCodePageDecoder Class"
+linktitle: "MifCodePageDecoder"
+articleTitle: "MifCodePageDecoder"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.MifCodePageDecoder class. Helps determine MIF codepage"
 type: docs
-weight: 36990
-url: /net/aspose.cad/mifcodepagedecoder/
+weight: 630
+url: "/net/aspose.cad/mifcodepagedecoder/"
+keywords: "MifCodePageDecoder, Aspose.CAD, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## MifCodePageDecoder class
 
@@ -18,12 +22,11 @@ public static class MifCodePageDecoder
 
 | Name | Description |
 | --- | --- |
-| static [GetCodePageFromMifPage](../../aspose.cad/mifcodepagedecoder/getcodepagefrommifpage/)(MifCodePages) | Gets codepage for MIF codepage |
-| static [GetCodePageFromSymbol](../../aspose.cad/mifcodepagedecoder/getcodepagefromsymbol/)(string) | Gets codepage from n symbol in M+nXXXX format |
+| static [GetCodePageFromMifPage](../../aspose.cad/mifcodepagedecoder/getcodepagefrommifpage/)(MifCodePages) | Gets codepage for MIF codepage |
+| static [GetCodePageFromSymbol](../../aspose.cad/mifcodepagedecoder/getcodepagefromsymbol/)(string) | Gets codepage from n symbol in M+nXXXX format |
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

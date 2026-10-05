@@ -1,10 +1,13 @@
 ---
-title: ObjRoot.Materials
-second_title: Aspose.CAD for .NET API Reference
-description: ObjRoot property. Gets or sets the materials
+title: "ObjRoot.Materials"
+linktitle: "Materials"
+articleTitle: "Materials"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjRoot property. Gets or sets the materials."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.obj.elements/objroot/materials/
+weight: 40
+url: "/net/aspose.cad.fileformats.obj.elements/objroot/materials/"
+product_version: "26.9"
 ---
 ## ObjRoot.Materials property
 
@@ -20,9 +23,8 @@ The materials.
 
 ### See Also
 
-* class [ObjMaterial](../../../aspose.cad.fileformats.obj.mtl/objmaterial/)
-* class [ObjRoot](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjMaterial](../../../aspose.cad.fileformats.obj.mtl/objmaterial/)
+* class [ObjRoot](../)
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
+* assembly [Aspose.CAD](../../../)
 

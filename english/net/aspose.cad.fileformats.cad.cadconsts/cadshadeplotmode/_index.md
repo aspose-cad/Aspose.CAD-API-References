@@ -1,14 +1,18 @@
 ---
-title: Enum CadShadePlotMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadShadePlotMode enum. ShadePlot mode. CadPlotSettings
+title: "CadShadePlotMode Enum"
+linktitle: "CadShadePlotMode"
+articleTitle: "CadShadePlotMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadShadePlotMode enum. ShadePlot mode. CadPlotSettings"
 type: docs
-weight: 1550
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadshadeplotmode/
+weight: 490
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadshadeplotmode/"
+product_version: "26.9"
 ---
 ## CadShadePlotMode enumeration
 
-ShadePlot mode. [`CadPlotSettings`](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
+ShadePlot mode.
+ [`CadPlotSettings`](../../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
 
 ```csharp
 public enum CadShadePlotMode : short
@@ -25,7 +29,6 @@ public enum CadShadePlotMode : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

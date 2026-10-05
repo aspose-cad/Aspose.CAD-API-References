@@ -1,10 +1,13 @@
 ---
-title: TableDataCell.StyleId
-second_title: Aspose.CAD for .NET API Reference
-description: TableDataCell property. The row style id
+title: "TableDataCell.StyleId"
+linktitle: "StyleId"
+articleTitle: "StyleId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableDataCell property. The row style id"
 type: docs
 weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatacell/styleid/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/tabledatacell/styleid/"
+product_version: "26.9"
 ---
 ## TableDataCell.StyleId property
 
@@ -16,8 +19,7 @@ public int StyleId { get; set; }
 
 ### See Also
 
-* class [TableDataCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableDataCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

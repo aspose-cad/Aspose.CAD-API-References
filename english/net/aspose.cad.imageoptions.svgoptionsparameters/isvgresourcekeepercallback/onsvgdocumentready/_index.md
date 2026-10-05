@@ -1,10 +1,13 @@
 ---
-title: ISvgResourceKeeperCallback.OnSvgDocumentReady
-second_title: Aspose.CAD for .NET API Reference
-description: ISvgResourceKeeperCallback method. Called when SVG document is ready
+title: "ISvgResourceKeeperCallback.OnSvgDocumentReady"
+linktitle: "OnSvgDocumentReady"
+articleTitle: "OnSvgDocumentReady"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ISvgResourceKeeperCallback method. Called when SVG document is ready."
 type: docs
 weight: 30
-url: /net/aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onsvgdocumentready/
+url: "/net/aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onsvgdocumentready/"
+product_version: "26.9"
 ---
 ## ISvgResourceKeeperCallback.OnSvgDocumentReady method
 
@@ -25,8 +28,7 @@ Should return path to saved svg document.
 
 ### See Also
 
-* interface [ISvgResourceKeeperCallback](../)
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [ISvgResourceKeeperCallback](../)
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadSectionViewStyle.PlaneLTypeHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionViewStyle property. The Plane LType Handle
+title: "CadSectionViewStyle.PlaneLTypeHandle"
+linktitle: "PlaneLTypeHandle"
+articleTitle: "PlaneLTypeHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionViewStyle property. The Plane LType Handle"
 type: docs
-weight: 340
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/planeltypehandle/
+weight: 380
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/planeltypehandle/"
+product_version: "26.9"
 ---
 ## CadSectionViewStyle.PlaneLTypeHandle property
 
@@ -16,8 +19,7 @@ public string PlaneLTypeHandle { get; set; }
 
 ### See Also
 
-* class [CadSectionViewStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionViewStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

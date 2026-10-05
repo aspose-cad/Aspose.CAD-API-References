@@ -1,10 +1,13 @@
 ---
-title: UnknownResource.Data
-second_title: Aspose.CAD for .NET API Reference
-description: UnknownResource property. Gets the resource data
+title: "UnknownResource.Data"
+linktitle: "Data"
+articleTitle: "Data"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "UnknownResource property. Gets the resource data."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.psd.resources/unknownresource/data/
+url: "/net/aspose.cad.fileformats.psd.resources/unknownresource/data/"
+product_version: "26.9"
 ---
 ## UnknownResource.Data property
 
@@ -20,8 +23,7 @@ The resource data.
 
 ### See Also
 
-* class [UnknownResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [UnknownResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

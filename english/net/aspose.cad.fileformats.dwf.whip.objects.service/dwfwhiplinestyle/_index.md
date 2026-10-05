@@ -1,10 +1,14 @@
 ---
-title: Class DwfWhipLineStyle
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipLineStyle class. Represents line style
+title: "DwfWhipLineStyle Class"
+linktitle: "DwfWhipLineStyle"
+articleTitle: "DwfWhipLineStyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.DwfWhipLineStyle class. Represents line style"
 type: docs
-weight: 10000
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/
+weight: 70
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/"
+keywords: "DwfWhipLineStyle, Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DwfWhipLineStyle class
 
@@ -24,15 +28,14 @@ public class DwfWhipLineStyle : DwfWhipAttribute
 
 | Name | Description |
 | --- | --- |
-| [EndCap](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/endcap/) { get; } | Gets end cap |
-| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
-| [JoinStyle](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/joinstyle/) { get; } | Gets join style |
-| [StartCap](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/startcap/) { get; } | Gets start cap |
+| [EndCap](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/endcap/) { get; } | Gets end cap |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
+| [JoinStyle](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/joinstyle/) { get; } | Gets join style |
+| [StartCap](../../aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplinestyle/startcap/) { get; } | Gets start cap |
 
 ### See Also
 
-* class [DwfWhipAttribute](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipattribute/)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../)
-
+* class [DwfWhipAttribute](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipattribute/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../)
 

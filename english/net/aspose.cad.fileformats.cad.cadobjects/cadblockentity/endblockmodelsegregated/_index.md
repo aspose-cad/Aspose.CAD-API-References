@@ -1,10 +1,13 @@
 ---
-title: CadBlockEntity.EndBlockModelSegregated
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockEntity property. Gets or sets a value indicating whether end block model segregated
+title: "CadBlockEntity.EndBlockModelSegregated"
+linktitle: "EndBlockModelSegregated"
+articleTitle: "EndBlockModelSegregated"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockEntity property. Gets or sets a value indicating whether [end block model segregated]."
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockmodelsegregated/
+weight: 170
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockmodelsegregated/"
+product_version: "26.9"
 ---
 ## CadBlockEntity.EndBlockModelSegregated property
 
@@ -20,8 +23,7 @@ public bool EndBlockModelSegregated { get; set; }
 
 ### See Also
 
-* class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

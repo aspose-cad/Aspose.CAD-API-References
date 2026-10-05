@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.ScaleEstimationMethod
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the scale estimation method
+title: "CadGeoData.ScaleEstimationMethod"
+linktitle: "ScaleEstimationMethod"
+articleTitle: "ScaleEstimationMethod"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the scale estimation method."
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/scaleestimationmethod/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/scaleestimationmethod/"
+product_version: "26.9"
 ---
 ## CadGeoData.ScaleEstimationMethod property
 
@@ -20,8 +23,7 @@ The scale estimation method.
 
 ### See Also
 
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

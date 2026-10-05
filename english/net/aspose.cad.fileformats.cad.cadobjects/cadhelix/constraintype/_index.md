@@ -1,10 +1,13 @@
 ---
-title: CadHelix.ConstrainType
-second_title: Aspose.CAD for .NET API Reference
-description: CadHelix property. Gets or sets the type of the constrain
+title: "CadHelix.ConstrainType"
+linktitle: "ConstrainType"
+articleTitle: "ConstrainType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHelix property. Gets or sets the type of the constrain."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadhelix/constraintype/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadhelix/constraintype/"
+product_version: "26.9"
 ---
 ## CadHelix.ConstrainType property
 
@@ -20,9 +23,8 @@ The type of the constrain.
 
 ### See Also
 
-* enum [CadHelixLimitation](../../../aspose.cad.fileformats.cad.cadconsts/cadhelixlimitation/)
-* class [CadHelix](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadHelixLimitation](../../../aspose.cad.fileformats.cad.cadconsts/cadhelixlimitation/)
+* class [CadHelix](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: RdOptimizationError.RdOptimizationError
-second_title: Aspose.CAD for .NET API Reference
-description: RdOptimizationError constructor. Initializes a new instance of the RdOptimizationError class
+title: "RdOptimizationError.RdOptimizationError"
+linktitle: "RdOptimizationError"
+articleTitle: "RdOptimizationError"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RdOptimizationError constructor. Initializes a new instance of the RdOptimizationError class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions/rdoptimizationerror/rdoptimizationerror/
+url: "/net/aspose.cad.cadexceptions/rdoptimizationerror/rdoptimizationerror/"
+product_version: "26.9"
 ---
 ## RdOptimizationError constructor
 
@@ -20,8 +23,7 @@ public RdOptimizationError(string message)
 
 ### See Also
 
-* class [RdOptimizationError](../)
-* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RdOptimizationError](../)
+* namespace [Aspose.CAD.CadExceptions](../../../aspose.cad.cadexceptions/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,20 @@
 ---
-title: Geometry.PathGeometry
-second_title: Aspose.CAD for .NET API Reference
-description: Geometry property. Gets or sets the path geometry. A PathGeometry element constitutes a complete geometry definition. A PathGeometry element contains a set of path figures specified either with the Figures attribute or with a child PathFigure element
+title: "Geometry.PathGeometry"
+linktitle: "PathGeometry"
+articleTitle: "PathGeometry"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Geometry property. Gets or sets the path geometry. A PathGeometry element constitutes a complete geometry definition. A PathGeometry element contains a set o..."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/geometry/pathgeometry/
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/geometry/pathgeometry/"
+product_version: "26.9"
 ---
 ## Geometry.PathGeometry property
 
-Gets or sets the path geometry. A PathGeometry element constitutes a complete geometry definition. A PathGeometry element contains a set of path figures specified either with the Figures attribute or with a child PathFigure element.
+Gets or sets the path geometry.
+ A PathGeometry element constitutes a complete geometry definition.
+ A PathGeometry element contains a set of path figures specified either
+ with the Figures attribute or with a child PathFigure element.
 
 ```csharp
 public PathGeometry PathGeometry { get; set; }
@@ -16,9 +22,8 @@ public PathGeometry PathGeometry { get; set; }
 
 ### See Also
 
-* class [PathGeometry](../../pathgeometry/)
-* class [Geometry](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PathGeometry](../../pathgeometry/)
+* class [Geometry](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadAlignedDimension.DefinitionPoint1
-second_title: Aspose.CAD for .NET API Reference
-description: CadAlignedDimension property. Gets or sets the definition point1
+title: "CadAlignedDimension.DefinitionPoint1"
+linktitle: "DefinitionPoint1"
+articleTitle: "DefinitionPoint1"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAlignedDimension property. Gets or sets the definition point1."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/definitionpoint1/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadaligneddimension/definitionpoint1/"
+product_version: "26.9"
 ---
 ## CadAlignedDimension.DefinitionPoint1 property
 
@@ -20,9 +23,8 @@ The definition point1.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadAlignedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadAlignedDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadExtrudedSurface.StartDraftDistance
-second_title: Aspose.CAD for .NET API Reference
-description: CadExtrudedSurface property. Gets or sets the start draft distance
+title: "CadExtrudedSurface.StartDraftDistance"
+linktitle: "StartDraftDistance"
+articleTitle: "StartDraftDistance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadExtrudedSurface property. Gets or sets the start draft distance."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/startdraftdistance/
+weight: 190
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadextrudedsurface/startdraftdistance/"
+product_version: "26.9"
 ---
 ## CadExtrudedSurface.StartDraftDistance property
 
@@ -16,8 +19,7 @@ public double StartDraftDistance { get; set; }
 
 ### See Also
 
-* class [CadExtrudedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadExtrudedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

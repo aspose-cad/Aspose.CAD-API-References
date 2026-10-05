@@ -1,10 +1,13 @@
 ---
-title: SceneBuilder.AddScene
-second_title: Aspose.CAD for .NET API Reference
-description: SceneBuilder method. Copies the instances from scene to this SceneBuilder
+title: "SceneBuilder.AddScene"
+linktitle: "AddScene"
+articleTitle: "AddScene"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SceneBuilder method. Copies the instances from scene to this SceneBuilder"
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.glb.scenes/scenebuilder/addscene/
+weight: 130
+url: "/net/aspose.cad.fileformats.glb.scenes/scenebuilder/addscene/"
+product_version: "26.9"
 ---
 ## SceneBuilder.AddScene method
 
@@ -25,9 +28,8 @@ The instances copied from *scene*.
 
 ### See Also
 
-* class [InstanceBuilder](../../instancebuilder/)
-* class [SceneBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InstanceBuilder](../../instancebuilder/)
+* class [SceneBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadSkyLightBackGround.SkyLightBackGroundParameterList
-second_title: Aspose.CAD for .NET API Reference
-description: CadSkyLightBackGround property. Gets or sets the sky light back ground parameter list
+title: "CadSkyLightBackGround.SkyLightBackGroundParameterList"
+linktitle: "SkyLightBackGroundParameterList"
+articleTitle: "SkyLightBackGroundParameterList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSkyLightBackGround property. Gets or sets the sky light back ground parameter list."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadskylightbackground/skylightbackgroundparameterlist/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadskylightbackground/skylightbackgroundparameterlist/"
+product_version: "26.9"
 ---
 ## CadSkyLightBackGround.SkyLightBackGroundParameterList property
 
@@ -20,9 +23,8 @@ The sky light back ground parameter list.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadSkyLightBackGround](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadSkyLightBackGround](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TextDrawable.TextDrawable
-second_title: Aspose.CAD for .NET API Reference
-description: TextDrawable constructor. Creates text Drawable and determines its text boundaries
+title: "TextDrawable.TextDrawable"
+linktitle: "TextDrawable"
+articleTitle: "TextDrawable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TextDrawable constructor. Creates text Drawable and determines its text boundaries"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.iges.drawables/textdrawable/textdrawable/
+url: "/net/aspose.cad.fileformats.iges.drawables/textdrawable/textdrawable/"
+product_version: "26.9"
 ---
 ## TextDrawable constructor
 
@@ -26,10 +29,9 @@ public TextDrawable(string text, Point3D origin, double angle, double width, dou
 
 ### See Also
 
-* class [Point3D](../../../aspose.cad.primitives/point3d/)
-* interface [IDrawableProperties](../../idrawableproperties/)
-* class [TextDrawable](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
+* interface [IDrawableProperties](../../idrawableproperties/)
+* class [TextDrawable](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

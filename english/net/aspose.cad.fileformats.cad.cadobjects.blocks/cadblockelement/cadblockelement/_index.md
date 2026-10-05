@@ -1,10 +1,13 @@
 ---
-title: CadBlockElement.CadBlockElement
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockElement constructor. Initializes a new instance of the CadBlockElement class
+title: "CadBlockElement.CadBlockElement"
+linktitle: "CadBlockElement"
+articleTitle: "CadBlockElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockElement constructor. Initializes a new instance of the CadBlockElement class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockelement/cadblockelement/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockelement/cadblockelement/"
+product_version: "26.9"
 ---
 ## CadBlockElement constructor
 
@@ -16,8 +19,7 @@ public CadBlockElement()
 
 ### See Also
 
-* class [CadBlockElement](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockElement](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

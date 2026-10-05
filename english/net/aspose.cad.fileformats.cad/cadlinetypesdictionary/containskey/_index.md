@@ -1,10 +1,13 @@
 ---
-title: CadLineTypesDictionary.ContainsKey
-second_title: Aspose.CAD for .NET API Reference
-description: CadLineTypesDictionary method. Determines whether CadLineTypeTableObject contained within this dictionary
+title: "CadLineTypesDictionary.ContainsKey"
+linktitle: "ContainsKey"
+articleTitle: "ContainsKey"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLineTypesDictionary method. Determines whether CadLineTypeTableObject contained within this dictionary."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad/cadlinetypesdictionary/containskey/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad/cadlinetypesdictionary/containskey/"
+product_version: "26.9"
 ---
 ## CadLineTypesDictionary.ContainsKey method
 
@@ -24,8 +27,7 @@ True if the current dictionary contains an element with the key; otherwise, fals
 
 ### See Also
 
-* class [CadLineTypesDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLineTypesDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

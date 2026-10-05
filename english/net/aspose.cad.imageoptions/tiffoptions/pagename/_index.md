@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.PageName
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the page name
+title: "TiffOptions.PageName"
+linktitle: "PageName"
+articleTitle: "PageName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the page name."
 type: docs
-weight: 250
-url: /net/aspose.cad.imageoptions/tiffoptions/pagename/
+weight: 370
+url: "/net/aspose.cad.imageoptions/tiffoptions/pagename/"
+product_version: "26.9"
 ---
 ## TiffOptions.PageName property
 
@@ -20,8 +23,7 @@ The page name.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

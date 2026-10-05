@@ -1,10 +1,13 @@
 ---
-title: Image.UnitlessDefaultUnitType
-second_title: Aspose.CAD for .NET API Reference
-description: Image property. Assumed unit type when UnitType is set to Unitless
+title: "Image.UnitlessDefaultUnitType"
+linktitle: "UnitlessDefaultUnitType"
+articleTitle: "UnitlessDefaultUnitType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Image property. Assumed unit type when UnitType is set to Unitless"
 type: docs
-weight: 100
-url: /net/aspose.cad/image/unitlessdefaultunittype/
+weight: 280
+url: "/net/aspose.cad/image/unitlessdefaultunittype/"
+product_version: "26.9"
 ---
 ## Image.UnitlessDefaultUnitType property
 
@@ -16,9 +19,8 @@ public virtual UnitType UnitlessDefaultUnitType { get; }
 
 ### See Also
 
-* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
-* class [Image](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
+* class [Image](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

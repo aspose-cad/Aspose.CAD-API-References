@@ -1,12 +1,17 @@
 ---
-title: LineType.WriteAsClearText
-second_title: Aspose.CAD for .NET API Reference
-description: LineType method. 
+title: "LineType.WriteAsClearText"
+linktitle: "WriteAsClearText"
+articleTitle: "WriteAsClearText"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LineType method."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cgm.commands/linetype/writeascleartext/
+url: "/net/aspose.cad.fileformats.cgm.commands/linetype/writeascleartext/"
+product_version: "26.9"
 ---
 ## LineType.WriteAsClearText method
+
+
 
 ```csharp
 public override void WriteAsClearText(IClearTextWriter writer)
@@ -14,9 +19,8 @@ public override void WriteAsClearText(IClearTextWriter writer)
 
 ### See Also
 
-* interface [IClearTextWriter](../../../aspose.cad.fileformats.cgm/icleartextwriter/)
-* class [LineType](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IClearTextWriter](../../../aspose.cad.fileformats.cgm/icleartextwriter/)
+* class [LineType](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,18 @@
 ---
-title: ObjImage.CacheData
-second_title: Aspose.CAD for .NET API Reference
-description: ObjImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer. Not implemented
+title: "ObjImage.CacheData"
+linktitle: "CacheData"
+articleTitle: "CacheData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer. Not implemented."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.obj/objimage/cachedata/
+weight: 30
+url: "/net/aspose.cad.fileformats.obj/objimage/cachedata/"
+product_version: "26.9"
 ---
 ## ObjImage.CacheData method
 
-Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamContainer`](../../../aspose.cad/datastreamsupporter/datastreamcontainer/). Not implemented.
+Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamContainer`](../../../aspose.cad/datastreamsupporter/datastreamcontainer/).
+ Not implemented.
 
 ```csharp
 public override void CacheData()
@@ -22,8 +26,7 @@ public override void CacheData()
 
 ### See Also
 
-* class [ObjImage](../)
-* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjImage](../)
+* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadTableNames.ViewPortTable
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableNames field. view ports table
+title: "CadTableNames.ViewPortTable"
+linktitle: "ViewPortTable"
+articleTitle: "ViewPortTable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableNames field. view ports table."
 type: docs
 weight: 250
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/viewporttable/
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/viewporttable/"
+product_version: "26.9"
 ---
 ## CadTableNames.ViewPortTable field
 
@@ -16,8 +19,7 @@ public const string ViewPortTable;
 
 ### See Also
 
-* class [CadTableNames](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableNames](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

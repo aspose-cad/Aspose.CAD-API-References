@@ -1,10 +1,13 @@
 ---
-title: TableStyleCellContent.Unknown1
-second_title: Aspose.CAD for .NET API Reference
-description: TableStyleCellContent property. The Unknown1 parameter
+title: "TableStyleCellContent.Unknown1"
+linktitle: "Unknown1"
+articleTitle: "Unknown1"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableStyleCellContent property. The Unknown1 parameter"
 type: docs
-weight: 250
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/unknown1/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellcontent/unknown1/"
+product_version: "26.9"
 ---
 ## TableStyleCellContent.Unknown1 property
 
@@ -16,8 +19,7 @@ public int Unknown1 { get; set; }
 
 ### See Also
 
-* class [TableStyleCellContent](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableStyleCellContent](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Cad.CadConsts
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains Cad file format constants
+title: "Aspose.CAD.FileFormats.Cad.CadConsts"
+linktitle: "Aspose.CAD.FileFormats.Cad.CadConsts"
+articleTitle: "Aspose.CAD.FileFormats.Cad.CadConsts"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains Cad file format constants."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadconsts/
+weight: 10
+url: "/net/aspose.cad.fileformats.cad.cadconsts/"
+keywords: "Aspose.CAD.FileFormats.Cad.CadConsts, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains Cad file format constants.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -15,6 +23,7 @@ The namespace contains Cad file format constants.
 | [CadApplicationCodesContainerValues](./cadapplicationcodescontainervalues/) | Constants values for containers code values |
 | [CadCommon](./cadcommon/) | General constant values for Cad file format. |
 | [CadTableNames](./cadtablenames/) | The Cad table names. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -43,7 +52,16 @@ The namespace contains Cad file format constants.
 | [CadLineSpacing](./cadlinespacing/) | The Cad line spacing. |
 | [CadLineSpacingType](./cadlinespacingtype/) | Cad Line spacing enum |
 | [CadLineStyle](./cadlinestyle/) | Line style |
+| [CadLineTypeShapeFlag](./cadlinetypeshapeflag/) | Linetype shape flag. |
 | [CadLwPolylineFlag](./cadlwpolylineflag/) | The Cad LWPOLYLINE flags. |
+| [CadMaterialChannelFlag](./cadmaterialchannelflag/) | Flags indicating which texture channels are active for a [`CadMaterial`](../aspose.cad.fileformats.cad.cadobjects/cadmaterial/). Multiple flags can be combined. |
+| [CadMaterialColorMethod](./cadmaterialcolormethod/) | Defines the color method for a [`CadMaterialColor`](../aspose.cad.fileformats.cad.cadobjects/cadmaterialcolor/). |
+| [CadMaterialIlluminationModel](./cadmaterialilluminationmodel/) | Determines the shader used to render a [`CadMaterial`](../aspose.cad.fileformats.cad.cadobjects/cadmaterial/). The shader affects the color of light reflected from the material's surface. |
+| [CadMaterialMapAutoTransform](./cadmaterialmapautotransform/) | Specifies the automatic transform method for a [`CadMaterialMap`](../aspose.cad.fileformats.cad.cadobjects/cadmaterialmap/). |
+| [CadMaterialMapProjection](./cadmaterialmapprojection/) | Specifies the texture projection method for a [`CadMaterialMap`](../aspose.cad.fileformats.cad.cadobjects/cadmaterialmap/). |
+| [CadMaterialMapSource](./cadmaterialmapsource/) | Specifies the texture source for a [`CadMaterialMap`](../aspose.cad.fileformats.cad.cadobjects/cadmaterialmap/). |
+| [CadMaterialMapTiling](./cadmaterialmaptiling/) | Specifies the tiling method for a [`CadMaterialMap`](../aspose.cad.fileformats.cad.cadobjects/cadmaterialmap/). |
+| [CadMaterialMode](./cadmaterialmode/) | Determines the rendering mode of a [`CadMaterial`](../aspose.cad.fileformats.cad.cadobjects/cadmaterial/). Controls which set of material properties is used by the renderer. |
 | [CadMultiLineFlag](./cadmultilineflag/) | The Cad MULTILINE flags. |
 | [CadObjectTypeName](./cadobjecttypename/) | Contains Object names |
 | [CadOrdinate](./cadordinate/) | Cad Ordinate position |
@@ -58,6 +76,7 @@ The namespace contains Cad file format constants.
 | [CadShadePlotMode](./cadshadeplotmode/) | ShadePlot mode. [`CadPlotSettings`](../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/) |
 | [CadShadePlotResolutionLevel](./cadshadeplotresolutionlevel/) | ShadePlot resolution level. [`CadPlotSettings`](../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/) |
 | [CadShadowMode](./cadshadowmode/) | Shadow enumeration |
+| [CadTableBorderOverrideFlag](./cadtableborderoverrideflag/) | Specifies the flags that indicate which border override values are present for different sections, orientations, and positions of a table entity. These flags can be used for overrides of color, line weight, or visibility. |
+| [CadTableOptionFlag](./cadtableoptionflag/) | Table option flag |
 | [CadTableSymbols](./cadtablesymbols/) | Contains TABLE Types |
-
 

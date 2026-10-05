@@ -1,10 +1,13 @@
 ---
-title: CadAppIdTableObject.ApplicationFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadAppIdTableObject property. Gets or sets the application flag
+title: "CadAppIdTableObject.ApplicationFlag"
+linktitle: "ApplicationFlag"
+articleTitle: "ApplicationFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAppIdTableObject property. Gets or sets the application flag."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadtables/cadappidtableobject/applicationflag/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadappidtableobject/applicationflag/"
+product_version: "26.9"
 ---
 ## CadAppIdTableObject.ApplicationFlag property
 
@@ -16,8 +19,7 @@ public short ApplicationFlag { get; set; }
 
 ### See Also
 
-* class [CadAppIdTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAppIdTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DwfLayersList.CopyTo
-second_title: Aspose.CAD for .NET API Reference
-description: DwfLayersList method. Copies the elements of DwfLayersList to an System.Array starting at a particular System.Array index
+title: "DwfLayersList.CopyTo"
+linktitle: "CopyTo"
+articleTitle: "CopyTo"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfLayersList method. Copies the elements of DwfLayersList to an System.Array, starting at a particular System.Array index."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.dwf/dwflayerslist/copyto/
+weight: 90
+url: "/net/aspose.cad.fileformats.dwf/dwflayerslist/copyto/"
+product_version: "26.9"
 ---
 ## DwfLayersList.CopyTo method
 
@@ -21,9 +24,8 @@ public void CopyTo(DwfWhipLayer[] array, int arrayIndex)
 
 ### See Also
 
-* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
-* class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
+* class [DwfLayersList](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

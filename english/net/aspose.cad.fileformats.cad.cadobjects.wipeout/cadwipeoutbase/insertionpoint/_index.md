@@ -1,10 +1,13 @@
 ---
-title: CadWipeoutBase.InsertionPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadWipeoutBase property. Gets or sets the insertion point
+title: "CadWipeoutBase.InsertionPoint"
+linktitle: "InsertionPoint"
+articleTitle: "InsertionPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadWipeoutBase property. Gets or sets the insertion point."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/insertionpoint/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutbase/insertionpoint/"
+product_version: "26.9"
 ---
 ## CadWipeoutBase.InsertionPoint property
 
@@ -16,9 +19,8 @@ public virtual Cad3DPoint InsertionPoint { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [CadWipeoutBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [CadWipeoutBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
+* assembly [Aspose.CAD](../../../)
 

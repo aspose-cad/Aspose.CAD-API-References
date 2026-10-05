@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.CanRead
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer property. Gets a value indicating whether stream supports reading
+title: "StreamContainer.CanRead"
+linktitle: "CanRead"
+articleTitle: "CanRead"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer property. Gets a value indicating whether stream supports reading."
 type: docs
-weight: 20
-url: /net/aspose.cad/streamcontainer/canread/
+weight: 280
+url: "/net/aspose.cad/streamcontainer/canread/"
+product_version: "26.9"
 ---
 ## StreamContainer.CanRead property
 
@@ -20,8 +23,7 @@ public virtual bool CanRead { get; }
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

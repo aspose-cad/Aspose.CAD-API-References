@@ -1,10 +1,13 @@
 ---
-title: ResourceBlock.ID
-second_title: Aspose.CAD for .NET API Reference
-description: ResourceBlock property. Gets or sets the unique identifier for the resource
+title: "ResourceBlock.ID"
+linktitle: "ID"
+articleTitle: "ID"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ResourceBlock property. Gets or sets the unique identifier for the resource."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.psd/resourceblock/id/
+weight: 40
+url: "/net/aspose.cad.fileformats.psd/resourceblock/id/"
+product_version: "26.9"
 ---
 ## ResourceBlock.ID property
 
@@ -20,8 +23,7 @@ The unique identifier for the resource.
 
 ### See Also
 
-* class [ResourceBlock](../)
-* namespace [Aspose.CAD.FileFormats.Psd](../../../aspose.cad.fileformats.psd/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ResourceBlock](../)
+* namespace [Aspose.CAD.FileFormats.Psd](../../../aspose.cad.fileformats.psd/)
+* assembly [Aspose.CAD](../../../)
 

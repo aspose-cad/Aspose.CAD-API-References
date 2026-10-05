@@ -1,10 +1,13 @@
 ---
-title: CadVportTableObject.SoftFrozenLayerObject
-second_title: Aspose.CAD for .NET API Reference
-description: CadVportTableObject property. Gets or sets the soft frozen layer object
+title: "CadVportTableObject.SoftFrozenLayerObject"
+linktitle: "SoftFrozenLayerObject"
+articleTitle: "SoftFrozenLayerObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVportTableObject property. Gets or sets the soft frozen layer object."
 type: docs
-weight: 310
-url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/softfrozenlayerobject/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/softfrozenlayerobject/"
+product_version: "26.9"
 ---
 ## CadVportTableObject.SoftFrozenLayerObject property
 
@@ -20,8 +23,7 @@ The soft frozen layer object.
 
 ### See Also
 
-* class [CadVportTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVportTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

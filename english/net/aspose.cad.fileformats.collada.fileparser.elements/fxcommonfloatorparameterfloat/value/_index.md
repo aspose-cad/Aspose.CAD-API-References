@@ -1,10 +1,13 @@
 ---
-title: FxCommonFloatOrParameterFloat.Value
-second_title: Aspose.CAD for .NET API Reference
-description: FxCommonFloatOrParameterFloat property. Gets or sets the value as text
+title: "FxCommonFloatOrParameterFloat.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FxCommonFloatOrParameterFloat property. Gets or sets the value as text."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterfloat/value/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/fxcommonfloatorparameterfloat/value/"
+product_version: "26.9"
 ---
 ## FxCommonFloatOrParameterFloat.Value property
 
@@ -16,8 +19,7 @@ public string Value { get; set; }
 
 ### See Also
 
-* class [FxCommonFloatOrParameterFloat](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonFloatOrParameterFloat](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

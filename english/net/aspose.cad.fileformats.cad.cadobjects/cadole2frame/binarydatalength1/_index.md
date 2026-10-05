@@ -1,10 +1,13 @@
 ---
-title: CadOle2Frame.BinaryDataLength1
-second_title: Aspose.CAD for .NET API Reference
-description: CadOle2Frame property. Gets or sets the binary data length1
+title: "CadOle2Frame.BinaryDataLength1"
+linktitle: "BinaryDataLength1"
+articleTitle: "BinaryDataLength1"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadOle2Frame property. Gets or sets the binary data length1."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/binarydatalength1/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/binarydatalength1/"
+product_version: "26.9"
 ---
 ## CadOle2Frame.BinaryDataLength1 property
 
@@ -20,8 +23,7 @@ The binary data length1.
 
 ### See Also
 
-* class [CadOle2Frame](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadOle2Frame](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

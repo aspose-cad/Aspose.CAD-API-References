@@ -1,10 +1,13 @@
 ---
-title: TiffRational.TiffRational
-second_title: Aspose.CAD for .NET API Reference
-description: TiffRational constructor. Initializes a new instance of the TiffRational class
+title: "TiffRational.TiffRational"
+linktitle: "TiffRational"
+articleTitle: "TiffRational"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffRational constructor. Initializes a new instance of the TiffRational class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.tiff/tiffrational/tiffrational/
+url: "/net/aspose.cad.fileformats.tiff/tiffrational/tiffrational/"
+product_version: "26.9"
 ---
 ## TiffRational() {#constructor}
 
@@ -16,15 +19,17 @@ public TiffRational()
 
 ### See Also
 
-* class [TiffRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
+* class [TiffRational](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
 ## TiffRational(uint) {#constructor_1}
 
 Initializes a new instance of the [`TiffRational`](../) class.
+
+The nominator will be used as the value specified and denominator will be equal 1.
 
 ```csharp
 public TiffRational(uint value)
@@ -34,19 +39,15 @@ public TiffRational(uint value)
 | --- | --- | --- |
 | value | UInt32 | The nominator value. |
 
-## Remarks
-
-The nominator will be used as the value specified and denominator will be equal 1.
-
 ### See Also
 
-* class [TiffRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
+* class [TiffRational](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## TiffRational(uint, uint) {#constructor_2}
+## TiffRational(uint, uint) {#constructor_2}
 
 Initializes a new instance of the [`TiffRational`](../) class.
 
@@ -61,8 +62,7 @@ public TiffRational(uint nominator, uint denominator)
 
 ### See Also
 
-* class [TiffRational](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

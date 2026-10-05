@@ -1,10 +1,13 @@
 ---
-title: CameraOpticsTechniqueCommonOrthographic.Items
-second_title: Aspose.CAD for .NET API Reference
-description: CameraOpticsTechniqueCommonOrthographic property. Gets or sets the items
+title: "CameraOpticsTechniqueCommonOrthographic.Items"
+linktitle: "Items"
+articleTitle: "Items"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CameraOpticsTechniqueCommonOrthographic property. Gets or sets the items."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommonorthographic/items/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/cameraopticstechniquecommonorthographic/items/"
+product_version: "26.9"
 ---
 ## CameraOpticsTechniqueCommonOrthographic.Items property
 
@@ -16,9 +19,8 @@ public TargetableFloat[] Items { get; set; }
 
 ### See Also
 
-* class [TargetableFloat](../../targetablefloat/)
-* class [CameraOpticsTechniqueCommonOrthographic](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TargetableFloat](../../targetablefloat/)
+* class [CameraOpticsTechniqueCommonOrthographic](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

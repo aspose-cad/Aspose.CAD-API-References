@@ -1,12 +1,17 @@
 ---
-title: HatchStyleDefinition.HatchStyleDefinition
-second_title: Aspose.CAD for .NET API Reference
-description: HatchStyleDefinition constructor. 
+title: "HatchStyleDefinition.HatchStyleDefinition"
+linktitle: "HatchStyleDefinition"
+articleTitle: "HatchStyleDefinition"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "HatchStyleDefinition constructor. Initializes a new instance of the HatchStyleDefinition class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cgm.commands/hatchstyledefinition/hatchstyledefinition/
+url: "/net/aspose.cad.fileformats.cgm.commands/hatchstyledefinition/hatchstyledefinition/"
+product_version: "26.9"
 ---
 ## HatchStyleDefinition(CgmFile) {#constructor}
+
+Initializes a new instance of the HatchStyleDefinition class.
 
 ```csharp
 public HatchStyleDefinition(CgmFile container)
@@ -14,14 +19,16 @@ public HatchStyleDefinition(CgmFile container)
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* class [HatchStyleDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [HatchStyleDefinition](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## HatchStyleDefinition(CgmFile, int, HatchStyle, double, double, double, double, double, int[], int[]) {#constructor_1}
+## HatchStyleDefinition(CgmFile, int, HatchStyle, double, double, double, double, double, int[], int[]) {#constructor_1}
+
+Initializes a new instance of the HatchStyleDefinition class.
 
 ```csharp
 public HatchStyleDefinition(CgmFile container, int index, HatchStyle style, double firstX, 
@@ -31,10 +38,9 @@ public HatchStyleDefinition(CgmFile container, int index, HatchStyle style, doub
 
 ### See Also
 
-* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
-* enum [HatchStyle](../../hatchstyledefinition.hatchstyle/)
-* class [HatchStyleDefinition](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* enum [HatchStyle](../../hatchstyledefinition.hatchstyle/)
+* class [HatchStyleDefinition](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: BitmapImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: BitmapImage property. Gets the image width
+title: "BitmapImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BitmapImage property. Gets the image width."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.bitmap/bitmapimage/width/
+weight: 20
+url: "/net/aspose.cad.fileformats.bitmap/bitmapimage/width/"
+product_version: "26.9"
 ---
 ## BitmapImage.Width property
 
@@ -20,8 +23,7 @@ The image width.
 
 ### See Also
 
-* class [BitmapImage](../)
-* namespace [Aspose.CAD.FileFormats.Bitmap](../../../aspose.cad.fileformats.bitmap/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BitmapImage](../)
+* namespace [Aspose.CAD.FileFormats.Bitmap](../../../aspose.cad.fileformats.bitmap/)
+* assembly [Aspose.CAD](../../../)
 

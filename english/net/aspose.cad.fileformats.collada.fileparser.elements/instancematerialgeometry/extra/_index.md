@@ -1,10 +1,13 @@
 ---
-title: InstanceMaterialGeometry.Extra
-second_title: Aspose.CAD for .NET API Reference
-description: InstanceMaterialGeometry property. Gets or sets the extra
+title: "InstanceMaterialGeometry.Extra"
+linktitle: "Extra"
+articleTitle: "Extra"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "InstanceMaterialGeometry property. Gets or sets the extra."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/extra/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/instancematerialgeometry/extra/"
+product_version: "26.9"
 ---
 ## InstanceMaterialGeometry.Extra property
 
@@ -16,9 +19,8 @@ public Extra[] Extra { get; set; }
 
 ### See Also
 
-* class [Extra](../../extra/)
-* class [InstanceMaterialGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Extra](../../extra/)
+* class [InstanceMaterialGeometry](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

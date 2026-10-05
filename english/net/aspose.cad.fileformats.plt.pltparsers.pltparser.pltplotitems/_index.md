@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains file handling classes for PLT plot elements
+title: "Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems"
+linktitle: "Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems"
+articleTitle: "Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains file handling classes for PLT plot elements."
 type: docs
-weight: 1040
-url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/
+weight: 10
+url: "/net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/"
+keywords: "Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains file handling classes for PLT plot elements.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -24,5 +32,4 @@ The namespace contains file handling classes for PLT plot elements.
 | [PltPlotPoint](./pltplotpoint/) | The PLT plot Point object. |
 | [PltPlotRectangle](./pltplotrectangle/) | The PLT plot rectangle. |
 | [PltPlotWedge](./pltplotwedge/) | The PLT plot wedge. |
-
 

@@ -1,14 +1,19 @@
 ---
-title: Class SurfaceCurves
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.SurfaceCurves class. The surface curves. The curves in the parametric space of the surface on which they lie
+title: "SurfaceCurves Class"
+linktitle: "SurfaceCurves"
+articleTitle: "SurfaceCurves"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.SurfaceCurves class. The surface curves. The curves in the parametric space of the surface on which they lie."
 type: docs
-weight: 8450
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/surfacecurves/
+weight: 1140
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/surfacecurves/"
+keywords: "SurfaceCurves, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## SurfaceCurves class
 
-The surface curves. The curves in the parametric space of the surface on which they lie.
+The surface curves.
+ The curves in the parametric space of the surface on which they lie.
 
 ```csharp
 public class SurfaceCurves : ColladaElement
@@ -24,13 +29,12 @@ public class SurfaceCurves : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Curve](../../aspose.cad.fileformats.collada.fileparser.elements/surfacecurves/curve/) { get; set; } | Gets or sets the curve. Describes a single 2D curve. |
-| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/surfacecurves/extra/) { get; set; } | Gets or sets the extra. |
+| [Curve](../../aspose.cad.fileformats.collada.fileparser.elements/surfacecurves/curve/) { get; set; } | Gets or sets the curve. Describes a single 2D curve. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/surfacecurves/extra/) { get; set; } | Gets or sets the extra. |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IClearTextWriter.WriteLine
-second_title: Aspose.CAD for .NET API Reference
-description: IClearTextWriter method. Writes the line to the text file
+title: "IClearTextWriter.WriteLine"
+linktitle: "WriteLine"
+articleTitle: "WriteLine"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IClearTextWriter method. Writes the line to the text file"
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cgm/icleartextwriter/writeline/
+weight: 10
+url: "/net/aspose.cad.fileformats.cgm/icleartextwriter/writeline/"
+product_version: "26.9"
 ---
 ## IClearTextWriter.WriteLine method
 
@@ -20,8 +23,7 @@ public void WriteLine(string line)
 
 ### See Also
 
-* interface [IClearTextWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IClearTextWriter](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

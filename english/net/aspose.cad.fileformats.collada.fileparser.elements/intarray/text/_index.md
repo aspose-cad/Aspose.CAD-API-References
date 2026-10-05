@@ -1,10 +1,13 @@
 ---
-title: IntArray.Text
-second_title: Aspose.CAD for .NET API Reference
-description: IntArray property. Gets or sets the value as text
+title: "IntArray.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IntArray property. Gets or sets the value as text."
 type: docs
 weight: 70
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/intarray/text/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/intarray/text/"
+product_version: "26.9"
 ---
 ## IntArray.Text property
 
@@ -16,8 +19,7 @@ public string Text { get; set; }
 
 ### See Also
 
-* class [IntArray](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IntArray](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PolyBezierSegment.PolyBezierSegment
-second_title: Aspose.CAD for .NET API Reference
-description: PolyBezierSegment constructor. Initializes a new instance of the PolyBezierSegment class
+title: "PolyBezierSegment.PolyBezierSegment"
+linktitle: "PolyBezierSegment"
+articleTitle: "PolyBezierSegment"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PolyBezierSegment constructor. Initializes a new instance of the PolyBezierSegment class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polybeziersegment/polybeziersegment/
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polybeziersegment/polybeziersegment/"
+product_version: "26.9"
 ---
 ## PolyBezierSegment constructor
 
@@ -16,8 +19,7 @@ public PolyBezierSegment()
 
 ### See Also
 
-* class [PolyBezierSegment](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PolyBezierSegment](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../../)
 

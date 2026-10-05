@@ -1,14 +1,19 @@
 ---
-title: DwfImage.GetStrings
-second_title: Aspose.CAD for .NET API Reference
-description: DwfImage method. Gets all string values from image. Provides an opportunity to get the values of all text graphic elements present in the image in the form of an array of strings
+title: "DwfImage.GetStrings"
+linktitle: "GetStrings"
+articleTitle: "GetStrings"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfImage method. Gets all string values from image. Provides an opportunity to get the values of all text graphic elements present in the image in the form o..."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.dwf/dwfimage/getstrings/
+weight: 60
+url: "/net/aspose.cad.fileformats.dwf/dwfimage/getstrings/"
+product_version: "26.9"
 ---
 ## DwfImage.GetStrings method
 
-Gets all string values from image. Provides an opportunity to get the values of all text graphic elements present in the image in the form of an array of strings.
+Gets all string values from image.
+ Provides an opportunity to get the values of all text graphic elements present
+ in the image in the form of an array of strings.
 
 ```csharp
 public override string[] GetStrings()
@@ -39,8 +44,7 @@ foreach (string s in result)
 
 ### See Also
 
-* class [DwfImage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfImage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

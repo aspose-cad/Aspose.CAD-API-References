@@ -1,10 +1,13 @@
 ---
-title: ThumbnailResource.ThumbnailResource
-second_title: Aspose.CAD for .NET API Reference
-description: ThumbnailResource constructor. Initializes a new instance of the ThumbnailResource class
+title: "ThumbnailResource.ThumbnailResource"
+linktitle: "ThumbnailResource"
+articleTitle: "ThumbnailResource"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThumbnailResource constructor. Initializes a new instance of the ThumbnailResource class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.psd.resources/thumbnailresource/thumbnailresource/
+url: "/net/aspose.cad.fileformats.psd.resources/thumbnailresource/thumbnailresource/"
+product_version: "26.9"
 ---
 ## ThumbnailResource constructor
 
@@ -16,8 +19,7 @@ public ThumbnailResource()
 
 ### See Also
 
-* class [ThumbnailResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThumbnailResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

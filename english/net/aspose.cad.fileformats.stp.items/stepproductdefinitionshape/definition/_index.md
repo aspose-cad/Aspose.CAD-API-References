@@ -1,12 +1,17 @@
 ---
-title: StepProductDefinitionShape.Definition
-second_title: Aspose.CAD for .NET API Reference
-description: StepProductDefinitionShape property. 
+title: "StepProductDefinitionShape.Definition"
+linktitle: "Definition"
+articleTitle: "Definition"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepProductDefinitionShape property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.stp.items/stepproductdefinitionshape/definition/
+weight: 30
+url: "/net/aspose.cad.fileformats.stp.items/stepproductdefinitionshape/definition/"
+product_version: "26.9"
 ---
 ## StepProductDefinitionShape.Definition property
+
+
 
 ```csharp
 public StepProductDefinition Definition { get; set; }
@@ -14,9 +19,8 @@ public StepProductDefinition Definition { get; set; }
 
 ### See Also
 
-* class [StepProductDefinition](../../stepproductdefinition/)
-* class [StepProductDefinitionShape](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepProductDefinition](../../stepproductdefinition/)
+* class [StepProductDefinitionShape](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

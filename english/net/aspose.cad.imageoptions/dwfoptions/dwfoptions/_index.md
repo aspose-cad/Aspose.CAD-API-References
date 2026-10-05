@@ -1,10 +1,13 @@
 ---
-title: DwfOptions.DwfOptions
-second_title: Aspose.CAD for .NET API Reference
-description: DwfOptions constructor. Initializes a new instance of the DwfOptions class
+title: "DwfOptions.DwfOptions"
+linktitle: "DwfOptions"
+articleTitle: "DwfOptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfOptions constructor. Initializes a new instance of the DwfOptions class."
 type: docs
 weight: 10
-url: /net/aspose.cad.imageoptions/dwfoptions/dwfoptions/
+url: "/net/aspose.cad.imageoptions/dwfoptions/dwfoptions/"
+product_version: "26.9"
 ---
 ## DwfOptions constructor
 
@@ -16,8 +19,7 @@ public DwfOptions()
 
 ### See Also
 
-* class [DwfOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

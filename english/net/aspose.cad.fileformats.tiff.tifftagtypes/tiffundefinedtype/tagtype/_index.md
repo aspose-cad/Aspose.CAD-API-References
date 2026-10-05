@@ -1,10 +1,13 @@
 ---
-title: TiffUndefinedType.TagType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffUndefinedType property. Gets the tag type
+title: "TiffUndefinedType.TagType"
+linktitle: "TagType"
+articleTitle: "TagType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffUndefinedType property. Gets the tag type."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/tagtype/
+weight: 60
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffundefinedtype/tagtype/"
+product_version: "26.9"
 ---
 ## TiffUndefinedType.TagType property
 
@@ -20,9 +23,8 @@ The tag type.
 
 ### See Also
 
-* enum [TiffDataTypes](../../../aspose.cad.fileformats.tiff.enums/tiffdatatypes/)
-* class [TiffUndefinedType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [TiffDataTypes](../../../aspose.cad.fileformats.tiff.enums/tiffdatatypes/)
+* class [TiffUndefinedType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

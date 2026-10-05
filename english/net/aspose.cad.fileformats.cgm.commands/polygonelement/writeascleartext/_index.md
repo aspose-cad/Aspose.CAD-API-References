@@ -1,12 +1,17 @@
 ---
-title: PolygonElement.WriteAsClearText
-second_title: Aspose.CAD for .NET API Reference
-description: PolygonElement method. 
+title: "PolygonElement.WriteAsClearText"
+linktitle: "WriteAsClearText"
+articleTitle: "WriteAsClearText"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PolygonElement method."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cgm.commands/polygonelement/writeascleartext/
+weight: 50
+url: "/net/aspose.cad.fileformats.cgm.commands/polygonelement/writeascleartext/"
+product_version: "26.9"
 ---
 ## PolygonElement.WriteAsClearText method
+
+
 
 ```csharp
 public override void WriteAsClearText(IClearTextWriter writer)
@@ -14,9 +19,8 @@ public override void WriteAsClearText(IClearTextWriter writer)
 
 ### See Also
 
-* interface [IClearTextWriter](../../../aspose.cad.fileformats.cgm/icleartextwriter/)
-* class [PolygonElement](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IClearTextWriter](../../../aspose.cad.fileformats.cgm/icleartextwriter/)
+* class [PolygonElement](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

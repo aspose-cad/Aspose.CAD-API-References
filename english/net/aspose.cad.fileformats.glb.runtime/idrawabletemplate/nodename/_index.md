@@ -1,12 +1,17 @@
 ---
-title: IDrawableTemplate.NodeName
-second_title: Aspose.CAD for .NET API Reference
-description: IDrawableTemplate property. 
+title: "IDrawableTemplate.NodeName"
+linktitle: "NodeName"
+articleTitle: "NodeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IDrawableTemplate property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.glb.runtime/idrawabletemplate/nodename/
+weight: 10
+url: "/net/aspose.cad.fileformats.glb.runtime/idrawabletemplate/nodename/"
+product_version: "26.9"
 ---
 ## IDrawableTemplate.NodeName property
+
+
 
 ```csharp
 public string NodeName { get; }
@@ -14,8 +19,7 @@ public string NodeName { get; }
 
 ### See Also
 
-* interface [IDrawableTemplate](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IDrawableTemplate](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: NonGenericList.Clear
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericList method. Removes all items from the IList
+title: "NonGenericList.Clear"
+linktitle: "Clear"
+articleTitle: "Clear"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericList method. Removes all items from the IList."
 type: docs
-weight: 90
-url: /net/aspose.cad/nongenericlist/clear/
+weight: 30
+url: "/net/aspose.cad/nongenericlist/clear/"
+product_version: "26.9"
 ---
 ## NonGenericList.Clear method
 
-Removes all items from the IList.
+Removes all items from the `IList`.
 
 ```csharp
 public void Clear()
@@ -16,8 +19,7 @@ public void Clear()
 
 ### See Also
 
-* class [NonGenericList](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericList](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

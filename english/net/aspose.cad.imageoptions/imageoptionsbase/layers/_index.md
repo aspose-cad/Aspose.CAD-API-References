@@ -1,14 +1,18 @@
 ---
-title: ImageOptionsBase.Layers
-second_title: Aspose.CAD for .NET API Reference
-description: ImageOptionsBase property. Gets or sets a of layer names must be exported. All data will be exported without layers if names is not sets
+title: "ImageOptionsBase.Layers"
+linktitle: "Layers"
+articleTitle: "Layers"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ImageOptionsBase property. Gets or sets a of layer names must be exported. All data will be exported without layers if names is not sets."
 type: docs
-weight: 20
-url: /net/aspose.cad.imageoptions/imageoptionsbase/layers/
+weight: 40
+url: "/net/aspose.cad.imageoptions/imageoptionsbase/layers/"
+product_version: "26.9"
 ---
 ## ImageOptionsBase.Layers property
 
-Gets or sets a of layer names must be exported. All data will be exported without layers if names is not sets.
+Gets or sets a of layer names must be exported.
+ All data will be exported without layers if names is not sets.
 
 ```csharp
 public string[] Layers { get; set; }
@@ -16,8 +20,7 @@ public string[] Layers { get; set; }
 
 ### See Also
 
-* class [ImageOptionsBase](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ImageOptionsBase](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

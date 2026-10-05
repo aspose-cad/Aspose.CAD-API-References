@@ -1,10 +1,13 @@
 ---
-title: CadSunStudy.ViewportsPerPage
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunStudy property. Gets or sets the viewports per page
+title: "CadSunStudy.ViewportsPerPage"
+linktitle: "ViewportsPerPage"
+articleTitle: "ViewportsPerPage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunStudy property. Gets or sets the viewports per page."
 type: docs
-weight: 270
-url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/viewportsperpage/
+weight: 210
+url: "/net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/viewportsperpage/"
+product_version: "26.9"
 ---
 ## CadSunStudy.ViewportsPerPage property
 
@@ -20,8 +23,7 @@ The viewports per page.
 
 ### See Also
 
-* class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunStudy](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
+* assembly [Aspose.CAD](../../../)
 

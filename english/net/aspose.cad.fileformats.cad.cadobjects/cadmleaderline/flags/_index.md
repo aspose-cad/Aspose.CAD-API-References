@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderLine.Flags
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderLine property. Gets or sets the flags
+title: "CadMLeaderLine.Flags"
+linktitle: "Flags"
+articleTitle: "Flags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderLine property. Gets or sets the flags."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/flags/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/flags/"
+product_version: "26.9"
 ---
 ## CadMLeaderLine.Flags property
 
@@ -16,8 +19,7 @@ public int Flags { get; set; }
 
 ### See Also
 
-* class [CadMLeaderLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

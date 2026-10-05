@@ -1,10 +1,13 @@
 ---
-title: CadHatch.HatchString
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the hatch string
+title: "CadHatch.HatchString"
+linktitle: "HatchString"
+articleTitle: "HatchString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the hatch string."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatchstring/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/hatchstring/"
+product_version: "26.9"
 ---
 ## CadHatch.HatchString property
 
@@ -20,8 +23,7 @@ The hatch string.
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

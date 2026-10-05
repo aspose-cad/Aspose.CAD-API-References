@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.ProxyBytesCount
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets the proxy bytes count
+title: "CadEntityBase.ProxyBytesCount"
+linktitle: "ProxyBytesCount"
+articleTitle: "ProxyBytesCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets the proxy bytes count."
 type: docs
-weight: 260
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/proxybytescount/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/proxybytescount/"
+product_version: "26.9"
 ---
 ## CadEntityBase.ProxyBytesCount property
 
@@ -24,8 +27,7 @@ Equals null if this entity is not a Proxy Entity.
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

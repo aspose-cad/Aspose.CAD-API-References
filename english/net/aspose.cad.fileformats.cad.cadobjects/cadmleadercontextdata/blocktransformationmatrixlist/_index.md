@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.BlockTransformationMatrixList
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets the block transformation matrix list
+title: "CadMLeaderContextData.BlockTransformationMatrixList"
+linktitle: "BlockTransformationMatrixList"
+articleTitle: "BlockTransformationMatrixList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets the block transformation matrix list."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/blocktransformationmatrixlist/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/blocktransformationmatrixlist/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.BlockTransformationMatrixList property
 
@@ -20,8 +23,7 @@ The block transformation matrix list.
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

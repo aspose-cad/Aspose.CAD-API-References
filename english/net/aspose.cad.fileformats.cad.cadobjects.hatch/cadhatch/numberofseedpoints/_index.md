@@ -1,10 +1,13 @@
 ---
-title: CadHatch.NumberOfSeedPoints
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the number of seed points
+title: "CadHatch.NumberOfSeedPoints"
+linktitle: "NumberOfSeedPoints"
+articleTitle: "NumberOfSeedPoints"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the number of seed points."
 type: docs
 weight: 240
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/numberofseedpoints/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/numberofseedpoints/"
+product_version: "26.9"
 ---
 ## CadHatch.NumberOfSeedPoints property
 
@@ -16,8 +19,7 @@ public int NumberOfSeedPoints { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

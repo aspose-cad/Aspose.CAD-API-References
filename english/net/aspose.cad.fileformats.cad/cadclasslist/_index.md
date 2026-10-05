@@ -1,10 +1,14 @@
 ---
-title: Class CadClassList
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadClassList class. CAD classes collection
+title: "CadClassList Class"
+linktitle: "CadClassList"
+articleTitle: "CadClassList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadClassList class. CAD classes collection"
 type: docs
-weight: 1150
-url: /net/aspose.cad.fileformats.cad/cadclasslist/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad/cadclasslist/"
+keywords: "CadClassList, Aspose.CAD.FileFormats.Cad, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadClassList class
 
@@ -28,8 +32,7 @@ public class CadClassList : List<CadClassEntity>, ICloneable
 
 ### See Also
 
-* class [CadClassEntity](../../aspose.cad.fileformats.cad.cadobjects/cadclassentity/)
-* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../)
-
+* class [CadClassEntity](../../aspose.cad.fileformats.cad.cadobjects/cadclassentity/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../)
 

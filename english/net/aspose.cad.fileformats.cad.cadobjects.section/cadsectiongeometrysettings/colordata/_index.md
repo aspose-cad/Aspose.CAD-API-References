@@ -1,10 +1,13 @@
 ---
-title: CadSectionGeometrySettings.ColorData
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionGeometrySettings property. Gets or sets the color data
+title: "CadSectionGeometrySettings.ColorData"
+linktitle: "ColorData"
+articleTitle: "ColorData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionGeometrySettings property. Gets or sets the color data."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/colordata/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/colordata/"
+product_version: "26.9"
 ---
 ## CadSectionGeometrySettings.ColorData property
 
@@ -20,8 +23,7 @@ The color data.
 
 ### See Also
 
-* class [CadSectionGeometrySettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionGeometrySettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadAttrib.AttributeFlags
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttrib property. Gets or sets the attribute flags
+title: "CadAttrib.AttributeFlags"
+linktitle: "AttributeFlags"
+articleTitle: "AttributeFlags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttrib property. Gets or sets the attribute flags."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/attributeflags/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/attributeflags/"
+product_version: "26.9"
 ---
 ## CadAttrib.AttributeFlags property
 
@@ -16,8 +19,7 @@ public short AttributeFlags { get; set; }
 
 ### See Also
 
-* class [CadAttrib](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAttrib](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

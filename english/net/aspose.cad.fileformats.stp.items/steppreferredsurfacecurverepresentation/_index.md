@@ -1,10 +1,13 @@
 ---
-title: Enum StepPreferredSurfaceCurveRepresentation
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Stp.Items.StepPreferredSurfaceCurveRepresentation enum. PreferredSurfaceCurveRepresentation enum for STP file
+title: "StepPreferredSurfaceCurveRepresentation Enum"
+linktitle: "StepPreferredSurfaceCurveRepresentation"
+articleTitle: "StepPreferredSurfaceCurveRepresentation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Stp.Items.StepPreferredSurfaceCurveRepresentation enum. PreferredSurfaceCurveRepresentation enum for STP file."
 type: docs
-weight: 34860
-url: /net/aspose.cad.fileformats.stp.items/steppreferredsurfacecurverepresentation/
+weight: 710
+url: "/net/aspose.cad.fileformats.stp.items/steppreferredsurfacecurverepresentation/"
+product_version: "26.9"
 ---
 ## StepPreferredSurfaceCurveRepresentation enumeration
 
@@ -24,7 +27,6 @@ public enum StepPreferredSurfaceCurveRepresentation
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: VectorRasterizationOptions.PageWidth
-second_title: Aspose.CAD for .NET API Reference
-description: VectorRasterizationOptions property. Gets or sets the page width
+title: "VectorRasterizationOptions.PageWidth"
+linktitle: "PageWidth"
+articleTitle: "PageWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "VectorRasterizationOptions property. Gets or sets the page width."
 type: docs
-weight: 130
-url: /net/aspose.cad.imageoptions/vectorrasterizationoptions/pagewidth/
+weight: 40
+url: "/net/aspose.cad.imageoptions/vectorrasterizationoptions/pagewidth/"
+product_version: "26.9"
 ---
 ## VectorRasterizationOptions.PageWidth property
 
@@ -16,8 +19,7 @@ public float PageWidth { get; set; }
 
 ### See Also
 
-* class [VectorRasterizationOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [VectorRasterizationOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

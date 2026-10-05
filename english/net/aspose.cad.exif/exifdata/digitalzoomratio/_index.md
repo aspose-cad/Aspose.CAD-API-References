@@ -1,10 +1,13 @@
 ---
-title: ExifData.DigitalZoomRatio
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the digital zoom ratio
+title: "ExifData.DigitalZoomRatio"
+linktitle: "DigitalZoomRatio"
+articleTitle: "DigitalZoomRatio"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the digital zoom ratio."
 type: docs
-weight: 160
-url: /net/aspose.cad.exif/exifdata/digitalzoomratio/
+weight: 210
+url: "/net/aspose.cad.exif/exifdata/digitalzoomratio/"
+product_version: "26.9"
 ---
 ## ExifData.DigitalZoomRatio property
 
@@ -20,9 +23,8 @@ The digital zoom ratio.
 
 ### See Also
 
-* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

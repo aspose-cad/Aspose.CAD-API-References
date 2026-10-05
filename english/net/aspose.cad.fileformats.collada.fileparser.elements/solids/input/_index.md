@@ -1,14 +1,19 @@
 ---
-title: Solids.Input
-second_title: Aspose.CAD for .NET API Reference
-description: Solids property. Gets or sets the input. One input elements is needed to define a solid by its shells. The second is need for the orientation of the shells
+title: "Solids.Input"
+linktitle: "Input"
+articleTitle: "Input"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Solids property. Gets or sets the input. One input elements is needed to define a solid by its shells. The second is need for the orientation of the shells."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/solids/input/
+weight: 20
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/solids/input/"
+product_version: "26.9"
 ---
 ## Solids.Input property
 
-Gets or sets the input. One input elements is needed to define a solid by its shells. The second is need for the orientation of the shells.
+Gets or sets the input.
+ One input elements is needed to define a solid by its shells.
+ The second is need for the orientation of the shells.
 
 ```csharp
 public InputLocalOffset[] Input { get; set; }
@@ -16,9 +21,8 @@ public InputLocalOffset[] Input { get; set; }
 
 ### See Also
 
-* class [InputLocalOffset](../../inputlocaloffset/)
-* class [Solids](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [InputLocalOffset](../../inputlocaloffset/)
+* class [Solids](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

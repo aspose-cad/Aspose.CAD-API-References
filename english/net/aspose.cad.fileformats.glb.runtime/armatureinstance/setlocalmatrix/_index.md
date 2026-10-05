@@ -1,10 +1,13 @@
 ---
-title: ArmatureInstance.SetLocalMatrix
-second_title: Aspose.CAD for .NET API Reference
-description: ArmatureInstance method. Sets the matrix of a bone
+title: "ArmatureInstance.SetLocalMatrix"
+linktitle: "SetLocalMatrix"
+articleTitle: "SetLocalMatrix"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ArmatureInstance method. Sets the matrix of a bone."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.glb.runtime/armatureinstance/setlocalmatrix/
+weight: 10
+url: "/net/aspose.cad.fileformats.glb.runtime/armatureinstance/setlocalmatrix/"
+product_version: "26.9"
 ---
 ## ArmatureInstance.SetLocalMatrix method
 
@@ -21,8 +24,7 @@ public void SetLocalMatrix(string name, Matrix4x4 localMatrix)
 
 ### See Also
 
-* class [ArmatureInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ArmatureInstance](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
+* assembly [Aspose.CAD](../../../)
 

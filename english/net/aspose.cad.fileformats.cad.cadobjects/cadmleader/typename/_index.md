@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader property. Gets the name of the type
+title: "CadMLeader.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader property. Gets the name of the type."
 type: docs
-weight: 400
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/typename/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/typename/"
+product_version: "26.9"
 ---
 ## CadMLeader.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

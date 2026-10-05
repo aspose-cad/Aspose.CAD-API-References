@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.Visible
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets a value indicating whether this CadEntityBase is visible
+title: "CadEntityBase.Visible"
+linktitle: "Visible"
+articleTitle: "Visible"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets a value indicating whether this CadEntityBase is visible."
 type: docs
-weight: 330
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/visible/
+weight: 240
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/visible/"
+product_version: "26.9"
 ---
 ## CadEntityBase.Visible property
 
@@ -20,8 +23,7 @@ public virtual short Visible { get; set; }
 
 ### See Also
 
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

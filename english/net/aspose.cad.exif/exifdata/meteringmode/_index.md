@@ -1,10 +1,13 @@
 ---
-title: ExifData.MeteringMode
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the metering mode
+title: "ExifData.MeteringMode"
+linktitle: "MeteringMode"
+articleTitle: "MeteringMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the metering mode."
 type: docs
-weight: 830
-url: /net/aspose.cad.exif/exifdata/meteringmode/
+weight: 850
+url: "/net/aspose.cad.exif/exifdata/meteringmode/"
+product_version: "26.9"
 ---
 ## ExifData.MeteringMode property
 
@@ -20,9 +23,8 @@ The metering mode.
 
 ### See Also
 
-* enum [ExifMeteringMode](../../../aspose.cad.exif.enums/exifmeteringmode/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ExifMeteringMode](../../../aspose.cad.exif.enums/exifmeteringmode/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

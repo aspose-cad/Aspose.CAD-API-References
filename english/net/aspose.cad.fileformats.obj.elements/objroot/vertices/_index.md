@@ -1,17 +1,20 @@
 ---
-title: ObjRoot.Vertices
-second_title: Aspose.CAD for .NET API Reference
-description: ObjRoot property. Gets or sets the vertices
+title: "ObjRoot.Vertices"
+linktitle: "Vertices"
+articleTitle: "Vertices"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjRoot property. Gets or sets the vertices."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.obj.elements/objroot/vertices/
+weight: 30
+url: "/net/aspose.cad.fileformats.obj.elements/objroot/vertices/"
+product_version: "26.9"
 ---
 ## ObjRoot.Vertices property
 
 Gets or sets the vertices.
 
 ```csharp
-public Dictionary<int, ObjVertex> Vertices { get; set; }
+public List<ObjVertex> Vertices { get; set; }
 ```
 
 ### Property Value
@@ -20,9 +23,8 @@ The vertices.
 
 ### See Also
 
-* class [ObjVertex](../../../aspose.cad.fileformats.obj.vertexdata/objvertex/)
-* class [ObjRoot](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjVertex](../../../aspose.cad.fileformats.obj.vertexdata/objvertex/)
+* class [ObjRoot](../)
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
+* assembly [Aspose.CAD](../../../)
 

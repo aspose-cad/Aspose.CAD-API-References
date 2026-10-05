@@ -1,14 +1,19 @@
 ---
-title: DwfImage.GetElementCount
-second_title: Aspose.CAD for .NET API Reference
-description: DwfImage method. Gets count of graphic elements from specified page. Provides the ability to determine the number of graphic elements on a specific image page. To get this value you need to specify the page index in the array Pages the number of elements of which you want to get
+title: "DwfImage.GetElementCount"
+linktitle: "GetElementCount"
+articleTitle: "GetElementCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfImage method. Gets count of graphic elements from specified page. Provides the ability to determine the number of graphic elements on a specific image pag..."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.dwf/dwfimage/getelementcount/
+weight: 30
+url: "/net/aspose.cad.fileformats.dwf/dwfimage/getelementcount/"
+product_version: "26.9"
 ---
 ## DwfImage.GetElementCount method
 
-Gets count of graphic elements from specified page. Provides the ability to determine the number of graphic elements on a specific image page. To get this value, you need to specify the page index in the array [`Pages`](../pages/), the number of elements of which you want to get.
+Gets count of graphic elements from specified page.
+ Provides the ability to determine the number of graphic elements on a specific image page.
+ To get this value, you need to specify the page index in the array [`Pages`](../pages/), the number of elements of which you want to get.
 
 ```csharp
 public int GetElementCount(int pageNumber)
@@ -49,8 +54,7 @@ using (FileStream stream = new FileStream(outFile, FileMode.Create))
 
 ### See Also
 
-* class [DwfImage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfImage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

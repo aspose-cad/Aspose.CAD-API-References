@@ -1,10 +1,13 @@
 ---
-title: ObjVertexIndex.VertexIndex
-second_title: Aspose.CAD for .NET API Reference
-description: ObjVertexIndex property. Gets or sets the vertex index
+title: "ObjVertexIndex.VertexIndex"
+linktitle: "VertexIndex"
+articleTitle: "VertexIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjVertexIndex property. Gets or sets the vertex index."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.obj.vertexdata.index/objvertexindex/vertexindex/
+url: "/net/aspose.cad.fileformats.obj.vertexdata.index/objvertexindex/vertexindex/"
+product_version: "26.9"
 ---
 ## ObjVertexIndex.VertexIndex property
 
@@ -16,8 +19,7 @@ public int VertexIndex { get; set; }
 
 ### See Also
 
-* class [ObjVertexIndex](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../../aspose.cad.fileformats.obj.vertexdata.index/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjVertexIndex](../)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData.Index](../../../aspose.cad.fileformats.obj.vertexdata.index/)
+* assembly [Aspose.CAD](../../../)
 

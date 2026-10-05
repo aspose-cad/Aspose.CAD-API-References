@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Cad.CadObjects
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains Cad file format base entities
+title: "Aspose.CAD.FileFormats.Cad.CadObjects"
+linktitle: "Aspose.CAD.FileFormats.Cad.CadObjects"
+articleTitle: "Aspose.CAD.FileFormats.Cad.CadObjects"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains Cad file format base entities."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects/
+weight: 10
+url: "/net/aspose.cad.fileformats.cad.cadobjects/"
+keywords: "Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains Cad file format base entities.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -17,12 +25,12 @@ The namespace contains Cad file format base entities.
 | [Cad3DFace](./cad3dface/) | Class that describes 3DFACE entity |
 | [Cad3DPoint](./cad3dpoint/) | The Cad point. |
 | [Cad3DSolid](./cad3dsolid/) | Class describing Cad 3DSolid |
-| [CadAcadEvaluationGraph](./cadacadevaluationgraph/) | Class describing ACAD_EVALUATION_GRAPH object. |
-| [CadAcadProxyEntity](./cadacadproxyentity/) | Class describing CadAcadProxyEntity |
-| [CadAcDbAssocNetwork](./cadacdbassocnetwork/) | Class describing Ac Db Assoc Network. |
-| [CadAcDbAssocVariable](./cadacdbassocvariable/) | Class describing Ac Db Assoc Network. |
 | [CadAcDbBlockRepresentationData](./cadacdbblockrepresentationdata/) | Class describing ACDB_BLOCKREPRESENTATION_DATA object. |
 | [CadAcDbDynamicBlockPurgePreventerVersion](./cadacdbdynamicblockpurgepreventerversion/) | Class describing ACDB_DYNAMICBLOCKPURGEPREVENTER_VERSION object. |
+| [CadAcadEvaluationGraph](./cadacadevaluationgraph/) | Class describing ACAD_EVALUATION_GRAPH object. |
+| [CadAcadEvaluationGraphEdge](./cadacadevaluationgraphedge/) | Class describing Edges of ACAD_EVALUATION_GRAPH object. |
+| [CadAcadEvaluationGraphNode](./cadacadevaluationgraphnode/) | Class describing Nodes of ACAD_EVALUATION_GRAPH object. |
+| [CadAcadProxyEntity](./cadacadproxyentity/) | Class describing CadAcadProxyEntity |
 | [CadAcdsData](./cadacdsdata/) | Class describing CadAcdsData |
 | [CadAcdsRecord](./cadacdsrecord/) | Class describing CadAcdsRecord |
 | [CadAcdsSchema](./cadacdsschema/) | Class describing CadAcdsSchema |
@@ -88,17 +96,21 @@ The namespace contains Cad file format base entities.
 | [CadLine](./cadline/) | Class describing Cad line |
 | [CadLoftedSurface](./cadloftedsurface/) | The Cad lofted surface. |
 | [CadLwPolyline](./cadlwpolyline/) | Class describing Cad lwPolyline |
-| [CadMargin](./cadmargin/) | Class describing CadMargin |
-| [CadMaterial](./cadmaterial/) | Class describing CadMaterial |
-| [CadMesh](./cadmesh/) | Class describing CadMesh |
 | [CadMLeader](./cadmleader/) | Class describing Cad multileader |
 | [CadMLeaderBlock](./cadmleaderblock/) | Class describing MLeader block |
+| [CadMLeaderContextBreak](./cadmleadercontextbreak/) | Class describing a single break of a multileader landing or of a multileader line. |
+| [CadMLeaderContextBreakInfo](./cadmleadercontextbreakinfo/) | Class describing the breaks of a single segment of a multileader line. |
 | [CadMLeaderContextData](./cadmleadercontextdata/) | Class describing context data for multileader |
 | [CadMLeaderLine](./cadmleaderline/) | Class describing Cad multileader line |
 | [CadMLeaderNode](./cadmleadernode/) | Class describing Cad multileader node |
 | [CadMLeaderStyle](./cadmleaderstyle/) | Class describing CadMLeaderStyle |
 | [CadMLeaderStyleObject](./cadmleaderstyleobject/) | The Cad MLeaderStyle. |
 | [CadMText](./cadmtext/) | Class describing Cad Mtext |
+| [CadMargin](./cadmargin/) | Class describing CadMargin |
+| [CadMaterial](./cadmaterial/) | Class describing CadMaterial |
+| [CadMaterialColor](./cadmaterialcolor/) | Represents the color of a single material component, such as diffuse, ambient or specular. |
+| [CadMaterialMap](./cadmaterialmap/) | Represents a material component map that defines the texture source and controls how it is projected, tiled, and transformed on an object surface. |
+| [CadMesh](./cadmesh/) | Class describing CadMesh |
 | [CadMultiLine](./cadmultiline/) | The Cad multi line. |
 | [CadMultiLineVectorBlock](./cadmultilinevectorblock/) | Cad mline vector block |
 | [CadObjectAttribute](./cadobjectattribute/) | CadObjectAttribute |
@@ -121,6 +133,7 @@ The namespace contains Cad file format base entities.
 | [CadRegion](./cadregion/) | The region entity |
 | [CadRevolvedSurface](./cadrevolvedsurface/) | The Cad revolved surface. |
 | [CadRotatedDimension](./cadrotateddimension/) | The Cad rotated dimension. |
+| [CadScale](./cadscale/) | Class describing CadScale object. |
 | [CadSection](./cadsection/) | Class describing CadSection |
 | [CadSectionViewStyle](./cadsectionviewstyle/) | Class describing CadSectionViewStyle |
 | [CadSeqend](./cadseqend/) | Class describing Cad SEQEND. For CadConsts.CadSubClassName.SEQEND type. |
@@ -148,21 +161,22 @@ The namespace contains Cad file format base entities.
 | [CadVisualStyle](./cadvisualstyle/) | Class describing CadVisualStyle |
 | [CadVloVlObject](./cadvlovlobject/) | Class describing VLO-VL object (unknown object) |
 | [CadWipeoutVariables](./cadwipeoutvariables/) | Class describing WIPEOUTVARIABLES object. |
-| [CadXdata](./cadxdata/) | The Cad xdata. |
-| [CadXdataContainer](./cadxdatacontainer/) | The Xdata Container |
 | [CadXLine](./cadxline/) | Class describing CadXLine |
 | [CadXRecord](./cadxrecord/) | Class describing CadXRecord |
+| [CadXdata](./cadxdata/) | The Cad xdata. |
+| [CadXdataContainer](./cadxdatacontainer/) | The Xdata Container |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [ICadObjectContainer](./icadobjectcontainer/) | Base interface for Cad objects |
 | [ISummaryInfo](./isummaryinfo/) | The Cad SummaryInfo interface. |
+
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
 | [CadClassTypeName](./cadclasstypename/) | The Cad class type names. |
 | [UnderlayFlags](./underlayflags/) | Underlay Flags |
-
 

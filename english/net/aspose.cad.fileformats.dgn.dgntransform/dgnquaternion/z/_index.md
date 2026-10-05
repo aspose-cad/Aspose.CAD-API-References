@@ -1,10 +1,13 @@
 ---
-title: DgnQuaternion.Z
-second_title: Aspose.CAD for .NET API Reference
-description: DgnQuaternion property. Gets the z
+title: "DgnQuaternion.Z"
+linktitle: "Z"
+articleTitle: "Z"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnQuaternion property. Gets the z."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/z/
+url: "/net/aspose.cad.fileformats.dgn.dgntransform/dgnquaternion/z/"
+product_version: "26.9"
 ---
 ## DgnQuaternion.Z property
 
@@ -20,8 +23,7 @@ The z value.
 
 ### See Also
 
-* class [DgnQuaternion](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnQuaternion](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnTransform](../../../aspose.cad.fileformats.dgn.dgntransform/)
+* assembly [Aspose.CAD](../../../)
 

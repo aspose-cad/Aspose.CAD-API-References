@@ -1,12 +1,17 @@
 ---
-title: Enum Matrix4x4Factory.MatrixCheck
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Transforms.Matrix4x4FactoryMatrixCheck enum. 
+title: "Matrix4x4Factory.MatrixCheck Enum"
+linktitle: "Matrix4x4Factory.MatrixCheck"
+articleTitle: "Matrix4x4Factory.MatrixCheck"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Transforms.Matrix4x4Factory.MatrixCheck enum."
 type: docs
-weight: 11630
-url: /net/aspose.cad.fileformats.glb.transforms/matrix4x4factory.matrixcheck/
+weight: 50
+url: "/net/aspose.cad.fileformats.glb.transforms/matrix4x4factory.matrixcheck/"
+product_version: "26.9"
 ---
 ## Matrix4x4Factory.MatrixCheck enumeration
+
+
 
 ```csharp
 [Flags]
@@ -31,8 +36,7 @@ public enum MatrixCheck
 
 ### See Also
 
-* class [Matrix4x4Factory](../matrix4x4factory/)
-* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../aspose.cad.fileformats.glb.transforms/)
-* assembly [Aspose.CAD](../../)
-
+* class [Matrix4x4Factory](../matrix4x4factory/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../aspose.cad.fileformats.glb.transforms/)
+* assembly [Aspose.CAD](../../)
 

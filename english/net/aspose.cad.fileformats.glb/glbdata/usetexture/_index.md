@@ -1,14 +1,18 @@
 ---
-title: GlbData.UseTexture
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Creates or reuses a Texture instance at LogicalTextures
+title: "GlbData.UseTexture"
+linktitle: "UseTexture"
+articleTitle: "UseTexture"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Creates or reuses a Texture instance at LogicalTextures."
 type: docs
-weight: 530
-url: /net/aspose.cad.fileformats.glb/glbdata/usetexture/
+weight: 350
+url: "/net/aspose.cad.fileformats.glb/glbdata/usetexture/"
+product_version: "26.9"
 ---
-## UseTexture(ImageGlb, TextureSampler) {#usetexture_1}
+## UseTexture(ImageGlb, TextureSampler) {#usetexture}
 
-Creates or reuses a [`Texture`](../../texture/) instance at [`LogicalTextures`](../logicaltextures/).
+Creates or reuses a [`Texture`](../../texture/) instance
+ at [`LogicalTextures`](../logicaltextures/).
 
 ```csharp
 public Texture UseTexture(ImageGlb primary, TextureSampler sampler = null)
@@ -25,18 +29,19 @@ A [`Texture`](../../texture/) instance.
 
 ### See Also
 
-* class [Texture](../../texture/)
-* class [ImageGlb](../../imageglb/)
-* class [TextureSampler](../../texturesampler/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
+* class [Texture](../../texture/)
+* class [ImageGlb](../../imageglb/)
+* class [TextureSampler](../../texturesampler/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## UseTexture(ImageGlb, ImageGlb, TextureSampler) {#usetexture}
+## UseTexture(ImageGlb, ImageGlb, TextureSampler) {#usetexture_1}
 
-Creates or reuses a [`Texture`](../../texture/) instance at [`LogicalTextures`](../logicaltextures/).
+Creates or reuses a [`Texture`](../../texture/) instance
+ at [`LogicalTextures`](../logicaltextures/).
 
 ```csharp
 public Texture UseTexture(ImageGlb primary, ImageGlb fallback, TextureSampler sampler = null)
@@ -54,11 +59,10 @@ A [`Texture`](../../texture/) instance.
 
 ### See Also
 
-* class [Texture](../../texture/)
-* class [ImageGlb](../../imageglb/)
-* class [TextureSampler](../../texturesampler/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Texture](../../texture/)
+* class [ImageGlb](../../imageglb/)
+* class [TextureSampler](../../texturesampler/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadBoundaryPathCircularArc.EndAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadBoundaryPathCircularArc property. Gets or sets the End angle
+title: "CadBoundaryPathCircularArc.EndAngle"
+linktitle: "EndAngle"
+articleTitle: "EndAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBoundaryPathCircularArc property. Gets or sets the End angle."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/endangle/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadboundarypathcirculararc/endangle/"
+product_version: "26.9"
 ---
 ## CadBoundaryPathCircularArc.EndAngle property
 
@@ -20,8 +23,7 @@ End angle.
 
 ### See Also
 
-* class [CadBoundaryPathCircularArc](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBoundaryPathCircularArc](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

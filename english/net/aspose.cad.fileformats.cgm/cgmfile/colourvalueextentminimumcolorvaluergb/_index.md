@@ -1,10 +1,13 @@
 ---
-title: CgmFile.ColourValueExtentMinimumColorValueRGB
-second_title: Aspose.CAD for .NET API Reference
-description: CgmFile property. Gets or sets the current reading MinimumColorValueRGB
+title: "CgmFile.ColourValueExtentMinimumColorValueRGB"
+linktitle: "ColourValueExtentMinimumColorValueRGB"
+articleTitle: "ColourValueExtentMinimumColorValueRGB"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmFile property. Gets or sets the current reading MinimumColorValueRGB"
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cgm/cgmfile/colourvalueextentminimumcolorvaluergb/
+weight: 180
+url: "/net/aspose.cad.fileformats.cgm/cgmfile/colourvalueextentminimumcolorvaluergb/"
+product_version: "26.9"
 ---
 ## CgmFile.ColourValueExtentMinimumColorValueRGB property
 
@@ -16,8 +19,7 @@ public int[] ColourValueExtentMinimumColorValueRGB { get; set; }
 
 ### See Also
 
-* class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

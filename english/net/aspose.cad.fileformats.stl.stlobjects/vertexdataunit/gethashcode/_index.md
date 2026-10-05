@@ -1,10 +1,13 @@
 ---
-title: VertexDataUnit.GetHashCode
-second_title: Aspose.CAD for .NET API Reference
-description: VertexDataUnit method. Gets hash code
+title: "VertexDataUnit.GetHashCode"
+linktitle: "GetHashCode"
+articleTitle: "GetHashCode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "VertexDataUnit method. Gets hash code."
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.stl.stlobjects/vertexdataunit/gethashcode/
+url: "/net/aspose.cad.fileformats.stl.stlobjects/vertexdataunit/gethashcode/"
+product_version: "26.9"
 ---
 ## VertexDataUnit.GetHashCode method
 
@@ -16,12 +19,11 @@ public override int GetHashCode()
 
 ### Return Value
 
-The Int32.
+The `Int32`.
 
 ### See Also
 
-* class [VertexDataUnit](../)
-* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [VertexDataUnit](../)
+* namespace [Aspose.CAD.FileFormats.Stl.StlObjects](../../../aspose.cad.fileformats.stl.stlobjects/)
+* assembly [Aspose.CAD](../../../)
 

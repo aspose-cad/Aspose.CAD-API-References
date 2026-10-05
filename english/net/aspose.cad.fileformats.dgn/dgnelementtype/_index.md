@@ -1,10 +1,13 @@
 ---
-title: Enum DgnElementType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElementType enum. Element type
+title: "DgnElementType Enum"
+linktitle: "DgnElementType"
+articleTitle: "DgnElementType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElementType enum. Element type"
 type: docs
-weight: 8730
-url: /net/aspose.cad.fileformats.dgn/dgnelementtype/
+weight: 70
+url: "/net/aspose.cad.fileformats.dgn/dgnelementtype/"
+product_version: "26.9"
 ---
 ## DgnElementType enumeration
 
@@ -55,7 +58,6 @@ public enum DgnElementType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../)
 

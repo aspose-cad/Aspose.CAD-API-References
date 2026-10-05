@@ -1,10 +1,13 @@
 ---
-title: Thumbnail4Resource.MinimalVersion
-second_title: Aspose.CAD for .NET API Reference
-description: Thumbnail4Resource property. Gets the minimal required psd version
+title: "Thumbnail4Resource.MinimalVersion"
+linktitle: "MinimalVersion"
+articleTitle: "MinimalVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Thumbnail4Resource property. Gets the minimal required psd version."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.psd.resources/thumbnail4resource/minimalversion/
+url: "/net/aspose.cad.fileformats.psd.resources/thumbnail4resource/minimalversion/"
+product_version: "26.9"
 ---
 ## Thumbnail4Resource.MinimalVersion property
 
@@ -20,8 +23,7 @@ The minimal psd version.
 
 ### See Also
 
-* class [Thumbnail4Resource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Thumbnail4Resource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ThreeDSImage.Depth
-second_title: Aspose.CAD for .NET API Reference
-description: ThreeDSImage property. Gets the image depth
+title: "ThreeDSImage.Depth"
+linktitle: "Depth"
+articleTitle: "Depth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThreeDSImage property. Gets the image depth."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.threeds/threedsimage/depth/
+weight: 60
+url: "/net/aspose.cad.fileformats.threeds/threedsimage/depth/"
+product_version: "26.9"
 ---
 ## ThreeDSImage.Depth property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's depth: " + drawing.Depth);
 
 ### See Also
 
-* class [ThreeDSImage](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ThreeDSImage](../)
+* namespace [Aspose.CAD.FileFormats.ThreeDS](../../../aspose.cad.fileformats.threeds/)
+* assembly [Aspose.CAD](../../../)
 

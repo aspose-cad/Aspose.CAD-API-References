@@ -1,10 +1,14 @@
 ---
-title: Class PltPlotLine
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotLine class. The PLT plot Line object
+title: "PltPlotLine Class"
+linktitle: "PltPlotLine"
+articleTitle: "PltPlotLine"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems.PltPlotLine class. The PLT plot Line object."
 type: docs
-weight: 34000
-url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotline/
+weight: 90
+url: "/net/aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotline/"
+keywords: "PltPlotLine, Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## PltPlotLine class
 
@@ -18,12 +22,11 @@ public class PltPlotLine : PltPlotObject
 
 | Name | Description |
 | --- | --- |
-| [Points](../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotline/points/) { get; } | Gets the points. |
+| [Points](../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotline/points/) { get; } | Gets the points. |
 
 ### See Also
 
-* class [PltPlotObject](../pltplotobject/)
-* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/)
-* assembly [Aspose.CAD](../../)
-
+* class [PltPlotObject](../pltplotobject/)
+* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/)
+* assembly [Aspose.CAD](../../)
 

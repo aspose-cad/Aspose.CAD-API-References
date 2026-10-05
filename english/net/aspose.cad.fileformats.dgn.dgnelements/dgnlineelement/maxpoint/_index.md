@@ -1,10 +1,13 @@
 ---
-title: DgnLineElement.MaxPoint
-second_title: Aspose.CAD for .NET API Reference
-description: DgnLineElement property. Gets the max point of object
+title: "DgnLineElement.MaxPoint"
+linktitle: "MaxPoint"
+articleTitle: "MaxPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnLineElement property. Gets the max point of object."
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/maxpoint/
+weight: 30
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnlineelement/maxpoint/"
+product_version: "26.9"
 ---
 ## DgnLineElement.MaxPoint property
 
@@ -20,9 +23,8 @@ Max point of object.
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [DgnLineElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [DgnLineElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadHatch.NumberOfBoundaries
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the number of boundaries
+title: "CadHatch.NumberOfBoundaries"
+linktitle: "NumberOfBoundaries"
+articleTitle: "NumberOfBoundaries"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the number of boundaries."
 type: docs
 weight: 220
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/numberofboundaries/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/numberofboundaries/"
+product_version: "26.9"
 ---
 ## CadHatch.NumberOfBoundaries property
 
@@ -16,8 +19,7 @@ public int NumberOfBoundaries { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

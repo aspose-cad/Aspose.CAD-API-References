@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSDestLongitude
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the GPS longitude of the destination point
+title: "ExifData.GPSDestLongitude"
+linktitle: "GPSDestLongitude"
+articleTitle: "GPSDestLongitude"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the GPS longitude of the destination point."
 type: docs
-weight: 460
-url: /net/aspose.cad.exif/exifdata/gpsdestlongitude/
+weight: 480
+url: "/net/aspose.cad.exif/exifdata/gpsdestlongitude/"
+product_version: "26.9"
 ---
 ## ExifData.GPSDestLongitude property
 
@@ -20,9 +23,8 @@ The GPS longitude of the destination point.
 
 ### See Also
 
-* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

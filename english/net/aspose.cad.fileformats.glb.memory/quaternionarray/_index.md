@@ -1,14 +1,17 @@
 ---
-title: Struct QuaternionArray
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Memory.QuaternionArray struct. Wraps an encoded ArraySegment and exposes it as an IList
+title: "QuaternionArray Struct"
+linktitle: "QuaternionArray"
+articleTitle: "QuaternionArray"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Memory.QuaternionArray struct. Wraps an encoded ArraySegment and exposes it as an IList."
 type: docs
-weight: 11030
-url: /net/aspose.cad.fileformats.glb.memory/quaternionarray/
+weight: 120
+url: "/net/aspose.cad.fileformats.glb.memory/quaternionarray/"
+product_version: "26.9"
 ---
-## QuaternionArray structure
+## QuaternionArray struct
 
-Wraps an encoded ArraySegment and exposes it as an IList.
+Wraps an encoded `ArraySegment` and exposes it as an `IList`.
 
 ```csharp
 public struct QuaternionArray : IList<Quaternion>, IReadOnlyList<Quaternion>
@@ -18,29 +21,27 @@ public struct QuaternionArray : IList<Quaternion>, IReadOnlyList<Quaternion>
 
 | Name | Description |
 | --- | --- |
-| [QuaternionArray](quaternionarray/#constructor)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) |  |
-| [QuaternionArray](quaternionarray/#constructor_1)(ArraySegment&lt;byte&gt;, int, int, int, EncodingType, bool) |  |
+| [QuaternionArray](quaternionarray/)(ArraySegment&lt;byte&gt;, int, EncodingType, bool) | Initializes a new instance of the QuaternionArray class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.cad.fileformats.glb.memory/quaternionarray/count/) { get; } |  |
-| [Item](../../aspose.cad.fileformats.glb.memory/quaternionarray/item/) { get; set; } |  |
+| Count { get; } |  |
+| Item { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Contains](../../aspose.cad.fileformats.glb.memory/quaternionarray/contains/)(Quaternion) |  |
-| [CopyTo](../../aspose.cad.fileformats.glb.memory/quaternionarray/copyto/)(Quaternion[], int) |  |
-| [Fill](../../aspose.cad.fileformats.glb.memory/quaternionarray/fill/)(IEnumerable&lt;Quaternion&gt;, int) |  |
-| [GetEnumerator](../../aspose.cad.fileformats.glb.memory/quaternionarray/getenumerator/)() |  |
-| [IndexOf](../../aspose.cad.fileformats.glb.memory/quaternionarray/indexof/)(Quaternion) |  |
+| Contains(Quaternion) |  |
+| CopyTo(Quaternion[], int) |  |
+| Fill(IEnumerable&lt;Quaternion&gt;, int) |  |
+| GetEnumerator() |  |
+| IndexOf(Quaternion) |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Memory](../../aspose.cad.fileformats.glb.memory/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,12 +1,17 @@
 ---
-title: ThreeDSMaterial.DiffuseColor
-second_title: Aspose.CAD for .NET API Reference
-description: ThreeDSMaterial property. 
+title: "ThreeDSMaterial.DiffuseColor"
+linktitle: "DiffuseColor"
+articleTitle: "DiffuseColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ThreeDSMaterial property."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.threeds.elements/threedsmaterial/diffusecolor/
+weight: 40
+url: "/net/aspose.cad.fileformats.threeds.elements/threedsmaterial/diffusecolor/"
+product_version: "26.9"
 ---
 ## ThreeDSMaterial.DiffuseColor property
+
+
 
 ```csharp
 public Vector3F DiffuseColor { get; set; }
@@ -14,9 +19,8 @@ public Vector3F DiffuseColor { get; set; }
 
 ### See Also
 
-* struct [Vector3F](../../../aspose.cad/vector3f/)
-* class [ThreeDSMaterial](../)
-* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Vector3F](../../../aspose.cad/vector3f/)
+* class [ThreeDSMaterial](../)
+* namespace [Aspose.CAD.FileFormats.ThreeDS.Elements](../../../aspose.cad.fileformats.threeds.elements/)
+* assembly [Aspose.CAD](../../../)
 

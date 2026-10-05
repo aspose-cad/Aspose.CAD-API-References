@@ -1,10 +1,13 @@
 ---
-title: CadPolygonMeshVertex.MeshVertexIndex1
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolygonMeshVertex property. Gets or sets the mesh vertex index 1
+title: "CadPolygonMeshVertex.MeshVertexIndex1"
+linktitle: "MeshVertexIndex1"
+articleTitle: "MeshVertexIndex1"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolygonMeshVertex property. Gets or sets the mesh vertex index 1."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cadpolygonmeshvertex/meshvertexindex1/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cadpolygonmeshvertex/meshvertexindex1/"
+product_version: "26.9"
 ---
 ## CadPolygonMeshVertex.MeshVertexIndex1 property
 
@@ -16,8 +19,7 @@ public override short? MeshVertexIndex1 { get; set; }
 
 ### See Also
 
-* class [CadPolygonMeshVertex](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolygonMeshVertex](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

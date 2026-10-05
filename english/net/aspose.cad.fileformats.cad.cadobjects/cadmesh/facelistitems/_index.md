@@ -1,10 +1,13 @@
 ---
-title: CadMesh.FaceListItems
-second_title: Aspose.CAD for .NET API Reference
-description: CadMesh property. Gets or sets face list
+title: "CadMesh.FaceListItems"
+linktitle: "FaceListItems"
+articleTitle: "FaceListItems"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMesh property. Gets or sets face list"
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmesh/facelistitems/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmesh/facelistitems/"
+product_version: "26.9"
 ---
 ## CadMesh.FaceListItems property
 
@@ -16,8 +19,7 @@ public List<int> FaceListItems { get; set; }
 
 ### See Also
 
-* class [CadMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

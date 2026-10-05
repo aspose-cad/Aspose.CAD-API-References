@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.ObservationToTag
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the observation to tag
+title: "CadGeoData.ObservationToTag"
+linktitle: "ObservationToTag"
+articleTitle: "ObservationToTag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the observation to tag."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/observationtotag/
+weight: 210
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/observationtotag/"
+product_version: "26.9"
 ---
 ## CadGeoData.ObservationToTag property
 
@@ -20,8 +23,7 @@ The observation to tag.
 
 ### See Also
 
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

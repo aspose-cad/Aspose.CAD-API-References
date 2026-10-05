@@ -1,27 +1,25 @@
 ---
-title: DwfWhipPNGGroup4Image.DwfWhipPNGGroup4Image
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipPNGGroup4Image constructor. Initializes a new instance of the class
+title: "DwfWhipPNGGroup4Image.DwfWhipPNGGroup4Image"
+linktitle: "DwfWhipPNGGroup4Image"
+articleTitle: "DwfWhipPNGGroup4Image"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipPNGGroup4Image constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippnggroup4image/dwfwhippnggroup4image/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhippnggroup4image/dwfwhippnggroup4image/"
+product_version: "26.9"
 ---
 ## DwfWhipPNGGroup4Image constructor
 
-Initializes a new instance of the class.
+The default constructor.
 
 ```csharp
-public DwfWhipPNGGroup4Image(int formatCode)
+public DwfWhipPNGGroup4Image()
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| formatCode | Int32 | code of format |
 
 ### See Also
 
-* class [DwfWhipPNGGroup4Image](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipPNGGroup4Image](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
+* assembly [Aspose.CAD](../../../)
 

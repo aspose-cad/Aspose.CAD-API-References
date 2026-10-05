@@ -1,10 +1,13 @@
 ---
-title: CadHatch.PixelSize
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets or sets the pixel size
+title: "CadHatch.PixelSize"
+linktitle: "PixelSize"
+articleTitle: "PixelSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets or sets the pixel size."
 type: docs
-weight: 290
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/pixelsize/
+weight: 280
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/pixelsize/"
+product_version: "26.9"
 ---
 ## CadHatch.PixelSize property
 
@@ -16,8 +19,7 @@ public double PixelSize { get; set; }
 
 ### See Also
 
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

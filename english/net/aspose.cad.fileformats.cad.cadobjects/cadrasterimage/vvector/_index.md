@@ -1,10 +1,13 @@
 ---
-title: CadRasterImage.VVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImage property. Gets or sets V vector
+title: "CadRasterImage.VVector"
+linktitle: "VVector"
+articleTitle: "VVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImage property. Gets or sets V vector."
 type: docs
-weight: 190
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/vvector/
+weight: 200
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/vvector/"
+product_version: "26.9"
 ---
 ## CadRasterImage.VVector property
 
@@ -16,9 +19,8 @@ public Cad3DPoint VVector { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

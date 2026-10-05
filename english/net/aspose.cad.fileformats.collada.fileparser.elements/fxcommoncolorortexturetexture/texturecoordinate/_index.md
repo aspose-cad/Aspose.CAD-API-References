@@ -1,10 +1,13 @@
 ---
-title: FxCommonColorOrTextureTexture.TextureCoordinate
-second_title: Aspose.CAD for .NET API Reference
-description: FxCommonColorOrTextureTexture property. Gets or sets the texture coordinate
+title: "FxCommonColorOrTextureTexture.TextureCoordinate"
+linktitle: "TextureCoordinate"
+articleTitle: "TextureCoordinate"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FxCommonColorOrTextureTexture property. Gets or sets the texture coordinate."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/texturecoordinate/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/texturecoordinate/"
+product_version: "26.9"
 ---
 ## FxCommonColorOrTextureTexture.TextureCoordinate property
 
@@ -16,8 +19,7 @@ public string TextureCoordinate { get; set; }
 
 ### See Also
 
-* class [FxCommonColorOrTextureTexture](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FxCommonColorOrTextureTexture](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

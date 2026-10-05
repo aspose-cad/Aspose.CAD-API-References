@@ -1,10 +1,13 @@
 ---
-title: CadSection.GeometrySettingsObjectHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadSection property. Gets or sets the geometry settings object handle
+title: "CadSection.GeometrySettingsObjectHandle"
+linktitle: "GeometrySettingsObjectHandle"
+articleTitle: "GeometrySettingsObjectHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSection property. Gets or sets the geometry settings object handle."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsection/geometrysettingsobjecthandle/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsection/geometrysettingsobjecthandle/"
+product_version: "26.9"
 ---
 ## CadSection.GeometrySettingsObjectHandle property
 
@@ -20,8 +23,7 @@ The geometry settings object handle.
 
 ### See Also
 
-* class [CadSection](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSection](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

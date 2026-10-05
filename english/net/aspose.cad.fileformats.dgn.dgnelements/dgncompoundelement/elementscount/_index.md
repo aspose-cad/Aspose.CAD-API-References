@@ -1,10 +1,13 @@
 ---
-title: DgnCompoundElement.ElementsCount
-second_title: Aspose.CAD for .NET API Reference
-description: DgnCompoundElement property. Gets or sets related elements count
+title: "DgnCompoundElement.ElementsCount"
+linktitle: "ElementsCount"
+articleTitle: "ElementsCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnCompoundElement property. Gets or sets related elements count"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/elementscount/
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgncompoundelement/elementscount/"
+product_version: "26.9"
 ---
 ## DgnCompoundElement.ElementsCount property
 
@@ -16,8 +19,7 @@ public ushort ElementsCount { get; }
 
 ### See Also
 
-* class [DgnCompoundElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnCompoundElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

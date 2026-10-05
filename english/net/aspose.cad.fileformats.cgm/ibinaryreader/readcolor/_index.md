@@ -1,12 +1,17 @@
 ---
-title: IBinaryReader.ReadColor
-second_title: Aspose.CAD for .NET API Reference
-description: IBinaryReader method. 
+title: "IBinaryReader.ReadColor"
+linktitle: "ReadColor"
+articleTitle: "ReadColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IBinaryReader method."
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.cgm/ibinaryreader/readcolor/
+url: "/net/aspose.cad.fileformats.cgm/ibinaryreader/readcolor/"
+product_version: "26.9"
 ---
 ## ReadColor() {#readcolor}
+
+
 
 ```csharp
 public CgmColor ReadColor()
@@ -14,14 +19,16 @@ public CgmColor ReadColor()
 
 ### See Also
 
-* class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
-* interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
+* class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
+* interface [IBinaryReader](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
 ## ReadColor(int) {#readcolor_1}
+
+
 
 ```csharp
 public CgmColor ReadColor(int localColorPrecision)
@@ -29,9 +36,8 @@ public CgmColor ReadColor(int localColorPrecision)
 
 ### See Also
 
-* class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
-* interface [IBinaryReader](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmColor](../../../aspose.cad.fileformats.cgm.classes/cgmcolor/)
+* interface [IBinaryReader](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

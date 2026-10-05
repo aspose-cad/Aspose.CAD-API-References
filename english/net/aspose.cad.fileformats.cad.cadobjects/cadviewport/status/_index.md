@@ -1,10 +1,13 @@
 ---
-title: CadViewport.Status
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the status. DXF 68 status
+title: "CadViewport.Status"
+linktitle: "Status"
+articleTitle: "Status"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the status. (DXF 68 status)"
 type: docs
 weight: 330
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/status/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/status/"
+product_version: "26.9"
 ---
 ## CadViewport.Status property
 
@@ -16,8 +19,7 @@ public short Status { get; set; }
 
 ### See Also
 
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

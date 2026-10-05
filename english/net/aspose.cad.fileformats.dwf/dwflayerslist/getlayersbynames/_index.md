@@ -1,10 +1,13 @@
 ---
-title: DwfLayersList.GetLayersByNames
-second_title: Aspose.CAD for .NET API Reference
-description: DwfLayersList method. Gets layers by names
+title: "DwfLayersList.GetLayersByNames"
+linktitle: "GetLayersByNames"
+articleTitle: "GetLayersByNames"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfLayersList method. Gets layers by names."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.dwf/dwflayerslist/getlayersbynames/
+weight: 40
+url: "/net/aspose.cad.fileformats.dwf/dwflayerslist/getlayersbynames/"
+product_version: "26.9"
 ---
 ## DwfLayersList.GetLayersByNames method
 
@@ -24,9 +27,8 @@ The list of [`DwfWhipLayer`](../../../aspose.cad.fileformats.dwf.whip.objects/dw
 
 ### See Also
 
-* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
-* class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
+* class [DwfLayersList](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

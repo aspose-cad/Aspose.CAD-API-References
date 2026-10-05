@@ -1,10 +1,13 @@
 ---
-title: ExifData.FocalPlaneResolutionUnit
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the focal plane resolution unit
+title: "ExifData.FocalPlaneResolutionUnit"
+linktitle: "FocalPlaneResolutionUnit"
+articleTitle: "FocalPlaneResolutionUnit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the focal plane resolution unit."
 type: docs
-weight: 310
-url: /net/aspose.cad.exif/exifdata/focalplaneresolutionunit/
+weight: 350
+url: "/net/aspose.cad.exif/exifdata/focalplaneresolutionunit/"
+product_version: "26.9"
 ---
 ## ExifData.FocalPlaneResolutionUnit property
 
@@ -20,9 +23,8 @@ The focal plane resolution unit.
 
 ### See Also
 
-* enum [ExifUnit](../../../aspose.cad.exif.enums/exifunit/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [ExifUnit](../../../aspose.cad.exif.enums/exifunit/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

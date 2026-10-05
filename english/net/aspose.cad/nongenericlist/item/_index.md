@@ -1,10 +1,13 @@
 ---
-title: NonGenericList.Item
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericList property. Gets or sets the element at the specified index
+title: "NonGenericList.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericList property. Gets or sets the element at the specified index."
 type: docs
-weight: 60
-url: /net/aspose.cad/nongenericlist/item/
+weight: 130
+url: "/net/aspose.cad/nongenericlist/item/"
+product_version: "26.9"
 ---
 ## NonGenericList indexer
 
@@ -20,8 +23,7 @@ public object this[int index] { get; set; }
 
 ### See Also
 
-* class [NonGenericList](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericList](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

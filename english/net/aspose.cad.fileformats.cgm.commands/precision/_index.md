@@ -1,12 +1,17 @@
 ---
-title: Enum Precision
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.Precision enum. 
+title: "Precision Enum"
+linktitle: "Precision"
+articleTitle: "Precision"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.Precision enum."
 type: docs
-weight: 6470
-url: /net/aspose.cad.fileformats.cgm.commands/precision/
+weight: 1750
+url: "/net/aspose.cad.fileformats.cgm.commands/precision/"
+product_version: "26.9"
 ---
 ## Precision enumeration
+
+
 
 ```csharp
 public enum Precision
@@ -23,7 +28,6 @@ public enum Precision
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

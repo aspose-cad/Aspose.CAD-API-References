@@ -1,10 +1,13 @@
 ---
-title: TiffASCIIType.TagType
-second_title: Aspose.CAD for .NET API Reference
-description: TiffASCIIType property. Gets the tag type
+title: "TiffASCIIType.TagType"
+linktitle: "TagType"
+articleTitle: "TagType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffASCIIType property. Gets the tag type."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/tagtype/
+weight: 60
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/tagtype/"
+product_version: "26.9"
 ---
 ## TiffASCIIType.TagType property
 
@@ -20,9 +23,8 @@ The tag type.
 
 ### See Also
 
-* enum [TiffDataTypes](../../../aspose.cad.fileformats.tiff.enums/tiffdatatypes/)
-* class [TiffASCIIType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [TiffDataTypes](../../../aspose.cad.fileformats.tiff.enums/tiffdatatypes/)
+* class [TiffASCIIType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

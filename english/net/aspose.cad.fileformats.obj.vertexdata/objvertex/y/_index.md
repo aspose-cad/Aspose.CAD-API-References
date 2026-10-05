@@ -1,10 +1,13 @@
 ---
-title: ObjVertex.Y
-second_title: Aspose.CAD for .NET API Reference
-description: ObjVertex property. Gets the y coordinate
+title: "ObjVertex.Y"
+linktitle: "Y"
+articleTitle: "Y"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjVertex property. Gets the y coordinate."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.obj.vertexdata/objvertex/y/
+weight: 80
+url: "/net/aspose.cad.fileformats.obj.vertexdata/objvertex/y/"
+product_version: "26.9"
 ---
 ## ObjVertex.Y property
 
@@ -16,8 +19,7 @@ public float Y { get; }
 
 ### See Also
 
-* class [ObjVertex](../)
-* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjVertex](../)
+* namespace [Aspose.CAD.FileFormats.Obj.VertexData](../../../aspose.cad.fileformats.obj.vertexdata/)
+* assembly [Aspose.CAD](../../../)
 

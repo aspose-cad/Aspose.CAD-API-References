@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.CellAlignment
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the cell alignment
+title: "CadTableCell.CellAlignment"
+linktitle: "CellAlignment"
+articleTitle: "CellAlignment"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the cell alignment."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cellalignment/
+weight: 230
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cellalignment/"
+product_version: "26.9"
 ---
 ## CadTableCell.CellAlignment property
 
@@ -20,8 +23,7 @@ The cell alignment.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

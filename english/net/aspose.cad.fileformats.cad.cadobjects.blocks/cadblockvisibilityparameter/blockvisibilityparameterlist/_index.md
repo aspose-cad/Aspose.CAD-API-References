@@ -1,10 +1,13 @@
 ---
-title: CadBlockVisibilityParameter.BlockVisibilityParameterList
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockVisibilityParameter property. Gets or sets the block visibility parameter list
+title: "CadBlockVisibilityParameter.BlockVisibilityParameterList"
+linktitle: "BlockVisibilityParameterList"
+articleTitle: "BlockVisibilityParameterList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockVisibilityParameter property. Gets or sets the block visibility parameter list."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockvisibilityparameter/blockvisibilityparameterlist/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockvisibilityparameter/blockvisibilityparameterlist/"
+product_version: "26.9"
 ---
 ## CadBlockVisibilityParameter.BlockVisibilityParameterList property
 
@@ -20,9 +23,8 @@ The block visibility parameter list.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadBlockVisibilityParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadBlockVisibilityParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

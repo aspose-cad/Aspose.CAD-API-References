@@ -1,10 +1,13 @@
 ---
-title: ColladaImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: ColladaImage property. Gets the image width
+title: "ColladaImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColladaImage property. Gets the image width."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.collada/colladaimage/width/
+url: "/net/aspose.cad.fileformats.collada/colladaimage/width/"
+product_version: "26.9"
 ---
 ## ColladaImage.Width property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's width: " + drawing.Width);
 
 ### See Also
 
-* class [ColladaImage](../)
-* namespace [Aspose.CAD.FileFormats.Collada](../../../aspose.cad.fileformats.collada/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ColladaImage](../)
+* namespace [Aspose.CAD.FileFormats.Collada](../../../aspose.cad.fileformats.collada/)
+* assembly [Aspose.CAD](../../../)
 

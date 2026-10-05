@@ -1,27 +1,29 @@
 ---
-title: CadSize.Truncate
-second_title: Aspose.CAD for .NET API Reference
-description: CadSize method. Gets the point
+title: "CadSize.Truncate"
+linktitle: "Truncate"
+articleTitle: "Truncate"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSize method. Gets the point."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsize/truncate/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsize/truncate/"
+product_version: "26.9"
 ---
 ## CadSize.Truncate method
 
 Gets the point.
 
 ```csharp
-public #=zcSj1SRJlMsbpzokG0Q== Truncate()
+public #=zkV8_0S9Bwo_dBEZF5g== Truncate()
 ```
 
 ### Return Value
 
-The Size.
+The [`Size`](../../../aspose.cad/size/).
 
 ### See Also
 
-* class [CadSize](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSize](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

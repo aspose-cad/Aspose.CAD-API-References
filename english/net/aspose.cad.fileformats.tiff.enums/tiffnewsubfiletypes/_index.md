@@ -1,16 +1,20 @@
 ---
-title: Enum TiffNewSubFileTypes
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffNewSubFileTypes enum. The tiff new sub file type enum
+title: "TiffNewSubFileTypes Enum"
+linktitle: "TiffNewSubFileTypes"
+articleTitle: "TiffNewSubFileTypes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffNewSubFileTypes enum. The tiff new sub file type enum."
 type: docs
-weight: 35460
-url: /net/aspose.cad.fileformats.tiff.enums/tiffnewsubfiletypes/
+weight: 100
+url: "/net/aspose.cad.fileformats.tiff.enums/tiffnewsubfiletypes/"
+product_version: "26.9"
 ---
 ## TiffNewSubFileTypes enumeration
 
 The tiff new sub file type enum.
 
 ```csharp
+[Flags]
 public enum TiffNewSubFileTypes : uint
 ```
 
@@ -26,7 +30,6 @@ public enum TiffNewSubFileTypes : uint
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

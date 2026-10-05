@@ -1,10 +1,13 @@
 ---
-title: CadTableStyle.Unknown1
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableStyle property. The Unknown1 parameter
+title: "CadTableStyle.Unknown1"
+linktitle: "Unknown1"
+articleTitle: "Unknown1"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableStyle property. The Unknown1 parameter"
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestyle/unknown1/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/cadtablestyle/unknown1/"
+product_version: "26.9"
 ---
 ## CadTableStyle.Unknown1 property
 
@@ -16,8 +19,7 @@ public byte Unknown1 { get; set; }
 
 ### See Also
 
-* class [CadTableStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadSweptSurface.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadSweptSurface property. Gets the name of the type
+title: "CadSweptSurface.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSweptSurface property. Gets the name of the type."
 type: docs
-weight: 260
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/typename/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsweptsurface/typename/"
+product_version: "26.9"
 ---
 ## CadSweptSurface.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadSweptSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadSweptSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadVportTableObject.HardFrozenLayerObject
-second_title: Aspose.CAD for .NET API Reference
-description: CadVportTableObject property. Gets or sets the hard frozen layer object
+title: "CadVportTableObject.HardFrozenLayerObject"
+linktitle: "HardFrozenLayerObject"
+articleTitle: "HardFrozenLayerObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVportTableObject property. Gets or sets the hard frozen layer object."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/hardfrozenlayerobject/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadvporttableobject/hardfrozenlayerobject/"
+product_version: "26.9"
 ---
 ## CadVportTableObject.HardFrozenLayerObject property
 
@@ -20,8 +23,7 @@ The hard frozen layer object.
 
 ### See Also
 
-* class [CadVportTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVportTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

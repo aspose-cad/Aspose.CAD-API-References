@@ -1,10 +1,13 @@
 ---
-title: Enum DitheringMethod
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.DitheringMethod enum. Dithering method
+title: "DitheringMethod Enum"
+linktitle: "DitheringMethod"
+articleTitle: "DitheringMethod"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.DitheringMethod enum. Dithering method."
 type: docs
-weight: 500
-url: /net/aspose.cad/ditheringmethod/
+weight: 220
+url: "/net/aspose.cad/ditheringmethod/"
+product_version: "26.9"
 ---
 ## DitheringMethod enumeration
 
@@ -23,7 +26,6 @@ public enum DitheringMethod
 
 ### See Also
 
-* namespace [Aspose.CAD](../../aspose.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 

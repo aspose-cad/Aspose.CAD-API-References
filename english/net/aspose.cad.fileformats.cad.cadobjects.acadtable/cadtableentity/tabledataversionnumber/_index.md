@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.TableDataVersionNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. Gets or sets the table data version number
+title: "CadTableEntity.TableDataVersionNumber"
+linktitle: "TableDataVersionNumber"
+articleTitle: "TableDataVersionNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. Gets or sets the table data version number."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/tabledataversionnumber/
+weight: 210
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/tabledataversionnumber/"
+product_version: "26.9"
 ---
 ## CadTableEntity.TableDataVersionNumber property
 
@@ -16,8 +19,7 @@ public short TableDataVersionNumber { get; set; }
 
 ### See Also
 
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

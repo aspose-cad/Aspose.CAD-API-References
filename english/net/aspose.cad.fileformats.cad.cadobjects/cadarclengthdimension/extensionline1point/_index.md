@@ -1,10 +1,13 @@
 ---
-title: CadArcLengthDimension.ExtensionLine1Point
-second_title: Aspose.CAD for .NET API Reference
-description: CadArcLengthDimension property. Gets or sets the extension line 1 point
+title: "CadArcLengthDimension.ExtensionLine1Point"
+linktitle: "ExtensionLine1Point"
+articleTitle: "ExtensionLine1Point"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadArcLengthDimension property. Gets or sets the extension line 1 point."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/extensionline1point/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/extensionline1point/"
+product_version: "26.9"
 ---
 ## CadArcLengthDimension.ExtensionLine1Point property
 
@@ -16,9 +19,8 @@ public Cad3DPoint ExtensionLine1Point { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadArcLengthDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadArcLengthDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

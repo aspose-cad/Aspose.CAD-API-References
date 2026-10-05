@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.IsTagPresent
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions method. Determines whether tag is present in the options or not
+title: "TiffOptions.IsTagPresent"
+linktitle: "IsTagPresent"
+articleTitle: "IsTagPresent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions method. Determines whether tag is present in the options or not."
 type: docs
-weight: 580
-url: /net/aspose.cad.imageoptions/tiffoptions/istagpresent/
+weight: 60
+url: "/net/aspose.cad.imageoptions/tiffoptions/istagpresent/"
+product_version: "26.9"
 ---
 ## TiffOptions.IsTagPresent method
 
@@ -24,9 +27,8 @@ public bool IsTagPresent(TiffTags tag)
 
 ### See Also
 
-* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [TiffTags](../../../aspose.cad.fileformats.tiff.enums/tifftags/)
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

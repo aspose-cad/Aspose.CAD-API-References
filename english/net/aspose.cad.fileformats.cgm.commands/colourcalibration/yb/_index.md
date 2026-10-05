@@ -1,12 +1,17 @@
 ---
-title: ColourCalibration.Yb
-second_title: Aspose.CAD for .NET API Reference
-description: ColourCalibration property. 
+title: "ColourCalibration.Yb"
+linktitle: "Yb"
+articleTitle: "Yb"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColourCalibration property."
 type: docs
-weight: 250
-url: /net/aspose.cad.fileformats.cgm.commands/colourcalibration/yb/
+weight: 140
+url: "/net/aspose.cad.fileformats.cgm.commands/colourcalibration/yb/"
+product_version: "26.9"
 ---
 ## ColourCalibration.Yb property
+
+
 
 ```csharp
 public double Yb { get; set; }
@@ -14,8 +19,7 @@ public double Yb { get; set; }
 
 ### See Also
 
-* class [ColourCalibration](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ColourCalibration](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

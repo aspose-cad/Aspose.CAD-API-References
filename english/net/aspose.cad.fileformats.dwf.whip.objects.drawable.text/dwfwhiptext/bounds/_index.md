@@ -1,10 +1,13 @@
 ---
-title: DwfWhipText.Bounds
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipText property. Gets bounds
+title: "DwfWhipText.Bounds"
+linktitle: "Bounds"
+articleTitle: "Bounds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipText property. Gets bounds"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/bounds/
+weight: 60
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable.text/dwfwhiptext/bounds/"
+product_version: "26.9"
 ---
 ## DwfWhipText.Bounds property
 
@@ -16,9 +19,8 @@ public DwfWhipTextOptionBounds Bounds { get; set; }
 
 ### See Also
 
-* class [DwfWhipTextOptionBounds](../../dwfwhiptextoptionbounds/)
-* class [DwfWhipText](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipTextOptionBounds](../../dwfwhiptextoptionbounds/)
+* class [DwfWhipText](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](../../../aspose.cad.fileformats.dwf.whip.objects.drawable.text/)
+* assembly [Aspose.CAD](../../../)
 

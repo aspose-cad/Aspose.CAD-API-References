@@ -1,10 +1,13 @@
 ---
-title: CadMText.HorizontalWidth
-second_title: Aspose.CAD for .NET API Reference
-description: CadMText property. Gets or sets the horizontal width
+title: "CadMText.HorizontalWidth"
+linktitle: "HorizontalWidth"
+articleTitle: "HorizontalWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMText property. Gets or sets the horizontal width."
 type: docs
-weight: 430
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/horizontalwidth/
+weight: 400
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmtext/horizontalwidth/"
+product_version: "26.9"
 ---
 ## CadMText.HorizontalWidth property
 
@@ -16,8 +19,7 @@ public double? HorizontalWidth { get; set; }
 
 ### See Also
 
-* class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

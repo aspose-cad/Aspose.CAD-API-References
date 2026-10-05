@@ -1,10 +1,13 @@
 ---
-title: CadPolylineBoundaryPath.CadPolylineBoundaryPath
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolylineBoundaryPath constructor. The default constructor
+title: "CadPolylineBoundaryPath.CadPolylineBoundaryPath"
+linktitle: "CadPolylineBoundaryPath"
+articleTitle: "CadPolylineBoundaryPath"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolylineBoundaryPath constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/cadpolylineboundarypath/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadpolylineboundarypath/cadpolylineboundarypath/"
+product_version: "26.9"
 ---
 ## CadPolylineBoundaryPath constructor
 
@@ -16,8 +19,7 @@ public CadPolylineBoundaryPath()
 
 ### See Also
 
-* class [CadPolylineBoundaryPath](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolylineBoundaryPath](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

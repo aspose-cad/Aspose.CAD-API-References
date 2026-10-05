@@ -1,10 +1,13 @@
 ---
-title: CadViewport.AxisYOfUcs
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewport property. Gets or sets the axis y of UCS
+title: "CadViewport.AxisYOfUcs"
+linktitle: "AxisYOfUcs"
+articleTitle: "AxisYOfUcs"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewport property. Gets or sets the axis y of UCS."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadviewport/axisyofucs/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadviewport/axisyofucs/"
+product_version: "26.9"
 ---
 ## CadViewport.AxisYOfUcs property
 
@@ -16,9 +19,8 @@ public Cad3DPoint AxisYOfUcs { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadViewport](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadViewport](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

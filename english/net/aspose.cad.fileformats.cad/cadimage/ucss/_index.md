@@ -1,10 +1,13 @@
 ---
-title: CadImage.UCSs
-second_title: Aspose.CAD for .NET API Reference
-description: CadImage property. Gets or sets the uc ss
+title: "CadImage.UCSs"
+linktitle: "UCSs"
+articleTitle: "UCSs"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadImage property. Gets or sets the uc ss."
 type: docs
-weight: 300
-url: /net/aspose.cad.fileformats.cad/cadimage/ucss/
+weight: 410
+url: "/net/aspose.cad.fileformats.cad/cadimage/ucss/"
+product_version: "26.9"
 ---
 ## CadImage.UCSs property
 
@@ -20,9 +23,8 @@ The uc ss.
 
 ### See Also
 
-* class [CadUcsList](../../caducslist/)
-* class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadUcsList](../../caducslist/)
+* class [CadImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

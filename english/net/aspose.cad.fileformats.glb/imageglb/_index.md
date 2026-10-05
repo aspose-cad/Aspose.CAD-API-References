@@ -1,10 +1,14 @@
 ---
-title: Class ImageGlb
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.ImageGlb class. Image data used to create a texture. Image MAY be referenced by an URI or IRI or a buffer view index
+title: "ImageGlb Class"
+linktitle: "ImageGlb"
+articleTitle: "ImageGlb"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.ImageGlb class. Image data used to create a texture. Image MAY be referenced by an URI (or IRI) or a buffer view index."
 type: docs
-weight: 10770
-url: /net/aspose.cad.fileformats.glb/imageglb/
+weight: 290
+url: "/net/aspose.cad.fileformats.glb/imageglb/"
+keywords: "ImageGlb, Aspose.CAD.FileFormats.GLB, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ImageGlb class
 
@@ -18,13 +22,13 @@ public sealed class ImageGlb : LogicalChildOfRoot
 
 | Name | Description |
 | --- | --- |
-| [AlternateWriteFileName](../../aspose.cad.fileformats.glb/imageglb/alternatewritefilename/) { get; set; } | When set to a FileName or a relative File Path, it will be used as the file name of the texture being written. When null, a default file name will be used. |
-| [Content](../../aspose.cad.fileformats.glb/imageglb/content/) { get; set; } | Gets or sets the in-memory representation of the image file. |
-| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
-| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
-| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
-| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
-| [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
+| [AlternateWriteFileName](../../aspose.cad.fileformats.glb/imageglb/alternatewritefilename/) { get; set; } | When set to a FileName or a relative File Path, it will be used as the file name of the texture being written. |
+| [Content](../../aspose.cad.fileformats.glb/imageglb/content/) { get; set; } | Gets or sets the in-memory representation of the image file. |
+| [Extensions](../../aspose.cad.fileformats.glb/extraproperties/extensions/) { get; } | Gets a collection of [`JsonSerializable`](../../aspose.cad.fileformats.glb.io/jsonserializable/) instances. |
+| [Extras](../../aspose.cad.fileformats.glb/extraproperties/extras/) { get; set; } | Gets or sets the extras content of this instance. |
+| [LogicalIndex](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalindex/) { get; } | Gets the zero-based index of this object in the Logical resources of [`GlbData`](../glbdata/). |
+| [LogicalParent](../../aspose.cad.fileformats.glb/logicalchildofroot/logicalparent/) { get; } | Gets the [`GlbData`](../glbdata/) instance that owns this object. |
+| [Name](../../aspose.cad.fileformats.glb/logicalchildofroot/name/) { get; set; } | Gets or sets the display text name, or null. |
 
 ## Methods
 
@@ -38,8 +42,7 @@ public sealed class ImageGlb : LogicalChildOfRoot
 
 ### See Also
 
-* class [LogicalChildOfRoot](../logicalchildofroot/)
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* class [LogicalChildOfRoot](../logicalchildofroot/)
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

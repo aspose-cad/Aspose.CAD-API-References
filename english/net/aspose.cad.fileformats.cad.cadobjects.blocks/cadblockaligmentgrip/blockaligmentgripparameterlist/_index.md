@@ -1,10 +1,13 @@
 ---
-title: CadBlockAligmentGrip.BlockAligmentGripParameterList
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockAligmentGrip property. Gets or sets the block aligment grip parameter list
+title: "CadBlockAligmentGrip.BlockAligmentGripParameterList"
+linktitle: "BlockAligmentGripParameterList"
+articleTitle: "BlockAligmentGripParameterList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockAligmentGrip property. Gets or sets the block aligment grip parameter list."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockaligmentgrip/blockaligmentgripparameterlist/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockaligmentgrip/blockaligmentgripparameterlist/"
+product_version: "26.9"
 ---
 ## CadBlockAligmentGrip.BlockAligmentGripParameterList property
 
@@ -20,9 +23,8 @@ The block aligment grip parameter list.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadBlockAligmentGrip](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadBlockAligmentGrip](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ExifData.SceneType
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the scene type
+title: "ExifData.SceneType"
+linktitle: "SceneType"
+articleTitle: "SceneType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the scene type."
 type: docs
-weight: 930
-url: /net/aspose.cad.exif/exifdata/scenetype/
+weight: 940
+url: "/net/aspose.cad.exif/exifdata/scenetype/"
+product_version: "26.9"
 ---
 ## ExifData.SceneType property
 
@@ -20,8 +23,7 @@ The type of the scene.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DwfWhipImageBase.Columns
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipImageBase property. Gets image colums count
+title: "DwfWhipImageBase.Columns"
+linktitle: "Columns"
+articleTitle: "Columns"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipImageBase property. Gets image colums count"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipimagebase/columns/
+weight: 10
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipimagebase/columns/"
+product_version: "26.9"
 ---
 ## DwfWhipImageBase.Columns property
 
@@ -16,8 +19,7 @@ public int Columns { get; }
 
 ### See Also
 
-* class [DwfWhipImageBase](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipImageBase](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/)
+* assembly [Aspose.CAD](../../../)
 

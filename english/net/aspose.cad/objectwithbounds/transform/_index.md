@@ -1,10 +1,13 @@
 ---
-title: ObjectWithBounds.Transform
-second_title: Aspose.CAD for .NET API Reference
-description: ObjectWithBounds method. Applies the specified transformation to the shape
+title: "ObjectWithBounds.Transform"
+linktitle: "Transform"
+articleTitle: "Transform"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjectWithBounds method. Applies the specified transformation to the shape."
 type: docs
-weight: 30
-url: /net/aspose.cad/objectwithbounds/transform/
+weight: 20
+url: "/net/aspose.cad/objectwithbounds/transform/"
+product_version: "26.9"
 ---
 ## ObjectWithBounds.Transform method
 
@@ -20,9 +23,8 @@ public abstract void Transform(Matrix transform)
 
 ### See Also
 
-* class [Matrix](../../matrix/)
-* class [ObjectWithBounds](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Matrix](../../matrix/)
+* class [ObjectWithBounds](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

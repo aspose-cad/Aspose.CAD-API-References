@@ -1,10 +1,13 @@
 ---
-title: CadBlockDictionary.TryGetValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockDictionary method. Gets the value associated with the specified key
+title: "CadBlockDictionary.TryGetValue"
+linktitle: "TryGetValue"
+articleTitle: "TryGetValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockDictionary method. Gets the value associated with the specified key."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad/cadblockdictionary/trygetvalue/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad/cadblockdictionary/trygetvalue/"
+product_version: "26.9"
 ---
 ## CadBlockDictionary.TryGetValue method
 
@@ -25,9 +28,8 @@ True if the dictionary contains an element with the specified key; otherwise, fa
 
 ### See Also
 
-* class [CadBlockEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/)
-* class [CadBlockDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/)
+* class [CadBlockDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

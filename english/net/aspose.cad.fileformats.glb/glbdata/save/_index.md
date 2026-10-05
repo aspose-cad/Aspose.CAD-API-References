@@ -1,10 +1,13 @@
 ---
-title: GlbData.Save
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Writes this GlbData to a file in GLTF or GLB based on the extension of filePath
+title: "GlbData.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Writes this GlbData to a file in GLTF or GLB based on the extension of filePath."
 type: docs
-weight: 440
-url: /net/aspose.cad.fileformats.glb/glbdata/save/
+weight: 370
+url: "/net/aspose.cad.fileformats.glb/glbdata/save/"
+product_version: "26.9"
 ---
 ## GlbData.Save method
 
@@ -21,9 +24,8 @@ public void Save(string filePath, WriteSettings settings = null)
 
 ### See Also
 
-* class [WriteSettings](../../writesettings/)
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [WriteSettings](../../writesettings/)
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

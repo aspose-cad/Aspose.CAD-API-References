@@ -1,10 +1,13 @@
 ---
-title: CadWipeoutRasterImage.ClippingBoundaryType
-second_title: Aspose.CAD for .NET API Reference
-description: CadWipeoutRasterImage property. Gets or sets the type of the clipping boundary
+title: "CadWipeoutRasterImage.ClippingBoundaryType"
+linktitle: "ClippingBoundaryType"
+articleTitle: "ClippingBoundaryType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadWipeoutRasterImage property. Gets or sets the type of the clipping boundary."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/clippingboundarytype/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects.wipeout/cadwipeoutrasterimage/clippingboundarytype/"
+product_version: "26.9"
 ---
 ## CadWipeoutRasterImage.ClippingBoundaryType property
 
@@ -20,8 +23,7 @@ The type of the clipping boundary.
 
 ### See Also
 
-* class [CadWipeoutRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadWipeoutRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](../../../aspose.cad.fileformats.cad.cadobjects.wipeout/)
+* assembly [Aspose.CAD](../../../)
 

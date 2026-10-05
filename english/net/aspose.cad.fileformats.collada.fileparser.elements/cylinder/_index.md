@@ -1,14 +1,19 @@
 ---
-title: Class Cylinder
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Cylinder class. The cylinder. Describes an unlimited cylindrical surface
+title: "Cylinder Class"
+linktitle: "Cylinder"
+articleTitle: "Cylinder"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.Cylinder class. The cylinder. Describes an unlimited cylindrical surface."
 type: docs
-weight: 7580
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/cylinder/
+weight: 260
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/cylinder/"
+keywords: "Cylinder, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Cylinder class
 
-The cylinder. Describes an unlimited cylindrical surface.
+The cylinder.
+ Describes an unlimited cylindrical surface.
 
 ```csharp
 public class Cylinder : ColladaElement
@@ -24,13 +29,12 @@ public class Cylinder : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/cylinder/extra/) { get; set; } | Gets or sets the extra. |
-| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/cylinder/radius/) { get; set; } | Gets or sets the radius. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/cylinder/extra/) { get; set; } | Gets or sets the extra. |
+| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/cylinder/radius/) { get; set; } | Gets or sets the radius. |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

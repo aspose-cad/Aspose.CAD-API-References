@@ -1,10 +1,13 @@
 ---
-title: ArmatureInstance.SetModelMatrix
-second_title: Aspose.CAD for .NET API Reference
-description: ArmatureInstance method. Sets the matrix of a bone
+title: "ArmatureInstance.SetModelMatrix"
+linktitle: "SetModelMatrix"
+articleTitle: "SetModelMatrix"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ArmatureInstance method. Sets the matrix of a bone."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.glb.runtime/armatureinstance/setmodelmatrix/
+weight: 20
+url: "/net/aspose.cad.fileformats.glb.runtime/armatureinstance/setmodelmatrix/"
+product_version: "26.9"
 ---
 ## ArmatureInstance.SetModelMatrix method
 
@@ -21,8 +24,7 @@ public void SetModelMatrix(string name, Matrix4x4 modelMatrix)
 
 ### See Also
 
-* class [ArmatureInstance](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ArmatureInstance](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
+* assembly [Aspose.CAD](../../../)
 

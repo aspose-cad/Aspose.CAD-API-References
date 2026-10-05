@@ -1,10 +1,13 @@
 ---
-title: CadViewTableObject.ViewMode
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewTableObject property. Gets or sets the view mode
+title: "CadViewTableObject.ViewMode"
+linktitle: "ViewMode"
+articleTitle: "ViewMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewTableObject property. Gets or sets the view mode."
 type: docs
-weight: 300
-url: /net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/viewmode/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/viewmode/"
+product_version: "26.9"
 ---
 ## CadViewTableObject.ViewMode property
 
@@ -20,8 +23,7 @@ The view mode.
 
 ### See Also
 
-* class [CadViewTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

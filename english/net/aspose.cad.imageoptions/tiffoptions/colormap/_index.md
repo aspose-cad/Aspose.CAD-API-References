@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.ColorMap
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the color map
+title: "TiffOptions.ColorMap"
+linktitle: "ColorMap"
+articleTitle: "ColorMap"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the color map."
 type: docs
-weight: 70
-url: /net/aspose.cad.imageoptions/tiffoptions/colormap/
+weight: 220
+url: "/net/aspose.cad.imageoptions/tiffoptions/colormap/"
+product_version: "26.9"
 ---
 ## TiffOptions.ColorMap property
 
@@ -28,8 +31,7 @@ The color map.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

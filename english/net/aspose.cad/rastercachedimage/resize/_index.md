@@ -1,40 +1,20 @@
 ---
-title: RasterCachedImage.Resize
-second_title: Aspose.CAD for .NET API Reference
-description: RasterCachedImage method. Resizes the image
+title: "RasterCachedImage.Resize"
+linktitle: "Resize"
+articleTitle: "Resize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterCachedImage method. Resizes the image."
 type: docs
-weight: 120
-url: /net/aspose.cad/rastercachedimage/resize/
+weight: 20
+url: "/net/aspose.cad/rastercachedimage/resize/"
+product_version: "26.9"
 ---
-## Resize(int, int, ResizeType) {#resize_1}
+## Resize(int, int, ImageResizeSettings) {#resize}
 
 Resizes the image.
 
 ```csharp
-public void Resize(int newWidth, int newHeight, ResizeType resizeType)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| newWidth | Int32 | The new width. |
-| newHeight | Int32 | The new height. |
-| resizeType | ResizeType | The resize type. |
-
-### See Also
-
-* enum [ResizeType](../../resizetype/)
-* class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## Resize(int, int, ImageResizeSettings) {#resize}
-
-Resizes the image.
-
-```csharp
-public void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
+public sealed override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
 | Parameter | Type | Description |
@@ -45,9 +25,31 @@ public void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 
 ### See Also
 
-* class [ImageResizeSettings](../../imageresizesettings/)
-* class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
+* class [ImageResizeSettings](../../imageresizesettings/)
+* class [RasterCachedImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
+---
+
+## Resize(int, int, ResizeType) {#resize_1}
+
+Resizes the image.
+
+```csharp
+public sealed override void Resize(int newWidth, int newHeight, ResizeType resizeType)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| newWidth | Int32 | The new width. |
+| newHeight | Int32 | The new height. |
+| resizeType | ResizeType | The resize type. |
+
+### See Also
+
+* enum [ResizeType](../../resizetype/)
+* class [RasterCachedImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

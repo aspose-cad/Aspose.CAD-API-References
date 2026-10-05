@@ -1,10 +1,13 @@
 ---
-title: TiffASCIIType.Count
-second_title: Aspose.CAD for .NET API Reference
-description: TiffASCIIType property. Gets the count of elements
+title: "TiffASCIIType.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffASCIIType property. Gets the count of elements."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/count/
+weight: 50
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffasciitype/count/"
+product_version: "26.9"
 ---
 ## TiffASCIIType.Count property
 
@@ -20,8 +23,7 @@ The count of elements.
 
 ### See Also
 
-* class [TiffASCIIType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffASCIIType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

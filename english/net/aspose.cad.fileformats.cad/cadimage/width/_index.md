@@ -1,10 +1,13 @@
 ---
-title: CadImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: CadImage property. Gets the image width
+title: "CadImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadImage property. Gets the image width."
 type: docs
-weight: 330
-url: /net/aspose.cad.fileformats.cad/cadimage/width/
+weight: 350
+url: "/net/aspose.cad.fileformats.cad/cadimage/width/"
+product_version: "26.9"
 ---
 ## CadImage.Width property
 
@@ -20,8 +23,7 @@ The image width.
 
 ### See Also
 
-* class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

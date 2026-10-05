@@ -1,10 +1,13 @@
 ---
-title: SweptSurface.Items
-second_title: Aspose.CAD for .NET API Reference
-description: SweptSurface property. Gets or sets the items
+title: "SweptSurface.Items"
+linktitle: "Items"
+articleTitle: "Items"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SweptSurface property. Gets or sets the items."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/items/
+weight: 30
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/sweptsurface/items/"
+product_version: "26.9"
 ---
 ## SweptSurface.Items property
 
@@ -16,8 +19,7 @@ public double[] Items { get; set; }
 
 ### See Also
 
-* class [SweptSurface](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SweptSurface](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

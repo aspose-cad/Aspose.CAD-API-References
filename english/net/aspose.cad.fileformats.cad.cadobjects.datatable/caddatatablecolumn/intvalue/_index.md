@@ -1,10 +1,13 @@
 ---
-title: CadDataTableColumn.IntValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadDataTableColumn property. Gets or sets the int value
+title: "CadDataTableColumn.IntValue"
+linktitle: "IntValue"
+articleTitle: "IntValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDataTableColumn property. Gets or sets the int value."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/intvalue/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.datatable/caddatatablecolumn/intvalue/"
+product_version: "26.9"
 ---
 ## CadDataTableColumn.IntValue property
 
@@ -20,8 +23,7 @@ The int value.
 
 ### See Also
 
-* class [CadDataTableColumn](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDataTableColumn](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](../../../aspose.cad.fileformats.cad.cadobjects.datatable/)
+* assembly [Aspose.CAD](../../../)
 

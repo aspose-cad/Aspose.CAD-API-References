@@ -1,10 +1,13 @@
 ---
-title: RawDataSettings.FallbackIndex
-second_title: Aspose.CAD for .NET API Reference
-description: RawDataSettings property. Gets or sets the fallback index to use when palette index is out of bounds
+title: "RawDataSettings.FallbackIndex"
+linktitle: "FallbackIndex"
+articleTitle: "FallbackIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RawDataSettings property. Gets or sets the fallback index to use when palette index is out of bounds"
 type: docs
-weight: 50
-url: /net/aspose.cad/rawdatasettings/fallbackindex/
+weight: 70
+url: "/net/aspose.cad/rawdatasettings/fallbackindex/"
+product_version: "26.9"
 ---
 ## RawDataSettings.FallbackIndex property
 
@@ -20,8 +23,7 @@ The fallback index to use when palette index is out of bounds
 
 ### See Also
 
-* class [RawDataSettings](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RawDataSettings](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

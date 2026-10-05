@@ -1,10 +1,13 @@
 ---
-title: CadBlockFlipParameter.CadBlockFlipParameter
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockFlipParameter constructor. Initializes a new instance of the CadBlockFlipParameter class
+title: "CadBlockFlipParameter.CadBlockFlipParameter"
+linktitle: "CadBlockFlipParameter"
+articleTitle: "CadBlockFlipParameter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockFlipParameter constructor. Initializes a new instance of the CadBlockFlipParameter class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockflipparameter/cadblockflipparameter/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockflipparameter/cadblockflipparameter/"
+product_version: "26.9"
 ---
 ## CadBlockFlipParameter constructor
 
@@ -16,8 +19,7 @@ public CadBlockFlipParameter()
 
 ### See Also
 
-* class [CadBlockFlipParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockFlipParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

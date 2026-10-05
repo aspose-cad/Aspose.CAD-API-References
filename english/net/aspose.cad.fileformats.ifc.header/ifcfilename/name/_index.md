@@ -1,10 +1,13 @@
 ---
-title: IfcFileName.Name
-second_title: Aspose.CAD for .NET API Reference
-description: IfcFileName property. Gets or sets the name
+title: "IfcFileName.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcFileName property. Gets or sets the name."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.ifc.header/ifcfilename/name/
+weight: 20
+url: "/net/aspose.cad.fileformats.ifc.header/ifcfilename/name/"
+product_version: "26.9"
 ---
 ## IfcFileName.Name property
 
@@ -27,8 +30,7 @@ var name = fileName.Name
 
 ### See Also
 
-* class [IfcFileName](../)
-* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcFileName](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.Header](../../../aspose.cad.fileformats.ifc.header/)
+* assembly [Aspose.CAD](../../../)
 

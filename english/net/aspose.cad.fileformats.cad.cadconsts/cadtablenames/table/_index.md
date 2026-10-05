@@ -1,10 +1,13 @@
 ---
-title: CadTableNames.Table
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableNames field. Cad name string
+title: "CadTableNames.Table"
+linktitle: "Table"
+articleTitle: "Table"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableNames field. Cad name string."
 type: docs
 weight: 200
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/table/
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/table/"
+product_version: "26.9"
 ---
 ## CadTableNames.Table field
 
@@ -16,8 +19,7 @@ public const string Table;
 
 ### See Also
 
-* class [CadTableNames](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableNames](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

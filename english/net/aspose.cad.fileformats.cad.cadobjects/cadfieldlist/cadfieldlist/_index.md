@@ -1,10 +1,13 @@
 ---
-title: CadFieldList.CadFieldList
-second_title: Aspose.CAD for .NET API Reference
-description: CadFieldList constructor. Initializes a new instance of the CadFieldList class
+title: "CadFieldList.CadFieldList"
+linktitle: "CadFieldList"
+articleTitle: "CadFieldList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadFieldList constructor. Initializes a new instance of the CadFieldList class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadfieldlist/cadfieldlist/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadfieldlist/cadfieldlist/"
+product_version: "26.9"
 ---
 ## CadFieldList constructor
 
@@ -16,8 +19,7 @@ public CadFieldList()
 
 ### See Also
 
-* class [CadFieldList](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadFieldList](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

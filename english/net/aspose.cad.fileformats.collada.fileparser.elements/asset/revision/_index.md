@@ -1,14 +1,19 @@
 ---
-title: Asset.Revision
-second_title: Aspose.CAD for .NET API Reference
-description: Asset property. Gets or sets the revision information. The revision element contains the revision information for the parent element. The revision element may appear zero or one time
+title: "Asset.Revision"
+linktitle: "Revision"
+articleTitle: "Revision"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Asset property. Gets or sets the revision information. The revision element contains the revision information for the parent element. The revision element ma..."
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/asset/revision/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/asset/revision/"
+product_version: "26.9"
 ---
 ## Asset.Revision property
 
-Gets or sets the revision information. The revision element contains the revision information for the parent element. The revision element may appear zero or one time.
+Gets or sets the revision information.
+ The revision element contains the revision information for the parent element.
+ The revision element may appear zero or one time.
 
 ```csharp
 public string Revision { get; set; }
@@ -16,8 +21,7 @@ public string Revision { get; set; }
 
 ### See Also
 
-* class [Asset](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Asset](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

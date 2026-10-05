@@ -1,11 +1,30 @@
 ---
-title: CadIntParameter.CadIntParameter
-second_title: Aspose.CAD for .NET API Reference
-description: CadIntParameter constructor. Initializes a new instance of the CadIntParameter class
+title: "CadIntParameter.CadIntParameter"
+linktitle: "CadIntParameter"
+articleTitle: "CadIntParameter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadIntParameter constructor. Initializes a new instance of the CadIntParameter class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadparameters/cadintparameter/cadintparameter/
+url: "/net/aspose.cad.fileformats.cad.cadparameters/cadintparameter/cadintparameter/"
+product_version: "26.9"
 ---
+## CadIntParameter() {#constructor}
+
+Initializes a new instance of the [`CadIntParameter`](../) class.
+
+```csharp
+public CadIntParameter()
+```
+
+### See Also
+
+* class [CadIntParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
 ## CadIntParameter(CadEntityAttribute) {#constructor_1}
 
 Initializes a new instance of the [`CadIntParameter`](../) class.
@@ -20,25 +39,8 @@ public CadIntParameter(CadEntityAttribute type)
 
 ### See Also
 
-* enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
-* class [CadIntParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## CadIntParameter() {#constructor}
-
-Initializes a new instance of the [`CadIntParameter`](../) class.
-
-```csharp
-public CadIntParameter()
-```
-
-### See Also
-
-* class [CadIntParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
+* class [CadIntParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
+* assembly [Aspose.CAD](../../../)
 

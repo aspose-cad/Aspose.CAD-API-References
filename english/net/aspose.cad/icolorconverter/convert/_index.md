@@ -1,10 +1,13 @@
 ---
-title: IColorConverter.Convert
-second_title: Aspose.CAD for .NET API Reference
-description: IColorConverter method. Converts the passed data to the output format
+title: "IColorConverter.Convert"
+linktitle: "Convert"
+articleTitle: "Convert"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IColorConverter method. Converts the passed data to the output format."
 type: docs
 weight: 10
-url: /net/aspose.cad/icolorconverter/convert/
+url: "/net/aspose.cad/icolorconverter/convert/"
+product_version: "26.9"
 ---
 ## IColorConverter.Convert method
 
@@ -34,9 +37,8 @@ The converted bytes count.
 
 ### See Also
 
-* class [PixelDataFormat](../../pixeldataformat/)
-* interface [IColorConverter](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PixelDataFormat](../../pixeldataformat/)
+* interface [IColorConverter](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

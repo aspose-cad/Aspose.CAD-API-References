@@ -1,10 +1,13 @@
 ---
-title: PsdOptions.XmpData
-second_title: Aspose.CAD for .NET API Reference
-description: PsdOptions property. Get or set XMP data container
+title: "PsdOptions.XmpData"
+linktitle: "XmpData"
+articleTitle: "XmpData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PsdOptions property. Get or set XMP data container"
 type: docs
-weight: 80
-url: /net/aspose.cad.imageoptions/psdoptions/xmpdata/
+weight: 40
+url: "/net/aspose.cad.imageoptions/psdoptions/xmpdata/"
+product_version: "26.9"
 ---
 ## PsdOptions.XmpData property
 
@@ -16,9 +19,8 @@ public override XmpPacketWrapper XmpData { get; set; }
 
 ### See Also
 
-* class [XmpPacketWrapper](../../../aspose.cad/xmppacketwrapper/)
-* class [PsdOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [XmpPacketWrapper](../../../aspose.cad/xmppacketwrapper/)
+* class [PsdOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

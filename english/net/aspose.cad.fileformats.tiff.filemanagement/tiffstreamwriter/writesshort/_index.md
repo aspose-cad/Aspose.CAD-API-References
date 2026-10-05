@@ -1,10 +1,13 @@
 ---
-title: TiffStreamWriter.WriteSShort
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamWriter method. Writes a single short value to the stream
+title: "TiffStreamWriter.WriteSShort"
+linktitle: "WriteSShort"
+articleTitle: "WriteSShort"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamWriter method. Writes a single short value to the stream."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesshort/
+weight: 150
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writesshort/"
+product_version: "26.9"
 ---
 ## TiffStreamWriter.WriteSShort method
 
@@ -20,8 +23,7 @@ public void WriteSShort(short data)
 
 ### See Also
 
-* class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamWriter](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

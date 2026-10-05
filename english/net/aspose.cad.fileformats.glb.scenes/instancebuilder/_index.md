@@ -1,10 +1,14 @@
 ---
-title: Class InstanceBuilder
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Scenes.InstanceBuilder class. Represents an element within Instances
+title: "InstanceBuilder Class"
+linktitle: "InstanceBuilder"
+articleTitle: "InstanceBuilder"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Scenes.InstanceBuilder class. Represents an element within Instances"
 type: docs
-weight: 11340
-url: /net/aspose.cad.fileformats.glb.scenes/instancebuilder/
+weight: 80
+url: "/net/aspose.cad.fileformats.glb.scenes/instancebuilder/"
+keywords: "InstanceBuilder, Aspose.CAD.FileFormats.GLB.Scenes, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## InstanceBuilder class
 
@@ -18,10 +22,10 @@ public sealed class InstanceBuilder
 
 | Name | Description |
 | --- | --- |
-| [Content](../../aspose.cad.fileformats.glb.scenes/instancebuilder/content/) { get; set; } | Gets or sets the content of this instance. It can be one of those types: - [`FixedTransformer`](../fixedtransformer/) - [`RigidTransformer`](../rigidtransformer/) - [`SkinnedTransformer`](../skinnedtransformer/) |
-| [Extras](../../aspose.cad.fileformats.glb.scenes/instancebuilder/extras/) { get; } | Gets the custom data of this object. |
-| [Materials](../../aspose.cad.fileformats.glb.scenes/instancebuilder/materials/) { get; } | Gets the materials used by [`Content`](./content/). |
-| [Name](../../aspose.cad.fileformats.glb.scenes/instancebuilder/name/) { get; } | Gets the display text name of this object, or null. |
+| [Content](../../aspose.cad.fileformats.glb.scenes/instancebuilder/content/) { get; set; } | Gets or sets the content of this instance. |
+| [Extras](../../aspose.cad.fileformats.glb.scenes/instancebuilder/extras/) { get; } | Gets the custom data of this object. |
+| [Materials](../../aspose.cad.fileformats.glb.scenes/instancebuilder/materials/) { get; } | Gets the materials used by [`Content`](./content/). |
+| [Name](../../aspose.cad.fileformats.glb.scenes/instancebuilder/name/) { get; } | Gets the display text name of this object, or null. |
 
 ## Methods
 
@@ -33,7 +37,6 @@ public sealed class InstanceBuilder
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../aspose.cad.fileformats.glb.scenes/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../)
 

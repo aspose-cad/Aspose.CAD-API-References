@@ -1,10 +1,14 @@
 ---
-title: Class CadParameter
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadParameters.CadParameter class. Parameter base class
+title: "CadParameter Class"
+linktitle: "CadParameter"
+articleTitle: "CadParameter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadParameters.CadParameter class. Parameter base class"
 type: docs
-weight: 4210
-url: /net/aspose.cad.fileformats.cad.cadparameters/cadparameter/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadparameters/cadparameter/"
+keywords: "CadParameter, Aspose.CAD.FileFormats.Cad.CadParameters, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadParameter class
 
@@ -25,20 +29,19 @@ public abstract class CadParameter
 
 | Name | Description |
 | --- | --- |
-| [Type](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/type/) { get; } | Gets the type. |
+| [Type](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/type/) { get; } | Gets the type. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/#init)(CadCodeValue) | Initialize the specified value. |
-| abstract [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/#init_3)(object) | Initialize the specified value. |
-| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/#init_1)(CadEntityAttribute, CadCodeValue) | Initialize the specified type. |
-| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/#init_2)(CadEntityAttribute, object) | Initialize the specified type. |
+| abstract [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/#init)(CadCodeValue) | Initialize the specified value. |
+| abstract [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/#init_1)(object) | Initialize the specified value. |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/#init_2)(CadEntityAttribute, CadCodeValue) | Initialize the specified type. |
+| [Init](../../aspose.cad.fileformats.cad.cadparameters/cadparameter/init/#init_3)(CadEntityAttribute, object) | Initialize the specified type. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../aspose.cad.fileformats.cad.cadparameters/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../aspose.cad.fileformats.cad.cadparameters/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadEmbeddedObject.DataList
-second_title: Aspose.CAD for .NET API Reference
-description: CadEmbeddedObject property. Gets or sets the data list
+title: "CadEmbeddedObject.DataList"
+linktitle: "DataList"
+articleTitle: "DataList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEmbeddedObject property. Gets or sets the data list."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadembeddedobject/datalist/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadembeddedobject/datalist/"
+product_version: "26.9"
 ---
 ## CadEmbeddedObject.DataList property
 
@@ -16,9 +19,8 @@ public List<CadCodeValue> DataList { get; set; }
 
 ### See Also
 
-* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
-* class [CadEmbeddedObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
+* class [CadEmbeddedObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

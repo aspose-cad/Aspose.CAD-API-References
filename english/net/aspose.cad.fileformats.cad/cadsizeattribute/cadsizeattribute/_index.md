@@ -1,10 +1,13 @@
 ---
-title: CadSizeAttribute.CadSizeAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: CadSizeAttribute constructor. Initializes a new instance of the CadSizeAttribute class
+title: "CadSizeAttribute.CadSizeAttribute"
+linktitle: "CadSizeAttribute"
+articleTitle: "CadSizeAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSizeAttribute constructor. Initializes a new instance of the CadSizeAttribute class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadsizeattribute/cadsizeattribute/
+url: "/net/aspose.cad.fileformats.cad/cadsizeattribute/cadsizeattribute/"
+product_version: "26.9"
 ---
 ## CadSizeAttribute constructor
 
@@ -24,10 +27,9 @@ public CadSizeAttribute(CadEntityAttribute width, CadEntityAttribute height,
 
 ### See Also
 
-* enum [CadEntityAttribute](../../cadentityattribute/)
-* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
-* class [CadSizeAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* enum [CadParameterType](../../../aspose.cad.fileformats.cad.cadconsts/cadparametertype/)
+* class [CadSizeAttribute](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

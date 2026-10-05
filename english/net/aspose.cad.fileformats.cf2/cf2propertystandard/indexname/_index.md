@@ -1,10 +1,13 @@
 ---
-title: CF2PropertyStandard.IndexName
-second_title: Aspose.CAD for .NET API Reference
-description: CF2PropertyStandard property. The index of property name from Standard Message File
+title: "CF2PropertyStandard.IndexName"
+linktitle: "IndexName"
+articleTitle: "IndexName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2PropertyStandard property. The index of property name (from Standard Message File)"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cf2/cf2propertystandard/indexname/
+url: "/net/aspose.cad.fileformats.cf2/cf2propertystandard/indexname/"
+product_version: "26.9"
 ---
 ## CF2PropertyStandard.IndexName property
 
@@ -16,8 +19,7 @@ public int IndexName { get; set; }
 
 ### See Also
 
-* class [CF2PropertyStandard](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2PropertyStandard](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

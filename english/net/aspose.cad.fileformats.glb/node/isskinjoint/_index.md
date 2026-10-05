@@ -1,10 +1,13 @@
 ---
-title: Node.IsSkinJoint
-second_title: Aspose.CAD for .NET API Reference
-description: Node property. Gets a value indicating whether this node is used as a Bone joint in a Skin
+title: "Node.IsSkinJoint"
+linktitle: "IsSkinJoint"
+articleTitle: "IsSkinJoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Node property. Gets a value indicating whether this node is used as a Bone joint in a Skin."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.glb/node/isskinjoint/
+weight: 180
+url: "/net/aspose.cad.fileformats.glb/node/isskinjoint/"
+product_version: "26.9"
 ---
 ## Node.IsSkinJoint property
 
@@ -16,8 +19,7 @@ public bool IsSkinJoint { get; }
 
 ### See Also
 
-* class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

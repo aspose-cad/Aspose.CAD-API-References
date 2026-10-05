@@ -1,12 +1,17 @@
 ---
-title: Enum HatchStyleDefinition.HatchStyle
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.HatchStyleDefinitionHatchStyle enum. 
+title: "HatchStyleDefinition.HatchStyle Enum"
+linktitle: "HatchStyleDefinition.HatchStyle"
+articleTitle: "HatchStyleDefinition.HatchStyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.HatchStyleDefinition.HatchStyle enum."
 type: docs
-weight: 5870
-url: /net/aspose.cad.fileformats.cgm.commands/hatchstyledefinition.hatchstyle/
+weight: 1140
+url: "/net/aspose.cad.fileformats.cgm.commands/hatchstyledefinition.hatchstyle/"
+product_version: "26.9"
 ---
 ## HatchStyleDefinition.HatchStyle enumeration
+
+
 
 ```csharp
 public enum HatchStyle
@@ -21,8 +26,7 @@ public enum HatchStyle
 
 ### See Also
 
-* class [HatchStyleDefinition](../hatchstyledefinition/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [HatchStyleDefinition](../hatchstyledefinition/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

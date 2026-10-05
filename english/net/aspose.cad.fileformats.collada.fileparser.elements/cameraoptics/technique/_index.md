@@ -1,14 +1,18 @@
 ---
-title: CameraOptics.Technique
-second_title: Aspose.CAD for .NET API Reference
-description: CameraOptics property. Gets or sets the technique. Each technique specifies optics information for a specific profile as designated by the techniques profile attribute
+title: "CameraOptics.Technique"
+linktitle: "Technique"
+articleTitle: "Technique"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CameraOptics property. Gets or sets the technique. Each technique specifies optics information for a specific profile as designated by the technique’s profil..."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/cameraoptics/technique/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/cameraoptics/technique/"
+product_version: "26.9"
 ---
 ## CameraOptics.Technique property
 
-Gets or sets the technique. Each technique specifies optics information for a specific profile as designated by the technique’s profile attribute.
+Gets or sets the technique.
+ Each technique specifies optics information for a specific profile as designated by the technique’s profile attribute.
 
 ```csharp
 public Technique[] Technique { get; set; }
@@ -16,9 +20,8 @@ public Technique[] Technique { get; set; }
 
 ### See Also
 
-* class [Technique](../../technique/)
-* class [CameraOptics](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Technique](../../technique/)
+* class [CameraOptics](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

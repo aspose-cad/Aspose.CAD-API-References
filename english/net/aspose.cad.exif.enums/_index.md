@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.Exif.Enums
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains EXIF enumerations
+title: "Aspose.CAD.Exif.Enums"
+linktitle: "Aspose.CAD.Exif.Enums"
+articleTitle: "Aspose.CAD.Exif.Enums"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains EXIF enumerations."
 type: docs
-weight: 70
-url: /net/aspose.cad.exif.enums/
+weight: 10
+url: "/net/aspose.cad.exif.enums/"
+keywords: "Aspose.CAD.Exif.Enums, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains EXIF enumerations.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Enumeration
 
@@ -19,8 +27,8 @@ The namespace contains EXIF enumerations.
 | [ExifExposureProgram](./exifexposureprogram/) | exif exposure program enum. |
 | [ExifFileSource](./exiffilesource/) | exif file source enum. |
 | [ExifFlash](./exifflash/) | Flash mode. |
-| [ExifGainControl](./exifgaincontrol/) | exif gain control enum. |
 | [ExifGPSAltitudeRef](./exifgpsaltituderef/) | exif gps altitude ref enum. |
+| [ExifGainControl](./exifgaincontrol/) | exif gain control enum. |
 | [ExifLightSource](./exiflightsource/) | The exif light source. |
 | [ExifMeteringMode](./exifmeteringmode/) | exif metering mode enum. |
 | [ExifOrientation](./exiforientation/) | Exif image orientation. |
@@ -31,5 +39,4 @@ The namespace contains EXIF enumerations.
 | [ExifUnit](./exifunit/) | exif unit enum. |
 | [ExifWhiteBalance](./exifwhitebalance/) | exif white balance enum. |
 | [ExifYCbCrPositioning](./exifycbcrpositioning/) | exif y cb cr positioning enum. |
-
 

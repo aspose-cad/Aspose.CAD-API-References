@@ -1,14 +1,20 @@
 ---
-title: DwfImage.AddElement
-second_title: Aspose.CAD for .NET API Reference
-description: DwfImage method. Adds graphic element to specified page. Provides an opportunity to add a new graphic element to the existing ones in the image. To add it you need to create a new graphic element and specify the index of the page in Pages array to which the element should be added
+title: "DwfImage.AddElement"
+linktitle: "AddElement"
+articleTitle: "AddElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfImage method. Adds graphic element to specified page. Provides an opportunity to add a new graphic element to the existing ones in the image. To add it, y..."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.dwf/dwfimage/addelement/
+weight: 10
+url: "/net/aspose.cad.fileformats.dwf/dwfimage/addelement/"
+product_version: "26.9"
 ---
 ## DwfImage.AddElement method
 
-Adds graphic element to specified page. Provides an opportunity to add a new graphic element to the existing ones in the image. To add it, you need to create a new graphic element and specify the index of the page in [`Pages`](../pages/) array to which the element should be added.
+Adds graphic element to specified page.
+ Provides an opportunity to add a new graphic element to the existing ones in the image.
+ To add it, you need to create a new graphic element and
+ specify the index of the page in [`Pages`](../pages/) array to which the element should be added.
 
 ```csharp
 public void AddElement(int pageNumber, DwfWhipDrawable element)
@@ -56,9 +62,8 @@ using (FileStream stream = new FileStream(outFile, FileMode.Create))
 
 ### See Also
 
-* class [DwfWhipDrawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/)
-* class [DwfImage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipDrawable](../../../aspose.cad.fileformats.dwf.whip.objects.drawable/dwfwhipdrawable/)
+* class [DwfImage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

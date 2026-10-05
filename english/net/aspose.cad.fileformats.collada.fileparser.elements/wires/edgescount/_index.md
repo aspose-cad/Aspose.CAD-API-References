@@ -1,14 +1,18 @@
 ---
-title: Wires.EdgesCount
-second_title: Aspose.CAD for .NET API Reference
-description: Wires property. Gets or sets the edges count. Contains a list of integers describing the number of edges for each wire
+title: "Wires.EdgesCount"
+linktitle: "EdgesCount"
+articleTitle: "EdgesCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Wires property. Gets or sets the edges count. Contains a list of integers describing the number of edges for each wire."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/wires/edgescount/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/wires/edgescount/"
+product_version: "26.9"
 ---
 ## Wires.EdgesCount property
 
-Gets or sets the edges count. Contains a list of integers describing the number of edges for each wire.
+Gets or sets the edges count.
+ Contains a list of integers describing the number of edges for each wire.
 
 ```csharp
 public string EdgesCount { get; set; }
@@ -16,8 +20,7 @@ public string EdgesCount { get; set; }
 
 ### See Also
 
-* class [Wires](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Wires](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

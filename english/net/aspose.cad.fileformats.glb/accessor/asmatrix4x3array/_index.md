@@ -1,12 +1,17 @@
 ---
-title: Accessor.AsMatrix4x3Array
-second_title: Aspose.CAD for .NET API Reference
-description: Accessor method. 
+title: "Accessor.AsMatrix4x3Array"
+linktitle: "AsMatrix4x3Array"
+articleTitle: "AsMatrix4x3Array"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Accessor method."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.glb/accessor/asmatrix4x3array/
+weight: 50
+url: "/net/aspose.cad.fileformats.glb/accessor/asmatrix4x3array/"
+product_version: "26.9"
 ---
 ## Accessor.AsMatrix4x3Array method
+
+
 
 ```csharp
 public IList<Matrix4x4> AsMatrix4x3Array()
@@ -14,8 +19,7 @@ public IList<Matrix4x4> AsMatrix4x3Array()
 
 ### See Also
 
-* class [Accessor](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Accessor](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

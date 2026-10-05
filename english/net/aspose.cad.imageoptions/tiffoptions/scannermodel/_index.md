@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.ScannerModel
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets or sets the scanner model
+title: "TiffOptions.ScannerModel"
+linktitle: "ScannerModel"
+articleTitle: "ScannerModel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets or sets the scanner model."
 type: docs
-weight: 370
-url: /net/aspose.cad.imageoptions/tiffoptions/scannermodel/
+weight: 350
+url: "/net/aspose.cad.imageoptions/tiffoptions/scannermodel/"
+product_version: "26.9"
 ---
 ## TiffOptions.ScannerModel property
 
@@ -20,8 +23,7 @@ The scanner model.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

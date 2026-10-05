@@ -1,10 +1,13 @@
 ---
-title: CadSymbolTableGroupCodes.MaxTableEntriesCount
-second_title: Aspose.CAD for .NET API Reference
-description: CadSymbolTableGroupCodes property. Gets or sets the maximum table entries count
+title: "CadSymbolTableGroupCodes.MaxTableEntriesCount"
+linktitle: "MaxTableEntriesCount"
+articleTitle: "MaxTableEntriesCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSymbolTableGroupCodes property. Gets or sets the maximum table entries count."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/maxtableentriescount/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadsymboltablegroupcodes/maxtableentriescount/"
+product_version: "26.9"
 ---
 ## CadSymbolTableGroupCodes.MaxTableEntriesCount property
 
@@ -20,8 +23,7 @@ The maximum table entries count.
 
 ### See Also
 
-* class [CadSymbolTableGroupCodes](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSymbolTableGroupCodes](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

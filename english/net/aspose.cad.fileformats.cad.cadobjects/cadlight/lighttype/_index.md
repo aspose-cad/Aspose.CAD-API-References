@@ -1,10 +1,13 @@
 ---
-title: CadLight.LightType
-second_title: Aspose.CAD for .NET API Reference
-description: CadLight property. Gets or sets the type of the light
+title: "CadLight.LightType"
+linktitle: "LightType"
+articleTitle: "LightType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLight property. Gets or sets the type of the light."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/lighttype/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlight/lighttype/"
+product_version: "26.9"
 ---
 ## CadLight.LightType property
 
@@ -20,8 +23,7 @@ The type of the light.
 
 ### See Also
 
-* class [CadLight](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLight](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

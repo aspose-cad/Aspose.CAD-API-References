@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.IccProfile
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets the icc profile stream
+title: "TiffOptions.IccProfile"
+linktitle: "IccProfile"
+articleTitle: "IccProfile"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets the icc profile stream."
 type: docs
-weight: 150
-url: /net/aspose.cad.imageoptions/tiffoptions/iccprofile/
+weight: 180
+url: "/net/aspose.cad.imageoptions/tiffoptions/iccprofile/"
+product_version: "26.9"
 ---
 ## TiffOptions.IccProfile property
 
@@ -20,8 +23,7 @@ The icc profile.
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Interface ICurveSamplerT
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Animations.ICurveSampler1T interface. Defines a curve that can be sampled at any point
+title: "ICurveSampler<T> Interface"
+linktitle: "ICurveSampler<T>"
+articleTitle: "ICurveSampler<T>"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Animations.ICurveSampler interface. Defines a curve that can be sampled at any point."
 type: docs
-weight: 10260
-url: /net/aspose.cad.fileformats.glb.animations/icurvesampler-1/
+weight: 50
+url: "/net/aspose.cad.fileformats.glb.animations/icurvesampler-1/"
+product_version: "26.9"
 ---
 ## ICurveSampler&lt;T&gt; interface
 
@@ -26,7 +29,6 @@ public interface ICurveSampler<T>
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../)
 

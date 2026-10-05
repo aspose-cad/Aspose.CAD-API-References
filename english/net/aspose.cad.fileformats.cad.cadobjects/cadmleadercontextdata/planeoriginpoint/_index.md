@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.PlaneOriginPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets a value indicating whether plane origin point
+title: "CadMLeaderContextData.PlaneOriginPoint"
+linktitle: "PlaneOriginPoint"
+articleTitle: "PlaneOriginPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets a value indicating whether [plane origin point]."
 type: docs
-weight: 180
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/planeoriginpoint/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/planeoriginpoint/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.PlaneOriginPoint property
 
@@ -20,9 +23,8 @@ public Cad3DPoint PlaneOriginPoint { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

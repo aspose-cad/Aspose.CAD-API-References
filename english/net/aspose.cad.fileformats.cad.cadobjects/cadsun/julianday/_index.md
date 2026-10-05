@@ -1,10 +1,13 @@
 ---
-title: CadSun.JulianDay
-second_title: Aspose.CAD for .NET API Reference
-description: CadSun property. Gets or sets the julian day
+title: "CadSun.JulianDay"
+linktitle: "JulianDay"
+articleTitle: "JulianDay"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSun property. Gets or sets the julian day."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsun/julianday/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsun/julianday/"
+product_version: "26.9"
 ---
 ## CadSun.JulianDay property
 
@@ -16,8 +19,7 @@ public int JulianDay { get; set; }
 
 ### See Also
 
-* class [CadSun](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSun](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

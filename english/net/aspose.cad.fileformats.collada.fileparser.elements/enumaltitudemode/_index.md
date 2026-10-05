@@ -1,14 +1,18 @@
 ---
-title: Enum EnumAltitudeMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumAltitudeMode enum. The altitude mode. The legal values for the mode attribute on the altitude element in a geographic_location element
+title: "EnumAltitudeMode Enum"
+linktitle: "EnumAltitudeMode"
+articleTitle: "EnumAltitudeMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumAltitudeMode enum. The altitude mode. The legal values for the mode attribute on the altitude element ..."
 type: docs
-weight: 7620
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumaltitudemode/
+weight: 300
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/enumaltitudemode/"
+product_version: "26.9"
 ---
 ## EnumAltitudeMode enumeration
 
-The altitude mode. The legal values for the mode attribute on the altitude element in a geographic_location element.
+The altitude mode.
+ The legal values for the mode attribute on the altitude element in a geographic_location element.
 
 ```csharp
 public enum EnumAltitudeMode
@@ -23,7 +27,6 @@ public enum EnumAltitudeMode
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

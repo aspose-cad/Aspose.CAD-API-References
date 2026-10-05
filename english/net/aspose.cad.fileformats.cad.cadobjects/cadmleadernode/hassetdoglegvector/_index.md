@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderNode.HasSetDoglegVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderNode property. Gets or sets a value indicating whether this instance has set dogleg vector
+title: "CadMLeaderNode.HasSetDoglegVector"
+linktitle: "HasSetDoglegVector"
+articleTitle: "HasSetDoglegVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderNode property. Gets or sets a value indicating whether this instance has set dogleg vector."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/hassetdoglegvector/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadernode/hassetdoglegvector/"
+product_version: "26.9"
 ---
 ## CadMLeaderNode.HasSetDoglegVector property
 
@@ -20,8 +23,7 @@ public bool HasSetDoglegVector { get; set; }
 
 ### See Also
 
-* class [CadMLeaderNode](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderNode](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PltPlotPage.PltPlotPage
-second_title: Aspose.CAD for .NET API Reference
-description: PltPlotPage constructor. Initializes a new instance of the PltPlotPage class
+title: "PltPlotPage.PltPlotPage"
+linktitle: "PltPlotPage"
+articleTitle: "PltPlotPage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PltPlotPage constructor. Initializes a new instance of the PltPlotPage class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.plt.pltparsers.pltparser/pltplotpage/pltplotpage/
+url: "/net/aspose.cad.fileformats.plt.pltparsers.pltparser/pltplotpage/pltplotpage/"
+product_version: "26.9"
 ---
 ## PltPlotPage constructor
 
@@ -20,9 +23,8 @@ public PltPlotPage(PltPlotObject[] objects)
 
 ### See Also
 
-* class [PltPlotObject](../../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotobject/)
-* class [PltPlotPage](../)
-* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser](../../../aspose.cad.fileformats.plt.pltparsers.pltparser/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PltPlotObject](../../../aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/pltplotobject/)
+* class [PltPlotPage](../)
+* namespace [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser](../../../aspose.cad.fileformats.plt.pltparsers.pltparser/)
+* assembly [Aspose.CAD](../../../)
 

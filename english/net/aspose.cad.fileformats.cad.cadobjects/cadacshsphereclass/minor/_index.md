@@ -1,10 +1,13 @@
 ---
-title: CadAcshSphereClass.Minor
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcshSphereClass property. The minor
+title: "CadAcshSphereClass.Minor"
+linktitle: "Minor"
+articleTitle: "Minor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcshSphereClass property. The minor"
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshsphereclass/minor/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshsphereclass/minor/"
+product_version: "26.9"
 ---
 ## CadAcshSphereClass.Minor property
 
@@ -16,8 +19,7 @@ public int Minor { get; set; }
 
 ### See Also
 
-* class [CadAcshSphereClass](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcshSphereClass](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

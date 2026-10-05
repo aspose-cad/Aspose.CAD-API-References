@@ -1,10 +1,14 @@
 ---
-title: Class DgnTagSetElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnTagSetElement class. Represents Tag Set Definition element
+title: "DgnTagSetElement Class"
+linktitle: "DgnTagSetElement"
+articleTitle: "DgnTagSetElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnTagSetElement class. Represents 'Tag Set Definition' element"
 type: docs
-weight: 9020
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/
+weight: 300
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/"
+keywords: "DgnTagSetElement, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnTagSetElement class
 
@@ -18,15 +22,14 @@ public class DgnTagSetElement : DgnElementBase
 
 | Name | Description |
 | --- | --- |
-| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| override [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/id/) { get; } | Gets the identifier. |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
-| [Tags](../../aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/tags/) { get; } | Gets tags of the tag definition |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| override [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/id/) { get; } | Gets the identifier. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
+| [Tags](../../aspose.cad.fileformats.dgn.dgnelements/dgntagsetelement/tags/) { get; } | Gets tags of the tag definition |
 
 ### See Also
 
-* class [DgnElementBase](../dgnelementbase/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* class [DgnElementBase](../dgnelementbase/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

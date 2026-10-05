@@ -1,14 +1,19 @@
 ---
-title: Class PolyBezierSegment
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.PolyBezierSegment class. The poly bezier segment. A series of BÉZIER segments
+title: "PolyBezierSegment Class"
+linktitle: "PolyBezierSegment"
+articleTitle: "PolyBezierSegment"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO.PolyBezierSegment class. The poly bezier segment. A series of BÉZIER segments."
 type: docs
-weight: 9470
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polybeziersegment/
+weight: 230
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polybeziersegment/"
+keywords: "PolyBezierSegment, Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## PolyBezierSegment class
 
-The poly bezier segment. A series of BÉZIER segments.
+The poly bezier segment.
+ A series of BÉZIER segments.
 
 ```csharp
 public class PolyBezierSegment
@@ -24,12 +29,11 @@ public class PolyBezierSegment
 
 | Name | Description |
 | --- | --- |
-| [IsStroked](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polybeziersegment/isstroked/) { get; set; } | Gets or sets a value indicating whether is stroked. Specifies whether the stroke for this segment of the path is drawn. Can be true or false. |
-| [Points](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polybeziersegment/points/) { get; set; } | Gets or sets the points. Specifies control points for multiple BÉZIER segments. Coordinate values within each pair are comma-separated and additional whitespace can appear. Coordinate pairs are separated from other coordinate pairs by whitespace. |
+| [IsStroked](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polybeziersegment/isstroked/) { get; set; } | Gets or sets a value indicating whether is stroked. Specifies whether the stroke for this segment of the path is drawn. Can be true or false. |
+| [Points](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/polybeziersegment/points/) { get; set; } | Gets or sets the points. Specifies control points for multiple BÉZIER segments. Coordinate values within each pair are comma-separated and additional whitespace can appear. Coordinate pairs are separated from other coordinate pairs by whitespace. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](../../aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/)
+* assembly [Aspose.CAD](../../)
 

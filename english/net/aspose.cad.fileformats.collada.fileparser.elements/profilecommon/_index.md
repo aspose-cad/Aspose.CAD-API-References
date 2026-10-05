@@ -1,14 +1,19 @@
 ---
-title: Class ProfileCommon
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.ProfileCommon class. The profile common. Opens a block of COMMON platformspecific data types and technique declarations
+title: "ProfileCommon Class"
+linktitle: "ProfileCommon"
+articleTitle: "ProfileCommon"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.ProfileCommon class. The profile common. Opens a block of COMMON platform-specific data types and techniqu..."
 type: docs
-weight: 8310
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/profilecommon/
+weight: 1000
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/profilecommon/"
+keywords: "ProfileCommon, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## ProfileCommon class
 
-The profile common. Opens a block of COMMON platform-specific data types and technique declarations.
+The profile common.
+ Opens a block of COMMON platform-specific data types and technique declarations.
 
 ```csharp
 public class ProfileCommon : ColladaElement
@@ -24,15 +29,14 @@ public class ProfileCommon : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/asset/) { get; set; } | Gets or sets the asset. |
-| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/extra/) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
-| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/id/) { get; set; } | Gets or sets the id. |
-| [Technique](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/technique/) { get; set; } | Gets or sets the technique. Holds a description of the textures, samplers, SHADERS, parameters, and passes necessary for rendering this effect using one method. |
+| [Asset](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/asset/) { get; set; } | Gets or sets the asset. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/extra/) { get; set; } | Gets or sets the extra. The extra element may appear any number of times. |
+| [Id](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/id/) { get; set; } | Gets or sets the id. |
+| [Technique](../../aspose.cad.fileformats.collada.fileparser.elements/profilecommon/technique/) { get; set; } | Gets or sets the technique. Holds a description of the textures, samplers, SHADERS, parameters, and passes necessary for rendering this effect using one method. |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadLight.AttenuationStartLimit
-second_title: Aspose.CAD for .NET API Reference
-description: CadLight property. Gets or sets the attenuation start limit
+title: "CadLight.AttenuationStartLimit"
+linktitle: "AttenuationStartLimit"
+articleTitle: "AttenuationStartLimit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLight property. Gets or sets the attenuation start limit."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/attenuationstartlimit/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlight/attenuationstartlimit/"
+product_version: "26.9"
 ---
 ## CadLight.AttenuationStartLimit property
 
@@ -20,8 +23,7 @@ The attenuation start limit.
 
 ### See Also
 
-* class [CadLight](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLight](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Cad3DSolid.HandleToHistoryObject
-second_title: Aspose.CAD for .NET API Reference
-description: Cad3DSolid property. Gets or sets the handle to history object
+title: "Cad3DSolid.HandleToHistoryObject"
+linktitle: "HandleToHistoryObject"
+articleTitle: "HandleToHistoryObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad3DSolid property. Gets or sets the handle to history object."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dsolid/handletohistoryobject/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad3dsolid/handletohistoryobject/"
+product_version: "26.9"
 ---
 ## Cad3DSolid.HandleToHistoryObject property
 
@@ -20,8 +23,7 @@ The handle to history object.
 
 ### See Also
 
-* class [Cad3DSolid](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DSolid](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

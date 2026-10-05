@@ -1,10 +1,13 @@
 ---
-title: StepRepresentationRelationship.StepRepresentationRelationship
-second_title: Aspose.CAD for .NET API Reference
-description: StepRepresentationRelationship constructor. The default constructor
+title: "StepRepresentationRelationship.StepRepresentationRelationship"
+linktitle: "StepRepresentationRelationship"
+articleTitle: "StepRepresentationRelationship"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepRepresentationRelationship constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.stp.items/steprepresentationrelationship/steprepresentationrelationship/
+url: "/net/aspose.cad.fileformats.stp.items/steprepresentationrelationship/steprepresentationrelationship/"
+product_version: "26.9"
 ---
 ## StepRepresentationRelationship constructor
 
@@ -16,8 +19,7 @@ public StepRepresentationRelationship()
 
 ### See Also
 
-* class [StepRepresentationRelationship](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StepRepresentationRelationship](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

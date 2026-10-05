@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.VerticalCellMargin
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. Gets or sets the vertical cell margin
+title: "CadTableEntity.VerticalCellMargin"
+linktitle: "VerticalCellMargin"
+articleTitle: "VerticalCellMargin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. Gets or sets the vertical cell margin."
 type: docs
-weight: 250
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/verticalcellmargin/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/verticalcellmargin/"
+product_version: "26.9"
 ---
 ## CadTableEntity.VerticalCellMargin property
 
@@ -20,8 +23,7 @@ The vertical cell margin.
 
 ### See Also
 
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

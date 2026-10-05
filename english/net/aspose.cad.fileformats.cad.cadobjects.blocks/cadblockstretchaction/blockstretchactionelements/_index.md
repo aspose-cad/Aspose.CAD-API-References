@@ -1,10 +1,13 @@
 ---
-title: CadBlockStretchAction.BlockStretchActionElements
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockStretchAction property. Gets or sets the cad block stretch action elements
+title: "CadBlockStretchAction.BlockStretchActionElements"
+linktitle: "BlockStretchActionElements"
+articleTitle: "BlockStretchActionElements"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockStretchAction property. Gets or sets the cad block stretch action elements."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchaction/blockstretchactionelements/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockstretchaction/blockstretchactionelements/"
+product_version: "26.9"
 ---
 ## CadBlockStretchAction.BlockStretchActionElements property
 
@@ -20,9 +23,8 @@ The cad block stretch action elements.
 
 ### See Also
 
-* class [CadBlockStretchActionElement](../../cadblockstretchactionelement/)
-* class [CadBlockStretchAction](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockStretchActionElement](../../cadblockstretchactionelement/)
+* class [CadBlockStretchAction](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

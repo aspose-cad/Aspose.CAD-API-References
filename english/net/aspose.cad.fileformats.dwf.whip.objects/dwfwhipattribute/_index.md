@@ -1,10 +1,14 @@
 ---
-title: Class DwfWhipAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfWhipAttribute class. Represents object familt attributes
+title: "DwfWhipAttribute Class"
+linktitle: "DwfWhipAttribute"
+articleTitle: "DwfWhipAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dwf.Whip.Objects.DwfWhipAttribute class. Represents object familt attributes"
 type: docs
-weight: 9880
-url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfwhipattribute/
+weight: 30
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/dwfwhipattribute/"
+keywords: "DwfWhipAttribute, Aspose.CAD.FileFormats.Dwf.Whip.Objects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DwfWhipAttribute class
 
@@ -24,12 +28,11 @@ public class DwfWhipAttribute : DwfWhipObject
 
 | Name | Description |
 | --- | --- |
-| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
+| [IsMaterialized](../../aspose.cad.fileformats.dwf.whip.objects/dwfwhipobject/ismaterialized/) { get; } | Gets or sets value, that object is materialized |
 
 ### See Also
 
-* class [DwfWhipObject](../dwfwhipobject/)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../)
-
+* class [DwfWhipObject](../dwfwhipobject/)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../)
 

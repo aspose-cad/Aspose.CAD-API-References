@@ -1,10 +1,13 @@
 ---
-title: Cad3DVertex.CurveFitTangentDirection
-second_title: Aspose.CAD for .NET API Reference
-description: Cad3DVertex property. Gets or sets the curve fit tangent direction
+title: "Cad3DVertex.CurveFitTangentDirection"
+linktitle: "CurveFitTangentDirection"
+articleTitle: "CurveFitTangentDirection"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad3DVertex property. Gets or sets the curve fit tangent direction."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/cad3dvertex/curvefittangentdirection/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/cad3dvertex/curvefittangentdirection/"
+product_version: "26.9"
 ---
 ## Cad3DVertex.CurveFitTangentDirection property
 
@@ -16,8 +19,7 @@ public override double? CurveFitTangentDirection { get; set; }
 
 ### See Also
 
-* class [Cad3DVertex](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DVertex](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](../../../aspose.cad.fileformats.cad.cadobjects.vertices/)
+* assembly [Aspose.CAD](../../../)
 

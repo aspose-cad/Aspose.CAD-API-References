@@ -1,10 +1,13 @@
 ---
-title: CadBinaryParameter.CadBinaryParameter
-second_title: Aspose.CAD for .NET API Reference
-description: CadBinaryParameter constructor. Initializes a new instance of the CadBinaryParameter class
+title: "CadBinaryParameter.CadBinaryParameter"
+linktitle: "CadBinaryParameter"
+articleTitle: "CadBinaryParameter"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBinaryParameter constructor. Initializes a new instance of the CadBinaryParameter class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadparameters/cadbinaryparameter/cadbinaryparameter/
+url: "/net/aspose.cad.fileformats.cad.cadparameters/cadbinaryparameter/cadbinaryparameter/"
+product_version: "26.9"
 ---
 ## CadBinaryParameter constructor
 
@@ -20,9 +23,8 @@ public CadBinaryParameter(CadEntityAttribute type)
 
 ### See Also
 
-* enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
-* class [CadBinaryParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityAttribute](../../../aspose.cad.fileformats.cad/cadentityattribute/)
+* class [CadBinaryParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
+* assembly [Aspose.CAD](../../../)
 

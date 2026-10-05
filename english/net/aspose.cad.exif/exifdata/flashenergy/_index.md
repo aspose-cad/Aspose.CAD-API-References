@@ -1,10 +1,13 @@
 ---
-title: ExifData.FlashEnergy
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the flash energy
+title: "ExifData.FlashEnergy"
+linktitle: "FlashEnergy"
+articleTitle: "FlashEnergy"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the flash energy."
 type: docs
-weight: 260
-url: /net/aspose.cad.exif/exifdata/flashenergy/
+weight: 310
+url: "/net/aspose.cad.exif/exifdata/flashenergy/"
+product_version: "26.9"
 ---
 ## ExifData.FlashEnergy property
 
@@ -20,9 +23,8 @@ The flash energy.
 
 ### See Also
 
-* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffRational](../../../aspose.cad.fileformats.tiff/tiffrational/)
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

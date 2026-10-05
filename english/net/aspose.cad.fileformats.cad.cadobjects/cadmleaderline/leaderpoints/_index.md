@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderLine.LeaderPoints
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderLine property. Gets or sets the leaderPoints
+title: "CadMLeaderLine.LeaderPoints"
+linktitle: "LeaderPoints"
+articleTitle: "LeaderPoints"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderLine property. Gets or sets the leaderPoints."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/leaderpoints/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderline/leaderpoints/"
+product_version: "26.9"
 ---
 ## CadMLeaderLine.LeaderPoints property
 
@@ -20,9 +23,8 @@ The leaderPoints.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMLeaderLine](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMLeaderLine](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

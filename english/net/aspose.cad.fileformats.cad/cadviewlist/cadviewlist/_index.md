@@ -1,10 +1,13 @@
 ---
-title: CadViewList.CadViewList
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewList constructor. Initializes a new instance of the CadViewList class
+title: "CadViewList.CadViewList"
+linktitle: "CadViewList"
+articleTitle: "CadViewList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewList constructor. Initializes a new instance of the CadViewList class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadviewlist/cadviewlist/
+url: "/net/aspose.cad.fileformats.cad/cadviewlist/cadviewlist/"
+product_version: "26.9"
 ---
 ## CadViewList constructor
 
@@ -16,8 +19,7 @@ public CadViewList()
 
 ### See Also
 
-* class [CadViewList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

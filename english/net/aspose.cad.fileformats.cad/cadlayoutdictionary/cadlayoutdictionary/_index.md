@@ -1,10 +1,13 @@
 ---
-title: CadLayoutDictionary.CadLayoutDictionary
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayoutDictionary constructor. Initializes a new instance of the CadLayoutDictionary class
+title: "CadLayoutDictionary.CadLayoutDictionary"
+linktitle: "CadLayoutDictionary"
+articleTitle: "CadLayoutDictionary"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayoutDictionary constructor. Initializes a new instance of the CadLayoutDictionary class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadlayoutdictionary/cadlayoutdictionary/
+url: "/net/aspose.cad.fileformats.cad/cadlayoutdictionary/cadlayoutdictionary/"
+product_version: "26.9"
 ---
 ## CadLayoutDictionary constructor
 
@@ -16,8 +19,7 @@ public CadLayoutDictionary()
 
 ### See Also
 
-* class [CadLayoutDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLayoutDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

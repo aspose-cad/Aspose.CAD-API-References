@@ -1,10 +1,13 @@
 ---
-title: Enum CadTableSymbols
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadTableSymbols enum. Contains TABLE Types
+title: "CadTableSymbols Enum"
+linktitle: "CadTableSymbols"
+articleTitle: "CadTableSymbols"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadTableSymbols enum. Contains TABLE Types"
 type: docs
-weight: 1590
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablesymbols/
+weight: 550
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadtablesymbols/"
+product_version: "26.9"
 ---
 ## CadTableSymbols enumeration
 
@@ -30,7 +33,6 @@ public enum CadTableSymbols
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

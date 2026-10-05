@@ -1,10 +1,13 @@
 ---
-title: DgnMultiTextElement.LinesNumber
-second_title: Aspose.CAD for .NET API Reference
-description: DgnMultiTextElement property. Gets number of lines
+title: "DgnMultiTextElement.LinesNumber"
+linktitle: "LinesNumber"
+articleTitle: "LinesNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnMultiTextElement property. Gets number of lines"
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/linesnumber/
+weight: 20
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnmultitextelement/linesnumber/"
+product_version: "26.9"
 ---
 ## DgnMultiTextElement.LinesNumber property
 
@@ -16,8 +19,7 @@ public int LinesNumber { get; }
 
 ### See Also
 
-* class [DgnMultiTextElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnMultiTextElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

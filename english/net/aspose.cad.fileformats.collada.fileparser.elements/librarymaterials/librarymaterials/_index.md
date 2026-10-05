@@ -1,10 +1,13 @@
 ---
-title: LibraryMaterials.LibraryMaterials
-second_title: Aspose.CAD for .NET API Reference
-description: LibraryMaterials constructor. The default constructor
+title: "LibraryMaterials.LibraryMaterials"
+linktitle: "LibraryMaterials"
+articleTitle: "LibraryMaterials"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "LibraryMaterials constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/librarymaterials/librarymaterials/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/librarymaterials/librarymaterials/"
+product_version: "26.9"
 ---
 ## LibraryMaterials constructor
 
@@ -16,8 +19,7 @@ public LibraryMaterials()
 
 ### See Also
 
-* class [LibraryMaterials](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [LibraryMaterials](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: GlbData.MergeImages
-second_title: Aspose.CAD for .NET API Reference
-description: GlbData method. Transfers all the LogicalImages content into BufferView instances
+title: "GlbData.MergeImages"
+linktitle: "MergeImages"
+articleTitle: "MergeImages"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "GlbData method. Transfers all the LogicalImages content into BufferView instances"
 type: docs
-weight: 430
-url: /net/aspose.cad.fileformats.glb/glbdata/mergeimages/
+weight: 180
+url: "/net/aspose.cad.fileformats.glb/glbdata/mergeimages/"
+product_version: "26.9"
 ---
 ## GlbData.MergeImages method
 
@@ -16,12 +19,14 @@ public void MergeImages()
 
 ## Remarks
 
-Images can be stored in three different ways: - As satellite files. - Embedded as MIME64 into the JSON document - Referenced with [`BufferView`](../../bufferview/) This call ensures all images will be internalized as [`BufferView`](../../bufferview/) instances. This action cannot be reversed.
+Images can be stored in three different ways:
+ - As satellite files.
+ - Embedded as MIME64 into the JSON document
+ - Referenced with [`BufferView`](../../bufferview/) This call ensures all images will be internalized as [`BufferView`](../../bufferview/) instances. This action cannot be reversed.
 
 ### See Also
 
-* class [GlbData](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [GlbData](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

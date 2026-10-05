@@ -1,14 +1,18 @@
 ---
-title: Bind.Semantic
-second_title: Aspose.CAD for .NET API Reference
-description: Bind property. Gets or sets the semantic. The semantic attribute specifies which effect parameter to bind
+title: "Bind.Semantic"
+linktitle: "Semantic"
+articleTitle: "Semantic"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Bind property. Gets or sets the semantic. The semantic attribute specifies which effect parameter to bind."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/bind/semantic/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/bind/semantic/"
+product_version: "26.9"
 ---
 ## Bind.Semantic property
 
-Gets or sets the semantic. The semantic attribute specifies which effect parameter to bind.
+Gets or sets the semantic.
+ The semantic attribute specifies which effect parameter to bind.
 
 ```csharp
 public string Semantic { get; set; }
@@ -16,8 +20,7 @@ public string Semantic { get; set; }
 
 ### See Also
 
-* class [Bind](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Bind](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

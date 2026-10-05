@@ -1,0 +1,26 @@
+---
+title: "IfcTimeSeries4.UserDefinedDataOrigin"
+linktitle: "UserDefinedDataOrigin"
+articleTitle: "UserDefinedDataOrigin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcTimeSeries4 property."
+type: docs
+weight: 70
+url: "/net/aspose.cad.fileformats.ifc.ifc4.entities/ifctimeseries4/userdefineddataorigin/"
+product_version: "26.9"
+---
+## IfcTimeSeries4.UserDefinedDataOrigin property
+
+
+
+```csharp
+public IfcLabel4 UserDefinedDataOrigin { get; set; }
+```
+
+### See Also
+
+* class [IfcLabel4](../../../aspose.cad.fileformats.ifc.ifc4.types/ifclabel4/)
+* class [IfcTimeSeries4](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
+* assembly [Aspose.CAD](../../../)
+

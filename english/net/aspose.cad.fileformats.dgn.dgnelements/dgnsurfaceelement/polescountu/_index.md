@@ -1,10 +1,13 @@
 ---
-title: DgnSurfaceElement.PolesCountU
-second_title: Aspose.CAD for .NET API Reference
-description: DgnSurfaceElement property. Gets poles count for U
+title: "DgnSurfaceElement.PolesCountU"
+linktitle: "PolesCountU"
+articleTitle: "PolesCountU"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnSurfaceElement property. Gets poles count for U"
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/polescountu/
+weight: 50
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/polescountu/"
+product_version: "26.9"
 ---
 ## DgnSurfaceElement.PolesCountU property
 
@@ -16,8 +19,7 @@ public ushort PolesCountU { get; }
 
 ### See Also
 
-* class [DgnSurfaceElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnSurfaceElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

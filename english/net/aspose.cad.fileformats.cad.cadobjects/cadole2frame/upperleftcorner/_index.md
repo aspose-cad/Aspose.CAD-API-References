@@ -1,10 +1,13 @@
 ---
-title: CadOle2Frame.UpperLeftCorner
-second_title: Aspose.CAD for .NET API Reference
-description: CadOle2Frame property. Gets or sets the upper left corner
+title: "CadOle2Frame.UpperLeftCorner"
+linktitle: "UpperLeftCorner"
+articleTitle: "UpperLeftCorner"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadOle2Frame property. Gets or sets the upper left corner."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/upperleftcorner/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadole2frame/upperleftcorner/"
+product_version: "26.9"
 ---
 ## CadOle2Frame.UpperLeftCorner property
 
@@ -20,9 +23,8 @@ The upper left corner.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadOle2Frame](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadOle2Frame](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

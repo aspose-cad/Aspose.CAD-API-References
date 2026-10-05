@@ -1,10 +1,13 @@
 ---
-title: CadDimensionOrdinate.Definition14
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionOrdinate property. Gets or sets the definition14
+title: "CadDimensionOrdinate.Definition14"
+linktitle: "Definition14"
+articleTitle: "Definition14"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionOrdinate property. Gets or sets the definition14."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/caddimensionordinate/definition14/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/caddimensionordinate/definition14/"
+product_version: "26.9"
 ---
 ## CadDimensionOrdinate.Definition14 property
 
@@ -20,9 +23,8 @@ The definition14.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadDimensionOrdinate](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadDimensionOrdinate](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

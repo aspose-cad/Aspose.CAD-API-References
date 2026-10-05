@@ -1,10 +1,13 @@
 ---
-title: TiffUnknownType.Count
-second_title: Aspose.CAD for .NET API Reference
-description: TiffUnknownType property. Gets the count of elements
+title: "TiffUnknownType.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffUnknownType property. Gets the count of elements."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.tiff.tifftagtypes/tiffunknowntype/count/
+weight: 40
+url: "/net/aspose.cad.fileformats.tiff.tifftagtypes/tiffunknowntype/count/"
+product_version: "26.9"
 ---
 ## TiffUnknownType.Count property
 
@@ -20,8 +23,7 @@ The count of elements.
 
 ### See Also
 
-* class [TiffUnknownType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffUnknownType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](../../../aspose.cad.fileformats.tiff.tifftagtypes/)
+* assembly [Aspose.CAD](../../../)
 

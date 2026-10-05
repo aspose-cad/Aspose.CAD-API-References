@@ -1,10 +1,13 @@
 ---
-title: Enum DgnFileVersion
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnFileVersion enum. File format version
+title: "DgnFileVersion Enum"
+linktitle: "DgnFileVersion"
+articleTitle: "DgnFileVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnFileVersion enum. File format version"
 type: docs
-weight: 9090
-url: /net/aspose.cad.fileformats.dgn/dgnfileversion/
+weight: 110
+url: "/net/aspose.cad.fileformats.dgn/dgnfileversion/"
+product_version: "26.9"
 ---
 ## DgnFileVersion enumeration
 
@@ -23,7 +26,6 @@ public enum DgnFileVersion
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Dgn](../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../)
 

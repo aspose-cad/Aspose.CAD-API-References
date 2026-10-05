@@ -1,10 +1,13 @@
 ---
-title: IIndexedColorConverter.FillIndexedtoIndexedMap
-second_title: Aspose.CAD for .NET API Reference
-description: IIndexedColorConverter method. Fills the indexed to indexed image conversion map
+title: "IIndexedColorConverter.FillIndexedtoIndexedMap"
+linktitle: "FillIndexedtoIndexedMap"
+articleTitle: "FillIndexedtoIndexedMap"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IIndexedColorConverter method. Fills the indexed to indexed image conversion map."
 type: docs
 weight: 10
-url: /net/aspose.cad/iindexedcolorconverter/fillindexedtoindexedmap/
+url: "/net/aspose.cad/iindexedcolorconverter/fillindexedtoindexedmap/"
+product_version: "26.9"
 ---
 ## IIndexedColorConverter.FillIndexedtoIndexedMap method
 
@@ -23,9 +26,8 @@ public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat,
 
 ### See Also
 
-* class [PixelDataFormat](../../pixeldataformat/)
-* interface [IIndexedColorConverter](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PixelDataFormat](../../pixeldataformat/)
+* interface [IIndexedColorConverter](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

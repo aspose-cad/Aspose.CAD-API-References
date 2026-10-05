@@ -1,10 +1,13 @@
 ---
-title: CadClassEntity.MaintenanceRelease
-second_title: Aspose.CAD for .NET API Reference
-description: CadClassEntity property. Gets or sets the maintenance release
+title: "CadClassEntity.MaintenanceRelease"
+linktitle: "MaintenanceRelease"
+articleTitle: "MaintenanceRelease"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadClassEntity property. Gets or sets the maintenance release."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadclassentity/maintenancerelease/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadclassentity/maintenancerelease/"
+product_version: "26.9"
 ---
 ## CadClassEntity.MaintenanceRelease property
 
@@ -16,8 +19,7 @@ public short MaintenanceRelease { get; set; }
 
 ### See Also
 
-* class [CadClassEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadClassEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

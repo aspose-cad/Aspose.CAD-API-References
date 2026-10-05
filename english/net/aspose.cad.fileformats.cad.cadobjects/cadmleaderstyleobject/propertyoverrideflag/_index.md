@@ -1,12 +1,17 @@
 ---
-title: CadMLeaderStyleObject.PropertyOverrideFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyleObject property. 
+title: "CadMLeaderStyleObject.PropertyOverrideFlag"
+linktitle: "PropertyOverrideFlag"
+articleTitle: "PropertyOverrideFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyleObject property."
 type: docs
-weight: 390
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/propertyoverrideflag/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyleobject/propertyoverrideflag/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyleObject.PropertyOverrideFlag property
+
+
 
 ```csharp
 public int? PropertyOverrideFlag { get; set; }
@@ -14,8 +19,7 @@ public int? PropertyOverrideFlag { get; set; }
 
 ### See Also
 
-* class [CadMLeaderStyleObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyleObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

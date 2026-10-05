@@ -1,14 +1,19 @@
 ---
-title: Class Sphere
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.Sphere class. The sphere. Describes a sphere that is centered around its local origin
+title: "Sphere Class"
+linktitle: "Sphere"
+articleTitle: "Sphere"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.Sphere class. The sphere. Describes a sphere that is centered around its local origin."
 type: docs
-weight: 8420
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/sphere/
+weight: 1110
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/sphere/"
+keywords: "Sphere, Aspose.CAD.FileFormats.Collada.FileParser.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Sphere class
 
-The sphere. Describes a sphere that is centered around its local origin.
+The sphere.
+ Describes a sphere that is centered around its local origin.
 
 ```csharp
 public class Sphere : ColladaElement
@@ -24,13 +29,12 @@ public class Sphere : ColladaElement
 
 | Name | Description |
 | --- | --- |
-| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/sphere/extra/) { get; set; } | Gets or sets the extra. |
-| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/sphere/radius/) { get; set; } | Gets or sets the radius. Contains a floating-point value that specifies the radius of the sphere. |
+| [Extra](../../aspose.cad.fileformats.collada.fileparser.elements/sphere/extra/) { get; set; } | Gets or sets the extra. |
+| [Radius](../../aspose.cad.fileformats.collada.fileparser.elements/sphere/radius/) { get; set; } | Gets or sets the radius. Contains a floating-point value that specifies the radius of the sphere. |
 
 ### See Also
 
-* class [ColladaElement](../colladaelement/)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* class [ColladaElement](../colladaelement/)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

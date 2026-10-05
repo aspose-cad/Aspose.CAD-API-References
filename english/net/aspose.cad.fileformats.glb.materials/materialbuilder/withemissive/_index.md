@@ -1,37 +1,43 @@
 ---
-title: MaterialBuilder.WithEmissive
-second_title: Aspose.CAD for .NET API Reference
-description: MaterialBuilder method. 
+title: "MaterialBuilder.WithEmissive"
+linktitle: "WithEmissive"
+articleTitle: "WithEmissive"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MaterialBuilder method."
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.glb.materials/materialbuilder/withemissive/
+weight: 240
+url: "/net/aspose.cad.fileformats.glb.materials/materialbuilder/withemissive/"
+product_version: "26.9"
 ---
-## WithEmissive(Vector3, float) {#withemissive_1}
+## WithEmissive(Vector3, float) {#withemissive}
+
+
 
 ```csharp
-public MaterialBuilder WithEmissive(Vector3 rgb, float strength = 1)
+public MaterialBuilder WithEmissive(Vector3 rgb, float strength = 1.0)
 ```
 
 ### See Also
 
-* class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
+* class [MaterialBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## WithEmissive(ImageBuilder, Vector3?, float) {#withemissive}
+## WithEmissive(ImageBuilder, Vector3?, float) {#withemissive_1}
+
+
 
 ```csharp
 public MaterialBuilder WithEmissive(ImageBuilder imageFile, Vector3? rgb = default, 
-    float strength = 1)
+    float strength = 1.0)
 ```
 
 ### See Also
 
-* class [ImageBuilder](../../imagebuilder/)
-* class [MaterialBuilder](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MaterialBuilder](../)
+* class [ImageBuilder](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
 

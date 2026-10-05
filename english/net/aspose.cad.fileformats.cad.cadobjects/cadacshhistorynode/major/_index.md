@@ -1,10 +1,13 @@
 ---
-title: CadAcshHistoryNode.Major
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcshHistoryNode property. The major
+title: "CadAcshHistoryNode.Major"
+linktitle: "Major"
+articleTitle: "Major"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcshHistoryNode property. The major"
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacshhistorynode/major/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshhistorynode/major/"
+product_version: "26.9"
 ---
 ## CadAcshHistoryNode.Major property
 
@@ -16,8 +19,7 @@ public int Major { get; set; }
 
 ### See Also
 
-* class [CadAcshHistoryNode](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcshHistoryNode](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

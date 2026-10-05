@@ -1,14 +1,19 @@
 ---
-title: DracoImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: DracoImage property. Gets the width of the image. Calculated as the difference between maximum and minimum values of the X coordinate amongst all vertices. Minimal allowed width is 1
+title: "DracoImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DracoImage property. Gets the width of the image. Calculated as the difference between maximum and minimum values of the X coordinate amongst all vertices. M..."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.draco/dracoimage/width/
+weight: 30
+url: "/net/aspose.cad.fileformats.draco/dracoimage/width/"
+product_version: "26.9"
 ---
 ## DracoImage.Width property
 
-Gets the width of the image. Calculated as the difference between maximum and minimum values of the X coordinate amongst all vertices. Minimal allowed width is 1.
+Gets the width of the image.
+ Calculated as the difference between maximum and minimum values of the X coordinate amongst all vertices.
+ Minimal allowed width is 1.
 
 ```csharp
 public override int Width { get; }
@@ -31,8 +36,7 @@ using (DracoImage drcImage = (DracoImage)Image.Load(fileName))
 
 ### See Also
 
-* class [DracoImage](../)
-* namespace [Aspose.CAD.FileFormats.Draco](../../../aspose.cad.fileformats.draco/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DracoImage](../)
+* namespace [Aspose.CAD.FileFormats.Draco](../../../aspose.cad.fileformats.draco/)
+* assembly [Aspose.CAD](../../../)
 

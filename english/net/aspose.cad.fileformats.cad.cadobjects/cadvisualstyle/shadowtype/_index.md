@@ -1,10 +1,13 @@
 ---
-title: CadVisualStyle.ShadowType
-second_title: Aspose.CAD for .NET API Reference
-description: CadVisualStyle property. Gets or sets the type of the shadow
+title: "CadVisualStyle.ShadowType"
+linktitle: "ShadowType"
+articleTitle: "ShadowType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVisualStyle property. Gets or sets the type of the shadow."
 type: docs
-weight: 340
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/shadowtype/
+weight: 360
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/shadowtype/"
+product_version: "26.9"
 ---
 ## CadVisualStyle.ShadowType property
 
@@ -20,8 +23,7 @@ The type of the shadow.
 
 ### See Also
 
-* class [CadVisualStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVisualStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

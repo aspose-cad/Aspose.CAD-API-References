@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.TextAngleType
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the type of the text angle
+title: "CadMLeaderStyle.TextAngleType"
+linktitle: "TextAngleType"
+articleTitle: "TextAngleType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the type of the text angle."
 type: docs
-weight: 390
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/textangletype/
+weight: 230
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/textangletype/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.TextAngleType property
 
@@ -20,8 +23,7 @@ The type of the text angle.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

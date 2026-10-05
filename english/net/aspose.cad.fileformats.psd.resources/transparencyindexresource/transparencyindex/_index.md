@@ -1,10 +1,13 @@
 ---
-title: TransparencyIndexResource.TransparencyIndex
-second_title: Aspose.CAD for .NET API Reference
-description: TransparencyIndexResource property. Gets or sets the transparency color index
+title: "TransparencyIndexResource.TransparencyIndex"
+linktitle: "TransparencyIndex"
+articleTitle: "TransparencyIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TransparencyIndexResource property. Gets or sets the transparency color index."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.psd.resources/transparencyindexresource/transparencyindex/
+url: "/net/aspose.cad.fileformats.psd.resources/transparencyindexresource/transparencyindex/"
+product_version: "26.9"
 ---
 ## TransparencyIndexResource.TransparencyIndex property
 
@@ -20,8 +23,7 @@ The transparency color index.
 
 ### See Also
 
-* class [TransparencyIndexResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TransparencyIndexResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

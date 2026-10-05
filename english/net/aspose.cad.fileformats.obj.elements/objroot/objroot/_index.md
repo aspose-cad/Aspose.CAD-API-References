@@ -1,10 +1,13 @@
 ---
-title: ObjRoot.ObjRoot
-second_title: Aspose.CAD for .NET API Reference
-description: ObjRoot constructor. Initializes a new instance of the class
+title: "ObjRoot.ObjRoot"
+linktitle: "ObjRoot"
+articleTitle: "ObjRoot"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjRoot constructor. Initializes a new instance of the class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.obj.elements/objroot/objroot/
+url: "/net/aspose.cad.fileformats.obj.elements/objroot/objroot/"
+product_version: "26.9"
 ---
 ## ObjRoot constructor
 
@@ -16,8 +19,7 @@ public ObjRoot()
 
 ### See Also
 
-* class [ObjRoot](../)
-* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjRoot](../)
+* namespace [Aspose.CAD.FileFormats.Obj.Elements](../../../aspose.cad.fileformats.obj.elements/)
+* assembly [Aspose.CAD](../../../)
 

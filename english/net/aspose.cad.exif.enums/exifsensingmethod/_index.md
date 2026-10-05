@@ -1,10 +1,13 @@
 ---
-title: Enum ExifSensingMethod
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifSensingMethod enum. exif sensing method enum
+title: "ExifSensingMethod Enum"
+linktitle: "ExifSensingMethod"
+articleTitle: "ExifSensingMethod"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifSensingMethod enum. exif sensing method enum."
 type: docs
-weight: 670
-url: /net/aspose.cad.exif.enums/exifsensingmethod/
+weight: 160
+url: "/net/aspose.cad.exif.enums/exifsensingmethod/"
+product_version: "26.9"
 ---
 ## ExifSensingMethod enumeration
 
@@ -28,7 +31,6 @@ public enum ExifSensingMethod
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

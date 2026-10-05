@@ -1,10 +1,14 @@
 ---
-title: Class StepProductDefinition
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Stp.Items.StepProductDefinition class. ProductDefinition class for STP file
+title: "StepProductDefinition Class"
+linktitle: "StepProductDefinition"
+articleTitle: "StepProductDefinition"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Stp.Items.StepProductDefinition class. ProductDefinition class for STP file."
 type: docs
-weight: 34890
-url: /net/aspose.cad.fileformats.stp.items/stepproductdefinition/
+weight: 740
+url: "/net/aspose.cad.fileformats.stp.items/stepproductdefinition/"
+keywords: "StepProductDefinition, Aspose.CAD.FileFormats.Stp.Items, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## StepProductDefinition class
 
@@ -19,23 +23,33 @@ public class StepProductDefinition : StepRepresentationItem
 | Name | Description |
 | --- | --- |
 | [StepProductDefinition](stepproductdefinition/#constructor)() | The default constructor. |
-| [StepProductDefinition](stepproductdefinition/#constructor_1)(string, string, StepProductDefinitionFormation) |  |
+| [StepProductDefinition](stepproductdefinition/#constructor_1)(string, string, StepProductDefinitionFormation) | Initializes a new instance of the StepProductDefinition class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DefinitionContext](../../aspose.cad.fileformats.stp.items/stepproductdefinition/definitioncontext/) { get; } |  |
-| [Description](../../aspose.cad.fileformats.stp.items/stepproductdefinition/description/) { get; set; } |  |
-| [Id](../../aspose.cad.fileformats.stp.items/steprepresentationitem/id/) { get; set; } |  |
-| override [ItemType](../../aspose.cad.fileformats.stp.items/stepproductdefinition/itemtype/) { get; } |  |
-| [Name](../../aspose.cad.fileformats.stp.items/steprepresentationitem/name/) { get; set; } |  |
-| [ProductDefinitionFormation](../../aspose.cad.fileformats.stp.items/stepproductdefinition/productdefinitionformation/) { get; set; } |  |
+| [Area](../../aspose.cad.fileformats.stp.items/steprepresentationitem/area/) { get; } | Gets the area of the entity. |
+| [Childs](../../aspose.cad.fileformats.stp.items/steprepresentationitem/childs/) { get; } |  |
+| [DefinitionContext](../../aspose.cad.fileformats.stp.items/stepproductdefinition/definitioncontext/) { get; } |  |
+| [Description](../../aspose.cad.fileformats.stp.items/stepproductdefinition/description/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.stp.items/steprepresentationitem/id/) { get; } |  |
+| override [ItemType](../../aspose.cad.fileformats.stp.items/stepproductdefinition/itemtype/) { get; } |  |
+| [Length](../../aspose.cad.fileformats.stp.items/steprepresentationitem/length/) { get; } | Gets the length of the entity. |
+| [Name](../../aspose.cad.fileformats.stp.items/steprepresentationitem/name/) { get; set; } |  |
+| [ProductDefinitionFormation](../../aspose.cad.fileformats.stp.items/stepproductdefinition/productdefinitionformation/) { get; set; } |  |
+| [UId](../../aspose.cad.fileformats.stp.items/steprepresentationitem/uid/) { get; set; } |  |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Equals](../../aspose.cad.fileformats.stp.items/steprepresentationitem/equals/)(StepRepresentationItem) |  |
+| override [GetHashCode](../../aspose.cad.fileformats.stp.items/steprepresentationitem/gethashcode/)() |  |
 
 ### See Also
 
-* class [StepRepresentationItem](../steprepresentationitem/)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../)
-
+* class [StepRepresentationItem](../steprepresentationitem/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../)
 

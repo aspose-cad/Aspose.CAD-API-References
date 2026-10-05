@@ -1,12 +1,18 @@
 ---
-title: Class DefaultBinaryReader
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Import.DefaultBinaryReader class. 
+title: "DefaultBinaryReader Class"
+linktitle: "DefaultBinaryReader"
+articleTitle: "DefaultBinaryReader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Import.DefaultBinaryReader class."
 type: docs
-weight: 7300
-url: /net/aspose.cad.fileformats.cgm.import/defaultbinaryreader/
+weight: 20
+url: "/net/aspose.cad.fileformats.cgm.import/defaultbinaryreader/"
+keywords: "DefaultBinaryReader, Aspose.CAD.FileFormats.Cgm.Import, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DefaultBinaryReader class
+
+
 
 ```csharp
 public class DefaultBinaryReader : IBinaryReader, IDisposable
@@ -16,22 +22,22 @@ public class DefaultBinaryReader : IBinaryReader, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [DefaultBinaryReader](defaultbinaryreader/)(Stream, CgmFile, ICommandFactory) |  |
+| [DefaultBinaryReader](defaultbinaryreader/)(Stream, CgmFile, ICommandFactory) | Initializes a new instance of the DefaultBinaryReader class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Arguments](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/arguments/) { get; } |  |
-| [ArgumentsCount](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/argumentscount/) { get; } |  |
-| [CurrentArg](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/currentarg/) { get; } |  |
-| [Messages](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/messages/) { get; } |  |
+| [Arguments](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/arguments/) { get; } |  |
+| [ArgumentsCount](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/argumentscount/) { get; } |  |
+| [CurrentArg](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/currentarg/) { get; } |  |
+| [Messages](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/messages/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AlignOnWord](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/alignonword/)() |  |
+| [AlignOnWord](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/alignonword/)() | Align on a word boundary |
 | [Dispose](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/dispose/)() |  |
 | [ReadArgumentEnd](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/readargumentend/)() |  |
 | [ReadBool](../../aspose.cad.fileformats.cgm.import/defaultbinaryreader/readbool/)() |  |
@@ -67,8 +73,7 @@ public class DefaultBinaryReader : IBinaryReader, IDisposable
 
 ### See Also
 
-* interface [IBinaryReader](../../aspose.cad.fileformats.cgm/ibinaryreader/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../aspose.cad.fileformats.cgm.import/)
-* assembly [Aspose.CAD](../../)
-
+* interface [IBinaryReader](../../aspose.cad.fileformats.cgm/ibinaryreader/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Import](../../aspose.cad.fileformats.cgm.import/)
+* assembly [Aspose.CAD](../../)
 

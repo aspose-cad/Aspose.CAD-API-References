@@ -1,10 +1,13 @@
 ---
-title: Enum TiffResolutionUnits
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.Enums.TiffResolutionUnits enum. Tiff Resolution Unit Enum
+title: "TiffResolutionUnits Enum"
+linktitle: "TiffResolutionUnits"
+articleTitle: "TiffResolutionUnits"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.Enums.TiffResolutionUnits enum. Tiff Resolution Unit Enum"
 type: docs
-weight: 35510
-url: /net/aspose.cad.fileformats.tiff.enums/tiffresolutionunits/
+weight: 150
+url: "/net/aspose.cad.fileformats.tiff.enums/tiffresolutionunits/"
+product_version: "26.9"
 ---
 ## TiffResolutionUnits enumeration
 
@@ -24,7 +27,6 @@ public enum TiffResolutionUnits : ushort
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.Enums](../../aspose.cad.fileformats.tiff.enums/)
+* assembly [Aspose.CAD](../../)
 

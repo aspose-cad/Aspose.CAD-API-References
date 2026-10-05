@@ -1,10 +1,13 @@
 ---
-title: CadVisualStyle.Color2
-second_title: Aspose.CAD for .NET API Reference
-description: CadVisualStyle property. Gets or sets the color2
+title: "CadVisualStyle.Color2"
+linktitle: "Color2"
+articleTitle: "Color2"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVisualStyle property. Gets or sets the color2."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/color2/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/color2/"
+product_version: "26.9"
 ---
 ## CadVisualStyle.Color2 property
 
@@ -20,8 +23,7 @@ The color2.
 
 ### See Also
 
-* class [CadVisualStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVisualStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

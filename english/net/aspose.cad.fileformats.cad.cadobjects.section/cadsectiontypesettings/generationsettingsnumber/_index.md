@@ -1,10 +1,13 @@
 ---
-title: CadSectionTypeSettings.GenerationSettingsNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionTypeSettings property. Gets or sets the generation settings number
+title: "CadSectionTypeSettings.GenerationSettingsNumber"
+linktitle: "GenerationSettingsNumber"
+articleTitle: "GenerationSettingsNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionTypeSettings property. Gets or sets the generation settings number."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/generationsettingsnumber/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/generationsettingsnumber/"
+product_version: "26.9"
 ---
 ## CadSectionTypeSettings.GenerationSettingsNumber property
 
@@ -20,8 +23,7 @@ The generation settings number.
 
 ### See Also
 
-* class [CadSectionTypeSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionTypeSettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

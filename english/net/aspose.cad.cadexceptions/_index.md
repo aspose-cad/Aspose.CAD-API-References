@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.CadExceptions
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains exceptions thrown by any of the core CAD components
+title: "Aspose.CAD.CadExceptions"
+linktitle: "Aspose.CAD.CadExceptions"
+articleTitle: "Aspose.CAD.CadExceptions"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains exceptions thrown by any of the core CAD components."
 type: docs
-weight: 30
-url: /net/aspose.cad.cadexceptions/
+weight: 10
+url: "/net/aspose.cad.cadexceptions/"
+keywords: "Aspose.CAD.CadExceptions, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains exceptions thrown by any of the core CAD components.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -24,5 +32,4 @@ The namespace contains exceptions thrown by any of the core CAD components.
 | [RdOptimizationError](./rdoptimizationerror/) | RD optimization error exception class |
 | [StreamReadException](./streamreadexception/) | The stream reading exception. Caused when stream reading failed due to incorrect offset and bytes count request. |
 | [XmpException](./xmpexception/) | The exception that is thrown when XMP has invalid structure. |
-
 

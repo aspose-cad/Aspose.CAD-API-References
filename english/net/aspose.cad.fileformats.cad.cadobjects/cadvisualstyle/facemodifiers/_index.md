@@ -1,10 +1,13 @@
 ---
-title: CadVisualStyle.FaceModifiers
-second_title: Aspose.CAD for .NET API Reference
-description: CadVisualStyle property. Gets or sets the face modifiers
+title: "CadVisualStyle.FaceModifiers"
+linktitle: "FaceModifiers"
+articleTitle: "FaceModifiers"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVisualStyle property. Gets or sets the face modifiers."
 type: docs
-weight: 290
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/facemodifiers/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/facemodifiers/"
+product_version: "26.9"
 ---
 ## CadVisualStyle.FaceModifiers property
 
@@ -20,8 +23,7 @@ The face modifiers.
 
 ### See Also
 
-* class [CadVisualStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVisualStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.CellBorderHeight
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the height of the cell border
+title: "CadTableCell.CellBorderHeight"
+linktitle: "CellBorderHeight"
+articleTitle: "CellBorderHeight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the height of the cell border."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cellborderheight/
+weight: 290
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/cellborderheight/"
+product_version: "26.9"
 ---
 ## CadTableCell.CellBorderHeight property
 
@@ -20,8 +23,7 @@ The height of the cell border.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

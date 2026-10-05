@@ -1,10 +1,13 @@
 ---
-title: CadAttDef.SecondAlignment
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttDef property. Gets or sets the second alignment
+title: "CadAttDef.SecondAlignment"
+linktitle: "SecondAlignment"
+articleTitle: "SecondAlignment"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttDef property. Gets or sets the second alignment."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/secondalignment/
+weight: 190
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattdef/secondalignment/"
+product_version: "26.9"
 ---
 ## CadAttDef.SecondAlignment property
 
@@ -16,9 +19,8 @@ public Cad3DPoint SecondAlignment { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [CadAttDef](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [CadAttDef](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

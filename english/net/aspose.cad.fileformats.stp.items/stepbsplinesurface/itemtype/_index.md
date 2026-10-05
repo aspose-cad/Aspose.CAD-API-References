@@ -1,12 +1,17 @@
 ---
-title: StepBsplineSurface.ItemType
-second_title: Aspose.CAD for .NET API Reference
-description: StepBsplineSurface property. 
+title: "StepBSplineSurface.ItemType"
+linktitle: "ItemType"
+articleTitle: "ItemType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepBSplineSurface property."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.stp.items/stepbsplinesurface/itemtype/
+weight: 30
+url: "/net/aspose.cad.fileformats.stp.items/stepbsplinesurface/itemtype/"
+product_version: "26.9"
 ---
-## StepBsplineSurface.ItemType property
+## StepBSplineSurface.ItemType property
+
+
 
 ```csharp
 public override StepItemType ItemType { get; }
@@ -14,9 +19,8 @@ public override StepItemType ItemType { get; }
 
 ### See Also
 
-* enum [StepItemType](../../stepitemtype/)
-* class [StepBsplineSurface](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [StepItemType](../../stepitemtype/)
+* class [StepBSplineSurface](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,35 @@
 ---
-title: TiffStreamWriter.Write
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamWriter method. Writes the specified data
+title: "TiffStreamWriter.Write"
+linktitle: "Write"
+articleTitle: "Write"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamWriter method. Writes the specified data."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/write/
+weight: 20
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/write/"
+product_version: "26.9"
 ---
-## Write(byte[], int, int) {#write_1}
+## Write(byte[]) {#write}
+
+Writes the specified data.
+
+```csharp
+public void Write(byte[] data)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| data | Byte[] | The data to write. |
+
+### See Also
+
+* class [TiffStreamWriter](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## Write(byte[], int, int) {#write_1}
 
 Writes the specified data.
 
@@ -22,28 +45,7 @@ public void Write(byte[] data, int offset, int dataLength)
 
 ### See Also
 
-* class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## Write(byte[]) {#write}
-
-Writes the specified data.
-
-```csharp
-public void Write(byte[] data)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| data | Byte[] | The data to write. |
-
-### See Also
-
-* class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamWriter](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

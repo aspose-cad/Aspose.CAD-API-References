@@ -1,10 +1,13 @@
 ---
-title: CadContentFormat.CadContentFormat
-second_title: Aspose.CAD for .NET API Reference
-description: CadContentFormat constructor. Initializes a new instance of the CadContentFormat class
+title: "CadContentFormat.CadContentFormat"
+linktitle: "CadContentFormat"
+articleTitle: "CadContentFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadContentFormat constructor. Initializes a new instance of the CadContentFormat class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadcontentformat/cadcontentformat/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadcontentformat/cadcontentformat/"
+product_version: "26.9"
 ---
 ## CadContentFormat constructor
 
@@ -16,8 +19,7 @@ public CadContentFormat()
 
 ### See Also
 
-* class [CadContentFormat](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadContentFormat](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

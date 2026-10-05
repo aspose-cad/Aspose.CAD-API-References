@@ -1,10 +1,13 @@
 ---
-title: CadLeader.AnnotationPlacementPointOffset
-second_title: Aspose.CAD for .NET API Reference
-description: CadLeader property. Gets or sets offset of last leader vertex from annotation placement point
+title: "CadLeader.AnnotationPlacementPointOffset"
+linktitle: "AnnotationPlacementPointOffset"
+articleTitle: "AnnotationPlacementPointOffset"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLeader property. Gets or sets offset of last leader vertex from annotation placement point"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadleader/annotationplacementpointoffset/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadleader/annotationplacementpointoffset/"
+product_version: "26.9"
 ---
 ## CadLeader.AnnotationPlacementPointOffset property
 
@@ -16,9 +19,8 @@ public Cad3DPoint AnnotationPlacementPointOffset { get; set; }
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

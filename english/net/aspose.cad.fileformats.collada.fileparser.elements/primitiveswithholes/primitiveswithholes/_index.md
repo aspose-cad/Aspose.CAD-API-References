@@ -1,10 +1,13 @@
 ---
-title: PrimitivesWithHoles.PrimitivesWithHoles
-second_title: Aspose.CAD for .NET API Reference
-description: PrimitivesWithHoles constructor. The default constructor
+title: "PrimitivesWithHoles.PrimitivesWithHoles"
+linktitle: "PrimitivesWithHoles"
+articleTitle: "PrimitivesWithHoles"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "PrimitivesWithHoles constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/primitiveswithholes/primitiveswithholes/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/primitiveswithholes/primitiveswithholes/"
+product_version: "26.9"
 ---
 ## PrimitivesWithHoles constructor
 
@@ -16,8 +19,7 @@ public PrimitivesWithHoles()
 
 ### See Also
 
-* class [PrimitivesWithHoles](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [PrimitivesWithHoles](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

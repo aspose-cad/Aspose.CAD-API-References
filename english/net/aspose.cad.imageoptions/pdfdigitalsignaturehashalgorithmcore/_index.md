@@ -1,10 +1,13 @@
 ---
-title: Enum PdfDigitalSignatureHashAlgorithmCore
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.ImageOptions.PdfDigitalSignatureHashAlgorithmCore enum. Specifies digital hash algorithm used by digital signature
+title: "PdfDigitalSignatureHashAlgorithmCore Enum"
+linktitle: "PdfDigitalSignatureHashAlgorithmCore"
+articleTitle: "PdfDigitalSignatureHashAlgorithmCore"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.ImageOptions.PdfDigitalSignatureHashAlgorithmCore enum. Specifies digital hash algorithm used by digital signature."
 type: docs
-weight: 36590
-url: /net/aspose.cad.imageoptions/pdfdigitalsignaturehashalgorithmcore/
+weight: 370
+url: "/net/aspose.cad.imageoptions/pdfdigitalsignaturehashalgorithmcore/"
+product_version: "26.9"
 ---
 ## PdfDigitalSignatureHashAlgorithmCore enumeration
 
@@ -26,7 +29,6 @@ public enum PdfDigitalSignatureHashAlgorithmCore
 
 ### See Also
 
-* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadWipeoutVariables.DisplayImageFrameFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadWipeoutVariables property. Gets or sets the display image frame flag
+title: "CadWipeoutVariables.DisplayImageFrameFlag"
+linktitle: "DisplayImageFrameFlag"
+articleTitle: "DisplayImageFrameFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadWipeoutVariables property. Gets or sets the display image frame flag."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadwipeoutvariables/displayimageframeflag/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadwipeoutvariables/displayimageframeflag/"
+product_version: "26.9"
 ---
 ## CadWipeoutVariables.DisplayImageFrameFlag property
 
@@ -20,8 +23,7 @@ The display image frame flag.
 
 ### See Also
 
-* class [CadWipeoutVariables](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadWipeoutVariables](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: Enum CompressionType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Enums.CompressionType enum. 
+title: "CompressionType Enum"
+linktitle: "CompressionType"
+articleTitle: "CompressionType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Enums.CompressionType enum."
 type: docs
-weight: 7170
-url: /net/aspose.cad.fileformats.cgm.enums/compressiontype/
+weight: 50
+url: "/net/aspose.cad.fileformats.cgm.enums/compressiontype/"
+product_version: "26.9"
 ---
 ## CompressionType enumeration
+
+
 
 ```csharp
 public enum CompressionType
@@ -29,7 +34,6 @@ public enum CompressionType
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
+* assembly [Aspose.CAD](../../)
 

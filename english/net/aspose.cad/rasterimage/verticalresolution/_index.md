@@ -1,10 +1,13 @@
 ---
-title: RasterImage.VerticalResolution
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage property. Gets or sets the vertical resolution in pixels per inch of this RasterImage
+title: "RasterImage.VerticalResolution"
+linktitle: "VerticalResolution"
+articleTitle: "VerticalResolution"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage property. Gets or sets the vertical resolution, in pixels per inch, of this RasterImage."
 type: docs
-weight: 130
-url: /net/aspose.cad/rasterimage/verticalresolution/
+weight: 490
+url: "/net/aspose.cad/rasterimage/verticalresolution/"
+product_version: "26.9"
 ---
 ## RasterImage.VerticalResolution property
 
@@ -24,8 +27,7 @@ Note by default this value is always 96 since different platforms cannot return 
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SummaryInfoData.Author
-second_title: Aspose.CAD for .NET API Reference
-description: SummaryInfoData property. Gets or sets the author
+title: "SummaryInfoData.Author"
+linktitle: "Author"
+articleTitle: "Author"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SummaryInfoData property. Gets or sets the author."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/author/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/author/"
+product_version: "26.9"
 ---
 ## SummaryInfoData.Author property
 
@@ -20,8 +23,7 @@ The author.
 
 ### See Also
 
-* class [SummaryInfoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
+* assembly [Aspose.CAD](../../../)
 

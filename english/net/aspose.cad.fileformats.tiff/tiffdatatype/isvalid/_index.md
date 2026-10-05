@@ -1,10 +1,13 @@
 ---
-title: TiffDataType.IsValid
-second_title: Aspose.CAD for .NET API Reference
-description: TiffDataType property. Gets a value indicating whether tag data is valid. The valid tag contains data which may be preserved. The invalid tag cannot be stored
+title: "TiffDataType.IsValid"
+linktitle: "IsValid"
+articleTitle: "IsValid"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffDataType property. Gets a value indicating whether tag data is valid. The valid tag contains data which may be preserved. The invalid tag cannot be stored."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.tiff/tiffdatatype/isvalid/
+weight: 150
+url: "/net/aspose.cad.fileformats.tiff/tiffdatatype/isvalid/"
+product_version: "26.9"
 ---
 ## TiffDataType.IsValid property
 
@@ -20,8 +23,7 @@ public bool IsValid { get; }
 
 ### See Also
 
-* class [TiffDataType](../)
-* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffDataType](../)
+* namespace [Aspose.CAD.FileFormats.Tiff](../../../aspose.cad.fileformats.tiff/)
+* assembly [Aspose.CAD](../../../)
 

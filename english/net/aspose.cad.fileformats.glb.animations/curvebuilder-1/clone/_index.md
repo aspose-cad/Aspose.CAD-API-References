@@ -1,21 +1,25 @@
 ---
-title: CurveBuilder1.Clone
-second_title: Aspose.CAD for .NET API Reference
-description: CurveBuilder method. 
+title: "CurveBuilder<T>.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CurveBuilder method."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.glb.animations/curvebuilder-1/clone/
+weight: 10
+url: "/net/aspose.cad.fileformats.glb.animations/curvebuilder-1/clone/"
+product_version: "26.9"
 ---
-## CurveBuilder&lt;T&gt;.Clone method
+## CurveBuilder<T>.Clone method
+
+
 
 ```csharp
-public abstract CurveBuilder Clone()
+public abstract CurveBuilder<T> Clone()
 ```
 
 ### See Also
 
-* class [CurveBuilder&lt;T&gt;](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CurveBuilder&lt;T&gt;](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
 

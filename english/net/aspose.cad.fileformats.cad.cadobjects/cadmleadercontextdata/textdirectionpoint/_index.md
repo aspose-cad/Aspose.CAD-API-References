@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.TextDirectionPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets text direction point
+title: "CadMLeaderContextData.TextDirectionPoint"
+linktitle: "TextDirectionPoint"
+articleTitle: "TextDirectionPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets text direction point."
 type: docs
-weight: 340
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textdirectionpoint/
+weight: 400
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textdirectionpoint/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.TextDirectionPoint property
 
@@ -20,9 +23,8 @@ The text direction point of context data.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadMaterial.LuminanceMode
-second_title: Aspose.CAD for .NET API Reference
-description: CadMaterial property. Gets or sets the luminance mode
+title: "CadMaterial.LuminanceMode"
+linktitle: "LuminanceMode"
+articleTitle: "LuminanceMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMaterial property. Gets or sets the luminance mode."
 type: docs
-weight: 460
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/luminancemode/
+weight: 220
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/luminancemode/"
+product_version: "26.9"
 ---
 ## CadMaterial.LuminanceMode property
 
@@ -20,8 +23,7 @@ The luminance mode.
 
 ### See Also
 
-* class [CadMaterial](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMaterial](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

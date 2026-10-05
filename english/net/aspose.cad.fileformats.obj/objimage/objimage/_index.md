@@ -1,10 +1,13 @@
 ---
-title: ObjImage.ObjImage
-second_title: Aspose.CAD for .NET API Reference
-description: ObjImage constructor. Initializes a new instance of the ObjImage class
+title: "ObjImage.ObjImage"
+linktitle: "ObjImage"
+articleTitle: "ObjImage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ObjImage constructor. Initializes a new instance of the ObjImage class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.obj/objimage/objimage/
+url: "/net/aspose.cad.fileformats.obj/objimage/objimage/"
+product_version: "26.9"
 ---
 ## ObjImage constructor
 
@@ -29,7 +32,7 @@ root.Materials.Add(new ObjMaterial() { Diffuse = new Obj3Values(1, 0, 0) });
 root.Vertices.Add(new ObjVertex(0, 0, 0));
 root.Vertices.Add(new ObjVertex(100, 100, 100));
 root.Vertices.Add(new ObjVertex(100, 200, 300));
-   
+
 ObjShape newShape = new ObjShape();
 newShape.MaterialId = root.Materials.Count - 1;
 
@@ -52,9 +55,8 @@ newImage.Save(outputPngFile, new PngOptions() { VectorRasterizationOptions = opt
 
 ### See Also
 
-* class [ObjRoot](../../../aspose.cad.fileformats.obj.elements/objroot/)
-* class [ObjImage](../)
-* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ObjRoot](../../../aspose.cad.fileformats.obj.elements/objroot/)
+* class [ObjImage](../)
+* namespace [Aspose.CAD.FileFormats.Obj](../../../aspose.cad.fileformats.obj/)
+* assembly [Aspose.CAD](../../../)
 

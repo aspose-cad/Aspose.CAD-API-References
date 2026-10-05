@@ -1,10 +1,13 @@
 ---
-title: CadSpline.NormalVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpline property. Gets or sets the normal vector
+title: "CadSpline.NormalVector"
+linktitle: "NormalVector"
+articleTitle: "NormalVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpline property. Gets or sets the normal vector"
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspline/normalvector/
+weight: 220
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspline/normalvector/"
+product_version: "26.9"
 ---
 ## CadSpline.NormalVector property
 
@@ -20,9 +23,8 @@ The normal vector
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

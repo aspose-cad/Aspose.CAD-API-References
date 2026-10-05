@@ -1,10 +1,13 @@
 ---
-title: CadAttrib.TextFlags
-second_title: Aspose.CAD for .NET API Reference
-description: CadAttrib property. Gets or sets the textFlags
+title: "CadAttrib.TextFlags"
+linktitle: "TextFlags"
+articleTitle: "TextFlags"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAttrib property. Gets or sets the textFlags."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/textflags/
+weight: 220
+url: "/net/aspose.cad.fileformats.cad.cadobjects.attentities/cadattrib/textflags/"
+product_version: "26.9"
 ---
 ## CadAttrib.TextFlags property
 
@@ -16,8 +19,7 @@ public short TextFlags { get; set; }
 
 ### See Also
 
-* class [CadAttrib](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAttrib](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](../../../aspose.cad.fileformats.cad.cadobjects.attentities/)
+* assembly [Aspose.CAD](../../../)
 

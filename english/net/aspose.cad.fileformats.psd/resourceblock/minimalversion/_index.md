@@ -1,10 +1,13 @@
 ---
-title: ResourceBlock.MinimalVersion
-second_title: Aspose.CAD for .NET API Reference
-description: ResourceBlock property. Gets the minimal required PSD version
+title: "ResourceBlock.MinimalVersion"
+linktitle: "MinimalVersion"
+articleTitle: "MinimalVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ResourceBlock property. Gets the minimal required PSD version."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.psd/resourceblock/minimalversion/
+weight: 80
+url: "/net/aspose.cad.fileformats.psd/resourceblock/minimalversion/"
+product_version: "26.9"
 ---
 ## ResourceBlock.MinimalVersion property
 
@@ -20,8 +23,7 @@ The minimal PSD version.
 
 ### See Also
 
-* class [ResourceBlock](../)
-* namespace [Aspose.CAD.FileFormats.Psd](../../../aspose.cad.fileformats.psd/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ResourceBlock](../)
+* namespace [Aspose.CAD.FileFormats.Psd](../../../aspose.cad.fileformats.psd/)
+* assembly [Aspose.CAD](../../../)
 

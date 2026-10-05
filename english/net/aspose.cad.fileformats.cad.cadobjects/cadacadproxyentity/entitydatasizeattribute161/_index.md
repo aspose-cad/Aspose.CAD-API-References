@@ -1,10 +1,13 @@
 ---
-title: CadAcadProxyEntity.EntityDataSizeAttribute161
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcadProxyEntity property. Gets or sets the entity data size attribute161
+title: "CadAcadProxyEntity.EntityDataSizeAttribute161"
+linktitle: "EntityDataSizeAttribute161"
+articleTitle: "EntityDataSizeAttribute161"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcadProxyEntity property. Gets or sets the entity data size attribute161."
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/entitydatasizeattribute161/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacadproxyentity/entitydatasizeattribute161/"
+product_version: "26.9"
 ---
 ## CadAcadProxyEntity.EntityDataSizeAttribute161 property
 
@@ -20,8 +23,7 @@ The entity data size attribute161.
 
 ### See Also
 
-* class [CadAcadProxyEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcadProxyEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

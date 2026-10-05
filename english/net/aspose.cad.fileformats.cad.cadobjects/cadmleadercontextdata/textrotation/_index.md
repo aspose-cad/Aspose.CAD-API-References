@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.TextRotation
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets the rotation of the text
+title: "CadMLeaderContextData.TextRotation"
+linktitle: "TextRotation"
+articleTitle: "TextRotation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets the rotation of the text."
 type: docs
-weight: 440
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textrotation/
+weight: 340
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/textrotation/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.TextRotation property
 
@@ -20,8 +23,7 @@ The rotation of the text.
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

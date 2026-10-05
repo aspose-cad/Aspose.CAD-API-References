@@ -1,10 +1,13 @@
 ---
-title: Node.GetWorldMatrix
-second_title: Aspose.CAD for .NET API Reference
-description: Node method. Gets the world matrix of this node in a given animation at a given time
+title: "Node.GetWorldMatrix"
+linktitle: "GetWorldMatrix"
+articleTitle: "GetWorldMatrix"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Node method. Gets the world matrix of this node in a given animation at a given time."
 type: docs
-weight: 210
-url: /net/aspose.cad.fileformats.glb/node/getworldmatrix/
+weight: 50
+url: "/net/aspose.cad.fileformats.glb/node/getworldmatrix/"
+product_version: "26.9"
 ---
 ## Node.GetWorldMatrix method
 
@@ -29,9 +32,8 @@ This is a convenience method, but it's slow, it's better to cache [`GetCurveSamp
 
 ### See Also
 
-* class [Animation](../../animation/)
-* class [Node](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Animation](../../animation/)
+* class [Node](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

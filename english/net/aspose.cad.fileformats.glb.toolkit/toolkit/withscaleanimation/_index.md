@@ -1,12 +1,17 @@
 ---
-title: Toolkit.WithScaleAnimation
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. 
+title: "Toolkit.WithScaleAnimation"
+linktitle: "WithScaleAnimation"
+articleTitle: "WithScaleAnimation"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method."
 type: docs
-weight: 450
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withscaleanimation/
+weight: 590
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withscaleanimation/"
+product_version: "26.9"
 ---
-## WithScaleAnimation(this Node, string, ICurveSampler&lt;Vector3&gt;) {#withscaleanimation}
+## WithScaleAnimation(this Node, string, ICurveSampler&lt;Vector3&gt;) {#withscaleanimation}
+
+
 
 ```csharp
 public static Node WithScaleAnimation(this Node node, string animationName, 
@@ -15,15 +20,17 @@ public static Node WithScaleAnimation(this Node node, string animationName,
 
 ### See Also
 
-* class [Node](../../../aspose.cad.fileformats.glb/node/)
-* interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
+* class [Node](../../../aspose.cad.fileformats.glb/node/)
+* interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## WithScaleAnimation(this Node, string, IReadOnlyDictionary&lt;float, Vector3&gt;) {#withscaleanimation_1}
+## WithScaleAnimation(this Node, string, IReadOnlyDictionary&lt;float, Vector3&gt;) {#withscaleanimation_1}
+
+
 
 ```csharp
 public static Node WithScaleAnimation(this Node node, string animationName, 
@@ -32,9 +39,8 @@ public static Node WithScaleAnimation(this Node node, string animationName,
 
 ### See Also
 
-* class [Node](../../../aspose.cad.fileformats.glb/node/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../../../aspose.cad.fileformats.glb/node/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

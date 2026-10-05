@@ -1,14 +1,18 @@
 ---
-title: Enum CadPlotStandardScaleType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotStandardScaleType enum. Standard scale type. CadPlotSettings
+title: "CadPlotStandardScaleType Enum"
+linktitle: "CadPlotStandardScaleType"
+articleTitle: "CadPlotStandardScaleType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadPlotStandardScaleType enum. Standard scale type. CadPlotSettings"
 type: docs
-weight: 1510
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadplotstandardscaletype/
+weight: 450
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadplotstandardscaletype/"
+product_version: "26.9"
 ---
 ## CadPlotStandardScaleType enumeration
 
-Standard scale type. [`CadPlotSettings`](../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
+Standard scale type.
+ [`CadPlotSettings`](../../../aspose.cad.fileformats.cad.cadobjects/cadplotsettings/)
 
 ```csharp
 public enum CadPlotStandardScaleType : short
@@ -54,7 +58,6 @@ public enum CadPlotStandardScaleType : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

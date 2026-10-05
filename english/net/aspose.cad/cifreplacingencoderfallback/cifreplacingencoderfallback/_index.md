@@ -1,10 +1,13 @@
 ---
-title: CifReplacingEncoderFallback.CifReplacingEncoderFallback
-second_title: Aspose.CAD for .NET API Reference
-description: CifReplacingEncoderFallback constructor. The default constructor
+title: "CifReplacingEncoderFallback.CifReplacingEncoderFallback"
+linktitle: "CifReplacingEncoderFallback"
+articleTitle: "CifReplacingEncoderFallback"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CifReplacingEncoderFallback constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad/cifreplacingencoderfallback/cifreplacingencoderfallback/
+url: "/net/aspose.cad/cifreplacingencoderfallback/cifreplacingencoderfallback/"
+product_version: "26.9"
 ---
 ## CifReplacingEncoderFallback constructor
 
@@ -16,8 +19,7 @@ public CifReplacingEncoderFallback()
 
 ### See Also
 
-* class [CifReplacingEncoderFallback](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CifReplacingEncoderFallback](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

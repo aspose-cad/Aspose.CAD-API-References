@@ -1,10 +1,13 @@
 ---
-title: ColorTranslator.ToHtml
-second_title: Aspose.CAD for .NET API Reference
-description: ColorTranslator method. Creates HTML color from the color
+title: "ColorTranslator.ToHtml"
+linktitle: "ToHtml"
+articleTitle: "ToHtml"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColorTranslator method. Creates HTML color from the color."
 type: docs
 weight: 40
-url: /net/aspose.cad/colortranslator/tohtml/
+url: "/net/aspose.cad/colortranslator/tohtml/"
+product_version: "26.9"
 ---
 ## ColorTranslator.ToHtml method
 
@@ -24,9 +27,8 @@ The html string color.
 
 ### See Also
 
-* struct [Color](../../color/)
-* class [ColorTranslator](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* struct [Color](../../color/)
+* class [ColorTranslator](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

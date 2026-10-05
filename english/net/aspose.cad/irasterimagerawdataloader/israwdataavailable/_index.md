@@ -1,10 +1,13 @@
 ---
-title: IRasterImageRawDataLoader.IsRawDataAvailable
-second_title: Aspose.CAD for .NET API Reference
-description: IRasterImageRawDataLoader property. Gets a value indicating whether raw data loading is supported
+title: "IRasterImageRawDataLoader.IsRawDataAvailable"
+linktitle: "IsRawDataAvailable"
+articleTitle: "IsRawDataAvailable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IRasterImageRawDataLoader property. Gets a value indicating whether raw data loading is supported."
 type: docs
-weight: 10
-url: /net/aspose.cad/irasterimagerawdataloader/israwdataavailable/
+weight: 20
+url: "/net/aspose.cad/irasterimagerawdataloader/israwdataavailable/"
+product_version: "26.9"
 ---
 ## IRasterImageRawDataLoader.IsRawDataAvailable property
 
@@ -20,8 +23,7 @@ public bool IsRawDataAvailable { get; }
 
 ### See Also
 
-* interface [IRasterImageRawDataLoader](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IRasterImageRawDataLoader](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

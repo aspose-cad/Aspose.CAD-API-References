@@ -1,12 +1,17 @@
 ---
-title: Message.Text
-second_title: Aspose.CAD for .NET API Reference
-description: Message property. 
+title: "Message.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Message property."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cgm/message/text/
+weight: 30
+url: "/net/aspose.cad.fileformats.cgm/message/text/"
+product_version: "26.9"
 ---
 ## Message.Text property
+
+
 
 ```csharp
 public string Text { get; }
@@ -14,8 +19,7 @@ public string Text { get; }
 
 ### See Also
 
-* class [Message](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Message](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

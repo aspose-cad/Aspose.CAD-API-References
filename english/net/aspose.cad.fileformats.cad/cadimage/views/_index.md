@@ -1,10 +1,13 @@
 ---
-title: CadImage.Views
-second_title: Aspose.CAD for .NET API Reference
-description: CadImage property. Gets or sets the views
+title: "CadImage.Views"
+linktitle: "Views"
+articleTitle: "Views"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadImage property. Gets or sets the views."
 type: docs
-weight: 320
-url: /net/aspose.cad.fileformats.cad/cadimage/views/
+weight: 400
+url: "/net/aspose.cad.fileformats.cad/cadimage/views/"
+product_version: "26.9"
 ---
 ## CadImage.Views property
 
@@ -20,9 +23,8 @@ The views.
 
 ### See Also
 
-* class [CadViewList](../../cadviewlist/)
-* class [CadImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadViewList](../../cadviewlist/)
+* class [CadImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

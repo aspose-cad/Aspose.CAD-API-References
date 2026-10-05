@@ -1,10 +1,13 @@
 ---
-title: CadBaseInfinityEntity.UnitDirectionVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadBaseInfinityEntity property. Gets or sets the unit direction vector
+title: "CadBaseInfinityEntity.UnitDirectionVector"
+linktitle: "UnitDirectionVector"
+articleTitle: "UnitDirectionVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBaseInfinityEntity property. Gets or sets the unit direction vector."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadbaseinfinityentity/unitdirectionvector/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadbaseinfinityentity/unitdirectionvector/"
+product_version: "26.9"
 ---
 ## CadBaseInfinityEntity.UnitDirectionVector property
 
@@ -20,9 +23,8 @@ The unit direction vector.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadBaseInfinityEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadBaseInfinityEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

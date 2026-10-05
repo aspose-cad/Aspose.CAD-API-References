@@ -1,10 +1,13 @@
 ---
-title: CadSunStudy.IntervalInSeconds
-second_title: Aspose.CAD for .NET API Reference
-description: CadSunStudy property. Gets or sets the interval in seconds
+title: "CadSunStudy.IntervalInSeconds"
+linktitle: "IntervalInSeconds"
+articleTitle: "IntervalInSeconds"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSunStudy property. Gets or sets the interval in seconds."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/intervalinseconds/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects.sunstudy/cadsunstudy/intervalinseconds/"
+product_version: "26.9"
 ---
 ## CadSunStudy.IntervalInSeconds property
 
@@ -20,8 +23,7 @@ The interval in seconds.
 
 ### See Also
 
-* class [CadSunStudy](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSunStudy](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](../../../aspose.cad.fileformats.cad.cadobjects.sunstudy/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Cad3DPoint.op_Multiply
-second_title: Aspose.CAD for .NET API Reference
-description: Cad3DPoint method. Multiplication of a point and a scalar
+title: "Cad3DPoint.op_Multiply"
+linktitle: "op_Multiply"
+articleTitle: "op_Multiply"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Cad3DPoint method. Multiplication of a point and a scalar"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cad3dpoint/op_multiply/
+weight: 60
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cad3dpoint/op_multiply/"
+product_version: "26.9"
 ---
 ## Cad3DPoint Multiply operator
 
@@ -25,8 +28,7 @@ Returns the sum
 
 ### See Also
 
-* class [Cad3DPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

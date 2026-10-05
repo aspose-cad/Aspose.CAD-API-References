@@ -1,14 +1,18 @@
 ---
-title: Enum EnumUpAxis
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumUpAxis enum. The up axis enumeration. An enumerated type specifying the acceptable upaxis values
+title: "EnumUpAxis Enum"
+linktitle: "EnumUpAxis"
+articleTitle: "EnumUpAxis"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumUpAxis enum. The up axis enumeration. An enumerated type specifying the acceptable up-axis values."
 type: docs
-weight: 7720
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumupaxis/
+weight: 400
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/enumupaxis/"
+product_version: "26.9"
 ---
 ## EnumUpAxis enumeration
 
-The up axis enumeration. An enumerated type specifying the acceptable up-axis values.
+The up axis enumeration.
+ An enumerated type specifying the acceptable up-axis values.
 
 ```csharp
 public enum EnumUpAxis
@@ -24,7 +28,6 @@ public enum EnumUpAxis
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,12 +1,17 @@
 ---
-title: Toolkit.CreateVertexAccessor
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. 
+title: "Toolkit.CreateVertexAccessor"
+linktitle: "CreateVertexAccessor"
+articleTitle: "CreateVertexAccessor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/createvertexaccessor/
+weight: 670
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/createvertexaccessor/"
+product_version: "26.9"
 ---
 ## Toolkit.CreateVertexAccessor method
+
+
 
 ```csharp
 public static Accessor CreateVertexAccessor(this GlbData root, MemoryAccessor memAccessor)
@@ -14,11 +19,10 @@ public static Accessor CreateVertexAccessor(this GlbData root, MemoryAccessor me
 
 ### See Also
 
-* class [Accessor](../../../aspose.cad.fileformats.glb/accessor/)
-* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
-* class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Accessor](../../../aspose.cad.fileformats.glb/accessor/)
+* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
+* class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

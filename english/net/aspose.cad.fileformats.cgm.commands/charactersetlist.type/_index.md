@@ -1,12 +1,17 @@
 ---
-title: Enum CharacterSetList.Type
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.CharacterSetListType enum. 
+title: "CharacterSetList.Type Enum"
+linktitle: "CharacterSetList.Type"
+articleTitle: "CharacterSetList.Type"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.CharacterSetList.Type enum."
 type: docs
-weight: 5110
-url: /net/aspose.cad.fileformats.cgm.commands/charactersetlist.type/
+weight: 380
+url: "/net/aspose.cad.fileformats.cgm.commands/charactersetlist.type/"
+product_version: "26.9"
 ---
 ## CharacterSetList.Type enumeration
+
+
 
 ```csharp
 public enum Type
@@ -24,8 +29,7 @@ public enum Type
 
 ### See Also
 
-* class [CharacterSetList](../charactersetlist/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [CharacterSetList](../charactersetlist/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

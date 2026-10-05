@@ -1,10 +1,14 @@
 ---
-title: Class DgnSharedCellElement
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSharedCellElement class. Represents shared cell definition element
+title: "DgnSharedCellElement Class"
+linktitle: "DgnSharedCellElement"
+articleTitle: "DgnSharedCellElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnSharedCellElement class. Represents shared cell definition element"
 type: docs
-weight: 8960
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/
+weight: 240
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/"
+keywords: "DgnSharedCellElement, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## DgnSharedCellElement class
 
@@ -18,19 +22,18 @@ public class DgnSharedCellElement : DgnDrawableEntityBase
 
 | Name | Description |
 | --- | --- |
-| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
-| [Definition](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/definition/) { get; } | Gets the definition. |
-| override [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/id/) { get; } | Gets the identifier. |
-| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/maxpoint/) { get; } | Gets the max point of object. |
-| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
-| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/minpoint/) { get; } | Gets the min point of object. |
-| [Name](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/name/) { get; } | Gets the name. |
-| [Origin](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/origin/) { get; } | Gets cell's origin point |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| [Definition](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/definition/) { get; } | Gets the definition. |
+| override [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/id/) { get; } | Gets the identifier. |
+| override [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/maxpoint/) { get; } | Gets the max point of object. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Gets element metadata |
+| override [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/minpoint/) { get; } | Gets the min point of object. |
+| [Name](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/name/) { get; } | Gets the name. |
+| [Origin](../../aspose.cad.fileformats.dgn.dgnelements/dgnsharedcellelement/origin/) { get; } | Gets cell's origin point |
 
 ### See Also
 
-* class [DgnDrawableEntityBase](../dgndrawableentitybase/)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../)
-
+* class [DgnDrawableEntityBase](../dgndrawableentitybase/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
 

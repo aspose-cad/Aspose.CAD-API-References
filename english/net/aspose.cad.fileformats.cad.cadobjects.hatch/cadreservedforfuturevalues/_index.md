@@ -1,10 +1,14 @@
 ---
-title: Class CadReservedForFutureValues
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadReservedForFutureValues class. The reserved for future values
+title: "CadReservedForFutureValues Class"
+linktitle: "CadReservedForFutureValues"
+articleTitle: "CadReservedForFutureValues"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.Hatch.CadReservedForFutureValues class. The reserved for future values"
 type: docs
-weight: 3720
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/"
+keywords: "CadReservedForFutureValues, Aspose.CAD.FileFormats.Cad.CadObjects.Hatch, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadReservedForFutureValues class
 
@@ -24,13 +28,12 @@ public class CadReservedForFutureValues
 
 | Name | Description |
 | --- | --- |
-| [Attribute421](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/attribute421/) { get; set; } | Gets or sets the attribute421. |
-| [Attribute463](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/attribute463/) { get; set; } | Gets or sets the attribute 463. |
-| [Attribute63](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/attribute63/) { get; set; } | Gets or sets the attribute63. |
+| [Attribute421](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/attribute421/) { get; set; } | Gets or sets the attribute421. |
+| [Attribute463](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/attribute463/) { get; set; } | Gets or sets the attribute 463. |
+| [Attribute63](../../aspose.cad.fileformats.cad.cadobjects.hatch/cadreservedforfuturevalues/attribute63/) { get; set; } | Gets or sets the attribute63. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../)
 

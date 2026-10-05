@@ -1,10 +1,13 @@
 ---
-title: RleCompressorException.RleCompressorException
-second_title: Aspose.CAD for .NET API Reference
-description: RleCompressorException constructor. Initializes a new instance of the RleCompressorException class
+title: "RleCompressorException.RleCompressorException"
+linktitle: "RleCompressorException"
+articleTitle: "RleCompressorException"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RleCompressorException constructor. Initializes a new instance of the RleCompressorException class."
 type: docs
 weight: 10
-url: /net/aspose.cad.cadexceptions.compressors/rlecompressorexception/rlecompressorexception/
+url: "/net/aspose.cad.cadexceptions.compressors/rlecompressorexception/rlecompressorexception/"
+product_version: "26.9"
 ---
 ## RleCompressorException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public RleCompressorException(string message)
 
 ### See Also
 
-* class [RleCompressorException](../)
-* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
-* assembly [Aspose.CAD](../../../)
+* class [RleCompressorException](../)
+* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## RleCompressorException(string, Exception) {#constructor_1}
+## RleCompressorException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`RleCompressorException`](../) class.
 
@@ -41,8 +44,7 @@ public RleCompressorException(string message, Exception innerException)
 
 ### See Also
 
-* class [RleCompressorException](../)
-* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RleCompressorException](../)
+* namespace [Aspose.CAD.CadExceptions.Compressors](../../../aspose.cad.cadexceptions.compressors/)
+* assembly [Aspose.CAD](../../../)
 

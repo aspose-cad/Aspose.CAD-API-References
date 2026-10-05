@@ -1,10 +1,13 @@
 ---
-title: CadGeoData.FacePointIndexes1
-second_title: Aspose.CAD for .NET API Reference
-description: CadGeoData property. Gets or sets the face point indexes1
+title: "CadGeoData.FacePointIndexes1"
+linktitle: "FacePointIndexes1"
+articleTitle: "FacePointIndexes1"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGeoData property. Gets or sets the face point indexes1."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/facepointindexes1/
+weight: 270
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgeodata/facepointindexes1/"
+product_version: "26.9"
 ---
 ## CadGeoData.FacePointIndexes1 property
 
@@ -20,8 +23,7 @@ The face point indexes1.
 
 ### See Also
 
-* class [CadGeoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGeoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

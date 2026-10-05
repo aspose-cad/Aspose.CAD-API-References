@@ -1,12 +1,17 @@
 ---
-title: Enum SymbolSize.ScaleIndicator
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.SymbolSizeScaleIndicator enum. 
+title: "SymbolSize.ScaleIndicator Enum"
+linktitle: "SymbolSize.ScaleIndicator"
+articleTitle: "SymbolSize.ScaleIndicator"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.SymbolSize.ScaleIndicator enum."
 type: docs
-weight: 6700
-url: /net/aspose.cad.fileformats.cgm.commands/symbolsize.scaleindicator/
+weight: 1980
+url: "/net/aspose.cad.fileformats.cgm.commands/symbolsize.scaleindicator/"
+product_version: "26.9"
 ---
 ## SymbolSize.ScaleIndicator enumeration
+
+
 
 ```csharp
 public enum ScaleIndicator
@@ -22,8 +27,7 @@ public enum ScaleIndicator
 
 ### See Also
 
-* class [SymbolSize](../symbolsize/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [SymbolSize](../symbolsize/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

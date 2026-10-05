@@ -1,12 +1,17 @@
 ---
-title: MitreLimit.Limit
-second_title: Aspose.CAD for .NET API Reference
-description: MitreLimit property. 
+title: "MitreLimit.Limit"
+linktitle: "Limit"
+articleTitle: "Limit"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MitreLimit property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cgm.commands/mitrelimit/limit/
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm.commands/mitrelimit/limit/"
+product_version: "26.9"
 ---
 ## MitreLimit.Limit property
+
+
 
 ```csharp
 public double Limit { get; set; }
@@ -14,8 +19,7 @@ public double Limit { get; set; }
 
 ### See Also
 
-* class [MitreLimit](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [MitreLimit](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

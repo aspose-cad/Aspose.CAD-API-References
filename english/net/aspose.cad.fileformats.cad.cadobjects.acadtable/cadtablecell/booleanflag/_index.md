@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.BooleanFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the boolean flag
+title: "CadTableCell.BooleanFlag"
+linktitle: "BooleanFlag"
+articleTitle: "BooleanFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the boolean flag."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/booleanflag/
+weight: 270
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/booleanflag/"
+product_version: "26.9"
 ---
 ## CadTableCell.BooleanFlag property
 
@@ -20,8 +23,7 @@ The boolean flag.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

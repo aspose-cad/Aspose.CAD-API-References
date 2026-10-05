@@ -1,10 +1,13 @@
 ---
-title: CadPlotSettings.PlotViewName
-second_title: Aspose.CAD for .NET API Reference
-description: CadPlotSettings property. Gets or sets the name of the plot view
+title: "CadPlotSettings.PlotViewName"
+linktitle: "PlotViewName"
+articleTitle: "PlotViewName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPlotSettings property. Gets or sets the name of the plot view."
 type: docs
-weight: 160
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotviewname/
+weight: 240
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadplotsettings/plotviewname/"
+product_version: "26.9"
 ---
 ## CadPlotSettings.PlotViewName property
 
@@ -20,8 +23,7 @@ The name of the plot view.
 
 ### See Also
 
-* class [CadPlotSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPlotSettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

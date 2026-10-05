@@ -1,10 +1,13 @@
 ---
-title: DgnBSplineCurveElement.PoleElement
-second_title: Aspose.CAD for .NET API Reference
-description: DgnBSplineCurveElement property. Gets or sets pole element
+title: "DgnBSplineCurveElement.PoleElement"
+linktitle: "PoleElement"
+articleTitle: "PoleElement"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnBSplineCurveElement property. Gets or sets pole element"
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/poleelement/
+weight: 60
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/poleelement/"
+product_version: "26.9"
 ---
 ## DgnBSplineCurveElement.PoleElement property
 
@@ -16,9 +19,8 @@ public DgnSplinePoleElement PoleElement { get; set; }
 
 ### See Also
 
-* class [DgnSplinePoleElement](../../dgnsplinepoleelement/)
-* class [DgnBSplineCurveElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnSplinePoleElement](../../dgnsplinepoleelement/)
+* class [DgnBSplineCurveElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

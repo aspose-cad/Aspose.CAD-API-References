@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderContextData.HasMText
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderContextData property. Gets or sets whether context data has MText
+title: "CadMLeaderContextData.HasMText"
+linktitle: "HasMText"
+articleTitle: "HasMText"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderContextData property. Gets or sets whether context data has MText."
 type: docs
-weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/hasmtext/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleadercontextdata/hasmtext/"
+product_version: "26.9"
 ---
 ## CadMLeaderContextData.HasMText property
 
@@ -20,8 +23,7 @@ If context data has MText
 
 ### See Also
 
-* class [CadMLeaderContextData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderContextData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

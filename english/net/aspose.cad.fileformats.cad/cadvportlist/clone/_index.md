@@ -1,10 +1,13 @@
 ---
-title: CadVportList.Clone
-second_title: Aspose.CAD for .NET API Reference
-description: CadVportList method. The clone
+title: "CadVportList.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVportList method. The clone."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad/cadvportlist/clone/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad/cadvportlist/clone/"
+product_version: "26.9"
 ---
 ## CadVportList.Clone method
 
@@ -16,12 +19,11 @@ public object Clone()
 
 ### Return Value
 
-The Object.
+The `Object`.
 
 ### See Also
 
-* class [CadVportList](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVportList](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

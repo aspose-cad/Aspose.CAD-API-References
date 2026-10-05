@@ -1,10 +1,13 @@
 ---
-title: Interface ITiffTagCreator
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Tiff.InstanceFactory.ITiffTagCreator interface. The tiff tag creator
+title: "ITiffTagCreator Interface"
+linktitle: "ITiffTagCreator"
+articleTitle: "ITiffTagCreator"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Tiff.InstanceFactory.ITiffTagCreator interface. The tiff tag creator."
 type: docs
-weight: 35570
-url: /net/aspose.cad.fileformats.tiff.instancefactory/itifftagcreator/
+weight: 20
+url: "/net/aspose.cad.fileformats.tiff.instancefactory/itifftagcreator/"
+product_version: "26.9"
 ---
 ## ITiffTagCreator interface
 
@@ -22,7 +25,6 @@ public interface ITiffTagCreator
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Tiff.InstanceFactory](../../aspose.cad.fileformats.tiff.instancefactory/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Tiff.InstanceFactory](../../aspose.cad.fileformats.tiff.instancefactory/)
+* assembly [Aspose.CAD](../../)
 

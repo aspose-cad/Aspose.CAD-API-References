@@ -1,10 +1,13 @@
 ---
-title: Skin.JointsCount
-second_title: Aspose.CAD for .NET API Reference
-description: Skin property. Gets the number of joints
+title: "Skin.JointsCount"
+linktitle: "JointsCount"
+articleTitle: "JointsCount"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Skin property. Gets the number of joints"
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.glb/skin/jointscount/
+weight: 50
+url: "/net/aspose.cad.fileformats.glb/skin/jointscount/"
+product_version: "26.9"
 ---
 ## Skin.JointsCount property
 
@@ -16,8 +19,7 @@ public int JointsCount { get; }
 
 ### See Also
 
-* class [Skin](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Skin](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

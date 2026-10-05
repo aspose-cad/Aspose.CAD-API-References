@@ -1,18 +1,25 @@
 ---
-title: Aspose.CAD.FileFormats.Dwf.Whip.Objects
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace handles Dwf whip objects processing
+title: "Aspose.CAD.FileFormats.Dwf.Whip.Objects"
+linktitle: "Aspose.CAD.FileFormats.Dwf.Whip.Objects"
+articleTitle: "Aspose.CAD.FileFormats.Dwf.Whip.Objects"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace handles Dwf whip objects processing."
 type: docs
-weight: 620
-url: /net/aspose.cad.fileformats.dwf.whip.objects/
+weight: 10
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/"
+keywords: "Aspose.CAD.FileFormats.Dwf.Whip.Objects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace handles Dwf whip objects processing.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
 | Class | Description |
 | --- | --- |
-| [DwfFileHeuristics](./dwffileheuristics/) | Represents file heuristics |
 | [DwfString](./dwfstring/) | Represents String |
 | [DwfWhipAttribute](./dwfwhipattribute/) | Represents object familt attributes |
 | [DwfWhipLayer](./dwfwhiplayer/) | Represents Layer |
@@ -21,5 +28,4 @@ The namespace handles Dwf whip objects processing.
 | [DwfWhipObject](./dwfwhipobject/) | Represents base whip object |
 | [DwfWhipTransform](./dwfwhiptransform/) | Represents transform of scene |
 | [DwfWhipViewPort](./dwfwhipviewport/) | Represents view port |
-
 

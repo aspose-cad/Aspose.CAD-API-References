@@ -1,10 +1,13 @@
 ---
-title: CadRasterImage.ImageSizeV
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImage property. Gets or sets image size V value
+title: "CadRasterImage.ImageSizeV"
+linktitle: "ImageSizeV"
+articleTitle: "ImageSizeV"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImage property. Gets or sets image size V value."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/imagesizev/
+weight: 180
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/imagesizev/"
+product_version: "26.9"
 ---
 ## CadRasterImage.ImageSizeV property
 
@@ -16,8 +19,7 @@ public double ImageSizeV { get; set; }
 
 ### See Also
 
-* class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

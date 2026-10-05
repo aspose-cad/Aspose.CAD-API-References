@@ -1,10 +1,13 @@
 ---
-title: ExifData.RelatedSoundFile
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the related sound file
+title: "ExifData.RelatedSoundFile"
+linktitle: "RelatedSoundFile"
+articleTitle: "RelatedSoundFile"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the related sound file."
 type: docs
-weight: 900
-url: /net/aspose.cad.exif/exifdata/relatedsoundfile/
+weight: 910
+url: "/net/aspose.cad.exif/exifdata/relatedsoundfile/"
+product_version: "26.9"
 ---
 ## ExifData.RelatedSoundFile property
 
@@ -20,8 +23,7 @@ The related sound file.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

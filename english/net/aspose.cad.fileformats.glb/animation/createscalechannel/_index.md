@@ -1,12 +1,17 @@
 ---
-title: Animation.CreateScaleChannel
-second_title: Aspose.CAD for .NET API Reference
-description: Animation method. 
+title: "Animation.CreateScaleChannel"
+linktitle: "CreateScaleChannel"
+articleTitle: "CreateScaleChannel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Animation method."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.glb/animation/createscalechannel/
+weight: 60
+url: "/net/aspose.cad.fileformats.glb/animation/createscalechannel/"
+product_version: "26.9"
 ---
 ## Animation.CreateScaleChannel method
+
+
 
 ```csharp
 public void CreateScaleChannel(Node node, IReadOnlyDictionary<float, Vector3> keyframes, 
@@ -15,9 +20,8 @@ public void CreateScaleChannel(Node node, IReadOnlyDictionary<float, Vector3> ke
 
 ### See Also
 
-* class [Node](../../node/)
-* class [Animation](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Node](../../node/)
+* class [Animation](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

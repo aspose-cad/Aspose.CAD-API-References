@@ -1,10 +1,13 @@
 ---
-title: CadVisualStyle.InternalUseOnlyFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadVisualStyle property. Gets or sets the internal use only flag
+title: "CadVisualStyle.InternalUseOnlyFlag"
+linktitle: "InternalUseOnlyFlag"
+articleTitle: "InternalUseOnlyFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVisualStyle property. Gets or sets the internal use only flag."
 type: docs
-weight: 330
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/internaluseonlyflag/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/internaluseonlyflag/"
+product_version: "26.9"
 ---
 ## CadVisualStyle.InternalUseOnlyFlag property
 
@@ -20,8 +23,7 @@ The internal use only flag.
 
 ### See Also
 
-* class [CadVisualStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVisualStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

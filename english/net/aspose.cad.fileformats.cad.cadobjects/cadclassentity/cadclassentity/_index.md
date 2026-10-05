@@ -1,10 +1,13 @@
 ---
-title: CadClassEntity.CadClassEntity
-second_title: Aspose.CAD for .NET API Reference
-description: CadClassEntity constructor. The default constructor
+title: "CadClassEntity.CadClassEntity"
+linktitle: "CadClassEntity"
+articleTitle: "CadClassEntity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadClassEntity constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadclassentity/cadclassentity/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadclassentity/cadclassentity/"
+product_version: "26.9"
 ---
 ## CadClassEntity constructor
 
@@ -16,8 +19,7 @@ public CadClassEntity()
 
 ### See Also
 
-* class [CadClassEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadClassEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

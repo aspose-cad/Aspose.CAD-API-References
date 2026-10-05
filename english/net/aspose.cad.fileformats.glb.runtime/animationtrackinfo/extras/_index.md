@@ -1,12 +1,17 @@
 ---
-title: AnimationTrackInfo.Extras
-second_title: Aspose.CAD for .NET API Reference
-description: AnimationTrackInfo property. 
+title: "AnimationTrackInfo.Extras"
+linktitle: "Extras"
+articleTitle: "Extras"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AnimationTrackInfo property."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.glb.runtime/animationtrackinfo/extras/
+url: "/net/aspose.cad.fileformats.glb.runtime/animationtrackinfo/extras/"
+product_version: "26.9"
 ---
 ## AnimationTrackInfo.Extras property
+
+
 
 ```csharp
 public object Extras { get; }
@@ -14,8 +19,7 @@ public object Extras { get; }
 
 ### See Also
 
-* class [AnimationTrackInfo](../)
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AnimationTrackInfo](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../../aspose.cad.fileformats.glb.runtime/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,36 @@
 ---
-title: CadBinaryCodeValue.CadBinaryCodeValue
-second_title: Aspose.CAD for .NET API Reference
-description: CadBinaryCodeValue constructor. Initializes a new instance of the CadBinaryCodeValue class
+title: "CadBinaryCodeValue.CadBinaryCodeValue"
+linktitle: "CadBinaryCodeValue"
+articleTitle: "CadBinaryCodeValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBinaryCodeValue constructor. Initializes a new instance of the CadBinaryCodeValue class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad/cadbinarycodevalue/cadbinarycodevalue/
+url: "/net/aspose.cad.fileformats.cad/cadbinarycodevalue/cadbinarycodevalue/"
+product_version: "26.9"
 ---
-## CadBinaryCodeValue(int, byte[], int) {#constructor}
+## CadBinaryCodeValue(int, string) {#constructor}
+
+Initializes a new instance of the [`CadBinaryCodeValue`](../) class.
+
+```csharp
+public CadBinaryCodeValue(int code, string value)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| code | Int32 | The code of the parameter. |
+| value | String | The value of the parameter. |
+
+### See Also
+
+* class [CadBinaryCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## CadBinaryCodeValue(int, byte[], int) {#constructor_1}
 
 Initializes a new instance of the [`CadBinaryCodeValue`](../) class.
 
@@ -22,29 +46,7 @@ public CadBinaryCodeValue(int code, byte[] data, int dataCount)
 
 ### See Also
 
-* class [CadBinaryCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## CadBinaryCodeValue(int, string) {#constructor_1}
-
-Initializes a new instance of the [`CadBinaryCodeValue`](../) class.
-
-```csharp
-public CadBinaryCodeValue(int code, string value)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| code | Int32 | The code of the parameter. |
-| value | String | The value of the parameter. |
-
-### See Also
-
-* class [CadBinaryCodeValue](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBinaryCodeValue](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

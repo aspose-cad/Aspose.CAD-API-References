@@ -1,12 +1,17 @@
 ---
-title: FileFormatMetadataAttribute.FileFormatMetadataAttribute
-second_title: Aspose.CAD for .NET API Reference
-description: FileFormatMetadataAttribute constructor. 
+title: "FileFormatMetadataAttribute.FileFormatMetadataAttribute"
+linktitle: "FileFormatMetadataAttribute"
+articleTitle: "FileFormatMetadataAttribute"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FileFormatMetadataAttribute constructor. Initializes a new instance of the FileFormatMetadataAttribute class."
 type: docs
 weight: 10
-url: /net/aspose.cad/fileformatmetadataattribute/fileformatmetadataattribute/
+url: "/net/aspose.cad/fileformatmetadataattribute/fileformatmetadataattribute/"
+product_version: "26.9"
 ---
 ## FileFormatMetadataAttribute constructor
+
+Initializes a new instance of the FileFormatMetadataAttribute class.
 
 ```csharp
 public FileFormatMetadataAttribute(FileFormatCategory category, string mnemonic = null, 
@@ -16,9 +21,8 @@ public FileFormatMetadataAttribute(FileFormatCategory category, string mnemonic 
 
 ### See Also
 
-* enum [FileFormatCategory](../../fileformatcategory/)
-* class [FileFormatMetadataAttribute](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [FileFormatCategory](../../fileformatcategory/)
+* class [FileFormatMetadataAttribute](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

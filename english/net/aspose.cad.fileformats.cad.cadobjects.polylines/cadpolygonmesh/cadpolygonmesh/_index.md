@@ -1,10 +1,13 @@
 ---
-title: CadPolygonMesh.CadPolygonMesh
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolygonMesh constructor. The default constructor
+title: "CadPolygonMesh.CadPolygonMesh"
+linktitle: "CadPolygonMesh"
+articleTitle: "CadPolygonMesh"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolygonMesh constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh/cadpolygonmesh/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh/cadpolygonmesh/"
+product_version: "26.9"
 ---
 ## CadPolygonMesh constructor
 
@@ -16,8 +19,7 @@ public CadPolygonMesh()
 
 ### See Also
 
-* class [CadPolygonMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolygonMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

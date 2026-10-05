@@ -1,10 +1,13 @@
 ---
-title: RasterImage.BinarizeBradley
-second_title: Aspose.CAD for .NET API Reference
-description: RasterImage method. Binarization of an image using Bradleys adaptive thresholding algorithm using the integral image thresholding
+title: "RasterImage.BinarizeBradley"
+linktitle: "BinarizeBradley"
+articleTitle: "BinarizeBradley"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterImage method. Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding"
 type: docs
-weight: 170
-url: /net/aspose.cad/rasterimage/binarizebradley/
+weight: 70
+url: "/net/aspose.cad/rasterimage/binarizebradley/"
+product_version: "26.9"
 ---
 ## RasterImage.BinarizeBradley method
 
@@ -20,8 +23,7 @@ public abstract void BinarizeBradley(double brightnessDifference)
 
 ### See Also
 
-* class [RasterImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

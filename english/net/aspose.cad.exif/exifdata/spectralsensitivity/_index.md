@@ -1,10 +1,13 @@
 ---
-title: ExifData.SpectralSensitivity
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the spectral sensitivity
+title: "ExifData.SpectralSensitivity"
+linktitle: "SpectralSensitivity"
+articleTitle: "SpectralSensitivity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the spectral sensitivity."
 type: docs
-weight: 990
-url: /net/aspose.cad.exif/exifdata/spectralsensitivity/
+weight: 1000
+url: "/net/aspose.cad.exif/exifdata/spectralsensitivity/"
+product_version: "26.9"
 ---
 ## ExifData.SpectralSensitivity property
 
@@ -20,8 +23,7 @@ The spectral sensitivity.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

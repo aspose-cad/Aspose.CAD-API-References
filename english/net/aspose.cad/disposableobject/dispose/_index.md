@@ -1,10 +1,13 @@
 ---
-title: DisposableObject.Dispose
-second_title: Aspose.CAD for .NET API Reference
-description: DisposableObject method. Disposes the current instance
+title: "DisposableObject.Dispose"
+linktitle: "Dispose"
+articleTitle: "Dispose"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DisposableObject method. Disposes the current instance."
 type: docs
-weight: 30
-url: /net/aspose.cad/disposableobject/dispose/
+weight: 20
+url: "/net/aspose.cad/disposableobject/dispose/"
+product_version: "26.9"
 ---
 ## DisposableObject.Dispose method
 
@@ -16,8 +19,7 @@ public void Dispose()
 
 ### See Also
 
-* class [DisposableObject](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DisposableObject](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

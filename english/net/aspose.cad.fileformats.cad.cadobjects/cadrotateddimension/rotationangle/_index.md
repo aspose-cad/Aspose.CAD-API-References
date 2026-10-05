@@ -1,10 +1,13 @@
 ---
-title: CadRotatedDimension.RotationAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadRotatedDimension property. Gets or sets the rotation angle
+title: "CadRotatedDimension.RotationAngle"
+linktitle: "RotationAngle"
+articleTitle: "RotationAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRotatedDimension property. Gets or sets the rotation angle."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrotateddimension/rotationangle/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrotateddimension/rotationangle/"
+product_version: "26.9"
 ---
 ## CadRotatedDimension.RotationAngle property
 
@@ -16,8 +19,7 @@ public double RotationAngle { get; set; }
 
 ### See Also
 
-* class [CadRotatedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRotatedDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

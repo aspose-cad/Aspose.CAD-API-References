@@ -1,10 +1,13 @@
 ---
-title: CadMLeader.EnableDogleg
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeader property. Gets or sets a value indicating whether enable dogleg
+title: "CadMLeader.EnableDogleg"
+linktitle: "EnableDogleg"
+articleTitle: "EnableDogleg"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeader property. Gets or sets a value indicating whether [enable dogleg]."
 type: docs
-weight: 170
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleader/enabledogleg/
+weight: 290
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleader/enabledogleg/"
+product_version: "26.9"
 ---
 ## CadMLeader.EnableDogleg property
 
@@ -20,8 +23,7 @@ public bool EnableDogleg { get; set; }
 
 ### See Also
 
-* class [CadMLeader](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeader](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

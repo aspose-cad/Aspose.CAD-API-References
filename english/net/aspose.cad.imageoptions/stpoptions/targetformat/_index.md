@@ -1,12 +1,17 @@
 ---
-title: StpOptions.TargetFormat
-second_title: Aspose.CAD for .NET API Reference
-description: StpOptions property. 
+title: "StpOptions.TargetFormat"
+linktitle: "TargetFormat"
+articleTitle: "TargetFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StpOptions property."
 type: docs
 weight: 20
-url: /net/aspose.cad.imageoptions/stpoptions/targetformat/
+url: "/net/aspose.cad.imageoptions/stpoptions/targetformat/"
+product_version: "26.9"
 ---
 ## StpOptions.TargetFormat property
+
+
 
 ```csharp
 public override FileFormat TargetFormat { get; }
@@ -14,9 +19,8 @@ public override FileFormat TargetFormat { get; }
 
 ### See Also
 
-* enum [FileFormat](../../../aspose.cad/fileformat/)
-* class [StpOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [FileFormat](../../../aspose.cad/fileformat/)
+* class [StpOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

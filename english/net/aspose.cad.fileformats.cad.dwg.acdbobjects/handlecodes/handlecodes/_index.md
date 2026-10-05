@@ -1,10 +1,13 @@
 ---
-title: HandleCodes.HandleCodes
-second_title: Aspose.CAD for .NET API Reference
-description: HandleCodes constructor. Initializes a new instance of the HandleCodes class
+title: "HandleCodes.HandleCodes"
+linktitle: "HandleCodes"
+articleTitle: "HandleCodes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "HandleCodes constructor. Initializes a new instance of the HandleCodes class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/handlecodes/
+url: "/net/aspose.cad.fileformats.cad.dwg.acdbobjects/handlecodes/handlecodes/"
+product_version: "26.9"
 ---
 ## HandleCodes constructor
 
@@ -16,8 +19,7 @@ public HandleCodes()
 
 ### See Also
 
-* class [HandleCodes](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](../../../aspose.cad.fileformats.cad.dwg.acdbobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [HandleCodes](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](../../../aspose.cad.fileformats.cad.dwg.acdbobjects/)
+* assembly [Aspose.CAD](../../../)
 

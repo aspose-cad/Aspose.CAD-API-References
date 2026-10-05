@@ -1,10 +1,13 @@
 ---
-title: CadPolygonMesh.StartWidth
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolygonMesh property. Gets or sets the start width
+title: "CadPolygonMesh.StartWidth"
+linktitle: "StartWidth"
+articleTitle: "StartWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolygonMesh property. Gets or sets the start width."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh/startwidth/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh/startwidth/"
+product_version: "26.9"
 ---
 ## CadPolygonMesh.StartWidth property
 
@@ -20,8 +23,7 @@ The start width.
 
 ### See Also
 
-* class [CadPolygonMesh](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolygonMesh](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

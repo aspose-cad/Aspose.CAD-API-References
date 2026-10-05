@@ -1,10 +1,13 @@
 ---
-title: CadRotatedDimension.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadRotatedDimension property. Gets the name of the type
+title: "CadRotatedDimension.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRotatedDimension property. Gets the name of the type."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrotateddimension/typename/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrotateddimension/typename/"
+product_version: "26.9"
 ---
 ## CadRotatedDimension.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadRotatedDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadRotatedDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

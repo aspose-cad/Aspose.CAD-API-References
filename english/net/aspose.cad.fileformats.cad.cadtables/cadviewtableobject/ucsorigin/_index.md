@@ -1,10 +1,13 @@
 ---
-title: CadViewTableObject.UcsOrigin
-second_title: Aspose.CAD for .NET API Reference
-description: CadViewTableObject property. Gets or sets the ucs origin
+title: "CadViewTableObject.UcsOrigin"
+linktitle: "UcsOrigin"
+articleTitle: "UcsOrigin"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadViewTableObject property. Gets or sets the ucs origin."
 type: docs
-weight: 230
-url: /net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucsorigin/
+weight: 210
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/ucsorigin/"
+product_version: "26.9"
 ---
 ## CadViewTableObject.UcsOrigin property
 
@@ -20,9 +23,8 @@ The ucs origin.
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [CadViewTableObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [CadViewTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

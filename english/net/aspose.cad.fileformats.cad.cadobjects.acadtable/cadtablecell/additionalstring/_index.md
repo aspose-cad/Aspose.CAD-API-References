@@ -1,10 +1,13 @@
 ---
-title: CadTableCell.AdditionalString
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableCell property. Gets or sets the additional string
+title: "CadTableCell.AdditionalString"
+linktitle: "AdditionalString"
+articleTitle: "AdditionalString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableCell property. Gets or sets the additional string."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/additionalstring/
+weight: 400
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtablecell/additionalstring/"
+product_version: "26.9"
 ---
 ## CadTableCell.AdditionalString property
 
@@ -20,8 +23,7 @@ The additional string.
 
 ### See Also
 
-* class [CadTableCell](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

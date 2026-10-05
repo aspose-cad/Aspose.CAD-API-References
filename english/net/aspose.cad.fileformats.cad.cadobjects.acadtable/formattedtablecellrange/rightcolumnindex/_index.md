@@ -1,10 +1,13 @@
 ---
-title: FormattedTableCellRange.RightColumnIndex
-second_title: Aspose.CAD for .NET API Reference
-description: FormattedTableCellRange property. The right column index
+title: "FormattedTableCellRange.RightColumnIndex"
+linktitle: "RightColumnIndex"
+articleTitle: "RightColumnIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FormattedTableCellRange property. The right column index"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/formattedtablecellrange/rightcolumnindex/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/formattedtablecellrange/rightcolumnindex/"
+product_version: "26.9"
 ---
 ## FormattedTableCellRange.RightColumnIndex property
 
@@ -16,8 +19,7 @@ public int RightColumnIndex { get; set; }
 
 ### See Also
 
-* class [FormattedTableCellRange](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FormattedTableCellRange](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

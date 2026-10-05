@@ -1,10 +1,13 @@
 ---
-title: AppInfoData18.AppInfoData18
-second_title: Aspose.CAD for .NET API Reference
-description: AppInfoData18 constructor. The default constructor
+title: "AppInfoData18.AppInfoData18"
+linktitle: "AppInfoData18"
+articleTitle: "AppInfoData18"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AppInfoData18 constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.dwg.appinfo/appinfodata18/appinfodata18/
+url: "/net/aspose.cad.fileformats.cad.dwg.appinfo/appinfodata18/appinfodata18/"
+product_version: "26.9"
 ---
 ## AppInfoData18 constructor
 
@@ -16,8 +19,7 @@ public AppInfoData18()
 
 ### See Also
 
-* class [AppInfoData18](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AppInfo](../../../aspose.cad.fileformats.cad.dwg.appinfo/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AppInfoData18](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.AppInfo](../../../aspose.cad.fileformats.cad.dwg.appinfo/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: Struct DrawableInstance
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.GLB.Runtime.DrawableInstance struct. 
+title: "DrawableInstance Struct"
+linktitle: "DrawableInstance"
+articleTitle: "DrawableInstance"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.GLB.Runtime.DrawableInstance struct."
 type: docs
-weight: 11210
-url: /net/aspose.cad.fileformats.glb.runtime/drawableinstance/
+weight: 40
+url: "/net/aspose.cad.fileformats.glb.runtime/drawableinstance/"
+product_version: "26.9"
 ---
-## DrawableInstance structure
+## DrawableInstance struct
+
+
 
 ```csharp
 public struct DrawableInstance
@@ -16,18 +21,16 @@ public struct DrawableInstance
 
 | Name | Description |
 | --- | --- |
-| [InstanceCount](../../aspose.cad.fileformats.glb.runtime/drawableinstance/instancecount/) { get; } | If [`Transform`](./transform/) has instancing support, it gets the number of times we need to render [`Template`](./template/) |
+| InstanceCount { get; } | If Transform has instancing support, it gets the number of times we need to render [`Template`](./template/) |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| readonly [Template](../../aspose.cad.fileformats.glb.runtime/drawableinstance/template/) | Represents WHAT to draw. |
-| readonly [Transform](../../aspose.cad.fileformats.glb.runtime/drawableinstance/transform/) | Represents WHERE to draw the [`Template`](./template/). |
+| Template | Represents WHAT to draw. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../aspose.cad.fileformats.glb.runtime/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB.Runtime](../../aspose.cad.fileformats.glb.runtime/)
+* assembly [Aspose.CAD](../../)
 

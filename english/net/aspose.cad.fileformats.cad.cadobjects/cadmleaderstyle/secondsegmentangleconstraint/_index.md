@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.SecondSegmentAngleConstraint
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the second segment angle constraint
+title: "CadMLeaderStyle.SecondSegmentAngleConstraint"
+linktitle: "SecondSegmentAngleConstraint"
+articleTitle: "SecondSegmentAngleConstraint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the second segment angle constraint."
 type: docs
-weight: 360
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/secondsegmentangleconstraint/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/secondsegmentangleconstraint/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.SecondSegmentAngleConstraint property
 
@@ -20,8 +23,7 @@ The second segment angle constraint.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DgnCellHeaderElement.Name
-second_title: Aspose.CAD for .NET API Reference
-description: DgnCellHeaderElement property. Gets cell name
+title: "DgnCellHeaderElement.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnCellHeaderElement property. Gets cell name"
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/name/
+weight: 20
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgncellheaderelement/name/"
+product_version: "26.9"
 ---
 ## DgnCellHeaderElement.Name property
 
@@ -16,8 +19,7 @@ public string Name { get; }
 
 ### See Also
 
-* class [DgnCellHeaderElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnCellHeaderElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

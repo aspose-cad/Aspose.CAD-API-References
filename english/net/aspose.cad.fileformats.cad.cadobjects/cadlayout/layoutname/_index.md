@@ -1,10 +1,13 @@
 ---
-title: CadLayout.LayoutName
-second_title: Aspose.CAD for .NET API Reference
-description: CadLayout property. Gets or sets the name of the layout
+title: "CadLayout.LayoutName"
+linktitle: "LayoutName"
+articleTitle: "LayoutName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLayout property. Gets or sets the name of the layout."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlayout/layoutname/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlayout/layoutname/"
+product_version: "26.9"
 ---
 ## CadLayout.LayoutName property
 
@@ -20,8 +23,7 @@ The name of the layout.
 
 ### See Also
 
-* class [CadLayout](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLayout](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

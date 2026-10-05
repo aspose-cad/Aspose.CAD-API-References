@@ -1,10 +1,13 @@
 ---
-title: ColorPalette.GetColor
-second_title: Aspose.CAD for .NET API Reference
-description: ColorPalette method. Gets the palette color by index
+title: "ColorPalette.GetColor"
+linktitle: "GetColor"
+articleTitle: "GetColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ColorPalette method. Gets the palette color by index."
 type: docs
-weight: 80
-url: /net/aspose.cad/colorpalette/getcolor/
+weight: 100
+url: "/net/aspose.cad/colorpalette/getcolor/"
+product_version: "26.9"
 ---
 ## ColorPalette.GetColor method
 
@@ -30,8 +33,7 @@ The color palette entry specified by the *index*.
 
 ### See Also
 
-* class [ColorPalette](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ColorPalette](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

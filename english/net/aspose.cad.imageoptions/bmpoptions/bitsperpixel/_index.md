@@ -1,10 +1,13 @@
 ---
-title: BmpOptions.BitsPerPixel
-second_title: Aspose.CAD for .NET API Reference
-description: BmpOptions property. Gets or sets the image bits per pixel count
+title: "BmpOptions.BitsPerPixel"
+linktitle: "BitsPerPixel"
+articleTitle: "BitsPerPixel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "BmpOptions property. Gets or sets the image bits per pixel count."
 type: docs
-weight: 20
-url: /net/aspose.cad.imageoptions/bmpoptions/bitsperpixel/
+weight: 40
+url: "/net/aspose.cad.imageoptions/bmpoptions/bitsperpixel/"
+product_version: "26.9"
 ---
 ## BmpOptions.BitsPerPixel property
 
@@ -20,8 +23,7 @@ The image bits per pixel count.
 
 ### See Also
 
-* class [BmpOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [BmpOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

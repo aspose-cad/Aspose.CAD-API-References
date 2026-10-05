@@ -1,10 +1,13 @@
 ---
-title: ExifData.GPSDifferential
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets a GPS value which indicates whether differential correction is applied to the GPS receiver
+title: "ExifData.GPSDifferential"
+linktitle: "GPSDifferential"
+articleTitle: "GPSDifferential"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets a GPS value which indicates whether differential correction is applied to the GPS receiver."
 type: docs
-weight: 480
-url: /net/aspose.cad.exif/exifdata/gpsdifferential/
+weight: 500
+url: "/net/aspose.cad.exif/exifdata/gpsdifferential/"
+product_version: "26.9"
 ---
 ## ExifData.GPSDifferential property
 
@@ -20,8 +23,7 @@ The GPS value which indicates whether differential correction is applied to the 
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

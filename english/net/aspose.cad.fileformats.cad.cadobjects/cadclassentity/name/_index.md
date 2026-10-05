@@ -1,10 +1,13 @@
 ---
-title: CadClassEntity.Name
-second_title: Aspose.CAD for .NET API Reference
-description: CadClassEntity property. Gets or sets the name
+title: "CadClassEntity.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadClassEntity property. Gets or sets the name."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadclassentity/name/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadclassentity/name/"
+product_version: "26.9"
 ---
 ## CadClassEntity.Name property
 
@@ -20,8 +23,7 @@ The name.
 
 ### See Also
 
-* class [CadClassEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadClassEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

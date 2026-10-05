@@ -1,10 +1,13 @@
 ---
-title: Enum EnumFxSamplerWrap
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxSamplerWrap enum. The enumeration FX sampler wrap
+title: "EnumFxSamplerWrap Enum"
+linktitle: "EnumFxSamplerWrap"
+articleTitle: "EnumFxSamplerWrap"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Collada.FileParser.Elements.EnumFxSamplerWrap enum. The enumeration FX sampler wrap."
 type: docs
-weight: 7680
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplerwrap/
+weight: 360
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/enumfxsamplerwrap/"
+product_version: "26.9"
 ---
 ## EnumFxSamplerWrap enumeration
 
@@ -26,7 +29,6 @@ public enum EnumFxSamplerWrap
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../)
 

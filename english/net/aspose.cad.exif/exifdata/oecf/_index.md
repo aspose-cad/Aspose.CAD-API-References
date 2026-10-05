@@ -1,10 +1,13 @@
 ---
-title: ExifData.OECF
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the OptoElectric Conversion Function OECF specified in ISO 14524
+title: "ExifData.OECF"
+linktitle: "OECF"
+articleTitle: "OECF"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the Opto-Electric Conversion Function (OECF) specified in ISO 14524."
 type: docs
-weight: 840
-url: /net/aspose.cad.exif/exifdata/oecf/
+weight: 860
+url: "/net/aspose.cad.exif/exifdata/oecf/"
+product_version: "26.9"
 ---
 ## ExifData.OECF property
 
@@ -20,8 +23,7 @@ The Opto-Electric Conversion Function (OECF) specified in ISO 14524.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

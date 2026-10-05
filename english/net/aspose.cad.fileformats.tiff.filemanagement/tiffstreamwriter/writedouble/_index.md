@@ -1,10 +1,13 @@
 ---
-title: TiffStreamWriter.WriteDouble
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamWriter method. Writes a single double value to the stream
+title: "TiffStreamWriter.WriteDouble"
+linktitle: "WriteDouble"
+articleTitle: "WriteDouble"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamWriter method. Writes a single double value to the stream."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writedouble/
+weight: 40
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamwriter/writedouble/"
+product_version: "26.9"
 ---
 ## TiffStreamWriter.WriteDouble method
 
@@ -20,8 +23,7 @@ public void WriteDouble(double data)
 
 ### See Also
 
-* class [TiffStreamWriter](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamWriter](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadBlockGrip.CadBlockGrip
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockGrip constructor. Initializes a new instance of the CadBlockGrip class
+title: "CadBlockGrip.CadBlockGrip"
+linktitle: "CadBlockGrip"
+articleTitle: "CadBlockGrip"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockGrip constructor. Initializes a new instance of the CadBlockGrip class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockgrip/cadblockgrip/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockgrip/cadblockgrip/"
+product_version: "26.9"
 ---
 ## CadBlockGrip constructor
 
@@ -16,8 +19,7 @@ public CadBlockGrip()
 
 ### See Also
 
-* class [CadBlockGrip](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockGrip](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

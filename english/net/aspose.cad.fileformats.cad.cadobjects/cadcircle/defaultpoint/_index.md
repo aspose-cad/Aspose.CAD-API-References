@@ -1,10 +1,13 @@
 ---
-title: CadCircle.DefaultPoint
-second_title: Aspose.CAD for .NET API Reference
-description: CadCircle property. Gets the default point
+title: "CadCircle.DefaultPoint"
+linktitle: "DefaultPoint"
+articleTitle: "DefaultPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCircle property. Gets the default point."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadcircle/defaultpoint/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadcircle/defaultpoint/"
+product_version: "26.9"
 ---
 ## CadCircle.DefaultPoint property
 
@@ -20,9 +23,8 @@ The default point.
 
 ### See Also
 
-* class [Point3D](../../../aspose.cad.primitives/point3d/)
-* class [CadCircle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
+* class [CadCircle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

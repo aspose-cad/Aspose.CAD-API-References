@@ -1,10 +1,13 @@
 ---
-title: DwfLayersList.GetEnumerator
-second_title: Aspose.CAD for .NET API Reference
-description: DwfLayersList method. Enumeration of layers
+title: "DwfLayersList.GetEnumerator"
+linktitle: "GetEnumerator"
+articleTitle: "GetEnumerator"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfLayersList method. Enumeration of layers."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.dwf/dwflayerslist/getenumerator/
+weight: 10
+url: "/net/aspose.cad.fileformats.dwf/dwflayerslist/getenumerator/"
+product_version: "26.9"
 ---
 ## DwfLayersList.GetEnumerator method
 
@@ -20,9 +23,8 @@ Enumerator of layers[`DwfWhipLayer`](../../../aspose.cad.fileformats.dwf.whip.ob
 
 ### See Also
 
-* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
-* class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
+* class [DwfLayersList](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadText.TextWidth
-second_title: Aspose.CAD for .NET API Reference
-description: CadText property. Gets the text width
+title: "CadText.TextWidth"
+linktitle: "TextWidth"
+articleTitle: "TextWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadText property. Gets the text width."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadtext/textwidth/
+weight: 140
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadtext/textwidth/"
+product_version: "26.9"
 ---
 ## CadText.TextWidth property
 
@@ -16,8 +19,7 @@ public double TextWidth { get; }
 
 ### See Also
 
-* class [CadText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

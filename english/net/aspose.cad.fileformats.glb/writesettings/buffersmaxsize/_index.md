@@ -1,10 +1,13 @@
 ---
-title: WriteSettings.BuffersMaxSize
-second_title: Aspose.CAD for .NET API Reference
-description: WriteSettings property. Gets or sets the size used to split all the resources into individual buffers
+title: "WriteSettings.BuffersMaxSize"
+linktitle: "BuffersMaxSize"
+articleTitle: "BuffersMaxSize"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "WriteSettings property. Gets or sets the size used to split all the resources into individual buffers."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.glb/writesettings/buffersmaxsize/
+weight: 70
+url: "/net/aspose.cad.fileformats.glb/writesettings/buffersmaxsize/"
+product_version: "26.9"
 ---
 ## WriteSettings.BuffersMaxSize property
 
@@ -17,15 +20,11 @@ public int BuffersMaxSize { get; set; }
 ## Remarks
 
 It only has an effect when these conditions are met:
-
-[`MergeBuffers`](../mergebuffers/) must be true.
-
-Output format must be glTF, not GLB
+ [`MergeBuffers`](../mergebuffers/) must be true.Output format must be glTF, not GLB
 
 ### See Also
 
-* class [WriteSettings](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [WriteSettings](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

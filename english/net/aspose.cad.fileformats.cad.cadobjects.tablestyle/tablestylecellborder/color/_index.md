@@ -1,10 +1,13 @@
 ---
-title: TableStyleCellBorder.Color
-second_title: Aspose.CAD for .NET API Reference
-description: TableStyleCellBorder property. The Color
+title: "TableStyleCellBorder.Color"
+linktitle: "Color"
+articleTitle: "Color"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TableStyleCellBorder property. The Color"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellborder/color/
+weight: 50
+url: "/net/aspose.cad.fileformats.cad.cadobjects.tablestyle/tablestylecellborder/color/"
+product_version: "26.9"
 ---
 ## TableStyleCellBorder.Color property
 
@@ -16,8 +19,7 @@ public short Color { get; set; }
 
 ### See Also
 
-* class [TableStyleCellBorder](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TableStyleCellBorder](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](../../../aspose.cad.fileformats.cad.cadobjects.tablestyle/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadMText.Version
-second_title: Aspose.CAD for .NET API Reference
-description: CadMText property. Gets or sets the version R2018
+title: "CadMText.Version"
+linktitle: "Version"
+articleTitle: "Version"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMText property. Gets or sets the version (R2018+);"
 type: docs
-weight: 550
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmtext/version/
+weight: 540
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmtext/version/"
+product_version: "26.9"
 ---
 ## CadMText.Version property
 
@@ -16,8 +19,7 @@ public short Version { get; set; }
 
 ### See Also
 
-* class [CadMText](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMText](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

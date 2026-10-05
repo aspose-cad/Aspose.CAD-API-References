@@ -1,10 +1,13 @@
 ---
-title: CadEntityBase.SpaceMode
-second_title: Aspose.CAD for .NET API Reference
-description: CadEntityBase property. Gets or sets a value indicating which space the entity belongs to
+title: "CadEntityBase.SpaceMode"
+linktitle: "SpaceMode"
+articleTitle: "SpaceMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEntityBase property. Gets or sets a value indicating which space the entity belongs to."
 type: docs
-weight: 290
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/
+weight: 210
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/"
+product_version: "26.9"
 ---
 ## CadEntityBase.SpaceMode property
 
@@ -26,9 +29,8 @@ The [`CadEntitySpaceMode`](../../../aspose.cad.fileformats.cad.cadconsts/cadenti
 
 ### See Also
 
-* enum [CadEntitySpaceMode](../../../aspose.cad.fileformats.cad.cadconsts/cadentityspacemode/)
-* class [CadEntityBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntitySpaceMode](../../../aspose.cad.fileformats.cad.cadconsts/cadentityspacemode/)
+* class [CadEntityBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

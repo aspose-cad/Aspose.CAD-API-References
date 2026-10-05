@@ -1,10 +1,13 @@
 ---
-title: CadTableNames.LineTypeTable
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableNames field. line types
+title: "CadTableNames.LineTypeTable"
+linktitle: "LineTypeTable"
+articleTitle: "LineTypeTable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableNames field. line types."
 type: docs
 weight: 180
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/linetypetable/
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadtablenames/linetypetable/"
+product_version: "26.9"
 ---
 ## CadTableNames.LineTypeTable field
 
@@ -16,8 +19,7 @@ public const string LineTypeTable;
 
 ### See Also
 
-* class [CadTableNames](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableNames](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

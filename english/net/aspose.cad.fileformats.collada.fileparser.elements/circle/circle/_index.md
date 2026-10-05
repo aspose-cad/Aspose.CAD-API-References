@@ -1,10 +1,13 @@
 ---
-title: Circle.Circle
-second_title: Aspose.CAD for .NET API Reference
-description: Circle constructor. The default constructor
+title: "Circle.Circle"
+linktitle: "Circle"
+articleTitle: "Circle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Circle constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/circle/circle/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/circle/circle/"
+product_version: "26.9"
 ---
 ## Circle constructor
 
@@ -16,8 +19,7 @@ public Circle()
 
 ### See Also
 
-* class [Circle](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Circle](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

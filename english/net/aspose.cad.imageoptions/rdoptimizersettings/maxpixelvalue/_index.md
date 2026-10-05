@@ -1,10 +1,13 @@
 ---
-title: RdOptimizerSettings.MaxPixelValue
-second_title: Aspose.CAD for .NET API Reference
-description: RdOptimizerSettings property. Gets the maximum pixel value
+title: "RdOptimizerSettings.MaxPixelValue"
+linktitle: "MaxPixelValue"
+articleTitle: "MaxPixelValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RdOptimizerSettings property. Gets the maximum pixel value."
 type: docs
-weight: 60
-url: /net/aspose.cad.imageoptions/rdoptimizersettings/maxpixelvalue/
+weight: 70
+url: "/net/aspose.cad.imageoptions/rdoptimizersettings/maxpixelvalue/"
+product_version: "26.9"
 ---
 ## RdOptimizerSettings.MaxPixelValue property
 
@@ -20,8 +23,7 @@ The maximum maximum pixel value.
 
 ### See Also
 
-* class [RdOptimizerSettings](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RdOptimizerSettings](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

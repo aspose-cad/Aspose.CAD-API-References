@@ -1,10 +1,13 @@
 ---
-title: FbxImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: FbxImage property. Gets the image width
+title: "FbxImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FbxImage property. Gets the image width."
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.fbx/fbximage/width/
+url: "/net/aspose.cad.fileformats.fbx/fbximage/width/"
+product_version: "26.9"
 ---
 ## FbxImage.Width property
 
@@ -29,8 +32,7 @@ System.Console.WriteLine("Drawing's width: " + drawing.Width);
 
 ### See Also
 
-* class [FbxImage](../)
-* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FbxImage](../)
+* namespace [Aspose.CAD.FileFormats.Fbx](../../../aspose.cad.fileformats.fbx/)
+* assembly [Aspose.CAD](../../../)
 

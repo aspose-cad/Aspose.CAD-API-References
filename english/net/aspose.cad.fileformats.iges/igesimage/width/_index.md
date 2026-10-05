@@ -1,10 +1,13 @@
 ---
-title: IgesImage.Width
-second_title: Aspose.CAD for .NET API Reference
-description: IgesImage property. Gets Image width
+title: "IgesImage.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IgesImage property. Gets Image width"
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.iges/igesimage/width/
+weight: 60
+url: "/net/aspose.cad.fileformats.iges/igesimage/width/"
+product_version: "26.9"
 ---
 ## IgesImage.Width property
 
@@ -20,8 +23,7 @@ Image width
 
 ### See Also
 
-* class [IgesImage](../)
-* namespace [Aspose.CAD.FileFormats.Iges](../../../aspose.cad.fileformats.iges/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IgesImage](../)
+* namespace [Aspose.CAD.FileFormats.Iges](../../../aspose.cad.fileformats.iges/)
+* assembly [Aspose.CAD](../../../)
 

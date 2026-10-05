@@ -1,10 +1,13 @@
 ---
-title: CadUnderlay.UnderlayPath
-second_title: Aspose.CAD for .NET API Reference
-description: CadUnderlay property. Gets or sets the underlay path
+title: "CadUnderlay.UnderlayPath"
+linktitle: "UnderlayPath"
+articleTitle: "UnderlayPath"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadUnderlay property. Gets or sets the underlay path."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadunderlay/underlaypath/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadunderlay/underlaypath/"
+product_version: "26.9"
 ---
 ## CadUnderlay.UnderlayPath property
 
@@ -20,8 +23,7 @@ The underlay path.
 
 ### See Also
 
-* class [CadUnderlay](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadUnderlay](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

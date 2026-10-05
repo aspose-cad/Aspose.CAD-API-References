@@ -1,10 +1,13 @@
 ---
-title: Primitives.Text
-second_title: Aspose.CAD for .NET API Reference
-description: Primitives property. Gets or sets the values as text
+title: "Primitives.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Primitives property. Gets or sets the values as text."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/primitives/text/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/primitives/text/"
+product_version: "26.9"
 ---
 ## Primitives.Text property
 
@@ -16,8 +19,7 @@ public string Text { get; set; }
 
 ### See Also
 
-* class [Primitives](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Primitives](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

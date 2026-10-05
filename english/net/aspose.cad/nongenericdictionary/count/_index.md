@@ -1,14 +1,18 @@
 ---
-title: NonGenericDictionary.Count
-second_title: Aspose.CAD for .NET API Reference
-description: NonGenericDictionary property. Gets the number of elements contained in the ICollection
+title: "NonGenericDictionary.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "NonGenericDictionary property. Gets the number of elements contained in the ICollection."
 type: docs
-weight: 20
-url: /net/aspose.cad/nongenericdictionary/count/
+weight: 110
+url: "/net/aspose.cad/nongenericdictionary/count/"
+product_version: "26.9"
 ---
 ## NonGenericDictionary.Count property
 
-Gets the number of elements contained in the ICollection.
+Gets the number of elements contained in the 
+ `ICollection`.
 
 ```csharp
 public int Count { get; }
@@ -16,12 +20,11 @@ public int Count { get; }
 
 ### Return Value
 
-The number of elements contained in the ICollection.
+The number of elements contained in the `ICollection`.
 
 ### See Also
 
-* class [NonGenericDictionary](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [NonGenericDictionary](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

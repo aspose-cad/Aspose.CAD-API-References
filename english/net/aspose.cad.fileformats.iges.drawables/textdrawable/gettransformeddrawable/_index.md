@@ -1,10 +1,13 @@
 ---
-title: TextDrawable.GetTransformedDrawable
-second_title: Aspose.CAD for .NET API Reference
-description: TextDrawable method. Creates a new Text drawable using provided points and nongeometric properties of current Text drawable
+title: "TextDrawable.GetTransformedDrawable"
+linktitle: "GetTransformedDrawable"
+articleTitle: "GetTransformedDrawable"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TextDrawable method. Creates a new Text drawable using provided points and non-geometric properties of current Text drawable"
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.iges.drawables/textdrawable/gettransformeddrawable/
+weight: 20
+url: "/net/aspose.cad.fileformats.iges.drawables/textdrawable/gettransformeddrawable/"
+product_version: "26.9"
 ---
 ## TextDrawable.GetTransformedDrawable method
 
@@ -24,10 +27,9 @@ New Text drawable with new geometry and current non-geometric properties
 
 ### See Also
 
-* interface [IIgesDrawable](../../iigesdrawable/)
-* class [Point3D](../../../aspose.cad.primitives/point3d/)
-* class [TextDrawable](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IIgesDrawable](../../iigesdrawable/)
+* class [Point3D](../../../aspose.cad.primitives/point3d/)
+* class [TextDrawable](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

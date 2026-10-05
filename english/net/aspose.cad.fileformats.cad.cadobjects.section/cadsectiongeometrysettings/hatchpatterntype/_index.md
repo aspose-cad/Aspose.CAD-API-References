@@ -1,10 +1,13 @@
 ---
-title: CadSectionGeometrySettings.HatchPatternType
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionGeometrySettings property. Gets or sets the type of the hatch pattern
+title: "CadSectionGeometrySettings.HatchPatternType"
+linktitle: "HatchPatternType"
+articleTitle: "HatchPatternType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionGeometrySettings property. Gets or sets the type of the hatch pattern."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/hatchpatterntype/
+weight: 130
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiongeometrysettings/hatchpatterntype/"
+product_version: "26.9"
 ---
 ## CadSectionGeometrySettings.HatchPatternType property
 
@@ -20,8 +23,7 @@ The type of the hatch pattern.
 
 ### See Also
 
-* class [CadSectionGeometrySettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionGeometrySettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

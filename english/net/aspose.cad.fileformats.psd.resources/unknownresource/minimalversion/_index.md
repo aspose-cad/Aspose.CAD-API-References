@@ -1,10 +1,13 @@
 ---
-title: UnknownResource.MinimalVersion
-second_title: Aspose.CAD for .NET API Reference
-description: UnknownResource property. Gets the minimal required psd version
+title: "UnknownResource.MinimalVersion"
+linktitle: "MinimalVersion"
+articleTitle: "MinimalVersion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "UnknownResource property. Gets the minimal required psd version."
 type: docs
 weight: 30
-url: /net/aspose.cad.fileformats.psd.resources/unknownresource/minimalversion/
+url: "/net/aspose.cad.fileformats.psd.resources/unknownresource/minimalversion/"
+product_version: "26.9"
 ---
 ## UnknownResource.MinimalVersion property
 
@@ -20,8 +23,7 @@ The minimal psd version.
 
 ### See Also
 
-* class [UnknownResource](../)
-* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [UnknownResource](../)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../../)
 

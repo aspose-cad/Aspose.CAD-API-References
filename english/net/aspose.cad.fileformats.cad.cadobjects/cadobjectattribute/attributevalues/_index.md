@@ -1,10 +1,13 @@
 ---
-title: CadObjectAttribute.AttributeValues
-second_title: Aspose.CAD for .NET API Reference
-description: CadObjectAttribute property. Gets or sets the attribute values
+title: "CadObjectAttribute.AttributeValues"
+linktitle: "AttributeValues"
+articleTitle: "AttributeValues"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadObjectAttribute property. Gets or sets the attribute values."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/attributevalues/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadobjectattribute/attributevalues/"
+product_version: "26.9"
 ---
 ## CadObjectAttribute.AttributeValues property
 
@@ -20,9 +23,8 @@ The attribute values.
 
 ### See Also
 
-* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
-* class [CadObjectAttribute](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
+* class [CadObjectAttribute](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

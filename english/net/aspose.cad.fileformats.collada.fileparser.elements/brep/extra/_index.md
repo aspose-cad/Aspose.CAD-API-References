@@ -1,10 +1,13 @@
 ---
-title: Brep.Extra
-second_title: Aspose.CAD for .NET API Reference
-description: Brep property. Gets or sets the extra
+title: "Brep.Extra"
+linktitle: "Extra"
+articleTitle: "Extra"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Brep property. Gets or sets the extra."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/brep/extra/
+weight: 130
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/brep/extra/"
+product_version: "26.9"
 ---
 ## Brep.Extra property
 
@@ -16,9 +19,8 @@ public Extra[] Extra { get; set; }
 
 ### See Also
 
-* class [Extra](../../extra/)
-* class [Brep](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Extra](../../extra/)
+* class [Brep](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

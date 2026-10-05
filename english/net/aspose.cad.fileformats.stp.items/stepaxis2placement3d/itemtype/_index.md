@@ -1,12 +1,17 @@
 ---
-title: StepAxis2Placement3D.ItemType
-second_title: Aspose.CAD for .NET API Reference
-description: StepAxis2Placement3D property. 
+title: "StepAxis2Placement3D.ItemType"
+linktitle: "ItemType"
+articleTitle: "ItemType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StepAxis2Placement3D property."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.stp.items/stepaxis2placement3d/itemtype/
+weight: 20
+url: "/net/aspose.cad.fileformats.stp.items/stepaxis2placement3d/itemtype/"
+product_version: "26.9"
 ---
 ## StepAxis2Placement3D.ItemType property
+
+
 
 ```csharp
 public override StepItemType ItemType { get; }
@@ -14,9 +19,8 @@ public override StepItemType ItemType { get; }
 
 ### See Also
 
-* enum [StepItemType](../../stepitemtype/)
-* class [StepAxis2Placement3D](../)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [StepItemType](../../stepitemtype/)
+* class [StepAxis2Placement3D](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
 

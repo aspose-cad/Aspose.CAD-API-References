@@ -1,10 +1,13 @@
 ---
-title: FxCommonColorOrTextureTexture.Extra
-second_title: Aspose.CAD for .NET API Reference
-description: FxCommonColorOrTextureTexture property. Gets or sets the extra
+title: "FxCommonColorOrTextureTexture.Extra"
+linktitle: "Extra"
+articleTitle: "Extra"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FxCommonColorOrTextureTexture property. Gets or sets the extra."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/extra/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/fxcommoncolorortexturetexture/extra/"
+product_version: "26.9"
 ---
 ## FxCommonColorOrTextureTexture.Extra property
 
@@ -16,9 +19,8 @@ public Extra[] Extra { get; set; }
 
 ### See Also
 
-* class [Extra](../../extra/)
-* class [FxCommonColorOrTextureTexture](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Extra](../../extra/)
+* class [FxCommonColorOrTextureTexture](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ISvgResourceKeeperCallback.OnImageResourceReady
-second_title: Aspose.CAD for .NET API Reference
-description: ISvgResourceKeeperCallback method. Called for each raster image in SVG. Use it to specify how to store the raster image
+title: "ISvgResourceKeeperCallback.OnImageResourceReady"
+linktitle: "OnImageResourceReady"
+articleTitle: "OnImageResourceReady"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ISvgResourceKeeperCallback method. Called for each raster image in SVG. Use it to specify how to store the raster image."
 type: docs
-weight: 20
-url: /net/aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onimageresourceready/
+weight: 10
+url: "/net/aspose.cad.imageoptions.svgoptionsparameters/isvgresourcekeepercallback/onimageresourceready/"
+product_version: "26.9"
 ---
 ## ISvgResourceKeeperCallback.OnImageResourceReady method
 
@@ -28,9 +31,8 @@ Should return path to saved resource. Path will be used in SVG image to refer to
 
 ### See Also
 
-* enum [SvgImageType](../../svgimagetype/)
-* interface [ISvgResourceKeeperCallback](../)
-* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [SvgImageType](../../svgimagetype/)
+* interface [ISvgResourceKeeperCallback](../)
+* namespace [Aspose.CAD.ImageOptions.SvgOptionsParameters](../../../aspose.cad.imageoptions.svgoptionsparameters/)
+* assembly [Aspose.CAD](../../../)
 

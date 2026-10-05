@@ -1,12 +1,17 @@
 ---
-title: CgmPoint.CompareValues
-second_title: Aspose.CAD for .NET API Reference
-description: CgmPoint method. 
+title: "CgmPoint.CompareValues"
+linktitle: "CompareValues"
+articleTitle: "CompareValues"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmPoint method."
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.cgm.classes/cgmpoint/comparevalues/
+url: "/net/aspose.cad.fileformats.cgm.classes/cgmpoint/comparevalues/"
+product_version: "26.9"
 ---
 ## CgmPoint.CompareValues method
+
+
 
 ```csharp
 public static int CompareValues(double x, double y)
@@ -14,8 +19,7 @@ public static int CompareValues(double x, double y)
 
 ### See Also
 
-* class [CgmPoint](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmPoint](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Classes](../../../aspose.cad.fileformats.cgm.classes/)
+* assembly [Aspose.CAD](../../../)
 

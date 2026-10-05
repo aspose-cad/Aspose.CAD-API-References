@@ -1,10 +1,13 @@
 ---
-title: CadRay.UnitDirectionVector
-second_title: Aspose.CAD for .NET API Reference
-description: CadRay property. Gets or sets the unit direction vector
+title: "CadRay.UnitDirectionVector"
+linktitle: "UnitDirectionVector"
+articleTitle: "UnitDirectionVector"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRay property. Gets or sets the unit direction vector."
 type: docs
 weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadray/unitdirectionvector/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadray/unitdirectionvector/"
+product_version: "26.9"
 ---
 ## CadRay.UnitDirectionVector property
 
@@ -20,9 +23,8 @@ The unit direction vector.
 
 ### See Also
 
-* class [Cad3DPoint](../../cad3dpoint/)
-* class [CadRay](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../cad3dpoint/)
+* class [CadRay](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

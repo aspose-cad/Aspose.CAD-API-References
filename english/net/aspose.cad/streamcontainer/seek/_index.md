@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.Seek
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer method. Sets the position within the current stream
+title: "StreamContainer.Seek"
+linktitle: "Seek"
+articleTitle: "Seek"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer method. Sets the position within the current stream."
 type: docs
-weight: 140
-url: /net/aspose.cad/streamcontainer/seek/
+weight: 120
+url: "/net/aspose.cad/streamcontainer/seek/"
+product_version: "26.9"
 ---
 ## StreamContainer.Seek method
 
@@ -25,9 +28,8 @@ The new position within the current stream.
 
 ### See Also
 
-* enum [SeekOrigin](../../seekorigin/)
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [SeekOrigin](../../seekorigin/)
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

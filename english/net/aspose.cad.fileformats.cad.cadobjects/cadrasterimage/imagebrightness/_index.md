@@ -1,10 +1,13 @@
 ---
-title: CadRasterImage.ImageBrightness
-second_title: Aspose.CAD for .NET API Reference
-description: CadRasterImage property. Gets or sets brigthness value
+title: "CadRasterImage.ImageBrightness"
+linktitle: "ImageBrightness"
+articleTitle: "ImageBrightness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRasterImage property. Gets or sets brigthness value."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/imagebrightness/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadrasterimage/imagebrightness/"
+product_version: "26.9"
 ---
 ## CadRasterImage.ImageBrightness property
 
@@ -16,8 +19,7 @@ public short ImageBrightness { get; set; }
 
 ### See Also
 
-* class [CadRasterImage](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRasterImage](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

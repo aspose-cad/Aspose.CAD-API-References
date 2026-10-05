@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.CanSeek
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer property. Gets a value indicating whether stream supports seeking
+title: "StreamContainer.CanSeek"
+linktitle: "CanSeek"
+articleTitle: "CanSeek"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer property. Gets a value indicating whether stream supports seeking."
 type: docs
-weight: 30
-url: /net/aspose.cad/streamcontainer/canseek/
+weight: 290
+url: "/net/aspose.cad/streamcontainer/canseek/"
+product_version: "26.9"
 ---
 ## StreamContainer.CanSeek property
 
@@ -20,8 +23,7 @@ public virtual bool CanSeek { get; }
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

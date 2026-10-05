@@ -1,10 +1,13 @@
 ---
-title: ExifData.PhotographicSensitivity
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the photographic sensitivity
+title: "ExifData.PhotographicSensitivity"
+linktitle: "PhotographicSensitivity"
+articleTitle: "PhotographicSensitivity"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the photographic sensitivity."
 type: docs
-weight: 850
-url: /net/aspose.cad.exif/exifdata/photographicsensitivity/
+weight: 740
+url: "/net/aspose.cad.exif/exifdata/photographicsensitivity/"
+product_version: "26.9"
 ---
 ## ExifData.PhotographicSensitivity property
 
@@ -20,8 +23,7 @@ The photographic sensitivity.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

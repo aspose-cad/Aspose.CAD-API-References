@@ -1,10 +1,13 @@
 ---
-title: StreamContainer.Position
-second_title: Aspose.CAD for .NET API Reference
-description: StreamContainer property. Gets or sets the current position within the stream. This value represents offset from the starting stream position passed in the StreamContainer constructor
+title: "StreamContainer.Position"
+linktitle: "Position"
+articleTitle: "Position"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "StreamContainer property. Gets or sets the current position within the stream. This value represents offset from the starting stream position passed in the S..."
 type: docs
-weight: 70
-url: /net/aspose.cad/streamcontainer/position/
+weight: 240
+url: "/net/aspose.cad/streamcontainer/position/"
+product_version: "26.9"
 ---
 ## StreamContainer.Position property
 
@@ -20,8 +23,7 @@ The current stream position.
 
 ### See Also
 
-* class [StreamContainer](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [StreamContainer](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

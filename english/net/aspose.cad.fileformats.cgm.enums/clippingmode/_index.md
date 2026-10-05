@@ -1,12 +1,17 @@
 ---
-title: Enum ClippingMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Enums.ClippingMode enum. 
+title: "ClippingMode Enum"
+linktitle: "ClippingMode"
+articleTitle: "ClippingMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Enums.ClippingMode enum."
 type: docs
-weight: 7150
-url: /net/aspose.cad.fileformats.cgm.enums/clippingmode/
+weight: 30
+url: "/net/aspose.cad.fileformats.cgm.enums/clippingmode/"
+product_version: "26.9"
 ---
 ## ClippingMode enumeration
+
+
 
 ```csharp
 public enum ClippingMode
@@ -22,7 +27,6 @@ public enum ClippingMode
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Enums](../../aspose.cad.fileformats.cgm.enums/)
+* assembly [Aspose.CAD](../../)
 

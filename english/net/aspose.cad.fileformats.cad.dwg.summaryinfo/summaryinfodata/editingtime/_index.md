@@ -1,10 +1,13 @@
 ---
-title: SummaryInfoData.EditingTime
-second_title: Aspose.CAD for .NET API Reference
-description: SummaryInfoData property. Gets the editing time
+title: "SummaryInfoData.EditingTime"
+linktitle: "EditingTime"
+articleTitle: "EditingTime"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "SummaryInfoData property. Gets the editing time."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/editingtime/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.dwg.summaryinfo/summaryinfodata/editingtime/"
+product_version: "26.9"
 ---
 ## SummaryInfoData.EditingTime property
 
@@ -20,8 +23,7 @@ The editing time.
 
 ### See Also
 
-* class [SummaryInfoData](../)
-* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
-* assembly [Aspose.CAD](../../../)
-
+* class [SummaryInfoData](../)
+* namespace [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](../../../aspose.cad.fileformats.cad.dwg.summaryinfo/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DgnDimensionElement.MinPoint
-second_title: Aspose.CAD for .NET API Reference
-description: DgnDimensionElement property. Gets the min point of object
+title: "DgnDimensionElement.MinPoint"
+linktitle: "MinPoint"
+articleTitle: "MinPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnDimensionElement property. Gets the min point of object."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgndimensionelement/minpoint/
+weight: 10
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgndimensionelement/minpoint/"
+product_version: "26.9"
 ---
 ## DgnDimensionElement.MinPoint property
 
@@ -20,9 +23,8 @@ Min point of object.
 
 ### See Also
 
-* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
-* class [DgnDimensionElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Cad3DPoint](../../../aspose.cad.fileformats.cad.cadobjects/cad3dpoint/)
+* class [DgnDimensionElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

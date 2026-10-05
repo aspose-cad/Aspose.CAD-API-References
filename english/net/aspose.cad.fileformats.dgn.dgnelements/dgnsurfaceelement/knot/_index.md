@@ -1,10 +1,13 @@
 ---
-title: DgnSurfaceElement.Knot
-second_title: Aspose.CAD for .NET API Reference
-description: DgnSurfaceElement property. Gets or sets knot
+title: "DgnSurfaceElement.Knot"
+linktitle: "Knot"
+articleTitle: "Knot"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnSurfaceElement property. Gets or sets knot"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/knot/
+weight: 170
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnsurfaceelement/knot/"
+product_version: "26.9"
 ---
 ## DgnSurfaceElement.Knot property
 
@@ -16,9 +19,8 @@ public DgnSplineKnotElement Knot { get; }
 
 ### See Also
 
-* class [DgnSplineKnotElement](../../dgnsplineknotelement/)
-* class [DgnSurfaceElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnSplineKnotElement](../../dgnsplineknotelement/)
+* class [DgnSurfaceElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

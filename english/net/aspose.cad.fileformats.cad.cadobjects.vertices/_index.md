@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Cad.CadObjects.Vertices
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains vertices entities
+title: "Aspose.CAD.FileFormats.Cad.CadObjects.Vertices"
+linktitle: "Aspose.CAD.FileFormats.Cad.CadObjects.Vertices"
+articleTitle: "Aspose.CAD.FileFormats.Cad.CadObjects.Vertices"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains vertices entities."
 type: docs
-weight: 320
-url: /net/aspose.cad.fileformats.cad.cadobjects.vertices/
+weight: 10
+url: "/net/aspose.cad.fileformats.cad.cadobjects.vertices/"
+keywords: "Aspose.CAD.FileFormats.Cad.CadObjects.Vertices, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace contains vertices entities.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -18,5 +26,4 @@ The namespace contains vertices entities.
 | [CadPolygonMeshVertex](./cadpolygonmeshvertex/) | The Cad polygon mesh vertex |
 | [CadVertexBase](./cadvertexbase/) | Class describing Cad VERTEX |
 | [CadVertexPolyFaceMesh](./cadvertexpolyfacemesh/) | The Cad Vertex Poly Face Mesh. |
-
 

@@ -1,10 +1,13 @@
 ---
-title: DgnShapeElement.Filled
-second_title: Aspose.CAD for .NET API Reference
-description: DgnShapeElement property. Gets a value indicating whether this DgnShapeElement is filled
+title: "DgnShapeElement.Filled"
+linktitle: "Filled"
+articleTitle: "Filled"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnShapeElement property. Gets a value indicating whether this DgnShapeElement is filled."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnshapeelement/filled/
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnshapeelement/filled/"
+product_version: "26.9"
 ---
 ## DgnShapeElement.Filled property
 
@@ -20,8 +23,7 @@ public bool Filled { get; }
 
 ### See Also
 
-* class [DgnShapeElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnShapeElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

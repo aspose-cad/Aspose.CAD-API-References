@@ -1,10 +1,13 @@
 ---
-title: Enum CadLineStyle
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadLineStyle enum. Line style
+title: "CadLineStyle Enum"
+linktitle: "CadLineStyle"
+articleTitle: "CadLineStyle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadLineStyle enum. Line style"
 type: docs
-weight: 1420
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadlinestyle/
+weight: 270
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadlinestyle/"
+product_version: "26.9"
 ---
 ## CadLineStyle enumeration
 
@@ -29,7 +32,6 @@ public enum CadLineStyle
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

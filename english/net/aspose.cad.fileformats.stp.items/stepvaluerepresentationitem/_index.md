@@ -1,10 +1,14 @@
 ---
-title: Class StepValueRepresentationItem
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Stp.Items.StepValueRepresentationItem class. ValueRepresentationItem class
+title: "StepValueRepresentationItem Class"
+linktitle: "StepValueRepresentationItem"
+articleTitle: "StepValueRepresentationItem"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Stp.Items.StepValueRepresentationItem class. ValueRepresentationItem class."
 type: docs
-weight: 35170
-url: /net/aspose.cad.fileformats.stp.items/stepvaluerepresentationitem/
+weight: 1110
+url: "/net/aspose.cad.fileformats.stp.items/stepvaluerepresentationitem/"
+keywords: "StepValueRepresentationItem, Aspose.CAD.FileFormats.Stp.Items, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## StepValueRepresentationItem class
 
@@ -19,22 +23,32 @@ public class StepValueRepresentationItem : StepSurface
 | Name | Description |
 | --- | --- |
 | [StepValueRepresentationItem](stepvaluerepresentationitem/#constructor)() | The default constructor. |
-| [StepValueRepresentationItem](stepvaluerepresentationitem/#constructor_1)(string, double) |  |
+| [StepValueRepresentationItem](stepvaluerepresentationitem/#constructor_1)(string, double) | Initializes a new instance of the StepValueRepresentationItem class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CountMeasure](../../aspose.cad.fileformats.stp.items/stepvaluerepresentationitem/countmeasure/) { get; set; } |  |
-| [Id](../../aspose.cad.fileformats.stp.items/steprepresentationitem/id/) { get; set; } |  |
-| override [ItemType](../../aspose.cad.fileformats.stp.items/stepvaluerepresentationitem/itemtype/) { get; } |  |
-| [Name](../../aspose.cad.fileformats.stp.items/steprepresentationitem/name/) { get; set; } |  |
-| [ValueRepresentationItem](../../aspose.cad.fileformats.stp.items/stepvaluerepresentationitem/valuerepresentationitem/) { get; } |  |
+| [Area](../../aspose.cad.fileformats.stp.items/steprepresentationitem/area/) { get; } | Gets the area of the entity. |
+| [Childs](../../aspose.cad.fileformats.stp.items/steprepresentationitem/childs/) { get; } |  |
+| [CountMeasure](../../aspose.cad.fileformats.stp.items/stepvaluerepresentationitem/countmeasure/) { get; set; } |  |
+| [Id](../../aspose.cad.fileformats.stp.items/steprepresentationitem/id/) { get; } |  |
+| override [ItemType](../../aspose.cad.fileformats.stp.items/stepvaluerepresentationitem/itemtype/) { get; } |  |
+| [Length](../../aspose.cad.fileformats.stp.items/steprepresentationitem/length/) { get; } | Gets the length of the entity. |
+| [Name](../../aspose.cad.fileformats.stp.items/steprepresentationitem/name/) { get; set; } |  |
+| [UId](../../aspose.cad.fileformats.stp.items/steprepresentationitem/uid/) { get; set; } |  |
+| [ValueRepresentationItem](../../aspose.cad.fileformats.stp.items/stepvaluerepresentationitem/valuerepresentationitem/) { get; } |  |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Equals](../../aspose.cad.fileformats.stp.items/steprepresentationitem/equals/)(StepRepresentationItem) |  |
+| override [GetHashCode](../../aspose.cad.fileformats.stp.items/steprepresentationitem/gethashcode/)() |  |
 
 ### See Also
 
-* class [StepSurface](../stepsurface/)
-* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
-* assembly [Aspose.CAD](../../)
-
+* class [StepSurface](../stepsurface/)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../)
 

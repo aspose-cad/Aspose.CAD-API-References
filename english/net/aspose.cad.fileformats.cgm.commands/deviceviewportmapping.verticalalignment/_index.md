@@ -1,12 +1,17 @@
 ---
-title: Enum DeviceViewportMapping.Verticalalignment
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.DeviceViewportMappingVerticalalignment enum. 
+title: "DeviceViewportMapping.Verticalalignment Enum"
+linktitle: "DeviceViewportMapping.Verticalalignment"
+articleTitle: "DeviceViewportMapping.Verticalalignment"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.DeviceViewportMapping.Verticalalignment enum."
 type: docs
-weight: 5420
-url: /net/aspose.cad.fileformats.cgm.commands/deviceviewportmapping.verticalalignment/
+weight: 690
+url: "/net/aspose.cad.fileformats.cgm.commands/deviceviewportmapping.verticalalignment/"
+product_version: "26.9"
 ---
 ## DeviceViewportMapping.Verticalalignment enumeration
+
+
 
 ```csharp
 public enum Verticalalignment
@@ -22,8 +27,7 @@ public enum Verticalalignment
 
 ### See Also
 
-* class [DeviceViewportMapping](../deviceviewportmapping/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [DeviceViewportMapping](../deviceviewportmapping/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadLoftedSurface.CadLoftedSurface
-second_title: Aspose.CAD for .NET API Reference
-description: CadLoftedSurface constructor. Initializes a new instance of the CadLoftedSurface class
+title: "CadLoftedSurface.CadLoftedSurface"
+linktitle: "CadLoftedSurface"
+articleTitle: "CadLoftedSurface"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLoftedSurface constructor. Initializes a new instance of the CadLoftedSurface class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/cadloftedsurface/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadloftedsurface/cadloftedsurface/"
+product_version: "26.9"
 ---
 ## CadLoftedSurface constructor
 
@@ -16,8 +19,7 @@ public CadLoftedSurface()
 
 ### See Also
 
-* class [CadLoftedSurface](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLoftedSurface](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

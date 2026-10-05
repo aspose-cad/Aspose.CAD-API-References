@@ -1,10 +1,13 @@
 ---
-title: CadMLeaderStyle.LeaderLineColor
-second_title: Aspose.CAD for .NET API Reference
-description: CadMLeaderStyle property. Gets or sets the color of the leader line
+title: "CadMLeaderStyle.LeaderLineColor"
+linktitle: "LeaderLineColor"
+articleTitle: "LeaderLineColor"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadMLeaderStyle property. Gets or sets the color of the leader line."
 type: docs
-weight: 270
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/leaderlinecolor/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmleaderstyle/leaderlinecolor/"
+product_version: "26.9"
 ---
 ## CadMLeaderStyle.LeaderLineColor property
 
@@ -20,8 +23,7 @@ The color of the leader line.
 
 ### See Also
 
-* class [CadMLeaderStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadMLeaderStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

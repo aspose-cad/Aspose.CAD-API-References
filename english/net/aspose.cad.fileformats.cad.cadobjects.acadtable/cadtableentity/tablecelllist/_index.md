@@ -1,10 +1,13 @@
 ---
-title: CadTableEntity.TableCellList
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableEntity property. Gets or sets the cad table cell list
+title: "CadTableEntity.TableCellList"
+linktitle: "TableCellList"
+articleTitle: "TableCellList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableEntity property. Gets or sets the cad table cell list."
 type: docs
-weight: 210
-url: /net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/tablecelllist/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects.acadtable/cadtableentity/tablecelllist/"
+product_version: "26.9"
 ---
 ## CadTableEntity.TableCellList property
 
@@ -20,9 +23,8 @@ The cad table cell list.
 
 ### See Also
 
-* class [CadTableCell](../../cadtablecell/)
-* class [CadTableEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadTableCell](../../cadtablecell/)
+* class [CadTableEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](../../../aspose.cad.fileformats.cad.cadobjects.acadtable/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,18 @@
 ---
-title: Class TextCommand
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Commands.TextCommand class. 
+title: "TextCommand Class"
+linktitle: "TextCommand"
+articleTitle: "TextCommand"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Commands.TextCommand class."
 type: docs
-weight: 6770
-url: /net/aspose.cad.fileformats.cgm.commands/textcommand/
+weight: 2030
+url: "/net/aspose.cad.fileformats.cgm.commands/textcommand/"
+keywords: "TextCommand, Aspose.CAD.FileFormats.Cgm.Commands, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## TextCommand class
+
+
 
 ```csharp
 public abstract class TextCommand : Command
@@ -16,24 +22,23 @@ public abstract class TextCommand : Command
 
 | Name | Description |
 | --- | --- |
-| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
-| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
-| [Position](../../aspose.cad.fileformats.cgm.commands/textcommand/position/) { get; } | The position at which the string should be displayed |
-| [Text](../../aspose.cad.fileformats.cgm.commands/textcommand/text/) { get; } | The string to display |
+| [ElementClass](../../aspose.cad.fileformats.cgm.commands/command/elementclass/) { get; } |  |
+| [ElementId](../../aspose.cad.fileformats.cgm.commands/command/elementid/) { get; } |  |
+| [Position](../../aspose.cad.fileformats.cgm.commands/textcommand/position/) { get; } | The position at which the string should be displayed |
+| [Text](../../aspose.cad.fileformats.cgm.commands/textcommand/text/) { get; } | The string to display |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/command/readfrombinary/)(IBinaryReader) | Reads the binary data from the reader |
-| override [ToString](../../aspose.cad.fileformats.cgm.commands/textcommand/tostring/)() |  |
-| abstract [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/command/writeasbinary/)(IBinaryWriter) | Writes/exports the command as binary mode |
-| abstract [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/command/writeascleartext/)(IClearTextWriter) | Writes/exports the command as clear text mode |
+| abstract [ReadFromBinary](../../aspose.cad.fileformats.cgm.commands/command/readfrombinary/)(IBinaryReader) | Reads the binary data from the reader |
+| override [ToString](../../aspose.cad.fileformats.cgm.commands/textcommand/tostring/)() |  |
+| abstract [WriteAsBinary](../../aspose.cad.fileformats.cgm.commands/command/writeasbinary/)(IBinaryWriter) | Writes/exports the command as binary mode |
+| abstract [WriteAsClearText](../../aspose.cad.fileformats.cgm.commands/command/writeascleartext/)(IClearTextWriter) | Writes/exports the command as clear text mode |
 
 ### See Also
 
-* class [Command](../command/)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../)
-
+* class [Command](../command/)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../)
 

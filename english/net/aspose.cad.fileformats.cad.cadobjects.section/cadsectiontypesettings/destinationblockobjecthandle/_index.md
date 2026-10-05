@@ -1,10 +1,13 @@
 ---
-title: CadSectionTypeSettings.DestinationBlockObjectHandle
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionTypeSettings property. Gets or sets the destination block object handle
+title: "CadSectionTypeSettings.DestinationBlockObjectHandle"
+linktitle: "DestinationBlockObjectHandle"
+articleTitle: "DestinationBlockObjectHandle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionTypeSettings property. Gets or sets the destination block object handle."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/destinationblockobjecthandle/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects.section/cadsectiontypesettings/destinationblockobjecthandle/"
+product_version: "26.9"
 ---
 ## CadSectionTypeSettings.DestinationBlockObjectHandle property
 
@@ -20,8 +23,7 @@ The destination block object handle.
 
 ### See Also
 
-* class [CadSectionTypeSettings](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionTypeSettings](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Section](../../../aspose.cad.fileformats.cad.cadobjects.section/)
+* assembly [Aspose.CAD](../../../)
 

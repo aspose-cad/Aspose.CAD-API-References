@@ -1,10 +1,13 @@
 ---
-title: CadHatch.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadHatch property. Gets the name of the type
+title: "CadHatch.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHatch property. Gets the name of the type."
 type: docs
-weight: 350
-url: /net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/typename/
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.hatch/cadhatch/typename/"
+product_version: "26.9"
 ---
 ## CadHatch.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
-* class [CadHatch](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadEntityTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadentitytypename/)
+* class [CadHatch](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](../../../aspose.cad.fileformats.cad.cadobjects.hatch/)
+* assembly [Aspose.CAD](../../../)
 

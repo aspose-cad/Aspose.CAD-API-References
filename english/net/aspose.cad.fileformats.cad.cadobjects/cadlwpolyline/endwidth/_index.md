@@ -1,10 +1,13 @@
 ---
-title: CadLwPolyline.EndWidth
-second_title: Aspose.CAD for .NET API Reference
-description: CadLwPolyline property. Gets or sets the end width
+title: "CadLwPolyline.EndWidth"
+linktitle: "EndWidth"
+articleTitle: "EndWidth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLwPolyline property. Gets or sets the end width."
 type: docs
-weight: 60
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlwpolyline/endwidth/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlwpolyline/endwidth/"
+product_version: "26.9"
 ---
 ## CadLwPolyline.EndWidth property
 
@@ -20,8 +23,7 @@ The end width.
 
 ### See Also
 
-* class [CadLwPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLwPolyline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

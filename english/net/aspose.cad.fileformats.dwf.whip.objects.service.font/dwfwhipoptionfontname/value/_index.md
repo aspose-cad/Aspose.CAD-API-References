@@ -1,10 +1,13 @@
 ---
-title: DwfWhipOptionFontName.Value
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipOptionFontName property. Gets value of option
+title: "DwfWhipOptionFontName.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipOptionFontName property. Gets value of option"
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontname/value/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service.font/dwfwhipoptionfontname/value/"
+product_version: "26.9"
 ---
 ## DwfWhipOptionFontName.Value property
 
@@ -16,9 +19,8 @@ public DwfString Value { get; set; }
 
 ### See Also
 
-* class [DwfString](../../../aspose.cad.fileformats.dwf.whip.objects/dwfstring/)
-* class [DwfWhipOptionFontName](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfString](../../../aspose.cad.fileformats.dwf.whip.objects/dwfstring/)
+* class [DwfWhipOptionFontName](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](../../../aspose.cad.fileformats.dwf.whip.objects.service.font/)
+* assembly [Aspose.CAD](../../../)
 

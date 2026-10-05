@@ -1,10 +1,13 @@
 ---
-title: CadBlockFlipGrip.BlockFlipGripParameterList
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockFlipGrip property. Gets or sets the block flip grip parameter list
+title: "CadBlockFlipGrip.BlockFlipGripParameterList"
+linktitle: "BlockFlipGripParameterList"
+articleTitle: "BlockFlipGripParameterList"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockFlipGrip property. Gets or sets the block flip grip parameter list."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockflipgrip/blockflipgripparameterlist/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.blocks/cadblockflipgrip/blockflipgripparameterlist/"
+product_version: "26.9"
 ---
 ## CadBlockFlipGrip.BlockFlipGripParameterList property
 
@@ -20,9 +23,8 @@ The block flip grip parameter list.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadBlockFlipGrip](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadBlockFlipGrip](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](../../../aspose.cad.fileformats.cad.cadobjects.blocks/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadLight.CadLight
-second_title: Aspose.CAD for .NET API Reference
-description: CadLight constructor. Initializes a new instance of the CadLight class
+title: "CadLight.CadLight"
+linktitle: "CadLight"
+articleTitle: "CadLight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadLight constructor. Initializes a new instance of the CadLight class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadlight/cadlight/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadlight/cadlight/"
+product_version: "26.9"
 ---
 ## CadLight constructor
 
@@ -16,8 +19,7 @@ public CadLight()
 
 ### See Also
 
-* class [CadLight](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadLight](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

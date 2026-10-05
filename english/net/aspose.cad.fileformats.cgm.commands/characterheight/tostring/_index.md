@@ -1,12 +1,17 @@
 ---
-title: CharacterHeight.ToString
-second_title: Aspose.CAD for .NET API Reference
-description: CharacterHeight method. 
+title: "CharacterHeight.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CharacterHeight method."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cgm.commands/characterheight/tostring/
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm.commands/characterheight/tostring/"
+product_version: "26.9"
 ---
 ## CharacterHeight.ToString method
+
+
 
 ```csharp
 public override string ToString()
@@ -14,8 +19,7 @@ public override string ToString()
 
 ### See Also
 
-* class [CharacterHeight](../)
-* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CharacterHeight](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
 

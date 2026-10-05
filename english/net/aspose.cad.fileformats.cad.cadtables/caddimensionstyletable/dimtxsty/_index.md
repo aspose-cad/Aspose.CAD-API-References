@@ -1,10 +1,13 @@
 ---
-title: CadDimensionStyleTable.Dimtxsty
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets the text style name of the dimension
+title: "CadDimensionStyleTable.Dimtxsty"
+linktitle: "Dimtxsty"
+articleTitle: "Dimtxsty"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionStyleTable property. Gets or sets the text style name of the dimension."
 type: docs
-weight: 740
-url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtxsty/
+weight: 730
+url: "/net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimtxsty/"
+product_version: "26.9"
 ---
 ## CadDimensionStyleTable.Dimtxsty property
 
@@ -16,8 +19,7 @@ public string Dimtxsty { get; set; }
 
 ### See Also
 
-* class [CadDimensionStyleTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionStyleTable](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

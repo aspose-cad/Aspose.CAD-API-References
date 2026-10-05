@@ -1,10 +1,13 @@
 ---
-title: CadHelix.TurnsNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CadHelix property. Gets or sets the turns number
+title: "CadHelix.TurnsNumber"
+linktitle: "TurnsNumber"
+articleTitle: "TurnsNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadHelix property. Gets or sets the turns number."
 type: docs
-weight: 130
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadhelix/turnsnumber/
+weight: 110
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadhelix/turnsnumber/"
+product_version: "26.9"
 ---
 ## CadHelix.TurnsNumber property
 
@@ -20,8 +23,7 @@ The turns number.
 
 ### See Also
 
-* class [CadHelix](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadHelix](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

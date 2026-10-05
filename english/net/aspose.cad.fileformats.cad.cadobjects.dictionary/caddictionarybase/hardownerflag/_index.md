@@ -1,10 +1,13 @@
 ---
-title: CadDictionaryBase.HardOwnerFlag
-second_title: Aspose.CAD for .NET API Reference
-description: CadDictionaryBase property. Gets or sets hard owner flag
+title: "CadDictionaryBase.HardOwnerFlag"
+linktitle: "HardOwnerFlag"
+articleTitle: "HardOwnerFlag"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDictionaryBase property. Gets or sets hard owner flag."
 type: docs
 weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/hardownerflag/
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/hardownerflag/"
+product_version: "26.9"
 ---
 ## CadDictionaryBase.HardOwnerFlag property
 
@@ -16,8 +19,7 @@ public short HardOwnerFlag { get; set; }
 
 ### See Also
 
-* class [CadDictionaryBase](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDictionaryBase](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
+* assembly [Aspose.CAD](../../../)
 

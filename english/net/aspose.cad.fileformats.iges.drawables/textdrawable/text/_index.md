@@ -1,10 +1,13 @@
 ---
-title: TextDrawable.Text
-second_title: Aspose.CAD for .NET API Reference
-description: TextDrawable property. Text
+title: "TextDrawable.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TextDrawable property. Text"
 type: docs
 weight: 60
-url: /net/aspose.cad.fileformats.iges.drawables/textdrawable/text/
+url: "/net/aspose.cad.fileformats.iges.drawables/textdrawable/text/"
+product_version: "26.9"
 ---
 ## TextDrawable.Text property
 
@@ -16,8 +19,7 @@ public string Text { get; }
 
 ### See Also
 
-* class [TextDrawable](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TextDrawable](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

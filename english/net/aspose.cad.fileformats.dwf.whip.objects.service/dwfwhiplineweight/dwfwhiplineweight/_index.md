@@ -1,10 +1,13 @@
 ---
-title: DwfWhipLineWeight.DwfWhipLineWeight
-second_title: Aspose.CAD for .NET API Reference
-description: DwfWhipLineWeight constructor. The default constructor
+title: "DwfWhipLineWeight.DwfWhipLineWeight"
+linktitle: "DwfWhipLineWeight"
+articleTitle: "DwfWhipLineWeight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfWhipLineWeight constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplineweight/dwfwhiplineweight/
+url: "/net/aspose.cad.fileformats.dwf.whip.objects.service/dwfwhiplineweight/dwfwhiplineweight/"
+product_version: "26.9"
 ---
 ## DwfWhipLineWeight constructor
 
@@ -16,8 +19,7 @@ public DwfWhipLineWeight()
 
 ### See Also
 
-* class [DwfWhipLineWeight](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLineWeight](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](../../../aspose.cad.fileformats.dwf.whip.objects.service/)
+* assembly [Aspose.CAD](../../../)
 

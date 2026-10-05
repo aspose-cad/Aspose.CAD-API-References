@@ -1,10 +1,13 @@
 ---
-title: DgnTagValue.StringValue
-second_title: Aspose.CAD for .NET API Reference
-description: DgnTagValue property. Gets or sets the string value
+title: "DgnTagValue.StringValue"
+linktitle: "StringValue"
+articleTitle: "StringValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnTagValue property. Gets or sets the string value."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.dgn/dgntagvalue/stringvalue/
+weight: 30
+url: "/net/aspose.cad.fileformats.dgn/dgntagvalue/stringvalue/"
+product_version: "26.9"
 ---
 ## DgnTagValue.StringValue property
 
@@ -20,8 +23,7 @@ The string value.
 
 ### See Also
 
-* class [DgnTagValue](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnTagValue](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

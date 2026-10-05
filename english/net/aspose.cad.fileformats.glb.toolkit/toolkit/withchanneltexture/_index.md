@@ -1,28 +1,17 @@
 ---
-title: Toolkit.WithChannelTexture
-second_title: Aspose.CAD for .NET API Reference
-description: Toolkit method. 
+title: "Toolkit.WithChannelTexture"
+linktitle: "WithChannelTexture"
+articleTitle: "WithChannelTexture"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Toolkit method."
 type: docs
-weight: 220
-url: /net/aspose.cad.fileformats.glb.toolkit/toolkit/withchanneltexture/
+weight: 360
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withchanneltexture/"
+product_version: "26.9"
 ---
-## WithChannelTexture(this Material, string, int, string) {#withchanneltexture_1}
+## WithChannelTexture(this Material, string, int, ImageGlb) {#withchanneltexture}
 
-```csharp
-public static Material WithChannelTexture(this Material material, string channelName, 
-    int textureSet, string imageFilePath)
-```
 
-### See Also
-
-* class [Material](../../../aspose.cad.fileformats.glb/material/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## WithChannelTexture(this Material, string, int, ImageGlb) {#withchanneltexture}
 
 ```csharp
 public static Material WithChannelTexture(this Material material, string channelName, 
@@ -31,10 +20,27 @@ public static Material WithChannelTexture(this Material material, string channel
 
 ### See Also
 
-* class [Material](../../../aspose.cad.fileformats.glb/material/)
-* class [ImageGlb](../../../aspose.cad.fileformats.glb/imageglb/)
-* class [Toolkit](../)
-* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
-* assembly [Aspose.CAD](../../../)
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [ImageGlb](../../../aspose.cad.fileformats.glb/imageglb/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 
+---
+
+## WithChannelTexture(this Material, string, int, string) {#withchanneltexture_1}
+
+
+
+```csharp
+public static Material WithChannelTexture(this Material material, string channelName, 
+    int textureSet, string imageFilePath)
+```
+
+### See Also
+
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
 

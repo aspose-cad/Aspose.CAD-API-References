@@ -1,10 +1,13 @@
 ---
-title: CadRadialDimension.LeaderLength
-second_title: Aspose.CAD for .NET API Reference
-description: CadRadialDimension property. Gets or sets the leader length
+title: "CadRadialDimension.LeaderLength"
+linktitle: "LeaderLength"
+articleTitle: "LeaderLength"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadRadialDimension property. Gets or sets the leader length."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadradialdimension/leaderlength/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadradialdimension/leaderlength/"
+product_version: "26.9"
 ---
 ## CadRadialDimension.LeaderLength property
 
@@ -16,8 +19,7 @@ public double LeaderLength { get; set; }
 
 ### See Also
 
-* class [CadRadialDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadRadialDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

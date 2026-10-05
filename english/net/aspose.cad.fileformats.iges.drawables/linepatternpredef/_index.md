@@ -1,10 +1,13 @@
 ---
-title: Enum LinePatternPredef
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Iges.Drawables.LinePatternPredef enum. Defines line style
+title: "LinePatternPredef Enum"
+linktitle: "LinePatternPredef"
+articleTitle: "LinePatternPredef"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Iges.Drawables.LinePatternPredef enum. Defines line style"
 type: docs
-weight: 33650
-url: /net/aspose.cad.fileformats.iges.drawables/linepatternpredef/
+weight: 60
+url: "/net/aspose.cad.fileformats.iges.drawables/linepatternpredef/"
+product_version: "26.9"
 ---
 ## LinePatternPredef enumeration
 
@@ -27,7 +30,6 @@ public enum LinePatternPredef
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../)
 

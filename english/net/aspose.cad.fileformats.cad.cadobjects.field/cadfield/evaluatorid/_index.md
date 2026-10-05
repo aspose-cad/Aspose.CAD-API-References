@@ -1,10 +1,13 @@
 ---
-title: CadField.EvaluatorId
-second_title: Aspose.CAD for .NET API Reference
-description: CadField property. Gets or sets the evaluator identifier
+title: "CadField.EvaluatorId"
+linktitle: "EvaluatorId"
+articleTitle: "EvaluatorId"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadField property. Gets or sets the evaluator identifier."
 type: docs
-weight: 120
-url: /net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/evaluatorid/
+weight: 160
+url: "/net/aspose.cad.fileformats.cad.cadobjects.field/cadfield/evaluatorid/"
+product_version: "26.9"
 ---
 ## CadField.EvaluatorId property
 
@@ -20,8 +23,7 @@ The evaluator identifier.
 
 ### See Also
 
-* class [CadField](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadField](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Field](../../../aspose.cad.fileformats.cad.cadobjects.field/)
+* assembly [Aspose.CAD](../../../)
 

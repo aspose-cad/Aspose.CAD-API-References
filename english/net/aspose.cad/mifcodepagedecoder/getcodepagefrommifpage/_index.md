@@ -1,10 +1,13 @@
 ---
-title: MifCodePageDecoder.GetCodePageFromMifPage
-second_title: Aspose.CAD for .NET API Reference
-description: MifCodePageDecoder method. Gets codepage for MIF codepage
+title: "MifCodePageDecoder.GetCodePageFromMifPage"
+linktitle: "GetCodePageFromMifPage"
+articleTitle: "GetCodePageFromMifPage"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "MifCodePageDecoder method. Gets codepage for MIF codepage"
 type: docs
-weight: 10
-url: /net/aspose.cad/mifcodepagedecoder/getcodepagefrommifpage/
+weight: 20
+url: "/net/aspose.cad/mifcodepagedecoder/getcodepagefrommifpage/"
+product_version: "26.9"
 ---
 ## MifCodePageDecoder.GetCodePageFromMifPage method
 
@@ -24,10 +27,9 @@ Common codepage
 
 ### See Also
 
-* enum [CodePages](../../codepages/)
-* enum [MifCodePages](../../mifcodepages/)
-* class [MifCodePageDecoder](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CodePages](../../codepages/)
+* enum [MifCodePages](../../mifcodepages/)
+* class [MifCodePageDecoder](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 

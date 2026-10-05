@@ -1,12 +1,40 @@
 ---
-title: TiffStreamReader.ReadBytes
-second_title: Aspose.CAD for .NET API Reference
-description: TiffStreamReader method. Reads an array of byte values from the stream
+title: "TiffStreamReader.ReadBytes"
+linktitle: "ReadBytes"
+articleTitle: "ReadBytes"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffStreamReader method. Reads an array of byte values from the stream."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readbytes/
+weight: 50
+url: "/net/aspose.cad.fileformats.tiff.filemanagement/tiffstreamreader/readbytes/"
+product_version: "26.9"
 ---
-## ReadBytes(byte[], int, long, long) {#readbytes_1}
+## ReadBytes(long, long) {#readbytes}
+
+Reads an array of unsigned byte values from the stream.
+
+```csharp
+public byte[] ReadBytes(long position, long count)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| position | Int64 | The position to read from. |
+| count | Int64 | The elements count. |
+
+### Return Value
+
+The array of unsigned byte values.
+
+### See Also
+
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## ReadBytes(byte[], int, long, long) {#readbytes_1}
 
 Reads an array of byte values from the stream.
 
@@ -27,33 +55,7 @@ The array of byte values.
 
 ### See Also
 
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
----
-
-## ReadBytes(long, long) {#readbytes}
-
-Reads an array of unsigned byte values from the stream.
-
-```csharp
-public byte[] ReadBytes(long position, long count)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| position | Int64 | The position to read from. |
-| count | Int64 | The elements count. |
-
-### Return Value
-
-The array of unsigned byte values.
-
-### See Also
-
-* class [TiffStreamReader](../)
-* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffStreamReader](../)
+* namespace [Aspose.CAD.FileFormats.Tiff.FileManagement](../../../aspose.cad.fileformats.tiff.filemanagement/)
+* assembly [Aspose.CAD](../../../)
 

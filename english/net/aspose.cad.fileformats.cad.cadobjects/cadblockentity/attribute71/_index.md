@@ -1,10 +1,13 @@
 ---
-title: CadBlockEntity.Attribute71
-second_title: Aspose.CAD for .NET API Reference
-description: CadBlockEntity property. Gets or sets the attribute 71
+title: "CadBlockEntity.Attribute71"
+linktitle: "Attribute71"
+articleTitle: "Attribute71"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadBlockEntity property. Gets or sets the attribute 71."
 type: docs
-weight: 40
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/attribute71/
+weight: 150
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/attribute71/"
+product_version: "26.9"
 ---
 ## CadBlockEntity.Attribute71 property
 
@@ -20,8 +23,7 @@ The attribute 71.
 
 ### See Also
 
-* class [CadBlockEntity](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadBlockEntity](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

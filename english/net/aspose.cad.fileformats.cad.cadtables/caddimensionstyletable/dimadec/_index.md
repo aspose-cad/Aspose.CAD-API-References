@@ -1,10 +1,13 @@
 ---
-title: CadDimensionStyleTable.Dimadec
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionStyleTable property. Gets or sets the number of precision places displayed in angular dimensions
+title: "CadDimensionStyleTable.Dimadec"
+linktitle: "Dimadec"
+articleTitle: "Dimadec"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionStyleTable property. Gets or sets the number of precision places displayed in angular dimensions."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimadec/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadtables/caddimensionstyletable/dimadec/"
+product_version: "26.9"
 ---
 ## CadDimensionStyleTable.Dimadec property
 
@@ -16,8 +19,7 @@ public short Dimadec { get; set; }
 
 ### See Also
 
-* class [CadDimensionStyleTable](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionStyleTable](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
 

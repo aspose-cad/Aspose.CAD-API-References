@@ -1,12 +1,17 @@
 ---
-title: U3dAuthorLineSetDescription.Shaders
-second_title: Aspose.CAD for .NET API Reference
-description: U3dAuthorLineSetDescription property. 
+title: "U3dAuthorLineSetDescription.Shaders"
+linktitle: "Shaders"
+articleTitle: "Shaders"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "U3dAuthorLineSetDescription property."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.u3d.elements/u3dauthorlinesetdescription/shaders/
+weight: 30
+url: "/net/aspose.cad.fileformats.u3d.elements/u3dauthorlinesetdescription/shaders/"
+product_version: "26.9"
 ---
 ## U3dAuthorLineSetDescription.Shaders property
+
+
 
 ```csharp
 public List<U3dAuthorMaterial> Shaders { get; set; }
@@ -14,9 +19,8 @@ public List<U3dAuthorMaterial> Shaders { get; set; }
 
 ### See Also
 
-* class [U3dAuthorMaterial](../../u3dauthormaterial/)
-* class [U3dAuthorLineSetDescription](../)
-* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [U3dAuthorMaterial](../../u3dauthormaterial/)
+* class [U3dAuthorLineSetDescription](../)
+* namespace [Aspose.CAD.FileFormats.U3d.Elements](../../../aspose.cad.fileformats.u3d.elements/)
+* assembly [Aspose.CAD](../../../)
 

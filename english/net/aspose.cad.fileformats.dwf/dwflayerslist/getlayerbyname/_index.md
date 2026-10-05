@@ -1,10 +1,13 @@
 ---
-title: DwfLayersList.GetLayerByName
-second_title: Aspose.CAD for .NET API Reference
-description: DwfLayersList method. Gets first layer by name
+title: "DwfLayersList.GetLayerByName"
+linktitle: "GetLayerByName"
+articleTitle: "GetLayerByName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfLayersList method. Gets first layer by name."
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.dwf/dwflayerslist/getlayerbyname/
+weight: 20
+url: "/net/aspose.cad.fileformats.dwf/dwflayerslist/getlayerbyname/"
+product_version: "26.9"
 ---
 ## DwfLayersList.GetLayerByName method
 
@@ -24,9 +27,8 @@ The layer or null if layer with "name" does not exist in the collection[`DwfWhip
 
 ### See Also
 
-* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
-* class [DwfLayersList](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfWhipLayer](../../../aspose.cad.fileformats.dwf.whip.objects/dwfwhiplayer/)
+* class [DwfLayersList](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

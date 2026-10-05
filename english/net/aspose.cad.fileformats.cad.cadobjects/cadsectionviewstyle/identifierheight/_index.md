@@ -1,10 +1,13 @@
 ---
-title: CadSectionViewStyle.IdentifierHeight
-second_title: Aspose.CAD for .NET API Reference
-description: CadSectionViewStyle property. The Identifier Height
+title: "CadSectionViewStyle.IdentifierHeight"
+linktitle: "IdentifierHeight"
+articleTitle: "IdentifierHeight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSectionViewStyle property. The Identifier Height"
 type: docs
-weight: 280
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/identifierheight/
+weight: 80
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsectionviewstyle/identifierheight/"
+product_version: "26.9"
 ---
 ## CadSectionViewStyle.IdentifierHeight property
 
@@ -16,8 +19,7 @@ public double IdentifierHeight { get; set; }
 
 ### See Also
 
-* class [CadSectionViewStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSectionViewStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

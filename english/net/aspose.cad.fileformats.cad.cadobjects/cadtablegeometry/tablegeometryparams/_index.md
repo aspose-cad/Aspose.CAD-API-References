@@ -1,10 +1,13 @@
 ---
-title: CadTableGeometry.TableGeometryParams
-second_title: Aspose.CAD for .NET API Reference
-description: CadTableGeometry property. Gets or sets the table geometry parameters
+title: "CadTableGeometry.TableGeometryParams"
+linktitle: "TableGeometryParams"
+articleTitle: "TableGeometryParams"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadTableGeometry property. Gets or sets the table geometry parameters."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/tablegeometryparams/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadtablegeometry/tablegeometryparams/"
+product_version: "26.9"
 ---
 ## CadTableGeometry.TableGeometryParams property
 
@@ -20,9 +23,8 @@ The table geometry parameters.
 
 ### See Also
 
-* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
-* class [CadTableGeometry](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadParameter](../../../aspose.cad.fileformats.cad.cadparameters/cadparameter/)
+* class [CadTableGeometry](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

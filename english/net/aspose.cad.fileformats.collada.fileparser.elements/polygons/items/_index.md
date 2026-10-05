@@ -1,10 +1,13 @@
 ---
-title: Polygons.Items
-second_title: Aspose.CAD for .NET API Reference
-description: Polygons property. Gets or sets the items
+title: "Polygons.Items"
+linktitle: "Items"
+articleTitle: "Items"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Polygons property. Gets or sets the items."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/polygons/items/
+weight: 30
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/polygons/items/"
+product_version: "26.9"
 ---
 ## Polygons.Items property
 
@@ -16,8 +19,7 @@ public object[] Items { get; set; }
 
 ### See Also
 
-* class [Polygons](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Polygons](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

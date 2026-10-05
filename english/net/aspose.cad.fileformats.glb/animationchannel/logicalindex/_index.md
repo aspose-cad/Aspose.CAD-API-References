@@ -1,10 +1,13 @@
 ---
-title: AnimationChannel.LogicalIndex
-second_title: Aspose.CAD for .NET API Reference
-description: AnimationChannel property. Gets the zerobased index of this Animation at LogicalAnimations
+title: "AnimationChannel.LogicalIndex"
+linktitle: "LogicalIndex"
+articleTitle: "LogicalIndex"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AnimationChannel property. Gets the zero-based index of this Animation at LogicalAnimations"
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.glb/animationchannel/logicalindex/
+url: "/net/aspose.cad.fileformats.glb/animationchannel/logicalindex/"
+product_version: "26.9"
 ---
 ## AnimationChannel.LogicalIndex property
 
@@ -16,8 +19,7 @@ public int LogicalIndex { get; }
 
 ### See Also
 
-* class [AnimationChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [AnimationChannel](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

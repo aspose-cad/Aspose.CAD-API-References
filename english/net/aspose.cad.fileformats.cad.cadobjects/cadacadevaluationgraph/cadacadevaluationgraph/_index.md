@@ -1,10 +1,13 @@
 ---
-title: CadAcadEvaluationGraph.CadAcadEvaluationGraph
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcadEvaluationGraph constructor. Initializes a new instance of the CadAcadEvaluationGraph class
+title: "CadAcadEvaluationGraph.CadAcadEvaluationGraph"
+linktitle: "CadAcadEvaluationGraph"
+articleTitle: "CadAcadEvaluationGraph"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcadEvaluationGraph constructor. Initializes a new instance of the CadAcadEvaluationGraph class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/cadacadevaluationgraph/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/cadacadevaluationgraph/"
+product_version: "26.9"
 ---
 ## CadAcadEvaluationGraph constructor
 
@@ -16,8 +19,7 @@ public CadAcadEvaluationGraph()
 
 ### See Also
 
-* class [CadAcadEvaluationGraph](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadAcadEvaluationGraph](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

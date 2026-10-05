@@ -1,10 +1,13 @@
 ---
-title: CadInsertObject.CadInsertObject
-second_title: Aspose.CAD for .NET API Reference
-description: CadInsertObject constructor. Initializes a new instance of the CadInsertObject class
+title: "CadInsertObject.CadInsertObject"
+linktitle: "CadInsertObject"
+articleTitle: "CadInsertObject"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadInsertObject constructor. Initializes a new instance of the CadInsertObject class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadinsertobject/cadinsertobject/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadinsertobject/cadinsertobject/"
+product_version: "26.9"
 ---
 ## CadInsertObject constructor
 
@@ -16,8 +19,7 @@ public CadInsertObject()
 
 ### See Also
 
-* class [CadInsertObject](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadInsertObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

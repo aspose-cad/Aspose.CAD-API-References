@@ -1,10 +1,13 @@
 ---
-title: TechniqueConstant.TechniqueConstant
-second_title: Aspose.CAD for .NET API Reference
-description: TechniqueConstant constructor. The default constructor
+title: "TechniqueConstant.TechniqueConstant"
+linktitle: "TechniqueConstant"
+articleTitle: "TechniqueConstant"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TechniqueConstant constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.collada.fileparser.elements/techniqueconstant/techniqueconstant/
+url: "/net/aspose.cad.fileformats.collada.fileparser.elements/techniqueconstant/techniqueconstant/"
+product_version: "26.9"
 ---
 ## TechniqueConstant constructor
 
@@ -16,8 +19,7 @@ public TechniqueConstant()
 
 ### See Also
 
-* class [TechniqueConstant](../)
-* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TechniqueConstant](../)
+* namespace [Aspose.CAD.FileFormats.Collada.FileParser.Elements](../../../aspose.cad.fileformats.collada.fileparser.elements/)
+* assembly [Aspose.CAD](../../../)
 

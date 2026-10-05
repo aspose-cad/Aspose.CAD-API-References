@@ -1,10 +1,14 @@
 ---
-title: Class CadCodeValue
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadCodeValue class. Code Value class
+title: "CadCodeValue Class"
+linktitle: "CadCodeValue"
+articleTitle: "CadCodeValue"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadCodeValue class. Code Value class"
 type: docs
-weight: 1160
-url: /net/aspose.cad.fileformats.cad/cadcodevalue/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad/cadcodevalue/"
+keywords: "CadCodeValue, Aspose.CAD.FileFormats.Cad, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadCodeValue class
 
@@ -18,32 +22,31 @@ public class CadCodeValue
 
 | Name | Description |
 | --- | --- |
-| [CadCodeValue](cadcodevalue/)(int, string) | Initializes a new instance of the `CadCodeValue` class. |
+| [CadCodeValue](cadcodevalue/)(int, string) | Initializes a new instance of the `CadCodeValue` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Attribute](../../aspose.cad.fileformats.cad/cadcodevalue/attribute/) { get; } | Gets the attribute. |
-| [Code](../../aspose.cad.fileformats.cad/cadcodevalue/code/) { get; set; } | Gets or sets the code. |
-| [Value](../../aspose.cad.fileformats.cad/cadcodevalue/value/) { get; set; } | Gets or sets the value. |
+| [Attribute](../../aspose.cad.fileformats.cad/cadcodevalue/attribute/) { get; } | Gets the attribute. |
+| [Code](../../aspose.cad.fileformats.cad/cadcodevalue/code/) { get; set; } | Gets or sets the code. |
+| [Value](../../aspose.cad.fileformats.cad/cadcodevalue/value/) { get; set; } | Gets or sets the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Equals](../../aspose.cad.fileformats.cad/cadcodevalue/equals/#equals)(CadCodeValue) | Determines whether the specified `CadCodeValue`, is equal to this instance. |
-| virtual [GetBinaryData](../../aspose.cad.fileformats.cad/cadcodevalue/getbinarydata/)() | Gets the binary data. |
-| virtual [GetBoolValue](../../aspose.cad.fileformats.cad/cadcodevalue/getboolvalue/)() | Gets the boolean value. |
-| virtual [GetDoubleValue](../../aspose.cad.fileformats.cad/cadcodevalue/getdoublevalue/)() | The get double value. |
-| virtual [GetIntValue](../../aspose.cad.fileformats.cad/cadcodevalue/getintvalue/)() | The get integer value. |
-| virtual [GetLongValue](../../aspose.cad.fileformats.cad/cadcodevalue/getlongvalue/)() | The get long value. |
-| virtual [GetShortValue](../../aspose.cad.fileformats.cad/cadcodevalue/getshortvalue/)() | The get short value. |
-| virtual [GetStringValue](../../aspose.cad.fileformats.cad/cadcodevalue/getstringvalue/)() | Gets the string value. |
+| virtual [Equals](../../aspose.cad.fileformats.cad/cadcodevalue/equals/)(CadCodeValue) | Determines whether the specified `CadCodeValue`, is equal to this instance. |
+| virtual [GetBinaryData](../../aspose.cad.fileformats.cad/cadcodevalue/getbinarydata/)() | Gets the binary data. |
+| virtual [GetBoolValue](../../aspose.cad.fileformats.cad/cadcodevalue/getboolvalue/)() | Gets the boolean value. |
+| virtual [GetDoubleValue](../../aspose.cad.fileformats.cad/cadcodevalue/getdoublevalue/)() | The get double value. |
+| virtual [GetIntValue](../../aspose.cad.fileformats.cad/cadcodevalue/getintvalue/)() | The get integer value. |
+| virtual [GetLongValue](../../aspose.cad.fileformats.cad/cadcodevalue/getlongvalue/)() | The get long value. |
+| virtual [GetShortValue](../../aspose.cad.fileformats.cad/cadcodevalue/getshortvalue/)() | The get short value. |
+| virtual [GetStringValue](../../aspose.cad.fileformats.cad/cadcodevalue/getstringvalue/)() | Gets the string value. |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../)
 

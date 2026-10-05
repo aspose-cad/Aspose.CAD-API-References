@@ -1,10 +1,13 @@
 ---
-title: CgmFile.ContainsConsumableNumber
-second_title: Aspose.CAD for .NET API Reference
-description: CgmFile method. Determines whether CGM contains a specific consumable number text
+title: "CgmFile.ContainsConsumableNumber"
+linktitle: "ContainsConsumableNumber"
+articleTitle: "ContainsConsumableNumber"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CgmFile method. Determines whether CGM contains a specific consumable number text"
 type: docs
-weight: 250
-url: /net/aspose.cad.fileformats.cgm/cgmfile/containsconsumablenumber/
+weight: 80
+url: "/net/aspose.cad.fileformats.cgm/cgmfile/containsconsumablenumber/"
+product_version: "26.9"
 ---
 ## CgmFile.ContainsConsumableNumber method
 
@@ -20,8 +23,7 @@ public bool ContainsConsumableNumber(string textToCheck)
 
 ### See Also
 
-* class [CgmFile](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CgmFile](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

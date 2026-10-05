@@ -1,10 +1,13 @@
 ---
-title: CadDimensionDictionary.Remove
-second_title: Aspose.CAD for .NET API Reference
-description: CadDimensionDictionary method. Removes the CadDimensionStyleTable with the specified key
+title: "CadDimensionDictionary.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadDimensionDictionary method. Removes the CadDimensionStyleTable with the specified key."
 type: docs
-weight: 90
-url: /net/aspose.cad.fileformats.cad/caddimensiondictionary/remove/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad/caddimensiondictionary/remove/"
+product_version: "26.9"
 ---
 ## CadDimensionDictionary.Remove method
 
@@ -24,8 +27,7 @@ True if the element is successfully removed; otherwise, false. This method also 
 
 ### See Also
 
-* class [CadDimensionDictionary](../)
-* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadDimensionDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
 

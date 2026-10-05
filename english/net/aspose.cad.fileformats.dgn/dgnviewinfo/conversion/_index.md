@@ -1,10 +1,13 @@
 ---
-title: DgnViewInfo.Conversion
-second_title: Aspose.CAD for .NET API Reference
-description: DgnViewInfo property. Gets or sets the conversion
+title: "DgnViewInfo.Conversion"
+linktitle: "Conversion"
+articleTitle: "Conversion"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnViewInfo property. Gets or sets the conversion."
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.dgn/dgnviewinfo/conversion/
+weight: 50
+url: "/net/aspose.cad.fileformats.dgn/dgnviewinfo/conversion/"
+product_version: "26.9"
 ---
 ## DgnViewInfo.Conversion property
 
@@ -20,8 +23,7 @@ The conversion.
 
 ### See Also
 
-* class [DgnViewInfo](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnViewInfo](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

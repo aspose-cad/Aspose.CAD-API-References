@@ -1,10 +1,13 @@
 ---
-title: IDrawableProperties.Visible
-second_title: Aspose.CAD for .NET API Reference
-description: IDrawableProperties property. Visibility of geometry
+title: "IDrawableProperties.Visible"
+linktitle: "Visible"
+articleTitle: "Visible"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IDrawableProperties property. Visibility of geometry"
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.iges.drawables/idrawableproperties/visible/
+weight: 30
+url: "/net/aspose.cad.fileformats.iges.drawables/idrawableproperties/visible/"
+product_version: "26.9"
 ---
 ## IDrawableProperties.Visible property
 
@@ -20,8 +23,7 @@ True if visible, false if not
 
 ### See Also
 
-* interface [IDrawableProperties](../)
-* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IDrawableProperties](../)
+* namespace [Aspose.CAD.FileFormats.Iges.Drawables](../../../aspose.cad.fileformats.iges.drawables/)
+* assembly [Aspose.CAD](../../../)
 

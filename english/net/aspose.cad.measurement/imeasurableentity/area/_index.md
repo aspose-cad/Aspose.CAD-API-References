@@ -1,10 +1,13 @@
 ---
-title: IMeasurableEntity.Area
-second_title: Aspose.CAD for .NET API Reference
-description: IMeasurableEntity property. Gets the area of a figure
+title: "IMeasurableEntity.Area"
+linktitle: "Area"
+articleTitle: "Area"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IMeasurableEntity property. Gets the area of a figure."
 type: docs
 weight: 10
-url: /net/aspose.cad.measurement/imeasurableentity/area/
+url: "/net/aspose.cad.measurement/imeasurableentity/area/"
+product_version: "26.9"
 ---
 ## IMeasurableEntity.Area property
 
@@ -16,8 +19,7 @@ public double Area { get; }
 
 ### See Also
 
-* interface [IMeasurableEntity](../)
-* namespace [Aspose.CAD.Measurement](../../../aspose.cad.measurement/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IMeasurableEntity](../)
+* namespace [Aspose.CAD.Measurement](../../../aspose.cad.measurement/)
+* assembly [Aspose.CAD](../../../)
 

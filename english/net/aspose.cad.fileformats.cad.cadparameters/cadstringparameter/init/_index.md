@@ -1,10 +1,13 @@
 ---
-title: CadStringParameter.Init
-second_title: Aspose.CAD for .NET API Reference
-description: CadStringParameter method. Initialize the specified value
+title: "CadStringParameter.Init"
+linktitle: "Init"
+articleTitle: "Init"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadStringParameter method. Initialize the specified value."
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.cad.cadparameters/cadstringparameter/init/
+weight: 30
+url: "/net/aspose.cad.fileformats.cad.cadparameters/cadstringparameter/init/"
+product_version: "26.9"
 ---
 ## Init(CadCodeValue) {#init}
 
@@ -20,14 +23,14 @@ public override void Init(CadCodeValue value)
 
 ### See Also
 
-* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
-* class [CadStringParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
-* assembly [Aspose.CAD](../../../)
+* class [CadCodeValue](../../../aspose.cad.fileformats.cad/cadcodevalue/)
+* class [CadStringParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## Init(object) {#init_3}
+## Init(object) {#init_1}
 
 Initialize the specified value.
 
@@ -41,8 +44,7 @@ public override void Init(object value)
 
 ### See Also
 
-* class [CadStringParameter](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadStringParameter](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadParameters](../../../aspose.cad.fileformats.cad.cadparameters/)
+* assembly [Aspose.CAD](../../../)
 

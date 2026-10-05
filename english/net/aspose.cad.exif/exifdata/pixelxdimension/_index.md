@@ -1,10 +1,13 @@
 ---
-title: ExifData.PixelXDimension
-second_title: Aspose.CAD for .NET API Reference
-description: ExifData property. Gets or sets the pixel x dimension
+title: "ExifData.PixelXDimension"
+linktitle: "PixelXDimension"
+articleTitle: "PixelXDimension"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "ExifData property. Gets or sets the pixel x dimension."
 type: docs
-weight: 860
-url: /net/aspose.cad.exif/exifdata/pixelxdimension/
+weight: 870
+url: "/net/aspose.cad.exif/exifdata/pixelxdimension/"
+product_version: "26.9"
 ---
 ## ExifData.PixelXDimension property
 
@@ -20,8 +23,7 @@ The pixel x dimension.
 
 ### See Also
 
-* class [ExifData](../)
-* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
-* assembly [Aspose.CAD](../../../)
-
+* class [ExifData](../)
+* namespace [Aspose.CAD.Exif](../../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../../)
 

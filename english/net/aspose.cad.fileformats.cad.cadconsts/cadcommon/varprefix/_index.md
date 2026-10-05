@@ -1,10 +1,13 @@
 ---
-title: CadCommon.VarPrefix
-second_title: Aspose.CAD for .NET API Reference
-description: CadCommon field. Header variable prefix
+title: "CadCommon.VarPrefix"
+linktitle: "VarPrefix"
+articleTitle: "VarPrefix"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadCommon field. Header variable prefix"
 type: docs
-weight: 290
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadcommon/varprefix/
+weight: 170
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadcommon/varprefix/"
+product_version: "26.9"
 ---
 ## CadCommon.VarPrefix field
 
@@ -16,8 +19,7 @@ public const string VarPrefix;
 
 ### See Also
 
-* class [CadCommon](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadCommon](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../../)
 

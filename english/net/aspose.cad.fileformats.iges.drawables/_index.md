@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Iges.Drawables
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace handles the IGES geometric representation of an entity or part of it
+title: "Aspose.CAD.FileFormats.Iges.Drawables"
+linktitle: "Aspose.CAD.FileFormats.Iges.Drawables"
+articleTitle: "Aspose.CAD.FileFormats.Iges.Drawables"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace handles the IGES geometric representation of an entity or part of it."
 type: docs
-weight: 920
-url: /net/aspose.cad.fileformats.iges.drawables/
+weight: 10
+url: "/net/aspose.cad.fileformats.iges.drawables/"
+keywords: "Aspose.CAD.FileFormats.Iges.Drawables, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The namespace handles the IGES geometric representation of an entity or part of it.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -17,12 +25,14 @@ The namespace handles the IGES geometric representation of an entity or part of 
 | [Polygon](./polygon/) |  |
 | [Polyline](./polyline/) | Provides intermediate Drawable representation in form of segmented line |
 | [TextDrawable](./textdrawable/) | Provides intermediate Drawable representation of a text in a drawing |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [IDrawableProperties](./idrawableproperties/) | Interface for Non-geometric properties for geometric representations |
 | [IIgesDrawable](./iigesdrawable/) | Parent Interface for Simple geometric representation of an entity or its part |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -30,5 +40,4 @@ The namespace handles the IGES geometric representation of an entity or part of 
 | [LinePatternPredef](./linepatternpredef/) | Defines line style |
 | [TextMirrioring](./textmirrioring/) | Defines text mirrioring |
 | [TextOrientation](./textorientation/) | Defines orientation of text |
-
 

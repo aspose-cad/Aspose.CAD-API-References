@@ -1,10 +1,13 @@
 ---
-title: Enum ExifExposureMode
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.Exif.Enums.ExifExposureMode enum. exif exposure mode enum
+title: "ExifExposureMode Enum"
+linktitle: "ExifExposureMode"
+articleTitle: "ExifExposureMode"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.Exif.Enums.ExifExposureMode enum. exif exposure mode enum."
 type: docs
-weight: 560
-url: /net/aspose.cad.exif.enums/exifexposuremode/
+weight: 50
+url: "/net/aspose.cad.exif.enums/exifexposuremode/"
+product_version: "26.9"
 ---
 ## ExifExposureMode enumeration
 
@@ -24,7 +27,6 @@ public enum ExifExposureMode
 
 ### See Also
 
-* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.Exif.Enums](../../aspose.cad.exif.enums/)
+* assembly [Aspose.CAD](../../)
 

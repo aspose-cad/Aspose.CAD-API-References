@@ -1,10 +1,13 @@
 ---
-title: CadVisualStyle.FaceOpacityLevel
-second_title: Aspose.CAD for .NET API Reference
-description: CadVisualStyle property. Gets or sets the face opacity level
+title: "CadVisualStyle.FaceOpacityLevel"
+linktitle: "FaceOpacityLevel"
+articleTitle: "FaceOpacityLevel"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadVisualStyle property. Gets or sets the face opacity level."
 type: docs
-weight: 300
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/faceopacitylevel/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadvisualstyle/faceopacitylevel/"
+product_version: "26.9"
 ---
 ## CadVisualStyle.FaceOpacityLevel property
 
@@ -20,8 +23,7 @@ The face opacity level.
 
 ### See Also
 
-* class [CadVisualStyle](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadVisualStyle](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

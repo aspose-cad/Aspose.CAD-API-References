@@ -1,10 +1,13 @@
 ---
-title: CadArcLengthDimension.HasLeader
-second_title: Aspose.CAD for .NET API Reference
-description: CadArcLengthDimension property. Gets or sets the has leader
+title: "CadArcLengthDimension.HasLeader"
+linktitle: "HasLeader"
+articleTitle: "HasLeader"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadArcLengthDimension property. Gets or sets the has leader."
 type: docs
-weight: 70
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/hasleader/
+weight: 100
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadarclengthdimension/hasleader/"
+product_version: "26.9"
 ---
 ## CadArcLengthDimension.HasLeader property
 
@@ -16,8 +19,7 @@ public short HasLeader { get; set; }
 
 ### See Also
 
-* class [CadArcLengthDimension](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadArcLengthDimension](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

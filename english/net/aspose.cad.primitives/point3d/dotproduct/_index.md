@@ -1,10 +1,13 @@
 ---
-title: Point3D.DotProduct
-second_title: Aspose.CAD for .NET API Reference
-description: Point3D method. Gets dot product between two vectors
+title: "Point3D.DotProduct"
+linktitle: "DotProduct"
+articleTitle: "DotProduct"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Point3D method. Gets dot product between two vectors."
 type: docs
-weight: 160
-url: /net/aspose.cad.primitives/point3d/dotproduct/
+weight: 90
+url: "/net/aspose.cad.primitives/point3d/dotproduct/"
+product_version: "26.9"
 ---
 ## Point3D.DotProduct method
 
@@ -25,8 +28,7 @@ Dor product
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Point3D](../)
+* namespace [Aspose.CAD.Primitives](../../../aspose.cad.primitives/)
+* assembly [Aspose.CAD](../../../)
 

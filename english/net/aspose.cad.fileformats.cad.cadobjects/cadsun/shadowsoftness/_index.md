@@ -1,10 +1,13 @@
 ---
-title: CadSun.ShadowSoftness
-second_title: Aspose.CAD for .NET API Reference
-description: CadSun property. Gets or sets the shadow softness
+title: "CadSun.ShadowSoftness"
+linktitle: "ShadowSoftness"
+articleTitle: "ShadowSoftness"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSun property. Gets or sets the shadow softness."
 type: docs
 weight: 80
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadsun/shadowsoftness/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadsun/shadowsoftness/"
+product_version: "26.9"
 ---
 ## CadSun.ShadowSoftness property
 
@@ -16,8 +19,7 @@ public short ShadowSoftness { get; set; }
 
 ### See Also
 
-* class [CadSun](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSun](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,12 +1,18 @@
 ---
-title: Class AttributeElements
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cgm.Elements.AttributeElements class. 
+title: "AttributeElements Class"
+linktitle: "AttributeElements"
+articleTitle: "AttributeElements"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cgm.Elements.AttributeElements class."
 type: docs
-weight: 6990
-url: /net/aspose.cad.fileformats.cgm.elements/attributeelements/
+weight: 50
+url: "/net/aspose.cad.fileformats.cgm.elements/attributeelements/"
+keywords: "AttributeElements, Aspose.CAD.FileFormats.Cgm.Elements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## AttributeElements class
+
+
 
 ```csharp
 public static class AttributeElements
@@ -16,11 +22,10 @@ public static class AttributeElements
 
 | Name | Description |
 | --- | --- |
-| static [CreateCommand](../../aspose.cad.fileformats.cgm.elements/attributeelements/createcommand/)(int, int, CgmFile) |  |
+| static [CreateCommand](../../aspose.cad.fileformats.cgm.elements/attributeelements/createcommand/)(int, int, CgmFile) |  |
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../)
 

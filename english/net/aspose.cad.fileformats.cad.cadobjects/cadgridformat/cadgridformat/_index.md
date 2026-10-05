@@ -1,10 +1,13 @@
 ---
-title: CadGridFormat.CadGridFormat
-second_title: Aspose.CAD for .NET API Reference
-description: CadGridFormat constructor. Initializes a new instance of the CadGridFormat class
+title: "CadGridFormat.CadGridFormat"
+linktitle: "CadGridFormat"
+articleTitle: "CadGridFormat"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadGridFormat constructor. Initializes a new instance of the CadGridFormat class."
 type: docs
 weight: 10
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadgridformat/cadgridformat/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadgridformat/cadgridformat/"
+product_version: "26.9"
 ---
 ## CadGridFormat constructor
 
@@ -16,8 +19,7 @@ public CadGridFormat()
 
 ### See Also
 
-* class [CadGridFormat](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadGridFormat](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadAcdsRecord.TypeName
-second_title: Aspose.CAD for .NET API Reference
-description: CadAcdsRecord property. Gets the name of the type
+title: "CadAcdsRecord.TypeName"
+linktitle: "TypeName"
+articleTitle: "TypeName"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadAcdsRecord property. Gets the name of the type."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadacdsrecord/typename/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacdsrecord/typename/"
+product_version: "26.9"
 ---
 ## CadAcdsRecord.TypeName property
 
@@ -20,9 +23,8 @@ The name of the type.
 
 ### See Also
 
-* enum [CadAcdsTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadacdstypename/)
-* class [CadAcdsRecord](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [CadAcdsTypeName](../../../aspose.cad.fileformats.cad.cadconsts/cadacdstypename/)
+* class [CadAcdsRecord](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

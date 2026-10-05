@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.IsValid
-second_title: Aspose.CAD for .NET API Reference
-description: TiffOptions property. Gets a value indicating whether the TiffOptions have been properly configured. Use Validate method as to find the failure reason
+title: "TiffOptions.IsValid"
+linktitle: "IsValid"
+articleTitle: "IsValid"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "TiffOptions property. Gets a value indicating whether the TiffOptions have been properly configured. Use Validate method as to find the failure reason."
 type: docs
-weight: 210
-url: /net/aspose.cad.imageoptions/tiffoptions/isvalid/
+weight: 150
+url: "/net/aspose.cad.imageoptions/tiffoptions/isvalid/"
+product_version: "26.9"
 ---
 ## TiffOptions.IsValid property
 
@@ -20,8 +23,7 @@ public bool IsValid { get; }
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

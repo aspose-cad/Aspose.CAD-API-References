@@ -1,10 +1,13 @@
 ---
-title: DwfString.AsciiString
-second_title: Aspose.CAD for .NET API Reference
-description: DwfString property. Gets string value of object
+title: "DwfString.AsciiString"
+linktitle: "AsciiString"
+articleTitle: "AsciiString"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfString property. Gets string value of object"
 type: docs
-weight: 20
-url: /net/aspose.cad.fileformats.dwf.whip.objects/dwfstring/asciistring/
+weight: 30
+url: "/net/aspose.cad.fileformats.dwf.whip.objects/dwfstring/asciistring/"
+product_version: "26.9"
 ---
 ## DwfString.AsciiString property
 
@@ -16,8 +19,7 @@ public string AsciiString { get; set; }
 
 ### See Also
 
-* class [DwfString](../)
-* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DwfString](../)
+* namespace [Aspose.CAD.FileFormats.Dwf.Whip.Objects](../../../aspose.cad.fileformats.dwf.whip.objects/)
+* assembly [Aspose.CAD](../../../)
 

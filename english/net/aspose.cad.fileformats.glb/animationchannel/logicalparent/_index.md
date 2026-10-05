@@ -1,10 +1,13 @@
 ---
-title: AnimationChannel.LogicalParent
-second_title: Aspose.CAD for .NET API Reference
-description: AnimationChannel property. Gets the Animation instance that owns this object
+title: "AnimationChannel.LogicalParent"
+linktitle: "LogicalParent"
+articleTitle: "LogicalParent"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "AnimationChannel property. Gets the Animation instance that owns this object."
 type: docs
 weight: 20
-url: /net/aspose.cad.fileformats.glb/animationchannel/logicalparent/
+url: "/net/aspose.cad.fileformats.glb/animationchannel/logicalparent/"
+product_version: "26.9"
 ---
 ## AnimationChannel.LogicalParent property
 
@@ -16,9 +19,8 @@ public Animation LogicalParent { get; }
 
 ### See Also
 
-* class [Animation](../../animation/)
-* class [AnimationChannel](../)
-* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../../)
-
+* class [Animation](../../animation/)
+* class [AnimationChannel](../)
+* namespace [Aspose.CAD.FileFormats.GLB](../../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../../)
 

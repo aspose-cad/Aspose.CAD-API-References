@@ -1,10 +1,13 @@
 ---
-title: CadEllipse.EndAngle
-second_title: Aspose.CAD for .NET API Reference
-description: CadEllipse property. Gets or sets the End angle
+title: "CadEllipse.EndAngle"
+linktitle: "EndAngle"
+articleTitle: "EndAngle"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadEllipse property. Gets or sets the End angle."
 type: docs
-weight: 50
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadellipse/endangle/
+weight: 70
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadellipse/endangle/"
+product_version: "26.9"
 ---
 ## CadEllipse.EndAngle property
 
@@ -20,8 +23,7 @@ End angle.
 
 ### See Also
 
-* class [CadEllipse](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadEllipse](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

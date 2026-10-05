@@ -1,10 +1,13 @@
 ---
-title: FileSource.IsTemporal
-second_title: Aspose.CAD for .NET API Reference
-description: FileSource property. Gets a value indicating whether file will be temporal
+title: "FileSource.IsTemporal"
+linktitle: "IsTemporal"
+articleTitle: "IsTemporal"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FileSource property. Gets a value indicating whether file will be temporal."
 type: docs
 weight: 10
-url: /net/aspose.cad.sources/filesource/istemporal/
+url: "/net/aspose.cad.sources/filesource/istemporal/"
+product_version: "26.9"
 ---
 ## FileSource.IsTemporal property
 
@@ -20,8 +23,7 @@ public abstract bool IsTemporal { get; }
 
 ### See Also
 
-* class [FileSource](../)
-* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FileSource](../)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
+* assembly [Aspose.CAD](../../../)
 

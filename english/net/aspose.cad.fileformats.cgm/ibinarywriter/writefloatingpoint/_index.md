@@ -1,12 +1,17 @@
 ---
-title: IBinaryWriter.WriteFloatingPoint
-second_title: Aspose.CAD for .NET API Reference
-description: IBinaryWriter method. 
+title: "IBinaryWriter.WriteFloatingPoint"
+linktitle: "WriteFloatingPoint"
+articleTitle: "WriteFloatingPoint"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IBinaryWriter method."
 type: docs
-weight: 110
-url: /net/aspose.cad.fileformats.cgm/ibinarywriter/writefloatingpoint/
+weight: 180
+url: "/net/aspose.cad.fileformats.cgm/ibinarywriter/writefloatingpoint/"
+product_version: "26.9"
 ---
 ## IBinaryWriter.WriteFloatingPoint method
+
+
 
 ```csharp
 public void WriteFloatingPoint(double data)
@@ -14,8 +19,7 @@ public void WriteFloatingPoint(double data)
 
 ### See Also
 
-* interface [IBinaryWriter](../)
-* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
-* assembly [Aspose.CAD](../../../)
-
+* interface [IBinaryWriter](../)
+* namespace [Aspose.CAD.FileFormats.Cgm](../../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../../)
 

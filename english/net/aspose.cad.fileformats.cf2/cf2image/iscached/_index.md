@@ -1,10 +1,13 @@
 ---
-title: CF2Image.IsCached
-second_title: Aspose.CAD for .NET API Reference
-description: CF2Image property. Gets is image cached
+title: "CF2Image.IsCached"
+linktitle: "IsCached"
+articleTitle: "IsCached"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CF2Image property. Gets is image cached"
 type: docs
-weight: 30
-url: /net/aspose.cad.fileformats.cf2/cf2image/iscached/
+weight: 60
+url: "/net/aspose.cad.fileformats.cf2/cf2image/iscached/"
+product_version: "26.9"
 ---
 ## CF2Image.IsCached property
 
@@ -16,8 +19,7 @@ public override bool IsCached { get; }
 
 ### See Also
 
-* class [CF2Image](../)
-* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CF2Image](../)
+* namespace [Aspose.CAD.FileFormats.CF2](../../../aspose.cad.fileformats.cf2/)
+* assembly [Aspose.CAD](../../../)
 

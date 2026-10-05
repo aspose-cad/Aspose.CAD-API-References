@@ -1,10 +1,13 @@
 ---
-title: DwfPage.UnitType
-second_title: Aspose.CAD for .NET API Reference
-description: DwfPage property. Gets or sets unit type
+title: "DwfPage.UnitType"
+linktitle: "UnitType"
+articleTitle: "UnitType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DwfPage property. Gets or sets unit type"
 type: docs
-weight: 80
-url: /net/aspose.cad.fileformats.dwf/dwfpage/unittype/
+weight: 20
+url: "/net/aspose.cad.fileformats.dwf/dwfpage/unittype/"
+product_version: "26.9"
 ---
 ## DwfPage.UnitType property
 
@@ -16,9 +19,8 @@ public UnitType UnitType { get; }
 
 ### See Also
 
-* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
-* class [DwfPage](../)
-* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [UnitType](../../../aspose.cad.imageoptions/unittype/)
+* class [DwfPage](../)
+* namespace [Aspose.CAD.FileFormats.Dwf](../../../aspose.cad.fileformats.dwf/)
+* assembly [Aspose.CAD](../../../)
 

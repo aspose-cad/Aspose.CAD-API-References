@@ -1,10 +1,13 @@
 ---
-title: DgnBSplineCurveElement.CurveType
-second_title: Aspose.CAD for .NET API Reference
-description: DgnBSplineCurveElement property. Gets curve type
+title: "DgnBSplineCurveElement.CurveType"
+linktitle: "CurveType"
+articleTitle: "CurveType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnBSplineCurveElement property. Gets curve type"
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/curvetype/
+weight: 40
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnbsplinecurveelement/curvetype/"
+product_version: "26.9"
 ---
 ## DgnBSplineCurveElement.CurveType property
 
@@ -16,8 +19,7 @@ public byte CurveType { get; }
 
 ### See Also
 
-* class [DgnBSplineCurveElement](../)
-* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnBSplineCurveElement](../)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../../)
 

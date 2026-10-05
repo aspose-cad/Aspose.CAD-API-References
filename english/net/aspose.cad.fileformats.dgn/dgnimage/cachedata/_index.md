@@ -1,23 +1,25 @@
 ---
-title: DgnImage.CacheData
-second_title: Aspose.CAD for .NET API Reference
-description: DgnImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer
+title: "DgnImage.CacheData"
+linktitle: "CacheData"
+articleTitle: "CacheData"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "DgnImage method. Caches the data and ensures no additional data loading will be performed from the underlying DataStreamContainer."
 type: docs
-weight: 140
-url: /net/aspose.cad.fileformats.dgn/dgnimage/cachedata/
+weight: 20
+url: "/net/aspose.cad.fileformats.dgn/dgnimage/cachedata/"
+product_version: "26.9"
 ---
 ## DgnImage.CacheData method
 
 Caches the data and ensures no additional data loading will be performed from the underlying [`DataStreamContainer`](../../../aspose.cad/datastreamsupporter/datastreamcontainer/).
 
 ```csharp
-public void CacheData()
+public sealed override void CacheData()
 ```
 
 ### See Also
 
-* class [DgnImage](../)
-* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
-* assembly [Aspose.CAD](../../../)
-
+* class [DgnImage](../)
+* namespace [Aspose.CAD.FileFormats.Dgn](../../../aspose.cad.fileformats.dgn/)
+* assembly [Aspose.CAD](../../../)
 

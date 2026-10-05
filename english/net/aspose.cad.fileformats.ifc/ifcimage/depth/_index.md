@@ -1,14 +1,18 @@
 ---
-title: IfcImage.Depth
-second_title: Aspose.CAD for .NET API Reference
-description: IfcImage property. Gets the depth. It is calculated from all the entities
+title: "IfcImage.Depth"
+linktitle: "Depth"
+articleTitle: "Depth"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "IfcImage property. Gets the depth. It is calculated from all the entities"
 type: docs
-weight: 10
-url: /net/aspose.cad.fileformats.ifc/ifcimage/depth/
+weight: 130
+url: "/net/aspose.cad.fileformats.ifc/ifcimage/depth/"
+product_version: "26.9"
 ---
 ## IfcImage.Depth property
 
-Gets the depth. It is calculated from all the entities
+Gets the depth.
+ It is calculated from all the entities
 
 ```csharp
 public override int Depth { get; }
@@ -31,8 +35,7 @@ using (IfcImage ifcImage = (IfcImage)Image.Load(fileName))
 
 ### See Also
 
-* class [IfcImage](../)
-* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
-* assembly [Aspose.CAD](../../../)
-
+* class [IfcImage](../)
+* namespace [Aspose.CAD.FileFormats.Ifc](../../../aspose.cad.fileformats.ifc/)
+* assembly [Aspose.CAD](../../../)
 

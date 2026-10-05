@@ -1,10 +1,13 @@
 ---
-title: FileCreateSource.FileCreateSource
-second_title: Aspose.CAD for .NET API Reference
-description: FileCreateSource constructor. Initializes a new instance of the FileCreateSource class
+title: "FileCreateSource.FileCreateSource"
+linktitle: "FileCreateSource"
+articleTitle: "FileCreateSource"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "FileCreateSource constructor. Initializes a new instance of the FileCreateSource class."
 type: docs
 weight: 10
-url: /net/aspose.cad.sources/filecreatesource/filecreatesource/
+url: "/net/aspose.cad.sources/filecreatesource/filecreatesource/"
+product_version: "26.9"
 ---
 ## FileCreateSource(string) {#constructor}
 
@@ -20,13 +23,13 @@ public FileCreateSource(string filePath)
 
 ### See Also
 
-* class [FileCreateSource](../)
-* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
-* assembly [Aspose.CAD](../../../)
+* class [FileCreateSource](../)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## FileCreateSource(string, bool) {#constructor_1}
+## FileCreateSource(string, bool) {#constructor_1}
 
 Initializes a new instance of the [`FileCreateSource`](../) class.
 
@@ -41,8 +44,7 @@ public FileCreateSource(string filePath, bool isTemporal)
 
 ### See Also
 
-* class [FileCreateSource](../)
-* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
-* assembly [Aspose.CAD](../../../)
-
+* class [FileCreateSource](../)
+* namespace [Aspose.CAD.Sources](../../../aspose.cad.sources/)
+* assembly [Aspose.CAD](../../../)
 

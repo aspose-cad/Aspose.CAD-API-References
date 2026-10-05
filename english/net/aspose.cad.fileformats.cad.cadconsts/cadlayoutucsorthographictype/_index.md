@@ -1,14 +1,18 @@
 ---
-title: Enum CadLayoutUcsOrthographicType
-second_title: Aspose.CAD for .NET API Reference
-description: Aspose.CAD.FileFormats.Cad.CadConsts.CadLayoutUcsOrthographicType enum. Orthographic type of UCS. CadLayout
+title: "CadLayoutUcsOrthographicType Enum"
+linktitle: "CadLayoutUcsOrthographicType"
+articleTitle: "CadLayoutUcsOrthographicType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadLayoutUcsOrthographicType enum. Orthographic type of UCS. CadLayout"
 type: docs
-weight: 1390
-url: /net/aspose.cad.fileformats.cad.cadconsts/cadlayoutucsorthographictype/
+weight: 240
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadlayoutucsorthographictype/"
+product_version: "26.9"
 ---
 ## CadLayoutUcsOrthographicType enumeration
 
-Orthographic type of UCS. [`CadLayout`](../../aspose.cad.fileformats.cad.cadobjects/cadlayout/)
+Orthographic type of UCS.
+ [`CadLayout`](../../../aspose.cad.fileformats.cad.cadobjects/cadlayout/)
 
 ```csharp
 public enum CadLayoutUcsOrthographicType : short
@@ -28,7 +32,6 @@ public enum CadLayoutUcsOrthographicType : short
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 

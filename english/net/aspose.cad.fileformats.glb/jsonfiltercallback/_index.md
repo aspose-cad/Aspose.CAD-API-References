@@ -1,10 +1,13 @@
 ---
-title: Delegate JsonFilterCallback
-second_title: Aspose.CAD for .NET API Reference
-description: Callback used to preprocess and postprocess json before reading and after writing
+title: "JsonFilterCallback Delegate"
+linktitle: "JsonFilterCallback"
+articleTitle: "JsonFilterCallback"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "Callback used to preprocess and postprocess json before reading and after writing."
 type: docs
-weight: 10790
-url: /net/aspose.cad.fileformats.glb/jsonfiltercallback/
+weight: 310
+url: "/net/aspose.cad.fileformats.glb/jsonfiltercallback/"
+product_version: "26.9"
 ---
 ## JsonFilterCallback delegate
 
@@ -24,7 +27,6 @@ The processed json text.
 
 ### See Also
 
-* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
-* assembly [Aspose.CAD](../../)
-
+* namespace [Aspose.CAD.FileFormats.GLB](../../aspose.cad.fileformats.glb/)
+* assembly [Aspose.CAD](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CadSpline.KnotWeight
-second_title: Aspose.CAD for .NET API Reference
-description: CadSpline property. Gets or sets the knot weight
+title: "CadSpline.KnotWeight"
+linktitle: "KnotWeight"
+articleTitle: "KnotWeight"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadSpline property. Gets or sets the knot weight."
 type: docs
 weight: 150
-url: /net/aspose.cad.fileformats.cad.cadobjects/cadspline/knotweight/
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadspline/knotweight/"
+product_version: "26.9"
 ---
 ## CadSpline.KnotWeight property
 
@@ -16,8 +19,7 @@ public List<double> KnotWeight { get; set; }
 
 ### See Also
 
-* class [CadSpline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadSpline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
 

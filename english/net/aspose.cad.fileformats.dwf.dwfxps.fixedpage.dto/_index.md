@@ -1,12 +1,20 @@
 ---
-title: Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO
-second_title: Aspose.CAD for .NET API Reference
-description: The namespace contains entities of FixedPage DTO model
+title: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO"
+linktitle: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO"
+articleTitle: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "The namespace contains entities of FixedPage DTO model."
 type: docs
-weight: 600
-url: /net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/
+weight: 10
+url: "/net/aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/"
+keywords: "Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
-The namespace contains entities of FixedPage DTO model.
+## Overview
+
+The namespace contains entities of [FixedPage](./fixedpage/) DTO model.
+
+Part of the [Aspose.CAD for .NET](../) API reference.
 
 ## Classes
 
@@ -36,6 +44,7 @@ The namespace contains entities of FixedPage DTO model.
 | [Transform](./transform/) | The transform. OpenXPS Document markup supports affine transforms as expressed through the RenderTransform and Transform properties.An affine transform is represented as a list of six real numbers: m11, m12, m21, m22, OffsetX, OffsetY. The RenderTransform and Transform properties both specify an affine matrix transformation to the local coordinate space, using the MatrixTransform element as their value. An abbreviated matrix transformation syntax MAY be used to specify a RenderTransform or Transform attribute value. |
 | [Visual](./visual/) | The visual. Specifies a Path element, Glyphs element, or Canvas element used to draw the visual contents. |
 | [VisualBrush](./visualbrush/) | The visual brush. The VisualBrush element is used to fill a region with a drawing. The drawing can be specified as either a VisualBrush.Visual property element or as a resource reference. Drawing content can include exactly one Canvas, Path, or Glyphs element and that element’s child and descendant elements. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -52,5 +61,4 @@ The namespace contains entities of FixedPage DTO model.
 | [SweepDirection](./sweepdirection/) | The sweep direction. Determines which of the two possible arcs(selected by the Large Arc Flag) is used. Beginning at the starting point, one arc proceeds in the positive(clockwise) direction, while the other proceeds in the negative(counter-clockwise) direction. |
 | [TileMode](./tilemode/) | The tile mode. Specifies how tiling is performed in the filled geometry. |
 | [ViewUnits](./viewunits/) | The view units. Specifies the relationship of the view coordinates to the containing coordinate space. |
-
 

@@ -1,10 +1,13 @@
 ---
-title: CadPolyline.SurfaceType
-second_title: Aspose.CAD for .NET API Reference
-description: CadPolyline property. Gets or sets the type of the surface
+title: "CadPolyline.SurfaceType"
+linktitle: "SurfaceType"
+articleTitle: "SurfaceType"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "CadPolyline property. Gets or sets the type of the surface."
 type: docs
-weight: 100
-url: /net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline/surfacetype/
+weight: 120
+url: "/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyline/surfacetype/"
+product_version: "26.9"
 ---
 ## CadPolyline.SurfaceType property
 
@@ -20,8 +23,7 @@ The type of the surface.
 
 ### See Also
 
-* class [CadPolyline](../)
-* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
-* assembly [Aspose.CAD](../../../)
-
+* class [CadPolyline](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](../../../aspose.cad.fileformats.cad.cadobjects.polylines/)
+* assembly [Aspose.CAD](../../../)
 

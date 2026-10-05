@@ -1,10 +1,13 @@
 ---
-title: RasterizationQuality.Hatch
-second_title: Aspose.CAD for .NET API Reference
-description: RasterizationQuality property. Gets or sets the hatch quality
+title: "RasterizationQuality.Hatch"
+linktitle: "Hatch"
+articleTitle: "Hatch"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterizationQuality property. Gets or sets the hatch quality."
 type: docs
 weight: 30
-url: /net/aspose.cad.imageoptions/rasterizationquality/hatch/
+url: "/net/aspose.cad.imageoptions/rasterizationquality/hatch/"
+product_version: "26.9"
 ---
 ## RasterizationQuality.Hatch property
 
@@ -20,9 +23,8 @@ The hatch quality.
 
 ### See Also
 
-* enum [RasterizationQualityValue](../../rasterizationqualityvalue/)
-* class [RasterizationQuality](../)
-* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
-* assembly [Aspose.CAD](../../../)
-
+* enum [RasterizationQualityValue](../../rasterizationqualityvalue/)
+* class [RasterizationQuality](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 

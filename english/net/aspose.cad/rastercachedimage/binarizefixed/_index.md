@@ -1,10 +1,13 @@
 ---
-title: RasterCachedImage.BinarizeFixed
-second_title: Aspose.CAD for .NET API Reference
-description: RasterCachedImage method. Binarization of an image with predefined threshold
+title: "RasterCachedImage.BinarizeFixed"
+linktitle: "BinarizeFixed"
+articleTitle: "BinarizeFixed"
+second_title: "Aspose.CAD for .NET API Reference"
+description: "RasterCachedImage method. Binarization of an image with predefined threshold"
 type: docs
-weight: 60
-url: /net/aspose.cad/rastercachedimage/binarizefixed/
+weight: 80
+url: "/net/aspose.cad/rastercachedimage/binarizefixed/"
+product_version: "26.9"
 ---
 ## RasterCachedImage.BinarizeFixed method
 
@@ -20,8 +23,7 @@ public override void BinarizeFixed(byte threshold)
 
 ### See Also
 
-* class [RasterCachedImage](../)
-* namespace [Aspose.CAD](../../../aspose.cad/)
-* assembly [Aspose.CAD](../../../)
-
+* class [RasterCachedImage](../)
+* namespace [Aspose.CAD](../../../aspose.cad/)
+* assembly [Aspose.CAD](../../../)
 
