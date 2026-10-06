@@ -2,7 +2,7 @@
 title: "Aspose.CAD for .NET"
 linktitle: "Aspose.CAD for .NET"
 articleTitle: "Aspose.CAD for .NET"
-description: "Aspose.CAD for .NET API reference. A native .NET library for reading, converting, and rendering CAD, BIM, and 3D file formats without AutoCAD or any other third-party software installed. Supports DWG, DXF, DWT, DGN, IFC, STL, OBJ, PLT, CF2, IGES, DWF, Collada, GLB, and FBX, converting to and from PDF, SVG, and raster image formats. Full reference for every namespace, class, method, and property in the library."
+description: "Aspose.CAD for .NET API reference. Read, convert, and render DWG, DXF, DGN, IFC, STL, OBJ, IGES, and more CAD/3D formats to PDF, SVG, and images."
 type: docs
 weight: 10
 url: "/net/"
