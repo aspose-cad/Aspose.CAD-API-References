@@ -1,0 +1,23 @@
+﻿---
+title: "IfcStyleModel"
+linktitle: "IfcStyleModel"
+second_title: "Aspose.CAD for Java"
+description: ""
+type: docs
+weight: 10
+url: /ru/java/com.aspose.cad.fileformats.ifc.ifc4.entities/ifcstylemodel/
+---
+
+**Inheritance:** java.lang.Object, IfcRepresentation
+
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [IfcStyleModel()](#IfcStyleModel) |  |
+
+### IfcStyleModel() {#IfcStyleModel}
+```java
+public IfcStyleModel()
+```
+
