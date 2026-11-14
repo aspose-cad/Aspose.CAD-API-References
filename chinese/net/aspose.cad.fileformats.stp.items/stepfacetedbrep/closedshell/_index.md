@@ -1,0 +1,26 @@
+---
+title: "StepFacetedBrep.ClosedShell"
+linktitle: "ClosedShell"
+articleTitle: "ClosedShell"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "StepFacetedBrep 属性。"
+type: docs
+weight: 40
+url: "/net/aspose.cad.fileformats.stp.items/stepfacetedbrep/closedshell/"
+product_version: "26.9"
+---
+## StepFacetedBrep.ClosedShell property
+
+
+
+```csharp
+public StepClosedShell ClosedShell { get; set; }
+```
+
+### 另请参阅
+
+* class [StepClosedShell](../../stepclosedshell/)
+* class [StepFacetedBrep](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
+

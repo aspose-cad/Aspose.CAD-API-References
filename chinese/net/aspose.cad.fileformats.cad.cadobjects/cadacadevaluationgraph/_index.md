@@ -1,12 +1,18 @@
 ---
-title: CadAcadEvaluationGraph
-second_title: Aspose.CAD for .NET API 参考
-description: 
+title: "CadAcadEvaluationGraph 类"
+linktitle: "CadAcadEvaluationGraph"
+articleTitle: "CadAcadEvaluationGraph"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadAcadEvaluationGraph 类。描述 ACAD_EVALUATION_GRAPH 对象的类。"
 type: docs
-weight: 2000
-url: /zh/net/aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/
+weight: 90
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/"
+keywords: "CadAcadEvaluationGraph, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadAcadEvaluationGraph class
+
+描述 ACAD_EVALUATION_GRAPH 对象的类。
 
 ```csharp
 public class CadAcadEvaluationGraph : CadBaseObject
@@ -14,32 +20,43 @@ public class CadAcadEvaluationGraph : CadBaseObject
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CadAcadEvaluationGraph](cadacadevaluationgraph)() | 默认构造函数。 |
+| [CadAcadEvaluationGraph](cadacadevaluationgraph/)() | 初始化 `CadAcadEvaluationGraph` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/numreactors) { get; set; } |  |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
-| [Objects](../../aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/objects) { get; set; } |  |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
-| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | 获取或设置应用程序定义的代码容器。 |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | 获取或设置 attribute102 值。 |
+| [AttributeBitLongList](../../aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/attributebitlonglist/) { get; set; } | 获取或设置 attributeBitLong 列表。 |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | 获取或设置属性。 |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | 获取或设置子对象。 |
+| [EdgeInfo](../../aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/edgeinfo/) { get; set; } | 获取或设置 edge info 列表。 |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | 获取或设置嵌入对象容器。 |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | 获取或设置硬所有者。 |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | 获取一个值，指示是否已设置软所有者。 |
+| [NodeInfo](../../aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/nodeinfo/) { get; set; } | 获取或设置 node info 列表。 |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | 该 Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | 获取或设置对象句柄。 |
+| [Objects](../../aspose.cad.fileformats.cad.cadobjects/cadacadevaluationgraph/objects/) { get; set; } | 获取或设置对象。 |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | 获取或设置反应器句柄 |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | 获取或设置软所有者。 |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | 获取或设置一个值，指示此实体在数据存储中具有关联的二进制数据。 |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | 获取类型的名称。 |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | 获取或设置 xdata 容器。 |
 
-### 也可以看看
+## 方法
 
-* class [CadBaseObject](../cadbaseobject)
-* 命名空间 [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects)
-* 部件 [Aspose.CAD](../../)
+| 名称 | 描述 |
+| --- | --- |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/getuid/)() | 如果对象句柄不起作用时使用的标识符。作为方法实现，以免干扰 FileComparer's property comparer |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/setuid/)(string) | 设置 |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+### 另请参阅
+
+* class [CadBaseObject](../cadbaseobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
+

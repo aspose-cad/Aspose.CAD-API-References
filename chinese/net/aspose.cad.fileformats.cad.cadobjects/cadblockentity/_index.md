@@ -1,12 +1,18 @@
 ---
-title: CadBlockEntity
-second_title: Aspose.CAD for .NET API 参考
-description: 
+title: "CadBlockEntity 类"
+linktitle: "CadBlockEntity"
+articleTitle: "CadBlockEntity"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadBlockEntity 类。Cad 块实体。"
 type: docs
-weight: 2200
-url: /zh/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/
+weight: 350
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadblockentity/"
+keywords: "CadBlockEntity, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadBlockEntity class
+
+Cad 块实体。
 
 ```csharp
 public class CadBlockEntity
@@ -14,54 +20,53 @@ public class CadBlockEntity
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CadBlockEntity](cadblockentity)() | 默认构造函数。 |
+| [CadBlockEntity](cadblockentity/)() | 初始化 `CadBlockEntity` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AttDefs](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/attdefs) { get; } |  |
-| [Attribute6](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/attribute6) { get; set; } |  |
-| [Attribute71](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/attribute71) { get; set; } |  |
-| [BasePoint](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/basepoint) { get; set; } |  |
-| [BlockAttribute370](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute370) { get; set; } |  |
-| [BlockAttribute420](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute420) { get; set; } |  |
-| [BlockAttribute48](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute48) { get; set; } |  |
-| [BlockAttribute62](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute62) { get; set; } |  |
-| [BlockHandle](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockhandle) { get; set; } |  |
-| [BlockModelSegregated](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockmodelsegregated) { get; set; } |  |
-| [CadBlockNameEntity](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/cadblocknameentity) { get; set; } |  |
-| [CadBlockTableObject](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/cadblocktableobject) { get; set; } |  |
-| [CadEndBlockNameEntity](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/cadendblocknameentity) { get; set; } |  |
-| [Description](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/description) { get; set; } |  |
-| [EndBlockAttribute370](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute370) { get; set; } |  |
-| [EndBlockAttribute420](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute420) { get; set; } |  |
-| [EndBlockAttribute48](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute48) { get; set; } |  |
-| [EndBlockAttribute6](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute6) { get; set; } |  |
-| [EndBlockAttribute62](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute62) { get; set; } |  |
-| [EndBlockHandle](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockhandle) { get; set; } |  |
-| [EndBlockLayerName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblocklayername) { get; set; } |  |
-| [EndBlockModelSegregated](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockmodelsegregated) { get; set; } |  |
-| [Entities](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/entities) { get; set; } |  |
-| [Flags](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/flags) { get; set; } |  |
-| [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/layername) { get; set; } |  |
-| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/name) { get; set; } |  |
-| [OriginalBlockName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/originalblockname) { get; } |  |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/softowner) { get; set; } |  |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/xdatacontainer) { get; set; } |  |
-| [XRefPathName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/xrefpathname) { get; set; } |  |
+| [AttDefs](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/attdefs/) { get; } | 获取属性定义 |
+| [Attribute6](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/attribute6/) { get; set; } | 获取或设置 attribute6。 |
+| [Attribute71](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/attribute71/) { get; set; } | 获取或设置属性 71。 |
+| [BasePoint](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/basepoint/) { get; set; } | 获取或设置基点。 |
+| [BlockAttribute370](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute370/) { get; set; } | 获取或设置块属性 370。 |
+| [BlockAttribute420](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute420/) { get; set; } | 获取或设置块属性 420。 |
+| [BlockAttribute48](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute48/) { get; set; } | 获取或设置块属性48。 |
+| [BlockAttribute62](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockattribute62/) { get; set; } | 获取或设置块属性 62。 |
+| [BlockHandle](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockhandle/) { get; set; } | 获取或设置句柄。 |
+| [BlockModelSegregated](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/blockmodelsegregated/) { get; set; } | 获取或设置一个值，指示是否 [model segregated]。 |
+| [CadBlockNameEntity](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/cadblocknameentity/) { get; set; } | 关联的块名称实体 |
+| [CadBlockTableObject](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/cadblocktableobject/) { get; set; } | 关联的块表对象 |
+| [CadEndBlockNameEntity](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/cadendblocknameentity/) { get; set; } | 关联的结束块名称实体 |
+| [Description](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/description/) { get; set; } | 获取或设置描述。 |
+| [EndBlockAttribute370](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute370/) { get; set; } | 获取或设置结束块属性 370。 |
+| [EndBlockAttribute420](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute420/) { get; set; } | 获取或设置块属性 420。 |
+| [EndBlockAttribute48](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute48/) { get; set; } | 获取或设置结束块属性 48。 |
+| [EndBlockAttribute6](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute6/) { get; set; } | 获取或设置结束块属性 6。 |
+| [EndBlockAttribute62](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockattribute62/) { get; set; } | 获取或设置结束块属性 62。 |
+| [EndBlockHandle](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockhandle/) { get; set; } | 获取或设置句柄2。 |
+| [EndBlockLayerName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblocklayername/) { get; set; } | 获取或设置块图层的结束名称。 |
+| [EndBlockModelSegregated](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/endblockmodelsegregated/) { get; set; } | 获取或设置一个值，指示是否 [end block model segregated]。 |
+| [Entities](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/entities/) { get; set; } | 获取或设置实体。 |
+| [Flags](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/flags/) { get; set; } | 获取或设置标志。 |
+| [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/layername/) { get; set; } | 获取或设置图层。 |
+| [Name](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/name/) { get; set; } | 获取或设置名称。 |
+| [OriginalBlockName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/originalblockname/) { get; } | 原始动态块的名称，如果不是来源于动态块，则为实际块名称。 |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/softowner/) { get; set; } | 获取或设置软所有者。 |
+| [XRefPathName](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/xrefpathname/) { get; set; } | 获取或设置 XRef 路径。 |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/xdatacontainer/) { get; set; } | 获取或设置 xdata 容器。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AddEntity](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/addentity)(CadBaseEntity) |  |
+| [AddEntity](../../aspose.cad.fileformats.cad.cadobjects/cadblockentity/addentity/)(CadEntityBase) | 添加实体。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects)
-* 部件 [Aspose.CAD](../../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->

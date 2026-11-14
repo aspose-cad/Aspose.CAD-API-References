@@ -1,12 +1,17 @@
 ---
-title: Rectangle
-second_title: Aspose.CAD for .NET API 参考
-description: 
+title: "Rectangle 结构体"
+linktitle: "Rectangle"
+articleTitle: "Rectangle"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.Rectangle 结构体。存储一组四个整数，表示矩形的位置和大小。"
 type: docs
-weight: 30250
-url: /zh/net/aspose.cad/rectangle/
+weight: 760
+url: "/net/aspose.cad/rectangle/"
+product_version: "26.9"
 ---
-## Rectangle structure
+## Rectangle struct
+
+存储一组四个整数，表示矩形的位置和大小。
 
 ```csharp
 public struct Rectangle
@@ -14,59 +19,62 @@ public struct Rectangle
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Rectangle](rectangle#constructor)(Point, Size) |  |
-| [Rectangle](rectangle#constructor_1)(int, int, int, int) |  |
+| [Rectangle](rectangle/)(int, int, int, int) | 使用指定的位置和大小初始化 `Rectangle` 结构体的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Empty](../../aspose.cad/rectangle/empty) { get; } |  |
-| [Bottom](../../aspose.cad/rectangle/bottom) { get; set; } |  |
-| [Height](../../aspose.cad/rectangle/height) { get; set; } |  |
-| [IsEmpty](../../aspose.cad/rectangle/isempty) { get; } |  |
-| [Left](../../aspose.cad/rectangle/left) { get; set; } |  |
-| [Location](../../aspose.cad/rectangle/location) { get; set; } |  |
-| [Right](../../aspose.cad/rectangle/right) { get; set; } |  |
-| [Size](../../aspose.cad/rectangle/size) { get; set; } |  |
-| [Top](../../aspose.cad/rectangle/top) { get; set; } |  |
-| [Width](../../aspose.cad/rectangle/width) { get; set; } |  |
-| [X](../../aspose.cad/rectangle/x) { get; set; } |  |
-| [Y](../../aspose.cad/rectangle/y) { get; set; } |  |
+| Bottom { get; set; } | 获取或设置此 `Rectangle` 结构体的 y 坐标，该坐标是 [`Y`](./y/) 和 [`Height`](./height/) 属性值的和。 |
+| Empty { get; } | 获取一个新的 `Rectangle` 结构体实例，其 [`X`](./x/)、[`Y`](./y/)、[`Width`](./width/) 和 [`Height`](./height/) 值均为零。 |
+| Height { get; set; } | 获取或设置此 `Rectangle` 结构体的高度。 |
+| IsEmpty { get; } | 获取一个值，指示此 `Rectangle` 的所有数值属性是否为零。 |
+| Left { get; set; } | 获取或设置此 `Rectangle` 结构体左边缘的 x 坐标。 |
+| Location { get; set; } | 获取或设置此 `Rectangle` 结构体左上角的坐标。 |
+| Right { get; set; } | 获取或设置此 `Rectangle` 结构体的 x 坐标，该坐标是 [`X`](./x/) 和 [`Width`](./width/) 属性值的和。 |
+| Size { get; set; } | 获取或设置此 `Rectangle` 的大小。 |
+| Top { get; set; } | 获取或设置此 `Rectangle` 结构体顶部边缘的 y 坐标。 |
+| Width { get; set; } | 获取或设置此 `Rectangle` 结构体的宽度。 |
+| X { get; set; } | 获取或设置此 `Rectangle` 结构左上角的 x 坐标。 |
+| Y { get; set; } | 获取或设置此 `Rectangle` 结构左上角的 y 坐标。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Ceiling](../../aspose.cad/rectangle/ceiling)(RectangleF) |  |
-| static [FromLeftTopRightBottom](../../aspose.cad/rectangle/fromlefttoprightbottom)(int, int, int, int) |  |
-| static [FromPoints](../../aspose.cad/rectangle/frompoints)(Point, Point) |  |
-| static [Inflate](../../aspose.cad/rectangle/inflate)(Rectangle, int, int) |  |
-| static [Intersect](../../aspose.cad/rectangle/intersect)(Rectangle, Rectangle) |  |
-| static [Round](../../aspose.cad/rectangle/round)(RectangleF) |  |
-| static [Truncate](../../aspose.cad/rectangle/truncate)(RectangleF) |  |
-| static [Union](../../aspose.cad/rectangle/union)(Rectangle, Rectangle) |  |
-| [Contains](../../aspose.cad/rectangle/contains#contains)(Point) |  |
-| [Contains](../../aspose.cad/rectangle/contains#contains_1)(Rectangle) |  |
-| [Contains](../../aspose.cad/rectangle/contains#contains_2)(int, int) |  |
-| override [Equals](../../aspose.cad/rectangle/equals)(object) |  |
-| override [GetHashCode](../../aspose.cad/rectangle/gethashcode)() |  |
-| [Inflate](../../aspose.cad/rectangle/inflate#inflate)(Size) |  |
-| [Inflate](../../aspose.cad/rectangle/inflate#inflate_1)(int, int) |  |
-| [Intersect](../../aspose.cad/rectangle/intersect)(Rectangle) |  |
-| [IntersectsWith](../../aspose.cad/rectangle/intersectswith)(Rectangle) |  |
-| [Normalize](../../aspose.cad/rectangle/normalize)() |  |
-| [Offset](../../aspose.cad/rectangle/offset#offset)(Point) |  |
-| [Offset](../../aspose.cad/rectangle/offset#offset_1)(int, int) |  |
-| override [ToString](../../aspose.cad/rectangle/tostring)() |  |
-| [operator ==](../../aspose.cad/rectangle/op_equality) |  |
-| [operator !=](../../aspose.cad/rectangle/op_inequality) |  |
+| Ceiling(RectangleF) | 将指定的 [`RectangleF`](../rectanglef/) 结构转换为 `Rectangle` 结构，方法是将 [`RectangleF`](../rectanglef/) 的值向上取整为下一个整数。 |
+| Contains(Point) | 确定指定的点是否包含在此 `Rectangle` 结构中。 |
+| Contains(Rectangle) | 确定由 *rect* 表示的矩形区域是否完全包含在此 `Rectangle` 结构中。 |
+| Contains(int, int) | 确定指定的点是否包含在此 `Rectangle` 结构中。 |
+| Equals(object) | 测试 *obj* 是否为具有与此 `Rectangle` 结构相同位置和大小的 `Rectangle` 结构。 |
+| FromLeftTopRightBottom(int, int, int, int) | 使用指定的边缘位置创建一个 `Rectangle` 结构。 |
+| FromPoints(Point, Point) | 创建一个由指定的两个点构成的新 `Rectangle`。创建的 `Rectangle` 的两条垂直边将等于传入的 *point1* 和 *point2*。这些通常是相对的顶点。 |
+| GetHashCode() | 返回此 `Rectangle` 结构的哈希码。 |
+| Inflate(Size) | 按指定的量膨胀此 `Rectangle`。 |
+| Inflate(int, int) | 按指定的量膨胀此 `Rectangle`。 |
+| Inflate(Rectangle, int, int) | 创建并返回指定 `Rectangle` 结构的膨胀副本。该副本按指定的量进行膨胀。原始 `Rectangle` 结构保持不变。 |
+| Intersect(Rectangle) | 用自身与指定的 `Rectangle` 的交集替换此 `Rectangle`。 |
+| Intersect(Rectangle, Rectangle) | 返回一个第三个 `Rectangle` 结构，表示两个其他 `Rectangle` 结构的交集。如果没有交集，则返回一个空的 `Rectangle`。 |
+| IntersectsWith(Rectangle) | 确定此矩形是否与 *rect* 相交。 |
+| Normalize() | 通过使其宽度和高度为正、左侧小于右侧、顶部小于底部来标准化矩形。 |
+| Offset(Point) | 按指定的量调整此矩形的位置。 |
+| Offset(int, int) | 按指定的量调整此矩形的位置。 |
+| Round(RectangleF) | 将指定的 [`RectangleF`](../rectanglef/) 转换为 `Rectangle`，通过将 [`RectangleF`](../rectanglef/) 的值四舍五入到最近的整数值。 |
+| ToString() | 将此 `Rectangle` 的属性转换为人类可读的字符串。 |
+| Truncate(RectangleF) | 将指定的 [`RectangleF`](../rectanglef/) 转换为 `Rectangle`，通过截断 [`RectangleF`](../rectanglef/) 的值。 |
+| Union(Rectangle, Rectangle) | 获取一个包含两个 `Rectangle` 结构并集的 `Rectangle` 结构。 |
 
-### 也可以看看
+## Operators
 
-* 命名空间 [Aspose.CAD](../../aspose.cad)
-* 部件 [Aspose.CAD](../../)
+| 名称 | 描述 |
+| --- | --- |
+| 运算符 == | 测试两个 `Rectangle` 结构的位置和大小是否相等。 |
+| 运算符 != | 测试两个 `Rectangle` 结构的位置或大小是否不同。 |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+### 另请参阅
+
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
+

@@ -1,0 +1,26 @@
+---
+title: "StepTrimmedCurve.ItemType"
+linktitle: "ItemType"
+articleTitle: "ItemType"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "StepTrimmedCurve 属性。"
+type: docs
+weight: 30
+url: "/net/aspose.cad.fileformats.stp.items/steptrimmedcurve/itemtype/"
+product_version: "26.9"
+---
+## StepTrimmedCurve.ItemType property
+
+
+
+```csharp
+public override StepItemType ItemType { get; }
+```
+
+### 另请参阅
+
+* enum [StepItemType](../../stepitemtype/)
+* class [StepTrimmedCurve](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
+

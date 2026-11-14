@@ -1,0 +1,26 @@
+---
+title: "IfcProxy2X3.Tag"
+linktitle: "标签"
+articleTitle: "标签"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "IfcProxy2X3 属性。"
+type: docs
+weight: 30
+url: "/net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcproxy2x3/tag/"
+product_version: "26.9"
+---
+## IfcProxy2X3.Tag property
+
+
+
+```csharp
+public IfcLabel2X3 Tag { get; set; }
+```
+
+### 另请参阅
+
+* class [IfcLabel2X3](../../../aspose.cad.fileformats.ifc.ifc2x3.types/ifclabel2x3/)
+* class [IfcProxy2X3](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
+* assembly [Aspose.CAD](../../../)
+

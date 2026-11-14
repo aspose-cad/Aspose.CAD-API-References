@@ -1,348 +1,355 @@
 ---
-title: CadHeaderAttribute
-second_title: Aspose.CAD for .NET API 参考
-description: 
+title: "CadHeaderAttribute 枚举"
+linktitle: "CadHeaderAttribute"
+articleTitle: "CadHeaderAttribute"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.FileFormats.Cad.CadConsts.CadHeaderAttribute 枚举。包含 标头 变量 名称"
 type: docs
-weight: 1280
-url: /zh/net/aspose.cad.fileformats.cad.cadconsts/cadheaderattribute/
+weight: 190
+url: "/net/aspose.cad.fileformats.cad.cadconsts/cadheaderattribute/"
+product_version: "26.9"
 ---
 ## CadHeaderAttribute enumeration
+
+包含标题变量名称
 
 ```csharp
 public enum CadHeaderAttribute
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| NONE | `0` |  |
-| ACADVER | `1` |  |
-| ACADMAINTVER | `2` |  |
-| AUTHOR | `3` |  |
-| KEYWORDS | `4` |  |
-| DWGCODEPAGE | `5` |  |
-| TITLE | `6` |  |
-| SUBJECT | `7` |  |
-| DRAGMODE | `8` |  |
-| DRAGVS | `9` |  |
-| OSMODE | `10` |  |
-| BLIPMODE | `11` |  |
-| COORDS | `12` |  |
-| ATTDIA | `13` |  |
-| ATTREQ | `14` |  |
-| HANDLING | `15` |  |
-| LASTSAVEDBY | `16` |  |
-| CUSTOMPROPERTYTAG | `17` |  |
-| CUSTOMPROPERTY | `18` |  |
-| INSBASE | `19` |  |
-| REQUIREDVERSIONS | `20` |  |
-| EXTMIN | `21` |  |
-| EXTMAX | `22` |  |
-| LIMMIN | `23` |  |
-| LIMMAX | `24` |  |
-| ORTHOMODE | `25` |  |
-| REGENMODE | `26` |  |
-| FILLMODE | `27` |  |
-| QTEXTMODE | `28` |  |
-| MIRRTEXT | `29` |  |
-| LTSCALE | `30` |  |
-| ATTMODE | `31` |  |
-| TEXTSIZE | `32` |  |
-| TRACEWID | `33` |  |
-| TEXTSTYLE | `34` |  |
-| CLAYER | `35` |  |
-| CELTYPE | `36` |  |
-| CECOLOR | `37` |  |
-| CELTSCALE | `38` |  |
-| COMMENTS | `39` |  |
-| DELOBJ | `40` |  |
-| DISPSILH | `41` |  |
-| DIMSCALE | `42` |  |
-| DIMASZ | `43` |  |
-| DIMEXO | `44` |  |
-| DIMDLI | `45` |  |
-| DIMRND | `46` |  |
-| DIMDLE | `47` |  |
-| DIMEXE | `48` |  |
-| DIMTP | `49` |  |
-| DIMTM | `50` |  |
-| DIMTXT | `51` |  |
-| DIMCEN | `52` |  |
-| DIMTSZ | `53` |  |
-| DIMTOL | `54` |  |
-| DIMLIM | `55` |  |
-| DIMTIH | `56` |  |
-| DIMTOH | `57` |  |
-| DIMSE1 | `58` |  |
-| DIMSE2 | `59` |  |
-| DIMTAD | `60` |  |
-| DIMZIN | `61` |  |
-| DIMBLK | `62` |  |
-| DIMASO | `63` |  |
-| DIMSHO | `64` |  |
-| DIMPOST | `65` |  |
-| DIMAPOST | `66` |  |
-| DIMALT | `67` |  |
-| DIMALTD | `68` |  |
-| DIMALTF | `69` |  |
-| DIMLFAC | `70` |  |
-| DIMTOFL | `71` |  |
-| DIMTVP | `72` |  |
-| DIMTIX | `73` |  |
-| DIMSOXD | `74` |  |
-| DIMSAH | `75` |  |
-| DIMBLK1 | `76` |  |
-| DIMBLK2 | `77` |  |
-| DIMSTYLE | `78` |  |
-| DIMCLRD | `79` |  |
-| DIMCLRE | `80` |  |
-| DIMCLRT | `81` |  |
-| DIMTFAC | `82` |  |
-| DIMGAP | `83` |  |
-| DIMJUST | `84` |  |
-| DIMSD1 | `85` |  |
-| DIMSD2 | `86` |  |
-| DIMTOLJ | `87` |  |
-| DIMTZIN | `88` |  |
-| DIMALTZ | `89` |  |
-| DIMALTTZ | `90` |  |
-| DIMFIT | `91` |  |
-| DIMUPT | `92` |  |
-| DIMDEC | `93` |  |
-| DIMTDEC | `94` |  |
-| DIMALTU | `95` |  |
-| DIMALTTD | `96` |  |
-| DIMTXSTY | `97` |  |
-| DIMAUNIT | `98` |  |
-| DIMADEC | `99` |  |
-| DIMALTRND | `100` |  |
-| DIMAZIN | `101` |  |
-| DIMDSEP | `102` |  |
-| DIMATFIT | `103` |  |
-| DIMFRAC | `104` |  |
-| DIMFAC | `105` |  |
-| DIMLDRBLK | `106` |  |
-| DIMLUNIT | `107` |  |
-| DIMLWD | `108` |  |
-| DIMLWE | `109` |  |
-| DIMTMOVE | `110` |  |
-| DIMFXL | `111` |  |
-| DIMFXLON | `112` |  |
-| DIMJOGANG | `113` |  |
-| DIMTFILL | `114` |  |
-| DIMTFILLCLR | `115` |  |
-| DIMARCSYM | `116` |  |
-| DIMLTYPE | `117` |  |
-| DIMLTEX1 | `118` |  |
-| DIMLTEX2 | `119` |  |
-| DIMTXTDIRECTION | `120` |  |
-| LUNITS | `121` |  |
-| LUPREC | `122` |  |
-| SKETCHINC | `123` |  |
-| FILLETRAD | `124` |  |
-| AUNITS | `125` |  |
-| AUPREC | `126` |  |
-| MENU | `127` |  |
-| ELEVATION | `128` |  |
-| PELEVATION | `129` |  |
-| THICKNESS | `130` |  |
-| LIMCHECK | `131` |  |
-| CHAMFERA | `132` |  |
-| CHAMFERB | `133` |  |
-| CHAMFERC | `134` |  |
-| CHAMFERD | `135` |  |
-| SKPOLY | `136` |  |
-| TDCREATE | `137` |  |
-| TDUCREATE | `138` |  |
-| TDUPDATE | `139` |  |
-| TDUUPDATE | `140` |  |
-| TDINDWG | `141` |  |
-| TDUSRTIMER | `142` |  |
-| USRTIMER | `143` |  |
-| ANGBASE | `144` |  |
-| ANGDIR | `145` |  |
-| PDMODE | `146` |  |
-| PDSIZE | `147` |  |
-| PLINEWID | `148` |  |
-| SPLFRAME | `149` |  |
-| SPLINETYPE | `150` |  |
-| SPLINESEGS | `151` |  |
-| HANDSEED | `152` |  |
-| SURFTAB1 | `153` |  |
-| SURFTAB2 | `154` |  |
-| SURFTYPE | `155` |  |
-| SURFU | `156` |  |
-| SURFV | `157` |  |
-| UCSBASE | `158` |  |
-| UCSNAME | `159` |  |
-| UCSORG | `160` |  |
-| UCSXDIR | `161` |  |
-| UCSYDIR | `162` |  |
-| UCSORTHOREF | `163` |  |
-| UCSORTHOVIEW | `164` |  |
-| UCSORGTOP | `165` |  |
-| UCSORGBOTTOM | `166` |  |
-| UCSORGLEFT | `167` |  |
-| UCSORGRIGHT | `168` |  |
-| UCSORGFRONT | `169` |  |
-| UCSORGBACK | `170` |  |
-| PUCSBASE | `171` |  |
-| PUCSNAME | `172` |  |
-| PUCSORG | `173` |  |
-| PUCSXDIR | `174` |  |
-| PUCSYDIR | `175` |  |
-| PUCSORTHOREF | `176` |  |
-| PUCSORTHOVIEW | `177` |  |
-| PUCSORGTOP | `178` |  |
-| PUCSORGBOTTOM | `179` |  |
-| PUCSORGLEFT | `180` |  |
-| PUCSORGRIGHT | `181` |  |
-| PUCSORGFRONT | `182` |  |
-| PUCSORGBACK | `183` |  |
-| USERI1 | `184` |  |
-| USERI2 | `185` |  |
-| USERI3 | `186` |  |
-| USERI4 | `187` |  |
-| USERI5 | `188` |  |
-| USERR1 | `189` |  |
-| USERR2 | `190` |  |
-| USERR3 | `191` |  |
-| USERR4 | `192` |  |
-| USERR5 | `193` |  |
-| WORLDVIEW | `194` |  |
-| SAVEIMAGES | `195` |  |
-| SHADEDGE | `196` |  |
-| SHADEDIF | `197` |  |
-| TILEMODE | `198` |  |
-| MAXACTVP | `199` |  |
-| PICKSTYLE | `200` |  |
-| PINSBASE | `201` |  |
-| PLIMCHECK | `202` |  |
-| PEXTMIN | `203` |  |
-| PEXTMAX | `204` |  |
-| PLIMMIN | `205` |  |
-| PLIMMAX | `206` |  |
-| UNITMODE | `207` |  |
-| VISRETAIN | `208` |  |
-| PLINEGEN | `209` |  |
-| PSLTSCALE | `210` |  |
-| TREEDEPTH | `211` |  |
-| CMLSTYLE | `212` |  |
-| CMLJUST | `213` |  |
-| CMLSCALE | `214` |  |
-| PROXYGRAPHICS | `215` |  |
-| MEASUREMENT | `216` |  |
-| CELWEIGHT | `217` |  |
-| CEPSNID | `218` |  |
-| ENDCAPS | `219` |  |
-| JOINSTYLE | `220` |  |
-| LWDISPLAY | `221` |  |
-| INSUNITS | `222` |  |
-| HYPERLINKBASE | `223` |  |
-| STYLESHEET | `224` |  |
-| XEDIT | `225` |  |
-| CEPSNTYPE | `226` |  |
-| PSTYLEMODE | `227` |  |
-| FINGERPRINTGUID | `228` |  |
-| VERSIONGUID | `229` |  |
-| EXTNAMES | `230` |  |
-| PSVPSCALE | `231` |  |
-| OLESTARTUP | `232` |  |
-| SORTENTS | `233` |  |
-| INDEXCTL | `234` |  |
-| HIDETEXT | `235` |  |
-| XCLIPFRAME | `236` |  |
-| HALOGAP | `237` |  |
-| OBSCOLOR | `238` |  |
-| OBSLTYPE | `239` |  |
-| INTERSECTIONDISPLAY | `240` |  |
-| INTERSECTIONCOLOR | `241` |  |
-| DIMASSOC | `242` |  |
-| PROJECTNAME | `243` |  |
-| CAMERADISPLAY | `244` |  |
-| LENSLENGTH | `245` |  |
-| CAMERAHEIGHT | `246` |  |
-| STEPSPERSEC | `247` |  |
-| STEPSIZE | `248` |  |
-| _3DDWFPREC | `249` |  |
-| PSOLWIDTH | `250` |  |
-| PSOLHEIGHT | `251` |  |
-| LOFTANG1 | `252` |  |
-| LOFTANG2 | `253` |  |
-| LOFTMAG1 | `254` |  |
-| LOFTMAG2 | `255` |  |
-| LOFTPARAM | `256` |  |
-| LOFTNORMALS | `257` |  |
-| LATITUDE | `258` |  |
-| LONGITUDE | `259` |  |
-| NORTHDIRECTION | `260` |  |
-| TIMEZONE | `261` |  |
-| LIGHTGLYPHDISPLAY | `262` |  |
-| TILEMODELIGHTSYNCH | `263` |  |
-| CMATERIAL | `264` |  |
-| SOLIDHIST | `265` |  |
-| SHOWHIST | `266` |  |
-| DWFFRAME | `267` |  |
-| DGNFRAME | `268` |  |
-| REALWORLDSCALE | `269` |  |
-| INTERFERECOLOR | `270` |  |
-| INTERFEREOBJVS | `271` |  |
-| INTERFEREVPVS | `272` |  |
-| CSHADOW | `273` |  |
-| SHADOWPLANELOCATION | `274` |  |
-| WFPREC3DD | `275` |  |
-| FPREC3DD | `276` |  |
-| DIMUNIT | `277` |  |
-| VIEWCTR | `278` |  |
-| VIEWSIZE | `279` |  |
-| REVISIONNUMBER | `280` |  |
-| ISOLINES | `281` |  |
-| TEXTQLTY | `282` |  |
-| FACETRES | `283` |  |
-| PELLIPSE | `284` |  |
-| BLOCK_CONTROL_OBJECT | `285` |  |
-| LAYER_CONTROL_OBJECT | `286` |  |
-| STYLE_CONTROL_OBJECT | `287` |  |
-| LINETYPE_CONTROL_OBJECT | `288` |  |
-| VIEW_CONTROL_OBJECT | `289` |  |
-| UCS_CONTROL_OBJECT | `290` |  |
-| VPORT_CONTROL_OBJECT | `291` |  |
-| APPID_CONTROL_OBJECT | `292` |  |
-| SNAPMODE | `293` |  |
-| SNAPUNIT | `294` |  |
-| SNAPBASE | `295` |  |
-| SNAPANG | `296` |  |
-| SNAPSTYL | `297` |  |
-| SNAPISOPAIR | `298` |  |
-| GRIDMODE | `299` |  |
-| GRIDUNIT | `300` |  |
-| DIMSTYLE_CONTROL_OBJECT | `301` |  |
-| ACAD_GROUP | `302` |  |
-| ACAD_MLINESTYLE | `303` |  |
-| NAMED_OBJECTS | `304` |  |
-| LTYPE_BLOCK_RECORD_PAPER_SPACE | `305` |  |
-| LTYPE_BLOCK_RECORD_MODEL_SPACE | `306` |  |
-| LTYPE_BYLAYER | `307` |  |
-| LTYPE_BYBLOCK | `308` |  |
-| LTYPE_CONTINUOUS | `309` |  |
-| MENUNAME | `310` |  |
-| DICTIONARY_LAYOUTS | `311` |  |
-| DICTIONARY_PLOTSETTINGS | `312` |  |
-| DICTIONARY_PLOTSTYLES | `313` |  |
-| DICTIONARY_MATERIALS | `314` |  |
-| DICTIONARY_COLORS | `315` |  |
-| DICTIONARY_VISUALSTYLE | `316` |  |
-| CURRENT_VIEWPORT | `317` |  |
-| VIEWPORT_ENTITY_HEADER_CONTROL_OBJECT | `318` |  |
-| DIMALTMZF | `319` |  |
-| DIMALTMZS | `320` |  |
-| DIMMZF | `321` |  |
-| DIMMZS | `322` |  |
+| NONE | `0` | 默认属性 |
+| ACADVER | `1` | acad 版本。 |
+| ACADMAINTVER | `2` | acadmaintver。 |
+| AUTHOR | `3` | 作者 标头 |
+| KEYWORDS | `4` | 关键字 标头 |
+| DWGCODEPAGE | `5` | dwgcodepage。 |
+| TITLE | `6` | 标题 标头 |
+| SUBJECT | `7` | 主题 标头 |
+| DRAGMODE | `8` | Dragmode。 |
+| DRAGVS | `9` | Dragvs。 |
+| OSMODE | `10` | Osmode。 |
+| BLIPMODE | `11` | Blipmode。 |
+| COORDS | `12` | Coords。 |
+| ATTDIA | `13` | Attdia。 |
+| ATTREQ | `14` | Attreq。 |
+| HANDLING | `15` | Handling。 |
+| LASTSAVEDBY | `16` | lastsavedby。 |
+| CUSTOMPROPERTYTAG | `17` | custompropertytag |
+| CUSTOMPROPERTY | `18` | customproperty |
+| INSBASE | `19` | insbase。 |
+| REQUIREDVERSIONS | `20` | requiredversions |
+| EXTMIN | `21` | extmin。 |
+| EXTMAX | `22` | 该 extmax。 |
+| LIMMIN | `23` | 该 limmin。 |
+| LIMMAX | `24` | 该 limmax。 |
+| ORTHOMODE | `25` | 该 orthomode。 |
+| REGENMODE | `26` | 该 regenmode。 |
+| FILLMODE | `27` | 该 fillmode。 |
+| QTEXTMODE | `28` | 该 qtextmode。 |
+| MIRRTEXT | `29` | 该 mirrtext。 |
+| LTSCALE | `30` | 该 ltscale。 |
+| ATTMODE | `31` | 该 attmode。 |
+| TEXTSIZE | `32` | 该 textsize。 |
+| TRACEWID | `33` | 该 tracewid。 |
+| TEXTSTYLE | `34` | 该 textstyle。 |
+| CLAYER | `35` | 该 clayer。 |
+| CELTYPE | `36` | 该 celtype。 |
+| CECOLOR | `37` | 该 cecolor。 |
+| CELTSCALE | `38` | 该 celtscale。 |
+| COMMENTS | `39` | 该 comments |
+| DELOBJ | `40` | 该 delobj |
+| DISPSILH | `41` | 该 dispsilh。 |
+| DIMSCALE | `42` | 该 dimscale。 |
+| DIMASZ | `43` | 该 dimasz。 |
+| DIMEXO | `44` | 该 dimexo。 |
+| DIMDLI | `45` | 该 dimdli。 |
+| DIMRND | `46` | 该 dimrnd。 |
+| DIMDLE | `47` | 该 dimdle。 |
+| DIMEXE | `48` | 该 dimexe。 |
+| DIMTP | `49` | 该 dimtp。 |
+| DIMTM | `50` | 该 dimtm。 |
+| DIMTXT | `51` | 该 dimtxt。 |
+| DIMCEN | `52` | 该 dimcen。 |
+| DIMTSZ | `53` | 该 dimtsz。 |
+| DIMTOL | `54` | 该 dimtol。 |
+| DIMLIM | `55` | 该 dimlim。 |
+| DIMTIH | `56` | 该 dimtih。 |
+| DIMTOH | `57` | 该 dimtoh。 |
+| DIMSE1 | `58` | 该 dims e 1。 |
+| DIMSE2 | `59` | 该 dims e 2。 |
+| DIMTAD | `60` | 该 dimtad。 |
+| DIMZIN | `61` | 该 dimzin。 |
+| DIMBLK | `62` | 该 dimblk。 |
+| DIMASO | `63` | 该 dimaso。 |
+| DIMSHO | `64` | 该 dimsho。 |
+| DIMPOST | `65` | 该 dimpost。 |
+| DIMAPOST | `66` | 该 dimapost。 |
+| DIMALT | `67` | 该 dimalt。 |
+| DIMALTD | `68` | 该 dimaltd。 |
+| DIMALTF | `69` | 该 dimaltf。 |
+| DIMLFAC | `70` | 该 dimlfac。 |
+| DIMTOFL | `71` | 该 dimtofl。 |
+| DIMTVP | `72` | 该 dimtvp. |
+| DIMTIX | `73` | 该 dimtix. |
+| DIMSOXD | `74` | 该 dimsoxd. |
+| DIMSAH | `75` | 该 dimsah. |
+| DIMBLK1 | `76` | 该 dimbl k 1. |
+| DIMBLK2 | `77` | 该 dimbl k 2. |
+| DIMSTYLE | `78` | 该 dimstyle. |
+| DIMCLRD | `79` | 该 dimclrd. |
+| DIMCLRE | `80` | 该 dimclre. |
+| DIMCLRT | `81` | 该 dimclrt. |
+| DIMTFAC | `82` | 该 dimtfac. |
+| DIMGAP | `83` | 该 dimgap. |
+| DIMJUST | `84` | 该 dimjust. |
+| DIMSD1 | `85` | 该 dims d 1. |
+| DIMSD2 | `86` | 该 dims d 2. |
+| DIMTOLJ | `87` | 该 dimtolj. |
+| DIMTZIN | `88` | 该 dimtzin. |
+| DIMALTZ | `89` | 该 dimaltz. |
+| DIMALTTZ | `90` | 该 dimalttz. |
+| DIMFIT | `91` | 该 dimfit. |
+| DIMUPT | `92` | 该 dimupt. |
+| DIMDEC | `93` | 该 dimdec. |
+| DIMTDEC | `94` | 该 dimtdec. |
+| DIMALTU | `95` | 该 dimaltu. |
+| DIMALTTD | `96` | 该 dimalttd. |
+| DIMTXSTY | `97` | 该 dimtxsty。 |
+| DIMAUNIT | `98` | 该 dimaunit。 |
+| DIMADEC | `99` | 该 dimadec。 |
+| DIMALTRND | `100` | 该 dimaltrnd。 |
+| DIMAZIN | `101` | 该 dimazin。 |
+| DIMDSEP | `102` | 该 dimdsep。 |
+| DIMATFIT | `103` | 该 dimatfit。 |
+| DIMFRAC | `104` | 该 dimfrac。 |
+| DIMFAC | `105` | 该 dimfac。 |
+| DIMLDRBLK | `106` | 该 dimldrblk。 |
+| DIMLUNIT | `107` | 该 dimlunit。 |
+| DIMLWD | `108` | 该 dimlwd。 |
+| DIMLWE | `109` | 该 dimlwe。 |
+| DIMTMOVE | `110` | 该 dimtmove。 |
+| DIMFXL | `111` | 该 dimfxl。 |
+| DIMFXLON | `112` | 该 dimfxlon。 |
+| DIMJOGANG | `113` | 该 dimjogang。 |
+| DIMTFILL | `114` | 该 dimtfill。 |
+| DIMTFILLCLR | `115` | 该 dimtfillclr。 |
+| DIMARCSYM | `116` | 该 dimarcsym。 |
+| DIMLTYPE | `117` | 该 dimltype。 |
+| DIMLTEX1 | `118` | 该 dimlte x 1。 |
+| DIMLTEX2 | `119` | 该 dimlte x 2。 |
+| DIMTXTDIRECTION | `120` | 该 dimtxtdirection。 |
+| LUNITS | `121` | 该 lunits。 |
+| LUPREC | `122` | 该 luprec. |
+| SKETCHINC | `123` | 该 sketchinc. |
+| FILLETRAD | `124` | 该 filletrad. |
+| AUNITS | `125` | 该 aunits. |
+| AUPREC | `126` | 该 auprec. |
+| MENU | `127` | 该 menu attribute. |
+| ELEVATION | `128` | 该 elevation. |
+| PELEVATION | `129` | 该 pelevation. |
+| THICKNESS | `130` | 该 thickness. |
+| LIMCHECK | `131` | 该 limcheck. |
+| CHAMFERA | `132` | 该 chamfera. |
+| CHAMFERB | `133` | 该 chamferb. |
+| CHAMFERC | `134` | 该 chamferc. |
+| CHAMFERD | `135` | 该 chamferd. |
+| SKPOLY | `136` | 该 skpoly. |
+| TDCREATE | `137` | 该 tdcreate. |
+| TDUCREATE | `138` | 该 tducreate. |
+| TDUPDATE | `139` | 该 tdupdate. |
+| TDUUPDATE | `140` | 该 tduupdate. |
+| TDINDWG | `141` | 该 tdindwg. |
+| TDUSRTIMER | `142` | 该 tdusrtimer. |
+| USRTIMER | `143` | 该 usrtimer. |
+| ANGBASE | `144` | 该 angbase. |
+| ANGDIR | `145` | 该 angdir. |
+| PDMODE | `146` | 该 pdmode. |
+| PDSIZE | `147` | 该 pdsize. |
+| PLINEWID | `148` | 该 plinewid. |
+| SPLFRAME | `149` | 该 splframe. |
+| SPLINETYPE | `150` | 该 splinetype. |
+| SPLINESEGS | `151` | 该 splinesegs. |
+| HANDSEED | `152` | 该 handseed. |
+| SURFTAB1 | `153` | 该 surfta b 1. |
+| SURFTAB2 | `154` | 该 surfta b 2. |
+| SURFTYPE | `155` | 该 surftype. |
+| SURFU | `156` | 该 surfu. |
+| SURFV | `157` | 该 surfv. |
+| UCSBASE | `158` | 该 ucsbase. |
+| UCSNAME | `159` | 该 ucsname. |
+| UCSORG | `160` | 该 ucsorg. |
+| UCSXDIR | `161` | 该 ucsxdir. |
+| UCSYDIR | `162` | 该 ucsydir. |
+| UCSORTHOREF | `163` | 该 ucsorthoref. |
+| UCSORTHOVIEW | `164` | 该 ucsorthoview. |
+| UCSORGTOP | `165` | 该 ucsorgtop. |
+| UCSORGBOTTOM | `166` | 该 ucsorgbottom. |
+| UCSORGLEFT | `167` | 该 ucsorgleft. |
+| UCSORGRIGHT | `168` | 该 ucsorgright. |
+| UCSORGFRONT | `169` | 该 ucsorgfront. |
+| UCSORGBACK | `170` | 该 ucsorgback. |
+| PUCSBASE | `171` | 该 pucsbase. |
+| PUCSNAME | `172` | 该 pucsname。 |
+| PUCSORG | `173` | 该 pucsorg。 |
+| PUCSXDIR | `174` | 该 pucsxdir。 |
+| PUCSYDIR | `175` | 该 pucsydir。 |
+| PUCSORTHOREF | `176` | 该 pucsorthoref。 |
+| PUCSORTHOVIEW | `177` | 该 pucsorthoview。 |
+| PUCSORGTOP | `178` | 该 pucsorgtop。 |
+| PUCSORGBOTTOM | `179` | 该 pucsorgbottom。 |
+| PUCSORGLEFT | `180` | 该 pucsorgleft。 |
+| PUCSORGRIGHT | `181` | 该 pucsorgright。 |
+| PUCSORGFRONT | `182` | 该 pucsorgfront。 |
+| PUCSORGBACK | `183` | 该 pucsorgback。 |
+| USERI1 | `184` | 该 user i 1。 |
+| USERI2 | `185` | 该 user i 2。 |
+| USERI3 | `186` | 该 user i 3。 |
+| USERI4 | `187` | 该 user i 4。 |
+| USERI5 | `188` | 该 user i 5。 |
+| USERR1 | `189` | 该 user r 1。 |
+| USERR2 | `190` | 该 user r 2。 |
+| USERR3 | `191` | 该 user r 3。 |
+| USERR4 | `192` | 该 user r 4。 |
+| USERR5 | `193` | 该 user r 5。 |
+| WORLDVIEW | `194` | 该 worldview。 |
+| SAVEIMAGES | `195` | 该 saveimages |
+| SHADEDGE | `196` | 该 shadedge。 |
+| SHADEDIF | `197` | 该 shadedif。 |
+| TILEMODE | `198` | 该 tilemode。 |
+| MAXACTVP | `199` | 该 maxactvp。 |
+| PICKSTYLE | `200` | 该 pickstyle |
+| PINSBASE | `201` | 该 pinsbase。 |
+| PLIMCHECK | `202` | 该 plimcheck。 |
+| PEXTMIN | `203` | 该 pextmin。 |
+| PEXTMAX | `204` | 该 pextmax。 |
+| PLIMMIN | `205` | 该 plimmin。 |
+| PLIMMAX | `206` | 该 plimmax。 |
+| UNITMODE | `207` | 该 unitmode。 |
+| VISRETAIN | `208` | 该 visretain。 |
+| PLINEGEN | `209` | 该 plinegen。 |
+| PSLTSCALE | `210` | 该 psltscale。 |
+| TREEDEPTH | `211` | 该 treedepth。 |
+| CMLSTYLE | `212` | 该 cmlstyle。 |
+| CMLJUST | `213` | 该 cmljust。 |
+| CMLSCALE | `214` | 该 cmlscale。 |
+| PROXYGRAPHICS | `215` | 该 proxygraphics。 |
+| MEASUREMENT | `216` | 该 measurement。 |
+| CELWEIGHT | `217` | 该 celweight。 |
+| CEPSNID | `218` | 该 cepsnid。 |
+| ENDCAPS | `219` | 该 endcaps。 |
+| JOINSTYLE | `220` | 该 joinstyle。 |
+| LWDISPLAY | `221` | 该 lwdisplay。 |
+| INSUNITS | `222` | 该 insunits。 |
+| HYPERLINKBASE | `223` | 该 hyperlinkbase。 |
+| STYLESHEET | `224` | 该 stylesheet。 |
+| XEDIT | `225` | 该 xedit。 |
+| CEPSNTYPE | `226` | 该 cepsntype。 |
+| PSTYLEMODE | `227` | 该 pstylemode。 |
+| FINGERPRINTGUID | `228` | 该 fingerprintguid。 |
+| VERSIONGUID | `229` | 该 versionguid。 |
+| EXTNAMES | `230` | 该 extnames。 |
+| PSVPSCALE | `231` | 该 psvpscale。 |
+| OLESTARTUP | `232` | 该 olestartup。 |
+| SORTENTS | `233` | 该 sortents。 |
+| INDEXCTL | `234` | 该 indexctl。 |
+| HIDETEXT | `235` | 该 hidetext。 |
+| XCLIPFRAME | `236` | 该 xclipframe。 |
+| HALOGAP | `237` | 该 halogap。 |
+| OBSCOLOR | `238` | 该 obscolor。 |
+| OBSLTYPE | `239` | 该 obsltype。 |
+| INTERSECTIONDISPLAY | `240` | 该 intersectiondisplay。 |
+| INTERSECTIONCOLOR | `241` | 该 intersectioncolor。 |
+| DIMASSOC | `242` | 该 dimassoc。 |
+| PROJECTNAME | `243` | 该 projectname。 |
+| CAMERADISPLAY | `244` | 该 cameradisplay。 |
+| LENSLENGTH | `245` | 该 lenslength。 |
+| CAMERAHEIGHT | `246` | 该 cameraheight。 |
+| STEPSPERSEC | `247` | 该 stepspersec. |
+| STEPSIZE | `248` | 该 stepsize. |
+| _3DDWFPREC | `249` | 该 _3 ddwfprec. |
+| PSOLWIDTH | `250` | 该 psolwidth. |
+| PSOLHEIGHT | `251` | 该 psolheight. |
+| LOFTANG1 | `252` | 该 loftan g 1. |
+| LOFTANG2 | `253` | 该 loftan g 2. |
+| LOFTMAG1 | `254` | 该 loftma g 1. |
+| LOFTMAG2 | `255` | 该 loftma g 2. |
+| LOFTPARAM | `256` | 该 loftparam. |
+| LOFTNORMALS | `257` | 该 loftnormals. |
+| LATITUDE | `258` | 该 latitude. |
+| LONGITUDE | `259` | 该 longitude. |
+| NORTHDIRECTION | `260` | 该 northdirection. |
+| TIMEZONE | `261` | 该 timezone. |
+| LIGHTGLYPHDISPLAY | `262` | 该 lightglyphdisplay. |
+| TILEMODELIGHTSYNCH | `263` | 该 tilemodelightsynch. |
+| CMATERIAL | `264` | 该 cmaterial. |
+| SOLIDHIST | `265` | 该 solidhist. |
+| SHOWHIST | `266` | 该 showhist. |
+| DWFFRAME | `267` | 该 dwfframe. |
+| DGNFRAME | `268` | 该 dgnframe. |
+| REALWORLDSCALE | `269` | 该 realworldscale. |
+| INTERFERECOLOR | `270` | 该 interferecolor. |
+| INTERFEREOBJVS | `271` | 该 interfereobjvs. |
+| INTERFEREVPVS | `272` | 该 interferevpvs. |
+| CSHADOW | `273` | 该 cshadow. |
+| SHADOWPLANELOCATION | `274` | 该 shadowplanelocation. |
+| WFPREC3DD | `275` | 该 wfpre c 3 dd. |
+| FPREC3DD | `276` | 该 fpre c 3 dd. |
+| DIMUNIT | `277` | Dim 单位值. |
+| VIEWCTR | `278` | 该 VIEWCTR |
+| VIEWSIZE | `279` | 该 VIEWSIZE |
+| REVISIONNUMBER | `280` | 该 revisionnumber |
+| ISOLINES | `281` | 该 ISOLINES |
+| TEXTQLTY | `282` | 该 TEXTQLTY |
+| FACETRES | `283` | 该 FACETRES |
+| PELLIPSE | `284` | 该 PELLIPSE |
+| BLOCK_CONTROL_OBJECT | `285` | 该 BLOCK_CONTROL_OBJECT |
+| LAYER_CONTROL_OBJECT | `286` | 该 LAYER_CONTROL_OBJECT |
+| STYLE_CONTROL_OBJECT | `287` | 该 STYLE_CONTROL_OBJECT |
+| LINETYPE_CONTROL_OBJECT | `288` | 该 LINETYPE_CONTROL_OBJECT |
+| VIEW_CONTROL_OBJECT | `289` | 该 VIEW_CONTROL_OBJECT |
+| UCS_CONTROL_OBJECT | `290` | 该 UCS_CONTROL_OBJECT |
+| VPORT_CONTROL_OBJECT | `291` | 该 VPORT_CONTROL_OBJECT |
+| APPID_CONTROL_OBJECT | `292` | 该 APPID_CONTROL_OBJECT |
+| SNAPMODE | `293` | Snapmode |
+| SNAPUNIT | `294` | Snapunit |
+| SNAPBASE | `295` | Snapbase |
+| SNAPANG | `296` | Snapangle |
+| SNAPSTYL | `297` | Snapstyle |
+| SNAPISOPAIR | `298` | Snap iso 对 |
+| GRIDMODE | `299` | 网格模式 |
+| GRIDUNIT | `300` | 网格单位 |
+| DIMSTYLE_CONTROL_OBJECT | `301` | 该 DIMSTYLE_CONTROL_OBJECT |
+| ACAD_GROUP | `302` | 该 DIMSTYLE_CONTROL_OBJECT |
+| ACAD_MLINESTYLE | `303` | 该 DIMSTYLE_CONTROL_OBJECT |
+| NAMED_OBJECTS | `304` | 该 DIMSTYLE_CONTROL_OBJECT |
+| LTYPE_BLOCK_RECORD_PAPER_SPACE | `305` | 该 LTYPE_BLOCK_RECORD_PAPER_SPACE |
+| LTYPE_BLOCK_RECORD_MODEL_SPACE | `306` | 该 DIMSTYLE_CONTROL_OBJECT |
+| LTYPE_BYLAYER | `307` | 该 DIMSTYLE_CONTROL_OBJECT |
+| LTYPE_BYBLOCK | `308` | 该 DIMSTYLE_CONTROL_OBJECT |
+| LTYPE_CONTINUOUS | `309` | 该 DIMSTYLE_CONTROL_OBJECT |
+| MENUNAME | `310` | 该 MENUNAME |
+| DICTIONARY_LAYOUTS | `311` | 该 DICTIONARY_LAYOUTS |
+| DICTIONARY_PLOTSETTINGS | `312` | 该 DICTIONARY_PLOTSETTINGS |
+| DICTIONARY_PLOTSTYLES | `313` | 该 DICTIONARY_PLOTSTYLES |
+| DICTIONARY_MATERIALS | `314` | 该 DICTIONARY_MATERIALS |
+| DICTIONARY_COLORS | `315` | 该 DICTIONARY_COLORS |
+| DICTIONARY_VISUALSTYLE | `316` | 该 DICTIONARY_VISUALSTYLE |
+| CURRENT_VIEWPORT | `317` | 该 CURRENT_VIEWPORT |
+| VIEWPORT_ENTITY_HEADER_CONTROL_OBJECT | `318` | 该 VIEWPORT_ENTITY_HEADER_CONTROL_OBJECT |
+| DIMALTMZF | `319` | 该 DIMALTMZF |
+| DIMALTMZS | `320` | 该 DIMALTMZS |
+| DIMMZF | `321` | 该 DIMMZF |
+| DIMMZS | `322` | 该 DIMMZS |
+| TSTACKALIGN | `323` | 该 TSTACKALIGN |
+| TSTACKSIZE | `324` | 该 TSTACKSIZE |
+| DICTIONARY_LIGHTLIST | `325` | 该 DICTIONARY_LIGHTLIST |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts)
-* 部件 [Aspose.CAD](../../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadConsts](../../aspose.cad.fileformats.cad.cadconsts/)
+* assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->

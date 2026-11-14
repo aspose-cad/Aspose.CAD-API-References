@@ -1,0 +1,44 @@
+---
+title: "CharacterCodingAnnouncer.CharacterCodingAnnouncer"
+linktitle: "CharacterCodingAnnouncer"
+articleTitle: "CharacterCodingAnnouncer"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "CharacterCodingAnnouncer 构造函数。初始化 CharacterCodingAnnouncer 类的新实例。"
+type: docs
+weight: 10
+url: "/net/aspose.cad.fileformats.cgm.commands/charactercodingannouncer/charactercodingannouncer/"
+product_version: "26.9"
+---
+## CharacterCodingAnnouncer(CgmFile) {#constructor}
+
+初始化 CharacterCodingAnnouncer 类的新实例。
+
+```csharp
+public CharacterCodingAnnouncer(CgmFile container)
+```
+
+### 另请参阅
+
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* class [CharacterCodingAnnouncer](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## CharacterCodingAnnouncer(CgmFile, Type) {#constructor_1}
+
+初始化 CharacterCodingAnnouncer 类的新实例。
+
+```csharp
+public CharacterCodingAnnouncer(CgmFile container, Type type)
+```
+
+### 另请参阅
+
+* class [CgmFile](../../../aspose.cad.fileformats.cgm/cgmfile/)
+* enum [Type](../../charactercodingannouncer.type/)
+* class [CharacterCodingAnnouncer](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
+

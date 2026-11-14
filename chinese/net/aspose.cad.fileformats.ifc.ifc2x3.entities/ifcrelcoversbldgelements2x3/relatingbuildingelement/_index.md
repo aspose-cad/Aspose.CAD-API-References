@@ -1,0 +1,26 @@
+---
+title: "IfcRelCoversBldgElements2X3.RelatingBuildingElement"
+linktitle: "RelatingBuildingElement"
+articleTitle: "RelatingBuildingElement"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "IfcRelCoversBldgElements2X3 属性。"
+type: docs
+weight: 20
+url: "/net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcrelcoversbldgelements2x3/relatingbuildingelement/"
+product_version: "26.9"
+---
+## IfcRelCoversBldgElements2X3.RelatingBuildingElement property
+
+
+
+```csharp
+public IfcElement2X3 RelatingBuildingElement { get; set; }
+```
+
+### 另请参阅
+
+* class [IfcElement2X3](../../ifcelement2x3/)
+* class [IfcRelCoversBldgElements2X3](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
+* assembly [Aspose.CAD](../../../)
+

@@ -1,12 +1,18 @@
 ---
-title: CadStylesList
-second_title: Aspose.CAD for .NET API 参考
-description: 
+title: "CadStylesList 类"
+linktitle: "CadStylesList"
+articleTitle: "CadStylesList"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.FileFormats.Cad.CadStylesList 类。Cad 样式列表"
 type: docs
-weight: 3850
-url: /zh/net/aspose.cad.fileformats.cad/cadstyleslist/
+weight: 280
+url: "/net/aspose.cad.fileformats.cad/cadstyleslist/"
+keywords: "CadStylesList, Aspose.CAD.FileFormats.Cad, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadStylesList class
+
+Cad 样式列表
 
 ```csharp
 public class CadStylesList : NonGenericList, ICloneable
@@ -14,43 +20,42 @@ public class CadStylesList : NonGenericList, ICloneable
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CadStylesList](cadstyleslist)() | 默认构造函数。 |
+| [CadStylesList](cadstyleslist/)() | 初始化 `CadStylesList` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad/cadstyleslist/applicationcodescontainer) { get; set; } |  |
-| [CadSymbolTableGroupCodes](../../aspose.cad.fileformats.cad/cadstyleslist/cadsymboltablegroupcodes) { get; set; } |  |
-| [Count](../../aspose.cad/nongenericlist/count) { get; } | 获取ICollection中包含的元素数。 |
-| [IsFixedSize](../../aspose.cad/nongenericlist/isfixedsize) { get; } | 获取一个值，该值指示IList是否具有固定大小。 |
-| [IsReadOnly](../../aspose.cad/nongenericlist/isreadonly) { get; } | 获取一个值，该值指示IList是否为只读。 |
-| [IsSynchronized](../../aspose.cad/nongenericlist/issynchronized) { get; } | 获取一个值，该值指示对ICollection的访问是否同步（线程安全）。 |
-| [Item](../../aspose.cad/nongenericlist/item) { get; set; } | 获取或设置指定索引处的元素。 |
-| [SyncRoot](../../aspose.cad/nongenericlist/syncroot) { get; } | 获取可用于同步访问ICollection的对象。 |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad/cadstyleslist/applicationcodescontainer/) { get; set; } | 获取或设置应用程序代码容器。 |
+| [CadSymbolTableGroupCodes](../../aspose.cad.fileformats.cad/cadstyleslist/cadsymboltablegroupcodes/) { get; set; } | 获取或设置 cad 符号表组代码。 |
+| [Count](../../aspose.cad/nongenericlist/count/) { get; } | 获取 ICollection 中包含的元素数量。 |
+| [IsFixedSize](../../aspose.cad/nongenericlist/isfixedsize/) { get; } | 获取一个值，指示 IList 是否具有固定大小。 |
+| [IsReadOnly](../../aspose.cad/nongenericlist/isreadonly/) { get; } | 获取一个值，指示 IList 是否为只读。 |
+| [IsSynchronized](../../aspose.cad/nongenericlist/issynchronized/) { get; } | 获取一个值，指示对 ICollection 的访问是否已同步（线程安全）。 |
+| [Item](../../aspose.cad/nongenericlist/item/) { get; set; } | 获取或设置指定索引处的元素。 |
+| [SyncRoot](../../aspose.cad/nongenericlist/syncroot/) { get; } | 获取一个可用于同步对 ICollection 访问的对象。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Add](../../aspose.cad/nongenericlist/add)(object) | 将项目添加到IList。 |
-| [AddRange](../../aspose.cad.fileformats.cad/cadstyleslist/addrange)(CadStyleTableObject[]) |  |
-| [Clear](../../aspose.cad/nongenericlist/clear)() | 从IList中删除所有项目。 |
-| [Clone](../../aspose.cad.fileformats.cad/cadstyleslist/clone)() |  |
-| [Contains](../../aspose.cad/nongenericlist/contains)(object) | 判断IList是否包含特定值。 |
-| [CopyTo](../../aspose.cad/nongenericlist/copyto)(Array, int) | 将ICollection的元素复制到Array，从特定的Array索引开始。 |
-| [GetEnumerator](../../aspose.cad/nongenericlist/getenumerator)() | 返回遍历集合的枚举数。 |
-| [IndexOf](../../aspose.cad/nongenericlist/indexof)(object) | 确定IList中特定项目的索引。 |
-| [Insert](../../aspose.cad/nongenericlist/insert)(int, object) | 将项目插入到IList在指定索引处。 |
-| [Remove](../../aspose.cad/nongenericlist/remove)(object) | 从IList中删除特定对象的第一个匹配项。 |
-| [RemoveAt](../../aspose.cad/nongenericlist/removeat)(int) | 删除IList指定索引处的项目。 |
+| [Add](../../aspose.cad/nongenericlist/add/)(object) | 向 IList 添加一个项。 |
+| [AddRange](../../aspose.cad.fileformats.cad/cadstyleslist/addrange/)(CadStyleTableObject[]) | 将对象范围添加到容器中。 |
+| [Clear](../../aspose.cad/nongenericlist/clear/)() | 从 IList 中移除所有项。 |
+| [Clone](../../aspose.cad.fileformats.cad/cadstyleslist/clone/)() | 克隆列表。 |
+| [Contains](../../aspose.cad/nongenericlist/contains/)(object) | 确定 IList 是否包含特定值。 |
+| [CopyTo](../../aspose.cad/nongenericlist/copyto/)(Array, int) | 将 ICollection 的元素复制到数组，从特定的数组索引开始。 |
+| [GetEnumerator](../../aspose.cad/nongenericlist/getenumerator/)() | 返回一个遍历集合的枚举器。 |
+| [IndexOf](../../aspose.cad/nongenericlist/indexof/)(object) | 确定 IList 中特定项的索引。 |
+| [Insert](../../aspose.cad/nongenericlist/insert/)(int, object) | 在指定索引处向 IList 插入一项。 |
+| [Remove](../../aspose.cad/nongenericlist/remove/)(object) | 从 IList 中移除特定对象的第一次出现。 |
+| [RemoveAt](../../aspose.cad/nongenericlist/removeat/)(int) | 移除指定索引处的 IList 项目。 |
 
-### 也可以看看
+### 另请参阅
 
-* class [NonGenericList](../../aspose.cad/nongenericlist)
-* 命名空间 [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad)
-* 部件 [Aspose.CAD](../../)
+* class [NonGenericList](../../aspose.cad/nongenericlist/)
+* namespace [Aspose.CAD.FileFormats.Cad](../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->

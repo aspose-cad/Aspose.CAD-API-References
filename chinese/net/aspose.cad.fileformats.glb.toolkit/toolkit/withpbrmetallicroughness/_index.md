@@ -1,0 +1,53 @@
+---
+title: "Toolkit.WithPBRMetallicRoughness"
+linktitle: "WithPBRMetallicRoughness"
+articleTitle: "WithPBRMetallicRoughness"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Toolkit 方法。使用 PBR 金属粗糙度属性初始化此 Material 实例。"
+type: docs
+weight: 380
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withpbrmetallicroughness/"
+product_version: "26.9"
+---
+## WithPBRMetallicRoughness(this Material) {#withpbrmetallicroughness}
+
+使用 PBR Metallic Roughness 属性初始化此 [`Material`](../../../aspose.cad.fileformats.glb/material/) 实例。
+
+```csharp
+public static Material WithPBRMetallicRoughness(this Material material)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| material | Material | 要设置的 [`Material`](../../../aspose.cad.fileformats.glb/material/) 实例。 |
+
+### 返回值
+
+此 [`Material`](../../../aspose.cad.fileformats.glb/material/) 实例。
+
+### 另请参阅
+
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## WithPBRMetallicRoughness(this Material, Vector4, string, string, float, float) {#withpbrmetallicroughness_1}
+
+
+
+```csharp
+public static Material WithPBRMetallicRoughness(this Material material, Vector4 baseColor, 
+    string baseColorImageFilePath, string metallicImageFilePath = null, float metallicFactor = 1.0, 
+    float roughnessFactor = 1.0)
+```
+
+### 另请参阅
+
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
+

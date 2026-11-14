@@ -1,0 +1,25 @@
+---
+title: "CameraBuilder.Clone"
+linktitle: "克隆"
+articleTitle: "克隆"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "CameraBuilder 方法。"
+type: docs
+weight: 10
+url: "/net/aspose.cad.fileformats.glb.scenes/camerabuilder/clone/"
+product_version: "26.9"
+---
+## CameraBuilder.Clone method
+
+
+
+```csharp
+public abstract CameraBuilder Clone()
+```
+
+### 另请参阅
+
+* class [CameraBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
+

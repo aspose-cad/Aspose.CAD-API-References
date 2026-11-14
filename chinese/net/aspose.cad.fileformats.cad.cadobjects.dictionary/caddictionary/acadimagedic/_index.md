@@ -1,0 +1,25 @@
+---
+title: "CadDictionary.AcadImageDic"
+linktitle: "AcadImageDic"
+articleTitle: "AcadImageDic"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "CadDictionary 字段。"
+type: docs
+weight: 20
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionary/acadimagedic/"
+product_version: "26.9"
+---
+## CadDictionary.AcadImageDic field
+
+
+
+```csharp
+public const string AcadImageDic;
+```
+
+### 另请参阅
+
+* class [CadDictionary](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
+* assembly [Aspose.CAD](../../../)
+

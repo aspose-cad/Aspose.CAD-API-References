@@ -1,83 +1,106 @@
 ---
-title: CadText
-second_title: Aspose.CAD for .NET API 参考
-description: 
+title: "CadText 类"
+linktitle: "CadText"
+articleTitle: "CadText"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadText 类。描述 Cad 文本的类"
 type: docs
-weight: 3060
-url: /zh/net/aspose.cad.fileformats.cad.cadobjects/cadtext/
+weight: 1340
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadtext/"
+keywords: "CadText, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadText class
 
+描述 Cad 文本的类
+
 ```csharp
-public class CadText : CadBaseExtrudedEntity
+public class CadText : CadExtrudedEntityBase
 ```
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CadText](cadtext)() | 默认构造函数。 |
+| [CadText](cadtext/)() | 初始化 `CadText` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
-| [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/bounds) { get; set; } |  |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/childobjects) { get; set; } |  |
-| [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorid) { get; set; } |  |
-| [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorname) { get; set; } |  |
-| [ColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/colorvalue) { get; set; } |  |
-| [DefaultValue](../../aspose.cad.fileformats.cad.cadobjects/cadtext/defaultvalue) { get; set; } |  |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
-| [Entmode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/entmode) { get; set; } |  |
-| override [ExtrusionDirection](../../aspose.cad.fileformats.cad.cadobjects/cadtext/extrusiondirection) { get; set; } |  |
-| [FirstAlignment](../../aspose.cad.fileformats.cad.cadobjects/cadtext/firstalignment) { get; set; } |  |
-| [GenerationFlag](../../aspose.cad.fileformats.cad.cadobjects/cadtext/generationflag) { get; set; } |  |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
-| [HorizontalJustification](../../aspose.cad.fileformats.cad.cadobjects/cadtext/horizontaljustification) { get; set; } |  |
-| [Hyperlink](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/hyperlink) { get; set; } |  |
-| [IsByLayer](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/isbylayer) { get; set; } |  |
-| [IsNoLinks](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/isnolinks) { get; set; } |  |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
-| [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/layername) { get; set; } |  |
-| [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/layouttabname) { get; set; } |  |
-| [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/linescale) { get; set; } |  |
-| [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/linetypename) { get; set; } |  |
-| [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/lineweight) { get; set; } |  |
-| [LType](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/ltype) { get; set; } |  |
-| [Material](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/material) { get; set; } |  |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/numreactors) { get; set; } |  |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
-| [ObliqueAngle](../../aspose.cad.fileformats.cad.cadobjects/cadtext/obliqueangle) { get; set; } |  |
-| [PlotStyle](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/plotstyle) { get; set; } |  |
-| [PlotStyleFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/plotstyleflag) { get; set; } |  |
-| [ProxyBytesCount](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/proxybytescount) { get; set; } |  |
-| [ProxyData](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/proxydata) { get; set; } |  |
-| [ScaleX](../../aspose.cad.fileformats.cad.cadobjects/cadtext/scalex) { get; set; } |  |
-| [SecondAlignmentPoint](../../aspose.cad.fileformats.cad.cadobjects/cadtext/secondalignmentpoint) { get; set; } |  |
-| [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/shadowmode) { get; set; } |  |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
-| [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/spacemode) { get; set; } |  |
-| [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/storageflag) { get; set; } |  |
-| [StyleType](../../aspose.cad.fileformats.cad.cadobjects/cadtext/styletype) { get; set; } |  |
-| [TextHeight](../../aspose.cad.fileformats.cad.cadobjects/cadtext/textheight) { get; set; } |  |
-| [TextRotation](../../aspose.cad.fileformats.cad.cadobjects/cadtext/textrotation) { get; set; } |  |
-| [TextWidth](../../aspose.cad.fileformats.cad.cadobjects/cadtext/textwidth) { get; } |  |
-| [Thickness](../../aspose.cad.fileformats.cad.cadobjects/cadtext/thickness) { get; set; } |  |
-| [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/transparency) { get; set; } |  |
-| override [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadtext/typename) { get; } |  |
-| [VerticalJustification](../../aspose.cad.fileformats.cad.cadobjects/cadtext/verticaljustification) { get; set; } |  |
-| virtual [Visible](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/visible) { get; set; } |  |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
-| [XDirMissingFlag](../../aspose.cad.fileformats.cad.cadobjects/cadbaseentity/xdirmissingflag) { get; set; } |  |
+| [AnnotationScales](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/annotationscales/) { get; } | 获取实体绑定的注释比例。 |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | 获取或设置应用程序定义的代码容器。 |
+| [Area](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/area/) { get; } | 获取实体的面积。 |
+| [AssocViewPortHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/assocviewporthandle/) { get; } | 获取或设置关联的视口句柄。 |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | 获取或设置 attribute102 值。 |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | 获取或设置属性。 |
+| [Bounds](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/bounds/) { get; set; } | 实体的最小和最大点。调用 CadImage 的 GetBounds 后填充。 |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childobjects/) { get; set; } | 获取或设置构成当前实体的子实体。 |
+| [Childs](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/childs/) { get; } |  |
+| [ColorHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorhandle/) { get; set; } | 获取或设置颜色句柄。 |
+| [ColorId](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorid/) { get; set; } | 获取或设置实体的颜色 ID（ACI 颜色）。 |
+| [ColorName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorname/) { get; set; } | 获取或设置颜色的名称。 |
+| [ColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/colorvalue/) { get; set; } | 获取或设置实体的真实颜色值（RGB）。 |
+| [DefaultValue](../../aspose.cad.fileformats.cad.cadobjects/cadtext/defaultvalue/) { get; set; } | 获取或设置默认值。 |
+| [Elevation](../../aspose.cad.fileformats.cad.cadobjects/cadtext/elevation/) { get; set; } |  |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | 获取或设置嵌入对象容器。 |
+| [Entmode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/entmode/) { get; set; } | 获取或设置实体模式。 |
+| override [ExtrusionDirection](../../aspose.cad.fileformats.cad.cadobjects/cadtext/extrusiondirection/) { get; set; } | 获取或设置挤出方向。 |
+| [FirstAlignment](../../aspose.cad.fileformats.cad.cadobjects/cadtext/firstalignment/) { get; set; } | 获取或设置首个对齐方式。 |
+| [GenerationFlag](../../aspose.cad.fileformats.cad.cadobjects/cadtext/generationflag/) { get; set; } | 获取或设置生成标志。 |
+| [GroupHandle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/grouphandle/) { get; set; } | 组句柄 |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | 获取或设置硬所有者。 |
+| [HorizontalJustification](../../aspose.cad.fileformats.cad.cadobjects/cadtext/horizontaljustification/) { get; set; } | 获取或设置水平对齐方式。 |
+| [Hyperlink](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/hyperlink/) { get; set; } | 获取或设置指向实体的超链接，并显示超链接名称或描述（如果已指定）。 |
+| virtual [Id](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/id/) { get; set; } | 获取标识符。 |
+| [IsAssocViewPortHandleSet](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/isassocviewporthandleset/) { get; } | 获取一个值，指示是否已设置关联的视口句柄。 |
+| [IsByLayer](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/isbylayer/) { get; set; } | 获取或设置一个值，指示实体的线型是否由图层设置。 |
+| [IsNoLinks](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/isnolinks/) { get; set; } | 获取或设置一个值，指示实体没有链接。 |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | 获取一个值，指示是否已设置软所有者。 |
+| [LType](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/ltype/) { get; set; } | 获取或设置实体当前线型的值。 |
+| [LayerName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layername/) { get; set; } | 获取或设置实体所属图层的名称。 |
+| [LayoutTabName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/layouttabname/) { get; set; } | 获取或设置布局选项卡的名称。 |
+| [Length](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/length/) { get; } | 获取实体的长度。 |
+| [LineScale](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linescale/) { get; set; } | 获取或设置实体的线型比例因子。 |
+| [LineTypeName](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/linetypename/) { get; set; } | 获取或设置基于 [`LType`](../cadentitybase/ltype/) 值的线型名称。 |
+| [LineWeight](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/lineweight/) { get; set; } | 获取或设置实体的线宽。 |
+| [Material](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/material/) { get; set; } | 获取或设置材质。 |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | 该 Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | 获取或设置对象句柄。 |
+| [ObliqueAngle](../../aspose.cad.fileformats.cad.cadobjects/cadtext/obliqueangle/) { get; set; } | 获取或设置倾斜角度。 |
+| [PlotStyle](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyle/) { get; set; } | 获取或设置打印样式。获取或设置打印样式句柄。 |
+| [PlotStyleFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/plotstyleflag/) { get; set; } | 获取或设置实体当前打印样式的值。 |
+| [ProxyBytesCount](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/proxybytescount/) { get; set; } | 获取或设置代理字节计数。 |
+| [ProxyData](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/proxydata/) { get; set; } | 获取或设置代理数据。 |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | 获取或设置反应器句柄 |
+| [ScaleX](../../aspose.cad.fileformats.cad.cadobjects/cadtext/scalex/) { get; set; } | 获取或设置 X 轴比例。 |
+| [SecondAlignmentPoint](../../aspose.cad.fileformats.cad.cadobjects/cadtext/secondalignmentpoint/) { get; set; } | 获取或设置第二对齐点。 |
+| [ShadowMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/shadowmode/) { get; set; } | 获取或设置阴影模式。 |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | 获取或设置软所有者。 |
+| [SpaceMode](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/spacemode/) { get; set; } | 获取或设置指示实体所属空间的值。 |
+| override [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/storageflag/) { get; set; } | 获取或设置一个值，指示此实体在数据存储中具有关联的二进制数据。 |
+| [StyleType](../../aspose.cad.fileformats.cad.cadobjects/cadtext/styletype/) { get; set; } | 获取或设置样式类型。 |
+| [TextHeight](../../aspose.cad.fileformats.cad.cadobjects/cadtext/textheight/) { get; set; } | 获取或设置文本高度。 |
+| [TextRotation](../../aspose.cad.fileformats.cad.cadobjects/cadtext/textrotation/) { get; set; } | 获取或设置文本旋转。 |
+| [TextWidth](../../aspose.cad.fileformats.cad.cadobjects/cadtext/textwidth/) { get; } | 获取文本宽度。 |
+| [Thickness](../../aspose.cad.fileformats.cad.cadobjects/cadtext/thickness/) { get; set; } | 获取或设置厚度。 |
+| [Transparency](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/transparency/) { get; set; } | 获取或设置实体的透明度值。 |
+| override [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadtext/typename/) { get; } | 获取类型的名称。 |
+| [VerticalJustification](../../aspose.cad.fileformats.cad.cadobjects/cadtext/verticaljustification/) { get; set; } | 获取或设置垂直对齐方式。 |
+| virtual [Visible](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/visible/) { get; set; } | 获取或设置一个值，指示此 [`CadEntityBase`](../cadentitybase/) 是否可见。 |
+| [XDirMissingFlag](../../aspose.cad.fileformats.cad.cadobjects/cadentitybase/xdirmissingflag/) { get; set; } | 获取或设置指示此实体未存储 XDictionary 句柄的值。 |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | 获取或设置 xdata 容器。 |
 
-### 也可以看看
+## 方法
 
-* class [CadBaseExtrudedEntity](../cadbaseextrudedentity)
-* 命名空间 [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects)
-* 部件 [Aspose.CAD](../../)
+| 名称 | 描述 |
+| --- | --- |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/getuid/)() | 如果对象句柄不起作用时使用的标识符。作为方法实现，以免干扰 FileComparer's property comparer |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/setuid/)(string) | 设置 |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+### 另请参阅
+
+* class [CadExtrudedEntityBase](../cadextrudedentitybase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
+

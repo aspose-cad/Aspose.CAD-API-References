@@ -1,12 +1,18 @@
 ---
-title: CadDictionaryWithDefault
-second_title: Aspose.CAD for .NET API 参考
-description: 
+title: "CadDictionaryWithDefault 类"
+linktitle: "CadDictionaryWithDefault"
+articleTitle: "CadDictionaryWithDefault"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary.CadDictionaryWithDefault 类。描述带默认对象的字典的类。"
 type: docs
-weight: 3230
-url: /zh/net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/"
+keywords: "CadDictionaryWithDefault, Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadDictionaryWithDefault class
+
+描述具有默认对象的 Dictionary 的类。
 
 ```csharp
 public class CadDictionaryWithDefault : CadDictionaryBase
@@ -14,45 +20,48 @@ public class CadDictionaryWithDefault : CadDictionaryBase
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CadDictionaryWithDefault](caddictionarywithdefault)() | 默认构造函数。 |
+| [CadDictionaryWithDefault](caddictionarywithdefault/)() | 初始化 `CadDictionaryWithDefault` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
-| [CloningFlag](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/cloningflag) { get; set; } |  |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
-| [EntryNames](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/entrynames) { get; set; } |  |
-| [EntrySoftOwners](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/entrysoftowners) { get; set; } |  |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
-| [HardOwnerFlag](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/hardownerflag) { get; set; } |  |
-| [HardPointer](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/hardpointer) { get; set; } |  |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
-| [Item](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/item) { get; } |  |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/numreactors) { get; set; } |  |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
-| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | 获取或设置应用程序定义的代码容器。 |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | 获取或设置 attribute102 值。 |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | 获取或设置属性。 |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | 获取或设置子对象。 |
+| [CloningFlag](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/cloningflag/) { get; set; } | 获取或设置克隆标志。 |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | 获取或设置嵌入对象容器。 |
+| [EntryNames](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/entrynames/) { get; set; } | 获取或设置条目的名称。 |
+| [EntrySoftOwners](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/entrysoftowners/) { get; set; } | 获取或设置条目的软所有者。 |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | 获取或设置硬所有者。 |
+| [HardOwnerFlag](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/hardownerflag/) { get; set; } | 获取或设置硬所有者标志。 |
+| [HardPointer](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarywithdefault/hardpointer/) { get; set; } | 获取或设置硬指针。 |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | 获取一个值，指示是否已设置软所有者。 |
+| [Item](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/item/) { get; } | 获取或设置通过键的条目软所有者。 |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | 该 Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | 获取或设置对象句柄。 |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | 获取或设置反应器句柄 |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | 获取或设置软所有者。 |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | 获取或设置一个值，指示此实体在数据存储中具有关联的二进制数据。 |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | 获取类型的名称。 |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | 获取或设置 xdata 容器。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [RemoveByValue](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/removebyvalue)(string) |  |
-| [TryGetValue](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/trygetvalue)(string, out string) |  |
-| [TryGetValue](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/trygetvalue)(string, out CadEntityAttribute, out string) |  |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/getuid/)() | 如果对象句柄不起作用时使用的标识符。作为方法实现，以免干扰 FileComparer's property comparer |
+| [RemoveByValue](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/removebyvalue/)(string) | 通过值移除条目软所有者和条目名称。 |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/setuid/)(string) | 设置 |
+| [TryGetValue](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/trygetvalue/)(string, out string) | 获取通过键的条目软所有者。 |
+| [TryGetValue](../../aspose.cad.fileformats.cad.cadobjects.dictionary/caddictionarybase/trygetvalue/)(string, out CadEntityAttribute, out string) | 获取通过键的条目软所有者。 |
 
-### 也可以看看
+### 另请参阅
 
-* class [CadDictionaryBase](../caddictionarybase)
-* 命名空间 [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../aspose.cad.fileformats.cad.cadobjects.dictionary)
-* 部件 [Aspose.CAD](../../)
+* class [CadDictionaryBase](../caddictionarybase/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](../../aspose.cad.fileformats.cad.cadobjects.dictionary/)
+* assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->

@@ -1,0 +1,46 @@
+---
+title: "Toolkit.WithChannelTexture"
+linktitle: "WithChannelTexture"
+articleTitle: "WithChannelTexture"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Toolkit 方法。"
+type: docs
+weight: 360
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withchanneltexture/"
+product_version: "26.9"
+---
+## WithChannelTexture(this Material, string, int, ImageGlb) {#withchanneltexture}
+
+
+
+```csharp
+public static Material WithChannelTexture(this Material material, string channelName, 
+    int textureSet, ImageGlb image)
+```
+
+### 另请参阅
+
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [ImageGlb](../../../aspose.cad.fileformats.glb/imageglb/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## WithChannelTexture(this Material, string, int, string) {#withchanneltexture_1}
+
+
+
+```csharp
+public static Material WithChannelTexture(this Material material, string channelName, 
+    int textureSet, string imageFilePath)
+```
+
+### 另请参阅
+
+* class [Material](../../../aspose.cad.fileformats.glb/material/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
+

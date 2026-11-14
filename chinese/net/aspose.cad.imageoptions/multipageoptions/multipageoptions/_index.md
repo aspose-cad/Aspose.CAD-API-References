@@ -1,172 +1,239 @@
 ---
-title: MultiPageOptions
-second_title: Aspose.CAD for .NET API 参考
-description: 默认构造函数
+title: "MultiPageOptions.MultiPageOptions"
+linktitle: "MultiPageOptions"
+articleTitle: "MultiPageOptions"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "MultiPageOptions 构造函数。初始化 MultiPageOptions 类的新实例。"
 type: docs
 weight: 10
-url: /zh/net/aspose.cad.imageoptions/multipageoptions/multipageoptions/
+url: "/net/aspose.cad.imageoptions/multipageoptions/multipageoptions/"
+product_version: "26.9"
 ---
 ## MultiPageOptions() {#constructor}
 
-默认构造函数。
+初始化 [`MultiPageOptions`](../) 类的新实例。
 
 ```csharp
 public MultiPageOptions()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [MultiPageOptions](../../multipageoptions)
-* 命名空间 [Aspose.CAD.ImageOptions](../../multipageoptions)
-* 部件 [Aspose.CAD](../../../)
-
----
-
-## MultiPageOptions(int[]) {#constructor_7}
-
-```csharp
-public MultiPageOptions(int[] pages)
-```
-
-### 也可以看看
-
-* class [MultiPageOptions](../../multipageoptions)
-* 命名空间 [Aspose.CAD.ImageOptions](../../multipageoptions)
-* 部件 [Aspose.CAD](../../../)
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## MultiPageOptions(int[], Rectangle) {#constructor_8}
+## MultiPageOptions(int) {#constructor_1}
 
-```csharp
-public MultiPageOptions(int[] pages, Rectangle exportArea)
-```
-
-### 也可以看看
-
-* struct [Rectangle](../../../aspose.cad/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* 命名空间 [Aspose.CAD.ImageOptions](../../multipageoptions)
-* 部件 [Aspose.CAD](../../../)
-
----
-
-## MultiPageOptions(string[]) {#constructor_9}
-
-```csharp
-public MultiPageOptions(string[] pageTitles)
-```
-
-### 也可以看看
-
-* class [MultiPageOptions](../../multipageoptions)
-* 命名空间 [Aspose.CAD.ImageOptions](../../multipageoptions)
-* 部件 [Aspose.CAD](../../../)
-
----
-
-## MultiPageOptions(string[], Rectangle) {#constructor_10}
-
-```csharp
-public MultiPageOptions(string[] pageTitles, Rectangle exportArea)
-```
-
-### 也可以看看
-
-* struct [Rectangle](../../../aspose.cad/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* 命名空间 [Aspose.CAD.ImageOptions](../../multipageoptions)
-* 部件 [Aspose.CAD](../../../)
-
----
-
-## MultiPageOptions(IntRange[]) {#constructor_3}
-
-```csharp
-public MultiPageOptions(IntRange[] ranges)
-```
-
-### 也可以看看
-
-* class [IntRange](../../../aspose.cad/intrange)
-* class [MultiPageOptions](../../multipageoptions)
-* 命名空间 [Aspose.CAD.ImageOptions](../../multipageoptions)
-* 部件 [Aspose.CAD](../../../)
-
----
-
-## MultiPageOptions(IntRange[], Rectangle) {#constructor_4}
-
-```csharp
-public MultiPageOptions(IntRange[] ranges, Rectangle exportArea)
-```
-
-### 也可以看看
-
-* class [IntRange](../../../aspose.cad/intrange)
-* struct [Rectangle](../../../aspose.cad/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* 命名空间 [Aspose.CAD.ImageOptions](../../multipageoptions)
-* 部件 [Aspose.CAD](../../../)
-
----
-
-## MultiPageOptions(IntRange) {#constructor_1}
-
-```csharp
-public MultiPageOptions(IntRange range)
-```
-
-### 也可以看看
-
-* class [IntRange](../../../aspose.cad/intrange)
-* class [MultiPageOptions](../../multipageoptions)
-* 命名空间 [Aspose.CAD.ImageOptions](../../multipageoptions)
-* 部件 [Aspose.CAD](../../../)
-
----
-
-## MultiPageOptions(IntRange, Rectangle) {#constructor_2}
-
-```csharp
-public MultiPageOptions(IntRange range, Rectangle exportArea)
-```
-
-### 也可以看看
-
-* class [IntRange](../../../aspose.cad/intrange)
-* struct [Rectangle](../../../aspose.cad/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* 命名空间 [Aspose.CAD.ImageOptions](../../multipageoptions)
-* 部件 [Aspose.CAD](../../../)
-
----
-
-## MultiPageOptions(int) {#constructor_5}
+初始化 [`MultiPageOptions`](../) 类的新实例。
 
 ```csharp
 public MultiPageOptions(int page)
 ```
 
-### 也可以看看
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| page | Int32 | 页面索引。 |
 
-* class [MultiPageOptions](../../multipageoptions)
-* 命名空间 [Aspose.CAD.ImageOptions](../../multipageoptions)
-* 部件 [Aspose.CAD](../../../)
+### 另请参阅
+
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
 
 ---
 
-## MultiPageOptions(int, Rectangle) {#constructor_6}
+## MultiPageOptions(int[]) {#constructor_2}
+
+初始化 [`MultiPageOptions`](../) 类的新实例。
+
+```csharp
+public MultiPageOptions(int[] pages)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| pages | Int32[] | 页面。 |
+
+### 另请参阅
+
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## MultiPageOptions(IntRange) {#constructor_3}
+
+初始化 [`MultiPageOptions`](../) 类的新实例。
+
+```csharp
+public MultiPageOptions(IntRange range)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| range | IntRange | [`IntRange`](../../../aspose.cad/intrange/)。 |
+
+### 另请参阅
+
+* class [IntRange](../../../aspose.cad/intrange/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## MultiPageOptions(IntRange[]) {#constructor_4}
+
+初始化 [`MultiPageOptions`](../) 类的新实例。
+
+```csharp
+public MultiPageOptions(IntRange[] ranges)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| ranges | IntRange[] | [`IntRange`](../../../aspose.cad/intrange/)。 |
+
+### 另请参阅
+
+* class [IntRange](../../../aspose.cad/intrange/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## MultiPageOptions(string[]) {#constructor_5}
+
+初始化 [`MultiPageOptions`](../) 类的新实例。
+
+```csharp
+public MultiPageOptions(string[] pageTitles)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| pageTitles | String[] | 页面标题。 |
+
+### 另请参阅
+
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## MultiPageOptions(int, Rectangle) {#constructor_6}
+
+初始化 [`MultiPageOptions`](../) 类的新实例。
 
 ```csharp
 public MultiPageOptions(int page, Rectangle exportArea)
 ```
 
-### 也可以看看
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| page | Int32 | 页面索引。 |
+| exportArea | Rectangle | 导出区域。 |
 
-* struct [Rectangle](../../../aspose.cad/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* 命名空间 [Aspose.CAD.ImageOptions](../../multipageoptions)
-* 部件 [Aspose.CAD](../../../)
+### 另请参阅
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+* struct [Rectangle](../../../aspose.cad/rectangle/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## MultiPageOptions(int[], Rectangle) {#constructor_7}
+
+初始化 [`MultiPageOptions`](../) 类的新实例。
+
+```csharp
+public MultiPageOptions(int[] pages, Rectangle exportArea)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| pages | Int32[] | 页面数组。 |
+| exportArea | Rectangle | 导出区域。 |
+
+### 另请参阅
+
+* struct [Rectangle](../../../aspose.cad/rectangle/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## MultiPageOptions(IntRange, Rectangle) {#constructor_8}
+
+初始化 [`MultiPageOptions`](../) 类的新实例。
+
+```csharp
+public MultiPageOptions(IntRange range, Rectangle exportArea)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| range | IntRange | [`IntRange`](../../../aspose.cad/intrange/)。 |
+| exportArea | Rectangle | 导出区域。 |
+
+### 另请参阅
+
+* class [IntRange](../../../aspose.cad/intrange/)
+* struct [Rectangle](../../../aspose.cad/rectangle/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## MultiPageOptions(IntRange[], Rectangle) {#constructor_9}
+
+初始化 [`MultiPageOptions`](../) 类的新实例。
+
+```csharp
+public MultiPageOptions(IntRange[] ranges, Rectangle exportArea)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| ranges | IntRange[] | [`IntRange`](../../../aspose.cad/intrange/)。 |
+| exportArea | Rectangle | 导出区域。 |
+
+### 另请参阅
+
+* class [IntRange](../../../aspose.cad/intrange/)
+* struct [Rectangle](../../../aspose.cad/rectangle/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## MultiPageOptions(string[], Rectangle) {#constructor_10}
+
+初始化 [`MultiPageOptions`](../) 类的新实例。
+
+```csharp
+public MultiPageOptions(string[] pageTitles, Rectangle exportArea)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| pageTitles | String[] | 页面标题。 |
+| exportArea | Rectangle | 导出区域。 |
+
+### 另请参阅
+
+* struct [Rectangle](../../../aspose.cad/rectangle/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
+

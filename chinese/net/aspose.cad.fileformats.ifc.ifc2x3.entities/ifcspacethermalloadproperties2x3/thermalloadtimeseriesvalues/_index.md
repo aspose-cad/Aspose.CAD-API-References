@@ -1,0 +1,26 @@
+---
+title: "IfcSpaceThermalLoadProperties2X3.ThermalLoadTimeSeriesValues"
+linktitle: "热负荷时间序列值"
+articleTitle: "热负荷时间序列值"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "IfcSpaceThermalLoadProperties2X3 属性。"
+type: docs
+weight: 80
+url: "/net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcspacethermalloadproperties2x3/thermalloadtimeseriesvalues/"
+product_version: "26.9"
+---
+## IfcSpaceThermalLoadProperties2X3.ThermalLoadTimeSeriesValues property
+
+
+
+```csharp
+public IfcTimeSeries2X3 ThermalLoadTimeSeriesValues { get; set; }
+```
+
+### 另请参阅
+
+* class [IfcTimeSeries2X3](../../ifctimeseries2x3/)
+* class [IfcSpaceThermalLoadProperties2X3](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
+* assembly [Aspose.CAD](../../../)
+
