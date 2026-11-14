@@ -1,0 +1,46 @@
+---
+title: "Toolkit.WithScaleAnimation"
+linktitle: "WithScaleAnimation"
+articleTitle: "WithScaleAnimation"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Toolkit 方法。"
+type: docs
+weight: 590
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withscaleanimation/"
+product_version: "26.9"
+---
+## WithScaleAnimation(this Node, string, ICurveSampler&lt;Vector3&gt;) {#withscaleanimation}
+
+
+
+```csharp
+public static Node WithScaleAnimation(this Node node, string animationName, 
+    ICurveSampler<Vector3> sampler)
+```
+
+### 另请参阅
+
+* class [Node](../../../aspose.cad.fileformats.glb/node/)
+* interface [ICurveSampler&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/icurvesampler-1/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## WithScaleAnimation(this Node, string, IReadOnlyDictionary&lt;float, Vector3&gt;) {#withscaleanimation_1}
+
+
+
+```csharp
+public static Node WithScaleAnimation(this Node node, string animationName, 
+    IReadOnlyDictionary<float, Vector3> keyframes)
+```
+
+### 另请参阅
+
+* class [Node](../../../aspose.cad.fileformats.glb/node/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
+

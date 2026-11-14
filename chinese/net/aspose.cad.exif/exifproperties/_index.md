@@ -1,157 +1,161 @@
 ---
-title: ExifProperties
-second_title: Aspose.CAD for .NET API 参考
-description: 
+title: "ExifProperties 枚举"
+linktitle: "ExifProperties"
+articleTitle: "ExifProperties"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.Exif.ExifProperties 枚举。Exif 标签列表。"
 type: docs
-weight: 720
-url: /zh/net/aspose.cad.exif/exifproperties/
+weight: 30
+url: "/net/aspose.cad.exif/exifproperties/"
+product_version: "26.9"
 ---
 ## ExifProperties enumeration
+
+Exif 标签列表
 
 ```csharp
 public enum ExifProperties : ushort
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| ImageWidth | `256` |  |
-| ImageLength | `257` |  |
-| BitsPerSample | `258` |  |
-| Compression | `259` |  |
-| PhotometricInterpretation | `262` |  |
-| ImageDescription | `270` |  |
-| Make | `271` |  |
-| Model | `272` |  |
-| Orientation | `274` |  |
-| SamplesPerPixel | `277` |  |
-| XResolution | `282` |  |
-| YResolution | `283` |  |
-| PlanarConfiguration | `284` |  |
-| ResolutionUnit | `296` |  |
-| TransferFunction | `301` |  |
-| Software | `305` |  |
-| DateTime | `306` |  |
-| Artist | `315` |  |
-| WhitePoint | `318` |  |
-| PrimaryChromaticities | `319` |  |
-| YCbCrCoefficients | `529` |  |
-| YCbCrSubSampling | `530` |  |
-| YCbCrPositioning | `531` |  |
-| ReferenceBlackWhite | `532` |  |
-| Copyright | `33432` |  |
-| ExposureTime | `33434` |  |
-| FNumber | `33437` |  |
-| ExposureProgram | `34850` |  |
-| SpectralSensitivity | `34852` |  |
-| PhotographicSensitivity | `34855` |  |
-| OECF | `34856` |  |
-| ExifVersion | `36864` |  |
-| DateTimeOriginal | `36867` |  |
-| DateTimeDigitized | `36868` |  |
-| ComponentsConfiguration | `37121` |  |
-| CompressedBitsPerPixel | `37122` |  |
-| ShutterSpeedValue | `37377` |  |
-| ApertureValue | `37378` |  |
-| BrightnessValue | `37379` |  |
-| ExposureBiasValue | `37380` |  |
-| MaxApertureValue | `37381` |  |
-| SubjectDistance | `37382` |  |
-| MeteringMode | `37383` |  |
-| LightSource | `37384` |  |
-| Flash | `37385` |  |
-| FocalLength | `37386` |  |
-| SubjectArea | `37396` |  |
-| MakerNote | `37500` |  |
-| UserComment | `37510` |  |
-| SubsecTime | `37520` |  |
-| SubsecTimeOriginal | `37521` |  |
-| SubsecTimeDigitized | `37522` |  |
-| FlashpixVersion | `40960` |  |
-| ColorSpace | `40961` |  |
-| RelatedSoundFile | `40964` |  |
-| FlashEnergy | `41483` |  |
-| SpatialFrequencyResponse | `41484` |  |
-| FocalPlaneXResolution | `41486` |  |
-| FocalPlaneYResolution | `41487` |  |
-| FocalPlaneResolutionUnit | `41488` |  |
-| SubjectLocation | `41492` |  |
-| ExposureIndex | `41493` |  |
-| SensingMethod | `41495` |  |
-| FileSource | `41728` |  |
-| SceneType | `41729` |  |
-| CFAPattern | `41730` |  |
-| CustomRendered | `41985` |  |
-| ExposureMode | `41986` |  |
-| WhiteBalance | `41987` |  |
-| DigitalZoomRatio | `41988` |  |
-| FocalLengthIn35MmFilm | `41989` |  |
-| SceneCaptureType | `41990` |  |
-| GainControl | `41991` |  |
-| Contrast | `41992` |  |
-| Saturation | `41993` |  |
-| Sharpness | `41994` |  |
-| DeviceSettingDescription | `41995` |  |
-| SubjectDistanceRange | `41996` |  |
-| ImageUniqueID | `42016` |  |
-| GPSVersionID | `0` |  |
-| GPSLatitudeRef | `1` |  |
-| GPSLatitude | `2` |  |
-| GPSLongitudeRef | `3` |  |
-| GPSLongitude | `4` |  |
-| GPSAltitudeRef | `5` |  |
-| GPSAltitude | `6` |  |
-| GPSTimestamp | `7` |  |
-| GPSSatellites | `8` |  |
-| GPSStatus | `9` |  |
-| GPSMeasureMode | `10` |  |
-| GPSDOP | `11` |  |
-| GPSSpeedRef | `12` |  |
-| GPSSpeed | `13` |  |
-| GPSTrackRef | `14` |  |
-| GPSTrack | `15` |  |
-| GPSImgDirectionRef | `16` |  |
-| GPSImgDirection | `17` |  |
-| GPSMapDatum | `18` |  |
-| GPSDestLatitudeRef | `19` |  |
-| GPSDestLatitude | `20` |  |
-| GPSDestLongitudeRef | `21` |  |
-| GPSDestLongitude | `22` |  |
-| GPSDestBearingRef | `23` |  |
-| GPSDestBearing | `24` |  |
-| GPSDestDistanceRef | `25` |  |
-| GPSDestDistance | `26` |  |
-| GPSProcessingMethod | `27` |  |
-| GPSAreaInformation | `28` |  |
-| GPSDateStamp | `29` |  |
-| GPSDifferential | `30` |  |
-| StripOffsets | `273` |  |
-| JPEGInterchangeFormat | `513` |  |
-| JPEGInterchangeFormatLength | `514` |  |
-| ExifIfdPointer | `34665` |  |
-| GPSIfdPointer | `34853` |  |
-| RowsPerStrip | `278` |  |
-| StripByteCounts | `279` |  |
-| PixelXDimension | `40962` |  |
-| PixelYDimension | `40963` |  |
-| Gamma | `42240` |  |
-| SensitivityType | `34864` |  |
-| StandardOutputSensitivity | `34865` |  |
-| RecommendedExposureIndex | `34866` |  |
-| ISOSpeed | `34867` |  |
-| ISOSpeedLatitudeYYY | `34868` |  |
-| ISOSpeedLatitudeZZZ | `34869` |  |
-| CameraOwnerName | `42032` |  |
-| BodySerialNumber | `42033` |  |
-| LensMake | `42035` |  |
-| LensModel | `42036` |  |
-| LensSerialNumber | `42037` |  |
-| LensSpecification | `42034` |  |
+| ImageWidth | `256` | 图像数据的列数，等于每行的像素数。 |
+| ImageLength | `257` | 图像数据的行数。 |
+| BitsPerSample | `258` | 每个图像组件的位数。根据本标准，图像的每个组件为 8 位，因此此标签的值为 8。 |
+| Compression | `259` | 用于图像数据的压缩方案。当主图像采用 JPEG 压缩时，此指定不是必需的，会被省略。 |
+| PhotometricInterpretation | `262` | 像素组成。 |
+| ImageDescription | `270` | 提供图像标题的字符字符串。它可能是类似 "1988 company picnic" 的注释。 |
+| Make | `271` | 记录设备的制造商。这是生成图像的 DSC、扫描仪、视频数字化仪或其他设备的制造商。当该字段留空时，视为未知。 |
+| Model | `272` | 设备的型号名称或型号编号。这是生成图像的 DSC、扫描仪、视频数字化仪或其他设备的型号名称或编号。当该字段留空时，视为未知。 |
+| Orientation | `274` | 以行列方式查看的图像方向。 |
+| SamplesPerPixel | `277` | 每像素的组件数。由于本标准适用于 RGB 和 YCbCr 图像，此标签的值设为 3。 |
+| XResolution | `282` | 在 ImageWidth 方向上，每个 ResolutionUnit 的像素数。当图像分辨率未知时，指定为 72 [dpi]。 |
+| YResolution | `283` | 在 ImageLength 方向上，每个 ResolutionUnit 的像素数。指定的值与 XResolution 相同。 |
+| PlanarConfiguration | `284` | 指示像素组件是以块状（chunky）还是平面（planar）格式记录。如果此字段不存在，则假定 TIFF 默认值 1（块状）。 |
+| ResolutionUnit | `296` | 用于测量 XResolution 和 YResolution 的单位。XResolution 和 YResolution 使用相同的单位。如果图像分辨率未知，指定为 2（英寸）。 |
+| TransferFunction | `301` | 图像的传递函数，以表格形式描述。通常此标签不是必需的，因为颜色空间已在颜色空间信息的 ColorSpace 标签中指定。 |
+| Software | `305` | 此标签记录用于生成图像的相机或图像输入设备的软件或固件的名称和版本。未指定详细格式，但建议遵循下面示例。当该字段留空时，视为未知。 |
+| DateTime | `306` | 图像创建的日期和时间。根据 Exif 标准，它是文件更改的日期和时间。 |
+| Artist | `315` | 此标签记录相机所有者、摄影师或图像创作者的姓名。未指定详细格式，但建议按下面示例编写信息，以便互操作性。当该字段留空时，视为未知。示例）"Camera owner, John Smith; Photographer, Michael Brown; Image creator, Ken James" |
+| WhitePoint | `318` | 图像白点的色度。通常此标签不是必需的，因为颜色空间已在颜色空间信息的 ColorSpace 标签中指定。 |
+| PrimaryChromaticities | `319` | 图像三原色的色度。通常此标签不是必需的，因为颜色空间已在颜色空间信息的 ColorSpace 标签中指定。 |
+| YCbCrCoefficients | `529` | 从 RGB 到 YCbCr 图像数据的矩阵系数。 |
+| YCbCrSubSampling | `530` | 色度分量相对于亮度分量的采样比例。 |
+| YCbCrPositioning | `531` | 色度分量相对于亮度分量的位置。此字段仅针对 JPEG 压缩数据或未压缩的 YCbCr 数据指定。TIFF 默认值为 1（居中）；但当 Y:Cb:Cr = 4:2:2 时，本标准建议使用 2（并列）来记录数据，以提升在电视系统上观看时的图像质量。当此字段不存在时，读取器应假定 TIFF 默认值。对于 Y:Cb:Cr = 4:2:0 的情况，推荐使用 TIFF 默认（居中）。如果读取器不具备支持两种 YCbCrPositioning 的能力，则应无论该字段的值如何，都遵循 TIFF 默认。最好读取器 " be able to support both centered and co-sited positioning. |
+| ReferenceBlackWhite | `532` | 参考黑点值和参考白点值。TIFF 未提供默认值，但此处给出了以下默认值。颜色空间在颜色空间信息标签中声明，默认值是能够在这些条件下提供最佳图像特性的值。 |
+| Copyright | `33432` | 版权信息。根据本标准，此标签用于指示摄影师和编辑的版权。它是对图像权利主张者（个人或组织）的版权声明。互操作性版权声明应包括日期和权利，并写入此字段；例如，"Copyright, John Smith, 19xx. All rights reserved."。本标准的字段记录摄影师和编辑的版权，分别记录在声明的不同部分。当摄影师和编辑的版权有明确区分时，按摄影师在前、编辑在后的顺序书写，并以 NULL 分隔（由于声明也以 NULL 结尾，此情况下有两个 NULL 代码）。仅提供摄影师版权时，以一个 NULL 代码结束。仅提供编辑版权时，摄影师版权部分为一个空格加终止的 NULL 代码，然后给出编辑版权。当该字段留空时，视为未知。 |
+| ExposureTime | `33434` | 曝光时间，以秒为单位。 |
+| FNumber | `33437` | F 数值。 |
+| ExposureProgram | `34850` | 相机在拍摄时用于设置曝光的程序类。 |
+| SpectralSensitivity | `34852` | 指示所使用相机每个通道的光谱灵敏度。 |
+| PhotographicSensitivity | `34855` | 指示相机或输入设备的 ISO 速度和 ISO 维度（ISO Latitude），如 ISO 12232 所规定。 |
+| OECF | `34856` | 指示 ISO 14524 中规定的光电转换函数 (OECF)。 |
+| ExifVersion | `36864` | exif 版本。 |
+| DateTimeOriginal | `36867` | 原始图像数据生成的日期和时间。 |
+| DateTimeDigitized | `36868` | 数字化的日期时间。 |
+| ComponentsConfiguration | `37121` | 组件配置。 |
+| CompressedBitsPerPixel | `37122` | 特定于压缩数据；说明每像素的压缩位数。 |
+| ShutterSpeedValue | `37377` | 快门速度值。 |
+| ApertureValue | `37378` | 镜头光圈值。 |
+| BrightnessValue | `37379` | 亮度值。 |
+| ExposureBiasValue | `37380` | 曝光补偿值。 |
+| MaxApertureValue | `37381` | 最大光圈值。 |
+| SubjectDistance | `37382` | 到被摄体的距离，以米为单位。 |
+| MeteringMode | `37383` | 测光模式。 |
+| LightSource | `37384` | 光源类型。 |
+| Flash | `37385` | 指示拍摄时闪光灯的状态。 |
+| FocalLength | `37386` | 镜头的实际焦距，单位为毫米。 |
+| SubjectArea | `37396` | 此标签指示整体场景中主体的位置信息和范围。 |
+| MakerNote | `37500` | 供 Exif 编写器制造商记录任意所需信息的标签。内容由制造商自行决定，但此标签不应用于其预定目的之外的任何用途。 |
+| UserComment | `37510` | 供 Exif 用户在图像上写入关键字或注释的标签，除 ImageDescription 中的内容外，并且不受 ImageDescription 标签字符编码限制。 |
+| SubsecTime | `37520` | 用于记录 DateTime 标签的秒以下小数的标签。 |
+| SubsecTimeOriginal | `37521` | 用于记录 DateTimeOriginal 标记的秒分数的标签。 |
+| SubsecTimeDigitized | `37522` | 用于记录 DateTimeDigitized 标记的秒分数的标签。 |
+| FlashpixVersion | `40960` | FPXR 文件支持的 Flashpix 格式版本。 |
+| ColorSpace | `40961` | 颜色空间信息标签 (ColorSpace) 始终记录为颜色空间指定符。 |
+| RelatedSoundFile | `40964` | 相关的声音文件。 |
+| FlashEnergy | `41483` | 指示图像捕获时的闪光灯能量，单位为 Beam Candle Power Seconds (BCPS)。 |
+| SpatialFrequencyResponse | `41484` | 此标签记录相机或输入设备在图像宽度、图像高度和对角方向上的空间频率表和 SFR 值，依据 ISO 12233。 |
+| FocalPlaneXResolution | `41486` | 指示相机焦平面上每个 FocalPlaneResolutionUnit 在图像宽度 (X) 方向的像素数。 |
+| FocalPlaneYResolution | `41487` | 指示相机焦平面上每个 FocalPlaneResolutionUnit 在图像高度 (Y) 方向的像素数。 |
+| FocalPlaneResolutionUnit | `41488` | 指示用于测量 FocalPlaneXResolution 和 FocalPlaneYResolution 的单位。该值与 ResolutionUnit 相同。 |
+| SubjectLocation | `41492` | 指示场景中主体的位置信息。此标签的值表示相对于左边缘、在 Rotation 标记规定的旋转处理之前，主体中心的像素位置。 |
+| ExposureIndex | `41493` | 指示图像捕获时相机或输入设备选择的曝光指数。 |
+| SensingMethod | `41495` | 指示相机或输入设备的图像传感器类型。 |
+| FileSource | `41728` | 文件来源。 |
+| SceneType | `41729` | 指示场景类型。如果是 DSC 记录的图像，此标签值应始终设为 1，表示图像是直接拍摄的。 |
+| CFAPattern | `41730` | 指示使用单芯片彩色区域传感器时图像传感器的颜色滤光阵列 (CFA) 几何模式。该信息并不适用于所有感测方式。 |
+| CustomRendered | `41985` | 此标签指示对图像数据进行特殊处理，例如针对输出的渲染。进行特殊处理时，读取器应禁用或尽量减少后续处理。 |
+| ExposureMode | `41986` | 此标签指示拍摄时设定的曝光模式。在自动包围曝光模式下，摄像机会以不同曝光设置拍摄同一场景的多帧图像。 |
+| WhiteBalance | `41987` | 此标签指示拍摄时设定的白平衡模式。 |
+| DigitalZoomRatio | `41988` | 此标签指示拍摄时的数码变焦比例。如果记录值的分子为 0，则表示未使用数码变焦。 |
+| FocalLengthIn35MmFilm | `41989` | 此标签指示假设为 35mm 胶片相机时的等效焦距，单位为毫米。值为 0 表示焦距未知。请注意，此标签不同于 FocalLength 标签。 |
+| SceneCaptureType | `41990` | 此标签指示拍摄的场景类型。它也可用于记录拍摄时的模式。 |
+| GainControl | `41991` | 此标签指示整体图像增益调整的程度。 |
+| Contrast | `41992` | 此标签指示拍摄时相机所施加的对比度处理方向。 |
+| Saturation | `41993` | 此标签指示拍摄时相机所施加的饱和度处理方向。 |
+| Sharpness | `41994` | 此标签指示相机拍摄图像时所应用的锐度处理方向 |
+| DeviceSettingDescription | `41995` | 此标签指示特定相机型号的拍摄条件信息。该标签仅用于在阅读器中指示拍摄条件。 |
+| SubjectDistanceRange | `41996` | 此标签指示到主体的距离。 |
+| ImageUniqueID | `42016` | 图像唯一标识。 |
+| GPSVersionID | `0` | 指示 GPSInfoIFD 的版本。 |
+| GPSLatitudeRef | `1` | 指示纬度是北纬还是南纬。 |
+| GPSLatitude | `2` | 指示纬度。纬度以三个有理数值表示，分别为度、分、秒。如果纬度以度、分、秒表示，典型格式为 dd/1,mm/1,ss/1。当使用度和分且例如分的分数保留两位小数时，格式为 dd/1,mmmm/100,0/1。 |
+| GPSLongitudeRef | `3` | 指示经度是东经还是西经。 |
+| GPSLongitude | `4` | 指示经度。经度以三个有理数值表示，分别为度、分、秒。如果经度以度、分、秒表示，典型格式为 ddd/1,mm/1,ss/1。当使用度和分且例如分的分数保留两位小数时，格式为 ddd/1,mmmm/100,0/1。 |
+| GPSAltitudeRef | `5` | 指示用作参考高度的海拔。如果参考为海平面且海拔高于海平面，则给出 0。如果海拔低于海平面，则给出 1，并在 GPSAltitude 标签中以绝对值表示海拔。 |
+| GPSAltitude | `6` | 根据 GPSAltitudeRef 中的参考指示海拔。海拔以一个有理数值表示，参考单位为米。 |
+| GPSTimestamp | `7` | 指示时间为 UTC（协调世界时）。时间戳以三个有理数值表示，分别为小时、分钟和秒。 |
+| GPSSatellites | `8` | 指示用于测量的 GPS 卫星。此标签可用于描述卫星数量、其 ID 编号、仰角、方位角、信噪比以及其他以 ASCII 记号表示的信息。格式未指定。如果 GPS 接收器无法进行测量，则该标签的值应设为 NULL。 |
+| GPSStatus | `9` | 指示图像记录时 GPS 接收器的状态。 |
+| GPSMeasureMode | `10` | 指示 GPS 测量模式。- 二维或三维。 |
+| GPSDOP | `11` | 指示 GPS DOP（数据精度等级）。在二维测量时写入 HDOP 值，三维测量时写入 PDOP 值。 |
+| GPSSpeedRef | `12` | 指示用于表示 GPS 接收器移动速度的单位。'K'、'M' 和 'N' 分别代表公里每小时、英里每小时和节。 |
+| GPSSpeed | `13` | 指示 GPS 接收器的移动速度。 |
+| GPSTrackRef | `14` | 指示给出 GPS 接收器移动方向的参考。'T' 表示真北方向，'M' 表示磁北方向。 |
+| GPSTrack | `15` | 指示 GPS 接收器的移动方向。取值范围为 0.00 至 359.99。 |
+| GPSImgDirectionRef | `16` | 指示给出图像拍摄时方向的参考。'T' 表示真北方向，'M' 表示磁北方向。 |
+| GPSImgDirection | `17` | 指示图像拍摄时的方向。取值范围为 0.00 至 359.99。 |
+| GPSMapDatum | `18` | 指示 GPS 接收器使用的测地测量数据。 |
+| GPSDestLatitudeRef | `19` | 指示目的地点的纬度是北纬还是南纬。ASCII 值 'N' 表示北纬，'S' 表示南纬。 |
+| GPSDestLatitude | `20` | 指示目的地点的纬度。纬度以三个有理数值表示，分别为度、分、秒。如果纬度以度、分、秒表示，典型格式为 dd/1,mm/1,ss/1。当使用度和分且例如分的分数保留两位小数时，格式为 dd/1,mmmm/100,0/1。 |
+| GPSDestLongitudeRef | `21` | 指示目的地点的经度是东经还是西经。ASCII 'E' 表示东经，'W' 表示西经。 |
+| GPSDestLongitude | `22` | 指示目的地点的经度。经度以三个有理数值分别表示度、分、秒。如果经度以度、分、秒表示，典型格式为 ddd/1,mm/1,ss/1。当使用度和分且例如分的分数保留两位小数时，格式为 ddd/1,mmmm/100,0/1。 |
+| GPSDestBearingRef | `23` | 指示用于给出指向目的地点的方位参考。'T' 表示真方向，'M' 表示磁方向。 |
+| GPSDestBearing | `24` | 指示指向目的地点的方位。取值范围为 0.00 到 359.99。 |
+| GPSDestDistanceRef | `25` | 指示用于表示到目的地点距离的单位。'K'、'M' 和 'N' 分别代表公里、英里和节。 |
+| GPSDestDistance | `26` | 指示到目的地点的距离。 |
+| GPSProcessingMethod | `27` | 记录用于定位的方式名称的字符字符串。第一个字节指示使用的字符编码，随后是方式名称。 |
+| GPSAreaInformation | `28` | 记录 GPS 区域名称的字符字符串。第一个字节指示使用的字符编码，随后是 GPS 区域名称。 |
+| GPSDateStamp | `29` | 记录相对于 UTC（协调世界时）的日期和时间信息的字符字符串。格式为 YYYY:MM:DD。 |
+| GPSDifferential | `30` | 指示是否对 GPS 接收机应用差分校正。 |
+| StripOffsets | `273` | 对于每个条带，指示该条带的字节偏移。建议选择使条带字节数不超过 64 Kbytes。辅助标签。 |
+| JPEGInterchangeFormat | `513` | 指向 JPEG 压缩缩略图数据起始字节（SOI）的偏移。此偏移不用于主图像的 JPEG 数据。 |
+| JPEGInterchangeFormatLength | `514` | JPEG 压缩缩略图数据的字节数。此字段不用于主图像的 JPEG 数据。JPEG 缩略图不被分割，而是作为从 SOI 到 EOI 的连续 JPEG 位流记录。Appn 和 COM 标记不应记录。压缩缩略图的记录不得超过 64 Kbytes，包括在 APP1 中记录的所有其他数据。 |
+| ExifIfdPointer | `34665` | 指向 Exif IFD 的指针。该互操作性 Exif IFD 与 TIFF 中指定的 IFD 结构相同，但通常不包含图像数据，如同 TIFF 情形。 |
+| GPSIfdPointer | `34853` | gps ifd 指针。 |
+| RowsPerStrip | `278` | 每条带的行数。当图像被划分为条带时，这是一条带中图像的行数。 |
+| StripByteCounts | `279` | 每条带的总字节数。 |
+| PixelXDimension | `40962` | 特定于压缩数据的信息。当记录压缩文件时，应在此标签中记录有效图像的宽度，无论是否存在填充数据或重启标记。 |
+| PixelYDimension | `40963` | 特定于压缩数据的信息。当记录压缩文件时，应在此标签中记录有效图像的高度。 |
+| Gamma | `42240` | 伽马值 |
+| SensitivityType | `34864` | 摄影感光度类型 |
+| StandardOutputSensitivity | `34865` | 指示相机的标准输出感光度 |
+| RecommendedExposureIndex | `34866` | 指示推荐的曝光指数 |
+| ISOSpeed | `34867` | 关于 ISO 12232 中定义的 ISO 速度值的信息 |
+| ISOSpeedLatitudeYYY | `34868` | 此标签指示 ISO 12232 中定义的 ISO 速度纬度 yyy 值 |
+| ISOSpeedLatitudeZZZ | `34869` | 此标签指示 ISO 12232 中定义的 ISO speed latitude zzz 值。 |
+| CameraOwnerName | `42032` | 包含相机所有者名称 |
+| BodySerialNumber | `42033` | 包含相机机身序列号 |
+| LensMake | `42035` | 此标签记录镜头制造商 |
+| LensModel | `42036` | 此标签记录镜头的型号名称和型号编号 |
+| LensSerialNumber | `42037` | 此标签记录可互换镜头的序列号 |
+| LensSpecification | `42034` | 此标签记录最小 focal length、最大 focal length、最小 focal length 下的最小 F number 以及最大 focal length 下的最小 F number |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.CAD.Exif](../../aspose.cad.exif)
-* 部件 [Aspose.CAD](../../)
+* namespace [Aspose.CAD.Exif](../../aspose.cad.exif/)
+* assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->

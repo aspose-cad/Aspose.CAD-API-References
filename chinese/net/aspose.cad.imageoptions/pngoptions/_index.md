@@ -1,10 +1,14 @@
 ---
-title: PngOptions
-second_title: Aspose.CAD for .NET API 参考
-description: png 文件格式创建选项
+title: "PngOptions 类"
+linktitle: "PngOptions"
+articleTitle: "PngOptions"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.ImageOptions.PngOptions 类。png 文件格式创建选项。"
 type: docs
-weight: 29810
-url: /zh/net/aspose.cad.imageoptions/pngoptions/
+weight: 410
+url: "/net/aspose.cad.imageoptions/pngoptions/"
+keywords: "PngOptions, Aspose.CAD.ImageOptions, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## PngOptions class
 
@@ -16,38 +20,39 @@ public class PngOptions : ImageOptionsBase
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [PngOptions](pngoptions#constructor)() | 初始化[`PngOptions`](../pngoptions)类的新实例。 |
-| [PngOptions](pngoptions#constructor_1)(PngOptions) | 初始化[`JpegOptions`](../jpegoptions)类的新实例。 |
+| [PngOptions](pngoptions/#constructor)() | 初始化 `PngOptions` 类的新实例。 |
+| [PngOptions](pngoptions/#constructor_1)(PngOptions) | 初始化 [`JpegOptions`](../jpegoptions/) 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [BitDepth](../../aspose.cad.imageoptions/pngoptions/bitdepth) { get; set; } | 位深度。 |
-| [ColorType](../../aspose.cad.imageoptions/pngoptions/colortype) { get; set; } | 获取或设置颜色的类型。 |
-| [CompressionLevel](../../aspose.cad.imageoptions/pngoptions/compressionlevel) { get; set; } | png 图像压缩级别在 0-9 范围内，其中 9 为最大压缩，0 为存储模式。 |
-| [FilterType](../../aspose.cad.imageoptions/pngoptions/filtertype) { get; set; } | 获取或设置png文件保存过程中使用的过滤器类型。 |
-| [InterruptionToken](../../aspose.cad/imageoptionsbase/interruptiontoken) { get; set; } | 可用于中断导出操作的令牌 |
-| [Layers](../../aspose.cad/imageoptionsbase/layers) { get; set; } | 获取或设置必须导出的图层名称。 如果未设置名称，所有数据将不带图层导出。 |
-| virtual [Palette](../../aspose.cad/imageoptionsbase/palette) { get; set; } | 获取或设置调色板。 |
-| [Pc3File](../../aspose.cad/imageoptionsbase/pc3file) { get; set; } | 获取或设置PC3文件全名。 |
-| [Progressive](../../aspose.cad.imageoptions/pngoptions/progressive) { get; set; } | 获取或设置一个值，该值指示此[`PngOptions`](../pngoptions)是否是渐进的。 |
-| virtual [ResolutionSettings](../../aspose.cad/imageoptionsbase/resolutionsettings) { get; set; } | 获取或设置分辨率设置。 |
-| [Rotation](../../aspose.cad/imageoptionsbase/rotation) { get; set; } | 获取或设置旋转、翻转或旋转和翻转图像的参数 .. |
-| [Source](../../aspose.cad/imageoptionsbase/source) { get; set; } | 获取或设置创建图像的源。 |
-| override [TargetFormat](../../aspose.cad.imageoptions/pngoptions/targetformat) { get; } |  |
-| [Timeout](../../aspose.cad/imageoptionsbase/timeout) { get; set; } | 导出操作的超时值 |
-| [UserWatermarkColor](../../aspose.cad/imageoptionsbase/userwatermarkcolor) { get; set; } | 用户生成水印的颜色 |
-| [UserWatermarkText](../../aspose.cad/imageoptionsbase/userwatermarktext) { get; set; } | 用户生成水印的文本 |
-| [VectorRasterizationOptions](../../aspose.cad/imageoptionsbase/vectorrasterizationoptions) { get; set; } | 获取或设置矢量光栅化选项。 |
-| override [XmpData](../../aspose.cad.imageoptions/pngoptions/xmpdata) { get; set; } | 获取或设置 XMP 元数据容器。 |
+| [BitDepth](../../aspose.cad.imageoptions/pngoptions/bitdepth/) { get; set; } | 位深度。 |
+| [CancellationToken](../../aspose.cad.imageoptions/imageoptionsbase/cancellationtoken/) { get; set; } | 可用于中断导出操作的令牌 |
+| [ColorType](../../aspose.cad.imageoptions/pngoptions/colortype/) { get; set; } | 获取或设置颜色的类型。 |
+| [CompressionLevel](../../aspose.cad.imageoptions/pngoptions/compressionlevel/) { get; set; } | png 图像压缩级别在 0-9 范围内，9 为最高压缩，0 为存储模式。 |
+| [FilterType](../../aspose.cad.imageoptions/pngoptions/filtertype/) { get; set; } | 获取或设置 png 文件保存过程中使用的过滤器类型。 |
+| [Layers](../../aspose.cad.imageoptions/imageoptionsbase/layers/) { get; set; } | 获取或设置必须导出的图层名称列表。如果未设置名称，则所有数据将在没有图层的情况下导出。 |
+| [OutputMode](../../aspose.cad.imageoptions/imageoptionsbase/outputmode/) { get; set; } | 是否将内容直接转换为目标格式，或先渲染为线条再保存。转换模式适用于 DWG\\DXF、DWF 源格式。 |
+| virtual [Palette](../../aspose.cad.imageoptions/imageoptionsbase/palette/) { get; set; } | 获取或设置颜色调色板。 |
+| [Pc3File](../../aspose.cad.imageoptions/imageoptionsbase/pc3file/) { get; set; } | 获取或设置 PC3 文件的完整名称。 |
+| [Progressive](../../aspose.cad.imageoptions/pngoptions/progressive/) { get; set; } | 获取或设置一个值，指示此 `PngOptions` 是否为渐进式。 |
+| [RenderToGraphicsBound](../../aspose.cad.imageoptions/imageoptionsbase/rendertographicsbound/) { get; set; } | 获取或设置一个值，以指示渲染时使用哪种图像尺寸：图形尺寸（true，默认）或元数据中设置的尺寸（false）。 |
+| virtual [ResolutionSettings](../../aspose.cad.imageoptions/imageoptionsbase/resolutionsettings/) { get; set; } | 获取或设置分辨率设置。 |
+| [Rotation](../../aspose.cad.imageoptions/imageoptionsbase/rotation/) { get; set; } | 获取或设置图像旋转、翻转或旋转并翻转的参数。 |
+| [Source](../../aspose.cad.imageoptions/imageoptionsbase/source/) { get; set; } | 获取或设置创建图像的来源。 |
+| override [TargetFormat](../../aspose.cad.imageoptions/pngoptions/targetformat/) { get; } |  |
+| [Timeout](../../aspose.cad.imageoptions/imageoptionsbase/timeout/) { get; set; } | 导出操作的超时时间值（毫秒） |
+| [UserWatermarkColor](../../aspose.cad.imageoptions/imageoptionsbase/userwatermarkcolor/) { get; set; } | 用户生成水印的颜色 |
+| [UserWatermarkText](../../aspose.cad.imageoptions/imageoptionsbase/userwatermarktext/) { get; set; } | 用户生成水印的文本 |
+| [VectorRasterizationOptions](../../aspose.cad.imageoptions/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | 获取或设置矢量光栅化选项。 |
+| override [XmpData](../../aspose.cad.imageoptions/pngoptions/xmpdata/) { get; set; } | 获取或设置 XMP 元数据容器。 |
 
-### 也可以看看
+### 另请参阅
 
-* class [ImageOptionsBase](../../aspose.cad/imageoptionsbase)
-* 命名空间 [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions)
-* 部件 [Aspose.CAD](../../)
+* class [ImageOptionsBase](../imageoptionsbase/)
+* namespace [Aspose.CAD.ImageOptions](../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->

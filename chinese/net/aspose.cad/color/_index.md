@@ -1,197 +1,206 @@
 ---
-title: Color
-second_title: Aspose.CAD for .NET API 参考
-description: 
+title: "颜色结构体"
+linktitle: "颜色"
+articleTitle: "颜色"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.Color 结构体。像素的颜色。"
 type: docs
-weight: 350
-url: /zh/net/aspose.cad/color/
+weight: 110
+url: "/net/aspose.cad/color/"
+product_version: "26.9"
 ---
-## Color structure
+## Color struct
+
+像素的颜色。
 
 ```csharp
 public struct Color
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [AliceBlue](../../aspose.cad/color/aliceblue) { get; } |  |
-| static [AntiqueWhite](../../aspose.cad/color/antiquewhite) { get; } |  |
-| static [Aqua](../../aspose.cad/color/aqua) { get; } |  |
-| static [Aquamarine](../../aspose.cad/color/aquamarine) { get; } |  |
-| static [Azure](../../aspose.cad/color/azure) { get; } |  |
-| static [Beige](../../aspose.cad/color/beige) { get; } |  |
-| static [Bisque](../../aspose.cad/color/bisque) { get; } |  |
-| static [Black](../../aspose.cad/color/black) { get; } |  |
-| static [BlanchedAlmond](../../aspose.cad/color/blanchedalmond) { get; } |  |
-| static [Blue](../../aspose.cad/color/blue) { get; } |  |
-| static [BlueViolet](../../aspose.cad/color/blueviolet) { get; } |  |
-| static [Brown](../../aspose.cad/color/brown) { get; } |  |
-| static [BurlyWood](../../aspose.cad/color/burlywood) { get; } |  |
-| static [CadetBlue](../../aspose.cad/color/cadetblue) { get; } |  |
-| static [Chartreuse](../../aspose.cad/color/chartreuse) { get; } |  |
-| static [Chocolate](../../aspose.cad/color/chocolate) { get; } |  |
-| static [Coral](../../aspose.cad/color/coral) { get; } |  |
-| static [CornflowerBlue](../../aspose.cad/color/cornflowerblue) { get; } |  |
-| static [Cornsilk](../../aspose.cad/color/cornsilk) { get; } |  |
-| static [Crimson](../../aspose.cad/color/crimson) { get; } |  |
-| static [Cyan](../../aspose.cad/color/cyan) { get; } |  |
-| static [DarkBlue](../../aspose.cad/color/darkblue) { get; } |  |
-| static [DarkCyan](../../aspose.cad/color/darkcyan) { get; } |  |
-| static [DarkGoldenrod](../../aspose.cad/color/darkgoldenrod) { get; } |  |
-| static [DarkGray](../../aspose.cad/color/darkgray) { get; } |  |
-| static [DarkGreen](../../aspose.cad/color/darkgreen) { get; } |  |
-| static [DarkKhaki](../../aspose.cad/color/darkkhaki) { get; } |  |
-| static [DarkMagenta](../../aspose.cad/color/darkmagenta) { get; } |  |
-| static [DarkOliveGreen](../../aspose.cad/color/darkolivegreen) { get; } |  |
-| static [DarkOrange](../../aspose.cad/color/darkorange) { get; } |  |
-| static [DarkOrchid](../../aspose.cad/color/darkorchid) { get; } |  |
-| static [DarkRed](../../aspose.cad/color/darkred) { get; } |  |
-| static [DarkSalmon](../../aspose.cad/color/darksalmon) { get; } |  |
-| static [DarkSeaGreen](../../aspose.cad/color/darkseagreen) { get; } |  |
-| static [DarkSlateBlue](../../aspose.cad/color/darkslateblue) { get; } |  |
-| static [DarkSlateGray](../../aspose.cad/color/darkslategray) { get; } |  |
-| static [DarkTurquoise](../../aspose.cad/color/darkturquoise) { get; } |  |
-| static [DarkViolet](../../aspose.cad/color/darkviolet) { get; } |  |
-| static [DeepPink](../../aspose.cad/color/deeppink) { get; } |  |
-| static [DeepSkyBlue](../../aspose.cad/color/deepskyblue) { get; } |  |
-| static [DimGray](../../aspose.cad/color/dimgray) { get; } |  |
-| static [DodgerBlue](../../aspose.cad/color/dodgerblue) { get; } |  |
-| static [Empty](../../aspose.cad/color/empty) { get; } |  |
-| static [Firebrick](../../aspose.cad/color/firebrick) { get; } |  |
-| static [FloralWhite](../../aspose.cad/color/floralwhite) { get; } |  |
-| static [ForestGreen](../../aspose.cad/color/forestgreen) { get; } |  |
-| static [Fuchsia](../../aspose.cad/color/fuchsia) { get; } |  |
-| static [Gainsboro](../../aspose.cad/color/gainsboro) { get; } |  |
-| static [GhostWhite](../../aspose.cad/color/ghostwhite) { get; } |  |
-| static [Gold](../../aspose.cad/color/gold) { get; } |  |
-| static [Goldenrod](../../aspose.cad/color/goldenrod) { get; } |  |
-| static [Gray](../../aspose.cad/color/gray) { get; } |  |
-| static [Green](../../aspose.cad/color/green) { get; } |  |
-| static [GreenYellow](../../aspose.cad/color/greenyellow) { get; } |  |
-| static [Honeydew](../../aspose.cad/color/honeydew) { get; } |  |
-| static [HotPink](../../aspose.cad/color/hotpink) { get; } |  |
-| static [IndianRed](../../aspose.cad/color/indianred) { get; } |  |
-| static [Indigo](../../aspose.cad/color/indigo) { get; } |  |
-| static [Ivory](../../aspose.cad/color/ivory) { get; } |  |
-| static [Khaki](../../aspose.cad/color/khaki) { get; } |  |
-| static [Lavender](../../aspose.cad/color/lavender) { get; } |  |
-| static [LavenderBlush](../../aspose.cad/color/lavenderblush) { get; } |  |
-| static [LawnGreen](../../aspose.cad/color/lawngreen) { get; } |  |
-| static [LemonChiffon](../../aspose.cad/color/lemonchiffon) { get; } |  |
-| static [LightBlue](../../aspose.cad/color/lightblue) { get; } |  |
-| static [LightCoral](../../aspose.cad/color/lightcoral) { get; } |  |
-| static [LightCyan](../../aspose.cad/color/lightcyan) { get; } |  |
-| static [LightGoldenrodYellow](../../aspose.cad/color/lightgoldenrodyellow) { get; } |  |
-| static [LightGray](../../aspose.cad/color/lightgray) { get; } |  |
-| static [LightGreen](../../aspose.cad/color/lightgreen) { get; } |  |
-| static [LightPink](../../aspose.cad/color/lightpink) { get; } |  |
-| static [LightSalmon](../../aspose.cad/color/lightsalmon) { get; } |  |
-| static [LightSeaGreen](../../aspose.cad/color/lightseagreen) { get; } |  |
-| static [LightSkyBlue](../../aspose.cad/color/lightskyblue) { get; } |  |
-| static [LightSlateGray](../../aspose.cad/color/lightslategray) { get; } |  |
-| static [LightSteelBlue](../../aspose.cad/color/lightsteelblue) { get; } |  |
-| static [LightYellow](../../aspose.cad/color/lightyellow) { get; } |  |
-| static [Lime](../../aspose.cad/color/lime) { get; } |  |
-| static [LimeGreen](../../aspose.cad/color/limegreen) { get; } |  |
-| static [Linen](../../aspose.cad/color/linen) { get; } |  |
-| static [Magenta](../../aspose.cad/color/magenta) { get; } |  |
-| static [Maroon](../../aspose.cad/color/maroon) { get; } |  |
-| static [MediumAquamarine](../../aspose.cad/color/mediumaquamarine) { get; } |  |
-| static [MediumBlue](../../aspose.cad/color/mediumblue) { get; } |  |
-| static [MediumOrchid](../../aspose.cad/color/mediumorchid) { get; } |  |
-| static [MediumPurple](../../aspose.cad/color/mediumpurple) { get; } |  |
-| static [MediumSeaGreen](../../aspose.cad/color/mediumseagreen) { get; } |  |
-| static [MediumSlateBlue](../../aspose.cad/color/mediumslateblue) { get; } |  |
-| static [MediumSpringGreen](../../aspose.cad/color/mediumspringgreen) { get; } |  |
-| static [MediumTurquoise](../../aspose.cad/color/mediumturquoise) { get; } |  |
-| static [MediumVioletRed](../../aspose.cad/color/mediumvioletred) { get; } |  |
-| static [MidnightBlue](../../aspose.cad/color/midnightblue) { get; } |  |
-| static [MintCream](../../aspose.cad/color/mintcream) { get; } |  |
-| static [MistyRose](../../aspose.cad/color/mistyrose) { get; } |  |
-| static [Moccasin](../../aspose.cad/color/moccasin) { get; } |  |
-| static [NavajoWhite](../../aspose.cad/color/navajowhite) { get; } |  |
-| static [Navy](../../aspose.cad/color/navy) { get; } |  |
-| static [OldLace](../../aspose.cad/color/oldlace) { get; } |  |
-| static [Olive](../../aspose.cad/color/olive) { get; } |  |
-| static [OliveDrab](../../aspose.cad/color/olivedrab) { get; } |  |
-| static [Orange](../../aspose.cad/color/orange) { get; } |  |
-| static [OrangeRed](../../aspose.cad/color/orangered) { get; } |  |
-| static [Orchid](../../aspose.cad/color/orchid) { get; } |  |
-| static [PaleGoldenrod](../../aspose.cad/color/palegoldenrod) { get; } |  |
-| static [PaleGreen](../../aspose.cad/color/palegreen) { get; } |  |
-| static [PaleTurquoise](../../aspose.cad/color/paleturquoise) { get; } |  |
-| static [PaleVioletRed](../../aspose.cad/color/palevioletred) { get; } |  |
-| static [PapayaWhip](../../aspose.cad/color/papayawhip) { get; } |  |
-| static [PeachPuff](../../aspose.cad/color/peachpuff) { get; } |  |
-| static [Peru](../../aspose.cad/color/peru) { get; } |  |
-| static [Pink](../../aspose.cad/color/pink) { get; } |  |
-| static [Plum](../../aspose.cad/color/plum) { get; } |  |
-| static [PowderBlue](../../aspose.cad/color/powderblue) { get; } |  |
-| static [Purple](../../aspose.cad/color/purple) { get; } |  |
-| static [Red](../../aspose.cad/color/red) { get; } |  |
-| static [RosyBrown](../../aspose.cad/color/rosybrown) { get; } |  |
-| static [RoyalBlue](../../aspose.cad/color/royalblue) { get; } |  |
-| static [SaddleBrown](../../aspose.cad/color/saddlebrown) { get; } |  |
-| static [Salmon](../../aspose.cad/color/salmon) { get; } |  |
-| static [SandyBrown](../../aspose.cad/color/sandybrown) { get; } |  |
-| static [SeaGreen](../../aspose.cad/color/seagreen) { get; } |  |
-| static [SeaShell](../../aspose.cad/color/seashell) { get; } |  |
-| static [Sienna](../../aspose.cad/color/sienna) { get; } |  |
-| static [Silver](../../aspose.cad/color/silver) { get; } |  |
-| static [SkyBlue](../../aspose.cad/color/skyblue) { get; } |  |
-| static [SlateBlue](../../aspose.cad/color/slateblue) { get; } |  |
-| static [SlateGray](../../aspose.cad/color/slategray) { get; } |  |
-| static [Snow](../../aspose.cad/color/snow) { get; } |  |
-| static [SpringGreen](../../aspose.cad/color/springgreen) { get; } |  |
-| static [SteelBlue](../../aspose.cad/color/steelblue) { get; } |  |
-| static [Tan](../../aspose.cad/color/tan) { get; } |  |
-| static [Teal](../../aspose.cad/color/teal) { get; } |  |
-| static [Thistle](../../aspose.cad/color/thistle) { get; } |  |
-| static [Tomato](../../aspose.cad/color/tomato) { get; } |  |
-| static [Transparent](../../aspose.cad/color/transparent) { get; } |  |
-| static [Turquoise](../../aspose.cad/color/turquoise) { get; } |  |
-| static [Violet](../../aspose.cad/color/violet) { get; } |  |
-| static [Wheat](../../aspose.cad/color/wheat) { get; } |  |
-| static [White](../../aspose.cad/color/white) { get; } |  |
-| static [WhiteSmoke](../../aspose.cad/color/whitesmoke) { get; } |  |
-| static [Yellow](../../aspose.cad/color/yellow) { get; } |  |
-| static [YellowGreen](../../aspose.cad/color/yellowgreen) { get; } |  |
-| [A](../../aspose.cad/color/a) { get; } |  |
-| [B](../../aspose.cad/color/b) { get; } |  |
-| [G](../../aspose.cad/color/g) { get; } |  |
-| [IsEmpty](../../aspose.cad/color/isempty) { get; } |  |
-| [IsKnownColor](../../aspose.cad/color/isknowncolor) { get; } |  |
-| [IsNamedColor](../../aspose.cad/color/isnamedcolor) { get; } |  |
-| [Name](../../aspose.cad/color/name) { get; } |  |
-| [R](../../aspose.cad/color/r) { get; } |  |
+| A { get; } | 获取此 `Color` 结构的 alpha 分量值。 |
+| AliceBlue { get; } | 获取系统定义的颜色。 |
+| AntiqueWhite { get; } | 获取系统定义的颜色。 |
+| Aqua { get; } | 获取系统定义的颜色。 |
+| Aquamarine { get; } | 获取系统定义的颜色。 |
+| Azure { get; } | 获取系统定义的颜色。 |
+| B { get; } | 获取此 `Color` 结构的蓝色分量值。 |
+| Beige { get; } | 获取系统定义的颜色。 |
+| Bisque { get; } | 获取系统定义的颜色。 |
+| Black { get; } | 获取系统定义的颜色。 |
+| BlanchedAlmond { get; } | 获取系统定义的颜色。 |
+| Blue { get; } | 获取系统定义的颜色。 |
+| BlueViolet { get; } | 获取系统定义的颜色。 |
+| Brown { get; } | 获取系统定义的颜色。 |
+| BurlyWood { get; } | 获取系统定义的颜色。 |
+| CadetBlue { get; } | 获取系统定义的颜色。 |
+| Chartreuse { get; } | 获取系统定义的颜色。 |
+| Chocolate { get; } | 获取系统定义的颜色。 |
+| Coral { get; } | 获取系统定义的颜色。 |
+| CornflowerBlue { get; } | 获取系统定义的颜色。 |
+| Cornsilk { get; } | 获取系统定义的颜色。 |
+| Crimson { get; } | 获取系统定义的颜色。 |
+| Cyan { get; } | 获取系统定义的颜色。 |
+| DarkBlue { get; } | 获取系统定义的颜色。 |
+| DarkCyan { get; } | 获取系统定义的颜色。 |
+| DarkGoldenrod { get; } | 获取系统定义的颜色。 |
+| DarkGray { get; } | 获取系统定义的颜色。 |
+| DarkGreen { get; } | 获取系统定义的颜色。 |
+| DarkKhaki { get; } | 获取系统定义的颜色。 |
+| DarkMagenta { get; } | 获取系统定义的颜色。 |
+| DarkOliveGreen { get; } | 获取系统定义的颜色。 |
+| DarkOrange { get; } | 获取系统定义的颜色。 |
+| DarkOrchid { get; } | 获取系统定义的颜色。 |
+| DarkRed { get; } | 获取系统定义的颜色。 |
+| DarkSalmon { get; } | 获取系统定义的颜色。 |
+| DarkSeaGreen { get; } | 获取系统定义的颜色。 |
+| DarkSlateBlue { get; } | 获取系统定义的颜色。 |
+| DarkSlateGray { get; } | 获取系统定义的颜色。 |
+| DarkTurquoise { get; } | 获取系统定义的颜色。 |
+| DarkViolet { get; } | 获取系统定义的颜色。 |
+| DeepPink { get; } | 获取系统定义的颜色。 |
+| DeepSkyBlue { get; } | 获取系统定义的颜色。 |
+| DimGray { get; } | 获取系统定义的颜色。 |
+| DodgerBlue { get; } | 获取系统定义的颜色。 |
+| Empty { get; } | 获取一个空的 `Color`。 |
+| Firebrick { get; } | 获取系统定义的颜色。 |
+| FloralWhite { get; } | 获取系统定义的颜色。 |
+| ForestGreen { get; } | 获取系统定义的颜色。 |
+| Fuchsia { get; } | 获取系统定义的颜色。 |
+| G { get; } | 获取此 `Color` 结构体的绿色分量值。 |
+| Gainsboro { get; } | 获取系统定义的颜色。 |
+| GhostWhite { get; } | 获取系统定义的颜色。 |
+| Gold { get; } | 获取系统定义的颜色。 |
+| Goldenrod { get; } | 获取系统定义的颜色。 |
+| Gray { get; } | 获取系统定义的颜色。 |
+| Green { get; } | 获取系统定义的颜色。 |
+| GreenYellow { get; } | 获取系统定义的颜色。 |
+| Honeydew { get; } | 获取系统定义的颜色。 |
+| HotPink { get; } | 获取系统定义的颜色。 |
+| IndianRed { get; } | 获取系统定义的颜色。 |
+| Indigo { get; } | 获取系统定义的颜色。 |
+| IsEmpty { get; } | 获取一个值，指示此 `Color` 结构体是否未初始化。 |
+| IsKnownColor { get; } | 获取一个值，指示此 `Color` 结构体是否为预定义颜色。预定义颜色由 [`KnownColor`](../knowncolor/) 枚举的元素表示。 |
+| IsNamedColor { get; } | 获取一个值，指示此 `Color` 结构体是命名颜色还是 [`KnownColor`](../knowncolor/) 枚举的成员。 |
+| Ivory { get; } | 获取系统定义的颜色。 |
+| Khaki { get; } | 获取系统定义的颜色。 |
+| Lavender { get; } | 获取系统定义的颜色。 |
+| LavenderBlush { get; } | 获取系统定义的颜色。 |
+| 草坪绿 { get; } | 获取系统定义的颜色。 |
+| 柠檬绸 { get; } | 获取系统定义的颜色。 |
+| 浅蓝色 { get; } | 获取系统定义的颜色。 |
+| 浅珊瑚色 { get; } | 获取系统定义的颜色。 |
+| 浅青色 { get; } | 获取系统定义的颜色。 |
+| 浅金菊黄 { get; } | 获取系统定义的颜色。 |
+| 浅灰色 { get; } | 获取系统定义的颜色。 |
+| 浅绿 { get; } | 获取系统定义的颜色。 |
+| 浅粉红 { get; } | 获取系统定义的颜色。 |
+| 浅鲑鱼色 { get; } | 获取系统定义的颜色。 |
+| 浅海绿色 { get; } | 获取系统定义的颜色。 |
+| 浅天空蓝 { get; } | 获取系统定义的颜色。 |
+| 浅石板灰 { get; } | 获取系统定义的颜色。 |
+| 浅钢蓝 { get; } | 获取系统定义的颜色。 |
+| 浅黄色 { get; } | 获取系统定义的颜色。 |
+| 青柠色 { get; } | 获取系统定义的颜色。 |
+| 青柠绿 { get; } | 获取系统定义的颜色。 |
+| 亚麻色 { get; } | 获取系统定义的颜色。 |
+| 洋红 { get; } | 获取系统定义的颜色。 |
+| 栗色 { get; } | 获取系统定义的颜色。 |
+| 中等海蓝宝石色 { get; } | 获取系统定义的颜色。 |
+| 中蓝色 { get; } | 获取系统定义的颜色。 |
+| 中等兰花紫 { get; } | 获取系统定义的颜色。 |
+| 中等紫色 { get; } | 获取系统定义的颜色。 |
+| 中等海绿色 { get; } | 获取系统定义的颜色。 |
+| MediumSlateBlue { get; } | 获取系统定义的颜色。 |
+| MediumSpringGreen { get; } | 获取系统定义的颜色。 |
+| MediumTurquoise { get; } | 获取系统定义的颜色。 |
+| MediumVioletRed { get; } | 获取系统定义的颜色。 |
+| MidnightBlue { get; } | 获取系统定义的颜色。 |
+| MintCream { get; } | 获取系统定义的颜色。 |
+| MistyRose { get; } | 获取系统定义的颜色。 |
+| Moccasin { get; } | 获取系统定义的颜色。 |
+| Name { get; } | 获取此 `Color` 的名称。 |
+| NavajoWhite { get; } | 获取系统定义的颜色。 |
+| Navy { get; } | 获取系统定义的颜色。 |
+| OldLace { get; } | 获取系统定义的颜色。 |
+| Olive { get; } | 获取系统定义的颜色。 |
+| OliveDrab { get; } | 获取系统定义的颜色。 |
+| Orange { get; } | 获取系统定义的颜色。 |
+| OrangeRed { get; } | 获取系统定义的颜色。 |
+| Orchid { get; } | 获取系统定义的颜色。 |
+| PaleGoldenrod { get; } | 获取系统定义的颜色。 |
+| PaleGreen { get; } | 获取系统定义的颜色。 |
+| PaleTurquoise { get; } | 获取系统定义的颜色。 |
+| PaleVioletRed { get; } | 获取系统定义的颜色。 |
+| PapayaWhip { get; } | 获取系统定义的颜色。 |
+| PeachPuff { get; } | 获取系统定义的颜色。 |
+| Peru { get; } | 获取系统定义的颜色。 |
+| 粉红色 { get; } | 获取系统定义的颜色。 |
+| 梅子色 { get; } | 获取系统定义的颜色。 |
+| 粉蓝色 { get; } | 获取系统定义的颜色。 |
+| 紫色 { get; } | 获取系统定义的颜色。 |
+| R { get; } | 获取此 `Color` 结构的红色分量值。 |
+| 红色 { get; } | 获取系统定义的颜色。 |
+| 玫瑰棕色 { get; } | 获取系统定义的颜色。 |
+| 皇家蓝色 { get; } | 获取系统定义的颜色。 |
+| 鞍棕色 { get; } | 获取系统定义的颜色。 |
+| 鲑鱼色 { get; } | 获取系统定义的颜色。 |
+| 沙棕色 { get; } | 获取系统定义的颜色。 |
+| 海绿色 { get; } | 获取系统定义的颜色。 |
+| 海贝色 { get; } | 获取系统定义的颜色。 |
+| 赭色 { get; } | 获取系统定义的颜色。 |
+| 银色 { get; } | 获取系统定义的颜色。 |
+| 天空蓝色 { get; } | 获取系统定义的颜色。 |
+| 石板蓝色 { get; } | 获取系统定义的颜色。 |
+| 石板灰色 { get; } | 获取系统定义的颜色。 |
+| 雪白色 { get; } | 获取系统定义的颜色。 |
+| 春绿色 { get; } | 获取系统定义的颜色。 |
+| 钢蓝色 { get; } | 获取系统定义的颜色。 |
+| 黄褐色 { get; } | 获取系统定义的颜色。 |
+| 青绿色 { get; } | 获取系统定义的颜色。 |
+| 蓟紫色 { get; } | 获取系统定义的颜色。 |
+| Tomato { get; } | 获取系统定义的颜色。 |
+| Transparent { get; } | 获取系统定义的颜色。 |
+| Turquoise { get; } | 获取系统定义的颜色。 |
+| Violet { get; } | 获取系统定义的颜色。 |
+| Wheat { get; } | 获取系统定义的颜色。 |
+| White { get; } | 获取系统定义的颜色。 |
+| WhiteSmoke { get; } | 获取系统定义的颜色。 |
+| Yellow { get; } | 获取系统定义的颜色。 |
+| YellowGreen { get; } | 获取系统定义的颜色。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [FromArgb](../../aspose.cad/color/fromargb#fromargb)(int) |  |
-| static [FromArgb](../../aspose.cad/color/fromargb#fromargb_1)(int, Color) |  |
-| static [FromArgb](../../aspose.cad/color/fromargb#fromargb_2)(int, int, int) |  |
-| static [FromArgb](../../aspose.cad/color/fromargb#fromargb_3)(int, int, int, int) |  |
-| static [FromKnownColor](../../aspose.cad/color/fromknowncolor)(KnownColor) |  |
-| static [FromName](../../aspose.cad/color/fromname)(string) |  |
-| override [Equals](../../aspose.cad/color/equals)(object) |  |
-| [GetBrightness](../../aspose.cad/color/getbrightness)() |  |
-| override [GetHashCode](../../aspose.cad/color/gethashcode)() |  |
-| [GetHue](../../aspose.cad/color/gethue)() |  |
-| [GetSaturation](../../aspose.cad/color/getsaturation)() |  |
-| [ToArgb](../../aspose.cad/color/toargb)() |  |
-| [ToKnownColor](../../aspose.cad/color/toknowncolor)() |  |
-| override [ToString](../../aspose.cad/color/tostring)() |  |
-| static [MakeArgb](../../aspose.cad/color/makeargb)(int, int, int, int) |  |
-| [operator ==](../../aspose.cad/color/op_equality) |  |
-| [operator !=](../../aspose.cad/color/op_inequality) |  |
+| Equals(object) | 测试指定的对象是否为 `Color` 结构且等价于此 `Color` 结构。 |
+| FromArgb(int) | 从 32 位 ARGB 值创建一个 `Color` 结构。 |
+| FromArgb(int, Color) | 从指定的 `Color` 结构创建一个 `Color` 结构，但使用新的指定 alpha 值。虽然此方法允许为 alpha 值传入 32 位值，但该值限制为 8 位。 |
+| FromArgb(int, int, int) | 从指定的 8 位颜色值（红、绿、蓝）创建一个 `Color` 结构。alpha 值隐式为 255（完全不透明）。虽然此方法允许为每个颜色分量传入 32 位值，但每个分量的值限制为 8 位。 |
+| FromArgb(int, int, int, int) | 从四个 ARGB 分量（alpha、红、绿、蓝）值创建一个 `Color` 结构。虽然此方法允许为每个分量传入 32 位值，但每个分量的值限制为 8 位。 |
+| FromKnownColor(KnownColor) | 从指定的预定义颜色创建一个 `Color` 结构。 |
+| FromName(string) | 从指定的预定义颜色名称创建一个 `Color` 结构。 |
+| GetBrightness() | 获取此 `Color` 结构的色相-饱和度-亮度（HSB）亮度值。 |
+| GetHashCode() | 返回此 `Color` 结构的哈希码。 |
+| GetHue() | 获取此 `Color` 结构的色相-饱和度-亮度 (HSB) 色相值，单位为度。 |
+| GetSaturation() | 获取此 `Color` 结构的色相-饱和度-亮度 (HSB) 饱和度值。 |
+| MakeArgb(int, int, int, int) | 生成 ARGB 值。 |
+| ToArgb() | 获取此 `Color` 结构的 32 位 ARGB 值。 |
+| ToKnownColor() | 获取此 `Color` 结构的 [`KnownColor`](../knowncolor/) 值。 |
+| ToString() | 将此 `Color` 结构转换为可读的字符串。 |
 
-### 也可以看看
+## Operators
 
-* 命名空间 [Aspose.CAD](../../aspose.cad)
-* 部件 [Aspose.CAD](../../)
+| 名称 | 描述 |
+| --- | --- |
+| 运算符 == | 测试两个指定的 `Color` 结构是否等价。 |
+| 运算符 != | 测试两个指定的 `Color` 结构是否不同。 |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+### 另请参阅
+
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
+

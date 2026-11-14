@@ -1,0 +1,53 @@
+---
+title: "IBinaryWriter 接口"
+linktitle: "IBinaryWriter"
+articleTitle: "IBinaryWriter"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.FileFormats.Cgm.IBinaryWriter 接口。用于写入二进制值的写入器接口"
+type: docs
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm/ibinarywriter/"
+product_version: "26.9"
+---
+## IBinaryWriter interface
+
+写入二进制值的写入器接口
+
+```csharp
+public interface IBinaryWriter
+```
+
+## 方法
+
+| 名称 | 描述 |
+| --- | --- |
+| [FillToWord](../../aspose.cad.fileformats.cgm/ibinarywriter/filltoword/)() |  |
+| [Unsupported](../../aspose.cad.fileformats.cgm/ibinarywriter/unsupported/)(string) |  |
+| [WriteBool](../../aspose.cad.fileformats.cgm/ibinarywriter/writebool/)(bool) |  |
+| [WriteByte](../../aspose.cad.fileformats.cgm/ibinarywriter/writebyte/)(byte) |  |
+| [WriteColor](../../aspose.cad.fileformats.cgm/ibinarywriter/writecolor/)(CgmColor, int) |  |
+| [WriteColorIndex](../../aspose.cad.fileformats.cgm/ibinarywriter/writecolorindex/)(int) |  |
+| [WriteColorIndex](../../aspose.cad.fileformats.cgm/ibinarywriter/writecolorindex/)(int, int) |  |
+| [WriteDirectColor](../../aspose.cad.fileformats.cgm/ibinarywriter/writedirectcolor/)(Color) |  |
+| [WriteEmbeddedCommand](../../aspose.cad.fileformats.cgm/ibinarywriter/writeembeddedcommand/)(Command) |  |
+| [WriteEnum](../../aspose.cad.fileformats.cgm/ibinarywriter/writeenum/)(int) |  |
+| [WriteFixedString](../../aspose.cad.fileformats.cgm/ibinarywriter/writefixedstring/)(string) |  |
+| [WriteFloatingPoint](../../aspose.cad.fileformats.cgm/ibinarywriter/writefloatingpoint/)(double) |  |
+| [WriteFloatingPoint32](../../aspose.cad.fileformats.cgm/ibinarywriter/writefloatingpoint32/)(double) |  |
+| [WriteIndex](../../aspose.cad.fileformats.cgm/ibinarywriter/writeindex/)(int) |  |
+| [WriteInt](../../aspose.cad.fileformats.cgm/ibinarywriter/writeint/)(int) |  |
+| [WriteName](../../aspose.cad.fileformats.cgm/ibinarywriter/writename/)(int) |  |
+| [WritePoint](../../aspose.cad.fileformats.cgm/ibinarywriter/writepoint/)(CgmPoint) |  |
+| [WriteReal](../../aspose.cad.fileformats.cgm/ibinarywriter/writereal/)(double) |  |
+| [WriteSDR](../../aspose.cad.fileformats.cgm/ibinarywriter/writesdr/)(StructuredDataRecord) |  |
+| [WriteSizeSpecification](../../aspose.cad.fileformats.cgm/ibinarywriter/writesizespecification/)(double, SpecificationMode) |  |
+| [WriteString](../../aspose.cad.fileformats.cgm/ibinarywriter/writestring/)(string) |  |
+| [WriteUInt](../../aspose.cad.fileformats.cgm/ibinarywriter/writeuint/)(int, int) |  |
+| [WriteVdc](../../aspose.cad.fileformats.cgm/ibinarywriter/writevdc/)(double) |  |
+| [WriteViewportPoint](../../aspose.cad.fileformats.cgm/ibinarywriter/writeviewportpoint/)(ViewportPoint) |  |
+
+### 另请参阅
+
+* namespace [Aspose.CAD.FileFormats.Cgm](../../aspose.cad.fileformats.cgm/)
+* assembly [Aspose.CAD](../../)
+

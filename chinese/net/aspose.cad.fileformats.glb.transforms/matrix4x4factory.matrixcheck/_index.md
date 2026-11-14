@@ -1,0 +1,42 @@
+---
+title: "Matrix4x4Factory.MatrixCheck 枚举"
+linktitle: "Matrix4x4Factory.MatrixCheck"
+articleTitle: "Matrix4x4Factory.MatrixCheck"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.FileFormats.GLB.Transforms.Matrix4x4Factory.MatrixCheck 枚举。"
+type: docs
+weight: 50
+url: "/net/aspose.cad.fileformats.glb.transforms/matrix4x4factory.matrixcheck/"
+product_version: "26.9"
+---
+## Matrix4x4Factory.MatrixCheck enumeration
+
+
+
+```csharp
+[Flags]
+public enum MatrixCheck
+```
+
+### 值
+
+| 名称 | 值 | 描述 |
+| --- | --- | --- |
+| None | `0` |  |
+| Finite | `1` |  |
+| NonZero | `2` |  |
+| Identity | `4` |  |
+| IdentityColumn4 | `8` |  |
+| Invertible | `10` |  |
+| Decomposable | `20` |  |
+| PositiveDeterminant | `40` |  |
+| LocalTransform | `3A` |  |
+| WorldTransform | `1A` |  |
+| InverseBindMatrix | `1A` |  |
+
+### 另请参阅
+
+* class [Matrix4x4Factory](../matrix4x4factory/)
+* namespace [Aspose.CAD.FileFormats.GLB.Transforms](../../aspose.cad.fileformats.glb.transforms/)
+* assembly [Aspose.CAD](../../)
+

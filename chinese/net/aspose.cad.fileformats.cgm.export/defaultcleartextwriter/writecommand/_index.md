@@ -1,0 +1,26 @@
+---
+title: "DefaultClearTextWriter.WriteCommand"
+linktitle: "WriteCommand"
+articleTitle: "WriteCommand"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "DefaultClearTextWriter 方法。"
+type: docs
+weight: 40
+url: "/net/aspose.cad.fileformats.cgm.export/defaultcleartextwriter/writecommand/"
+product_version: "26.9"
+---
+## DefaultClearTextWriter.WriteCommand method
+
+
+
+```csharp
+public void WriteCommand(Command command)
+```
+
+### 另请参阅
+
+* class [Command](../../../aspose.cad.fileformats.cgm.commands/command/)
+* class [DefaultClearTextWriter](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Export](../../../aspose.cad.fileformats.cgm.export/)
+* assembly [Aspose.CAD](../../../)
+

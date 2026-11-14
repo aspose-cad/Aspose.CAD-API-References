@@ -1,0 +1,27 @@
+---
+title: "Toolkit.WithInstanceCustomAccessor"
+linktitle: "WithInstanceCustomAccessor"
+articleTitle: "WithInstanceCustomAccessor"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Toolkit 方法。"
+type: docs
+weight: 270
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withinstancecustomaccessor/"
+product_version: "26.9"
+---
+## Toolkit.WithInstanceCustomAccessor method
+
+
+
+```csharp
+public static MeshGpuInstancing WithInstanceCustomAccessor(this MeshGpuInstancing instancing, 
+    string attribute, IReadOnlyList<object> values)
+```
+
+### 另请参阅
+
+* class [MeshGpuInstancing](../../../aspose.cad.fileformats.glb/meshgpuinstancing/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
+

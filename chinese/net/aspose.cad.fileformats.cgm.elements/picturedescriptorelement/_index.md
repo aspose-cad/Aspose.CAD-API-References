@@ -1,0 +1,50 @@
+---
+title: "PictureDescriptorElement 枚举"
+linktitle: "PictureDescriptorElement"
+articleTitle: "PictureDescriptorElement"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.FileFormats.Cgm.Elements.PictureDescriptorElement 枚举。"
+type: docs
+weight: 160
+url: "/net/aspose.cad.fileformats.cgm.elements/picturedescriptorelement/"
+product_version: "26.9"
+---
+## PictureDescriptorElement enumeration
+
+
+
+```csharp
+public enum PictureDescriptorElement
+```
+
+### 值
+
+| 名称 | 值 | 描述 |
+| --- | --- | --- |
+| UNUSED_0 | `0` |  |
+| SCALING_MODE | `1` |  |
+| COLOUR_SELECTION_MODE | `2` |  |
+| LINE_WIDTH_SPECIFICATION_MODE | `3` |  |
+| MARKER_SIZE_SPECIFICATION_MODE | `4` |  |
+| EDGE_WIDTH_SPECIFICATION_MODE | `5` |  |
+| VDC_EXTENT | `6` |  |
+| BACKGROUND_COLOUR | `7` |  |
+| DEVICE_VIEWPORT | `8` |  |
+| DEVICE_VIEWPORT_SPECIFICATION_MODE | `9` |  |
+| DEVICE_VIEWPORT_MAPPING | `10` |  |
+| LINE_REPRESENTATION | `11` |  |
+| MARKER_REPRESENTATION | `12` |  |
+| TEXT_REPRESENTATION | `13` |  |
+| FILL_REPRESENTATION | `14` |  |
+| EDGE_REPRESENTATION | `15` |  |
+| INTERIOR_STYLE_SPECIFICATION_MODE | `16` |  |
+| LINE_AND_EDGE_TYPE_DEFINITION | `17` |  |
+| HATCH_STYLE_DEFINITION | `18` |  |
+| GEOMETRIC_PATTERN_DEFINITION | `19` |  |
+| APPLICATION_STRUCTURE_DIRECTORY | `20` |  |
+
+### 另请参阅
+
+* namespace [Aspose.CAD.FileFormats.Cgm.Elements](../../aspose.cad.fileformats.cgm.elements/)
+* assembly [Aspose.CAD](../../)
+

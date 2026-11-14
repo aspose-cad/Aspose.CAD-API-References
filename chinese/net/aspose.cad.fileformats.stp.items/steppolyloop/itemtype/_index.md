@@ -1,0 +1,26 @@
+---
+title: "StepPolyLoop.ItemType"
+linktitle: "ItemType"
+articleTitle: "ItemType"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "StepPolyLoop 属性。"
+type: docs
+weight: 20
+url: "/net/aspose.cad.fileformats.stp.items/steppolyloop/itemtype/"
+product_version: "26.9"
+---
+## StepPolyLoop.ItemType property
+
+
+
+```csharp
+public override StepItemType ItemType { get; }
+```
+
+### 另请参阅
+
+* enum [StepItemType](../../stepitemtype/)
+* class [StepPolyLoop](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
+

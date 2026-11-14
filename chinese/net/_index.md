@@ -1,130 +1,158 @@
 ---
-title: Aspose.CAD for .NET
+title: "Aspose.CAD 适用于 .NET"
+linktitle: "Aspose.CAD 适用于 .NET"
+articleTitle: "Aspose.CAD 适用于 .NET"
+description: "Aspose.CAD 适用于 .NET API 参考。读取、转换并渲染 DWG、DXF、DGN、IFC、STL、OBJ、IGES 等 CAD/3D 格式为 PDF、SVG 和图像。"
 type: docs
 weight: 10
-url: /zh/net/
-keywords: "Aspose.CAD for .NET, Aspose CAD, Aspose API Reference."
-description: Aspose.CAD 允许开发人员打开、读取和处理 AutoCAD DWG、DXF、DWT 和其他 CAD 和 BIM 文件格式，例如 DGN、DWF、PLT、CF2、OBJ、HPGL、IGS。
+url: "/net/"
+keywords: "Aspose.CAD for .NET, Aspose.CAD, Aspose API Reference"
 is_root: true
+product_version: "26.9"
 ---
+_已更新至 Aspose.CAD 适用于 .NET 26.9_
+
 ## 命名空间
 
 | 命名空间 | 描述 |
 | --- | --- |
-| [Aspose.CAD](./aspose.cad) | 命名空间是嵌套命名空间的核心，也是用于Aspose.CAD处理的最基本的对象。 |
-| [Aspose.CAD.CadExceptions](./aspose.cad.cadexceptions) | 命名空间包含任何核心 CAD 组件引发的异常。 |
-| [Aspose.CAD.CadExceptions.Compressors](./aspose.cad.cadexceptions.compressors) |  |
-| [Aspose.CAD.CadExceptions.ImageFormats](./aspose.cad.cadexceptions.imageformats) | 命名空间包含由支持的文件格式之一引发的异常。 |
-| [Aspose.CAD.Dxf.Core.FileFormats.Cad](./aspose.cad.dxf.core.fileformats.cad) |  |
-| [Aspose.CAD.Dxf.Core.FileFormats.Cad.Writers](./aspose.cad.dxf.core.fileformats.cad.writers) |  |
-| [Aspose.CAD.Dxf.Core.FileFormats.Dwg.PageAndSection](./aspose.cad.dxf.core.fileformats.dwg.pageandsection) |  |
-| [Aspose.CAD.Dxf.Core.Watermark](./aspose.cad.dxf.core.watermark) |  |
-| [Aspose.CAD.Dxf.Core.Watermark.Validator](./aspose.cad.dxf.core.watermark.validator) |  |
-| [Aspose.CAD.Exif](./aspose.cad.exif) | 命名空间包含EXIF相关的辅助类和方法。 |
-| [Aspose.CAD.Exif.Enums](./aspose.cad.exif.enums) |  |
-| [Aspose.CAD.Exporters.CadApsEntitiesExporter.CadAps3D](./aspose.cad.exporters.cadapsentitiesexporter.cadaps3d) |  |
-| [Aspose.CAD.Exporters.IgesExporter.IgesDrawableExporter](./aspose.cad.exporters.igesexporter.igesdrawableexporter) |  |
-| [Aspose.CAD.FileFormats](./aspose.cad.fileformats) | 命名空间包含图形文件处理类和方法。 |
-| [Aspose.CAD.FileFormats.Bmp](./aspose.cad.fileformats.bmp) |  |
-| [Aspose.CAD.FileFormats.Cad](./aspose.cad.fileformats.cad) |  |
-| [Aspose.CAD.FileFormats.Cad.CadConsts](./aspose.cad.fileformats.cad.cadconsts) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects](./aspose.cad.fileformats.cad.cadobjects) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](./aspose.cad.fileformats.cad.cadobjects.acadtable) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](./aspose.cad.fileformats.cad.cadobjects.attentities) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](./aspose.cad.fileformats.cad.cadobjects.blocks) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](./aspose.cad.fileformats.cad.cadobjects.datatable) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](./aspose.cad.fileformats.cad.cadobjects.dictionary) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](./aspose.cad.fileformats.cad.cadobjects.dimassoc) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.Field](./aspose.cad.fileformats.cad.cadobjects.field) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](./aspose.cad.fileformats.cad.cadobjects.hatch) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject](./aspose.cad.fileformats.cad.cadobjects.mlinestyleobject) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextDataClasses](./aspose.cad.fileformats.cad.cadobjects.objectcontextdataclasses) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](./aspose.cad.fileformats.cad.cadobjects.perssubentmanager) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](./aspose.cad.fileformats.cad.cadobjects.polylines) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.Section](./aspose.cad.fileformats.cad.cadobjects.section) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](./aspose.cad.fileformats.cad.cadobjects.sunstudy) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](./aspose.cad.fileformats.cad.cadobjects.tablestyle) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.UnderlayDefinition](./aspose.cad.fileformats.cad.cadobjects.underlaydefinition) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](./aspose.cad.fileformats.cad.cadobjects.vertices) |  |
-| [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](./aspose.cad.fileformats.cad.cadobjects.wipeout) |  |
-| [Aspose.CAD.FileFormats.Cad.CadParameters](./aspose.cad.fileformats.cad.cadparameters) |  |
-| [Aspose.CAD.FileFormats.Cad.CadTables](./aspose.cad.fileformats.cad.cadtables) |  |
-| [Aspose.CAD.FileFormats.Cad.Dwg](./aspose.cad.fileformats.cad.dwg) |  |
-| [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](./aspose.cad.fileformats.cad.dwg.acdbobjects) | 命名空间的处理程序 |
-| [Aspose.CAD.FileFormats.Cad.Dwg.PageAndSection.Writer](./aspose.cad.fileformats.cad.dwg.pageandsection.writer) |  |
-| [Aspose.CAD.FileFormats.Cad.Dwg.R2004](./aspose.cad.fileformats.cad.dwg.r2004) |  |
-| [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](./aspose.cad.fileformats.cad.dwg.revhistory) |  |
-| [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](./aspose.cad.fileformats.cad.dwg.summaryinfo) |  |
-| [Aspose.CAD.FileFormats.CF2](./aspose.cad.fileformats.cf2) |  |
-| [Aspose.CAD.FileFormats.Collada](./aspose.cad.fileformats.collada) |  |
-| [Aspose.CAD.FileFormats.Collada.FileParser.Elements](./aspose.cad.fileformats.collada.fileparser.elements) |  |
-| [Aspose.CAD.FileFormats.Dgn](./aspose.cad.fileformats.dgn) | 命名空间处理Dgn相关的文件格式处理。 |
-| [Aspose.CAD.FileFormats.Dgn.DgnElements](./aspose.cad.fileformats.dgn.dgnelements) | 命名空间包含 Dgn 元素。 |
-| [Aspose.CAD.FileFormats.Dgn.DgnTransform](./aspose.cad.fileformats.dgn.dgntransform) | 命名空间处理Dgn相关的文件格式处理。 |
-| [Aspose.CAD.FileFormats.Dwf](./aspose.cad.fileformats.dwf) | 命名空间处理 Dwf 相关的文件格式处理。 |
-| [Aspose.CAD.FileFormats.Dwf.Whip](./aspose.cad.fileformats.dwf.whip) | 命名空间处理 Dwf 鞭打处理。 |
-| [Aspose.CAD.FileFormats.Dwf.Whip.Objects](./aspose.cad.fileformats.dwf.whip.objects) | 命名空间处理 Dwf Whip 对象处理。 |
-| [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](./aspose.cad.fileformats.dwf.whip.objects.drawable) | 命名空间处理 Dwf Whip 对象处理。 |
-| [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](./aspose.cad.fileformats.dwf.whip.objects.drawable.text) | 命名空间处理 Dwf Whip 对象处理。 |
-| [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](./aspose.cad.fileformats.dwf.whip.objects.service) | 命名空间处理 Dwf Whip 对象处理。 |
-| [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](./aspose.cad.fileformats.dwf.whip.objects.service.font) | 命名空间处理 Dwf Whip 对象处理。 |
-| [Aspose.CAD.FileFormats.Fbx](./aspose.cad.fileformats.fbx) |  |
-| [Aspose.CAD.FileFormats.Ifc](./aspose.cad.fileformats.ifc) | 命名空间处理 ifc 文件格式处理。 |
-| [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](./aspose.cad.fileformats.ifc.ifc2x3.entities) |  |
-| [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](./aspose.cad.fileformats.ifc.ifc2x3.types) |  |
-| [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](./aspose.cad.fileformats.ifc.ifc4.entities) |  |
-| [Aspose.CAD.FileFormats.Ifc.IFC4.Types](./aspose.cad.fileformats.ifc.ifc4.types) |  |
-| [Aspose.CAD.FileFormats.Ifc.IFCDrawing.Visitors](./aspose.cad.fileformats.ifc.ifcdrawing.visitors) |  |
-| [Aspose.CAD.FileFormats.Iges](./aspose.cad.fileformats.iges) | 命名空间处理 IGES 文件格式处理。 |
-| [Aspose.CAD.FileFormats.Iges.CommonDefinitions](./aspose.cad.fileformats.iges.commondefinitions) |  |
-| [Aspose.CAD.FileFormats.Iges.Drawables](./aspose.cad.fileformats.iges.drawables) |  |
-| [Aspose.CAD.FileFormats.Jpeg](./aspose.cad.fileformats.jpeg) |  |
-| [Aspose.CAD.FileFormats.Jpeg2000](./aspose.cad.fileformats.jpeg2000) |  |
-| [Aspose.CAD.FileFormats.Obj](./aspose.cad.fileformats.obj) |  |
-| [Aspose.CAD.FileFormats.Obj.Elements](./aspose.cad.fileformats.obj.elements) |  |
-| [Aspose.CAD.FileFormats.Obj.Mtl](./aspose.cad.fileformats.obj.mtl) | 命名空间处理 ifc 文件格式处理。 |
-| [Aspose.CAD.FileFormats.Obj.VertexData](./aspose.cad.fileformats.obj.vertexdata) |  |
-| [Aspose.CAD.FileFormats.Obj.VertexData.Index](./aspose.cad.fileformats.obj.vertexdata.index) |  |
-| [Aspose.CAD.FileFormats.Pdf](./aspose.cad.fileformats.pdf) | 命名空间包含用于 PDF 文件格式集成的类。 |
-| [Aspose.CAD.FileFormats.Plt](./aspose.cad.fileformats.plt) |  |
-| [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser](./aspose.cad.fileformats.plt.pltparsers.pltparser) |  |
-| [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltCommands](./aspose.cad.fileformats.plt.pltparsers.pltparser.pltcommands) |  |
-| [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](./aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems) |  |
-| [Aspose.CAD.FileFormats.Png](./aspose.cad.fileformats.png) |  |
-| [Aspose.CAD.FileFormats.Psd](./aspose.cad.fileformats.psd) |  |
-| [Aspose.CAD.FileFormats.Psd.Resources](./aspose.cad.fileformats.psd.resources) | 命名空间包含 Psd 相关的资源元素。 |
-| [Aspose.CAD.FileFormats.Stl](./aspose.cad.fileformats.stl) |  |
-| [Aspose.CAD.FileFormats.Stl.StlLibrary.Core.Models](./aspose.cad.fileformats.stl.stllibrary.core.models) |  |
-| [Aspose.CAD.FileFormats.Svg](./aspose.cad.fileformats.svg) | 命名空间处理 SVG 相关的文件格式处理。 |
-| [Aspose.CAD.FileFormats.Tiff](./aspose.cad.fileformats.tiff) | 命名空间处理 Tiff 文件格式处理。 |
-| [Aspose.CAD.FileFormats.Tiff.Enums](./aspose.cad.fileformats.tiff.enums) |  |
-| [Aspose.CAD.FileFormats.Tiff.FileManagement](./aspose.cad.fileformats.tiff.filemanagement) |  |
-| [Aspose.CAD.FileFormats.Tiff.InstanceFactory](./aspose.cad.fileformats.tiff.instancefactory) |  |
-| [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](./aspose.cad.fileformats.tiff.tifftagtypes) |  |
-| [Aspose.CAD.ImageFilters.FilterOptions](./aspose.cad.imagefilters.filteroptions) | 命名空间处理过滤器选项。 |
-| [Aspose.CAD.ImageOptions](./aspose.cad.imageoptions) | 命名空间包含适合导出、保存或创建不同文件格式的类。 |
-| [Aspose.CAD.ImageOptions.SvgOptionsParameters](./aspose.cad.imageoptions.svgoptionsparameters) |  |
-| [Aspose.CAD.PaletteHelper](./aspose.cad.palettehelper) | 命名空间包含用于将调色板调整为图像颜色的类，反之亦然。 |
-| [Aspose.CAD.Sources](./aspose.cad.sources) |  |
-| [Aspose.CAD.Xmp](./aspose.cad.xmp) |  |
-| [Aspose.CAD.Xmp.Schemas.DublinCore](./aspose.cad.xmp.schemas.dublincore) |  |
-| [Aspose.CAD.Xmp.Schemas.Pdf](./aspose.cad.xmp.schemas.pdf) |  |
-| [Aspose.CAD.Xmp.Schemas.Photoshop](./aspose.cad.xmp.schemas.photoshop) |  |
-| [Aspose.CAD.Xmp.Schemas.XmpBaseSchema](./aspose.cad.xmp.schemas.xmpbaseschema) |  |
-| [Aspose.CAD.Xmp.Schemas.XmpDm](./aspose.cad.xmp.schemas.xmpdm) |  |
-| [Aspose.CAD.Xmp.Schemas.XmpMm](./aspose.cad.xmp.schemas.xmpmm) |  |
-| [Aspose.CAD.Xmp.Schemas.XmpRm](./aspose.cad.xmp.schemas.xmprm) |  |
-| [Aspose.CAD.Xmp.Types](./aspose.cad.xmp.types) |  |
-| [Aspose.CAD.Xmp.Types.Basic](./aspose.cad.xmp.types.basic) |  |
-| [Aspose.CAD.Xmp.Types.Complex](./aspose.cad.xmp.types.complex) |  |
-| [Aspose.CAD.Xmp.Types.Complex.Colorant](./aspose.cad.xmp.types.complex.colorant) |  |
-| [Aspose.CAD.Xmp.Types.Complex.Dimensions](./aspose.cad.xmp.types.complex.dimensions) |  |
-| [Aspose.CAD.Xmp.Types.Complex.Font](./aspose.cad.xmp.types.complex.font) |  |
-| [Aspose.CAD.Xmp.Types.Complex.ResourceEvent](./aspose.cad.xmp.types.complex.resourceevent) |  |
-| [Aspose.CAD.Xmp.Types.Complex.ResourceRef](./aspose.cad.xmp.types.complex.resourceref) |  |
-| [Aspose.CAD.Xmp.Types.Complex.Thumbnail](./aspose.cad.xmp.types.complex.thumbnail) |  |
-| [Aspose.CAD.Xmp.Types.Complex.Version](./aspose.cad.xmp.types.complex.version) |  |
-| [Aspose.CAD.Xmp.Types.Derived](./aspose.cad.xmp.types.derived) |  |
-| [global](./global) |  |
+| [Aspose.CAD](./aspose.cad/) | 该命名空间是嵌套命名空间的核心，也是用于 Aspose.CAD 处理的最基本对象。 |
+| [Aspose.CAD.Annotations](./aspose.cad.annotations/) | 该命名空间包含可用于为输出文件添加注释的类——包括文本备注等。 |
+| [Aspose.CAD.CadExceptions](./aspose.cad.cadexceptions/) | 该命名空间包含由任何核心 CAD 组件抛出的异常。 |
+| [Aspose.CAD.CadExceptions.Compressors](./aspose.cad.cadexceptions.compressors/) | 该命名空间包含由受支持的压缩算法之一抛出的异常。 |
+| [Aspose.CAD.CadExceptions.ImageFormats](./aspose.cad.cadexceptions.imageformats/) | 该命名空间包含由受支持的文件格式之一抛出的异常。 |
+| [Aspose.CAD.Exif](./aspose.cad.exif/) | 该命名空间包含与 EXIF 相关的辅助类和方法。 |
+| [Aspose.CAD.Exif.Enums](./aspose.cad.exif.enums/) | 该命名空间包含 EXIF 枚举。 |
+| [Aspose.CAD.FileFormats](./aspose.cad.fileformats/) | 该命名空间包含图形文件处理类和方法。 |
+| [Aspose.CAD.FileFormats.Bitmap](./aspose.cad.fileformats.bitmap/) | 该命名空间包含可用于独立于格式保存任何栅格数据的类。 |
+| [Aspose.CAD.FileFormats.Bmp](./aspose.cad.fileformats.bmp/) | 该命名空间处理 BMP 文件格式。 |
+| [Aspose.CAD.FileFormats.CF2](./aspose.cad.fileformats.cf2/) | 该命名空间处理 CF2 相关文件格式。 |
+| [Aspose.CAD.FileFormats.Cad](./aspose.cad.fileformats.cad/) | 该命名空间处理 Cad 相关文件格式。 |
+| [Aspose.CAD.FileFormats.Cad.CadConsts](./aspose.cad.fileformats.cad.cadconsts/) | 该命名空间包含 Cad 文件格式常量。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects](./aspose.cad.fileformats.cad.cadobjects/) | 该命名空间包含 Cad 文件格式基础实体。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.AcadTable](./aspose.cad.fileformats.cad.cadobjects.acadtable/) | 该命名空间包含 acad 表对象。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.Assoc](./aspose.cad.fileformats.cad.cadobjects.assoc/) | 该 **Aspose.CAD.FileFormats.Cad.CadObjects.Assoc** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.AttEntities](./aspose.cad.fileformats.cad.cadobjects.attentities/) | 该命名空间包含 att 实体。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.Background](./aspose.cad.fileformats.cad.cadobjects.background/) | 该命名空间包含 CAD 对象的背景。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.Blocks](./aspose.cad.fileformats.cad.cadobjects.blocks/) | 该命名空间包含 Cad 块实体。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.DataTable](./aspose.cad.fileformats.cad.cadobjects.datatable/) | 该命名空间包含数据表对象。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.Dictionary](./aspose.cad.fileformats.cad.cadobjects.dictionary/) | 该命名空间包含字典。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.DimAssoc](./aspose.cad.fileformats.cad.cadobjects.dimassoc/) | 该命名空间包含 Cad DimAssoc 实体。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.Field](./aspose.cad.fileformats.cad.cadobjects.field/) | 该命名空间包含 Cad Field 实体及其元素。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.Hatch](./aspose.cad.fileformats.cad.cadobjects.hatch/) | 该命名空间包含 Cad Hatch 实体及其元素。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.MLineStyleObject](./aspose.cad.fileformats.cad.cadobjects.mlinestyleobject/) | 该命名空间包含 Cad MLineStyle 对象及其元素。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.ObjectContextData](./aspose.cad.fileformats.cad.cadobjects.objectcontextdata/) | 该命名空间包含 Cad ObjectContextData 对象。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.PersSubentManager](./aspose.cad.fileformats.cad.cadobjects.perssubentmanager/) | 该命名空间包含 Cad PersSubentManager 实体。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.Polylines](./aspose.cad.fileformats.cad.cadobjects.polylines/) | 该命名空间包含 Polylines 实体。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.Section](./aspose.cad.fileformats.cad.cadobjects.section/) | 该命名空间包含节对象。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.SunStudy](./aspose.cad.fileformats.cad.cadobjects.sunstudy/) | 该命名空间包含日照分析对象。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.TableStyle](./aspose.cad.fileformats.cad.cadobjects.tablestyle/) | 该命名空间包含表格样式对象。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.UnderlayDefinition](./aspose.cad.fileformats.cad.cadobjects.underlaydefinition/) | 该命名空间包含底图定义对象。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.Vertices](./aspose.cad.fileformats.cad.cadobjects.vertices/) | 该命名空间包含顶点实体。 |
+| [Aspose.CAD.FileFormats.Cad.CadObjects.Wipeout](./aspose.cad.fileformats.cad.cadobjects.wipeout/) | 该命名空间包含擦除对象。 |
+| [Aspose.CAD.FileFormats.Cad.CadParameters](./aspose.cad.fileformats.cad.cadparameters/) | 该命名空间包含特定 Cad 文件格式变量。 |
+| [Aspose.CAD.FileFormats.Cad.CadTables](./aspose.cad.fileformats.cad.cadtables/) | 该命名空间包含 Cad 文件格式表对象。 |
+| [Aspose.CAD.FileFormats.Cad.Dwg.AcDBObjects](./aspose.cad.fileformats.cad.dwg.acdbobjects/) | 命名空间的处理程序 |
+| [Aspose.CAD.FileFormats.Cad.Dwg.AppInfo](./aspose.cad.fileformats.cad.dwg.appinfo/) | 该命名空间处理 DWG 相关文件格式的处理。 |
+| [Aspose.CAD.FileFormats.Cad.Dwg.R2004](./aspose.cad.fileformats.cad.dwg.r2004/) | 该命名空间包含具有节页面数据校验和的类。 |
+| [Aspose.CAD.FileFormats.Cad.Dwg.RevHistory](./aspose.cad.fileformats.cad.dwg.revhistory/) | 该命名空间处理 DWG 文件的修订历史。 |
+| [Aspose.CAD.FileFormats.Cad.Dwg.SummaryInfo](./aspose.cad.fileformats.cad.dwg.summaryinfo/) | 该命名空间包含具有摘要信息数据的类。 |
+| [Aspose.CAD.FileFormats.Cad.Dwg.VbaProject](./aspose.cad.fileformats.cad.dwg.vbaproject/) | 该命名空间处理 DWG 的 VbaProject 对象的读取和写入。 |
+| [Aspose.CAD.FileFormats.Cgm](./aspose.cad.fileformats.cgm/) | 该命名空间处理 CGM 文件格式的处理。 |
+| [Aspose.CAD.FileFormats.Cgm.Classes](./aspose.cad.fileformats.cgm.classes/) | 该命名空间包含 CGM 类的实体。 |
+| [Aspose.CAD.FileFormats.Cgm.Commands](./aspose.cad.fileformats.cgm.commands/) | 该命名空间包含 CGM 命令的实体。 |
+| [Aspose.CAD.FileFormats.Cgm.Elements](./aspose.cad.fileformats.cgm.elements/) | 该命名空间包含 CGM 元素的实体。 |
+| [Aspose.CAD.FileFormats.Cgm.Enums](./aspose.cad.fileformats.cgm.enums/) | 该命名空间包含 CGM 枚举器的实体。 |
+| [Aspose.CAD.FileFormats.Cgm.Export](./aspose.cad.fileformats.cgm.export/) | 该命名空间处理 CGM 文件格式的导出过程。 |
+| [Aspose.CAD.FileFormats.Cgm.Import](./aspose.cad.fileformats.cgm.import/) | 该命名空间处理 CGM 文件格式的导入过程。 |
+| [Aspose.CAD.FileFormats.Collada](./aspose.cad.fileformats.collada/) | 该命名空间处理与 COLLADA 相关的文件格式。 |
+| [Aspose.CAD.FileFormats.Collada.FileParser](./aspose.cad.fileformats.collada.fileparser/) | 该 **Aspose.CAD.FileFormats.Collada.FileParser** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Collada.FileParser.Elements](./aspose.cad.fileformats.collada.fileparser.elements/) | 用于处理 [`Collada`](aspose.cad.fileformats.collada.fileparser.elements/collada/) 文件元素的解析器。 |
+| [Aspose.CAD.FileFormats.Dgn](./aspose.cad.fileformats.dgn/) | 该命名空间处理与 DGN 相关的文件格式。 |
+| [Aspose.CAD.FileFormats.Dgn.DgnElements](./aspose.cad.fileformats.dgn.dgnelements/) | 该命名空间包含 Dgn 元素。 |
+| [Aspose.CAD.FileFormats.Dgn.DgnTransform](./aspose.cad.fileformats.dgn.dgntransform/) | 该命名空间处理与 Dgn 相关的文件格式。 |
+| [Aspose.CAD.FileFormats.Dgn.V8.Model.Structs](./aspose.cad.fileformats.dgn.v8.model.structs/) | 该 **Aspose.CAD.FileFormats.Dgn.V8.Model.Structs** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Dgn.V8.Model.Tree](./aspose.cad.fileformats.dgn.v8.model.tree/) | 该 **Aspose.CAD.FileFormats.Dgn.V8.Model.[`Tree`](aspose.cad.fileformats.dgn.v8.model.tree/tree/)** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Dgn.V8.OpenMcdf](./aspose.cad.fileformats.dgn.v8.openmcdf/) | 该 **Aspose.CAD.FileFormats.Dgn.V8.OpenMcdf** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Dicom](./aspose.cad.fileformats.dicom/) | 该 **Aspose.CAD.FileFormats.Dicom** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Draco](./aspose.cad.fileformats.draco/) | 该 **Aspose.CAD.FileFormats.Draco** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Dwf](./aspose.cad.fileformats.dwf/) | 该命名空间包含 DWF 图形文件处理的类和方法。 |
+| [Aspose.CAD.FileFormats.Dwf.DwfXps](./aspose.cad.fileformats.dwf.dwfxps/) | 该 **Aspose.CAD.FileFormats.Dwf.DwfXps** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Dwf.DwfXps.FixedPage.DTO](./aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/) | 该命名空间包含 [`FixedPage`](aspose.cad.fileformats.dwf.dwfxps.fixedpage.dto/fixedpage/) DTO 模型的实体。 |
+| [Aspose.CAD.FileFormats.Dwf.EModelInterface](./aspose.cad.fileformats.dwf.emodelinterface/) | 该 **Aspose.CAD.FileFormats.Dwf.EModelInterface** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Dwf.EPlotInterface](./aspose.cad.fileformats.dwf.eplotinterface/) | 该命名空间处理 Dwf E-Plot。 |
+| [Aspose.CAD.FileFormats.Dwf.Whip](./aspose.cad.fileformats.dwf.whip/) | 该命名空间处理 Dwf whip。 |
+| [Aspose.CAD.FileFormats.Dwf.Whip.Objects](./aspose.cad.fileformats.dwf.whip.objects/) | 该命名空间处理 Dwf whip 对象。 |
+| [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable](./aspose.cad.fileformats.dwf.whip.objects.drawable/) | 该命名空间处理 Dwf whip 对象。 |
+| [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Drawable.Text](./aspose.cad.fileformats.dwf.whip.objects.drawable.text/) | 该命名空间处理 Dwf whip 对象。 |
+| [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service](./aspose.cad.fileformats.dwf.whip.objects.service/) | 该命名空间处理 Dwf whip 对象。 |
+| [Aspose.CAD.FileFormats.Dwf.Whip.Objects.Service.Font](./aspose.cad.fileformats.dwf.whip.objects.service.font/) | 该命名空间处理 Dwf whip 对象。 |
+| [Aspose.CAD.FileFormats.Fbx](./aspose.cad.fileformats.fbx/) | 该命名空间处理 FBX 文件格式。 |
+| [Aspose.CAD.FileFormats.GLB](./aspose.cad.fileformats.glb/) | 该命名空间处理 GLB 文件格式。 |
+| [Aspose.CAD.FileFormats.GLB.Animations](./aspose.cad.fileformats.glb.animations/) | 该命名空间包含 GLB 动画 实体。 |
+| [Aspose.CAD.FileFormats.GLB.Collections](./aspose.cad.fileformats.glb.collections/) | 该命名空间包含 GLB 集合 实体。 |
+| [Aspose.CAD.FileFormats.GLB.Geometry](./aspose.cad.fileformats.glb.geometry/) | 该命名空间包含 GLB 几何 实体。 |
+| [Aspose.CAD.FileFormats.GLB.Geometry.VertexTypes](./aspose.cad.fileformats.glb.geometry.vertextypes/) | 该命名空间包含 GLB 几何顶点类型 实体。 |
+| [Aspose.CAD.FileFormats.GLB.IO](./aspose.cad.fileformats.glb.io/) | 该命名空间包含 GLB 输入输出 实体。 |
+| [Aspose.CAD.FileFormats.GLB.Materials](./aspose.cad.fileformats.glb.materials/) | 该命名空间包含 GLB 材料 实体。 |
+| [Aspose.CAD.FileFormats.GLB.Memory](./aspose.cad.fileformats.glb.memory/) | 该命名空间包含 GLB 内存 实体。 |
+| [Aspose.CAD.FileFormats.GLB.Runtime](./aspose.cad.fileformats.glb.runtime/) | 该命名空间包含 GLB 运行时 实体。 |
+| [Aspose.CAD.FileFormats.GLB.Scenes](./aspose.cad.fileformats.glb.scenes/) | 该命名空间包含 GLB 场景 实体。 |
+| [Aspose.CAD.FileFormats.GLB.ToolKit](./aspose.cad.fileformats.glb.toolkit/) | 该命名空间包含 GLB 工具包 实体。 |
+| [Aspose.CAD.FileFormats.GLB.ToolKit.Collections](./aspose.cad.fileformats.glb.toolkit.collections/) | 该命名空间包含 GLB 工具包集合 实体。 |
+| [Aspose.CAD.FileFormats.GLB.Transforms](./aspose.cad.fileformats.glb.transforms/) | 该命名空间包含 GLB 变换 实体。 |
+| [Aspose.CAD.FileFormats.GLB.Validation](./aspose.cad.fileformats.glb.validation/) | 该命名空间包含 GLB 验证器 实体。 |
+| [Aspose.CAD.FileFormats.Ifc](./aspose.cad.fileformats.ifc/) | 该命名空间处理 ifc 文件格式。 |
+| [Aspose.CAD.FileFormats.Ifc.Header](./aspose.cad.fileformats.ifc.header/) | 该命名空间包含 IFC 标头 实体。 |
+| [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](./aspose.cad.fileformats.ifc.ifc2x3.entities/) | 该命名空间处理 IFC2X3 文件格式实体。 |
+| [Aspose.CAD.FileFormats.Ifc.IFC2X3.Types](./aspose.cad.fileformats.ifc.ifc2x3.types/) | 该命名空间处理 IFC2X3 文件格式类型。 |
+| [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](./aspose.cad.fileformats.ifc.ifc4.entities/) | 该命名空间包含 IFC4 实体 的类和方法。 |
+| [Aspose.CAD.FileFormats.Ifc.IFC4.Types](./aspose.cad.fileformats.ifc.ifc4.types/) | 该命名空间包含 IFC4 类型 的类和方法。 |
+| [Aspose.CAD.FileFormats.Ifc.IFC4X3.Entities](./aspose.cad.fileformats.ifc.ifc4x3.entities/) | 该 **Aspose.CAD.FileFormats.Ifc.IFC4X3.Entities** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Ifc.IFC4X3.Types](./aspose.cad.fileformats.ifc.ifc4x3.types/) | 该 **Aspose.CAD.FileFormats.Ifc.IFC4X3.Types** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Iges](./aspose.cad.fileformats.iges/) | 该命名空间处理 IGES 文件格式。 |
+| [Aspose.CAD.FileFormats.Iges.CommonDefinitions](./aspose.cad.fileformats.iges.commondefinitions/) | 该命名空间包含一个用于 [`ColorRGB`](aspose.cad.fileformats.iges.commondefinitions/colorrgb/) 和 Point3D 的结构。 |
+| [Aspose.CAD.FileFormats.Iges.Drawables](./aspose.cad.fileformats.iges.drawables/) | 该命名空间处理 IGES 实体的几何表示或其部分。 |
+| [Aspose.CAD.FileFormats.Jpeg](./aspose.cad.fileformats.jpeg/) | 该命名空间处理 JPEG 文件格式。 |
+| [Aspose.CAD.FileFormats.Jpeg2000](./aspose.cad.fileformats.jpeg2000/) | 该命名空间处理 JPEG2000 文件格式。 |
+| [Aspose.CAD.FileFormats.Obj](./aspose.cad.fileformats.obj/) | 该命名空间处理 OBJ 文件格式。 |
+| [Aspose.CAD.FileFormats.Obj.Elements](./aspose.cad.fileformats.obj.elements/) | 该命名空间处理 Obj 文件格式的元素。 |
+| [Aspose.CAD.FileFormats.Obj.Mtl](./aspose.cad.fileformats.obj.mtl/) | 该命名空间处理 ifc 文件格式。 |
+| [Aspose.CAD.FileFormats.Obj.VertexData](./aspose.cad.fileformats.obj.vertexdata/) | 该命名空间处理 Obj 文件格式中的顶点数据。 |
+| [Aspose.CAD.FileFormats.Obj.VertexData.Index](./aspose.cad.fileformats.obj.vertexdata.index/) | 该命名空间处理 Obj 文件格式中顶点数据的索引。 |
+| [Aspose.CAD.FileFormats.Pdf](./aspose.cad.fileformats.pdf/) | 该命名空间包含用于 PDF 文件格式集成的类。 |
+| [Aspose.CAD.FileFormats.Plt](./aspose.cad.fileformats.plt/) | 该命名空间处理 PLT 文件格式。 |
+| [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser](./aspose.cad.fileformats.plt.pltparsers.pltparser/) | 该命名空间包含 PLT 文件解析器。 |
+| [Aspose.CAD.FileFormats.Plt.PltParsers.PltParser.PltPlotItems](./aspose.cad.fileformats.plt.pltparsers.pltparser.pltplotitems/) | 该命名空间包含用于 PLT 绘图元素的文件处理类。 |
+| [Aspose.CAD.FileFormats.Png](./aspose.cad.fileformats.png/) | 该命名空间处理 PNG 文件格式。 |
+| [Aspose.CAD.FileFormats.PostScript](./aspose.cad.fileformats.postscript/) | 该 **Aspose.CAD.FileFormats.PostScript** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Psd](./aspose.cad.fileformats.psd/) | 该命名空间处理 PSD 文件格式。 |
+| [Aspose.CAD.FileFormats.Psd.Resources](./aspose.cad.fileformats.psd.resources/) | 该命名空间包含与 Psd 相关的资源元素。 |
+| [Aspose.CAD.FileFormats.SHX](./aspose.cad.fileformats.shx/) | 该命名空间处理 SHX 文件格式。 |
+| [Aspose.CAD.FileFormats.Sat](./aspose.cad.fileformats.sat/) | 该 **Aspose.CAD.FileFormats.Sat** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Stl](./aspose.cad.fileformats.stl/) | 该命名空间处理 STL 文件格式。 |
+| [Aspose.CAD.FileFormats.Stl.StlObjects](./aspose.cad.fileformats.stl.stlobjects/) | 该命名空间包含用于 STL 模型的类。 |
+| [Aspose.CAD.FileFormats.Stp](./aspose.cad.fileformats.stp/) | 该命名空间处理 STP 文件格式。 |
+| [Aspose.CAD.FileFormats.Stp.Helpers](./aspose.cad.fileformats.stp.helpers/) | 该 **Aspose.CAD.FileFormats.Stp.Helpers** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Stp.Items](./aspose.cad.fileformats.stp.items/) | 该命名空间包含用于 STP 文件的元素。 |
+| [Aspose.CAD.FileFormats.Stp.Reader](./aspose.cad.fileformats.stp.reader/) | 该 **Aspose.CAD.FileFormats.Stp.Reader** 命名空间提供类。 |
+| [Aspose.CAD.FileFormats.Stp.StpLibrary.Core.Models](./aspose.cad.fileformats.stp.stplibrary.core.models/) | 该命名空间包含 STP 模型类。 |
+| [Aspose.CAD.FileFormats.Svg](./aspose.cad.fileformats.svg/) | 该命名空间处理 SVG 相关文件格式。 |
+| [Aspose.CAD.FileFormats.ThreeDS](./aspose.cad.fileformats.threeds/) | 该命名空间处理 3D 文件格式。 |
+| [Aspose.CAD.FileFormats.ThreeDS.Elements](./aspose.cad.fileformats.threeds.elements/) | 该命名空间包含 3D 元素的实体。 |
+| [Aspose.CAD.FileFormats.Tiff](./aspose.cad.fileformats.tiff/) | 该命名空间处理 Tiff 文件格式的解析。 |
+| [Aspose.CAD.FileFormats.Tiff.Enums](./aspose.cad.fileformats.tiff.enums/) | 该命名空间包含 Tiff 文件格式的枚举。 |
+| [Aspose.CAD.FileFormats.Tiff.FileManagement](./aspose.cad.fileformats.tiff.filemanagement/) | 该命名空间包含用于读取和写入 TIFF 文件的流管理器。 |
+| [Aspose.CAD.FileFormats.Tiff.InstanceFactory](./aspose.cad.fileformats.tiff.instancefactory/) | 该命名空间包含 Tiff 文件格式标签工厂的辅助类和接口。 |
+| [Aspose.CAD.FileFormats.Tiff.TiffTagTypes](./aspose.cad.fileformats.tiff.tifftagtypes/) | 该命名空间包含 Tiff 文件格式标签类。 |
+| [Aspose.CAD.FileFormats.U3d](./aspose.cad.fileformats.u3d/) | 该命名空间处理 U3D 文件格式的解析。 |
+| [Aspose.CAD.FileFormats.U3d.Elements](./aspose.cad.fileformats.u3d.elements/) | 该命名空间包含 U3D 元素的实体。 |
+| [Aspose.CAD.ImageOptions](./aspose.cad.imageoptions/) | 该命名空间包含适用于导出、保存或创建不同文件格式的类。 |
+| [Aspose.CAD.ImageOptions.SvgOptionsParameters](./aspose.cad.imageoptions.svgoptionsparameters/) | 该命名空间包含命名空间包含的 SVG 位图参数。 |
+| [Aspose.CAD.Measurement](./aspose.cad.measurement/) | 该命名空间处理面积和周长的测量。 |
+| [Aspose.CAD.PaletteHelper](./aspose.cad.palettehelper/) | 该命名空间包含用于将调色板调整为图像颜色及其相反的类。 |
+| [Aspose.CAD.Primitives](./aspose.cad.primitives/) | 该命名空间处理通用原语。 |
+| [Aspose.CAD.Sources](./aspose.cad.sources/) | 命名空间包含适用于输入或输出数据流的不同流源。 |
+| [Aspose.CAD.TimeProvision](./aspose.cad.timeprovision/) | 该命名空间包含可用于为输出文件设置人工时间戳的类（目前仅适用于输出到 DWF）。 |
+| [Aspose.CAD.WatermarkGuard](./aspose.cad.watermarkguard/) | 处理盲水印的命名空间。 |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->

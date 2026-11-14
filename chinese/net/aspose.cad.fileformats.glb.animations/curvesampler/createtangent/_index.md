@@ -1,0 +1,57 @@
+---
+title: "CurveSampler.CreateTangent"
+linktitle: "CreateTangent"
+articleTitle: "CreateTangent"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "CurveSampler 方法。"
+type: docs
+weight: 10
+url: "/net/aspose.cad.fileformats.glb.animations/curvesampler/createtangent/"
+product_version: "26.9"
+---
+## CreateTangent(float[], float[], float) {#createtangent}
+
+
+
+```csharp
+public static float[] CreateTangent(float[] fromValue, float[] toValue, float scale = 1.0)
+```
+
+### 另请参阅
+
+* class [CurveSampler](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## CreateTangent(Quaternion, Quaternion, float) {#createtangent_1}
+
+
+
+```csharp
+public static Quaternion CreateTangent(Quaternion fromValue, Quaternion toValue, float scale = 1.0)
+```
+
+### 另请参阅
+
+* class [CurveSampler](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## CreateTangent(Vector3, Vector3, float) {#createtangent_2}
+
+
+
+```csharp
+public static Vector3 CreateTangent(Vector3 fromValue, Vector3 toValue, float scale = 1.0)
+```
+
+### 另请参阅
+
+* class [CurveSampler](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Animations](../../../aspose.cad.fileformats.glb.animations/)
+* assembly [Aspose.CAD](../../../)
+

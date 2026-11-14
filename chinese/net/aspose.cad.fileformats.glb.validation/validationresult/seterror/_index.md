@@ -1,0 +1,26 @@
+---
+title: "ValidationResult.SetError"
+linktitle: "SetError"
+articleTitle: "SetError"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "ValidationResult 方法。"
+type: docs
+weight: 50
+url: "/net/aspose.cad.fileformats.glb.validation/validationresult/seterror/"
+product_version: "26.9"
+---
+## ValidationResult.SetError method
+
+
+
+```csharp
+public void SetError(ModelException ex)
+```
+
+### 另请参阅
+
+* class [ModelException](../../modelexception/)
+* class [ValidationResult](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Validation](../../../aspose.cad.fileformats.glb.validation/)
+* assembly [Aspose.CAD](../../../)
+

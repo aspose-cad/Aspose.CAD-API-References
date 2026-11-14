@@ -1,0 +1,25 @@
+---
+title: "StlOptions.StlOptions"
+linktitle: "StlOptions"
+articleTitle: "StlOptions"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "StlOptions 构造函数。默认构造函数。"
+type: docs
+weight: 10
+url: "/net/aspose.cad.imageoptions/stloptions/stloptions/"
+product_version: "26.9"
+---
+## StlOptions constructor
+
+默认构造函数。
+
+```csharp
+public StlOptions()
+```
+
+### 另请参阅
+
+* class [StlOptions](../)
+* namespace [Aspose.CAD.ImageOptions](../../../aspose.cad.imageoptions/)
+* assembly [Aspose.CAD](../../../)
+

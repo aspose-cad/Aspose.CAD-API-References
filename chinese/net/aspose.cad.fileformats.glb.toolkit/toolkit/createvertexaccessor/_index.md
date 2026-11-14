@@ -1,0 +1,28 @@
+---
+title: "Toolkit.CreateVertexAccessor"
+linktitle: "CreateVertexAccessor"
+articleTitle: "CreateVertexAccessor"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Toolkit 方法。"
+type: docs
+weight: 670
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/createvertexaccessor/"
+product_version: "26.9"
+---
+## Toolkit.CreateVertexAccessor method
+
+
+
+```csharp
+public static Accessor CreateVertexAccessor(this GlbData root, MemoryAccessor memAccessor)
+```
+
+### 另请参阅
+
+* class [Accessor](../../../aspose.cad.fileformats.glb/accessor/)
+* class [GlbData](../../../aspose.cad.fileformats.glb/glbdata/)
+* class [MemoryAccessor](../../../aspose.cad.fileformats.glb.memory/memoryaccessor/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
+

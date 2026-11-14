@@ -1,166 +1,170 @@
 ---
-title: KnownColor
-second_title: Aspose.CAD for .NET API 参考
-description: 
+title: "KnownColor 枚举"
+linktitle: "KnownColor"
+articleTitle: "KnownColor"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.KnownColor 枚举。指定已知的系统颜色。"
 type: docs
-weight: 30060
-url: /zh/net/aspose.cad/knowncolor/
+weight: 560
+url: "/net/aspose.cad/knowncolor/"
+product_version: "26.9"
 ---
 ## KnownColor enumeration
+
+指定已知的系统颜色。
 
 ```csharp
 public enum KnownColor
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Transparent | `27` |  |
-| AliceBlue | `28` |  |
-| AntiqueWhite | `29` |  |
-| Aqua | `30` |  |
-| Aquamarine | `31` |  |
-| Azure | `32` |  |
-| Beige | `33` |  |
-| Bisque | `34` |  |
-| Black | `35` |  |
-| BlanchedAlmond | `36` |  |
-| Blue | `37` |  |
-| BlueViolet | `38` |  |
-| Brown | `39` |  |
-| BurlyWood | `40` |  |
-| CadetBlue | `41` |  |
-| Chartreuse | `42` |  |
-| Chocolate | `43` |  |
-| Coral | `44` |  |
-| CornflowerBlue | `45` |  |
-| Cornsilk | `46` |  |
-| Crimson | `47` |  |
-| Cyan | `48` |  |
-| DarkBlue | `49` |  |
-| DarkCyan | `50` |  |
-| DarkGoldenrod | `51` |  |
-| DarkGray | `52` |  |
-| DarkGreen | `53` |  |
-| DarkKhaki | `54` |  |
-| DarkMagenta | `55` |  |
-| DarkOliveGreen | `56` |  |
-| DarkOrange | `57` |  |
-| DarkOrchid | `58` |  |
-| DarkRed | `59` |  |
-| DarkSalmon | `60` |  |
-| DarkSeaGreen | `61` |  |
-| DarkSlateBlue | `62` |  |
-| DarkSlateGray | `63` |  |
-| DarkTurquoise | `64` |  |
-| DarkViolet | `65` |  |
-| DeepPink | `66` |  |
-| DeepSkyBlue | `67` |  |
-| DimGray | `68` |  |
-| DodgerBlue | `69` |  |
-| Firebrick | `70` |  |
-| FloralWhite | `71` |  |
-| ForestGreen | `72` |  |
-| Fuchsia | `73` |  |
-| Gainsboro | `74` |  |
-| GhostWhite | `75` |  |
-| Gold | `76` |  |
-| Goldenrod | `77` |  |
-| Gray | `78` |  |
-| Green | `79` |  |
-| GreenYellow | `80` |  |
-| Honeydew | `81` |  |
-| HotPink | `82` |  |
-| IndianRed | `83` |  |
-| Indigo | `84` |  |
-| Ivory | `85` |  |
-| Khaki | `86` |  |
-| Lavender | `87` |  |
-| LavenderBlush | `88` |  |
-| LawnGreen | `89` |  |
-| LemonChiffon | `90` |  |
-| LightBlue | `91` |  |
-| LightCoral | `92` |  |
-| LightCyan | `93` |  |
-| LightGoldenrodYellow | `94` |  |
-| LightGray | `95` |  |
-| LightGreen | `96` |  |
-| LightPink | `97` |  |
-| LightSalmon | `98` |  |
-| LightSeaGreen | `99` |  |
-| LightSkyBlue | `100` |  |
-| LightSlateGray | `101` |  |
-| LightSteelBlue | `102` |  |
-| LightYellow | `103` |  |
-| Lime | `104` |  |
-| LimeGreen | `105` |  |
-| Linen | `106` |  |
-| Magenta | `107` |  |
-| Maroon | `108` |  |
-| MediumAquamarine | `109` |  |
-| MediumBlue | `110` |  |
-| MediumOrchid | `111` |  |
-| MediumPurple | `112` |  |
-| MediumSeaGreen | `113` |  |
-| MediumSlateBlue | `114` |  |
-| MediumSpringGreen | `115` |  |
-| MediumTurquoise | `116` |  |
-| MediumVioletRed | `117` |  |
-| MidnightBlue | `118` |  |
-| MintCream | `119` |  |
-| MistyRose | `120` |  |
-| Moccasin | `121` |  |
-| NavajoWhite | `122` |  |
-| Navy | `123` |  |
-| OldLace | `124` |  |
-| Olive | `125` |  |
-| OliveDrab | `126` |  |
-| Orange | `127` |  |
-| OrangeRed | `128` |  |
-| Orchid | `129` |  |
-| PaleGoldenrod | `130` |  |
-| PaleGreen | `131` |  |
-| PaleTurquoise | `132` |  |
-| PaleVioletRed | `133` |  |
-| PapayaWhip | `134` |  |
-| PeachPuff | `135` |  |
-| Peru | `136` |  |
-| Pink | `137` |  |
-| Plum | `138` |  |
-| PowderBlue | `139` |  |
-| Purple | `140` |  |
-| Red | `141` |  |
-| RosyBrown | `142` |  |
-| RoyalBlue | `143` |  |
-| SaddleBrown | `144` |  |
-| Salmon | `145` |  |
-| SandyBrown | `146` |  |
-| SeaGreen | `147` |  |
-| SeaShell | `148` |  |
-| Sienna | `149` |  |
-| Silver | `150` |  |
-| SkyBlue | `151` |  |
-| SlateBlue | `152` |  |
-| SlateGray | `153` |  |
-| Snow | `154` |  |
-| SpringGreen | `155` |  |
-| SteelBlue | `156` |  |
-| Tan | `157` |  |
-| Teal | `158` |  |
-| Thistle | `159` |  |
-| Tomato | `160` |  |
-| Turquoise | `161` |  |
-| Violet | `162` |  |
-| Wheat | `163` |  |
-| White | `164` |  |
-| WhiteSmoke | `165` |  |
-| Yellow | `166` |  |
-| YellowGreen | `167` |  |
+| Transparent | `27` | 系统定义的颜色。 |
+| AliceBlue | `28` | 系统定义的颜色。 |
+| AntiqueWhite | `29` | 系统定义的颜色。 |
+| Aqua | `30` | 系统定义的颜色。 |
+| Aquamarine | `31` | 系统定义的颜色。 |
+| Azure | `32` | 系统定义的颜色。 |
+| Beige | `33` | 系统定义的颜色。 |
+| Bisque | `34` | 系统定义的颜色。 |
+| Black | `35` | 系统定义的颜色。 |
+| BlanchedAlmond | `36` | 系统定义的颜色。 |
+| Blue | `37` | 系统定义的颜色。 |
+| BlueViolet | `38` | 系统定义的颜色。 |
+| Brown | `39` | 系统定义的颜色。 |
+| BurlyWood | `40` | 系统定义的颜色。 |
+| CadetBlue | `41` | 系统定义的颜色。 |
+| Chartreuse | `42` | 系统定义的颜色。 |
+| Chocolate | `43` | 系统定义的颜色。 |
+| Coral | `44` | 系统定义的颜色。 |
+| CornflowerBlue | `45` | 系统定义的颜色。 |
+| Cornsilk | `46` | 系统定义的颜色。 |
+| Crimson | `47` | 系统定义的颜色。 |
+| Cyan | `48` | 系统定义的颜色。 |
+| DarkBlue | `49` | 系统定义的颜色。 |
+| DarkCyan | `50` | 系统定义的颜色。 |
+| DarkGoldenrod | `51` | 系统定义的颜色。 |
+| DarkGray | `52` | 系统定义的颜色。 |
+| DarkGreen | `53` | 系统定义的颜色。 |
+| DarkKhaki | `54` | 系统定义的颜色。 |
+| DarkMagenta | `55` | 系统定义的颜色。 |
+| DarkOliveGreen | `56` | 系统定义的颜色。 |
+| DarkOrange | `57` | 系统定义的颜色。 |
+| DarkOrchid | `58` | 系统定义的颜色。 |
+| DarkRed | `59` | 系统定义的颜色。 |
+| DarkSalmon | `60` | 系统定义的颜色。 |
+| DarkSeaGreen | `61` | 系统定义的颜色。 |
+| DarkSlateBlue | `62` | 系统定义的颜色。 |
+| DarkSlateGray | `63` | 系统定义的颜色。 |
+| DarkTurquoise | `64` | 系统定义的颜色。 |
+| DarkViolet | `65` | 系统定义的颜色。 |
+| DeepPink | `66` | 系统定义的颜色。 |
+| DeepSkyBlue | `67` | 系统定义的颜色。 |
+| DimGray | `68` | 系统定义的颜色。 |
+| DodgerBlue | `69` | 系统定义的颜色。 |
+| Firebrick | `70` | 系统定义的颜色。 |
+| FloralWhite | `71` | 系统定义的颜色。 |
+| ForestGreen | `72` | 系统定义的颜色。 |
+| Fuchsia | `73` | 系统定义的颜色。 |
+| Gainsboro | `74` | 系统定义的颜色。 |
+| GhostWhite | `75` | 系统定义的颜色。 |
+| Gold | `76` | 系统定义的颜色。 |
+| Goldenrod | `77` | 系统定义的颜色。 |
+| Gray | `78` | 系统定义的颜色。 |
+| Green | `79` | 系统定义的颜色。 |
+| GreenYellow | `80` | 系统定义的颜色。 |
+| Honeydew | `81` | 系统定义的颜色。 |
+| HotPink | `82` | 系统定义的颜色。 |
+| IndianRed | `83` | 系统定义的颜色。 |
+| Indigo | `84` | 系统定义的颜色。 |
+| Ivory | `85` | 系统定义的颜色。 |
+| Khaki | `86` | 系统定义的颜色。 |
+| Lavender | `87` | 系统定义的颜色。 |
+| LavenderBlush | `88` | 系统定义的颜色。 |
+| LawnGreen | `89` | 系统定义的颜色。 |
+| LemonChiffon | `90` | 系统定义的颜色。 |
+| LightBlue | `91` | 系统定义的颜色。 |
+| LightCoral | `92` | 系统定义的颜色。 |
+| LightCyan | `93` | 系统定义的颜色。 |
+| LightGoldenrodYellow | `94` | 系统定义的颜色。 |
+| LightGray | `95` | 系统定义的颜色。 |
+| LightGreen | `96` | 系统定义的颜色。 |
+| LightPink | `97` | 系统定义的颜色。 |
+| LightSalmon | `98` | 系统定义的颜色。 |
+| LightSeaGreen | `99` | 系统定义的颜色。 |
+| LightSkyBlue | `100` | 系统定义的颜色。 |
+| LightSlateGray | `101` | 系统定义的颜色。 |
+| LightSteelBlue | `102` | 系统定义的颜色。 |
+| LightYellow | `103` | 系统定义的颜色。 |
+| Lime | `104` | 系统定义的颜色。 |
+| LimeGreen | `105` | 系统定义的颜色。 |
+| Linen | `106` | 系统定义的颜色。 |
+| Magenta | `107` | 系统定义的颜色。 |
+| Maroon | `108` | 系统定义的颜色。 |
+| MediumAquamarine | `109` | 系统定义的颜色。 |
+| MediumBlue | `110` | 系统定义的颜色。 |
+| MediumOrchid | `111` | 系统定义的颜色。 |
+| MediumPurple | `112` | 系统定义的颜色。 |
+| MediumSeaGreen | `113` | 系统定义的颜色。 |
+| MediumSlateBlue | `114` | 系统定义的颜色。 |
+| MediumSpringGreen | `115` | 系统定义的颜色。 |
+| MediumTurquoise | `116` | 系统定义的颜色。 |
+| MediumVioletRed | `117` | 系统定义的颜色。 |
+| MidnightBlue | `118` | 系统定义的颜色。 |
+| MintCream | `119` | 系统定义的颜色。 |
+| MistyRose | `120` | 系统定义的颜色。 |
+| Moccasin | `121` | 系统定义的颜色。 |
+| NavajoWhite | `122` | 系统定义的颜色。 |
+| Navy | `123` | 系统定义的颜色。 |
+| OldLace | `124` | 系统定义的颜色。 |
+| Olive | `125` | 系统定义的颜色。 |
+| OliveDrab | `126` | 系统定义的颜色。 |
+| Orange | `127` | 系统定义的颜色。 |
+| OrangeRed | `128` | 系统定义的颜色。 |
+| Orchid | `129` | 系统定义的颜色。 |
+| PaleGoldenrod | `130` | 系统定义的颜色。 |
+| PaleGreen | `131` | 系统定义的颜色。 |
+| PaleTurquoise | `132` | 系统定义的颜色。 |
+| PaleVioletRed | `133` | 系统定义的颜色。 |
+| PapayaWhip | `134` | 系统定义的颜色。 |
+| PeachPuff | `135` | 系统定义的颜色。 |
+| Peru | `136` | 系统定义的颜色。 |
+| Pink | `137` | 系统定义的颜色。 |
+| Plum | `138` | 系统定义的颜色。 |
+| PowderBlue | `139` | 系统定义的颜色。 |
+| Purple | `140` | 系统定义的颜色。 |
+| Red | `141` | 系统定义的颜色。 |
+| RosyBrown | `142` | 系统定义的颜色。 |
+| RoyalBlue | `143` | 系统定义的颜色。 |
+| SaddleBrown | `144` | 系统定义的颜色。 |
+| Salmon | `145` | 系统定义的颜色。 |
+| SandyBrown | `146` | 系统定义的颜色。 |
+| SeaGreen | `147` | 系统定义的颜色。 |
+| SeaShell | `148` | 系统定义的颜色。 |
+| Sienna | `149` | 系统定义的颜色。 |
+| Silver | `150` | 系统定义的颜色。 |
+| SkyBlue | `151` | 系统定义的颜色。 |
+| SlateBlue | `152` | 系统定义的颜色。 |
+| SlateGray | `153` | 系统定义的颜色。 |
+| Snow | `154` | 系统定义的颜色。 |
+| SpringGreen | `155` | 系统定义的颜色。 |
+| SteelBlue | `156` | 系统定义的颜色。 |
+| Tan | `157` | 系统定义的颜色。 |
+| Teal | `158` | 系统定义的颜色。 |
+| Thistle | `159` | 系统定义的颜色。 |
+| Tomato | `160` | 系统定义的颜色。 |
+| Turquoise | `161` | 系统定义的颜色。 |
+| Violet | `162` | 系统定义的颜色。 |
+| Wheat | `163` | 系统定义的颜色。 |
+| White | `164` | 系统定义的颜色。 |
+| WhiteSmoke | `165` | 系统定义的颜色。 |
+| Yellow | `166` | 系统定义的颜色。 |
+| YellowGreen | `167` | 系统定义的颜色。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.CAD](../../aspose.cad)
-* 部件 [Aspose.CAD](../../)
+* namespace [Aspose.CAD](../../aspose.cad/)
+* assembly [Aspose.CAD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->

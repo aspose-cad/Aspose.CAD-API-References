@@ -1,12 +1,18 @@
 ---
-title: CadMaterial
-second_title: Aspose.CAD for .NET API 参考
-description: 
+title: "CadMaterial 类"
+linktitle: "CadMaterial"
+articleTitle: "CadMaterial"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.FileFormats.Cad.CadObjects.CadMaterial 类。描述 CadMaterial 的类"
 type: docs
-weight: 2680
-url: /zh/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/
+weight: 910
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadmaterial/"
+keywords: "CadMaterial, Aspose.CAD.FileFormats.Cad.CadObjects, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## CadMaterial class
+
+描述 CadMaterial 的类
 
 ```csharp
 public class CadMaterial : CadBaseObject
@@ -14,122 +20,96 @@ public class CadMaterial : CadBaseObject
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CadMaterial](cadmaterial)() | 默认构造函数。 |
+| [CadMaterial](cadmaterial/)() | 初始化 `CadMaterial` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AmbientColorFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/ambientcolorfactor) { get; set; } |  |
-| [AmbientColorMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/ambientcolormethod) { get; set; } |  |
-| [AmbientColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/ambientcolorvalue) { get; set; } |  |
-| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/applicationcodescontainer) { get; set; } |  |
-| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attribute102values) { get; set; } |  |
-| [Attribute282](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute282) { get; set; } |  |
-| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadbase/attributes) { get; set; } |  |
-| [AutoTransformMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/autotransformmethod) { get; set; } |  |
-| [BumpMapBlendFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/bumpmapblendfactor) { get; set; } |  |
-| [BumpMapFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/bumpmapfilename) { get; set; } |  |
-| [BumpMapMapperAutoTransformMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/bumpmapmapperautotransformmethod) { get; set; } |  |
-| [BumpMapMapperProjectionMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/bumpmapmapperprojectionmethod) { get; set; } |  |
-| [BumpMapMapperTilingMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/bumpmapmappertilingmethod) { get; set; } |  |
-| [BumpMapMapperTransformMatrix](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/bumpmapmappertransformmatrix) { get; set; } |  |
-| [BumpMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/bumpmapsource) { get; set; } |  |
-| [ChannelFlags](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/channelflags) { get; set; } |  |
-| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects) { get; set; } |  |
-| [ColorBleedScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/colorbleedscale) { get; set; } |  |
-| [Description](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/description) { get; set; } |  |
-| [DiffuseColorFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusecolorfactor) { get; set; } |  |
-| [DiffuseColorMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusecolormethod) { get; set; } |  |
-| [DiffuseColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusecolorvalue) { get; set; } |  |
-| [DiffuseMapBlendFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusemapblendfactor) { get; set; } |  |
-| [DiffuseMapFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusemapfilename) { get; set; } |  |
-| [DiffuseMapMapperProjectionMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusemapmapperprojectionmethod) { get; set; } |  |
-| [DiffuseMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusemapsource) { get; set; } |  |
-| [DiffuseTransformMatrix](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusetransformmatrix) { get; set; } |  |
-| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/embeddedobjectscontainer) { get; set; } |  |
-| [FinalGatherMode](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/finalgathermode) { get; set; } |  |
-| [GenProcName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocname) { get; set; } |  |
-| [GenProcTableEnd](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genproctableend) { get; set; } |  |
-| [GenProcValBool](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalbool) { get; set; } |  |
-| [GenProcValColorIndex](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalcolorindex) { get; set; } |  |
-| [GenProcValColorName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalcolorname) { get; set; } |  |
-| [GenProcValColorRGB](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalcolorrgb) { get; set; } |  |
-| [GenProcValInt](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalint) { get; set; } |  |
-| [GenProcValReal](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalreal) { get; set; } |  |
-| [GenProcValText](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvaltext) { get; set; } |  |
-| [GlobalIlluminationMode](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/globalilluminationmode) { get; set; } |  |
-| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/hardowner) { get; set; } |  |
-| [IlluminationModel](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/illuminationmodel) { get; set; } |  |
-| [IndirectDumpScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/indirectdumpscale) { get; set; } |  |
-| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/issoftownerset) { get; } |  |
-| [Luminance](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/luminance) { get; set; } |  |
-| [LuminanceMode](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/luminancemode) { get; set; } |  |
-| [MapUTile](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/maputile) { get; set; } |  |
-| [MaterialName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/materialname) { get; set; } |  |
-| [MaterialsAnonymous](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/materialsanonymous) { get; set; } |  |
-| [NormalMapBlendFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapblendfactor) { get; set; } |  |
-| [NormalMapMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapmethod) { get; set; } |  |
-| [NormalMapperAutoTransform](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapperautotransform) { get; set; } |  |
-| [NormalMapperProjection](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapperprojection) { get; set; } |  |
-| [NormalMapperTiling](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmappertiling) { get; set; } |  |
-| [NormalMapperTransform](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmappertransform) { get; set; } |  |
-| [NormalMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapsource) { get; set; } |  |
-| [NormalMapSourceFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapsourcefilename) { get; set; } |  |
-| [NormalMapStrength](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapstrength) { get; set; } |  |
-| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/numreactors) { get; set; } |  |
-| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadbase/objecthandle) { get; set; } |  |
-| [OpacityMapBlendFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapblendfactor) { get; set; } |  |
-| [OpacityMapFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapfilename) { get; set; } |  |
-| [OpacityMapMapperAutoTransformMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapmapperautotransformmethod) { get; set; } |  |
-| [OpacityMapMapperProjectionMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapmapperprojectionmethod) { get; set; } |  |
-| [OpacityMapMapperTilingMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapmappertilingmethod) { get; set; } |  |
-| [OpacityMapMapperTransformMatrix](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapmappertransformmatrix) { get; set; } |  |
-| [OpacityMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymapsource) { get; set; } |  |
-| [OpacityPercent](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitypercent) { get; set; } |  |
-| [ReflectanceScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectancescale) { get; set; } |  |
-| [ReflectionMapBlendFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectionmapblendfactor) { get; set; } |  |
-| [ReflectionMapFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectionmapfilename) { get; set; } |  |
-| [ReflectionMapMapperAutoTransformMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectionmapmapperautotransformmethod) { get; set; } |  |
-| [ReflectionMapMapperProjectionMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectionmapmapperprojectionmethod) { get; set; } |  |
-| [ReflectionMapMapperTilingMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectionmapmappertilingmethod) { get; set; } |  |
-| [ReflectionMapMapperTransformMatrix](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectionmapmappertransformmatrix) { get; set; } |  |
-| [ReflectionMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectionmapsource) { get; set; } |  |
-| [Reflectivity](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectivity) { get; set; } |  |
-| [RefractionIndex](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionindex) { get; set; } |  |
-| [RefractionMapBlendFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionmapblendfactor) { get; set; } |  |
-| [RefractionMapFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionmapfilename) { get; set; } |  |
-| [RefractionMapMapperAutoTransformMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionmapmapperautotransformmethod) { get; set; } |  |
-| [RefractionMapMapperProjectionMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionmapmapperprojectionmethod) { get; set; } |  |
-| [RefractionMapMapperTilingMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionmapmappertilingmethod) { get; set; } |  |
-| [RefractionMapMapperTransformMatrix](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionmapmappertransformmatrix) { get; set; } |  |
-| [RefractionMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionmapsource) { get; set; } |  |
-| [SelfIlluminaton](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/selfilluminaton) { get; set; } |  |
-| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadbaseowned/softowner) { get; set; } |  |
-| [SpecularColorFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularcolorfactor) { get; set; } |  |
-| [SpecularColorMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularcolormethod) { get; set; } |  |
-| [SpecularColorValue](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularcolorvalue) { get; set; } |  |
-| [SpecularGlossFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularglossfactor) { get; set; } |  |
-| [SpecularMapBlendFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapblendfactor) { get; set; } |  |
-| [SpecularMapFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapfilename) { get; set; } |  |
-| [SpecularMapMapperAutoTransformMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapmapperautotransformmethod) { get; set; } |  |
-| [SpecularMapMapperProjectionMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapmapperprojectionmethod) { get; set; } |  |
-| [SpecularMapMapperTilingMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapmappertilingmethod) { get; set; } |  |
-| [SpecularMapMapperTransformMatrix](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapmappertransformmatrix) { get; set; } |  |
-| [SpecularMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmapsource) { get; set; } |  |
-| [TilingMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/tilingmethod) { get; set; } |  |
-| [Translucence](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/translucence) { get; set; } |  |
-| [TransmittanceScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/transmittancescale) { get; set; } |  |
-| [TwoSidedMaterial](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/twosidedmaterial) { get; set; } |  |
-| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename) { get; } |  |
-| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadbase/xdatacontainer) { get; set; } |  |
+| [AmbientColor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/ambientcolor/) { get; set; } | 获取或设置材料的环境颜色分量。 |
+| [ApplicationCodesContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/applicationcodescontainer/) { get; set; } | 获取或设置应用程序定义的代码容器。 |
+| [Attribute097](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute097/) { get; set; } | 获取或设置 attribute97。 |
+| [Attribute098](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute098/) { get; set; } | 获取或设置 attribute098。 |
+| [Attribute102Values](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attribute102values/) { get; set; } | 获取或设置 attribute102 值。 |
+| [Attribute277](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute277/) { get; set; } | 获取或设置 attribute277。 |
+| [Attribute280](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute280/) { get; set; } | 获取或设置 attribute280。 |
+| [Attribute281](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute281/) { get; set; } | 获取或设置 attribute281。 |
+| [Attribute466](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute466/) { get; set; } | 获取或设置 attribute466。 |
+| [Attribute467](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/attribute467/) { get; set; } | 获取或设置 attribute467。 |
+| [Attributes](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/attributes/) { get; set; } | 获取或设置属性。 |
+| [BumpMap](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/bumpmap/) { get; set; } | 获取或设置材料的凹凸贴图。 |
+| [ChannelFlags](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/channelflags/) { get; set; } | 获取或设置通道标志。 |
+| [ChildObjects](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/childobjects/) { get; set; } | 获取或设置子对象。 |
+| [ColorBleedScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/colorbleedscale/) { get; set; } | 获取或设置颜色渗透比例。 |
+| [Description](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/description/) { get; set; } | 获取或设置描述。 |
+| [DiffuseColor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusecolor/) { get; set; } | 获取或设置材质的漫反射颜色分量。 |
+| [DiffuseMap](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/diffusemap/) { get; set; } | 获取或设置材质的漫反射贴图。 |
+| [EmbeddedObjectsContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/embeddedobjectscontainer/) { get; set; } | 获取或设置嵌入对象容器。 |
+| [FinalGatherMode](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/finalgathermode/) { get; set; } | 获取或设置最终聚集模式。 |
+| [GenProcName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocname/) { get; set; } | 获取或设置 gen proc 的名称。 |
+| [GenProcTableEnd](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genproctableend/) { get; set; } | 获取或设置 gen proc 表结束。 |
+| [GenProcValBool](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalbool/) { get; set; } | 获取或设置 gen proc 布尔值。 |
+| [GenProcValColorIndex](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalcolorindex/) { get; set; } | 获取或设置 gen proc 颜色值的索引。 |
+| [GenProcValColorName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalcolorname/) { get; set; } | 获取或设置 gen proc 颜色值的名称。 |
+| [GenProcValColorRGB](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalcolorrgb/) { get; set; } | 获取或设置 gen proc 颜色值的 RGB。 |
+| [GenProcValInt](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalint/) { get; set; } | 获取或设置 gen proc 整数值。 |
+| [GenProcValReal](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvalreal/) { get; set; } | 获取或设置 gen proc 实数值。 |
+| [GenProcValText](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/genprocvaltext/) { get; set; } | 获取或设置 gen proc 文本值。 |
+| [GlobalIlluminationMode](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/globalilluminationmode/) { get; set; } | 获取或设置全局光照模式。 |
+| [HardOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/hardowner/) { get; set; } | 获取或设置硬所有者。 |
+| [IlluminationModel](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/illuminationmodel/) { get; set; } | 获取或设置光照模型。 |
+| [IndirectDumpScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/indirectdumpscale/) { get; set; } | 获取或设置间接转储比例。 |
+| [IsSoftOwnerSet](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/issoftownerset/) { get; } | 获取一个值，指示是否已设置软所有者。 |
+| [Luminance](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/luminance/) { get; set; } | 获取或设置亮度。 |
+| [LuminanceMode](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/luminancemode/) { get; set; } | 获取或设置亮度模式。 |
+| [MapUTile](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/maputile/) { get; set; } | 获取或设置贴图 U 平铺。 |
+| [MaterialName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/materialname/) { get; set; } | 获取或设置材质的名称。 |
+| [MaterialsAnonymous](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/materialsanonymous/) { get; set; } | 获取或设置材质的匿名属性。 |
+| [Mode](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/mode/) { get; set; } | 获取或设置 282 属性。 |
+| [NormalMapBlendFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapblendfactor/) { get; set; } | 获取或设置法线贴图混合因子。 |
+| [NormalMapMethod](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapmethod/) { get; set; } | 获取或设置法线贴图方法。 |
+| [NormalMapSource](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapsource/) { get; set; } | 获取或设置法线贴图来源。 |
+| [NormalMapSourceFileName](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapsourcefilename/) { get; set; } | 获取或设置法线贴图源文件的名称。 |
+| [NormalMapStrength](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapstrength/) { get; set; } | 获取或设置法线贴图强度。 |
+| [NormalMapperAutoTransform](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapperautotransform/) { get; set; } | 获取或设置法线映射器的自动变换。 |
+| [NormalMapperProjection](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmapperprojection/) { get; set; } | 获取或设置法线映射器的投影。 |
+| [NormalMapperTiling](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmappertiling/) { get; set; } | 获取或设置法线映射器的平铺。 |
+| [NormalMapperTransform](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/normalmappertransform/) { get; set; } | 获取或设置法线映射器的变换。 |
+| [Numreactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/numreactors/) { get; set; } | 该 Numreactors |
+| [ObjectHandle](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/objecthandle/) { get; set; } | 获取或设置对象句柄。 |
+| [OpacityMap](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitymap/) { get; set; } | 获取或设置材质的不透明度贴图。 |
+| [OpacityPercent](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/opacitypercent/) { get; set; } | 获取或设置不透明度百分比。 |
+| [Reactors](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/reactors/) { get; set; } | 获取或设置反应器句柄 |
+| [ReflectanceScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectancescale/) { get; set; } | 获取或设置反射率比例。 |
+| [ReflectionMap](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectionmap/) { get; set; } | 获取或设置材质的反射贴图。 |
+| [Reflectivity](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/reflectivity/) { get; set; } | 获取或设置反射率。 |
+| [RefractionIndex](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionindex/) { get; set; } | 获取或设置折射率指数。 |
+| [RefractionMap](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/refractionmap/) { get; set; } | 获取或设置材质的折射贴图。 |
+| [SelfIllumination](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/selfillumination/) { get; set; } | 获取或设置自发光。 |
+| [SoftOwner](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/softowner/) { get; set; } | 获取或设置软所有者。 |
+| [SpecularColor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularcolor/) { get; set; } | 获取或设置材质的高光颜色分量。 |
+| [SpecularGlossFactor](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularglossfactor/) { get; set; } | 获取或设置高光光泽因子。 |
+| [SpecularMap](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/specularmap/) { get; set; } | 获取或设置材质的高光贴图。 |
+| virtual [StorageFlag](../../aspose.cad.fileformats.cad.cadobjects/cadownedobjectbase/storageflag/) { get; set; } | 获取或设置一个值，指示此实体在数据存储中具有关联的二进制数据。 |
+| [Translucence](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/translucence/) { get; set; } | 获取或设置半透明度。 |
+| [TransmittanceScale](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/transmittancescale/) { get; set; } | 获取或设置透射率比例。 |
+| [TwoSidedMaterial](../../aspose.cad.fileformats.cad.cadobjects/cadmaterial/twosidedmaterial/) { get; set; } | 获取或设置双面材质。 |
+| [TypeName](../../aspose.cad.fileformats.cad.cadobjects/cadbaseobject/typename/) { get; } | 获取类型的名称。 |
+| [XdataContainer](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/xdatacontainer/) { get; set; } | 获取或设置 xdata 容器。 |
 
-### 也可以看看
+## 方法
 
-* class [CadBaseObject](../cadbaseobject)
-* 命名空间 [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects)
-* 部件 [Aspose.CAD](../../)
+| 名称 | 描述 |
+| --- | --- |
+| [GetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/getuid/)() | 如果对象句柄不起作用时使用的标识符。作为方法实现，以免干扰 FileComparer's property comparer |
+| [SetUID](../../aspose.cad.fileformats.cad.cadobjects/cadobjectbase/setuid/)(string) | 设置 |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+### 另请参阅
+
+* [CadBaseObject](../cadbaseobject/)
+* class [CadBaseObject](../cadbaseobject/)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../)
+

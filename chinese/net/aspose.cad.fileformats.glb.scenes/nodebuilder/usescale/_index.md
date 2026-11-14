@@ -1,0 +1,43 @@
+---
+title: "NodeBuilder.UseScale"
+linktitle: "UseScale"
+articleTitle: "UseScale"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "NodeBuilder 方法。"
+type: docs
+weight: 90
+url: "/net/aspose.cad.fileformats.glb.scenes/nodebuilder/usescale/"
+product_version: "26.9"
+---
+## UseScale() {#usescale}
+
+
+
+```csharp
+public AnimatableProperty<Vector3> UseScale()
+```
+
+### 另请参阅
+
+* class [AnimatableProperty&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/animatableproperty-1/)
+* class [NodeBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## UseScale(string) {#usescale_1}
+
+
+
+```csharp
+public CurveBuilder<Vector3> UseScale(string animationTrack)
+```
+
+### 另请参阅
+
+* class [CurveBuilder&lt;T&gt;](../../../aspose.cad.fileformats.glb.animations/curvebuilder-1/)
+* class [NodeBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../../)
+

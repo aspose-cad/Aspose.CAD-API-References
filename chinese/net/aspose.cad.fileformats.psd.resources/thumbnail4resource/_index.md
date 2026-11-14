@@ -1,14 +1,18 @@
 ---
-title: Thumbnail4Resource
-second_title: Aspose.CAD for .NET API 参考
-description: 代表psd 4.0的缩略图资源
+title: "Thumbnail4Resource 类"
+linktitle: "Thumbnail4Resource"
+articleTitle: "Thumbnail4Resource"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "Aspose.CAD.FileFormats.Psd.Resources.Thumbnail4Resource 类。表示用于 psd 4.0 的缩略图资源。"
 type: docs
-weight: 28830
-url: /zh/net/aspose.cad.fileformats.psd.resources/thumbnail4resource/
+weight: 30
+url: "/net/aspose.cad.fileformats.psd.resources/thumbnail4resource/"
+keywords: "Thumbnail4Resource, Aspose.CAD.FileFormats.Psd.Resources, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
 ---
 ## Thumbnail4Resource class
 
-代表psd 4.0的缩略图资源。
+表示 PSD 4.0 的缩略图资源。
 
 ```csharp
 public sealed class Thumbnail4Resource : ThumbnailResource
@@ -16,42 +20,47 @@ public sealed class Thumbnail4Resource : ThumbnailResource
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Thumbnail4Resource](thumbnail4resource)() | 初始化[`Thumbnail4Resource`](../thumbnail4resource)类的新实例。 |
+| [Thumbnail4Resource](thumbnail4resource/)() | 初始化 `Thumbnail4Resource` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [BitsPixel](../../aspose.cad.fileformats.psd.resources/thumbnailresource/bitspixel) { get; set; } | 获取或设置位像素。 |
-| override [DataSize](../../aspose.cad.fileformats.psd.resources/thumbnailresource/datasize) { get; } | 获取资源数据大小（以字节为单位）。 |
-| [Height](../../aspose.cad.fileformats.psd.resources/thumbnailresource/height) { get; set; } | 获取或设置缩略图的高度（以像素为单位）。 |
-| [ID](../../aspose.cad.fileformats.psd/resourceblock/id) { get; set; } | 获取或设置资源的唯一标识符。 |
-| [JpegOptions](../../aspose.cad.fileformats.psd.resources/thumbnailresource/jpegoptions) { get; set; } | 获取或设置 JPEG 选项。适用于缩略图资源仅保存为 JPEG 文件格式的情况。此选项在定义 RAW 格式时无效。 |
-| override [MinimalVersion](../../aspose.cad.fileformats.psd.resources/thumbnail4resource/minimalversion) { get; } | 获取所需的最低 psd 版本。 |
-| [Name](../../aspose.cad.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。 Pascal 字符串，填充以使大小均匀（空名称由两个字节的 0 组成）。 |
-| [PlanesCount](../../aspose.cad.fileformats.psd.resources/thumbnailresource/planescount) { get; set; } | 获取或设置平面数。 |
-| [Signature](../../aspose.cad.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应始终为“8BIM”。 |
-| [Size](../../aspose.cad.fileformats.psd/resourceblock/size) { get; } | 获取资源块大小（以字节为单位），包括其数据。 |
-| [SizeAfterCompression](../../aspose.cad.fileformats.psd.resources/thumbnailresource/sizeaftercompression) { get; } | 获取或设置压缩后的大小。用于一致性检查。 |
-| [ThumbnailArgb32Data](../../aspose.cad.fileformats.psd.resources/thumbnailresource/thumbnailargb32data) { get; set; } | 获取或设置 32 位 ARGB 缩略图数据。 |
-| [ThumbnailData](../../aspose.cad.fileformats.psd.resources/thumbnailresource/thumbnaildata) { get; set; } | 获取或设置缩略图数据。 |
-| [TotalSize](../../aspose.cad.fileformats.psd.resources/thumbnailresource/totalsize) { get; } | 获取总数据大小。 |
-| [Width](../../aspose.cad.fileformats.psd.resources/thumbnailresource/width) { get; set; } | 获取或设置缩略图的宽度，以像素为单位。 |
-| [WidthBytes](../../aspose.cad.fileformats.psd.resources/thumbnailresource/widthbytes) { get; } | 获取行宽（以字节为单位）。 |
+| [BitsPixel](../../aspose.cad.fileformats.psd.resources/thumbnailresource/bitspixel/) { get; set; } | 获取或设置位像素。 |
+| override [DataSize](../../aspose.cad.fileformats.psd.resources/thumbnailresource/datasize/) { get; } | 获取资源数据的字节大小。 |
+| [Height](../../aspose.cad.fileformats.psd.resources/thumbnailresource/height/) { get; set; } | 获取或设置缩略图的高度（像素）。 |
+| [ID](../../aspose.cad.fileformats.psd/resourceblock/id/) { get; set; } | 获取或设置资源的唯一标识符。 |
+| [JpegOptions](../../aspose.cad.fileformats.psd.resources/thumbnailresource/jpegoptions/) { get; set; } | 获取或设置 JPEG 选项。仅在缩略图资源保存为 JPEG 文件格式时适用。当定义为 RAW 格式时此选项无效。 |
+| override [MinimalVersion](../../aspose.cad.fileformats.psd.resources/thumbnail4resource/minimalversion/) { get; } | 获取所需的最低 PSD 版本。 |
+| [Name](../../aspose.cad.fileformats.psd/resourceblock/name/) { get; set; } | 获取或设置资源名称。Pascal 字符串，填充以使大小为偶数（空名称由两个字节的 0 组成）。 |
+| [PlanesCount](../../aspose.cad.fileformats.psd.resources/thumbnailresource/planescount/) { get; set; } | 获取或设置平面计数。 |
+| [Signature](../../aspose.cad.fileformats.psd/resourceblock/signature/) { get; } | 获取资源签名。应始终为 '8BIM'。 |
+| [Size](../../aspose.cad.fileformats.psd/resourceblock/size/) { get; } | 获取资源块的字节大小（包括其数据）。 |
+| [SizeAfterCompression](../../aspose.cad.fileformats.psd.resources/thumbnailresource/sizeaftercompression/) { get; } | 获取或设置压缩后的大小。用于一致性检查。 |
+| [ThumbnailArgb32Data](../../aspose.cad.fileformats.psd.resources/thumbnailresource/thumbnailargb32data/) { get; set; } | 获取或设置 32 位 ARGB 缩略图数据。 |
+| [ThumbnailData](../../aspose.cad.fileformats.psd.resources/thumbnailresource/thumbnaildata/) { get; set; } | 获取或设置缩略图数据。 |
+| [TotalSize](../../aspose.cad.fileformats.psd.resources/thumbnailresource/totalsize/) { get; } | 获取总数据大小。 |
+| [Width](../../aspose.cad.fileformats.psd.resources/thumbnailresource/width/) { get; set; } | 获取或设置缩略图的宽度（像素）。 |
+| [WidthBytes](../../aspose.cad.fileformats.psd.resources/thumbnailresource/widthbytes/) { get; } | 获取行宽（字节）。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Save](../../aspose.cad.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定流。 |
-| override [ValidateValues](../../aspose.cad.fileformats.psd.resources/thumbnailresource/validatevalues)() | 验证资源值。 |
+| [Save](../../aspose.cad.fileformats.psd/resourceblock/save/)(StreamContainer) | 将资源块保存到指定的流中。 |
+| override [ValidateValues](../../aspose.cad.fileformats.psd.resources/thumbnailresource/validatevalues/)() | 验证资源值。 |
 
-### 也可以看看
+## 字段
 
-* class [ThumbnailResource](../thumbnailresource)
-* 命名空间 [Aspose.CAD.FileFormats.Psd.Resources](../../aspose.cad.fileformats.psd.resources)
-* 部件 [Aspose.CAD](../../)
+| 名称 | 描述 |
+| --- | --- |
+| const [ResouceBlockSignature](../../aspose.cad.fileformats.psd/resourceblock/resouceblocksignature/) | 资源签名。 |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.CAD.dll -->
+### 另请参阅
+
+* class [ThumbnailResource](../thumbnailresource/)
+* namespace [Aspose.CAD.FileFormats.Psd.Resources](../../aspose.cad.fileformats.psd.resources/)
+* assembly [Aspose.CAD](../../)
+

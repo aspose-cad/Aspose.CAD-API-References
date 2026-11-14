@@ -1,0 +1,30 @@
+---
+title: "CadSingleValueProperty.Attribute"
+linktitle: "属性"
+articleTitle: "属性"
+second_title: "Aspose.CAD for .NET API 参考"
+description: "CadSingleValueProperty 属性。获取或设置属性特性。"
+type: docs
+weight: 20
+url: "/net/aspose.cad.fileformats.cad/cadsinglevalueproperty/attribute/"
+product_version: "26.9"
+---
+## CadSingleValueProperty.Attribute property
+
+获取或设置属性特性。
+
+```csharp
+public CadEntityAttribute Attribute { get; set; }
+```
+
+### Property Value
+
+属性特性。
+
+### 另请参阅
+
+* enum [CadEntityAttribute](../../cadentityattribute/)
+* class [CadSingleValueProperty](../)
+* namespace [Aspose.CAD.FileFormats.Cad](../../../aspose.cad.fileformats.cad/)
+* assembly [Aspose.CAD](../../../)
+
