@@ -1,0 +1,25 @@
+---
+title: "IfcRoundedRectangleProfileDef2X3.IfcRoundedRectangleProfileDef2X3"
+linktitle: "IfcRoundedRectangleProfileDef2X3"
+articleTitle: "IfcRoundedRectangleProfileDef2X3"
+second_title: "Aspose.CAD для .NET справка API"
+description: "IfcRoundedRectangleProfileDef2X3 конструктор. Конструктор по умолчанию."
+type: docs
+weight: 10
+url: "/net/aspose.cad.fileformats.ifc.ifc2x3.entities/ifcroundedrectangleprofiledef2x3/ifcroundedrectangleprofiledef2x3/"
+product_version: "26.9"
+---
+## IfcRoundedRectangleProfileDef2X3 constructor
+
+Конструктор по умолчанию.
+
+```csharp
+public IfcRoundedRectangleProfileDef2X3()
+```
+
+### См. также
+
+* class [IfcRoundedRectangleProfileDef2X3](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC2X3.Entities](../../../aspose.cad.fileformats.ifc.ifc2x3.entities/)
+* assembly [Aspose.CAD](../../../)
+

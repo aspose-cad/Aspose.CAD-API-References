@@ -1,0 +1,36 @@
+---
+title: "DgnDrawableEntityBase Класс"
+linktitle: "DgnDrawableEntityBase"
+articleTitle: "DgnDrawableEntityBase"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnDrawableEntityBase класс. Представляет базовый класс для рисования элементов Dgn"
+type: docs
+weight: 130
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase/"
+keywords: "DgnDrawableEntityBase, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
+---
+## DgnDrawableEntityBase class
+
+Представляет базовый класс для элементов чертежа Dgn
+
+```csharp
+public abstract class DgnDrawableEntityBase : DgnElementBase
+```
+
+## Свойства
+
+| Имя | Описание |
+| --- | --- |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| abstract [MaxPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase/maxpoint/) { get; } | Получает максимальную точку объекта. |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Получает метаданные элемента |
+| abstract [MinPoint](../../aspose.cad.fileformats.dgn.dgnelements/dgndrawableentitybase/minpoint/) { get; } | Получает минимальную точку объекта. |
+
+### См. также
+
+* class [DgnElementBase](../dgnelementbase/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
+

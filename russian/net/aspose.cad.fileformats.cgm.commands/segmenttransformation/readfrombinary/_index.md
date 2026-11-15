@@ -1,0 +1,26 @@
+---
+title: "SegmentTransformation.ReadFromBinary"
+linktitle: "ReadFromBinary"
+articleTitle: "ReadFromBinary"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Метод SegmentTransformation."
+type: docs
+weight: 30
+url: "/net/aspose.cad.fileformats.cgm.commands/segmenttransformation/readfrombinary/"
+product_version: "26.9"
+---
+## SegmentTransformation.ReadFromBinary method
+
+
+
+```csharp
+public override void ReadFromBinary(IBinaryReader reader)
+```
+
+### См. также
+
+* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
+* class [SegmentTransformation](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
+

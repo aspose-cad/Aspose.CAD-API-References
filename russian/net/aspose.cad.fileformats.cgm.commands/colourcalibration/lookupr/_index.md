@@ -1,0 +1,25 @@
+---
+title: "ColourCalibration.LookupR"
+linktitle: "LookupR"
+articleTitle: "LookupR"
+second_title: "Aspose.CAD для .NET справка API"
+description: "ColourCalibration свойство."
+type: docs
+weight: 280
+url: "/net/aspose.cad.fileformats.cgm.commands/colourcalibration/lookupr/"
+product_version: "26.9"
+---
+## ColourCalibration.LookupR property
+
+
+
+```csharp
+public List<Tuple<double, double>> LookupR { get; set; }
+```
+
+### См. также
+
+* class [ColourCalibration](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
+

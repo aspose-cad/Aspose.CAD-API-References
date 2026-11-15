@@ -1,0 +1,26 @@
+---
+title: "IfcSchedulingTime4.DataOrigin"
+linktitle: "DataOrigin"
+articleTitle: "DataOrigin"
+second_title: "Aspose.CAD для .NET справка API"
+description: "IfcSchedulingTime4 свойство."
+type: docs
+weight: 20
+url: "/net/aspose.cad.fileformats.ifc.ifc4.entities/ifcschedulingtime4/dataorigin/"
+product_version: "26.9"
+---
+## IfcSchedulingTime4.DataOrigin property
+
+
+
+```csharp
+public IfcDataOriginEnum4? DataOrigin { get; set; }
+```
+
+### См. также
+
+* enum [IfcDataOriginEnum4](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcdataoriginenum4/)
+* class [IfcSchedulingTime4](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
+* assembly [Aspose.CAD](../../../)
+

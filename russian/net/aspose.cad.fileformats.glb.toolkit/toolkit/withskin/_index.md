@@ -1,0 +1,27 @@
+---
+title: "Toolkit.WithSkin"
+linktitle: "WithSkin"
+articleTitle: "WithSkin"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Метод Toolkit."
+type: docs
+weight: 60
+url: "/net/aspose.cad.fileformats.glb.toolkit/toolkit/withskin/"
+product_version: "26.9"
+---
+## Toolkit.WithSkin method
+
+
+
+```csharp
+public static Node WithSkin(this Node node, Skin skin)
+```
+
+### См. также
+
+* class [Node](../../../aspose.cad.fileformats.glb/node/)
+* class [Skin](../../../aspose.cad.fileformats.glb/skin/)
+* class [Toolkit](../)
+* namespace [Aspose.CAD.FileFormats.GLB.ToolKit](../../../aspose.cad.fileformats.glb.toolkit/)
+* assembly [Aspose.CAD](../../../)
+

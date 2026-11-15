@@ -1,0 +1,25 @@
+---
+title: "CadAcshSphereClass.Minor"
+linktitle: "Minor"
+articleTitle: "Minor"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Свойство CadAcshSphereClass. Второстепенный"
+type: docs
+weight: 40
+url: "/net/aspose.cad.fileformats.cad.cadobjects/cadacshsphereclass/minor/"
+product_version: "26.9"
+---
+## CadAcshSphereClass.Minor property
+
+Вторичный
+
+```csharp
+public int Minor { get; set; }
+```
+
+### См. также
+
+* class [CadAcshSphereClass](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadObjects](../../../aspose.cad.fileformats.cad.cadobjects/)
+* assembly [Aspose.CAD](../../../)
+

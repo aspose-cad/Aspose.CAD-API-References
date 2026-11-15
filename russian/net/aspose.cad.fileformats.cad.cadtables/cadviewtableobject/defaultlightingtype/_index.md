@@ -1,0 +1,29 @@
+---
+title: "CadViewTableObject.DefaultLightingType"
+linktitle: "DefaultLightingType"
+articleTitle: "DefaultLightingType"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Свойство CadViewTableObject. Получает или задает тип освещения по умолчанию."
+type: docs
+weight: 290
+url: "/net/aspose.cad.fileformats.cad.cadtables/cadviewtableobject/defaultlightingtype/"
+product_version: "26.9"
+---
+## CadViewTableObject.DefaultLightingType property
+
+Получает или задает тип освещения по умолчанию.
+
+```csharp
+public byte DefaultLightingType { get; set; }
+```
+
+### Property Value
+
+Тип освещения по умолчанию.
+
+### См. также
+
+* class [CadViewTableObject](../)
+* namespace [Aspose.CAD.FileFormats.Cad.CadTables](../../../aspose.cad.fileformats.cad.cadtables/)
+* assembly [Aspose.CAD](../../../)
+

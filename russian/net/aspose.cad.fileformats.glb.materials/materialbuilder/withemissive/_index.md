@@ -1,0 +1,43 @@
+---
+title: "MaterialBuilder.WithEmissive"
+linktitle: "WithEmissive"
+articleTitle: "WithEmissive"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Метод MaterialBuilder."
+type: docs
+weight: 240
+url: "/net/aspose.cad.fileformats.glb.materials/materialbuilder/withemissive/"
+product_version: "26.9"
+---
+## WithEmissive(Vector3, float) {#withemissive}
+
+
+
+```csharp
+public MaterialBuilder WithEmissive(Vector3 rgb, float strength = 1.0)
+```
+
+### См. также
+
+* class [MaterialBuilder](../)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
+
+---
+
+## WithEmissive(ImageBuilder, Vector3?, float) {#withemissive_1}
+
+
+
+```csharp
+public MaterialBuilder WithEmissive(ImageBuilder imageFile, Vector3? rgb = default, 
+    float strength = 1.0)
+```
+
+### См. также
+
+* class [MaterialBuilder](../)
+* class [ImageBuilder](../../imagebuilder/)
+* namespace [Aspose.CAD.FileFormats.GLB.Materials](../../../aspose.cad.fileformats.glb.materials/)
+* assembly [Aspose.CAD](../../../)
+

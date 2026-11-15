@@ -1,0 +1,25 @@
+---
+title: "IfcDateTime4X3.IfcDateTime4X3"
+linktitle: "IfcDateTime4X3"
+articleTitle: "IfcDateTime4X3"
+second_title: "Aspose.CAD для .NET справка API"
+description: "IfcDateTime4X3 конструктор. Конструктор по умолчанию."
+type: docs
+weight: 10
+url: "/net/aspose.cad.fileformats.ifc.ifc4x3.types/ifcdatetime4x3/ifcdatetime4x3/"
+product_version: "26.9"
+---
+## IfcDateTime4X3 constructor
+
+Конструктор по умолчанию.
+
+```csharp
+public IfcDateTime4X3()
+```
+
+### См. также
+
+* class [IfcDateTime4X3](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4X3.Types](../../../aspose.cad.fileformats.ifc.ifc4x3.types/)
+* assembly [Aspose.CAD](../../../)
+

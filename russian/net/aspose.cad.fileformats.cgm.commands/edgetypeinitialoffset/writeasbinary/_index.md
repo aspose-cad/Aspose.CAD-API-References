@@ -1,0 +1,26 @@
+---
+title: "EdgeTypeInitialOffset.WriteAsBinary"
+linktitle: "WriteAsBinary"
+articleTitle: "WriteAsBinary"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Метод EdgeTypeInitialOffset."
+type: docs
+weight: 40
+url: "/net/aspose.cad.fileformats.cgm.commands/edgetypeinitialoffset/writeasbinary/"
+product_version: "26.9"
+---
+## EdgeTypeInitialOffset.WriteAsBinary method
+
+
+
+```csharp
+public override void WriteAsBinary(IBinaryWriter writer)
+```
+
+### См. также
+
+* interface [IBinaryWriter](../../../aspose.cad.fileformats.cgm/ibinarywriter/)
+* class [EdgeTypeInitialOffset](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
+
