@@ -1,0 +1,26 @@
+---
+title: "IfcRoofType4.PredefinedType"
+linktitle: "ПредопределённыйТип"
+articleTitle: "ПредопределённыйТип"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Свойство IfcRoofType4."
+type: docs
+weight: 20
+url: "/net/aspose.cad.fileformats.ifc.ifc4.entities/ifcrooftype4/predefinedtype/"
+product_version: "26.9"
+---
+## IfcRoofType4.PredefinedType property
+
+
+
+```csharp
+public IfcRoofTypeEnum4? PredefinedType { get; set; }
+```
+
+### См. также
+
+* enum [IfcRoofTypeEnum4](../../../aspose.cad.fileformats.ifc.ifc4.types/ifcrooftypeenum4/)
+* class [IfcRoofType4](../)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4.Entities](../../../aspose.cad.fileformats.ifc.ifc4.entities/)
+* assembly [Aspose.CAD](../../../)
+

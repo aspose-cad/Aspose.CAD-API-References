@@ -1,0 +1,34 @@
+---
+title: "DgnElementBase Класс"
+linktitle: "DgnElementBase"
+articleTitle: "DgnElementBase"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Aspose.CAD.FileFormats.Dgn.DgnElements.DgnElementBase класс. Представляет базовый класс для всех элементов"
+type: docs
+weight: 150
+url: "/net/aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/"
+keywords: "DgnElementBase, Aspose.CAD.FileFormats.Dgn.DgnElements, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
+---
+## DgnElementBase class
+
+Представляет базовый класс для всех элементов
+
+```csharp
+public abstract class DgnElementBase : IDrawingEntity
+```
+
+## Свойства
+
+| Имя | Описание |
+| --- | --- |
+| virtual [Childs](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/childs/) { get; } |  |
+| virtual [Id](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/id/) { get; } |  |
+| [Metadata](../../aspose.cad.fileformats.dgn.dgnelements/dgnelementbase/metadata/) { get; } | Получает метаданные элемента |
+
+### См. также
+
+* interface [IDrawingEntity](../../aspose.cad/idrawingentity/)
+* namespace [Aspose.CAD.FileFormats.Dgn.DgnElements](../../aspose.cad.fileformats.dgn.dgnelements/)
+* assembly [Aspose.CAD](../../)
+

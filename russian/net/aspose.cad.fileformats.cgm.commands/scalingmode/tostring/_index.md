@@ -1,0 +1,25 @@
+---
+title: "ScalingMode.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Метод ScalingMode."
+type: docs
+weight: 60
+url: "/net/aspose.cad.fileformats.cgm.commands/scalingmode/tostring/"
+product_version: "26.9"
+---
+## ScalingMode.ToString method
+
+
+
+```csharp
+public override string ToString()
+```
+
+### См. также
+
+* class [ScalingMode](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
+

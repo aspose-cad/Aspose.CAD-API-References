@@ -1,0 +1,54 @@
+---
+title: "IfcStructuralLoadSingleDisplacement4X3 Класс"
+linktitle: "IfcStructuralLoadSingleDisplacement4X3"
+articleTitle: "IfcStructuralLoadSingleDisplacement4X3"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Aspose.CAD.FileFormats.Ifc.IFC4X3.Entities.IfcStructuralLoadSingleDisplacement4X3 класс. IfcStructuralLoadSingleDisplacement"
+type: docs
+weight: 7360
+url: "/net/aspose.cad.fileformats.ifc.ifc4x3.entities/ifcstructuralloadsingledisplacement4x3/"
+keywords: "IfcStructuralLoadSingleDisplacement4X3, Aspose.CAD.FileFormats.Ifc.IFC4X3.Entities, Aspose.CAD for .NET, Aspose.CAD API Reference"
+product_version: "26.9"
+---
+## IfcStructuralLoadSingleDisplacement4X3 class
+
+IfcStructuralLoadSingleDisplacement
+
+```csharp
+public class IfcStructuralLoadSingleDisplacement4X3 : IfcStructuralLoadStatic4X3
+```
+
+## Конструкторы
+
+| Имя | Описание |
+| --- | --- |
+| [IfcStructuralLoadSingleDisplacement4X3](ifcstructuralloadsingledisplacement4x3/)() | Конструктор по умолчанию. |
+
+## Свойства
+
+| Имя | Описание |
+| --- | --- |
+| [Childs](../../aspose.cad.fileformats.ifc/ifcentitybase/childs/) { get; } |  |
+| [DisplacementX](../../aspose.cad.fileformats.ifc.ifc4x3.entities/ifcstructuralloadsingledisplacement4x3/displacementx/) { get; set; } |  |
+| [DisplacementY](../../aspose.cad.fileformats.ifc.ifc4x3.entities/ifcstructuralloadsingledisplacement4x3/displacementy/) { get; set; } |  |
+| [DisplacementZ](../../aspose.cad.fileformats.ifc.ifc4x3.entities/ifcstructuralloadsingledisplacement4x3/displacementz/) { get; set; } |  |
+| [EntityLabel](../../aspose.cad.fileformats.ifc/ifcentitybase/entitylabel/) { get; } | Получает метку сущности. Каждая сущность имеет свою метку, которая уникальна и представляет её в файле |
+| [Id](../../aspose.cad.fileformats.ifc/ifcentitybase/id/) { get; } |  |
+| [Name](../../aspose.cad.fileformats.ifc.ifc4x3.entities/ifcstructuralload4x3/name/) { get; set; } |  |
+| [RotationalDisplacementRX](../../aspose.cad.fileformats.ifc.ifc4x3.entities/ifcstructuralloadsingledisplacement4x3/rotationaldisplacementrx/) { get; set; } |  |
+| [RotationalDisplacementRY](../../aspose.cad.fileformats.ifc.ifc4x3.entities/ifcstructuralloadsingledisplacement4x3/rotationaldisplacementry/) { get; set; } |  |
+| [RotationalDisplacementRZ](../../aspose.cad.fileformats.ifc.ifc4x3.entities/ifcstructuralloadsingledisplacement4x3/rotationaldisplacementrz/) { get; set; } |  |
+
+## Методы
+
+| Имя | Описание |
+| --- | --- |
+| override [Equals](../../aspose.cad.fileformats.ifc/ifcentitybase/equals/)(object) | Определяет, равен ли указанный объект этому экземпляру. |
+| override [GetHashCode](../../aspose.cad.fileformats.ifc/ifcentitybase/gethashcode/)() | Возвращает хеш-код для этого экземпляра. |
+
+### См. также
+
+* class [IfcStructuralLoadStatic4X3](../ifcstructuralloadstatic4x3/)
+* namespace [Aspose.CAD.FileFormats.Ifc.IFC4X3.Entities](../../aspose.cad.fileformats.ifc.ifc4x3.entities/)
+* assembly [Aspose.CAD](../../)
+

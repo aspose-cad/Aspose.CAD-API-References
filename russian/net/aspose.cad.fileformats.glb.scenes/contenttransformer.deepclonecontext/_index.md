@@ -1,0 +1,31 @@
+---
+title: "Структура ContentTransformer.DeepCloneContext"
+linktitle: "ContentTransformer.DeepCloneContext"
+articleTitle: "ContentTransformer.DeepCloneContext"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Структура Aspose.CAD.FileFormats.GLB.Scenes.ContentTransformer.DeepCloneContext."
+type: docs
+weight: 60
+url: "/net/aspose.cad.fileformats.glb.scenes/contenttransformer.deepclonecontext/"
+product_version: "26.9"
+---
+## ContentTransformer.DeepCloneContext struct
+
+
+
+```csharp
+public struct DeepCloneContext
+```
+
+## Методы
+
+| Имя | Описание |
+| --- | --- |
+| GetNode(NodeBuilder) |  |
+
+### См. также
+
+* class [ContentTransformer](../contenttransformer/)
+* namespace [Aspose.CAD.FileFormats.GLB.Scenes](../../aspose.cad.fileformats.glb.scenes/)
+* assembly [Aspose.CAD](../../)
+

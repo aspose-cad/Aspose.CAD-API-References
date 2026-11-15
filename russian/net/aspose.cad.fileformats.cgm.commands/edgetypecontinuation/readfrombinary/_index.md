@@ -1,0 +1,26 @@
+---
+title: "EdgeTypeContinuation.ReadFromBinary"
+linktitle: "ReadFromBinary"
+articleTitle: "ReadFromBinary"
+second_title: "Aspose.CAD для .NET справка API"
+description: "Метод EdgeTypeContinuation."
+type: docs
+weight: 30
+url: "/net/aspose.cad.fileformats.cgm.commands/edgetypecontinuation/readfrombinary/"
+product_version: "26.9"
+---
+## EdgeTypeContinuation.ReadFromBinary method
+
+
+
+```csharp
+public override void ReadFromBinary(IBinaryReader reader)
+```
+
+### См. также
+
+* interface [IBinaryReader](../../../aspose.cad.fileformats.cgm/ibinaryreader/)
+* class [EdgeTypeContinuation](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
+

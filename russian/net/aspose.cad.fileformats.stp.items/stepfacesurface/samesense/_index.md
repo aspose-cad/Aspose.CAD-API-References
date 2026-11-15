@@ -1,0 +1,25 @@
+---
+title: "StepFaceSurface.SameSense"
+linktitle: "SameSense"
+articleTitle: "SameSense"
+second_title: "Aspose.CAD для .NET справка API"
+description: "StepFaceSurface свойство."
+type: docs
+weight: 30
+url: "/net/aspose.cad.fileformats.stp.items/stepfacesurface/samesense/"
+product_version: "26.9"
+---
+## StepFaceSurface.SameSense property
+
+
+
+```csharp
+public bool SameSense { get; set; }
+```
+
+### См. также
+
+* class [StepFaceSurface](../)
+* namespace [Aspose.CAD.FileFormats.Stp.Items](../../../aspose.cad.fileformats.stp.items/)
+* assembly [Aspose.CAD](../../../)
+

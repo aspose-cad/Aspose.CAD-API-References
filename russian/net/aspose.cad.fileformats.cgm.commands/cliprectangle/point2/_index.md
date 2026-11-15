@@ -1,0 +1,26 @@
+---
+title: "ClipRectangle.Point2"
+linktitle: "Point2"
+articleTitle: "Point2"
+second_title: "Aspose.CAD для .NET справка API"
+description: "ClipRectangle свойство."
+type: docs
+weight: 80
+url: "/net/aspose.cad.fileformats.cgm.commands/cliprectangle/point2/"
+product_version: "26.9"
+---
+## ClipRectangle.Point2 property
+
+
+
+```csharp
+public CgmPoint Point2 { get; set; }
+```
+
+### См. также
+
+* class [CgmPoint](../../../aspose.cad.fileformats.cgm.classes/cgmpoint/)
+* class [ClipRectangle](../)
+* namespace [Aspose.CAD.FileFormats.Cgm.Commands](../../../aspose.cad.fileformats.cgm.commands/)
+* assembly [Aspose.CAD](../../../)
+
